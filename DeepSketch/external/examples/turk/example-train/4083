@@ -1,0 +1,14 @@
+// example 
+"",+
+"p",+
+"cB?a>K",+
+";-~",+
+"+|-kb|@:K",+
+"9-.6",+
+"Atk/Aq>",+
+".'",+
+"cRiYN<iI",+
+"7teYR",+
+
+// ground truth 
+contain(star(concat(<let>,<vow>)))

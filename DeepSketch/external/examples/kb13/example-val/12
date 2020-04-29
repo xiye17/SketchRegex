@@ -1,0 +1,25 @@
+// example 
+"]",-
+"-.E\GPM",+
+"lG_U",-
+"ufd1",+
+"s_`Ena",+
+"lG_j",-
+"Mj\Nm",-
+"ufEz",+
+")y*",-
+"M`SNb",+
+"",-
+")yk",-
+"-.E\GPs",+
+"uOj",+
+"6",-
+"uOY",+
+"s_`EnN",+
+"]8",-
+"Mj\N=",-
+"M`SNI",+
+"]|",-
+
+// ground truth 
+contain(repeat(<let>,3))

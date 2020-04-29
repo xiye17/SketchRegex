@@ -1,0 +1,15 @@
+// example 
+"fQXff*q",+
+"{tsV6]aZ?m",+
+"srG",+
+"(Ku*]",+
+"L",+
+"BV815R}!",+
+"Dx7c",+
+"W*`+u&",+
+"Q1",+
+"0bN\EWAh1",+
+"",-
+
+// ground truth 
+contain(or(<m0>,endwith(<any>)))

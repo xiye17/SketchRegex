@@ -1,0 +1,24 @@
+// example 
+"cgd"%",-
+"n0n8x5k3t4e5",+
+"w6i3c0l6i6l2r9m2z8",+
+"DI^]",-
+"b1e4q0l7r8z4v2",+
+"Qjj",-
+"c)L;r",-
+"Xz",-
+"r2e1k7m6m8k4j9d0",+
+"a3j4x3g8c5",+
+"",-
+"|",-
+"{30",-
+"l8q0",+
+"=",-
+"}%+D",-
+"p7x3k2",+
+"k2k1b2r6l4s8y7f4i0k1",+
+"k3v8n1f4",+
+"|(",-
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),2)

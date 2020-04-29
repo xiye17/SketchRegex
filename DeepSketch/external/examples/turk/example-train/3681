@@ -1,0 +1,16 @@
+// example 
+"d+",-
+"n6%Xj",-
+"4Qn",-
+"n{-Rf",-
+"#9",+
+"d?",-
+"P!b5",-
+"#R",+
+"m",-
+"P<Xa",-
+"",-
+"4:n",-
+
+// ground truth 
+concat(<any>,or(<num>,<cap>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"BGy;>e",+
+":",+
+"[8",+
+"VS@-TUbT]",+
+"A~&y;",+
+"GD\>",+
+"xQ&5.PZ",+
+"%S:8WB/|",+
+"kk?",+
+
+// ground truth 
+endwith(star(<cap>))

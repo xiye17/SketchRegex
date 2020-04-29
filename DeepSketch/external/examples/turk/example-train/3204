@@ -1,0 +1,26 @@
+// example 
+"!{xiS\UJDZ",+
+"Rt,>O02.W5o",+
+"!|=B8x<-",+
+"!O",-
+"!D&S+",-
+"F6N,SK?SK9",+
+"!",-
+"9+5']",-
+"!z",+
+"#",-
+"",-
+"!krS",-
+"33t",-
+"!nc",-
+"\f",-
+"-vM@",-
+"!~qF{2bX~",+
+"!|(SIQ}_5hx",+
+"!Y3xyLS",+
+"%D0h<@W",+
+"!4-M.wU|A",+
+"+Fi/HgDF",+
+
+// ground truth 
+or(repeatatleast(<any>,7),concat(<m0>,<low>))

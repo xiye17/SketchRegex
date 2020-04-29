@@ -1,0 +1,17 @@
+// example 
+"aH",+
+"'Bi",-
+",[",-
+"'6t;(",-
+"",-
+"Mj",+
+"|",-
+"9",-
+"[(_LL",-
+"W_sH",-
+"|b",-
+"3}c;",-
+"A7y",-
+
+// ground truth 
+concat(or(<vow>,<let>),<any>)

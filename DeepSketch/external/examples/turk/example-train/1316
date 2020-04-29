@@ -1,0 +1,26 @@
+// example 
+"fEqAk'",+
+"!Y}w",-
+"!!!",+
+"lg!!",+
+"M:",-
+"!!!ob",+
+"<Myr>",-
+"!",+
+"",-
+"kSm",-
+"g",-
+"|$",-
+"bF",+
+"!i6",+
+"|",-
+"lgo*",+
+"fEqA!!",+
+"~uaF",-
+"!!!!!",+
+"!!",+
+"kS~",-
+"}2Ce9",-
+
+// ground truth 
+repeatatleast(or(concat(<low>,<any>),<m0>),1)

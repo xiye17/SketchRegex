@@ -1,0 +1,26 @@
+// example 
+"UYA",+
+"K:DCY",+
+"JJ(",-
+"KZYA_",+
+"RA5QS",-
+"#;,=DPY",+
+"CY>uyOVX",+
+"RA5Qn",-
+"*\kXKR",+
+"k",-
+"",-
+">[>W",-
+"*\CFCM",+
+"CY>uSDPW",+
+"`TRP",+
+"JJ]",-
+">[>(",-
+"C?",-
+"MFG%",+
+"B",-
+"#;,NSFe",+
+"Ck",-
+
+// ground truth 
+contain(repeatatleast(<cap>,3))

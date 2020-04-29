@@ -1,0 +1,14 @@
+// example 
+"",+
+"gs88E*,",+
+"[46",+
+"R_",+
+"UKW?yDG9h",+
+"'o4;wM",+
+")S!O4n5K",+
+"(",+
+"-6e)",+
+"Zlw^:",+
+
+// ground truth 
+not(and(<m0>,or(or(<cap>,<m1>),<m2>)))

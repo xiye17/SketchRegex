@@ -1,0 +1,25 @@
+// example 
+"{ki",-
+"e(j!",+
+"|.",-
+"w$+/{eQ9",+
+"Y",-
+"KUW7f",-
+"?C+",-
+"uvDVVC",+
+"{!E"",-
+"bS@J;~^",+
+"",-
+"(T7m",-
+"wP",+
+"}",-
+"~}lcP",-
+"c&k",+
+"fhE:!]NoJo",+
+"b>BpfA,[B",+
+"o4%4g",+
+"x",+
+"@R",-
+
+// ground truth 
+and(startwith(<low>),not(<m0>))

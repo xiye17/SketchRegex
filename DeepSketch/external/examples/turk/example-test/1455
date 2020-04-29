@@ -1,0 +1,25 @@
+// example 
+"fD",+
+"lOc",+
+"euPUlg",+
+"g|",-
+"ft",+
+"lOG",+
+"IB7",-
+"TG%7x",-
+"J`",-
+"V",-
+"{y2",-
+"oJVnk",+
+"",-
+"{%w*",-
+"j",-
+"pyxq",+
+"oJVnI",+
+"}G&O]",-
+"pyxJ",+
+"euPUlY",+
+"O|n5",-
+
+// ground truth 
+concat(and(<low>,<any>),repeatatleast(<let>,1))

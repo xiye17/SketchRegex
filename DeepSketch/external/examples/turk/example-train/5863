@@ -1,0 +1,26 @@
+// example 
+"~klCpX*n",+
+"b/nyb",-
+"|q8jg0s7dC",+
+"Sq3>Irw&6V",+
+"*h",-
+"W~dv",-
+"T#$@('L<",+
+"z.e",-
+"",-
+"&",-
+"Z"^s$E#pz",+
+"}",-
+"{`&oFtq",+
+"e",+
+"}A",-
+"m2Cf",-
+"#5-Wj",-
+"nbry;H,3)",+
+"2`j)z[r",+
+"=r&c#}4T62*",+
+"{00-8b,<^1"",+
+"|7(",-
+
+// ground truth 
+or(repeatatleast(<any>,7),<low>)

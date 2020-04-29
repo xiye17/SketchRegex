@@ -1,0 +1,24 @@
+// example 
+"ZY",-
+";f!B",-
+"W2>o&PclHL",+
+"Q6e\",+
+"!v",-
+"NN[`",-
+"S3Z_Vh",+
+"G9\Yrj|v",+
+"",+
+"]`_",-
+"C3>CHfV@~",+
+"E2P",+
+"S",-
+"*Za-$",-
+"Ii,",-
+"s3,u[",-
+"U8w:F",+
+"z",-
+"R1",+
+"P9]t1uF",+
+
+// ground truth 
+star(startwith(concat(<cap>,<num>)))

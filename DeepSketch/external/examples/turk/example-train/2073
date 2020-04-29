@@ -1,0 +1,17 @@
+// example 
+">M",-
+"Bu~N",-
+"Ma.",+
+"#",-
+"",-
+"6P6",-
+"f",-
+"Me-",+
+"h&",-
+"/rSVA",-
+"LoxK|",-
+"{7s",-
+"*Af~",-
+
+// ground truth 
+concat(concat(<cap>,<vow>),<any>)

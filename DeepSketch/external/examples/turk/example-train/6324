@@ -1,0 +1,17 @@
+// example 
+"h.<Q&",+
+"BW",+
+"Uw?h",+
+"aD",-
+"o",+
+"U(y2",+
+"ID",-
+"",+
+"OTqgd",+
+"O",+
+"I#P",+
+"bYT",+
+"Ai",+
+
+// ground truth 
+not(concat(<vow>,<cap>))

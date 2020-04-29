@@ -1,0 +1,16 @@
+// example 
+"@C:~n",-
+"m)au",-
+"=RW",-
+"2V",+
+"z]",-
+"2o",+
+"z|",-
+">",-
+"@[YPe",-
+"",-
+"=!D",-
+"m{XH",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<any>),<let>)

@@ -1,0 +1,25 @@
+// example 
+"!uwmlK",+
+"<'|0;",-
+"oa",-
+"!5",+
+"!@}",+
+">[W1"9",-
+"!B",+
+"!",+
+"!ZxN~",+
+"uN`",-
+"h.uPfnyZ",-
+"",-
+"!hFe",+
+"!!pc",+
+"!@",-
+"D_AT",-
+"!;fkK",+
+"!me",+
+"x",-
+"W$!9l2,",-
+"!@to%S",+
+
+// ground truth 
+concat(repeatatleast(<m0>,1),not(<m1>))

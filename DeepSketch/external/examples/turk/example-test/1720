@@ -1,0 +1,25 @@
+// example 
+"Ehu6i",-
+"G",-
+"EXf!_",-
+"GQHG",+
+"TKZYIP",+
+"(Gm",-
+"GYZKE",+
+"nOJT",+
+"pEO",+
+"<q",-
+"XeT",-
+"iEBDAXZ",+
+"",-
+"sMERAC",+
+"i",-
+"~^[4",-
+"R#'*",-
+"eSGGU",+
+"MSWDDAH",+
+"_t",-
+"IYC",+
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,2))

@@ -1,0 +1,26 @@
+// example 
+"*w/",-
+"MOnRg",-
+"d!XTS",+
+"LDq!",+
+"U!C/",-
+"ZO!",+
+"c!s!L!",+
+"d!XT!",+
+"!",-
+"LDE!",+
+"XB",+
+"",-
+"c!s!g!",+
+"}",-
+"]t",-
+"j!I",+
+"I",+
+"X!",+
+"_"m",-
+".@7H",-
+"M{RY3",-
+"fM",-
+
+// ground truth 
+repeatatleast(or(concat(<let>,<m0>),<cap>),1)

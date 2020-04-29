@@ -1,0 +1,14 @@
+// example 
+"",+
+"q",+
+"KYBCmdt",+
+":~K",+
+"hOMA]Eo&r",+
+"/z",+
+"U>DK#",+
+"}*Xk",+
+"Hz|oaW",+
+""Ml8H=<#",+
+
+// ground truth 
+not(and(and(<low>,<vow>),<num>))

@@ -1,0 +1,15 @@
+// example 
+">F-",+
+"l9c]yeNe",+
+"h",+
+"M+<T|",+
+"7|i-5#5S"^",+
+"|D9h=2",+
+"wW(1",+
+"#[",+
+"1N(t6}eF]",+
+"sVtts}A",+
+"",-
+
+// ground truth 
+endwith(or(repeatatleast(<any>,1),<num>))

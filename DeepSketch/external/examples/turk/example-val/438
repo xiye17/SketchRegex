@@ -1,0 +1,17 @@
+// example 
+"0",-
+"lg",-
+"kR,",-
+"lu0;E",-
+"va6",+
+"l+",-
+"m",-
+"",-
+"vE9",+
+"7=,k",-
+"|:>Xi",-
+"~-=",-
+"ccz^",-
+
+// ground truth 
+concat(concat(<low>,<vow>),<num>)

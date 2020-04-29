@@ -1,0 +1,24 @@
+// example 
+"!2,N,",+
+"pJfzO59y",-
+"!4<{k6",+
+"N-+pE{'<#",-
+"!",+
+"-",-
+"5t%ak+C",-
+"!Z5fbDZC",+
+"",-
+"!&pZ",+
+"!"O9DpuyDQ",+
+"qXj",-
+">ow~",-
+"G\h2D"",-
+"!<",+
+"M!>.`",-
+"!<<4T~'8_",+
+"<%",-
+"!}cA\n|",+
+"!^_",+
+
+// ground truth 
+startwith(repeatatleast(<m0>,1))

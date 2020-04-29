@@ -1,0 +1,16 @@
+// example 
+"f",-
+""'no",-
+"Hg2t}",-
+"/",-
+")H",-
+"?/L",-
+">c-8Q",-
+"Z"yr",-
+"F_",+
+"rZ=",-
+"",-
+"sS",-
+
+// ground truth 
+concat(<cap>,<any>)

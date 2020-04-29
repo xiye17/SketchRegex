@@ -1,0 +1,25 @@
+// example 
+"XUFGPBJd",+
+"p>"P=",-
+"PJNPMc",+
+"z@",-
+"IGRVIGPDRURUq",+
+"KMPYLHn",+
+"SFVRTSFSPQJo",+
+"QMPFPZEPx",+
+"ZIZUARIOHv",+
+"YQDCWIRGOCk",+
+"7dIT?",-
+"(",-
+"",-
+"W3N",-
+"@/",-
+"AOYKk",+
+"y",-
+"W}j",-
+"F3gF",-
+"ARMPXINYMGOWNx",+
+"Fmy1",-
+
+// ground truth 
+concat(repeatatleast(<cap>,4),<low>)

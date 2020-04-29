@@ -1,0 +1,25 @@
+// example 
+"G",-
+"Yw",-
+"Xa%p",-
+"OEa",+
+"o",+
+"U",+
+"c.J",-
+"",-
+"e-,/^",-
+"b",-
+"u_m8E",-
+"OEA",+
+"EUAUA",+
+"i:",-
+"XTIU",+
+"Aa",+
+"EUAUu",+
+"XOAd",-
+"exE",-
+"Ae",+
+"XTIa",+
+
+// ground truth 
+concat(star(<cap>),<vow>)

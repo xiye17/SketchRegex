@@ -1,0 +1,26 @@
+// example 
+">z",+
+"labfx",+
+"a|{",+
+"}nexbupn",-
+"|{[nmewyzf",-
+"a|h",+
+"~}e#dzovamc",-
+"a:,R",+
+"",+
+"frldkpd"",-
+"|{|vneoefn",-
+"slfphok5=",-
+"dfyhdco",-
+">>",+
+"sEpywbksd",-
+"O",+
+"a:,~",+
+"labf}",+
+"~}e|zyjpgha",-
+"ugz]ntaytpr=",-
+"|",+
+"ugz]{wnnsofk",-
+
+// ground truth 
+not(contain(repeatatleast(<low>,7)))

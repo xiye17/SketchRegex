@@ -1,0 +1,26 @@
+// example 
+"!BK^~",-
+"!b",-
+"bV!w",-
+"z!D!",+
+"H\!TT",-
+"!",-
+"",-
+"%",-
+"l!!Cie9",+
+"Z!",-
+"!G!",+
+"z^!!",+
+"{!/a!",+
+"l!MCJ!;",+
+"!qM",-
+"!!",+
+"{!/!]",+
+"bV[!",-
+"fI_",-
+"!!j",+
+"tZ}X!!",+
+"tZ}!.!",+
+
+// ground truth 
+contain(repeat(contain(concat(star(<let>),<m0>)),2))

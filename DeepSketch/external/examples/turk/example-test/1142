@@ -1,0 +1,16 @@
+// example 
+"^ePs",-
+"*EB",-
+"JE7#l",-
+"?F",-
+"?D",-
+"*AJ",-
+"^T~R",-
+"ku",+
+"Ja1DM",-
+"ka",+
+"(",-
+"",-
+
+// ground truth 
+concat(or(or(<num>,<let>),<any>),<vow>)

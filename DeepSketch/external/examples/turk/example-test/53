@@ -1,0 +1,25 @@
+// example 
+"L;+o@",-
+"./",-
+"ULSWZEXAJIE",+
+"KIARVRJi",+
+"L}P",-
+"ULSWZEXAJIU",+
+"MKYZEGFUBI",+
+"",-
+"dFL",-
+"AGMYCOBKa",+
+"|ZO2",-
+"MKYZEGFUBA",+
+"j",-
+"u$",-
+"R",-
+"Llgg>",-
+"AGMYCOBKi",+
+"GBLGDGPEIDIe",+
+"KIARVRJu",+
+"GBLGDGPEIDIi",+
+"XZ,-",-
+
+// ground truth 
+concat(repeatatleast(<cap>,7),<vow>)

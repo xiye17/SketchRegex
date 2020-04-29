@@ -1,0 +1,14 @@
+// example 
+"",+
+""G+",+
+"+X",+
+"*`.3",+
+"YbbJ:S",+
+"[uWuVz]&Q",+
+"r:_EXCo",+
+"_c749m8+",+
+"HcETV",+
+"^",+
+
+// ground truth 
+not(and(and(<vow>,<low>),<num>))

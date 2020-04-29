@@ -1,0 +1,25 @@
+// example 
+"d+",-
+"uIYmX!",+
+"c|vz+",-
+"iEOm!",+
+"o!2",-
+"i@!!",+
+"uE",-
+"oB:",-
+"u_t_",-
+"eSKp1",-
+"k",-
+"",-
+"}",-
+"fyQ?",-
+"i@Z!",+
+"a!",+
+"a(!",+
+"a!!",+
+"i!",+
+"iEO!!",+
+"uIYm!!",+
+
+// ground truth 
+concat(and(<low>,<vow>),endwith(<m0>))

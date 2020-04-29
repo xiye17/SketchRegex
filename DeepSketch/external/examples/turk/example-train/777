@@ -1,0 +1,17 @@
+// example 
+"[",-
+"u.)z^",-
+"o:",-
+"",-
+"U8V",-
+"eB",+
+"Uye",-
+"C3PT",-
+"g#{r",-
+"ol",-
+"uQ",+
+"uM/}@",-
+"B",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<num>),<cap>)

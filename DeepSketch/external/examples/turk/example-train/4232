@@ -1,0 +1,16 @@
+// example 
+"$",-
+"jX0^",-
+"cd",-
+"|eyqv",-
+"jX!a",-
+"t?j",-
+"zC!",+
+"\L",-
+"cX7I8",-
+"{",-
+"{4F",-
+"",-
+
+// ground truth 
+concat(<low>,concat(<cap>,<m0>))

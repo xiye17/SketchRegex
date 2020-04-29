@@ -1,0 +1,25 @@
+// example 
+"AOoi",-
+"r",+
+"OEp:!",+
+"u",-
+"o",-
+"oe",-
+"oI",-
+"OOUAO",-
+"o{Fr",+
+"eT",+
+"!",+
+"EEe",-
+"B!Nw)",+
+"oaj:",+
+"",+
+"AOou",-
+":8",+
+"EEU",-
+"iOn",+
+"iWb",+
+"OOUAU",-
+
+// ground truth 
+not(repeatatleast(<vow>,1))

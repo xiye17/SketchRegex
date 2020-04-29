@@ -1,0 +1,16 @@
+// example 
+"1FW",-
+"Cz^jw",-
+"Z",-
+"1{1",-
+"0fROs",-
+"8ur!",-
+"4o<",+
+",h",-
+"-",-
+"",-
+"6~",-
+"8WgY",-
+
+// ground truth 
+concat(<num>,concat(<low>,<any>))

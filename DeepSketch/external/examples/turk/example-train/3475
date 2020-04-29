@@ -1,0 +1,14 @@
+// example 
+"",+
+"K4@(",+
+"7OM70",+
+"\}SATopo",+
+"f8*;+I8aX",+
+"rgS",+
+"*qquKr@",+
+";8",+
+"b&6C6D",+
+"\",+
+
+// ground truth 
+not(and(and(<num>,<cap>),<vow>))

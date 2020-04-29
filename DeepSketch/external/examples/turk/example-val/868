@@ -1,0 +1,25 @@
+// example 
+"QXRWSMJC",+
+"SVILFQGMISKCX",+
+"SBWOPTUXW",+
+"o",-
+"ADMRAZOUTMA",+
+"J6",-
+"HVUAFCALJSKNOO",+
+"PJHMAUVGIQ",+
+"",-
+"JDKJMYZMCSEP",+
+"GGGTQRUQOYBZGHEV",+
+"5r]",-
+"U!M",-
+"KW1O",-
+"/P1Bs",-
+"EIZJMMVTQWTVBEV",+
+"Jr",-
+"S",-
+"bXG+R",-
+"K$[M",-
+"ICGYUMK",+
+
+// ground truth 
+repeatatleast(or(and(and(<vow>,<m1>),<m0>),<cap>),7)

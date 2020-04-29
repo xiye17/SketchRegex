@@ -1,0 +1,14 @@
+// example 
+"",+
+"z`ar"N!AE",+
+"y1\",+
+"AWH1*d",+
+"`c",+
+"(",+
+"9:0;RP>",+
+"4EU6",+
+"ZZz'~",+
+"QHW~Rv=x",+
+
+// ground truth 
+startwith(or(not(<any>),<cap>))

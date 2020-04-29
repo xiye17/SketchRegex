@@ -1,0 +1,16 @@
+// example 
+"",+
+"/",+
+"d<"6",+
+"r",+
+"lg",+
+"{T<p5",+
+"|HF'",+
+"mL",-
+"UOC1A",+
+"Xcg",+
+"}MT",+
+"l?",+
+
+// ground truth 
+not(concat(<low>,<cap>))

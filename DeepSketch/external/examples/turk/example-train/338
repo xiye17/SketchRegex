@@ -1,0 +1,17 @@
+// example 
+"~F?",-
+"/GG",-
+"q",-
+"W9`=",-
+"g!e",+
+"",-
+"~C",-
+"dn",-
+"g!o",+
+"7",-
+"f!O|[",-
+"s!dp",-
+"f!hNE",-
+
+// ground truth 
+concat(concat(<low>,<m0>),<vow>)

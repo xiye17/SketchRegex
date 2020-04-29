@@ -1,0 +1,25 @@
+// example 
+"U[(~*",-
+"ipnZwnGRY",+
+"a1",-
+"EuVbtISNgP",+
+"eKLgYfpU",+
+"URe|(",-
+"V",-
+"aM",-
+"USmnteJnmwi",+
+"ipnZwnGRo",+
+"",-
+"EuVbtISNga",+
+"errdfnJuVsHE",+
+"I@g",-
+"aAzZ",-
+"errdfnJuVsHw",+
+"eKLgYfpx",+
+"USmnteJnmwM",+
+"h&9n",-
+"O",-
+"IP<",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<let>,7))

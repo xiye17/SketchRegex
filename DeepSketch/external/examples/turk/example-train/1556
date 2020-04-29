@@ -1,0 +1,25 @@
+// example 
+"vUtn",-
+"YiHE",+
+"vRG"O",+
+"YiHu",+
+"oIC^Z",-
+"",-
+"c",-
+"IE|",-
+"nu",+
+"nI",+
+"e",+
+"ZUi",+
+"vUtK",-
+"qG",-
+"oIC^b",-
+"vRG"I",+
+"IE\",-
+"w",-
+"qW",-
+"A",+
+"ZUa",+
+
+// ground truth 
+or(concat(<low>,<m0>),endwith(<vow>))

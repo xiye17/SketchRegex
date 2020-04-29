@@ -1,0 +1,14 @@
+// example 
+"",+
+"?y>Wz@"~$",+
+">T\N19",+
+"5",+
+"]"",+
+"F>Yk",+
+"bl7",+
+"k(<'Y",+
+"Ca2TVmL",+
+";2-l0Z[I",+
+
+// ground truth 
+or(repeatatleast(<any>,1),not(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"]b}#6",-
+"+Ok",+
+"^|`mf",+
+"aF",+
+"[$Dt",+
+"{{}|",-
+"+OC",+
+"~_^m|r",+
+"G~",-
+"",-
+"}+}",-
+"[$DA",+
+"|",-
+"^|`mA",+
+"N",-
+"{{}B",-
+"au",+
+"G\",-
+"}+]",-
+"]b}#`",-
+"~_^m|H",+
+
+// ground truth 
+repeatrange(concat(star(notcc(<let>)),concat(concat(<let>,star(<let>)),star(notcc(<let>)))),2,7)

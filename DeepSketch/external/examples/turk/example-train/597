@@ -1,0 +1,25 @@
+// example 
+"qaGy-yE0r",-
+"rh!Ku?$",+
+"dds.",-
+"bC3",-
+"'J;!",+
+"rh*n!{)",+
+"0t]\!F",+
+"9!MiK",+
+"'J!s",+
+"^!B",+
+"9%Oi!",+
+"",-
+"^W!",+
+"0!uYlT",+
+"oy",-
+"h",-
+":I=y"?",-
+"k~MyirB",-
+"P,9/e[Oj",-
+"i!",+
+"PNY7}",-
+
+// ground truth 
+concat(or(<vow>,<any>),contain(<m0>))

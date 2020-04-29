@@ -1,0 +1,26 @@
+// example 
+"t}7':",-
+"?pUH",+
+"+",-
+"l",-
+"yd7y",-
+"G9",+
+"$[#",-
+"oO~XHd-",+
+"",-
+"BhBWFQN",+
+"Vp`",+
+"#w>D&",+
+"!NNhs~",+
+"S-k#!",+
+"`R;",+
+"!pD:pN",+
+"b#",-
+"bO",-
+"$[C",-
+"yd7(",-
+"t}7'I",-
+"Sc8j",+
+
+// ground truth 
+contain(concat(<cap>,<any>))

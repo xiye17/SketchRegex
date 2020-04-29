@@ -1,0 +1,25 @@
+// example 
+"m5nqQaV/",+
+"s(lTx+eAi5NTZZRw",+
+"tTZ3uUUWQ4",+
+"|2",-
+"XyAD",-
+"pqL,i?uTfOL*",+
+"]T@kp",-
+"_",-
+"m5nqQau#",+
+"",-
+"_qZ",-
+"h",-
+"|yE/z",-
+"e[",-
+"V"9",-
+"NWkqg\JgQynTWN",+
+"tTZ3uUUWr,",+
+"pqL,i?uTfOl@",+
+"NWkqg\JgQynTn[",+
+"s(lTx+eAi5NTZZj}",+
+"Xy8(",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),4)

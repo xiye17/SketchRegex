@@ -1,0 +1,16 @@
+// example 
+"p-",-
+"/",+
+",EjKG",-
+"M",+
+"3",-
+"1=",-
+"Ck"uX",-
+"w$j",-
+"U{x8",-
+"6b~",-
+"",-
+"7KK$",-
+
+// ground truth 
+and(not(<num>),<any>)

@@ -1,0 +1,17 @@
+// example 
+"!u",+
+"5s_",-
+"]",-
+"3QSOc",-
+"!ens",-
+"!C",-
+"5Hz",-
+"",-
+"b7<t",-
+"7",-
+"3C{46",-
+"!U",+
+"!%",-
+
+// ground truth 
+concat(or(<num>,<m0>),and(<vow>,<let>))

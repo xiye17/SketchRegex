@@ -1,0 +1,22 @@
+// example 
+"}~",-
+"z0k2~",-
+"o9x6n5s6m7f3f6c0k4M",+
+"h&dq",-
+"(",-
+"hWo(",-
+"",-
+"`w",-
+"q5z9k5w3O",+
+"m7y5z3C",+
+"|",-
+"b9i",-
+"FA%_b",-
+"a4d2n1u6l6X",+
+"g5e7y2r6l2j3B",+
+"k4g0y2t4b2b6g6g0H",+
+"n2a1g2n2r0f4g8V",+
+"b}Y",-
+
+// ground truth 
+concat(repeatatleast(concat(<low>,<num>),3),<cap>)

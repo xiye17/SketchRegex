@@ -1,0 +1,25 @@
+// example 
+"XM~D",-
+"SdXkTs",+
+"{'",-
+"AvFmwAP",+
+"XpSPrkBP",+
+"VsBnGKnhi",+
+"^",-
+"",-
+"WXC;{",-
+"gQzAdyRRvi",+
+"X_Ji",-
+"VsBnGKnhU",+
+"7X",-
+"gQzAdyRRvZ",+
+"SdXkTY",+
+"AvFmwAm",+
+"oX|",-
+"W>U>U",-
+"XpSPrkBj",+
+"_&b",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<let>,<vow>),6)

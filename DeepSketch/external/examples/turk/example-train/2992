@@ -1,0 +1,25 @@
+// example 
+"~R^h",-
+"wgvdikc",+
+"e,i$E",-
+"pddrrirzeswj",+
+"3m_",-
+"q0!_",-
+"X",-
+"!",+
+"}pc",-
+"lpbftkrhvcnjp",+
+"",-
+"qowzrchbtjltye",+
+"!vv1[",-
+"rwmgbaxql",+
+"qsaymiru",+
+"oewuel",+
+"aissokovdo",+
+"eh",-
+"ivvssvjvofu",+
+"~",-
+"|d",-
+
+// ground truth 
+or(repeatatleast(<low>,6),and(<m0>,<any>))

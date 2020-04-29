@@ -1,0 +1,16 @@
+// example 
+"",+
+"6An",+
+"9"",+
+"(_j",+
+"nvsBP",+
+"yr",+
+"3)V?",+
+"2sGFq",+
+"5",-
+")",+
+"s(N6",+
+"c",+
+
+// ground truth 
+or(not(<num>),concat(<m0>,<let>))

@@ -1,0 +1,25 @@
+// example 
+"aq",+
+"BJE",+
+"v{",-
+"!HPnS",-
+"p",-
+"DJPp",-
+"O821",+
+"",-
+"BJe",+
+"e",+
+"bI",+
+"mjJ",-
+"!HPnx",-
+"mjC",-
+"DJPQ",-
+"u",+
+"aG$y",+
+"gI!t=",+
+"gAZ1x",+
+"B",-
+"vn",-
+
+// ground truth 
+contain(repeatatleast(<vow>,1))

@@ -1,0 +1,24 @@
+// example 
+"]",-
+"`EAEo",+
+"MoUIue",+
+"ruuz",-
+"dUaa",+
+"CO",+
+"`EAEE",+
+"MoUIuu",+
+"rb}S",-
+"dUai",+
+"",-
+"CU",+
+"AS",-
+"\EU",+
+"Ah",-
+"am|[h",-
+"=yn",-
+"\EA",+
+"aq+Qo",-
+"=rQ",-
+
+// ground truth 
+concat(<any>,repeatatleast(<vow>,1))

@@ -1,0 +1,25 @@
+// example 
+"dm",-
+"UId",+
+"IU",+
+"Ii",+
+"oeaOOm",+
+"AiOa",+
+"Uim*",-
+"Ui#^",-
+"UuUAc",+
+"",-
+"oeaOOA",+
+"f",-
+"K:",-
+"Eoc-0",-
+"lIz",-
+"UIG",+
+"O",-
+"UuUAE",+
+"Oca",-
+"AiOL",+
+"EN7"@",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),<any>)

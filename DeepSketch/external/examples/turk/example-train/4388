@@ -1,0 +1,25 @@
+// example 
+"KP!IP!",+
+"yaq",+
+"!z!!",+
+"!huFi",+
+"O~",-
+"!GK+",-
+"!",-
+"!]p*",-
+"",-
+"]}6",-
+"O[",-
+"A~C",-
+"KP!IPZ",+
+"8",-
+"!z!u",+
+"]i7bZ",-
+"!!",+
+"!h",+
+"ya!",+
+"!huFC",+
+"{iM$z",-
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),2)

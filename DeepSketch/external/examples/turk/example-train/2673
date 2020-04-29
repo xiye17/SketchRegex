@@ -1,0 +1,17 @@
+// example 
+"s9}",+
+"FdQg*",+
+"L,Mv'uX;nN",+
+"wFXL!!qT2",+
+"RbijdZD",+
+",",-
+"x,0Y)^xPR)`",+
+""ywgo>1uqN8\",+
+"",-
+"evl?2$mZ",+
+"-&D67a",+
+"#t%#",+
+".n",-
+
+// ground truth 
+repeatatleast(endwith(<any>),3)

@@ -1,0 +1,17 @@
+// example 
+"^Hi{2",-
+"qI>K'",-
+"TE",+
+"/7",-
+"",-
+"%yO",-
+"2A*G",-
+"J",-
+"_}",-
+">",-
+"^hG",-
+"Ti",+
+"2ou^",-
+
+// ground truth 
+concat(or(or(<low>,<cap>),<num>),<vow>)

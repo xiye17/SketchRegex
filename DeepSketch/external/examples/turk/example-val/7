@@ -1,0 +1,25 @@
+// example 
+"xgsc_",+
+"vtohnes*",+
+"{w",-
+"wxjpxuux{",+
+"xk|v",-
+"{7T",-
+"xgsc{",+
+"m",-
+"xpccpr",+
+"xpccp~",+
+"xliviz!",+
+"vtohnesx",+
+"",-
+".R",-
+"xkZ+",-
+"}",-
+"xliviz~",+
+"wxjpxuuxH",+
+"0;-",-
+"yw{<i",-
+"y~c84",-
+
+// ground truth 
+concat(repeatatleast(<low>,4),<any>)

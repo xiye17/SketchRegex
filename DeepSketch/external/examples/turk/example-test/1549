@@ -1,0 +1,25 @@
+// example 
+"rI",+
+"RY9yA",+
+"t",-
+"}Y}",-
+"!x",-
+"gmL",+
+"}~av",+
+"",-
+"]|aF}",-
+"b!}-bx",+
+"b!}-bL",+
+"|",-
+"]|aFx",-
+"}Yr",-
+"|fG2",-
+"rm",+
+"RY9yq",+
+"!&",-
+"|fG~",-
+"gmv",+
+"}~aP",+
+
+// ground truth 
+concat(repeatatleast(endwith(<low>),1),<let>)

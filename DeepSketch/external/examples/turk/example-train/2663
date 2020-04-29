@@ -1,0 +1,14 @@
+// example 
+"",+
+"+KXg'/",+
+"IJwjv/-j",+
+"K",+
+"GM",+
+"!AmY",+
+"x{:JmXq",+
+"asz",+
+"FX+A9",+
+"-z'7A7ig{",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,5),<low>))

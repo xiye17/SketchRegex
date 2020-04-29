@@ -1,0 +1,25 @@
+// example 
+"@!an",+
+">!{",-
+"4!VS~5u",+
+"~!d|Eo",+
+"~!d|lj",+
+"X!K{{",-
+"@!}a",+
+"",-
+"\z",-
+"X!|~u",+
+"\!",-
+"R!E4l{dt",+
+"I!FV",-
+"R!E4l{{m",+
+"4!VS~{h",+
+">!4",-
+"X!K{L",-
+"z!v",+
+"X!|fh",+
+"E",-
+"IzU!",-
+
+// ground truth 
+concat(concat(<any>,<m0>),endwith(<low>))

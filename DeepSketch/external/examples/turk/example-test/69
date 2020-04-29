@@ -1,0 +1,25 @@
+// example 
+"Up",-
+"EA?",-
+"Oa",+
+"EAp",-
+"GoU",+
+"akho",+
+"Ou",+
+"8godi",+
+"Uh",-
+"Go!",+
+"",-
+"a",-
+"!eoQui",+
+"biZQ",-
+"akhU",+
+"8god!",+
+"!eoQu!",+
+"biZC",-
+"fBQAC",-
+"I",-
+"fBQAH",-
+
+// ground truth 
+repeatatleast(endwith(or(<m0>,<vow>)),2)

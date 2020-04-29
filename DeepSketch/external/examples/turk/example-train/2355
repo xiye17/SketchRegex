@@ -1,0 +1,25 @@
+// example 
+"r",-
+"tu",+
+"a+WW",+
+"zsns",-
+"}k",-
+"ta",+
+"a",+
+"ac/9V",+
+"iKa",+
+"zsnc",-
+"!",+
+"3rb",-
+"",-
+"3rf",-
+"o|agQ",+
+"$",-
+"crbl`",-
+"}6",-
+"nYs",+
+"eH2V",+
+"crblj",-
+
+// ground truth 
+contain(or(or(<vow>,<m0>),<cap>))

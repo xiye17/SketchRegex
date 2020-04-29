@@ -1,0 +1,17 @@
+// example 
+"3g9",-
+"0u",+
+"1}",-
+"q",-
+"5",-
+"1m",-
+"",-
+""RGQ",-
+"3iK",-
+"7o]Dz",-
+"0a",+
+"[gk(6",-
+"=a]|",-
+
+// ground truth 
+concat(<num>,and(and(<low>,<vow>),<any>))

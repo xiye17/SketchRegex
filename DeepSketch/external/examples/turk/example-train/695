@@ -1,0 +1,17 @@
+// example 
+"!tZovh",+
+"O>!39T",+
+"#s",+
+"!",+
+"",-
+"^",+
+"!B5",+
+"!()0y",+
+"!U",-
+"=FS",+
+"O^bk",+
+"E{Or^",+
+"!*w;",+
+
+// ground truth 
+concat(not(<m0>),or(or(<vow>,<m1>),<any>))

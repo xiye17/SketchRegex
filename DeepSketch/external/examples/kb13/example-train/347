@@ -1,0 +1,25 @@
+// example 
+"fJO",+
+"?KZI",+
+"fbXS!",+
+"]O",-
+"h)$~=",-
+"fbr5]",+
+"j^`P",-
+"|l~grP",+
+"",-
+"?KZm",+
+"XE][Uqq",+
+"j^`^",-
+"_[]",-
+"|l~grd",+
+"?",-
+"fJi",+
+"z",-
+"]~",-
+"h)$~[",-
+"XE][UqD",+
+"_[%",-
+
+// ground truth 
+contain(repeat(<let>,3))

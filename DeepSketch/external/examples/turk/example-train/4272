@@ -1,0 +1,25 @@
+// example 
+"Tbb#QfMG",+
+"TwYjfrj[Q",+
+"Nu[I_9&xfVgP~T}%",+
+"l3s"`",-
+"W",-
+"k",-
+"'s\",-
+"V3:~][IQMU",+
+"",-
+"b{}G",-
+"Ha",-
+"8*"+x",-
+"bu",-
+"H[%GwT:Ry+~I",+
+"XTv4C>Mf).G",+
+"H1PF}E/V$Sp}Q{,",+
+"En#",-
+"K!Y1",-
+"Lr{-Ps/~!Vy3a1m*.",+
+"J-.R>Cn>Sao)!",+
+"VIwFH<~,4PZEeb",+
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,7))

@@ -1,0 +1,25 @@
+// example 
+"OGY*",+
+"Urk",+
+"%S",+
+"DHNFB",-
+"DX",-
+"MNlynU",+
+"XMSP",-
+"OG5X",+
+"KCEAPPQ",-
+"_(;lN",+
+"3yV[D",+
+"M2EL-0",+
+"",+
+"%",-
+"UKv",+
+"WNESUB",-
+"PJVLEBSU",-
+"dP",+
+"C",-
+"ULP",-
+"BMJBGJTJK",-
+
+// ground truth 
+not(or(repeatatleast(<cap>,1),<any>))

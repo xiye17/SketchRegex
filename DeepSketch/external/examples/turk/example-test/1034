@@ -1,0 +1,14 @@
+// example 
+"",+
+"$5-k",+
+"b8'uc",+
+"6NW",+
+"51kmKS)'",+
+"}|R~8DNM!",+
+"[a",+
+"jeY\N(|",+
+"aU[r@R",+
+"]",+
+
+// ground truth 
+not(and(<m0>,repeatatleast(<vow>,1)))

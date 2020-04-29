@@ -1,0 +1,15 @@
+// example 
+"",+
+"8km",+
+"[\M2"|a>|",+
+"Co",+
+"3,h0",+
+"c<G7]oy",+
+"8",-
+"%rLzOi.{9E",+
+"eW5^;",+
+"}[m\z\Vn",+
+"3+._aZ",+
+
+// ground truth 
+not(or(or(<any>,<let>),<low>))

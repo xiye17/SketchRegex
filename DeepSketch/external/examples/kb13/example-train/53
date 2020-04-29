@@ -1,0 +1,26 @@
+// example 
+"eY/t",-
+"gY2S",+
+"Zr",-
+")?*",-
+"a;oCxJ",+
+"W",-
+"ZF",+
+"|LB",+
+"@9tNM",+
+")?[",-
+"xC=&2",-
+"",-
+"VeD"0D+",+
+"O?J",+
+"Ve!s;|R",+
+"eY/)",-
+"gYC^",+
+"xC=&d",-
+"a;oC$Q",+
+"v",-
+"@9*QL",+
+"Z$",-
+
+// ground truth 
+repeatatleast(contain(<cap>),2)

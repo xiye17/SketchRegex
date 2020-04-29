@@ -1,0 +1,15 @@
+// example 
+"",+
+"&i",+
+"!W",+
+"cjq8",+
+"EKh-\",+
+"1",+
+"!Tg4D",+
+"!Zl",+
+"r+S",+
+"!={f",+
+"!",-
+
+// ground truth 
+not(and(<m0>,<any>))

@@ -1,0 +1,25 @@
+// example 
+"r",-
+"zhqyytkvJ",+
+"cdmjbygw",+
+"agqtuhjijceX",+
+"muxuksfxpf",+
+"9='",-
+"agqtuhjijcef",+
+"muxuksfxpE",+
+"lwvhthrvggk",+
+"~x",-
+"",-
+"cdmjbygB",+
+"}",-
+"}@z",-
+"x]sC",-
+">+",-
+"zhqyytkvk",+
+"|~T<^",-
+"lwvhthrvggW",+
+"+D<j%",-
+"xvi}",-
+
+// ground truth 
+concat(repeatatleast(<low>,7),<let>)

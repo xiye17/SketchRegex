@@ -1,0 +1,25 @@
+// example 
+"EleXoq",+
+"IPokewUo",+
+"axikiIuVoT",+
+"E}",-
+"axikiIuVoj",+
+"uhowAsuTIMAu",+
+"iCal",+
+"i`~h)",-
+"aZSj",-
+"",-
+"IYi",-
+"f",-
+"=",-
+"E^",-
+"IPokewUH",+
+"IYO",-
+"aZge",-
+"EleXoJ",+
+"uhowAsuTIMAK",+
+"C0vA{",-
+"iCaK",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),2)

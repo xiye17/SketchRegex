@@ -1,0 +1,25 @@
+// example 
+"G",-
+"F2C6K2I2K0P9P1",+
+"F6'#",-
+"B3P4",+
+"vf",-
+"B8G6[",-
+"B8G6D",-
+"E7W6F0R2N1",+
+"*",-
+"G1S2T7R3H6G2A3T7B8K6",+
+"H7O3G0W0B0E1H8X2",+
+"",-
+"Z2+",-
+"F6ly",-
+"ZhY",-
+">n",-
+"K0V8X2L1V6E3",+
+"S9H5Y0P3W5W1O6S1I3",+
+"L6",+
+"U7Q9W0N2",+
+"E4W9N9",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),1)

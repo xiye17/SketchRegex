@@ -1,0 +1,14 @@
+// example 
+"",+
+"SRmJ%Sb",+
+"LU\+L6",+
+"hL:&@Ju3`",+
+"s&",+
+"[zL>",+
+"@X&EG",+
+"U4B",+
+"*w>Tmkm[",+
+"^",+
+
+// ground truth 
+not(and(and(<low>,<any>),<cap>))

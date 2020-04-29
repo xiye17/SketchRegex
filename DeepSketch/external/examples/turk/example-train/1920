@@ -1,0 +1,25 @@
+// example 
+"UcC",-
+"I`\lEP",+
+"D;UQk",+
+"JeiO",+
+"ET",+
+"D;UiZ",+
+"iP",+
+"Piboj",-
+"Pibof",-
+"e",-
+"JeoW",+
+"",-
+"iuI",+
+"ioR",+
+"gea+",-
+"I`\lAK",+
+"geay",-
+"I",-
+"Ei",-
+"Ee",-
+"UcI",-
+
+// ground truth 
+repeatatleast(contain(concat(<vow>,<cap>)),1)

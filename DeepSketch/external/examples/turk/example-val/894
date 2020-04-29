@@ -1,0 +1,14 @@
+// example 
+"",+
+"c3Q",+
+"Mg|VEa4,b",+
+">p[PItIM",+
+"Q+R~",+
+":;:&V)",+
+"R+O,.",+
+"p]ze~FW",+
+"'<",+
+"]",+
+
+// ground truth 
+not(and(<low>,<cap>))

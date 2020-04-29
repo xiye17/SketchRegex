@@ -1,0 +1,14 @@
+// example 
+"",+
+"7:;'@",+
+"]QL",+
+"Z"j5WX",+
+"FVjc7'n",+
+":g^l",+
+"^z",+
+"+",+
+"Bmbny?^|",+
+"]h=%JN;<t",+
+
+// ground truth 
+not(and(contain(<low>),<m0>))

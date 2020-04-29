@@ -1,0 +1,15 @@
+// example 
+"}7F",-
+"$g",-
+"}'v",-
+"$0",+
+"X+FMB",-
+"XSnG!",-
+"m",-
+"!5O\",-
+"$-",-
+"!I./",-
+"",-
+
+// ground truth 
+concat(or(<any>,<vow>),<num>)

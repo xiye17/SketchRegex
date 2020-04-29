@@ -1,0 +1,15 @@
+// example 
+"",+
+"!=",+
+"!n'd#",+
+"VY[]w",+
+"k",+
+"}b",+
+"Acg{",+
+"!GZ",+
+"$k_",+
+"!",-
+"!|zw",+
+
+// ground truth 
+or(endwith(<cap>),not(<m0>))

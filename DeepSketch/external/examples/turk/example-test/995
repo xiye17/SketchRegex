@@ -1,0 +1,25 @@
+// example 
+"|-ioy",+
+"S~EA",-
+"2sUoFM",+
+"Q/Y",+
+"S.SeI",-
+"Q/T",+
+"S.Sea",-
+"O{tL",+
+"C&KoQu",-
+"|-iof",+
+"Z<U",-
+"\x",+
+"S~EI",-
+"Z3OfOsi",-
+"",+
+"C&KoQe",-
+"P",+
+"O{t:",+
+"Z<i",-
+"Z3OfOsE",-
+"2sUoFH",+
+
+// ground truth 
+not(concat(repeatatleast(<any>,2),<vow>))

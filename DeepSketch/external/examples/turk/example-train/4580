@@ -1,0 +1,20 @@
+// example 
+"oDRC}Qa[ychgMc",+
+"C2DF2>UrW'?=",+
+"l(MKh$%Jk*D",+
+"}sw",-
+"sW{Wx",-
+"",-
+"}P<B)k1p",+
+"Mg$ES~^Dr`",+
+"X.)H|RN(u0<o~",+
+"$t^;",-
+"Bz",-
+"eTX.[2vp%",+
+"kRx:xye",+
+"q,yN.t",+
+"I",-
+">P)0:dGcfx$w4,u",+
+
+// ground truth 
+repeatatleast(endwith(or(<any>,<low>)),6)

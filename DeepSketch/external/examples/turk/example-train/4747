@@ -1,0 +1,17 @@
+// example 
+"s",-
+"L;D1",-
+"i!$2)",-
+"e!@",+
+"i3d:?",-
+"C^",-
+"a!@",+
+"",-
+"j<BA",-
+"h@",-
+"f9F",-
+"O!$",-
+"A",-
+
+// ground truth 
+concat(concat(<vow>,<m0>),<m1>)

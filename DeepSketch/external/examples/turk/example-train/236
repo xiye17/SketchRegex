@@ -1,0 +1,17 @@
+// example 
+"i!u",+
+"JFF,1",-
+"[",-
+"n",-
+"?^#i",-
+"",-
+"|$~",-
+"x!",-
+"]xH",-
+"_}",-
+"i!U",+
+"\>xE",-
+"J!^,k",-
+
+// ground truth 
+concat(concat(<let>,<m0>),<vow>)

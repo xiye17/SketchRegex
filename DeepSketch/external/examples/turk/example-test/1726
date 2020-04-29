@@ -1,0 +1,20 @@
+// example 
+"1",-
+"&kaBwfo",+
+"70l~",+
+":cz",+
+"DeX$9",+
+"1L"",+
+"3!Yd4p3",+
+"7!",+
+"",-
+"'",-
+"0V%x.",+
+"CW6)3S",+
+"7!N$",+
+"/+)GCP",+
+",1",-
+"_?",-
+
+// ground truth 
+or(concat(<num>,<m0>),repeatatleast(<any>,3))

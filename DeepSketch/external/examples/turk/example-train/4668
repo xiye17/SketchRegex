@@ -1,0 +1,25 @@
+// example 
+"OouEeaoaI",+
+"uAeEUEa",+
+"u",-
+"K21E",-
+"A^",-
+"oeOOOIEI",+
+"",-
+"IeI1:",-
+"OauAAOAAuUe",+
+"b",-
+"uAeEUEo",+
+"Ieh=7",-
+"ueAuIaAuIo",+
+"oEm",-
+"f_tb",-
+"OouEeaoaA",+
+"ueAuIaAuIu",+
+"oEE",-
+"Ar",-
+"oeOOOIEa",+
+"OauAAOAAuUI",+
+
+// ground truth 
+repeatatleast(<vow>,7)

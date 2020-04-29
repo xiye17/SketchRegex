@@ -1,0 +1,17 @@
+// example 
+".",+
+"s",-
+"sB",+
+"N%A",+
+"",+
+"Lw]%f",+
+"jVG2j",+
+"_J",+
+"}hWJ",+
+"2'}q",+
+"K",-
+"_/2",+
+"}",+
+
+// ground truth 
+or(repeatatleast(<num>,7),not(<let>))

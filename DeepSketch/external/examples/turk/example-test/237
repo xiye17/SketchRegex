@@ -1,0 +1,25 @@
+// example 
+"Y6",-
+"Me|",-
+"E",+
+"goi",+
+"G",-
+"eBcIu",+
+".",-
+"zOvO{",-
+"cnEA",+
+"Mem",-
+"LFt~",-
+"",-
+"cnEo",+
+"LFth",-
+"eBcIU",+
+"goI",+
+"u",+
+"Aa",+
+"Y|",-
+"Ai",+
+"zOvOm",-
+
+// ground truth 
+concat(not(<low>),endwith(<vow>))

@@ -1,0 +1,18 @@
+// examples
+"!A",+
+"!bA",+
+"!bAc",+
+"a!A",+
+"1!B",+
+"!Ab",+
+"!!!!B",+
+"",-
+" ",-
+"1",-
+"a",-
+"!",-
+"!a",-
+"!1",-
+
+// ground truth 
+concat(endwith(<m0>),contain(contain(<cap>)))

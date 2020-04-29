@@ -1,0 +1,17 @@
+// example 
+"jN",-
+"a",+
+"X",-
+"N,!",-
+"+4;'",-
+"",-
+"ueX",-
+"lW9V",-
+"uw",-
+"hrw)I",-
+"U[)>i",-
+"u",+
+"w",-
+
+// ground truth 
+and(and(<let>,<any>),<vow>)

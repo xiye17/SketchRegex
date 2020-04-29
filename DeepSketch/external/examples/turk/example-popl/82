@@ -1,0 +1,18 @@
+// examples
+"!a",+
+"a!",+
+"a",+
+"!!a",+
+"!!!!a",+
+"!a!a",+
+"!a!b",+
+"!A",-
+"Anything with caps",-
+"",-
+"A!",-
+"1!",-
+"!1",-
+"a!A",-
+
+// ground truth 
+repeatatleast(or(<m0>,<low>),1)

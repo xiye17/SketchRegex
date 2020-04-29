@@ -1,0 +1,17 @@
+// example 
+"g)A85",-
+"!Zo",-
+"j}Db",-
+"j2",-
+"^8",-
+"i=B",-
+"",-
+"&",-
+"g",-
+"a!",+
+"a[qJF",-
+"tef8",-
+"oX",+
+
+// ground truth 
+concat(or(or(<vow>,<cap>),<m0>),<any>)

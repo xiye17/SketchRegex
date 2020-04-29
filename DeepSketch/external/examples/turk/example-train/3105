@@ -1,0 +1,25 @@
+// example 
+"~0",-
+"oyq",+
+"$*",-
+"Uj",+
+"Opunc",+
+"PW;",-
+"ayaew",+
+"",-
+"Eepp",+
+"ifmm",+
+"8",-
+"a{XRL",-
+"O",+
+"S",-
+"A|Yk",-
+"Iht",+
+"AHz@",-
+"ALl",-
+"w&uK~",-
+"id",+
+"A",+
+
+// ground truth 
+concat(<vow>,star(<low>))

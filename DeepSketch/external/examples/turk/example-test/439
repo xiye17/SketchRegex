@@ -1,0 +1,17 @@
+// example 
+"DH}'>",-
+"q",-
+"Dcx",-
+"A2JZ",-
+"o5v",+
+"",-
+"'BfOO",-
+"A2fR",-
+"A$",-
+"U2s",+
+"A7",-
+"GDw",-
+"B",-
+
+// ground truth 
+concat(<vow>,concat(<num>,<low>))

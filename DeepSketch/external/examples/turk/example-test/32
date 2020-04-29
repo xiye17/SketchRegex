@@ -1,0 +1,14 @@
+// example 
+"",+
+"x}94/qeJ5",+
+"Y",+
+"Yam;arUT",+
+"vx",+
+"zb<@ImO",+
+"9f=,",+
+"*q*OK",+
+"k"&",+
+"#Ub=t`",+
+
+// ground truth 
+not(and(and(<num>,<cap>),<let>))

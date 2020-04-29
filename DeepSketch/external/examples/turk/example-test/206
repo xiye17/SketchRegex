@@ -1,0 +1,20 @@
+// example 
+"6(ivyzRY",+
+"ZK/_cqAW/",+
+"SGHT^bUu<tr=v",+
+""TD",-
+"ej+w4",-
+"4",-
+"j;ErxfOL.;1qR=v",+
+"H{2v",-
+"W)e%^V+I!mSk",+
+"#K-{?}]",+
+"",-
+"t+",-
+""#mr6%M{MC",+
+"Xf~oPo]j~iN",+
+"Bad[uP{,o8-/]@",+
+"v9diqR",+
+
+// ground truth 
+repeatatleast(or(<any>,startwith(<m0>)),6)

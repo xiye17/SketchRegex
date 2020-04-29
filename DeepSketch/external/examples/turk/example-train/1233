@@ -1,0 +1,15 @@
+// example 
+"WDT",-
+"Y",-
+"(ouC",-
+"aC",+
+"(U%k",-
+"w*",-
+"wd",-
+".?F?}",-
+"W7H",-
+".Xuh*",-
+"",-
+
+// ground truth 
+concat(or(or(<low>,<any>),<m0>),<cap>)

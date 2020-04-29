@@ -1,0 +1,16 @@
+// example 
+"97Z",-
+"&.KQ:",-
+"7m!",+
+"1;",-
+"v#B0)",-
+"9sD",-
+"rW{%",-
+"1mc[",-
+"#",-
+"",-
+"1i",-
+"b",-
+
+// ground truth 
+concat(concat(<num>,<low>),<m0>)

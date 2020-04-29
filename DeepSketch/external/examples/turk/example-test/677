@@ -1,0 +1,17 @@
+// example 
+"!LU",+
+"!3",-
+"!Le",+
+"!",-
+"!F",-
+"RkD%",-
+"!c;_",-
+"",-
+"~R:j_",-
+"$",-
+"E3U",-
+"!9y",-
+"!Ii"f",-
+
+// ground truth 
+concat(<m0>,concat(<cap>,<vow>))

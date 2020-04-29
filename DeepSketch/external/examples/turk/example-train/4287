@@ -1,0 +1,25 @@
+// example 
+"qqvisqnx~",+
+"dmbualsyxsw",+
+"d{,",-
+"s~Tl6",-
+"Y",-
+"L<!\[",-
+"xnlwwtm~",+
+"p~`/",-
+"}X",-
+"lwtvrlxxjtxm",+
+"ancnfulfc%",+
+"|>N;",-
+"",-
+"xnlwwtmo",+
+"lwtvrlxxjtx{",+
+"qqvisqnx5",+
+">vs",-
+"dmbualsyxs~",+
+"ancnfulfc}",+
+"~",-
+"4e",-
+
+// ground truth 
+concat(repeatatleast(<low>,7),<any>)

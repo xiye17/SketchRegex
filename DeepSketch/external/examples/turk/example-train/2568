@@ -1,0 +1,25 @@
+// example 
+"b1ktxu..3",+
+"|ec",-
+"~/{CU",-
+"6Om_",-
+"^",-
+"",-
+"s}>EA}ub",+
+"}1",-
+"|",-
+"g",+
+"m*qP",+
+"Bpn",-
+"To=G9",-
+"Kb",-
+"qo@2;",+
+"hG}nf+",+
+"x5",+
+"wLYHqi7",+
+"ffC",+
+"m?2EC[jQfP",+
+"|e[2",-
+
+// ground truth 
+concat(<low>,star(or(<any>,<let>)))

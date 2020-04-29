@@ -1,0 +1,17 @@
+// example 
+".",+
+"8k",+
+"0ee",+
+"m",-
+"/+bV%",+
+"0GT",+
+"",+
+"}T@]",+
+"dcSK",+
+"R",+
+"8h]$B",+
+"3G",-
+"8&",+
+
+// ground truth 
+not(or(concat(<num>,<cap>),<low>))

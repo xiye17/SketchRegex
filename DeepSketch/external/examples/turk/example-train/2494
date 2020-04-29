@@ -1,0 +1,25 @@
+// example 
+"mt",+
+"s",+
+"e2:^a",+
+"yDE",+
+"kd{",-
+"TH",-
+"TR",-
+"n}BS",-
+"n}BF",-
+"JVFCB",-
+"#",-
+"",-
+"yDO",+
+"JVFCR",-
+"a;],",+
+"kd^",-
+"A~=XA",+
+"ma",+
+"A",+
+"DrlI",+
+"D",-
+
+// ground truth 
+or(contain(<vow>),repeatatleast(<low>,1))

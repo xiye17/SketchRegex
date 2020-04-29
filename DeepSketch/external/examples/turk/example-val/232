@@ -1,0 +1,25 @@
+// example 
+"JTOW",+
+"(4W",+
+"e}_",-
+"'#ij/",-
+".NXTA",+
+"SY",+
+"(bZ",+
+"Q1H)",-
+"m",-
+".NXmN",+
+"'#ijg",-
+"CL{|DQG",+
+"",-
+"e}*",-
+",_",-
+",3",-
+"JT^K",+
+"Q}RKEM",+
+"Q}RK,U",+
+"CL{|DlV",+
+"Q1Hr",-
+
+// ground truth 
+concat(endwith(or(<any>,<low>)),<cap>)

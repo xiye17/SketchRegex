@@ -1,0 +1,15 @@
+// example 
+"-|N}P<H",+
+"$Qw8E",+
+"dq>w4c",+
+"3k|UE<U}q!",+
+"`f5,",+
+"w@tX:<dy",+
+",Y`",+
+"X",+
+"F_",+
+"'*:Bh6Pz]",+
+"",-
+
+// ground truth 
+endwith(or(<let>,<any>))

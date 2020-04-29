@@ -1,0 +1,25 @@
+// example 
+"E",+
+"[",-
+"EA8xV",-
+"sAUha",+
+"UUl",+
+"IH",-
+"b",+
+"OP>",-
+"",+
+"sAUhU",+
+"UO",+
+"IL",-
+"EEAE",+
+"N",-
+"EAOI~",-
+"EEAA",+
+"UUU",+
+"OD9",-
+"AOOC",-
+"UE",+
+"AOOJ",-
+
+// ground truth 
+star(or(and(and(<cap>,<vow>),<any>),<low>))

@@ -1,0 +1,25 @@
+// example 
+"hU]!",+
+"L}!@I6",+
+"!be",+
+"oZ!!S",+
+"+m",-
+"u\~",-
+"yzVFuF8Zo",-
+"!",+
+"hU!T",+
+"f$8&",-
+"",-
+"ZwFxhfR%",-
+"i",-
+"`:bTX,",-
+"L!~+!;",+
+"~>WE\$l",-
+"x!",+
+"('TCU",-
+"kq!",+
+"!L\5z",+
+"!#",+
+
+// ground truth 
+concat(endwith(star(<num>)),startwith(<m0>))

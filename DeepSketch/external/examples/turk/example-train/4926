@@ -1,0 +1,24 @@
+// example 
+"Zn",+
+",7OR",-
+"BqQg",+
+"Y5",-
+"crH",-
+"QvQiBwHfYmHn",+
+"tAa-A",-
+"",+
+"FfOaKtYw",+
+":",-
+"0TTs$",-
+"TwYjGy",+
+"PwZhQhZkJpLwRxLl",+
+"Sug",-
+"XdNtQvGwFfJcGj",+
+"Y}",-
+"JhReZzMxWv",+
+"s5Vl",-
+"z",-
+"TuIjVqQzYyDyFeQxJj",+
+
+// ground truth 
+star(concat(<cap>,<low>))

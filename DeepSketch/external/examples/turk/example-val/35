@@ -1,0 +1,17 @@
+// example 
+"HiI6",-
+"zLv",-
+"_&",-
+"^",-
+"XEO",+
+"",-
+"a",-
+"zEc",-
+"XUB",+
+"4r",-
+"caWmZ",-
+"Hi+C",-
+"cag({",-
+
+// ground truth 
+concat(concat(<let>,<vow>),<cap>)

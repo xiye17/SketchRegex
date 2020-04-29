@@ -1,0 +1,25 @@
+// example 
+"i7e6O1",+
+"I5O3i1e9",+
+"I5O3i1A4",+
+"i9A7i4I0A6u9",+
+"O&t",-
+"I4I6U5A6o2",+
+"",-
+"i.R.",-
+"L1.PC",-
+"S/(hi",-
+"i7e6u1",+
+"I4I6U5A6E4",+
+"aO",-
+"O6p",-
+"8",-
+"i9A7i4I0A6i3",+
+"I3U4I1U9A9e7U8",+
+"I3U4I1U9A9e7a9",+
+"{",-
+"*z",-
+"ijQt",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),3)

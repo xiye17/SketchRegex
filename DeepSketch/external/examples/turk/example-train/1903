@@ -1,0 +1,25 @@
+// example 
+"e"N",+
+"a7>",+
+"wm",-
+"la",+
+"o~",+
+"wc",-
+"v.?",-
+"f\hci",+
+"L3M,*",+
+"",-
+"`",-
+"v.~",-
+"_qby",-
+":",-
+"e",+
+"_qbd",-
+"doZ6",+
+""z;z;",-
+"5",+
+"d]u1",+
+""z;zj",-
+
+// ground truth 
+contain(or(or(<num>,<cap>),<vow>))

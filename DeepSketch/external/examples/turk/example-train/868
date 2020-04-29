@@ -1,0 +1,15 @@
+// example 
+"",+
+"Nen",-
+"i#C;?JO",-
+"^{!H<J",-
+"~rwA65WDW,",-
+"%?#u",-
+"5IL"7JV_",-
+"LZ",-
+"v{vV[",-
+">aIq*T.CF",-
+"b",-
+
+// ground truth 
+not(endwith(<any>))

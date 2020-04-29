@@ -1,0 +1,15 @@
+// example 
+"0x{1zF=",+
+"z>YP~`XkJ",+
+"MXcX",+
+"0DF1kF.5",+
+"9P9^P+#vHs",+
+"R",+
+")J",+
+"TM3",+
+"tw:l'$",+
+"oU_D?",+
+"",-
+
+// ground truth 
+startwith(or(<let>,repeatatleast(<any>,1)))

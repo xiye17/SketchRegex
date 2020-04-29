@@ -1,0 +1,25 @@
+// example 
+"A`j",+
+"s",+
+"rIab",+
+"o",-
+"ACU",-
+"tfeTa",-
+"`DEIN",+
+"CH",+
+"e",-
+"",+
+"tA",-
+"rIaF",+
+"tfeTA",-
+"P",+
+"`DEIG",+
+"A`K",+
+"tu",-
+"ACa",-
+"GVGI",-
+"Cf",+
+"GVGE",-
+
+// ground truth 
+not(endwith(<vow>))

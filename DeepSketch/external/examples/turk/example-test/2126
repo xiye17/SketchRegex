@@ -1,0 +1,25 @@
+// example 
+"rLqaL",-
+"\lKY@",+
+"Y",-
+"phRC",-
+"V[(",+
+"FGK",-
+"<y",+
+")c\c",+
+"_",+
+"",-
+"Sn",-
+"$",+
+"g",-
+"V}E",+
+"FGp",-
+"phRv",-
+"rLqag",-
+"SE",-
+"RJ]a",+
+"|`",+
+";Z&x&",+
+
+// ground truth 
+not(star(<let>))

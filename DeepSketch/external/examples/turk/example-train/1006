@@ -1,0 +1,16 @@
+// example 
+"",+
+"Z",+
+"_a",+
+"N!",-
+"I_@r",+
+">!i/+",+
+"o{E",+
+">O/DD",+
+"o!@",+
+"8~]OcW",+
+"8!D<T"",+
+"I!n@",+
+
+// ground truth 
+not(concat(<any>,<m0>))

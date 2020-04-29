@@ -1,0 +1,25 @@
+// example 
+"]",-
+"`hv",-
+"BGt",+
+"T;Ln4",+
+".B?",-
+"xC",+
+"pXQ",+
+"",-
+"}%",-
+"G1",+
+"*&k~",-
+"m$z4o",+
+"N(Gs",+
+"^j",-
+"dKA)n]",+
+"}^=W",-
+"kegV",+
+"Az%l`W",+
+"z",-
+"]{feF",-
+"4f='U",-
+
+// ground truth 
+concat(startwith(<let>),<any>)

@@ -1,0 +1,25 @@
+// example 
+"o",-
+"oe",-
+"KXa",-
+"oVTJI",-
+"ejeu",-
+"uqD",+
+"oE",-
+"ejeA",-
+"",+
+"EehBf",+
+"KXU",-
+"uqS",+
+"&aBQ",+
+"oVTJA",-
+"5",+
+"~",+
+"Eg",+
+"&aBF",+
+"EehB#",+
+"Ec",+
+"E",-
+
+// ground truth 
+not(endwith(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"!!!!)OGE",+
+"!!!!AAE",+
+"!!!!bOuuu",+
+"IZr}",-
+"!!!!B",-
+"!",-
+"!!!!ei",+
+"!!!!eo",+
+"",-
+"c",-
+"!I",-
+"!(b",-
+"!7eeK",-
+"!!!!E",+
+"!f"a",-
+"=q",-
+"!!!!a",+
+"!!!!bOuua",+
+"!!(",-
+"!!!!)OGu",+
+"!!!!AAu",+
+
+// ground truth 
+concat(repeatatleast(<m0>,4),endwith(<vow>))

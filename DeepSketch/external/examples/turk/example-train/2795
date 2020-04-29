@@ -1,0 +1,17 @@
+// example 
+"!3",+
+"]1%E*2",+
+"Y",+
+"!lR",+
+"!",-
+"Z!0z",+
+"!BxK!f",+
+"",-
+"hA4M/",+
+"!9+x",+
+"L/",+
+",6-",+
+"!!HQO",+
+
+// ground truth 
+and(contain(<any>),not(<m0>))

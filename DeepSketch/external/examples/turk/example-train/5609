@@ -1,0 +1,17 @@
+// example 
+"qh4k!",-
+"rJ`5",-
+"~k>",-
+"g9",-
+"-cE",-
+"*",-
+"0O",+
+"",-
+"|F72C",-
+"!V",+
+"?",-
+"ge",-
+"rgA#",-
+
+// ground truth 
+concat(or(or(<num>,<m0>),<low>),<cap>)

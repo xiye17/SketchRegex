@@ -1,0 +1,17 @@
+// example 
+"FSlia",-
+"AF",-
+"n",-
+"d",-
+"a!5",+
+"",-
+"_;-",-
+"p6",-
+"E!w",-
+"o!*L",-
+"o!6",+
+"A!.5>",-
+"o!du",-
+
+// ground truth 
+concat(concat(<vow>,<m0>),<num>)

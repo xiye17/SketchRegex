@@ -1,0 +1,17 @@
+// example 
+"F",-
+"^r=",-
+"|x",-
+"}~,|",-
+"^{\MI",-
+""",-
+"",-
+"tT",+
+"mXbTV",-
+"GF%",-
+"ZXE/",-
+"SN",+
+"_u",-
+
+// ground truth 
+concat(<let>,or(or(<num>,<any>),<vow>))

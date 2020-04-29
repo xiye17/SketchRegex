@@ -1,0 +1,25 @@
+// example 
+"s",-
+"s9TO",+
+"{.O",+
+"p[/&G",+
+"{oF",+
+"s9~N",+
+"s{V9n9O",+
+"<`]H8",-
+"o?f",-
+"<`]Hv",-
+"K?}8nY",+
+"vJ",+
+"",-
+"p[/pW",+
+"Ssp3",-
+"o?"",-
+"K?}80V",+
+"s{V9nsR",+
+"r+",-
+"rn",-
+"Sspz",-
+
+// ground truth 
+concat(repeatatleast(endwith(<any>),1),<cap>)

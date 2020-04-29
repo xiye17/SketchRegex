@@ -1,0 +1,17 @@
+// example 
+"ve",+
+"kn",-
+"ad4",-
+"pq7'p",-
+"}r6|",-
+"k~",-
+"",-
+"pOF&/",-
+"gS5J",-
+"x",-
+"{",-
+"vi",+
+"asG",-
+
+// ground truth 
+concat(<low>,or(<vow>,<num>))

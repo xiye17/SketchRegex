@@ -1,0 +1,25 @@
+// example 
+"[.{",-
+"ozVvXTELuLV",+
+"ozVvXTELuLj",+
+"`N",-
+"LAxL}",-
+"mhPJEekr",+
+"frDVbbqxj",+
+"xhrPkuIFFl",+
+"LAxL8",-
+"mhPJEekZ",+
+"xhrPkuIFFH",+
+"BxEWORD",+
+"BxEWORw",+
+"frDVbbqxC",+
+"-",-
+"~fCz",-
+"",-
+"O",-
+"P~",-
+"_CA1",-
+"N|\",-
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),7)

@@ -1,0 +1,25 @@
+// example 
+"IiEED",-
+"!\",-
+"HHA",+
+"q",-
+"je!G",-
+"iuaIi",+
+"!D",-
+"!",+
+"AeF",-
+"HHo",+
+"",-
+"IiEEm",-
+"ua",+
+"e",+
+"uu",+
+"Ae[",-
+"OKUo",+
+"je!R",-
+"?",-
+"OKUa",+
+"iuaIU",+
+
+// ground truth 
+endwith(or(<m0>,<vow>))

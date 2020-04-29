@@ -1,0 +1,25 @@
+// example 
+"gLQFPFPM",+
+"UFJU",+
+"`#lV",-
+"oSBUGFN",+
+"CTQNU",+
+"aG",-
+"SKVGFN",+
+"eWTJY",+
+"_",-
+"",-
+"BRGDOLSF",+
+"}",-
+"fh(3",-
+"yDQA",+
+"a'",-
+"XAOFJED",+
+">B&5Y",-
+"\uo",-
+"{rqhO",-
+"fLRGOY",+
+"{l;",-
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,3))

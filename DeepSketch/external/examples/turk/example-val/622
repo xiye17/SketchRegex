@@ -1,0 +1,25 @@
+// example 
+"IFSiaUA",+
+"r",-
+"EEAU",+
+"OOOI5",+
+"y6SGiiiE",+
+"uBOOio",+
+"AUq",-
+"PdMQ",-
+"PdMO",-
+"AUi",-
+"",-
+"y6SGiiio",+
+"eO",-
+"}",-
+"OOOOv",+
+"iOajH",-
+"uBOOii",+
+"IFSiaUi",+
+"eg",-
+"EEAO",+
+"iOajV",-
+
+// ground truth 
+contain(repeatatleast(<vow>,4))

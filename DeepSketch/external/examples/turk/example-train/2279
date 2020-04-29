@@ -1,0 +1,26 @@
+// example 
+"ZlnPgSH",+
+">N",-
+"/0j?",-
+"PqS",-
+"EA",-
+"DK~VX",+
+"ZPJ]_1%S.",+
+"",-
+"L@nb{WLW",+
+"ZPJ]_P.jN",+
+"P",-
+"Z\PP4",-
+"i",-
+"L@nbA*LG",+
+"WMTI",+
+"BBo4XW",+
+"ZlnPA%T",+
+"BBo~TY",+
+"a+xpK",-
+"^aZB",-
+"DK%SE",+
+"0VF",-
+
+// ground truth 
+repeatatleast(startwith(<cap>),4)

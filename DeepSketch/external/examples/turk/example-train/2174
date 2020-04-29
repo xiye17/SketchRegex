@@ -1,0 +1,17 @@
+// example 
+"EO",+
+"E!",+
+"o{~,",-
+"l",-
+"o%v!",-
+"",-
+"TY",-
+"BTJn\",-
+"GA9'6",-
+"U",-
+"ub",-
+"{~L",-
+"i}v",-
+
+// ground truth 
+concat(<vow>,or(<m0>,<cap>))

@@ -1,0 +1,15 @@
+// example 
+"!6",+
+"!Ci:s",-
+"H[(?C",-
+"!",-
+"Lp",-
+">",-
+"h^x",-
+"!e9",-
+"F/7a",-
+"",-
+"!xbT",-
+
+// ground truth 
+concat(<m0>,or(<any>,<cap>))

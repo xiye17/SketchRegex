@@ -1,0 +1,15 @@
+// example 
+"",+
+"0",-
+"-k",-
+"k)&D<",-
+"+}'TN{Myq",-
+"K7$P%"",-
+"KE)",-
+"hZ;{bwI[Q(",-
+"qrP*",-
+"$v0v@x3",-
+"lm6yJu&o",-
+
+// ground truth 
+not(startwith(or(<m0>,<any>)))

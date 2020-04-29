@@ -1,0 +1,25 @@
+// example 
+"cGYe",+
+"[",-
+"cGfx",+
+"kn",+
+"HLu",+
+"Q7&;",-
+"V{:n^",-
+"A`s",-
+"S:]Yz*",+
+"",-
+"Q7&~",-
+"*Y~Gv",+
+"S:]YFm",+
+"Hwp",+
+"A`]",-
+"f{",-
+"R",-
+"fJ",-
+"Tq",+
+"*Y~rq",+
+"V{:n{",-
+
+// ground truth 
+contain(concat(<let>,<low>))

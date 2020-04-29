@@ -1,0 +1,16 @@
+// example 
+"`o",+
+"~M&$",-
+"TI-Qk",-
+"<uZ",-
+"jr",-
+"v",-
+"`i",+
+"jf",-
+"TOW6F",-
+"",-
+"~Q!%",-
+"<E!",-
+
+// ground truth 
+concat(<any>,or(<m0>,<vow>))

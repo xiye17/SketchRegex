@@ -1,0 +1,17 @@
+// example 
+"9U6r3",-
+"5xZ",-
+"5H|",-
+"zzJ.",-
+"9U",+
+"",-
+")",-
+",rv}",-
+"5}",-
+"9E",+
+"9XT5L",-
+"5C",-
+"E",-
+
+// ground truth 
+and(contain(<let>),concat(<num>,<vow>))

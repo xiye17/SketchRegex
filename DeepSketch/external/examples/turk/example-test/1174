@@ -1,0 +1,14 @@
+// example 
+"",+
+"_R_K7_"`1",+
+"wT|pACi4",+
+"\'d7;",+
+"c",+
+"$Sd#",+
+"7fu&F9",+
+"#~",+
+"H;H",+
+".gOce!g",+
+
+// ground truth 
+startwith(star(concat(<num>,<cap>)))

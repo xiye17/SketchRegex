@@ -1,0 +1,16 @@
+// example 
+"@Q",+
+"^|8gT",-
+"!|",-
+"@",-
+"@Ad",-
+"HLLT",-
+"C",-
+"@qH3",-
+"/w>z|",-
+"",-
+"`jL",-
+"tq",-
+
+// ground truth 
+concat(<m1>,or(or(<any>,<m0>),<vow>))

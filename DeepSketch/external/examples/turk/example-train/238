@@ -1,0 +1,19 @@
+// example 
+"u0e:",-
+"u0~L",-
+"^2",-
+"g.x>q3jZssf}xZ",+
+"l",-
+"b,",-
+"d*jEv[g3f(iQa;n`qDpU",+
+"a_g"z+wxh_ceolz#c}",+
+"k<W^.",-
+"",-
+"c$qdf's|y@k9qJr)",+
+"ju:",-
+"k<}q.",-
+"}8)",-
+"~",-
+
+// ground truth 
+repeatatleast(concat(<low>,<any>),7)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"li=",+
+"<\>?/",+
+"lOtt",+
+"NQ{pSK9",+
+"Ji",+
+"wdi*1g",+
+"CT{IbR!-",+
+"`,=xHS5`p",+
+"#",+
+
+// ground truth 
+not(and(and(<num>,<any>),<vow>))

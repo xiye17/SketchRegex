@@ -1,0 +1,14 @@
+// example 
+"",+
+"@Bb@01",+
+"ccr?/8[",+
+"]=]K",+
+"#f?'+Jcdi",+
+"_Xu%s",+
+")",+
+"t'HyO%kU",+
+"SG",+
+"u.;",+
+
+// ground truth 
+not(and(star(<m0>),<num>))

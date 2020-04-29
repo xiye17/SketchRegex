@@ -1,0 +1,25 @@
+// example 
+"_N^u\",+
+"i|\",-
+"D_/|w",-
+"|x|",+
+"}U",-
+"|x>",+
+"bD'yc5",+
+"W`T_",+
+"p_",+
+"!",-
+"d",-
+"",-
+"~=|!",-
+"bD'ycT",+
+"}]",-
+"_N^u~",+
+"i|d",-
+"p>",+
+"D_/|O",-
+"W`T}",+
+"~=|{",-
+
+// ground truth 
+endwith(repeatatleast(concat(<let>,<any>),1))

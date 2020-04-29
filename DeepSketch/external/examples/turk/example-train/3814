@@ -1,0 +1,14 @@
+// example 
+"",+
+"tlY",+
+"a)1~aWMD"",+
+"\M",+
+":JEu}K#7",+
+"~E@-1",+
+"_IP0p8^",+
+"qoaV",+
+"R>q/n7",+
+">",+
+
+// ground truth 
+not(and(and(<num>,<vow>),<let>))

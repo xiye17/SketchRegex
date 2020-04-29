@@ -1,0 +1,25 @@
+// example 
+"PQGH",+
+"Ejb9[",-
+"bJU@b",-
+"bc",+
+"V",+
+"a",-
+"kE",-
+"",+
+"dAr",-
+"br",+
+"PQG~",+
+"i",-
+"Jx]",+
+"ttgbv",+
+"dUs",-
+"JxD",+
+"ki",-
+"B",+
+"ttgbc",+
+"tA5q",-
+"erS:",-
+
+// ground truth 
+not(contain(and(<vow>,<any>)))

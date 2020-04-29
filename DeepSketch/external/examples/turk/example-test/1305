@@ -1,0 +1,15 @@
+// example 
+":UI}mVCsFp",+
+"yvd&",+
+"5",+
+"r.8",+
+"80<?o]",+
+"/a<U5",+
+"^AcUi_9",+
+"uf"hNcl(",+
+"0"H@YCSK/",+
+"hg",+
+"",-
+
+// ground truth 
+startwith(or(<any>,concat(<num>,<let>)))

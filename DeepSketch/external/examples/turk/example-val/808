@@ -1,0 +1,25 @@
+// example 
+"Z-Q",-
+"CUQ\Y",-
+"XCAOZAi",+
+"+4",-
+"C.U&'",-
+"DNTEYHOI",+
+"^d",-
+"TGAE",+
+"n-D"",-
+"",-
+"RUIYI",+
+"FYROEI",+
+"g",-
+"ZN}",-
+"P",-
+"FYROEE",+
+"XCAOZAa",+
+"RUIYa",+
+"TGAo",+
+"DNTEYHOu",+
+")ds/",-
+
+// ground truth 
+concat(repeatatleast(<cap>,3),<vow>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"e+*|",+
+"|<x6]",+
+",",+
+"JoF",+
+"V@m;IQ",+
+"K_Ya]lZ",+
+"pi",+
+"bp~''XMKe",+
+"f-=A2?\f",+
+
+// ground truth 
+not(and(concat(<m0>,<low>),<cap>))

@@ -1,0 +1,26 @@
+// example 
+"zbZ",+
+"/",-
+"y9;,3\+",+
+"pD",+
+"vfx=",+
+"Q}",-
+"{~S|",-
+"{~^f~",+
+"}]~~5",-
+"{~{dl",+
+"{~Su",-
+"PW2h]H",+
+"",-
+"}g6",+
+"f",-
+"}]~~f",-
+"W}{",-
+"&|gX",+
+"PW2}v`",+
+"W}h",-
+"Q"",-
+"%cE`X!t",+
+
+// ground truth 
+contain(concat(repeatatleast(<low>,1),<any>))

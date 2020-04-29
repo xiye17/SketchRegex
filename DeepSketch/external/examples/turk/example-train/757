@@ -1,0 +1,15 @@
+// example 
+"np1}d^",+
+"dW4RWjD0",+
+".G(-T8yw*h",+
+"3O",+
+"YEN..",+
+"VY^[8.RSF",+
+"1",+
+";g#[",+
+"x*%c!#=",+
+"XyT",+
+"",-
+
+// ground truth 
+endwith(contain(or(or(<m0>,<any>),<cap>)))

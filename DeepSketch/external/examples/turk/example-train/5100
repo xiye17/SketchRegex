@@ -1,0 +1,25 @@
+// example 
+"ES~s",-
+"avAujaW",+
+"ZayX",+
+"zgSidYql",+
+"DJz_v",-
+"TuBVm",+
+"8;+",-
+"ZczOTW",+
+"",-
+"`",-
+"DJ[{p",-
+"Ze]",-
+"ZczOTg",+
+"O",-
+"avAujam",+
+"]{",-
+"zgSidYqK",+
+"O]",-
+"TuBVE",+
+"ES`)",-
+"Zayj",+
+
+// ground truth 
+repeatatleast(or(<low>,<let>),4)

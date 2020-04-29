@@ -1,0 +1,16 @@
+// example 
+"^W",-
+"Zq",+
+"j",-
+"Pk}Xd",-
+"R",-
+"%+",-
+"Qe|",-
+"Earw",-
+"j1Dus",-
+"/oR",-
+"@*X7",-
+"",-
+
+// ground truth 
+concat(<cap>,<any>)

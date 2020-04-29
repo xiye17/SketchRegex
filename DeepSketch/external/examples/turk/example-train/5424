@@ -1,0 +1,25 @@
+// example 
+"kgIZ",-
+"ioS~",+
+"Am0mf",+
+"rH",-
+"a",+
+"Uj",+
+"1-",-
+"SpCd",-
+"n&O",-
+"eR",+
+"G&=$A",-
+"",-
+"c",-
+"DO)",-
+"i",+
+"ugeQ",+
+"V@XR<",-
+"H",-
+"i(h",+
+"IKP0W",+
+"O3/",+
+
+// ground truth 
+or(startwith(<vow>),concat(<m0>,<m1>))

@@ -1,0 +1,24 @@
+// example 
+"J'\u",+
+"T7",+
+"AITCYRGQE",-
+"MUAM",-
+"V",-
+"*",+
+"DXNBC",-
+"ROGDOP",-
+"",-
+"U?4x3",+
+"RQQ",-
+"<qci",+
+"d",+
+"PQHLGXX",-
+"FW",-
+"PHDHHDFH",-
+"T\",+
+"E"h",+
+"UMCLw",+
+"EW"",+
+
+// ground truth 
+not(star(<cap>))

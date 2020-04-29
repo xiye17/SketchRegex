@@ -1,0 +1,14 @@
+// example 
+"",+
+"bw'^ZW",+
+"F3r",+
+"RKN5?t1",+
+"hAM\(\\1t",+
+"/=,,ohhN",+
+"G3",+
+"YkuM",+
+"sV0m~",+
+"]",+
+
+// ground truth 
+contain(not(concat(<low>,<m0>)))

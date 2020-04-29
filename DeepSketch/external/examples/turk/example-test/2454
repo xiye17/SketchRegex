@@ -1,0 +1,26 @@
+// example 
+"!lyP/",+
+"|Y",+
+"<=<",-
+"0?Z",+
+"!OV5p",+
+"yfk#pC",+
+",",-
+".Q",+
+"",-
+"3e",-
+"D40DHU",+
+"3:",-
+"6kwf",-
+"J",+
+"0TO",+
+"6kw@",-
+"x",-
+"<=c",-
+"$wX*",+
+"}zmqz",-
+"}zmq@",-
+"$O-^",+
+
+// ground truth 
+contain(endwith(<cap>))

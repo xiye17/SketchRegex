@@ -1,0 +1,15 @@
+// example 
+"3X",+
+"uKJ&=j|!-?",+
+"n",+
+"O94B",+
+"7gpwMR44",+
+"ZYTEM=2,T",+
+"XLf?#Q",+
+"z]e8E",+
+"@JK",+
+"",-
+"1DD/Xx-",+
+
+// ground truth 
+contain(or(or(<cap>,<low>),<any>))

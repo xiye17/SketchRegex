@@ -1,0 +1,15 @@
+// example 
+"",+
+"3Oe(Y[.}_",-
+"V+/Y;`Gb-G",-
+"MO+Jj_]",-
+"}e\t4",-
+"c/.L",-
+"B`4",-
+"uOlLU4YI",-
+"B",-
+"PU",-
+"%J{RlP",-
+
+// ground truth 
+not(contain(<any>))

@@ -1,0 +1,25 @@
+// example 
+"5gqsi",+
+"s",-
+"MHZctVi",+
+"W?Ekz",-
+":\OI",+
+"L{Gcku",+
+":\OA",+
+"",-
+"!t_pOv",-
+":ai|",-
+"jq",-
+"W?Ek%",-
+"caA",+
+"MHZctVu",+
+"DSK",-
+"5gqso",+
+"cau",+
+"L{GckU",+
+":ai=",-
+"!t_pOV",-
+"DS|",-
+
+// ground truth 
+concat(repeatatleast(<any>,2),<vow>)

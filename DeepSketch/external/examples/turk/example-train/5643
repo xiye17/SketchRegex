@@ -1,0 +1,17 @@
+// example 
+"NxG",-
+"!_",-
+"!r",+
+"!XHwX",-
+"W",-
+"!",-
+")-Br",-
+"!F",+
+"",-
+"F+",-
+"!XV}",-
+"!=(O)",-
+"!]t",-
+
+// ground truth 
+concat(and(<m0>,<any>),<let>)

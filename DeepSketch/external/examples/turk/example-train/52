@@ -1,0 +1,15 @@
+// example 
+"/",+
+">a;T}",+
+"HI!^TF",+
+"^*gL7|4$",+
+"7C+",+
+"7'ha)h]",+
+"=P2Rn6h_A",+
+"!0,h",+
+"GQm\4wu84w",+
+"",-
+"+7",+
+
+// ground truth 
+startwith(or(<any>,endwith(<m0>)))

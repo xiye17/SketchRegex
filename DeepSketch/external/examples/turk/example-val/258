@@ -1,0 +1,25 @@
+// example 
+"!5HESW",+
+"!0UMBFF",+
+"!4SJk",-
+"!0IHIDMST",+
+"!/ka",-
+"!aM",-
+"!5QG",+
+"!",-
+",",-
+"!1XDVWDMXJK",+
+"",-
+"R)",-
+"!_^"",-
+"!5OQA",+
+"%G#",-
+"!2PIKIIF",+
+"!9BBPICXQS",+
+"!4PLGFCLTGAC",+
+"!EiKA",-
+"!7MAVQPBNIGAN",+
+"!h",-
+
+// ground truth 
+concat(concat(<m0>,<num>),repeatatleast(<cap>,2))

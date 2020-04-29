@@ -1,0 +1,25 @@
+// example 
+"dm",-
+"z]lq",-
+"{}mcg",-
+"e}p.",+
+"uQO",+
+"th}",-
+"z]l-",-
+"oyt",+
+"di)\A",+
+"o",+
+"{}mcl",-
+"p",-
+"",-
+"uj>D",+
+"db",-
+"e",+
+"j",-
+"re",+
+"dbudx",+
+"ru",+
+"thh",-
+
+// ground truth 
+endwith(contain(and(and(<low>,<vow>),<any>)))

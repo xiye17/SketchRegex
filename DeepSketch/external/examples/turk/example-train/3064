@@ -1,0 +1,16 @@
+// example 
+"!u",+
+"YK",-
+"*8zJ",-
+"Yh",-
+".Wi",-
+"@",-
+".FS",-
+"!A",+
+"*xnv",-
+"BxV,Y",-
+"",-
+"BeGVF",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<any>),<vow>)

@@ -1,0 +1,16 @@
+// example 
+"!uQ",-
+"!M9",-
+"!s=\D",-
+"o",-
+"!\",-
+"!V",+
+"!",-
+"e?W?",-
+"ho",-
+"!>}cb",-
+"!gyL",-
+"",-
+
+// ground truth 
+and(concat(<m0>,<cap>),not(<m1>))

@@ -1,0 +1,15 @@
+// example 
+"E",+
+"p/",+
+"IcIF|",+
+"R.7|GyN",+
+"F^d",+
+"5McZhrS;",+
+"oX@A+;@jI",+
+"BEn%.G",+
+"0~9[",+
+"",-
+"$Llt=/9bM}",+
+
+// ground truth 
+or(startwith(<any>),contain(<m0>))

@@ -1,0 +1,25 @@
+// example 
+"!C!V!L!F!YYRL.O/%k",+
+"!V!G!Q!H!RDy",+
+"!F!C!L!W!Pg;%3EbGq1",+
+"mzb",-
+"!K!V!Q!W!HE!3_&l",+
+"!",-
+"!Q!F!K!N!A&",+
+"d",-
+"",-
+"QZ9k",-
+"!c?Os",-
+"!<kU0",-
+"!I!P!O!D!H",+
+"!S!>",-
+"!M!F!Z!J!X7%Sv",+
+"!U!",-
+"!R!F!E!H!GlDB",+
+"!O!Y!Y!I!U~<c,E%A",+
+"!Q!W!J!P!J*Opy@",+
+"!g",-
+"!+",-
+
+// ground truth 
+startwith(repeatatleast(concat(<m0>,<cap>),5))

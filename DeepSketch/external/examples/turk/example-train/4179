@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"_Q!AOE",+
+"1",-
+"!~Ua",+
+"!Oe",+
+"_Q!AOo",+
+"!w",-
+"!AdhA",+
+"!P",-
+"!",-
+"Mv!",-
+"Mv(",-
+"!euNc",-
+"",-
+"9!id",-
+"!i",+
+"!~UA",+
+"!Adhu",+
+"9!iG",-
+"!Oa",+
+"!euNP",-
+
+// ground truth 
+and(endwith(<vow>),contain(<m0>))

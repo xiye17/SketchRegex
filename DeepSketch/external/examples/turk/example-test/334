@@ -1,0 +1,26 @@
+// example 
+"g<",-
+"Iiier",-
+"OOOa",+
+"OEeuU",+
+"n",-
+"aiI",-
+"Aan.",-
+"bB",-
+"!",+
+"",-
+"OEeuE",+
+"aiU",-
+"ouIaOaa",+
+"AaN#",-
+"!Jt",+
+"!$In0[Y",+
+"AEuiau",+
+"OOOU",+
+"AEuiao",+
+"Iiie1",-
+"!c",+
+"E",-
+
+// ground truth 
+or(repeatatleast(<vow>,4),startwith(<m0>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"iR}",+
+"k<JNlXV70",+
+"t",-
+".tE[/",+
+"QiB![5",+
+"PG9+Y'!",+
+"jr",+
+".d:B7ME\KS",+
+"zM\r",+
+"\OWDUG~,",+
+
+// ground truth 
+not(or(or(<num>,<any>),<m0>))

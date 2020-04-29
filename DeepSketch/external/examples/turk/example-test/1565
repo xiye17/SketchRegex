@@ -1,0 +1,26 @@
+// example 
+"sipa",+
+"sipM",+
+"tCBpg",+
+"@!",+
+"@!R`",-
+"@!<:q",-
+"QHd",+
+"t,.",-
+"fLBWdpF",+
+"QHS",+
+"",-
+"Mu",-
+"tCBpE",+
+"|",-
+"[.o",-
+"@);Z~",-
+"dDFPOj",+
+"M",-
+"M%",-
+"@.8]",-
+"dDFPOD",+
+"fLBWdpj",+
+
+// ground truth 
+or(concat(<m1>,<m0>),repeatatleast(<let>,3))

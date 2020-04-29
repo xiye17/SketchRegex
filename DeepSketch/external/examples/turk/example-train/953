@@ -1,0 +1,16 @@
+// example 
+"ar/",-
+"Et]/9",-
+"T",-
+"E!&}w",-
+"!!5Mfu",-
+"*L",-
+"p!6]",-
+"a!V",-
+"",-
+"p'}/",-
+"J!",+
+"!^DC{`",-
+
+// ground truth 
+concat(or(or(<any>,<cap>),<let>),<m0>)

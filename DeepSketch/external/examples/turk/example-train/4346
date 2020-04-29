@@ -1,0 +1,25 @@
+// example 
+"s",-
+"BeT%Kt",+
+"r^",-
+"BeT%kp",+
+"rE",-
+"jur",+
+"OyiDz",+
+"Aa|v",+
+"Oyiew",+
+"ox",+
+"",-
+"uW%{",-
+"ay",+
+"U}~",-
+"jOq",+
+"AaKc",+
+"uW%S",-
+"bFoh?",-
+"bFoh{",-
+"B",-
+"U}Y",-
+
+// ground truth 
+concat(repeatatleast(contain(<vow>),1),<low>)

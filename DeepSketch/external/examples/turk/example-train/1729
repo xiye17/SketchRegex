@@ -1,0 +1,25 @@
+// example 
+"q:",-
+"U.uaI1iGo]U3ez",+
+"u",-
+"~,uq",-
+"L-",-
+"cUTs%",-
+"d",-
+"",-
+"D]3qc",-
+"U.uaI1iGo]U3Ad",+
+"hd2q",-
+"eiE:i_O@AfEy",+
+"ufeCuIInEuO9o/EX",+
+"ufeCuIInEuO9o/a~",+
+"MG3",-
+"ACe]o%atE`EYayiHAKa)",+
+"eiE:i_O@Afe9",+
+"I<I5u4i,u.o2O;aqif",+
+"I<I5u4i,u.o2O;aqe_",+
+"ACe]o%atE`EYayiHAKe.",+
+"c8$",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),6)

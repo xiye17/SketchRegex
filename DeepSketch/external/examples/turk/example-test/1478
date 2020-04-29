@@ -1,0 +1,17 @@
+// example 
+"u/kT",-
+"u!,.",-
+"a/",-
+"g"y0#",-
+"",-
+"b",-
+"i",-
+"u!",+
+"a\X",-
+"o!",+
+"ek",-
+"a!X",-
+"re.pd",-
+
+// ground truth 
+concat(and(<vow>,<low>),<m0>)

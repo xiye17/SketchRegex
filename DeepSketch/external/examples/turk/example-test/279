@@ -1,0 +1,17 @@
+// example 
+"u`)I,",-
+"C2(s",-
+"c!",+
+"",-
+"Ot",-
+"U!",+
+"ED",-
+"O!<",-
+"U",-
+"I!^5",-
+"RFx!5",-
+"I",-
+"O0S",-
+
+// ground truth 
+concat(or(<low>,<vow>),<m0>)

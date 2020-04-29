@@ -1,0 +1,25 @@
+// example 
+"eM",+
+"Il|b",-
+"[",-
+"OauvF",-
+"eeH",+
+"IkEIS",+
+"bo",-
+"EedeUH",+
+"huZK",+
+"Ec-",-
+"aQ",+
+"",-
+"huoD",+
+"EedeuH",+
+"Il|U",-
+"eoQ",+
+"O",-
+"Oauva",-
+"EcQ",-
+"IkEaA",+
+"bO",-
+
+// ground truth 
+contain(concat(<vow>,<cap>))

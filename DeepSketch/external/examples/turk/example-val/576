@@ -1,0 +1,16 @@
+// example 
+"",+
+".",+
+">vOm>",+
+"c!BEV",+
+"N",-
+"~=3",+
+"@[)",+
+"b",+
+"M`6{",+
+"{F",+
+"%!",+
+"<A@l",+
+
+// ground truth 
+or(not(<cap>),repeatatleast(<m0>,1))

@@ -1,0 +1,24 @@
+// example 
+"&,O^",-
+"1tR&<",-
+"Ebx`",-
+"4U4Z2D0A7U5Q4B0X",+
+"6A1Z0B1S0N8U2C",+
+"+",-
+"6y",-
+"0N7F7I0T8B",+
+"",+
+"9X",+
+"3A0L4O3O4T0O3X2F0V",+
+"P"",-
+"+]d",-
+"u+;",-
+"9C7M",+
+"("og;",-
+"6K6O7O5N",+
+"x",-
+"8Y5W2W",+
+"3H1B6H2C6V9W",+
+
+// ground truth 
+star(concat(<num>,<cap>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"U!",+
+".0sB_xw",+
+"|Av",+
+"U!uR>dW=(",+
+"$PT3",+
+"kN*tf+(?",+
+""v:rh",+
+"m?QB.6",+
+"]",+
+
+// ground truth 
+not(and(and(<any>,<vow>),<m0>))

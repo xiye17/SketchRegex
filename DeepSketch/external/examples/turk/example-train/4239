@@ -1,0 +1,25 @@
+// example 
+"eAeeuo!",+
+"eaAaAiIIU!",+
+"auy$",-
+"aohBR",-
+"AEuUI!",+
+"ao8RQ",-
+"AEuUe!",+
+"ioaaAOi!",+
+"elg",-
+"eaAaAiIIa!",+
+"",-
+"ioaaAOe!",+
+"i",-
+"AaeOIAEI!",+
+"eAeeuU!",+
+"UU",-
+"UI",-
+"MS^^",-
+"I",-
+"AaeOIAEu!",+
+"e^h",-
+
+// ground truth 
+concat(repeatatleast(<vow>,5),<m0>)

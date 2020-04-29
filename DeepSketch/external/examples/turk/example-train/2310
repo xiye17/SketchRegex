@@ -1,0 +1,25 @@
+// example 
+"YpGUi",+
+"VIU",+
+"ON&",-
+"VIA",+
+"+E",-
+"YTIE",+
+"djeDBu",+
+"Be",+
+"l",-
+""RUYn",-
+".jn8",-
+".jnd",-
+"YTIO",+
+"#",-
+"",-
+"+:",-
+"djeDBi",+
+"BE",+
+""RUYD",-
+"ONd",-
+"YpGUe",+
+
+// ground truth 
+endwith(concat(<cap>,<vow>))

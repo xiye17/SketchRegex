@@ -1,0 +1,25 @@
+// example 
+"\",-
+"J7",+
+"WOZUVWUE4",+
+"D_",-
+">=",-
+"",-
+";",-
+"DLWQ2",+
+"9",+
+"5\F",-
+";&&Y",-
+"ZAEUUV9",+
+"?a6",-
+"3}s|Q",-
+"ZGW9",+
+"z]HG",-
+"ISVRJ5",+
+"LZBCYNU9",+
+"LB2",+
+"KGAEFPUJP1",+
+"w1~['",-
+
+// ground truth 
+concat(star(<cap>),<num>)

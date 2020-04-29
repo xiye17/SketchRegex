@@ -1,0 +1,19 @@
+// example 
+"HwRQ@s&lb",+
+""1yY}/l^9LQ1",+
+"2,]S:l[B",+
+"'EJm}Ip",+
+"0GveOCJA~y",+
+"qF8m|",+
+"rbib04}yrN#",+
+"_;@",-
+"70tftSr,POpv6",+
+"",-
+"%",-
+"FOvO",-
+"o*",-
+"uwc{0Z",+
+"y:/V?aEF=DlXm1",+
+
+// ground truth 
+repeatatleast(or(<m0>,startwith(<any>)),5)

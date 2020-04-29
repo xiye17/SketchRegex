@@ -1,0 +1,25 @@
+// example 
+"Azn)",-
+"1Ir",-
+"1ce",+
+"5hhgO",+
+"8i",+
+"9orU",+
+"9Oq^IE",+
+"5",-
+")5B}",-
+"k",-
+"3l",-
+"",-
+"9Oq^II",+
+")R",-
+"a2+Z[",-
+"1Ij",-
+"1cA",+
+"9ori",+
+"8e",+
+"!|5mL",-
+"5hhge",+
+
+// ground truth 
+concat(startwith(<num>),<vow>)

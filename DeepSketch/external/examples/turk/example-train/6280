@@ -1,0 +1,25 @@
+// example 
+"[]$|GBG",+
+"u7yw\",-
+"iDl",+
+"3",-
+"|]l~",-
+"iDR",+
+",{VNa",+
+"l{G",-
+"|]l[",-
+"[]$|GBp",+
+"^",-
+"",-
+"p8s]9R",+
+"~~",-
+"{AOw",+
+"{AOM",+
+",{VNI",+
+"l{1",-
+"u7yw{",-
+"p8s]9r",+
+"~^",-
+
+// ground truth 
+repeatatleast(endwith(<let>),3)

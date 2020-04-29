@@ -1,0 +1,16 @@
+// example 
+"3a",+
+"P",-
+"MLn.y",-
+"'^#,",-
+"Ma,,?",-
+"$o+",-
+"Fb",-
+"3e",+
+"'c{:",-
+"",-
+"Ff",-
+"$uj",-
+
+// ground truth 
+concat(or(<any>,<low>),<vow>)

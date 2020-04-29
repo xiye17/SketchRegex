@@ -1,0 +1,19 @@
+// example 
+"P].?jp",+
+"hrpb9TPgp$/P",+
+"\jmx)=T",+
+"nc1Yko0\".W6=o",+
+"xc{i~'mZ",+
+"bQH.`Fa*tX>4@",+
+"[;XVgmaJ+",+
+"",-
+"q/",-
+"/W>MP)>6"z",+
+""(c",-
+"'q"Yj",+
+">qYC;'<D~8u",+
+"I",-
+"HytI",-
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),5)

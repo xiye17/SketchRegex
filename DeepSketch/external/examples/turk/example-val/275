@@ -1,0 +1,25 @@
+// example 
+"Ic:4`",+
+"p",+
+"jy~t",+
+"fqsbkxfb",-
+"vmalfdilwtn",-
+"ys",-
+"hleiijvcm",-
+"{)6",+
+"fgehgca",-
+"rqyvat",-
+"eqgez",-
+"wzcmuefzzc",-
+"",+
+";",+
+"}&2b}",+
+"|U",+
+"t-",+
+"jy.3",+
+"qwz",-
+"nviq",-
+",$t",+
+
+// ground truth 
+not(repeatatleast(<low>,2))

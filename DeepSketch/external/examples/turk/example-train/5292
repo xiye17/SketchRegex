@@ -1,0 +1,17 @@
+// example 
+"!YGP",-
+"!6",+
+"!%BB",-
+"G8",+
+"m",-
+"^z",-
+"!RA.x",-
+"",-
+"}",-
+"}nN",-
+"!%"@#",-
+"9y",-
+"(Mr",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<let>),<num>)

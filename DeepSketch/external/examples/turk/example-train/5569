@@ -1,0 +1,25 @@
+// example 
+"F*!1",-
+"X8I4q",-
+"XSQD7e",+
+"[",-
+"w9i",+
+"NT2o",+
+"Q)#1a",+
+"zV",-
+"B7*8d6u",+
+"p",-
+"B7*8d6o",+
+"Loa",-
+"XSQD7I",+
+"",-
+"z7",-
+"Lo(",-
+"w9e",+
+"NT2a",+
+"X8I4c",-
+"F*!(",-
+"Q)#1O",+
+
+// ground truth 
+concat(<let>,endwith(concat(<num>,<vow>)))

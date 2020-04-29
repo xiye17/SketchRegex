@@ -1,0 +1,25 @@
+// example 
+"UCAQuKIKeEoD",+
+"D>v.t",-
+"ETOW",+
+"A]",-
+"ETUP",+
+"F&c?]",-
+"",-
+"UCAQuKIKeEeQ",+
+"en.",-
+"[RCo",-
+"IRaZEQuBeJ",+
+"aUIQAI",+
+"f*H#",-
+"uVoNIDIO",+
+"IRaZEQuBUT",+
+"e')",-
+"uVoNIDUD",+
+"aUIQaN",+
+"A0",-
+"B",-
+"E",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),2)

@@ -1,0 +1,17 @@
+// example 
+"7$H",-
+"7~v",-
+"2Yvz",-
+"0c!",+
+"",-
+"6~",-
+"2Y!k",-
+"LpdcS",-
+")K:@C",-
+"8",-
+"@",-
+"6,",-
+"0D!",+
+
+// ground truth 
+concat(<num>,concat(<let>,<m0>))

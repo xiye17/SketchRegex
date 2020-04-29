@@ -1,0 +1,26 @@
+// example 
+".",-
+"0^",-
+"7YF",+
+"9lzzH",+
+"4ZdS",+
+"8BQtKy",+
+"",-
+")}",-
+"9",+
+"me|g",-
+"U",-
+"7Yi",+
+"9lzza",+
+"4Zdp",+
+"8BQtKN",+
+"7q",+
+"($%?",-
+"7B",+
+"mo*",-
+"&YP",-
+"1P{NN",-
+"1|4s'",-
+
+// ground truth 
+concat(<num>,star(<let>))

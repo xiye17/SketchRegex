@@ -1,0 +1,25 @@
+// example 
+"o",+
+"wiSa",+
+"a",+
+"eT",+
+"aJ",+
+"\D",-
+"w^A%",+
+"",-
+"r2g",-
+"u}y@e",+
+"j",-
+"N",-
+"hPd~k",-
+"r2N",-
+"hPd~s",-
+"\b",-
+"c`Cb",-
+"BSe",+
+"c`Ch",-
+"BSi",+
+"BBUbz",+
+
+// ground truth 
+repeatatleast(endwith(contain(<vow>)),1)

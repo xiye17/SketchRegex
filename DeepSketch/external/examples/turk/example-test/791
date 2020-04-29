@@ -1,0 +1,25 @@
+// example 
+"oaqq",+
+"gvpmngsngg",+
+"iA",-
+"cxlwadafz",+
+"{mG",-
+"8Y|",-
+"ursmych",+
+"pyidrwam",+
+"W",-
+"}%w/$",-
+"c",+
+"pmmvj",+
+"",-
+"}",-
+"ngkqcx",+
+"db",+
+"*,",-
+"zwxY",-
+"lks",+
+"d|4iQ",-
+"zw)6",-
+
+// ground truth 
+repeatatleast(or(and(and(<m0>,<let>),<cap>),<low>),1)

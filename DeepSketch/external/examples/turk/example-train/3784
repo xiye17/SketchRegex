@@ -1,0 +1,15 @@
+// example 
+"$]",-
+"i",-
+"!7v",-
+"2Mp:",-
+"!v"Q",-
+"r+Sov",-
+"!$",+
+"!",-
+"",-
+"n;P",-
+"!G3o#",-
+
+// ground truth 
+concat(<m0>,or(<cap>,<any>))

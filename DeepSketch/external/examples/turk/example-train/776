@@ -1,0 +1,14 @@
+// example 
+"",+
+">2F",+
+"ky",+
+"8N9)2(",+
+"G",+
+"^f$j@",+
+"'Hqk",+
+"c&#!WjX",+
+"0^cnB>AA",+
+"H@c]n0lxC",+
+
+// ground truth 
+not(and(and(<let>,<m0>),<m1>))

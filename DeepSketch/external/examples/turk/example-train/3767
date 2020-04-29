@@ -1,0 +1,14 @@
+// example 
+"",+
+"\wn?",+
+"1",+
+"BrE4|PvF}",+
+"l\j",+
+"4FX*1W6",+
+"?KqLZ3EH",+
+";Y",+
+"0,G`l",+
+"#VJ7xP",+
+
+// ground truth 
+not(contain(and(<m0>,<m1>)))

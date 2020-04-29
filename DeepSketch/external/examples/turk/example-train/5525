@@ -1,0 +1,26 @@
+// example 
+"fpn#",+
+"}bba2",+
+"ndc",+
+"b#K{ajd",+
+"b#KoebE",+
+"}}pwd",+
+"tp{EnfkF",+
+"@b3s4",-
+"",-
+"@b3si",-
+"(nkj",+
+"|tl",-
+"|{",-
+"|S",-
+"%L}uxn",+
+"wTlu",-
+"tpo4\HO#",+
+"|tP",-
+"wTlD",-
+"%L'uhu",+
+">",-
+"{",-
+
+// ground truth 
+contain(repeatatleast(<low>,3))

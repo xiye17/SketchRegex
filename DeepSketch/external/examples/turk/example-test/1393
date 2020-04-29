@@ -1,0 +1,15 @@
+// example 
+"3y",-
+"I4#?f",-
+"1@P",-
+"31",-
+"I@Ho0",-
+":@",+
+"k",-
+"N@rK",-
+"Ne$X",-
+"",-
+"1*Z",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<any>),<m1>)

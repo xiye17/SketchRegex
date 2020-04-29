@@ -1,0 +1,17 @@
+// example 
+"ob",-
+"a5'FV",-
+"s",-
+"8=Oh",-
+"dpr",-
+"a",+
+"9S",-
+"!",+
+"",-
+")",-
+"_R[&#",-
+"aB7m",-
+"GWh",-
+
+// ground truth 
+or(or(or(<cap>,<vow>),<m0>),<m1>)

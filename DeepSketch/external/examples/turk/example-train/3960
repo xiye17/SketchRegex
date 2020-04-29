@@ -1,0 +1,14 @@
+// example 
+"",+
+"kZpgK?D",+
+"9Cz|<:",+
+"i}Fi3",+
+"lt&^drjkh",+
+"<G;",+
+"a9wJWopP",+
+"$^:#",+
+"|",+
+"5&",+
+
+// ground truth 
+endwith(star(contain(<num>)))

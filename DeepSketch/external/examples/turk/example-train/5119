@@ -1,0 +1,17 @@
+// example 
+"VU)dh",+
+"^3",+
+"W97q",+
+"q",-
+"1Jc",+
+"sm1A*",+
+"^",+
+"NT",+
+"67#"",+
+"",+
+"Pa9",+
+"4",+
+"L",-
+
+// ground truth 
+or(repeatatleast(<m0>,1),not(<let>))

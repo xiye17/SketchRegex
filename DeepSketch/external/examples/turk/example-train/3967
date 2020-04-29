@@ -1,0 +1,25 @@
+// example 
+"n\CpI",+
+"F",-
+"fE",+
+"fwST",-
+"fu",+
+"K\thj",-
+"rEmp",+
+"|x",-
+"t|i",+
+"",-
+"5kX",-
+"e",+
+"n\a.s",+
+"fwSc",-
+"roo6",+
+"t|u",+
+"K",-
+"K\tht",-
+"|b",-
+"A",+
+"5k~",-
+
+// ground truth 
+contain(concat(star(<low>),<vow>))

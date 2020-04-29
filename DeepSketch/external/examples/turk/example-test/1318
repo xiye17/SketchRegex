@@ -1,0 +1,25 @@
+// example 
+"LMMae7",+
+"oeTiH",-
+"N{Uo3",+
+"H$",-
+"O0",+
+"i&Ic",-
+"N{UE4",+
+"Oma",-
+"",+
+"i&Iu",-
+"I5",+
+"LMMai3",+
+"uu3",+
+"ua6",+
+"2EO7",+
+"Omv",-
+"oeTif",-
+"2Ea1",+
+"R",-
+"H}",-
+"I",-
+
+// ground truth 
+star(contain(concat(<vow>,<num>)))

@@ -1,0 +1,17 @@
+// example 
+"UD",+
+"3p",-
+"\L=",-
+"|N`Ca",-
+"]&!G",-
+"Wpq",-
+"a}40",-
+"^",-
+"",-
+"mx",+
+"]\",-
+"Q",-
+":=~g@",-
+
+// ground truth 
+concat(<let>,or(or(<cap>,<vow>),<any>))

@@ -1,0 +1,26 @@
+// example 
+"@d",+
+"-s",-
+"s-",-
+"TAu",-
+"@K%Rww",+
+"!",+
+"",-
+"!TK4S6",+
+"RzAMd",-
+"!,wxY",+
+"@Ze",+
+"Uc}d",-
+"!V",+
+"!%&1",+
+"7^8eo",-
+"@W\Ff",+
+"y",-
+"@DBn",+
+">",-
+"#rJ",-
+"!j}",+
+")pae",-
+
+// ground truth 
+startwith(or(<m0>,concat(<m1>,<any>)))

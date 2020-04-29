@@ -1,0 +1,17 @@
+// example 
+"UOk.m",-
+"O1$",-
+"U",+
+"_",-
+"iDY*",-
+"",-
+"H;R",-
+"Z^MA",-
+"i",+
+"B"",-
+"FSzos",-
+"C",-
+"Ej",-
+
+// ground truth 
+and(contain(<vow>),or(<let>,<m0>))

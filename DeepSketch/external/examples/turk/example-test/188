@@ -1,0 +1,17 @@
+// example 
+"{nN",-
+"qlpg",-
+"bwE",+
+"#",-
+"{&",-
+"",-
+"}*q8{",-
+"NS5C=",-
+"0R",-
+"7r)S",-
+"j",-
+"bwe",+
+"N#a",-
+
+// ground truth 
+concat(concat(<low>,<any>),<vow>)

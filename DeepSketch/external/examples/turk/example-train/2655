@@ -1,0 +1,17 @@
+// example 
+"U"5*",+
+"M(%_7",+
+"n",+
+"o",-
+"}U~8",+
+"Ik",+
+"oI",+
+"I~G",+
+"",-
+"a",-
+"M",+
+"g_+",+
+"iU?L!",+
+
+// ground truth 
+and(startwith(<any>),not(<vow>))

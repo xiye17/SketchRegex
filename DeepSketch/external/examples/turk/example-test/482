@@ -1,0 +1,17 @@
+// example 
+"(o[-W",+
+"zs.;UnHZFOw",+
+".",-
+"Fm",-
+"",-
+"0%)SQwi^",+
+"2kY",+
+"a;d%ue",+
+";r^e>!G",+
+"QqT(JWc|!E",+
+"'j[D]6\jaBM1",+
+"9]A:[3[Js",+
+"SztQ",+
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),3)

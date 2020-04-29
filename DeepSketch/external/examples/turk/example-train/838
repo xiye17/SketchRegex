@@ -1,0 +1,15 @@
+// example 
+"Ib",+
+"b0J",+
+"G",+
+"Jc?s{]3MB",+
+"?ag6+",+
+"tAug)W",+
+"|lP%GD"4",+
+"?ebWgk'x13",+
+"~aV%a3v",+
+"|JlE",+
+"",-
+
+// ground truth 
+endwith(repeatatleast(<any>,1))

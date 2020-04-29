@@ -1,0 +1,25 @@
+// example 
+"}h",-
+"aA~",-
+"fapUkuwU",+
+"bIyazO",+
+"lolIzEcAsI",+
+"ea}Rp",-
+"eooefEaUvile",+
+"vI",-
+"a^1",-
+"",-
+"lolIzEcAsu",+
+"gU~?",-
+"coqAeiaIaohope",+
+"fapUkuwu",+
+"y",-
+"bIyazI",+
+"eooefEaUvilE",+
+"gl1-",-
+"coqAeiaIaohopA",+
+"{",-
+"eyh{L",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),3)

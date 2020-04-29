@@ -1,0 +1,14 @@
+// example 
+"",+
+"M_",+
+"`ucv1K",+
+"LOXKU9:",+
+"Ut#qF*y]",+
+"LGhD",+
+"V",+
+"Ps*9!",+
+"8Qb",+
+"NR?&lwD@q",+
+
+// ground truth 
+contain(not(and(<cap>,<m0>)))

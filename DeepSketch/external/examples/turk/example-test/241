@@ -1,0 +1,15 @@
+// example 
+"",+
+"*-?4J=,oZ",+
+".|",+
+"OV+67PB\",+
+"e<bkaw",+
+"\Bn"d<lJFW",+
+"Hm5,Y}p",+
+"5P>a",+
+"s3a",+
+"x0m@&",+
+"a",-
+
+// ground truth 
+not(or(or(<low>,<m0>),<any>))

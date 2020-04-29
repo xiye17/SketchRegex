@@ -1,0 +1,25 @@
+// example 
+"HOFAFUKo",+
+"HOAiQa",+
+"EoMOAOAaHiNeEe",+
+"t",-
+"V}Tm/",-
+"HOTOGaPICeBE",+
+"SlFW",-
+"Sb0z",-
+"LuMUAiMOCO",+
+"HOTOGaPICeBI",+
+"",-
+"Q",-
+"HOAiQo",+
+"EoMOAOAaHiNeEE",+
+"u~",-
+"07h",-
+"HOFAFUKi",+
+"LUE",-
+"QY",-
+"LuMUAiMOCi",+
+"$s&}\",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),3)

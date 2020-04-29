@@ -1,0 +1,25 @@
+// example 
+"|R9}d",-
+"oqdojtm",+
+"!6",-
+"!`",-
+"}~!",-
+"nufip",+
+"qgholqgzw",+
+"!",-
+"v{b",-
+"!BIi",-
+"",-
+"yfpkxbgi",+
+"'",-
+"hyb",+
+"bjbxmdgvsb",+
+"!m",+
+"hfgnpi",+
+"!Z",+
+"!~j0",-
+"pgvy",+
+"I}U)"",-
+
+// ground truth 
+or(concat(<m0>,<let>),repeatatleast(<low>,3))

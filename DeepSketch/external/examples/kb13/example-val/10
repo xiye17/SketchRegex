@@ -1,0 +1,25 @@
+// example 
+"N~_RWt^anR.~PDy",+
+"[|y{[",-
+"Fbg]gZTHJPi",+
+"95",-
+"S[nMhd~WlNpx",+
+"&\bNTo;Putrux",+
+"-fQ",-
+"",-
+"9[",-
+"S[nMhd~WlNpN",+
+"1D'lmD|g4\D|UrJy",+
+"1D'lmD|g4\D|UrJN",+
+"%}@:",-
+"&\bNTo;PutruK",+
+"j",-
+"%}@{",-
+"[|y{a",-
+"-f|",-
+"Fbg]gZTHJPT",+
+"N~_RWt^anR.~PDQ",+
+"E",-
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),10)

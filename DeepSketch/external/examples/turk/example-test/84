@@ -1,0 +1,15 @@
+// example 
+"y@yH",-
+"8",-
+"a6QPk",-
+"y#-o",-
+"c@",+
+"C?",-
+"grd",-
+"CO",-
+"g5|",-
+"aga6p",-
+"",-
+
+// ground truth 
+concat(or(or(<let>,<any>),<m0>),<m1>)

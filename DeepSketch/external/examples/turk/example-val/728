@@ -1,0 +1,25 @@
+// example 
+"btow4",+
+"ppt",-
+"bfz2",+
+"u",-
+"|<<@",-
+"ivyidxarm1",+
+"ko]g",-
+"X",-
+"wd",-
+"",-
+"wbdhmk2",+
+"ycadh0",+
+"nybbcdeucae7",+
+"jlkmynxb4",+
+"#s",-
+"W5XT/",-
+"mrhobmc8",+
+"iaygoixnpo0",+
+"p<a",-
+"{>]c>",-
+"yzgfyxdqjpgf7",+
+
+// ground truth 
+concat(repeatatleast(<low>,3),<num>)

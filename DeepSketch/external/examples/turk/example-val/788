@@ -1,0 +1,17 @@
+// example 
+"@zk",-
+"{j",-
+"ec@S",-
+"se",+
+"mG)2u",-
+"m~HV%",-
+"",-
+":",-
+"eO*P",-
+"sE",+
+"9",-
+"2\",-
+"lQl",-
+
+// ground truth 
+concat(or(<let>,<num>),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"8Pru",+
+"1S",-
+",\A",-
+"*ISs*",-
+"7fzoPDzQ",+
+"7PCm[",-
+"8FNytrv",+
+"q",-
+"7JzbL",+
+"1DInCY",+
+"",-
+"c^|q",-
+"&",-
+"0R{",-
+"7fzoPDzm",+
+"1{",-
+"8PrB",+
+"7Jzbn",+
+"*An3",-
+"1DInCz",+
+"8FNytrG",+
+
+// ground truth 
+concat(<num>,repeatatleast(<let>,3))

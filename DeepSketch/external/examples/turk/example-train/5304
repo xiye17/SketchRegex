@@ -1,0 +1,17 @@
+// example 
+"O/f*",-
+"!",-
+"U(",-
+"J^?U",-
+"UUi2,",-
+"",-
+"G`#",-
+"I@",+
+"BqZ",-
+"U@d|(",-
+"t@",+
+"M+",-
+"I",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<low>),<m1>)

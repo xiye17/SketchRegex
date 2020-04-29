@@ -1,0 +1,25 @@
+// example 
+"UNO",-
+"1",-
+"1h"l",-
+"8aO",+
+"6IoOUa",+
+"8o",+
+"8oeIa",+
+"8E",+
+"",-
+"&",-
+"3hR",-
+"5aoA",+
+"8oeIE",+
+"8aU",+
+"9m",-
+"6C%~_",-
+"6IoOUo",+
+"9t",-
+"%Yb<",-
+"G:KOH",-
+"5aoe",+
+
+// ground truth 
+concat(<num>,repeatatleast(<vow>,1))

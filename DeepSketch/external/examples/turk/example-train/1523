@@ -1,0 +1,24 @@
+// example 
+"v)SP3",-
+"!.'XFvN7",+
+"!8S2",-
+"`4",-
+"!",-
+"U:3C",-
+"",-
+"!2R",-
+"oZ$",-
+"!jOL|E",+
+"!o"z!)\\q"t",+
+"!.A72",+
+"!blACqeN#",+
+"!5)M%t*yO.7G",+
+"!B",-
+"!{CQ^zT",+
+"!t}eyD9Z*SXlk.",+
+"!+Ca4!4rpy",+
+"!W"g16eS:m|^s",+
+">",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<any>,4))

@@ -1,0 +1,25 @@
+// example 
+"3",-
+"U]B7W",-
+",",-
+"1WFEMKDM",+
+"1PAQHEVNTXT",+
+"4PIXJHD",+
+"7TSSRE",+
+"2TEBICYBTWRWEZ",+
+"",-
+""b",-
+"5+_",-
+"9KwE",-
+"5XAFTCTNJD",+
+"5_F",-
+"9bf9",-
+"0e",-
+"2MOJWATLY",+
+"3FWMLRFQZJIO",+
+"4EBHXWSYSUFXSZO",+
+"2QJSLQIUXNNEZ",+
+"0,P>u",-
+
+// ground truth 
+concat(<num>,repeatatleast(<cap>,5))

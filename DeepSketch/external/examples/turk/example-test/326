@@ -1,0 +1,25 @@
+// example 
+"ENa{",-
+"aub",+
+"Ez",+
+"EN",+
+"IE}iB",+
+"Ge{",-
+"O6",-
+"UxeIIE",+
+"",-
+"Caai",+
+"Ge]",-
+"U",-
+"auq",+
+"ENa3",-
+"G9v`h",-
+"CaaO",+
+"A",-
+"IE}id",+
+"O]",-
+"UxeIIe",+
+"G9v``",-
+
+// ground truth 
+endwith(repeatatleast(concat(<vow>,<let>),1))

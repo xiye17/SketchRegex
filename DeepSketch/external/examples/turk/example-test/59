@@ -1,0 +1,15 @@
+// example 
+"/5@8O",+
+"`a:c>/S",+
+"`JU",+
+"L56y(|d)r",+
+"J",+
+"k%",+
+"&xpg@WnaU8",+
+"*-=O",+
+"[zsk?D",+
+"",-
+"r^B+Avov",+
+
+// ground truth 
+repeatatleast(contain(or(<any>,<let>)),1)

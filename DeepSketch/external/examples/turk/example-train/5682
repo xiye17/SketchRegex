@@ -1,0 +1,25 @@
+// example 
+"OOoUEUEQm_",+
+"AIF\e",-
+"OuoaiAERx",+
+"UuUEoiI",+
+"OOoUEUihjr",+
+"yg~lIiUEeIU",+
+"UuUEoiU",+
+"AIF\u",-
+"",-
+"bUeO",-
+"AoEOiaei",+
+"uo",-
+"xuu",-
+"xuI",-
+"uK",-
+"O",-
+"OuoaiAes7",+
+"AoEOiao/",+
+"yg~lIiUEeIA",+
+"I",-
+"bUeh",-
+
+// ground truth 
+endwith(contain(repeatatleast(<vow>,7)))

@@ -1,0 +1,25 @@
+// example 
+"HWMX",-
+"cKJ",-
+"^*Y-",+
+"{.3GT",+
+"jZNRV",-
+"Z|",+
+"\`&",+
+"JSK",-
+"_",+
+"R1*}2",+
+"",+
+";f,",+
+"KQ",-
+"oBXW",-
+"Z3",+
+"A",-
+"y",-
+"AI~Z",+
+"dS",-
+"{",+
+"ISPVI",-
+
+// ground truth 
+not(concat(<let>,star(<cap>)))

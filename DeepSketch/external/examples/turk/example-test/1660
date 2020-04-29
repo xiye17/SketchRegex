@@ -1,0 +1,25 @@
+// example 
+"po",-
+"h!-",-
+"eZQ",+
+"EHJU|",-
+"UVAPa",+
+"eLmN",+
+"eoo[",-
+"EH'y>",-
+"",-
+"iD",+
+"eLms",+
+"UVAPC",+
+"h",-
+"ui_",-
+"t1@8",-
+"it",+
+"O",+
+"eZb",+
+"u",+
+"M",-
+"R-",-
+
+// ground truth 
+and(repeatatleast(<let>,1),startwith(<vow>))

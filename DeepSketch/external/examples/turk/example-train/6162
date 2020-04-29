@@ -1,0 +1,14 @@
+// example 
+"",+
+""w",+
+"/vuu,1os",+
+"00>9-"",+
+"S?XAB.>",+
+"x$_Mv",+
+"bLjA@x^wt",+
+"25K",+
+"%",+
+"YL";",+
+
+// ground truth 
+not(and(and(<any>,<low>),<m0>))

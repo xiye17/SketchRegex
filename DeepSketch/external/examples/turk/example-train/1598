@@ -1,0 +1,25 @@
+// example 
+"_X{~yE",+
+"F",-
+"0k-y",-
+"s_dqP",+
+"_X{~MH",+
+"s_dWK",+
+"^Y+Oo",-
+"kmxK",+
+"%N",-
+"^Y+O|",-
+"0k-}",-
+"PR",+
+"",-
+"_KZ",+
+"|l~",-
+"sG",+
+"|",-
+"%]",-
+"|l]",-
+"_kK",+
+"kmTS",+
+
+// ground truth 
+contain(concat(<let>,<cap>))

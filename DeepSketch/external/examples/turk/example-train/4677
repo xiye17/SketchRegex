@@ -1,0 +1,26 @@
+// example 
+"^&c_J",-
+"LQDKGWS&",+
+"n8x",-
+"^&c_3",-
+";5q%CTYVRJO",+
+"#{",-
+"LfIKORAA",+
+"5",-
+"JMEJOSH",+
+"N7bVEHSRL",+
+"*]G!",-
+"8it6SLEJPY",+
+"#K",-
+"",-
+"QTJOZF",+
+"8itPQYAHBC",+
+"n8Z",-
+"U",-
+"*]Gf",-
+"fARNQHC",+
+";5q%!PZCCMH",+
+"N7QTKONJu",+
+
+// ground truth 
+contain(repeatatleast(<cap>,6))

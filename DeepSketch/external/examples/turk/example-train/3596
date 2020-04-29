@@ -1,0 +1,14 @@
+// example 
+"",+
+"g9o2^t",+
+"D",+
+"<I",+
+"J[%8U_OMb",+
+"jf,",+
+"]\`P",+
+"l8ri[yC",+
+"UxYL<",+
+"b"|i"kQ^",+
+
+// ground truth 
+endwith(or(not(<vow>),<low>))

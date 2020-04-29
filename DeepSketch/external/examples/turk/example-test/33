@@ -1,0 +1,25 @@
+// example 
+"X7T3r9",+
+"M1i3c8i8P8",+
+"Y8",+
+"Y",-
+"~NR",-
+"rI",-
+"B1}",-
+"$oYOy",-
+"t!-1",-
+"",-
+"G0m1S3d3",+
+"r%",-
+"N7a3",+
+"M1i3c8i8j2",+
+"}y3s",-
+"N7R6",+
+"J'w|&",-
+"X7T3W3",+
+"p4",+
+"G0m1S3A2",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),1)

@@ -1,0 +1,17 @@
+// example 
+"CL&",-
+"9c",-
+"[",-
+"3FtC",-
+"TE",+
+"",-
+"IoJ'x",-
+"ctJ7/",-
+"WKgi",-
+"jNC",-
+"Te",+
+"B",-
+"i)",-
+
+// ground truth 
+concat(and(<any>,<cap>),<vow>)

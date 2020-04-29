@@ -1,0 +1,25 @@
+// example 
+"6/W3",-
+"41?PyQ",+
+"d-",-
+"N^oPp",+
+"41?PDM",+
+"+",-
+"6/W{",-
+"mIH",+
+"H2A}L",-
+"",-
+"!m@",-
+"N^oPR",+
+"@3TL",+
+"U",-
+"@3Te",+
+"JG",+
+"mIo",+
+"!m[",-
+"H2A}6",-
+"Jv",+
+"dP",-
+
+// ground truth 
+contain(concat(<cap>,<let>))

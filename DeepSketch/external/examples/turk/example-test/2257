@@ -1,0 +1,26 @@
+// example 
+"H&?qJOULY,T",+
+"WxENmHCNS",+
+"Fi/G",-
+"p",-
+"kv",-
+"J5F-bD#PdKCS",+
+"H&?qJOULYzQ",+
+"8:",-
+"JDG%DTZV",+
+"WxEN@EOVP",+
+"",-
+"T.*",-
+"Ncfr^",-
+"ZMtYPhS^HY",+
+"T.Q",-
+"J5F-bD#&EVEO",+
+"Fi/%",-
+"FJZRBGV",+
+"+Qi}R",-
+"I",-
+"ZMtYPhS;AP",+
+"J!OCTGPD",+
+
+// ground truth 
+repeatatleast(startwith(<cap>),7)

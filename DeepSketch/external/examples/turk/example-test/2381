@@ -1,0 +1,15 @@
+// example 
+",j",+
+"E},i6}7",+
+".zBv",+
+"~!,ncns7)6",+
+"d",+
+"-Z88l-",+
+"HBA|p6'MN",+
+".?\",+
+"o{EdH",+
+"",-
+"F_i[cO/`",+
+
+// ground truth 
+contain(or(or(<cap>,<let>),<any>))

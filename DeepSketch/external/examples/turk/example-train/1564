@@ -1,0 +1,25 @@
+// example 
+"s._f",-
+"GO",+
+"giah<",+
+"ngzHh",-
+"svI",+
+"VN=I",+
+"",-
+"a",-
+"U[r",-
+"}rC",-
+"$",-
+"Oa!0s\",+
+"guG7|",+
+"VU>c",+
+"[w",-
+"s._W",-
+"sva",+
+"|j",-
+"Ga",+
+"OIO]x:",+
+"ngzHM",-
+
+// ground truth 
+concat(<let>,contain(repeatatleast(<vow>,1)))

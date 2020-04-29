@@ -1,0 +1,25 @@
+// example 
+"M!Rap",+
+"E",+
+"$ZLw",-
+"Cu5]",+
+"U",+
+"t\",-
+""DS",-
+"C@?",+
+"",-
+"_!",+
+"_I",+
+"XnXNk",-
+"Umz",+
+"tg",-
+"XnXNh",-
+"MO1`t",+
+""D~",-
+"CnO8",+
+"$ZLr",-
+"L",-
+"H",-
+
+// ground truth 
+contain(or(or(<vow>,<m0>),<m1>))

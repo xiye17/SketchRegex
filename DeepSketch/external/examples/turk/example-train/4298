@@ -1,0 +1,17 @@
+// example 
+"Qf",-
+"Q|",-
+"Yxue",-
+"UcU",+
+"!OM",-
+"Y\o?",-
+";DoX_",-
+"",-
+"Uca",+
+"Q",-
+":",-
+"|3{E/",-
+"}oe",-
+
+// ground truth 
+concat(concat(<cap>,<let>),<vow>)

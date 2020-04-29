@@ -1,0 +1,16 @@
+// example 
+"",+
+"|WuF",+
+"s",-
+"x2N",+
+"~5E",+
+"Kb~](",+
+"N",+
+"^+",+
+"sG]i'",+
+"cc",+
+"6CPR",+
+"}",+
+
+// ground truth 
+not(and(or(<let>,<cap>),<low>))

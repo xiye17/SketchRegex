@@ -1,0 +1,26 @@
+// example 
+"|\",-
+"mKgri",+
+"}X",+
+"}_d",+
+"|>",-
+"hlswbm",+
+"",-
+"$",-
+"|",-
+"d",+
+"~CGb~",-
+"hlswUt",+
+"v|}u",+
+"5}k;",-
+"~CGb-",-
+"mKg}y",+
+"}v",+
+"5}k~",-
+"}tu",+
+"v|+z",+
+"!]>",-
+"!]{",-
+
+// ground truth 
+or(concat(<any>,<cap>),endwith(<low>))

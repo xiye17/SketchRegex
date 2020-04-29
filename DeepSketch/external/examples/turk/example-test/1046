@@ -1,0 +1,25 @@
+// example 
+""oV",-
+"lAx4H",-
+"h!P"",+
+"h_s!",+
+"AD!0v",+
+"acx",-
+"",-
+"b",-
+"uz",-
+"E]",-
+"h",-
+"i",+
+"U!2",+
+"u!",+
+"b!",+
+"u",+
+"W:j=",-
+"E.G<",-
+"hn19b",-
+"Uy!",+
+"ADv!M",+
+
+// ground truth 
+or(contain(<m0>),and(<any>,<vow>))

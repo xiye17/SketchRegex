@@ -1,0 +1,18 @@
+// examples
+"aA",+
+"bA",+
+"bAA",+
+"bAB",+
+"aAAA",+
+"aBBB",+
+"bBB",+
+"a",-
+"b",-
+"1",-
+"2",-
+"aa",-
+"AA",-
+" ",-
+
+// ground truth 
+star(concat(<low>,contain(<cap>)))

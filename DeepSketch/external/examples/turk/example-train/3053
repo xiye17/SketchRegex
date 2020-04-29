@@ -1,0 +1,26 @@
+// example 
+"]",-
+"!g:$iUk",+
+"t",-
+"!S8S<E",+
+"jn0W",-
+"!",+
+"!)z",+
+"icbx",+
+"",-
+"aml",-
+"motpgp",+
+"2L",-
+"!08.}",+
+"!k",+
+"vztlimp",+
+"zstwh",+
+"amM",-
+"!hi,",+
+"k{S/8",-
+"Nr7`",-
+"}>F%Y",-
+"~$",-
+
+// ground truth 
+or(repeatatleast(<low>,4),startwith(<m0>))

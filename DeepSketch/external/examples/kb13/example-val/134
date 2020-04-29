@@ -1,0 +1,25 @@
+// example 
+"zGq",+
+"m^",-
+"dW;",-
+"?Tbn",+
+"K_z{MC",+
+"zGZ",+
+"[",-
+"r{`nI4\",+
+"$%kHr",+
+"$%kHP",+
+"?TbO",+
+"",-
+"f}\h",-
+"m'",-
+"r{`nI4d",+
+"|",-
+"~-K`O",-
+"f}\~",-
+"dW^",-
+"K_z{M\",+
+"~-K`\",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3)

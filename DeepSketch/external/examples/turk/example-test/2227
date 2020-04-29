@@ -1,0 +1,14 @@
+// example 
+"",+
+"%>>C<?",+
+"R*ds=}w",+
+",bR[",+
+"XYDIccxq=",+
+"N"",+
+"g[2",+
+"4",+
+"h:}Z*",+
+"cG1hPJ=k",+
+
+// ground truth 
+endwith(star(<cap>))

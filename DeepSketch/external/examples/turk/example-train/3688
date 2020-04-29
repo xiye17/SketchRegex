@@ -1,0 +1,17 @@
+// example 
+"!v",+
+"[",-
+"Y",-
+"!|",-
+"FhB7v",-
+"Ov",+
+"ks9",-
+"",-
+"!|R<",-
+"!A",-
+"<c_",-
+"klb9Y",-
+"!=w)",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<m1>),<low>)

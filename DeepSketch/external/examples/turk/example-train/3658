@@ -1,0 +1,26 @@
+// example 
+"2",-
+"!!o=Z",+
+"",-
+"!l-T",-
+".{OOa",-
+"RQ~+",+
+"f",-
+"t+",-
+"!!BG",+
+"!!X/]\",+
+"ZJ",+
+"]MA",-
+"!S$",-
+"K",+
+"qZDi",-
+"!hI&"",-
+"!!",+
+"SFicl",+
+"!!p",+
+"Z""2x-",+
+"!2",-
+"D+E",+
+
+// ground truth 
+startwith(or(<cap>,repeatatleast(<m0>,2)))

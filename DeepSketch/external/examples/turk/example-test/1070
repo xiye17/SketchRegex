@@ -1,0 +1,25 @@
+// example 
+"vpnsdVuJYLH",+
+"_D",-
+"UepFcGR",+
+"rRphitQbDw",+
+"rRphitQbDJ",+
+"P`Hz",-
+"uVXPPNRlr",+
+"zh^)w",-
+"zh/iT",-
+"_",-
+"]/F",-
+"P{'[",-
+"",-
+"vpnsdVuJYLz",+
+"~Q&",-
+"}",-
+"uVXPPNRlP",+
+"ItSxxrMs",+
+"~P",-
+"ItSxxrMM",+
+"UepFcGu",+
+
+// ground truth 
+repeatatleast(or(and(<vow>,<low>),<let>),7)

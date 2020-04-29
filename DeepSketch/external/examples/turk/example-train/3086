@@ -1,0 +1,17 @@
+// example 
+"+>Df",-
+"!*KZ",-
+"!yy,@",-
+"Y",-
+"!",-
+"!}",-
+"",-
+"!!N",-
+"!S",+
+"!Se",-
+"yM",-
+",+ABK",-
+"!c",+
+
+// ground truth 
+concat(<m0>,and(<any>,<let>))

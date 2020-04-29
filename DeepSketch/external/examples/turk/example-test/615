@@ -1,0 +1,25 @@
+// example 
+"@WR@$",+
+"e{O[r",+
+"io",+
+"D:g",-
+"KFhM",-
+"!",+
+"oz",+
+"",-
+"IsV{",+
+"\h",-
+"#$cZH",-
+"iyb5",+
+"A\k",+
+"D:*",-
+"#$cZL",-
+"u",+
+"J",-
+"\d",-
+"C",-
+"KFh_",-
+"a@|",+
+
+// ground truth 
+contain(or(or(<vow>,<m0>),<m1>))

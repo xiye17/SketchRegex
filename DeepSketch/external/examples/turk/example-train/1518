@@ -1,0 +1,15 @@
+// example 
+"",+
+"ZaO(X[%",+
+"ad7mMv",+
+"<]v",+
+"1*Ux3aU5*",+
+"6Mr4",+
+"!",-
+"Yf",+
+"tp@Wz",+
+""<&`_e17R1",+
+"cF:)Pn{)",+
+
+// ground truth 
+not(or(or(<let>,<m0>),<any>))

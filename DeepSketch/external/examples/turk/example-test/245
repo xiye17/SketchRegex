@@ -1,0 +1,25 @@
+// example 
+"AbZv",+
+"A!u!O!O!o!E!",-
+"E",+
+"I!G",+
+"e!E!E!e!a!U!U!u!",-
+"N-",+
+"{9",+
+"E!O!u!U!E!a!E!U!u!",-
+"a!qEk",+
+"O!e!u!u!I!A!I!i!e!e!",-
+"",+
+"A!a!O!O!A!U!i!",-
+"H2Ym",+
+"O",+
+"e!E!E!e!a!U!U!E!",-
+"E!O!u!U!E!a!E!U!e!",-
+"A!a!O!O!A!U!E!",-
+"I!a",+
+"O!e!u!u!I!A!I!i!e!I!",-
+"A!u!O!O!o!I!",-
+"a4I}P",+
+
+// ground truth 
+not(repeatatleast(concat(<vow>,<m0>),6))

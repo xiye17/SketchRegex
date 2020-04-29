@@ -1,0 +1,14 @@
+// example 
+"",+
+"1j",+
+"Vr<?nP231",+
+"S[Y!",+
+"l",+
+"LBT",+
+"P+,=/B-",+
+"qi^w6H",+
+"\h9sZ7cE",+
+"-161C",+
+
+// ground truth 
+not(and(and(<let>,<m0>),<num>))

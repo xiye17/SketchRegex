@@ -1,0 +1,25 @@
+// example 
+"F",-
+"!!!",-
+"mHs!NyDVdq",+
+"dY}ju",-
+"!JdQ!V!",+
+"CZ!!F!!g",+
+"mHs!NyDVdV",+
+"IwkM!!rf!!v",+
+"RRtQJVdiz",+
+"Y\",-
+"",-
+"!F{b",-
+"CZ!!F!!!",+
+"!)n\",-
+"<",-
+"dY&*x",-
+"IwkM!!rf!!T",+
+"!JdQ!VW",+
+"RRtQJVdiP",+
+"Y|",-
+"~=)",-
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),7)

@@ -1,0 +1,16 @@
+// example 
+"0",-
+"U&.LL",-
+"`!A",-
+"{!wPEZ",-
+"{;<AW'",-
+"c!\$",-
+"c%78",-
+"`#N",-
+"U!f6V",-
+"",-
+"8!",+
+".p",-
+
+// ground truth 
+concat(or(or(<vow>,<any>),<low>),<m0>)

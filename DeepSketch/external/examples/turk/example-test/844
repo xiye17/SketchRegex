@@ -1,0 +1,25 @@
+// example 
+"gi\",+
+"OBUfEt",+
+"EOOIB",+
+"bBT",-
+"gip",+
+"eH",+
+"Bg",-
+"OBUfEI",+
+"",-
+"a",-
+"Bb",-
+"dZLb",-
+"eU",+
+"EOOII",+
+"bBa",-
+"dZLg",-
+"BGAg",+
+"BGAe",+
+"E]ZhB",-
+"E",-
+"E]Zh~",-
+
+// ground truth 
+endwith(concat(<vow>,<any>))

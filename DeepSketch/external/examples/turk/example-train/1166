@@ -1,0 +1,14 @@
+// example 
+"",+
+"I8m@oilV",+
+"G",+
+"r[",+
+"IOM0@",+
+"fPH\~b",+
+"vA+hm/_",+
+")$?txs.<0",+
+"K`&0",+
+"&H0",+
+
+// ground truth 
+or(star(<any>),not(<m0>))

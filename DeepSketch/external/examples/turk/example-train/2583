@@ -1,0 +1,25 @@
+// example 
+"uAooEp37",+
+"oa",-
+"o",-
+"Fm;eo",-
+"uAooEp/3",+
+"P"~",-
+"RlRnz",-
+"iUaAA1",+
+"ou",-
+"",-
+"EUuei0'286",+
+"HQ,H",-
+"UoAuo42",+
+"Uoiia/)N5",+
+"7",-
+"qxf",-
+"iUaAO9",+
+"Uoiia/)#2",+
+"tM:*",-
+"UoAuo&5",+
+"EUuei0'2[4",+
+
+// ground truth 
+concat(startwith(repeatatleast(<vow>,5)),<num>)

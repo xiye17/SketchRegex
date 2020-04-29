@@ -1,0 +1,25 @@
+// example 
+"z(W?7",-
+"0>4",+
+"4X74ES9va",+
+"4N$hZk,",+
+"6K'!AU+)jU",+
+"1,@G8/#1f|K",+
+"7Jz5ZW4}",+
+""&",-
+"1o",+
+"-",-
+"O<",-
+"",-
+"#J(",-
+"*[C>",-
+"XcEq",-
+"4W7Xo7",+
+"6",-
+"7W-TF",+
+"`S%",-
+".T:YG",-
+"2cLi",+
+
+// ground truth 
+concat(<num>,contain(<any>))

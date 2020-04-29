@@ -1,0 +1,17 @@
+// example 
+"r",-
+"!r",+
+"!mQp",-
+"W",-
+"!cS",-
+"!}",-
+"!{7",-
+"",-
+"!V('",-
+"Sy",+
+"Xp/t2",-
+"!/",-
+"aMs%T",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<cap>),<low>)

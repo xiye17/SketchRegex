@@ -1,0 +1,16 @@
+// example 
+"!3Z",+
+"!%G8s",-
+"!'",-
+"U",-
+"!58",-
+"!$z\",-
+"!RB-"",-
+"!",-
+"Po",-
+"SN`",-
+"",-
+"!s]r",-
+
+// ground truth 
+concat(concat(<m0>,<num>),<cap>)

@@ -1,0 +1,20 @@
+// example 
+"7e0y1a3d8e1s8h9a2e5h",+
+".",-
+"@Ow",-
+"9n0x2w9x0z8g9l",+
+"",-
+"7b6u4i2j8f4o6j6b",+
+"-[W",-
+"XWdb",-
+"0e4x2y6l8m9k1o4q4w",+
+"*H",-
+"(`;U",-
+"@",-
+"4r7r5",-
+")|y_|",-
+"8w8e2e7k1p0s",+
+"t4",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),6)

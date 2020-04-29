@@ -1,0 +1,15 @@
+// example 
+"",+
+">d4!#=3",+
+"H-,",+
+"[",-
+"[rw!/q",+
+"_0X/vINP9",+
+";R+u6",+
+"<1QIhTV>",+
+""-%urA&6#t",+
+"8@CE",+
+"1I",+
+
+// ground truth 
+repeatatleast(not(<any>),1)

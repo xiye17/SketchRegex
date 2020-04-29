@@ -1,0 +1,24 @@
+// example 
+"1",-
+"Kf6L%",-
+"k0",-
+"u{|-",-
+"Hc",+
+"LSE$O}QuA1P~B:Ph",+
+"*`r`",-
+"Q@I~T5",+
+"",+
+"FqDbOLOaVjTCWy",+
+"J3RXUKE}R]W=K,LiKt",+
+"QNGz",+
+"T",-
+"Kfb;*",-
+",f",-
+"Q?RLJZBmQ9",+
+"QmD?OJY*M^QL",+
+"BnBLVnVI",+
+"BZy",-
+"BZC",-
+
+// ground truth 
+star(concat(<cap>,<any>))

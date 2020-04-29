@@ -1,0 +1,26 @@
+// example 
+"9x}WqQ",-
+"xbWR",-
+"2^",+
+"EusQ8Khw",-
+"9x}Wqd",-
+";?O",+
+"p+!Ees",+
+"pC?JJ{",+
+"3sJVirdtCv",-
+"1_.5d",+
+"",-
+";}d",+
+"$xD{",+
+"1{Q+{",+
+""c",-
+"$xD;",+
+"EusQ8KhX",-
+"xbWt",-
+""F",-
+"H",+
+"3sJVirdtCV",-
+"2+",+
+
+// ground truth 
+not(star(concat(<any>,<let>)))

@@ -1,0 +1,25 @@
+// example 
+"O!_",-
+"oioIi",+
+"Oaou",+
+"Fe'[",-
+"",-
+"dB;~",-
+"4n",-
+"ib-tO",-
+"oi",+
+"Ioe",+
+"9",-
+"af",-
+"O",+
+"u",+
+"IoU",+
+"O!R",-
+"iuNav",-
+"o!",+
+"Oao!",+
+"oioIU",+
+"D",-
+
+// ground truth 
+repeatatleast(or(<vow>,<m0>),1)

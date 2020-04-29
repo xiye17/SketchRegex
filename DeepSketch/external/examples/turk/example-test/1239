@@ -1,0 +1,25 @@
+// example 
+"a5#",-
+"OYEUYREUCQTPBP",+
+"+Y+{`",-
+"*4%",-
+"HQFKEUS",+
+"FOHIESHTXNL",+
+"RTGGNHNFUVXDDWB",+
+"PBZGBJBS",+
+"",-
+"&",-
+"FV_.",-
+"BACRIMJNIB",+
+"I"",-
+"WGCZUICNN",+
+"0"",-
+"WKMSPSVAOZYKD",+
+"9}w&",-
+"IQFKFB",+
+"N#.y)",-
+"H",-
+"JSKLKRHYQLAB",+
+
+// ground truth 
+repeatatleast(<cap>,6)

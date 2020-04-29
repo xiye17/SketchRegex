@@ -1,0 +1,15 @@
+// example 
+"/xn2pxC",+
+"5Pt^_(5?/.",+
+"Lb6Ju~YJC",+
+"H`_",+
+"/h!CGw",+
+"T&",+
+"+WaL",+
+"B",+
+"64l%g",+
+"",-
+"I~Yj6&^i",+
+
+// ground truth 
+repeatatleast(or(<any>,endwith(<vow>)),1)

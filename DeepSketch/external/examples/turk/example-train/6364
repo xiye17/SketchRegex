@@ -1,0 +1,26 @@
+// example 
+"ez}UTA",+
+"ez}U.O",+
+"`74y",-
+"",-
+"JqlW",+
+"Jye0d",-
+"Jye08",-
+"^T",+
+"Jq:I",+
+"i",-
+"`74;",-
+"M",+
+"*H",+
+"RIH",+
+"e2h",-
+"e2?",-
+"R~G",+
+"&Fn8Q",+
+"?>",-
+">",-
+"&Fn\S",+
+"?r",-
+
+// ground truth 
+concat(star(<any>),<cap>)

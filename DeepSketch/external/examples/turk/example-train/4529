@@ -1,0 +1,17 @@
+// example 
+"!u",+
+"!I",+
+"!B^U",-
+"!UF",-
+"!A^>",-
+"!",-
+"!H",-
+"",-
+"L|a",-
+"!x'\S",-
+"!o$EA",-
+"y",-
+"!h",-
+
+// ground truth 
+concat(and(<any>,<m0>),<vow>)

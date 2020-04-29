@@ -1,0 +1,15 @@
+// example 
+"",+
+"qV=K_",+
+"!#aQ9",+
+"!k",+
+"n",+
+"!JN",+
+"!Q[;",+
+"2*M",+
+"hn",+
+"JXlQ",+
+"!",-
+
+// ground truth 
+not(and(<any>,<m0>))

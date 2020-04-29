@@ -1,0 +1,25 @@
+// example 
+"O!!Sr",-
+"[",-
+"!VSA!!NC",+
+"!O!!!UAH!E",+
+"D!!!RF!",+
+"m/iw/",-
+"",-
+"!O!!!UAH!!",+
+"I!N!JF!!!",+
+"!o,p",-
+"!M[C",-
+"f$~",-
+"=",-
+"!!!!!!!TV!F",+
+"I!N!JF!!S",+
+"!VSA!!N!",+
+"VG*",-
+"D!!!RFA",+
+"!!!!!!!TV!!",+
+"!2",-
+"!i",-
+
+// ground truth 
+repeatatleast(or(<cap>,<m0>),7)

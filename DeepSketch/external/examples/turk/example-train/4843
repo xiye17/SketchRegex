@@ -1,0 +1,25 @@
+// example 
+"eiUj",-
+"InQgA",+
+"I.",-
+"IH",-
+"InQgI",+
+"uRwis",-
+"",-
+"eTia",+
+"g",-
+"OU_",-
+"uRwiK",-
+"OUb",-
+"LFe",+
+"O",+
+"jo",+
+"I",+
+"LFu",+
+"jE",+
+"eTie",+
+"B",-
+"eiUM",-
+
+// ground truth 
+and(not(<m0>),endwith(<vow>))

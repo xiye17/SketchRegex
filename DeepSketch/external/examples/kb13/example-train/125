@@ -1,0 +1,26 @@
+// example 
+"/yA",-
+"KMT",+
+"\v6~SF",+
+"Z",-
+"Fz7TP",+
+"\v6RN[",+
+"/y'",-
+"?%CGNgq",+
+"",-
+"Gis+",-
+"4TE",+
+"|+8<%",-
+"OY",+
+"s|AG",+
+"{n",-
+"i",-
+"Gisk",-
+"?%CblMZ",+
+"{X",-
+"FzKTw",+
+"|+8<V",-
+"sYX8",+
+
+// ground truth 
+concat(endwith(<cap>),startwith(<cap>))

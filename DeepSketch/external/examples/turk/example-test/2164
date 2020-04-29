@@ -1,0 +1,25 @@
+// example 
+"/\iH",+
+"s",-
+"OAq1",-
+"dT",+
+"OAq\",-
+"+['\xY",+
+"b{",-
+"&Sl",+
+"",-
+"dw",+
+"j~oSI",+
+"b0",-
+"/\ie",+
+"+['\xz",+
+"j~oSz",+
+"]X~",-
+"K",-
+"G|3v*",-
+"]X@",-
+"G|3v_",-
+"&SU",+
+
+// ground truth 
+endwith(repeatatleast(or(<let>,<low>),2))

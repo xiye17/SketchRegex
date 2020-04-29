@@ -1,0 +1,26 @@
+// example 
+"ww~~t",+
+"&Vw",-
+"/",-
+"g{",-
+"y|v4",-
+"yD}|zp|",+
+",\",-
+"",-
+"}",-
+"x|{<W",-
+"fzKc",+
+"y|v|",-
+"ww~/s",+
+"ute",+
+"vk~}&k",+
+"yD}||rn",+
+"lioBGk_3",+
+"li){{C{k",+
+"vk~}kF",+
+"sTj",-
+"x|{<{",-
+"fz{s",+
+
+// ground truth 
+repeatatleast(startwith(<low>),3)

@@ -1,0 +1,17 @@
+// example 
+"bf",+
+"$Omr",+
+"M)eQ"",+
+")",+
+"PCQ",+
+"-9",+
+"LNE",-
+"95wV<",+
+"LNI",-
+"",+
+"Iwi.",+
+"PCj",+
+"i",+
+
+// ground truth 
+not(concat(<cap>,concat(<any>,<vow>)))

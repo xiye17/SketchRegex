@@ -1,0 +1,25 @@
+// example 
+"s_,DF",-
+"Q=",-
+"LO",+
+"Qf",-
+"o",+
+"e;HP",+
+"VcD",-
+"E5YdC",+
+"IY1'",+
+"BBI",+
+"o"U>\",+
+"",-
+"c",-
+"wFf\",-
+"s_,D)",-
+"i",+
+"UKw",+
+"LI",+
+"S",-
+"Vc+",-
+"wFfg",-
+
+// ground truth 
+contain(or(or(<m0>,<m1>),<vow>))

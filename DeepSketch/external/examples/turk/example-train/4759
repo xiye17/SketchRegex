@@ -1,0 +1,26 @@
+// example 
+"V!=P<!o!v!l!a!v",+
+"!b",-
+"!!",-
+"!{!J!",-
+"!",-
+"D!o!u!c!q!q",+
+"!!s5",-
+"!{!J/",-
+"!!w!k!t!o!a",+
+"",-
+"!z!!p!m!x!d!n",+
+"b",-
+"V!=P!!n!w!t!d!h",+
+"!y!z!j!l!x",+
+"!z0!v!c!o!c!l",+
+"[)T",-
+"!!s!",-
+"D!!n!b!e!p!h",+
+"[)!",-
+"Do!y!k!m!l!c",+
+"!!!n!w!i!o!s!y",+
+"!!!{!r!e!m!v!q",+
+
+// ground truth 
+endwith(repeatatleast(concat(<m0>,<low>),5))

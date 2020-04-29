@@ -1,0 +1,24 @@
+// example 
+"L!u@",+
+"\",-
+"eL;w+f",-
+"yxFqj",-
+"9Q'ko&M7",-
+"+|",-
+"!",+
+"#o!tn",+
+"0D]SJdB",-
+"#o>!_",+
+"",+
+"!(",+
+"<3jv>}c1C",-
+"w!u",+
+"!_9R",+
+"f!",+
+"wQ!",+
+"8Mmq",-
+">z?",-
+"~4D7C$\,)N",-
+
+// ground truth 
+star(contain(endwith(<m0>)))

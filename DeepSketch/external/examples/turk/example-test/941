@@ -1,0 +1,25 @@
+// example 
+"G",-
+"E~,",-
+"ama",+
+"AC",-
+"abaD",-
+"F;%Nf",-
+"eO",+
+"eI",+
+"",-
+"abaH",-
+"ioujI",+
+"iouja",+
+"UB/",-
+"Gp",-
+"dugE",+
+"u",+
+"dugo",+
+"amU",+
+"w",-
+")Jemv",-
+"A",+
+
+// ground truth 
+concat(star(<low>),<vow>)

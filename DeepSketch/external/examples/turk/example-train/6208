@@ -1,0 +1,25 @@
+// example 
+"KTGo",+
+"Pjner",+
+"DU",+
+"FTJ,_",-
+"GQ",-
+"FTJ,Q",-
+"a",+
+"k",-
+"Da",+
+"",-
+"Ped%y",+
+"!hW",-
+"KeGY",+
+"O",+
+"AKE",+
+"WL[G",-
+"x",-
+"!hF",-
+"WL[p",-
+"e)a",+
+"Gd",-
+
+// ground truth 
+or(concat(<m0>,<any>),contain(<vow>))

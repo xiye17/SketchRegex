@@ -1,0 +1,25 @@
+// example 
+"TAelOW",+
+"EeUeU",+
+"EeUei",+
+"4^UJ",+
+"4^UF",+
+"IIM=",-
+"AeC",+
+"uq",+
+"QVu",-
+"\et}f",-
+"QVE",-
+"",-
+"AeI",+
+"ud",+
+"i",-
+"TAelOu",+
+"IIMA",-
+"\et}q",-
+"Zi",-
+"Zg",-
+"B",-
+
+// ground truth 
+concat(endwith(<vow>),<any>)

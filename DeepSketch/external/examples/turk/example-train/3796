@@ -1,0 +1,25 @@
+// example 
+"}IY.",-
+"#?-c",-
+"mLJ`{",+
+"nKx",+
+"7/",-
+"3:1hS",-
+"c",+
+"e5B_'!5",+
+"d.",+
+"",-
+"o\>j#jlaVw",+
+"|OZ",-
+"sm,&|i",+
+"k*6S819Dr",+
+"|T",-
+"x7Z-",+
+"C",-
+"}{VcM",-
+"a`kqIvM?",+
+"{",-
+"Mmx",-
+
+// ground truth 
+and(repeatatleast(<any>,1),startwith(<low>))

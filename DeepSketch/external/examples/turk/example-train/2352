@@ -1,0 +1,20 @@
+// example 
+"Y8&x",-
+"L5E2D6I3T3F1T7I1",+
+"N7H5O1I9J9K1C1",+
+"J24",-
+"",-
+"YLz[",-
+"(J+Ra",-
+"T7S7B8S6E2M8",+
+"J<W",-
+"P",-
+"S5S1S7X2E7X9K5N9T3",+
+"H(.H#",-
+"v",-
+")*",-
+"X0F9N0T5Q2J8T9M6P4W5",+
+"kc",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),6)

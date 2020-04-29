@@ -1,0 +1,25 @@
+// example 
+"GqQl",-
+"uuR",-
+"T$Zi",-
+"Oa",-
+"Of",-
+"oOUe",+
+"a!i\@",-
+"",-
+"OuUeUAu",+
+"OuUeeEe!",+
+"oOUI",+
+"EIAee",+
+"cOUH'",-
+"aI!Eu!",+
+"OuUeeEea",+
+"A",-
+"uNN",-
+"aI!EuU",+
+"OuUeUA!",+
+"EIAea",+
+"E",-
+
+// ground truth 
+repeatatleast(or(<m0>,<vow>),4)

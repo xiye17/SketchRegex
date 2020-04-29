@@ -1,0 +1,25 @@
+// example 
+"p",+
+"WUC",+
+"10%kw",+
+"R#",-
+"XO",+
+"+",-
+"D)?Q",-
+"",-
+"D)?K",-
+"CVB<<",-
+"X2",+
+"ONhjx",+
+"R<",-
+"LWE-",+
+"CVB<{",-
+"VHQ",-
+"O",+
+"VH:",-
+"28z",+
+"B",-
+"LWO&",+
+
+// ground truth 
+endwith(contain(or(or(<num>,<low>),<vow>)))

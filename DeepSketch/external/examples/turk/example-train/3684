@@ -1,0 +1,25 @@
+// example 
+"$]l",-
+"]",-
+"G",+
+"J&?#,CI2=",+
+"BvzlG",+
+"5",-
+"Nyfdz^8t\]",+
+"iaw",-
+"qRN0",-
+"UHdm",+
+"",-
+"mTo]b",-
+"X)1",+
+"Et",+
+"D#x5"Z",+
+"H1_OK(@I",+
+".]ZY,",-
+"m\",-
+"F4Ol78,",+
+"-tGq",-
+".p",-
+
+// ground truth 
+and(startwith(<cap>),not(<num>))

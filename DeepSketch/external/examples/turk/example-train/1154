@@ -1,0 +1,17 @@
+// example 
+"Cd",-
+"dT'",-
+"u$Z1s",-
+"I,f3P",-
+"o",+
+"k",-
+"",-
+"IW_@",-
+"M(",-
+"%w-",-
+"i",+
+"H",-
+"$ngM",-
+
+// ground truth 
+and(and(<let>,<vow>),<any>)

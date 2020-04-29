@@ -1,0 +1,26 @@
+// example 
+"XODAN",+
+"9\HHJM",+
+"8{ZkIYV",+
+"Y",-
+"r?gbJW>AP",+
+"?L",-
+"zsEA",-
+"-",-
+"ABJL",+
+"#DME*-QU",+
+"",-
+"."$J]",-
+"."$J!",-
+"r?gbJWL{D",+
+"#DME*->N",+
+"lDK",-
+"pUDNX",+
+"?&",-
+"9+FFTX",+
+"8{Z(LWG",+
+"lDk",-
+"zsE,",-
+
+// ground truth 
+repeatatleast(endwith(<cap>),4)

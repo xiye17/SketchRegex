@@ -1,0 +1,25 @@
+// example 
+"aIAEuaaoU",+
+"OuuUOo",+
+"aIAEuaaoA",+
+"uEia!Li",+
+"UK$",-
+"Io",-
+"c_OK<",-
+"OuuUOi",+
+"U:iO",-
+"EEooEuoiAE",+
+"!",-
+"Uf{D",-
+"",-
+"I!",-
+"N",-
+"Ua!",-
+"uf!v8",-
+"uEia!LO",+
+"iIiOaaEe",+
+"iIiOaaEa",+
+"EEooEuoiAU",+
+
+// ground truth 
+repeatatleast(or(<vow>,concat(<m0>,<cap>)),6)

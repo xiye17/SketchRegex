@@ -1,0 +1,16 @@
+// example 
+"K~'z",-
+"s!ZHsM",-
+":",-
+"K!Kg",-
+"sNe'?U",-
+"R!",+
+"nGQ",-
+"@k",-
+"n!C",-
+"V!&ho",-
+"Ve%%C",-
+"",-
+
+// ground truth 
+concat(or(<cap>,<any>),<m0>)

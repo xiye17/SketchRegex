@@ -1,0 +1,25 @@
+// example 
+"yOe",+
+"AHr.{",-
+"SfqUo",+
+"o",-
+"fe<",-
+"p",-
+"Ot",+
+"I5Ta",+
+"oz",+
+"fe}",-
+"I5}w",+
+"",-
+"u7",-
+"HA|/yv",+
+"HA|/~x",+
+"AHr.*",-
+"u}",-
+"i~$P",-
+"yUi",+
+"Sfqiv",+
+"i~$~",-
+
+// ground truth 
+concat(contain(<vow>),<low>)

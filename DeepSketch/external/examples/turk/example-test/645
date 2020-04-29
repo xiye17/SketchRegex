@@ -1,0 +1,25 @@
+// example 
+"NgZ",+
+"p",+
+"O"",-
+")F",+
+"yno",+
+"e}3oR",-
+"a7Wr",-
+"FksB",+
+"E-SS",-
+"",+
+"we",+
+"[IheK",+
+"eb+",-
+"f",+
+"U",-
+"u&",-
+"!R0z",+
+"lM31T",+
+"I",-
+"o:|",-
+"OvkP>",-
+
+// ground truth 
+not(or(startwith(<vow>),<m0>))

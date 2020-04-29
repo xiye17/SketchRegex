@@ -1,0 +1,25 @@
+// example 
+"{!]!7EZo",+
+"{!",-
+"|!9=g",-
+"~!S!",+
+"'!H",-
+"|;,W8",-
+"T!Hfs!",+
+"T!Hf!v",+
+"",-
+"Q",-
+"{B",-
+"L!fSt!l",+
+"L!fStq!",+
+"q!=bd!*mM",+
+"/!|B!",+
+"q!=bdIAI!",+
+"'Ho",-
+"A!_L",-
+"/!|!;",+
+"{!]I!\6Y",+
+"A#^w",-
+
+// ground truth 
+repeatatleast(startwith(concat(<any>,<m0>)),2)

@@ -1,0 +1,25 @@
+// example 
+"Hv",+
+"keZ",+
+"U6jN",+
+"aK|fw",+
+"Aa^|",-
+"",-
+"`",-
+"fi@",-
+"Aa^:",-
+":",-
+"z!",-
+"z{",-
+"UHuE\",-
+"HS",+
+"kek",+
+"fi\",-
+"UHuE8",-
+"I",+
+"aK|fW",+
+"t",+
+"U6jq",+
+
+// ground truth 
+or(concat(<vow>,<any>),endwith(<let>))

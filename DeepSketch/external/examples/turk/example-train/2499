@@ -1,0 +1,14 @@
+// example 
+"",+
+"L{!oqM.x",+
+"b*HOv",+
+"C\T],o",+
+"8Lqig{U",+
+"mU",+
+"y|N",+
+"bED'dW8Ms",+
+"$",+
+">s.K",+
+
+// ground truth 
+endwith(or(star(<cap>),<m0>))

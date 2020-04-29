@@ -1,0 +1,25 @@
+// example 
+"a!o!o!E!o!e!O!i!a!",+
+"O}",-
+"o!p",-
+"i!u!I!e!I!A!I!",+
+"a]vJ",-
+"A!ftv",-
+"o!u!u!I!U!I!O!o!a!o!",+
+"",-
+"u!u!u!O!o!E!u!I!",+
+"o!i",-
+"o!u!u!I!U!I!O!o!a!a!",+
+"Kf",-
+"i",-
+"E!a!O!I!I!e!",+
+"CA2%",-
+"sLU5E",-
+"E!a!O!I!I!U!",+
+"a!o!o!E!o!e!O!i!o!",+
+"z",-
+"i!u!I!e!I!A!u!",+
+"u!u!u!O!o!E!u!E!",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<m0>),6)

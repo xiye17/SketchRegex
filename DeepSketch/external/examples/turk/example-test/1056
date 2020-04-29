@@ -1,0 +1,25 @@
+// example 
+"b]^nJ`",+
+"/l7U",-
+"AZ",+
+"\p",-
+">J",-
+"icJ",+
+"~Lu4",-
+"FFp76",+
+"3XW",-
+"k~",+
+"",-
+"acy}",+
+"_9{",-
+"NMy5",+
+"P",-
+"|",-
+"#)'Uy",-
+"P<V:4V",+
+"f*)1.",+
+"~h.s?",-
+"GvU",+
+
+// ground truth 
+concat(<let>,contain(or(<m0>,<any>)))

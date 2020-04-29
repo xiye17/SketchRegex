@@ -1,0 +1,24 @@
+// example 
+"yjtq",-
+"yb",-
+"cuE",+
+"upmxzs",-
+"hfyjzml",-
+"q",-
+"k|f^,",+
+"kujqdzaq",-
+"!",-
+"",-
+"{*e[",+
+"cu}",+
+"!:",+
+"!z|&",+
+"k^HFG",+
+"gsx",-
+"B",+
+"jxkcb",-
+"}",+
+"|%",+
+
+// ground truth 
+not(or(star(<low>),<m0>))

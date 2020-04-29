@@ -1,0 +1,25 @@
+// example 
+"|ZX",+
+"\",-
+"I0a]`",-
+"okefe",+
+"Fp",-
+"eu",+
+"aolQ",+
+"V",+
+"okefu",+
+"I0a]h",-
+"4|~r",-
+"",-
+"g",-
+"oh<",-
+"eo",+
+"F}",-
+"4|~f",-
+"|Ze",+
+"i",+
+"ohj",-
+"aolo",+
+
+// ground truth 
+endwith(or(<vow>,<cap>))

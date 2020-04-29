@@ -1,0 +1,25 @@
+// example 
+"]uZ",+
+"ra(jp",-
+"u",-
+"a[o%",-
+"uj",+
+"^",-
+"",-
+"ra(je",-
+"zu|ec",+
+"zu|eM",+
+"(ho:TW",+
+"a%",-
+"a{",-
+"&o|",-
+"@eRI",+
+"@et:",+
+"a[o~",-
+"]uc",+
+"&o_",-
+"uM",+
+"(ho:Tw",+
+
+// ground truth 
+contain(concat(or(<cap>,<vow>),<let>))

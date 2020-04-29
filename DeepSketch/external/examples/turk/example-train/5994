@@ -1,0 +1,24 @@
+// example 
+"g\Wk~}DV",+
+"}N_cW",-
+",IjSZ|",-
+",IjSZ`",-
+"&sN&P})",-
+"_",-
+"",-
+"i(6g2y\)\h",+
+"i(6g2y\)\S",+
+"w#!",-
+"&sN&P}|",-
+"0iP\JC",+
+"MQi8XnJ",+
+"CLLVm~Z~R",+
+"]N",-
+"g\Wk~}Df",+
+"AvId",-
+"MQi8Xni",+
+"0iP\Jl",+
+"CLLVm~Z~c",+
+
+// ground truth 
+concat(repeatatleast(<any>,5),<let>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"H8wz",+
+"]Q",+
+"YL.{=Q",+
+"m8sr:VZ",+
+"eYA",+
+"[@_A}+7f=",+
+")",+
+"c_}k4",+
+"[\SPZ(*~",+
+
+// ground truth 
+not(and(and(<num>,<any>),<m0>))

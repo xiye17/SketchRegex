@@ -1,0 +1,25 @@
+// example 
+"uIbO",+
+"CaFIH",-
+"o",+
+"_sg",-
+"3U",+
+"EFi",+
+"CaFIf",-
+"OOMh",-
+"EFo",+
+"uIbi",+
+"",-
+"g",-
+"hl",-
+"3O",+
+"pUbOo",+
+"OOM[",-
+"u",+
+"pUbOi",+
+"hL",-
+"_sn",-
+"D",-
+
+// ground truth 
+concat(star(contain(<any>)),<vow>)

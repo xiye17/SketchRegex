@@ -1,0 +1,17 @@
+// example 
+"G5gU",-
+"!b?",-
+"2J;aA",-
+"!",-
+"-8f",-
+"",-
+"!G",+
+"!k",-
+"!p0FX",-
+"T",-
+"!f",-
+"!a&`",-
+"!o",+
+
+// ground truth 
+concat(<m0>,or(or(<vow>,<cap>),<m1>))

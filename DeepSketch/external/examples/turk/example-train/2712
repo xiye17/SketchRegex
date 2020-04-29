@@ -1,0 +1,17 @@
+// example 
+"A<82N",-
+"6j",-
+"e~",+
+"W$",-
+"GrH",-
+"",-
+"h",-
+"oC",+
+"U_z(",-
+"Er22o",-
+"L",-
+"u)#",-
+"fd}O",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<m1>),<any>)

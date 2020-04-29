@@ -1,0 +1,25 @@
+// example 
+"REENAu",+
+"Oou|I",+
+"otu",-
+"boDdOEA",+
+"AoDIg",-
+"boDdOEu",+
+"REENAO",+
+"KaOA}OFI",+
+"",-
+"otk",-
+"DBTh",-
+"P",-
+"OEua",+
+"Oou|A",+
+"AoDIF",-
+"OEuo",+
+"uJ",-
+"DBTE",-
+"uO",-
+"KaOA}OFe",+
+"E",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),4)

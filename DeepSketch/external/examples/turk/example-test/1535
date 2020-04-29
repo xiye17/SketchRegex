@@ -1,0 +1,17 @@
+// example 
+"xEW4",-
+"`'",-
+"K~?",-
+"eaZ",+
+"",-
+")",-
+"KB8",-
+"}",-
+"nLeir",-
+"KoM",+
+"|7",-
+"xvk0",-
+"n{hs{",-
+
+// ground truth 
+concat(concat(<let>,<low>),<cap>)

@@ -1,0 +1,24 @@
+// example 
+"ZrgnKMdv",+
+"HbYQ|",-
+"'_p",-
+")xwPkK",+
+"u",-
+"VOEZpwgFxe",+
+"W[",-
+"'rY",-
+"ZrgnKMdC",+
+".IVMVJfER",+
+"}caLIDP",+
+"",-
+"h\;E",-
+"VOEZpwgFxG",+
+")xwPkq",+
+"Hb]Y4",-
+".IVMVJfEs",+
+"hH<4",-
+"}caLIDv",+
+"WE",-
+
+// ground truth 
+concat(<any>,repeatatleast(<let>,5))

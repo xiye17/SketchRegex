@@ -1,0 +1,25 @@
+// example 
+"EO",-
+"l9",+
+"|:tH",-
+"aTn5",+
+"{*E",-
+"lL7",+
+"",-
+"{f",-
+"srct5",+
+"aTM6",+
+"o8{kN",-
+"=",-
+"`z!",-
+"ROVEF5",+
+"ROVEi3",+
+"D8",+
+"srcF4",+
+"lh6",+
+"\6Vx",-
+"o\1Br",-
+"~",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),<num>)

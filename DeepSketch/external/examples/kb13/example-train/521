@@ -1,0 +1,25 @@
+// example 
+"\t8srPlN",+
+"q_}%}",-
+"q_}%!",-
+"lbEqJ",+
+"LayUdD",+
+"~dc",-
+"",-
+"VK;"",-
+"`xzKbWhHv",+
+"LayUIC",+
+"H<rnLTP",+
+"\t8srPll",+
+"`xzKbg4q#",+
+"U",-
+"H<rnLTi",+
+"'P",-
+"VK;|",-
+"lbEql",+
+"'`",-
+"~",-
+"~d|",-
+
+// ground truth 
+contain(repeat(<let>,5))

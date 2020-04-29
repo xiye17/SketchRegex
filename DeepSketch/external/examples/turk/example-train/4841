@@ -1,0 +1,25 @@
+// example 
+"zxnZEKOH",+
+"[",-
+"]d.",-
+"GPvthR",+
+"|OFqo",-
+")3",-
+"hf84",-
+"oZMnkp]",+
+"zxnZEKO{",+
+"_Wr>",-
+"bfVXi",+
+"",-
+"|",-
+"*[r",-
+"vBv}",+
+"vBvb",+
+"^'t_G",-
+"wA",-
+"bfVX|",+
+"oZMnkpx",+
+"GPvth~",+
+
+// ground truth 
+concat(repeatatleast(<let>,3),<any>)

@@ -1,0 +1,16 @@
+// example 
+"1",-
+"Yy",-
+"1~kGn",-
+"t",-
+"4:~*",-
+"1x_n1",-
+"0m",+
+"'<#",-
+"4~\b",-
+"",-
+"21",-
+"wO3",-
+
+// ground truth 
+and(concat(<num>,<any>),endwith(<low>))

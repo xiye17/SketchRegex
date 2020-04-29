@@ -1,0 +1,25 @@
+// example 
+"T~gR1",-
+"vVqPXa2A",+
+"EirEmL"{L",+
+"uVXuER[",+
+"FZJFCEDD!?",+
+"EirEmh~1S",+
+"FZJFCwXa%;",+
+"#",-
+"",-
+"g",-
+"jSR",-
+"vVqPXXxk",+
+"^@=L",-
+"f:wG",-
+"vTlAjw",+
+"uVXuElz",+
+"jSm",-
+"Me",-
+"M"",-
+"vTlAjI",+
+"T47&C",-
+
+// ground truth 
+startwith(repeatatleast(<let>,6))

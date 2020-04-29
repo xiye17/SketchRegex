@@ -1,0 +1,26 @@
+// example 
+"!qdjZ",-
+"!jZ|}",+
+"!VExWl",-
+"!kYo",-
+"J~ZeW",-
+"!`3;",+
+"!|",+
+"!N",+
+"!",+
+"tN",-
+"",-
+"!KC",-
+"!nY^",+
+"!Kk",-
+"!62",+
+"@7\"",-
+"!j~!S",+
+"!z_Yhz",+
+"M",-
+"!`{,Hy",+
+";dcAxy",-
+"!N:",+
+
+// ground truth 
+concat(<m0>,not(repeatatleast(<let>,2)))

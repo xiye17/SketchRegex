@@ -1,0 +1,19 @@
+// example 
+"y2"m",-
+"s",-
+"Z",-
+"'.",-
+"9|/!",-
+"!w9",-
+"YbLgSkYgBxNhEiNaAo",+
+"QvXhZyMyYiGkLk",+
+"WaQtLsYhBlSvQpCo",+
+"G{+xh",-
+"",-
+"LF",-
+"QfY",-
+"0d7tL",-
+"KoAkJvWlTnBhAeYaAlWh",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),7)

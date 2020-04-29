@@ -1,0 +1,25 @@
+// example 
+"F",-
+"f/",-
+"I\Y",+
+"Ei{6",-
+"u",-
+"aJ",+
+"ucPgS",+
+"O:Yi&L",+
+"o%AO",+
+"ja]o",-
+"EH",+
+"",-
+"DbrUP",-
+"ucP2S",+
+"IRR",+
+"e=s",-
+"o%1Z",+
+"e=>",-
+"O:YiFB",+
+"et",-
+"larhB",-
+
+// ground truth 
+concat(startwith(<vow>),<cap>)

@@ -1,0 +1,15 @@
+// example 
+"",+
+"tcv",+
+"!b<y",+
+"+l#>g",+
+"'+",+
+"J",+
+"!I<LV",+
+"!AE",+
+"XAH0",+
+"!",-
+"!N",+
+
+// ground truth 
+or(not(<m0>),and(<low>,<m1>))

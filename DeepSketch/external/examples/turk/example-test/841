@@ -1,0 +1,25 @@
+// example 
+"!v",+
+"!3",-
+"!JLxF",+
+"!JT",+
+"!JUmnt",+
+"V",-
+"!~",-
+"!",+
+"!K",+
+"",-
+"!JLxt",+
+"!JUmnM",+
+"!\D`V",-
+"!Jo",+
+"YafV",-
+"!itk",+
+"!itW",+
+"dc7+D",-
+"!7|",-
+"!\(",-
+"!_Fb",-
+
+// ground truth 
+concat(<m0>,star(<let>))

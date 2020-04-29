@@ -1,0 +1,25 @@
+// example 
+"pnFAI",+
+"eu",+
+"9obEC",-
+"a-_",-
+"eI",+
+"",-
+"`",-
+"a-c",-
+"oQi'",-
+"S,I",+
+"T",-
+"i",+
+"S,a",+
+"aFLI",+
+"0x",-
+"I",+
+"aFLU",+
+"oQiB",-
+"9obE*",-
+"pnFAO",+
+"0l",-
+
+// ground truth 
+endwith(or(<vow>,<num>))

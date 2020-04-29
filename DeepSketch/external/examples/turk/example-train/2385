@@ -1,0 +1,17 @@
+// example 
+"U]",-
+"|keHLBwRouZjFueHiMiK",+
+"p",-
+"eqTvS",-
+"uqI",-
+"|keHLBwRouZjFueHiMuB",+
+"",-
+"g|lq",-
+"Ue",-
+"g|lb",-
+"uqi",-
+"I",-
+"eqTvd",-
+
+// ground truth 
+repeatatleast(contain(concat(<vow>,<cap>)),5)

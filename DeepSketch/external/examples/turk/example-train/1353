@@ -1,0 +1,25 @@
+// example 
+"_9v",-
+"ihT>O",+
+"crx\e",+
+"p",-
+"}ne.",+
+"acv",+
+"",-
+"_9)",-
+"e",+
+"ri",+
+"md",-
+"u",+
+"4n%]",-
+"w",-
+"ru",+
+"4n%*",-
+"m\",-
+"m9^bk",-
+"guh",+
+"}nfi",+
+"m9^bq",-
+
+// ground truth 
+endwith(contain(or(<vow>,<cap>)))

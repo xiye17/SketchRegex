@@ -1,0 +1,21 @@
+// example 
+"F",-
+"GRw!",-
+"R!n",-
+"GW",-
+"N!L!N!Q!L!O!K!I!",+
+"-6?O",-
+"R!2",-
+"B!F!G!K!U!",+
+"P!H!K!L!Z!W!E!D!N!",+
+"",-
+";",-
+"A!O!y",-
+"B!E!V!Q!W!M!B!",+
+"A!hil",-
+"X!N!O!X!H!X!P!C!B!D!",+
+"G!",-
+"G!B!C!O!G!P!",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<m0>),5)

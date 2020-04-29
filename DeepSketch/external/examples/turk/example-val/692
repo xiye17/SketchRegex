@@ -1,0 +1,14 @@
+// example 
+"",+
+"%(>S)E",+
+"Un",+
+"6",+
+"F+(tn|.",+
+"5Qw",+
+"Z}{8\",+
+"++@RO\/F",+
+"birg",+
+"&cjsT>)&\",+
+
+// ground truth 
+startwith(star(concat(<m0>,<num>)))

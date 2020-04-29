@@ -1,0 +1,17 @@
+// example 
+"baU",+
+"@QQ",-
+"boZ",+
+"5[",-
+"lT",-
+"YVwA",-
+"{)C",-
+",",-
+"bG1%+",-
+"",-
+"b",-
+"~)%=c",-
+"}m{H",-
+
+// ground truth 
+concat(<low>,concat(<vow>,<cap>))

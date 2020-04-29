@@ -1,0 +1,14 @@
+// example 
+"",+
+"a.8",+
+"Ql2i!",+
+"nhW<9,K?u",+
+"l",+
+"/DKr",+
+"Bc",+
+"T%YL*&<",+
+"h|3%FO1o",+
+"9p{x&8",+
+
+// ground truth 
+not(and(and(<let>,<cap>),<m0>))

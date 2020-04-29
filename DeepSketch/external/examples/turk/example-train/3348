@@ -1,0 +1,16 @@
+// example 
+"@a:v",-
+"Tp5",-
+"wEV",+
+"Z",-
+"><HCg",-
+"TSM",-
+"@awQ",-
+"=P",-
+"waK",+
+"=Z",-
+"",-
+">oNYG",-
+
+// ground truth 
+concat(concat(<any>,<vow>),<cap>)

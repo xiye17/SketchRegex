@@ -1,0 +1,25 @@
+// example 
+"E",+
+"EQ",-
+"ITKV",-
+"O}",+
+"IH",-
+"iUS",-
+"IT1P",-
+"O/",+
+"IRK?X",-
+"",+
+"uQ5Kj",+
+"oj$+",+
+"i)N",-
+"iAxA-J",-
+"oj$o",+
+"O",+
+"uZ8",+
+"uZd",+
+"uQ5K6",+
+"IRKBW",-
+"iAxAVK",-
+
+// ground truth 
+not(concat(startwith(<vow>),<cap>))

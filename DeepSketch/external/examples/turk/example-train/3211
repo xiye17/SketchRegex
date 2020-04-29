@@ -1,0 +1,17 @@
+// example 
+"Dds",-
+"/",-
+"o",-
+"4I6"",-
+"`2",-
+"~dZ#o",-
+"E[o",+
+"",-
+"AO",-
+"l%^'",-
+"DdR",-
+""v9@w",-
+"E[U",+
+
+// ground truth 
+concat(concat(<cap>,<any>),<vow>)

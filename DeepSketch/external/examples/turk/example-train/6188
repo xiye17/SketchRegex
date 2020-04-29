@@ -1,0 +1,17 @@
+// example 
+"!I",+
+"Y",-
+"!P",-
+"!",-
+"!"h",-
+"!E",+
+"",-
+"!B",-
+"!O&#",-
+"!G%",-
+"!T:A",-
+"mg@/f",-
+"!MI1n",-
+
+// ground truth 
+and(concat(<m0>,<vow>),contain(<cap>))

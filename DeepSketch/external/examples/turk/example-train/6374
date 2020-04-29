@@ -1,0 +1,17 @@
+// example 
+"uEN6",+
+"u",-
+"19zIT",+
+"O>",+
+"E}m",+
+"b",+
+"",+
+"o@",+
+"I\]d8",+
+"Q",+
+"Tp{!",+
+"I",-
+"omx",+
+
+// ground truth 
+not(or(or(<num>,<vow>),<m0>))

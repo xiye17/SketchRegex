@@ -1,0 +1,14 @@
+// example 
+"",+
+";pL",+
+"GTtl$E1;",+
+"U+k+Y",+
+"nT;HJJz",+
+"c*[4ABDw,",+
+"H",+
+"vl",+
+"a4y!",+
+"3%]QjC",+
+
+// ground truth 
+not(and(and(<m0>,<cap>),<vow>))

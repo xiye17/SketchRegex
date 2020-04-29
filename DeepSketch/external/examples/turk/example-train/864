@@ -1,0 +1,14 @@
+// example 
+"",+
+".g$(H_",+
+"MwRiI",+
+"P",+
+"/G[",+
+"c3Y&v^&~n",+
+",=MZm8~[",+
+"9KUbn=y",+
+"AzyG",+
+"Ed",+
+
+// ground truth 
+not(and(and(<num>,<m0>),<low>))

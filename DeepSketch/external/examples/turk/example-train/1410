@@ -1,0 +1,17 @@
+// example 
+"VO",+
+"cK",-
+"wxD][",-
+":hT-f",-
+"#j-f",-
+"",-
+"hW{",-
+"?",-
+"[d(o",-
+"08y",-
+"B",-
+"Ve",+
+"&}",-
+
+// ground truth 
+concat(and(<cap>,<any>),<vow>)

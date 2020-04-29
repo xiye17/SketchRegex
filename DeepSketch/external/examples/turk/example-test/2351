@@ -1,0 +1,17 @@
+// example 
+"u",-
+"BZ=",-
+"U\",-
+"e]eu",-
+"",-
+"aO",+
+"U}",-
+"ac",+
+"h!w",-
+"acC2(",-
+"a5C3?",-
+"eFmo",-
+"E",-
+
+// ground truth 
+concat(and(<any>,<vow>),<let>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"%R<",+
+"=KbYh",+
+"?;",+
+"7^?l",+
+",frTQa",+
+".jkxya}",+
+"5cFzFr@V!",+
+"A",+
+"nP3d[}&~",+
+
+// ground truth 
+not(and(star(<low>),<cap>))

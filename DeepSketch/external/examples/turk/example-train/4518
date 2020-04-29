@@ -1,0 +1,25 @@
+// example 
+"dHgwT",+
+"P~G9",-
+"cH",+
+"ayvZ",+
+"cw",+
+"dHgwl",+
+"PJ{",-
+"P]4;",-
+"kL}U*",-
+"^",-
+"\C",-
+"",+
+"g",+
+"ayvw",+
+"JWX",+
+"Q",+
+"JWo",+
+"&o",-
+"kLJ\)",-
+"{$w",-
+"~",-
+
+// ground truth 
+and(not(<num>),star(<let>))

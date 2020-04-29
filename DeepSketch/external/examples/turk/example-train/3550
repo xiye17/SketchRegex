@@ -1,0 +1,25 @@
+// example 
+"Ep)^",-
+"UEueA"5+_",+
+"EU",-
+"iAIIi4",+
+"EN",-
+"",-
+"i",-
+"AfA",-
+"iAIIa5",+
+"euOUu&52Ev",+
+"AGL",-
+"iOeEA0$",+
+"oIuoE"6_",+
+"oIuoE"_4",+
+"euOUu&`''1",+
+"euoiA",-
+"UEueA5I|B",+
+"y",-
+"n2:Dg",-
+"[qW3",-
+"iOeEA-9",+
+
+// ground truth 
+concat(repeatatleast(<vow>,5),contain(<num>))

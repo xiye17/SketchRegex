@@ -1,0 +1,15 @@
+// example 
+"x00i",-
+".qKm/JI",-
+"=`rVW",-
+"fa&UKVi\*",-
+"eXP5[m",-
+"+)pyPVj[B\",-
+";b",-
+"",-
+"j%9",-
+"**te+6ux",-
+"|",+
+
+// ground truth 
+or(or(<low>,<cap>),<any>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"daD",+
+"QXv8",+
+"[I/QWu",+
+"TaF]<I}g",+
+"e9TRU)p(n",+
+"\7",+
+"V",+
+"?NJ%d",+
+"|W/Id'.",+
+
+// ground truth 
+not(and(and(<vow>,<m0>),<let>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"D$3r`",+
+"[g$s",+
+"m8T!j.Y",+
+"Ax]",+
+"<",+
+"m:",+
+"G-9-}0uM",+
+"O/wyoZ",+
+"!p?1tRLRm",+
+
+// ground truth 
+not(and(and(<let>,<m0>),<cap>))

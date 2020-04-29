@@ -1,0 +1,14 @@
+// example 
+"",+
+"yS",+
+"n",+
+"v`S",+
+"~=jE1",+
+"%`N^5hq#5",+
+"Q\K\",+
+"EuY2xBr",+
+"laSxn:",+
+"-Hk@oN.4",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<num>))

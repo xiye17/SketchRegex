@@ -1,0 +1,16 @@
+// example 
+"}",-
+"%U",-
+"ro|",-
+"rE~>",-
+"rEJ7",-
+"9F)}u",-
+"\Ob",+
+"9a|"=",-
+"\OX",+
+"",-
+"r%X",-
+"%E",-
+
+// ground truth 
+concat(concat(<any>,<vow>),<let>)

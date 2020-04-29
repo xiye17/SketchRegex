@@ -1,0 +1,21 @@
+// example 
+"G3G0c7@7=1x5M8)0H4N9",+
+"K5O5k5[0X0'8A0",+
+"}4w9x3<6Q1E4G4V2W9",+
+"aL",-
+"+",-
+"*0ZuT",-
+"n0J836t969",+
+"`971Y133~0y0e4E0",+
+"Mb,b",-
+"",-
+"a#",-
+"*q1<~",-
+"38=0U2e0=6K1",+
+"g7Q0'7E9",+
+"71p",-
+"7(2",-
+"M*l*",-
+
+// ground truth 
+repeatatleast(concat(<any>,<num>),4)

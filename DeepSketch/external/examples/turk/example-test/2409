@@ -1,0 +1,26 @@
+// example 
+"za!",+
+"z!bCI",+
+"h!&OSwU",+
+"x-|!28",+
+"zKY!k",+
+"a0O(-",-
+"taz!",+
+"t!G8",+
+"",-
+"'",-
+"p!",+
+"D}AeF",-
+"}4x",-
+"0:g",-
+"%UqS",-
+"t'",-
+"1Z",-
+"z!y",+
+"x-!b"/",+
+"e0o~",-
+"{",-
+"h3!GHnv",+
+
+// ground truth 
+concat(<low>,contain(<m0>))

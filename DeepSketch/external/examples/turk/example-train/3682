@@ -1,0 +1,15 @@
+// example 
+"mzdt",-
+"g",+
+"'I",-
+"lG~2b1F&D",-
+"x2=:kD-8",-
+"JqH1V",-
+"C&]r0R",-
+"",-
+":zLg{,U",-
+"AyF",-
+"@j1\dwgHbb",-
+
+// ground truth 
+or(or(<any>,<low>),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"a0",+
+"eW]&",-
+"_1O$",-
+"{uq5X",-
+"",-
+"E(s",-
+"i1",+
+"ds^f_",-
+"af",-
+"RC",-
+"C",-
+"H",-
+"EH[",-
+
+// ground truth 
+concat(<vow>,and(<num>,<any>))

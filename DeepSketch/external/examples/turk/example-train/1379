@@ -1,0 +1,15 @@
+// example 
+"j",+
+"4IV$(it0r",+
+"umkk)2hq%1",+
+"ej,.",+
+"&~i",+
+"b5<|+iN",+
+"<?aw:gM$",+
+"i\tuq<",+
+"lPtu#",+
+"",-
+"~y",+
+
+// ground truth 
+contain(or(or(<cap>,<any>),<m0>))

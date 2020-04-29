@@ -1,0 +1,25 @@
+// example 
+"8\abt,[!",+
+"5KnoeC",+
+"9P",+
+"/b",-
+"6qT5",+
+"!",-
+"_",-
+"T[EsY",-
+"",-
+"odN",-
+"1bx@t5#",+
+"3FpkG.\Zm/",+
+"2}i",+
+""7vA",-
+"7",+
+"IFfA",-
+"#"/",-
+"4@O`j%6Pn",+
+"5^p@6",+
+",Qr,3",-
+"?q",-
+
+// ground truth 
+or(startwith(<num>),and(<m0>,<low>))

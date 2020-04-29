@@ -1,0 +1,25 @@
+// example 
+"EC0[P",+
+"aYsSe",+
+"AER9t^",+
+"IuN)",+
+"6TQ",-
+"",-
+"q9",-
+"uj_+",+
+"O8",-
+"VH9-",-
+"IcQ",+
+"p=Q",-
+"euq",+
+"NP+NH",-
+"O",-
+"nR-T&",-
+"aAAzZ7J",+
+"u9!p#mO",+
+"Q]x;",-
+"uJq5D2",+
+"H",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<any>,2))

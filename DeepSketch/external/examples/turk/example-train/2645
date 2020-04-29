@@ -1,0 +1,15 @@
+// example 
+"T>\Y!Xr\Rf",+
+"7:zm}n!",+
+"U",+
+"Vx=c",+
+"uyGi)tBdJ",+
+"?9e",+
+".G]cZ",+
+">9$<*W",+
+"g{\HG]?9",+
+"",-
+"0/",+
+
+// ground truth 
+contain(or(or(<vow>,<num>),<any>))

@@ -1,0 +1,17 @@
+// example 
+"!b",-
+"!Xm",-
+"!tL",+
+"nY-",-
+"!",-
+"!+c3k",-
+"",-
+"VH",-
+"!ZD",+
+"!NEa",-
+"!_K0u",-
+"A`q/",-
+"E",-
+
+// ground truth 
+concat(<m0>,concat(<let>,<cap>))

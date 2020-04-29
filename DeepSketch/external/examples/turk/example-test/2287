@@ -1,0 +1,17 @@
+// example 
+"r",-
+"aY",+
+"uGF}",-
+"a-",-
+"umrN",-
+"wnp",-
+"",-
+"eW",+
+"j",-
+"yth1>",-
+"fEEe/",-
+"RxF",-
+"an",-
+
+// ground truth 
+concat(and(<vow>,<low>),<cap>)

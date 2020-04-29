@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"a!=4",+
+"A!H.",+
+"o!OEi?",+
+"EU!?",-
+"PQZY>",-
+"A!M%X",+
+"oP",-
+"W}p",-
+"o!5",+
+"UW}",-
+"i!4",+
+"",-
+"O<$eO",-
+"j-",-
+"o!G(W",+
+"U",-
+"A",-
+"o!",+
+"e!)]xp",+
+"qjK8",-
+
+// ground truth 
+startwith(concat(<vow>,<m0>))

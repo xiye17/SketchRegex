@@ -1,0 +1,25 @@
+// example 
+"qorOIOIO",+
+"SiYOUbiUe",+
+"ds"B",-
+"TAaIoOA",+
+"ea",-
+"oDaUFhOzoe",+
+"eI",-
+"",-
+"D8hEtFoAEoU",+
+"g",-
+"zii",-
+"qorOIOIA",+
+"TAaIoOI",+
+"SiYOUbiUu",+
+"D8hEtFoAEoe",+
+"A",-
+"uGvho",-
+"ziA",-
+"ds"Q",-
+"uGvhc",-
+"oDaUFhOzou",+
+
+// ground truth 
+repeatatleast(contain(<vow>),6)

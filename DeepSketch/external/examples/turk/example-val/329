@@ -1,0 +1,17 @@
+// example 
+"3",-
+"0xk",+
+"%K(",-
+"XQ",-
+"Vbk",-
+"",-
+"BJ^@B",-
+"2+",-
+"Y0P2",-
+"I",-
+"8!KEb",-
+"0Gx",+
+""%?)",-
+
+// ground truth 
+concat(concat(<num>,<let>),<low>)

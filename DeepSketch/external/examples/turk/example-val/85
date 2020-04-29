@@ -1,0 +1,17 @@
+// example 
+"o",-
+"bp%x",-
+"!7#",+
+"",-
+"c$R",-
+"b3>X",-
+"z4",-
+"V5![S",-
+"!8qN3",-
+"e8Z",+
+"6",-
+"z.",-
+"|*!",-
+
+// ground truth 
+concat(or(<low>,<m0>),concat(<num>,<any>))

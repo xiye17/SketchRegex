@@ -1,0 +1,16 @@
+// example 
+"$",-
+"0R",+
+"+wi9D",-
+"HT/",-
+"H.Q",-
+"+[Cf{",-
+"'}",-
+"8sOe",-
+"8\1L",-
+"",-
+"0i",+
+"'^",-
+
+// ground truth 
+concat(<any>,or(<cap>,<low>))

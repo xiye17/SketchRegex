@@ -1,0 +1,26 @@
+// example 
+"c~u",+
+"cuo",+
+"F_",-
+"v~l|C",+
+"t}}>}",-
+"t}}>:",-
+"{`",-
+"mDNs%c",+
+"v~?zw",+
+"",-
+"b",-
+"b#]",-
+"z}{{",-
+"mi",+
+"s~Ga",+
+"wzn81Jt",+
+"sp9V",+
+"b#}",-
+"{",-
+"mzE$V+",+
+"w<~:6j9",+
+"@fh{",-
+
+// ground truth 
+repeatatleast(startwith(<low>),2)

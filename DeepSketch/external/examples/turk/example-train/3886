@@ -1,0 +1,17 @@
+// example 
+"jM",-
+"4e",+
+"[",-
+"TU=v,",-
+"'}kX",-
+"jg",-
+"",-
+"2b!",-
+"+Tj@"",-
+"`S!",-
+"_JWz",-
+"@",-
+"4i",+
+
+// ground truth 
+concat(or(or(<let>,<num>),<low>),<vow>)

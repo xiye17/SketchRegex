@@ -1,0 +1,25 @@
+// example 
+"iiouUUeh",+
+"iiouUUEj",+
+"AIoIUeI",+
+"AIoIUeo",+
+"EAoEeAowhju",+
+"UF6&m",-
+"l",-
+"D0",-
+"mVS",-
+"",-
+"HfMv",-
+"EAoEeAO|iF^",+
+"4^|=",-
+"U`<o0",-
+".$",-
+"K",-
+"ioiiIouH&y",+
+"OIauUOE>J",+
+"OIauUOoh?",+
+"ioiiIoo,Q]",+
+"B[b",-
+
+// ground truth 
+startwith(repeatatleast(<vow>,7))

@@ -1,0 +1,17 @@
+// example 
+"nrWFH",+
+"lML`",+
+"e:",+
+"zT",+
+"e38R",+
+"b",+
+"e",-
+""",+
+"e39",+
+"",+
+"i",-
+"v{6",+
+"oawEf",+
+
+// ground truth 
+not(and(<low>,<vow>))

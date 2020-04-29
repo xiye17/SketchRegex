@@ -1,0 +1,25 @@
+// example 
+"JRd",-
+"7fD5-",-
+"XHPUY",+
+"OYRAAINw",+
+"MDMc",+
+"XHPUm",+
+"U*",-
+"QFNLPL",+
+"VCZHVCS",+
+"",-
+"R).eK",-
+"JRA",-
+"QFNLPf",+
+"OYRAAINB",+
+"j",-
+"N",-
+"_g",-
+"qyx)",-
+"<:>2",-
+"MDMK",+
+"VCZHVCl",+
+
+// ground truth 
+concat(repeatatleast(<cap>,3),<let>)

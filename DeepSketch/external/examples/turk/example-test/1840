@@ -1,0 +1,14 @@
+// example 
+"",+
+"5o~R@\y",+
+":bD",+
+"j)[>comA",+
+"?",+
+"Nn>HB",+
+"q#Sez;",+
+"Oh",+
+"<~2t",+
+":{fK^:!dI",+
+
+// ground truth 
+star(contain(or(or(<low>,<any>),<m0>)))

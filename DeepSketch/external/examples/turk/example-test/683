@@ -1,0 +1,14 @@
+// example 
+"",+
+"Z~=*F+/ka",+
+"so~]n",+
+"F]R2Qg",+
+"fa",+
+"h<-=x-Z",+
+"<",+
+"iYh",+
+"3sMVto0m",+
+"ki~s",+
+
+// ground truth 
+contain(not(or(<low>,<m0>)))

@@ -1,0 +1,26 @@
+// example 
+"}H~",-
+"-~%{uO",+
+"w&C*H",+
+"}y<",+
+"B1cq",+
+"}O",-
+"-~eT+x",+
+"_",-
+"b",+
+"}H*",-
+"{d",+
+"",-
+"vQt",+
+"}",-
+"B}}N'",-
+"B}}N}",-
+"{G{{",-
+"]o",+
+"{sTmn",+
+"{G{B",-
+"Btl:",+
+"}|",-
+
+// ground truth 
+contain(and(<low>,startwith(<let>)))

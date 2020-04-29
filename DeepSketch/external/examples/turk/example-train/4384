@@ -1,0 +1,25 @@
+// example 
+"fPNAf",-
+"fXW",-
+"mr",-
+"c^",+
+"Pi~",+
+"U|RV",+
+"(HD3u",+
+"fXs",-
+"ZsLF",-
+"b",+
+"tkRtzl",-
+"",+
+"fPNAY",-
+"U\tm",+
+"c~",+
+"Pi`",+
+"ZsLs",-
+"mX",-
+"tkRtzY",-
+"~",+
+"{DAoZ",+
+
+// ground truth 
+not(repeatatleast(<let>,2))

@@ -1,0 +1,25 @@
+// example 
+"EAeoEO",+
+"UiIEa",+
+"dW",+
+"xTt",+
+"O9s",-
+"M!!<D",-
+"Oq!",-
+"UUOaIUI",+
+"h%qV",+
+"",-
+"UiIEO",+
+"JQnV",-
+"f",+
+"EAeoEE",+
+"OF",-
+"UUOaIUo",+
+"Ob(/D",-
+"S",-
+"Iut2",-
+"A",-
+"K`",-
+
+// ground truth 
+or(startwith(<low>),repeatatleast(<vow>,5))

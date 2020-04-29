@@ -1,0 +1,25 @@
+// example 
+"v{",-
+"uCnFhTlIpybkvpbv",+
+"}}1B",-
+"vg",-
+"aMwnfBqodakwbn",+
+"uCnFhTlIpybkvpbY",+
+"wSs]C",-
+"xdfsiBaI",+
+"e",-
+"E'^9",-
+"dcbQragShh",+
+"",-
+"tfgvjxlDkmtN",+
+"aMwnfBqodakwbS",+
+"t,(",-
+"t]'",-
+"xdfsiBaf",+
+"dcbQragShZ",+
+"tfgvjxlDkmtw",+
+"wSsg@",-
+"{",-
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),4)

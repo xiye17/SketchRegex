@@ -1,0 +1,25 @@
+// example 
+"V}",-
+"VQ",-
+"{j!S",+
+"]",-
+"([)",-
+"[9#:b",-
+"0>A!a",+
+"k",-
+"x!G",+
+"",-
+"|U%F!R",+
+"Zat?e!o",+
+"{j!t",+
+"0>A!P",+
+"Zat?e!Z",+
+"[9#:{",-
+"x!i",+
+"'`\o",-
+"|U%F!q",+
+"([[",-
+"'`\|",-
+
+// ground truth 
+contain(concat(repeatatleast(<let>,1),concat(<m0>,repeatatleast(<let>,1))))

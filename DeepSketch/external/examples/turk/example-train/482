@@ -1,0 +1,25 @@
+// example 
+"F",-
+"}|jg!R!e!",+
+"^6s",-
+"hI!G!e!",+
+"|c!|I!w!",+
+"'oA_P!q!T!",+
+"~?Gw",-
+",",-
+"&X",-
+"",-
+"}l^8E",-
+"I!Q!s!",+
+"}|jg!R!I!",+
+"^6~",-
+"}l^8~",-
+"'oA_P!q!k!",+
+"hI!G!N!",+
+"&8",-
+"~?GT",-
+"I!Q!B!",+
+"|c!|I!Z!",+
+
+// ground truth 
+repeatatleast(endwith(concat(<let>,<m0>)),3)

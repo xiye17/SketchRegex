@@ -1,0 +1,16 @@
+// example 
+"mU",-
+"KU9",+
+"^A@",-
+"{o#gE",-
+"{^4CO",-
+"!",-
+"me",-
+"DU*|",-
+"DU[E",-
+"",-
+"^A+",-
+"Ku7",+
+
+// ground truth 
+concat(<any>,concat(<vow>,<num>))

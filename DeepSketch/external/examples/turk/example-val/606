@@ -1,0 +1,15 @@
+// example 
+"$Y",+
+"T",-
+"Lp-v",-
+"e8>",-
+">b",-
+"W;[sE",-
+">)",-
+"LPX7",-
+"Ws~$Q",-
+"e_n",-
+"",-
+
+// ground truth 
+concat(or(<let>,<any>),<cap>)

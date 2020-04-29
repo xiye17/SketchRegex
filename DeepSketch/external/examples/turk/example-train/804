@@ -1,0 +1,25 @@
+// example 
+"EhI#U&A)aUo+UiIf",+
+"IkaHUpeKE<",+
+"eUohAOIQ",+
+"AM",-
+"J;A"",-
+"8WY[",-
+"IkaHUpeKO3",+
+"U]AwuxAfu]AzEv",+
+"",-
+"A0L",-
+"EhI#U&A)aUo+Uiio",+
+"U]AwuxAfu]AzUr",+
+"O0",-
+"]1]W5",-
+"O",-
+"ifA<evEGE@e,",+
+"A0t",-
+"AJ*F4",-
+"ifA<evEGE@u7",+
+"K",-
+"eUohAOi.",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),4)

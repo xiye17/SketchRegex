@@ -1,0 +1,25 @@
+// example 
+"yH4N",+
+"e;j^r",-
+"O=",-
+"P&/Qk",+
+"Qsa",-
+"PS",+
+"",+
+"yHB",+
+"U",-
+"u_",-
+"J",+
+"P&/Q~",+
+"ma]B",-
+"OUgcF",-
+"H",+
+"Pv",+
+"yH4f",+
+"yHc",+
+"IX`",-
+"E",-
+"Iy6N",-
+
+// ground truth 
+not(or(<m0>,contain(<vow>)))

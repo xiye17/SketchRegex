@@ -1,0 +1,25 @@
+// example 
+"yCVD",-
+"M$y1}",-
+"Hmbbuhni",+
+"@l",-
+"Tvwkvomemhv",+
+"Fzmamjx",+
+"c}.",-
+"$ph#",-
+"Feijg",+
+"Bdoppc",+
+"",-
+"Dfnvfvqip",+
+"Xhzfdjeice",+
+"Hqcpectmjdnb",+
+"U",-
+"7",-
+"VX",-
+":.x]}",-
+"Pysh",+
+"C\)",-
+"Pdizcekzybjxr",+
+
+// ground truth 
+concat(<cap>,repeatatleast(<low>,3))

@@ -1,0 +1,17 @@
+// example 
+"F",-
+"Uz!",+
+"O}RV",-
+"u0X$@",-
+"OrU",-
+"Ox!",+
+"y9",-
+"",-
+"O~e",-
+"F&",-
+"Oinh",-
+"U",-
+"ud!Wj",-
+
+// ground truth 
+concat(<vow>,concat(<low>,<m0>))

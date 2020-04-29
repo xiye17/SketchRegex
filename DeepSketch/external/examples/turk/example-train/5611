@@ -1,0 +1,25 @@
+// example 
+"!:\y`"",+
+"#X!",+
+"`!",+
+"Z",-
+"!YTy{",+
+"Zz4!",+
+",+7%A7'",-
+"/;RoYOe#-",-
+"!",+
+"!F",+
+"zyd$M",-
+"#!]",+
+"",-
+"ayI@!",+
+"rh",-
+"Kp@gsB",-
+"rn\",-
+"t{bz/)q5",-
+".ph{",-
+"Zz!p",+
+"yd!UjH",+
+
+// ground truth 
+contain(repeatatleast(endwith(<m0>),1))

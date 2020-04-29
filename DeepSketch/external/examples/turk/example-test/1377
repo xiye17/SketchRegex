@@ -1,0 +1,25 @@
+// example 
+"H*[",+
+"Q[]u",+
+"8|E5P",-
+"N}0|D(:|",+
+"1VV;",-
+"Y3",+
+"",-
+")",-
+"n_",-
+"+;",-
+";S>",-
+"S",+
+"BmR'ZG%`2",+
+"CgCFv",+
+"D1f?YB",+
+"Vaa->TF",+
+"N*0PthCjl8",+
+"_e}tY",-
+"{",-
+"tgt?",-
+"a~R",-
+
+// ground truth 
+concat(<cap>,star(<any>))

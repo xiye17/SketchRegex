@@ -1,0 +1,25 @@
+// example 
+"4ND",-
+"T$",-
+"Gnw&#",-
+"!B",+
+"!*Y+^",+
+"!",+
+"CC",+
+"!TQ",+
+"h4N",-
+"",+
+"JLHWQ",+
+";",-
+"UAPE",+
+"G6!`",-
+"I",+
+"v",-
+"Tq",-
+"wY<<@",-
+"SUO",+
+"Gg#.",-
+"!ZV@",+
+
+// ground truth 
+or(startwith(<m0>),star(<cap>))

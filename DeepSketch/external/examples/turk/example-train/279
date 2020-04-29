@@ -1,0 +1,15 @@
+// example 
+"",+
+"ib8nM",+
+"Y+S",+
+"Q&",+
+"!#pqW",+
+"zr(K",+
+"!",-
+"!O",+
+"!rP",+
+"!?(?",+
+"$",+
+
+// ground truth 
+or(not(<m0>),endwith(<m1>))

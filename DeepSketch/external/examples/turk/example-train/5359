@@ -1,0 +1,17 @@
+// example 
+"~5zoJ",+
+"U",+
+"=4t#",+
+"_O",+
+"|gd",+
+"",+
+"un.",+
+"WS",-
+"~~",+
+"G^)<",+
+"j",+
+"mR",-
+"_)4O9",+
+
+// ground truth 
+not(concat(<let>,<any>))

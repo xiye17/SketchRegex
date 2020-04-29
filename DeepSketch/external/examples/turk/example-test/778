@@ -1,0 +1,24 @@
+// example 
+"[e",+
+"|_s}",-
+";QxYA",+
+"/P/F`",-
+"LUn,",+
+"/P/F/",-
+"",-
+"|_sr",-
+"KP}u5A",+
+"[F",-
+"[E",+
+"9$w",-
+"(~I",+
+"KP}I#w",+
+"[n",-
+"Lu}A",+
+";ok(M",+
+"(~A",+
+"I",-
+"9$C",-
+
+// ground truth 
+concat(<any>,contain(<vow>))

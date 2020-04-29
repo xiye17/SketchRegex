@@ -1,0 +1,26 @@
+// example 
+"'@",+
+"@Ru",+
+"/!",-
+"@!XwB",-
+"@n!8V",-
+"+j@L",+
+"!",-
+"o+di@",+
+"@M%!",-
+"",-
+"@M!_",-
+"f",-
+"+jU@",+
+"<n@LCf",+
+"o@0$t",+
+"@_",+
+"i!e",-
+"?/@",+
+"/J",-
+"iR!",-
+"@",+
+"<n1,@Q",+
+
+// ground truth 
+and(not(contain(<m0>)),repeatatleast(contain(<m1>),1))

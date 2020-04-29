@@ -1,0 +1,14 @@
+// example 
+"",+
+"D<J^D>8q",+
+"%;!m",+
+"oU!",+
+"[G",+
+"LO{O>O\",+
+"f'9>N",+
+"6-mzi[:?L",+
+"[S))_i",+
+"_",+
+
+// ground truth 
+contain(endwith(star(<num>)))

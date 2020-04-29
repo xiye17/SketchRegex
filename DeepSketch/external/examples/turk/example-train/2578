@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"e!l7",-
+"o6T",-
+"0!S|~",-
+"",-
+"EL",-
+"0(MQ$",-
+"e[Y]",-
+"a!",+
+"w",-
+"ga",-
+"o!@",-
+">",-
+
+// ground truth 
+concat(or(or(<m1>,<vow>),<num>),<m0>)

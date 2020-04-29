@@ -1,0 +1,26 @@
+// example 
+"dQE",-
+"idrsE",-
+"idrso",-
+"u",-
+"t",-
+"!",+
+"!obB!",+
+"Bi",-
+"",-
+"a#u!",+
+"U^!",+
+"dQ{",-
+"EUau",-
+"UO!",+
+"EUaa",-
+"B^",-
+"6!",+
+"b!",+
+"!obe!",+
+"UeEil!",+
+"a#e!",+
+"UeEiIA",+
+
+// ground truth 
+endwith(or(<m0>,repeatatleast(<vow>,6)))

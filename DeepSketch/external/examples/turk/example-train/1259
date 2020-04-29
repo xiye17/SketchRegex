@@ -1,0 +1,25 @@
+// example 
+"EeoOOI",+
+"AA1e",+
+"E2o",+
+"tg[",-
+"uC",-
+"eUEoAAA",+
+"bbwWg",-
+"+",-
+"iOioO",+
+"EeoOOE",+
+"",-
+"D"",-
+">vZ<",-
+"HY{b",-
+"E24",+
+"AA1U",+
+"iOioo",+
+"eUEoAAe",+
+"C",-
+"97B",-
+"G'd2(",-
+
+// ground truth 
+repeatatleast(or(<num>,<vow>),3)

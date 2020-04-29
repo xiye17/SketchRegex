@@ -1,0 +1,16 @@
+// example 
+"!*_",-
+"!=pA",-
+"u",-
+"!9",+
+"!-!ce",-
+"!",-
+"!o*",-
+"H5MRN",-
+"!,",-
+"",-
+"!J",-
+"!1^W",-
+
+// ground truth 
+and(endwith(<num>),concat(<m0>,<any>))

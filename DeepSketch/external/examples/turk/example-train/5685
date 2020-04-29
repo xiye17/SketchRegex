@@ -1,0 +1,16 @@
+// example 
+"}",-
+"t5",-
+"f",-
+"E5B&4",-
+"j2O",+
+"a(1\Y",-
+"t(",-
+"o;+",-
+"o1!",-
+"l0N|",-
+"l0mP",-
+"",-
+
+// ground truth 
+concat(<low>,concat(<num>,<cap>))

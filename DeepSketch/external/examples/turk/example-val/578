@@ -1,0 +1,17 @@
+// example 
+"e~",-
+"oGc",-
+"hI_K",-
+"",-
+"U3->Y",-
+"oG%",-
+"U=X",+
+"IFM",+
+"g",-
+"qj9p",-
+"@a",-
+"C",-
+"U3x:c",-
+
+// ground truth 
+concat(<vow>,concat(<any>,<cap>))

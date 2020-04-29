@@ -1,0 +1,16 @@
+// example 
+";",-
+"g",+
+"tJ",-
+"};4",-
+"cGXr",-
+"%X",-
+"ap3iM",-
+"BbO",-
+"D@]#",-
+"{",-
+"",-
+"{JKaY",-
+
+// ground truth 
+and(endwith(<low>),<any>)

@@ -1,0 +1,25 @@
+// example 
+"As",+
+"IA",+
+"E",+
+"Qv4Q",-
+"bD(2>",-
+"_&3",-
+"l,RXX",-
+"oL5>",+
+"GUZ",-
+"u!2$X",+
+">4",-
+"UDu",+
+"al}IJ",+
+"",-
+"OY9G",+
+"g",-
+"HBCo",-
+"N1",-
+"iS8",+
+"v",-
+"A",+
+
+// ground truth 
+startwith(or(repeatatleast(<any>,6),<vow>))

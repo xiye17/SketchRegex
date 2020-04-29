@@ -1,0 +1,18 @@
+// examples
+"Aa",+
+"Bb",+
+"AAAaaa",+
+"BBBbbb",+
+"Aa and other",+
+"Start with caps",+
+"Hello,",+
+"other Aa and",-
+"",-
+"bB",-
+",,,",-
+"something!",-
+"aA",-
+"n0",-
+
+// ground truth 
+repeatatleast(concat(<cap>,contain(<let>)),1)

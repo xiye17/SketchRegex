@@ -1,0 +1,16 @@
+// example 
+"Ml",-
+"^;FDT",-
+"q7C",-
+"7",-
+"?f$z",-
+"U",+
+"u'",-
+"m",-
+"t7sd",-
+"WLx",-
+"Av]87",-
+"",-
+
+// ground truth 
+and(<cap>,repeatatleast(<any>,1))

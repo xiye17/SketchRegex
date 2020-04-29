@@ -1,0 +1,25 @@
+// example 
+"TL}X",+
+")1FV",+
+"2CZ",-
+"8Zkz",-
+"3K}"6",+
+"6S",-
+"+",+
+"5NOaq",-
+"7DMiIQ",-
+"2Co",-
+"",+
+"#W",+
+"7DMiIj",-
+"5NOaV",-
+"9",+
+"1\",+
+"6R|",+
+"6R`",+
+"6d",-
+"8ZkR",-
+"?c_[R",+
+
+// ground truth 
+not(concat(<num>,repeatatleast(<let>,1)))

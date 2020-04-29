@@ -1,0 +1,17 @@
+// example 
+"qO",+
+"jaW|",-
+"Bz6`k",-
+"!b",-
+"o",-
+"t@^",-
+"qa",+
+"",-
+"jO,E",-
+"!W",-
+"{-l+/",-
+"K7E",-
+"E",-
+
+// ground truth 
+concat(or(<m0>,<low>),<vow>)

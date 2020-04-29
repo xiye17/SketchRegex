@@ -1,0 +1,14 @@
+// example 
+"",+
+""X$M6EQy;",+
+"y,frOkem",+
+"_^8GNo@",+
+"j",+
+"<Gbus",+
+"n@+",+
+"Uk\6$p",+
+"t]+x",+
+"u2",+
+
+// ground truth 
+not(and(concat(<let>,<num>),<m0>))

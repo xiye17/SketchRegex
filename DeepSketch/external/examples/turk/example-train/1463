@@ -1,0 +1,25 @@
+// example 
+"E",+
+"nEw.b",+
+"GR",-
+"iSZ",+
+"FRx~z",-
+"d",-
+"",-
+"ZA",+
+"FRx~~",-
+";I@"",+
+"Q",-
+"f,Hq",-
+"f,HD",-
+"gfA",+
+";ewW",+
+"i",+
+"Zi",+
+"Cn|",-
+"CnP",-
+"a/&Y#",+
+"Gc",-
+
+// ground truth 
+contain(or(repeatatleast(<low>,4),<vow>))

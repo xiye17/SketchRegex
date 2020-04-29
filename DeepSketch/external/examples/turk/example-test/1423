@@ -1,0 +1,17 @@
+// example 
+"?_e",+
+"[c",+
+"!EY)7",+
+"d",-
+"_",+
+"W*",+
+"",+
+"Q",-
+"WKU",+
+"[qs`%",+
+"}nt"",+
+"C4=Q",+
+"~",+
+
+// ground truth 
+repeatatleast(not(<let>),1)

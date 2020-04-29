@@ -1,0 +1,25 @@
+// example 
+"LAfLwUcVsPBRREFCiC",+
+"LGDAfDjFfVKL",+
+"FVIZQTBAXGMOUK",+
+"V9",-
+"l9:",-
+",}sU:",-
+"cM#"/",-
+"m",-
+"G2)B",-
+"",-
+"VH",-
+"BSiHnApUeWQKnQzY",+
+"iEIAdQaXuPVFnLsLWRsO",+
+"FVIZQTBAXGMOaE",+
+":",-
+"&sp",-
+"LAfLwUcVsPBRREFCBQ",+
+"LGDAfDjFfVxM",+
+"BSiHnApUeWQKnQJK",+
+"iEIAdQaXuPVFnLsLWRPO",+
+"^J&Q",-
+
+// ground truth 
+repeatatleast(concat(<let>,<cap>),6)

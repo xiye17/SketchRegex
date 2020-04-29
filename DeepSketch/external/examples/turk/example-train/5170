@@ -1,0 +1,25 @@
+// example 
+"!I",+
+"!oUaAE",+
+"o",-
+"!EU",+
+"!oUaAu",+
+"!BYr(",-
+"!c8|",-
+"!oiiE",+
+"!",+
+"!A",+
+"!Oao",+
+"",-
+"SK",-
+"!q1.A",-
+"!l",-
+"!^.",-
+"8rZ",-
+"!Eu",+
+"!Gs9",-
+"!OaO",+
+"!oiii",+
+
+// ground truth 
+concat(<m0>,star(<vow>))

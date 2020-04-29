@@ -1,0 +1,25 @@
+// example 
+"y!!V",+
+"q",+
+"!1`<C",-
+".",-
+"Oi!",+
+")8nLw",-
+"x?",-
+"U",+
+"E[M|",-
+"CE!NT",+
+"Oim",+
+"^",-
+"",-
+"D!",+
+"!Z~",-
+"EMs^",-
+"x[",-
+"DS",+
+"y!!h",+
+"!Z`",-
+"CE!Ns",+
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),1)

@@ -1,0 +1,26 @@
+// example 
+"[::|IL8jUTUo!",+
+"k-",-
+"\0~:-oJ!!!",+
+"A(XO1",-
+"[::|IL8jUTU!!",+
+"6:alzjNg"",-
+"ZPz+sV?R",-
+")=KN",-
+")'@~Xg",-
+"!_HB#y7!",+
+"&qB",-
+"",-
+"!t3@JUl",-
+"VffL@`te:!Q!",+
+"6:alzjN!~",-
+"<",-
+"TI<~&U`!!",+
+"TI<~&U`h!",+
+"mnNvfca!zd!",+
+"mnNvfca!z!!",+
+"\0~:-oJ!S!",+
+"VffL@`te:!!!",+
+
+// ground truth 
+concat(repeatatleast(<any>,7),<m0>)

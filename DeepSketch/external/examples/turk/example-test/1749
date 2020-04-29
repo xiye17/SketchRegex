@@ -1,0 +1,15 @@
+// example 
+"D",+
+"V{wG%|!otg",+
+"7Sv"i{;*",+
+"FYO",+
+"\5dP$n",+
+"f?",+
+"9O;N",+
+".J&i3&K",+
+"W'XL<",+
+"['x(5X<(2",+
+"",-
+
+// ground truth 
+contain(or(<any>,endwith(<num>)))

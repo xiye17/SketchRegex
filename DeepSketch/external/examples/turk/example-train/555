@@ -1,0 +1,21 @@
+// example 
+"ldczM7}jf;",+
+"d%/VDco;BGMt",+
+"(",-
+"",-
+"ZPm=x/{(UcMrb_4",+
+"Yn",-
+"5*Yjw",-
+"+upD{~KG'",+
+";:?bh_Q[H`I*M9>[",+
+"]whs",-
+"yQjbHe7j",+
+"z"n?V+",-
+"{9x",-
+"bABd]{%3`#XbbN",+
+"W}{}Gmd",+
+"e#&^GC~wGJ)",+
+"@Lx}`i]0\;_`2",+
+
+// ground truth 
+repeatatleast(contain(<any>),7)

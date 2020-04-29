@@ -1,0 +1,17 @@
+// example 
+"uX",+
+"u",-
+"O{",+
+"n",-
+"S_`##",-
+"",-
+"1}6)",-
+"ox|>Q",-
+"gfIU",-
+"ib6",-
+"!k8",-
+"H=",-
+"fO",-
+
+// ground truth 
+concat(or(<m0>,<vow>),<any>)

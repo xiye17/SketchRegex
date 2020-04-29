@@ -1,0 +1,25 @@
+// example 
+"urA",+
+"uPU",+
+"DhYlhQ",+
+"jMBV",+
+"EkUxzVE",+
+"jaJUE",+
+"jMmE",+
+"`GuT",-
+"EkUxzeB",+
+"3|G",-
+"",-
+"a",-
+"Op{#",-
+"@1",-
+"\%&#`",-
+"{4U",-
+"DhYlJH",+
+"~N@(k",-
+"]q",-
+"jaJwM",+
+"~",-
+
+// ground truth 
+concat(repeatatleast(<let>,2),<cap>)

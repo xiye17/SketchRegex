@@ -1,0 +1,15 @@
+// example 
+"",+
+"cQX-pL7|",+
+")p",+
+"dmg//.$",+
+"1",-
+"//D:\",+
+"qK*)>t",+
+"P(2",+
+"O.{h",+
+"&DtD@FFj[",+
+"zfe.gb\t|[",+
+
+// ground truth 
+not(or(or(<any>,<vow>),<let>))

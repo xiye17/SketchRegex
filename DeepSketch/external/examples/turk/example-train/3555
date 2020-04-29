@@ -1,0 +1,25 @@
+// example 
+"N!a!&!",+
+"(!^1F!r!r",+
+"/!6!P",-
+"kP!j!s!",+
+"u!]!xxF!",+
+"0!",-
+"/!6/!",-
+"Dsl",-
+"",-
+"k!&!*!o",+
+"Ds!",-
+"(!^1F6!A!",+
+"bF!{C!#Y!`",+
+"ST!q!&J!ryN",+
+"bF!{C!#Yf!",+
+"ST!q!&!E_He",+
+"x",-
+"L!V"",-
+"L!V!",-
+"0o",-
+"u!]!xx!P",+
+
+// ground truth 
+repeatatleast(contain(concat(<any>,<m0>)),3)

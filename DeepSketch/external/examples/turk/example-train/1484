@@ -1,0 +1,20 @@
+// example 
+"4M7E1D3A4D1O",+
+"0",-
+"<W7[",-
+"B8",-
+"17",-
+""",-
+"<*(Tb",-
+"",-
+"4M8Q4I5E5B7Y8P7V8N",+
+"1|0?",-
+"7W9X1V3E5M8R2F",+
+"7.j",-
+"#)Ef\",-
+"5Y3Z4H0K9Y5H1W6L1T8P",+
+"7]s",-
+"2A6C0Z3J1V7L6B9Q",+
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),6)

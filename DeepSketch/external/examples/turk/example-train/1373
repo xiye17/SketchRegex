@@ -1,0 +1,25 @@
+// example 
+"5E-",+
+"1",-
+"gx3/",-
+"l!ID0",+
+"uz-`&",-
+"!",+
+"",-
+"LW",+
+"gx3|",-
+"!\R"",+
+"fe0",-
+"uz-`]",-
+"8!MT",+
+"fes",-
+"!o",+
+"lKU%_",+
+"v",-
+"xp",-
+"H",+
+"x+",-
+"5!G",+
+
+// ground truth 
+contain(repeatatleast(or(<cap>,<m0>),1))

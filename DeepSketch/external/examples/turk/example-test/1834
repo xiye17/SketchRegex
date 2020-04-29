@@ -1,0 +1,21 @@
+// example 
+"F",-
+"0{Pm~",-
+"8s8p3x5z7a",+
+"4|8",-
+"7u6s1i0q4t8j2q2v7m",+
+"5m9v0q1n1w9f8g",+
+"7z0u8w0b9k3x0t0a3e8o",+
+"",-
+"3t3z8g8a7v1v6w8z",+
+"$",-
+"3^cG",-
+"4@y",-
+"R6",-
+"9}",-
+"9f0c5l3j6w7w",+
+"0<\Hd",-
+"3~U?",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),5)

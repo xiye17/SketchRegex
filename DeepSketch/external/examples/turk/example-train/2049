@@ -1,0 +1,16 @@
+// example 
+"!I",+
+"!6",-
+"p",-
+"!2^",-
+"!",-
+"!}",-
+"uP]_",-
+"!{Tk^",-
+"!mVM",-
+"",-
+"!wq",-
+"!S$\v",-
+
+// ground truth 
+and(endwith(<cap>),concat(<m0>,<let>))

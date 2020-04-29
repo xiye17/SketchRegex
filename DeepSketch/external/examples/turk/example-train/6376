@@ -1,0 +1,25 @@
+// example 
+"eN",-
+"8A",+
+"eEAkA",+
+"e`",-
+"LauZ",-
+"EvX",-
+"Lauy",-
+"omU",+
+"xCUa",+
+"",-
+"c",-
+"8a",+
+"eEAke",+
+"Ibhl|",-
+"O",+
+"xCUI",+
+"Ibhld",-
+"omA",+
+"C",-
+"EvH",-
+"A",+
+
+// ground truth 
+or(endwith(<vow>),repeatatleast(<let>,6))

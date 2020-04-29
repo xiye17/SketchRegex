@@ -1,0 +1,15 @@
+// example 
+"",+
+"&t",+
+"@}q",+
+"r",-
+"sFVB",+
+"VO*">]kt`c",+
+"5taR9b",+
+"R7u53?V",+
+"4MFSz",+
+"I.BP=#nR",+
+"`E^9<Tu~l",+
+
+// ground truth 
+not(or(<cap>,<any>))

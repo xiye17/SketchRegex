@@ -1,0 +1,17 @@
+// example 
+"U!'",-
+"Nu6,)",-
+"U!a",-
+"",-
+"a",-
+"u!",-
+"u"",-
+"h`35f",-
+"a!2",+
+"O!6",+
+"a!ur",-
+"E",-
+"a!'z",-
+
+// ground truth 
+concat(<vow>,concat(<m0>,<num>))

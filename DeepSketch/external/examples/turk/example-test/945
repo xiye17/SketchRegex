@@ -1,0 +1,18 @@
+// example 
+"zB0",+
+"Y2",+
+":it)L~",+
+""",+
+"~oT_t",+
+"~U9u.",+
+"",-
+"kO",-
+"zh0",+
+"qUVH",+
+":J-~eS",+
+"qif=",+
+"ka",-
+"YB",+
+
+// ground truth 
+concat(<any>,not(<vow>))

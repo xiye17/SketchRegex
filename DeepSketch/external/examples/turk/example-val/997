@@ -1,0 +1,25 @@
+// example 
+"X/M^}",+
+"F",-
+"XC*XM",+
+"l",-
+"M;",+
+"KQEKYGI",-
+"",+
+"LNKDUO",-
+"Mi",+
+"FWRHJTEGF",-
+"RBW",-
+"XOKLO",-
+"DWYd",+
+"MO",-
+"AJCRLFOY",-
+"?32",+
+"Tm6kb)",+
+"\GL",+
+"DWY!",+
+"[2XeEk",+
+"ZRPH",-
+
+// ground truth 
+not(or(<any>,repeatatleast(<cap>,1)))

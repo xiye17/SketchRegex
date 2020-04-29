@@ -1,0 +1,17 @@
+// example 
+"y|>yo",-
+"q",-
+"a",+
+"BA\%",-
+"elt",-
+"",-
+"Oij",-
+"DO",-
+"x4",-
+"S",-
+"u",+
+"1H>J",-
+"B3%L\",-
+
+// ground truth 
+or(<vow>,<num>)

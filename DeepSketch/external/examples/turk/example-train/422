@@ -1,0 +1,14 @@
+// example 
+"",+
+";y1Zb>A{",+
+"\D",+
+"R",+
+"A5pCT",+
+"w\H:Wd",+
+"mPdfETK",+
+"4XiQAavh3",+
+"eNK",+
+"ARsA",+
+
+// ground truth 
+startwith(contain(not(<low>)))

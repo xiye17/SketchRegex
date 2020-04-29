@@ -1,0 +1,25 @@
+// example 
+"o!~M",+
+"dOTYJ/",-
+"dOTYkf",-
+"Z`'",+
+"o!~#",+
+"_iY\cNtIk",-
+"1",+
+"T+~~v",+
+"|ZVfRtj",-
+"}V",+
+"}^",+
+"|ZVfRBE",-
+"",+
+"Z`v",+
+"nNCcz",-
+"-|\eZgQq",-
+"_iY\cNtIR",-
+"v",+
+"T+~~'",+
+"nNCcU",-
+"-|\eZgQB",-
+
+// ground truth 
+not(contain(repeatatleast(<let>,5)))

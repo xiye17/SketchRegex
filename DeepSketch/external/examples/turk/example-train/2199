@@ -1,0 +1,25 @@
+// example 
+"hi7",+
+"Q||0",-
+"bz",+
+"|%BD",-
+"Z,aJ~",-
+"hW/",+
+"PM#w0:",+
+"{g",-
+"",-
+")",-
+"Pc}?bF",+
+"Z^Xq;",-
+"KKfW",+
+"E[d",-
+"bY",+
+"E1"",-
+"^Y",-
+"KuUq",+
+"Wjuq|",+
+"WY|e9",+
+"~",-
+
+// ground truth 
+startwith(repeatatleast(<let>,2))

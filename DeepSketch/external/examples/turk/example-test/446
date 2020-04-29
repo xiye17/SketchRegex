@@ -1,0 +1,15 @@
+// example 
+"D",+
+"ef.F",+
+"C@SA@8ne",+
+"*F",+
+"#4!EFX-",+
+"0.<\<",+
+"yGp"n5",+
+"ILO"V=J<C:",+
+"",-
+"K<\",+
+"Q9aiQi*xP",+
+
+// ground truth 
+contain(or(or(<cap>,<any>),<low>))

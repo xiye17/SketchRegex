@@ -1,0 +1,17 @@
+// example 
+"0",-
+"4!",+
+"0OVg^",-
+"4A",+
+"^",-
+"w-",-
+"",-
+"09A{p",-
+"(j",-
+"#Zo",-
+"Xr8",-
+"2S3v",-
+"2ANc",-
+
+// ground truth 
+concat(<num>,or(or(<vow>,<low>),<m0>))

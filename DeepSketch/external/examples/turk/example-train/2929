@@ -1,0 +1,14 @@
+// example 
+"",+
+"C=?_",+
+"6;f",+
+"`d;_qY?",+
+"2g!K{c_,%",+
+"3goYL9",+
+"~",+
+"DK",+
+"VSN8H-`p",+
+"g$R)H",+
+
+// ground truth 
+not(and(<m0>,repeatatleast(<vow>,1)))

@@ -1,0 +1,16 @@
+// example 
+"kdp`-",-
+"!ay1",-
+"!TD`T",-
+"'mh",-
+"5TgO",-
+"!y",-
+"U",-
+"!B",+
+"!",-
+"vi",-
+"",-
+"!;_",-
+
+// ground truth 
+concat(<m0>,and(<cap>,<let>))

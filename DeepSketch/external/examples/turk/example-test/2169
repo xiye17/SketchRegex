@@ -1,0 +1,25 @@
+// example 
+"MNDWBXQPNRW",-
+"Br|",+
+"IICYRUEBU",-
+"QWKKZPT",-
+"1",+
+"ZBZTJMWJVPJGZJ",-
+"IF",+
+"B:Y",+
+"VPGSYMWKTT",-
+"ITRRSMABZBXG",-
+"",+
+"FTQYKQBAXGLYFNXK",-
+"eBkj",+
+"APUUUKIF",-
+"FFGYXNRYSWDBELC",-
+"YVDW,",+
+"u",+
+"bW",+
+"7%G>",+
+"w;qQ|",+
+"ENFYZZIHOJLFA",-
+
+// ground truth 
+not(repeatatleast(<cap>,7))

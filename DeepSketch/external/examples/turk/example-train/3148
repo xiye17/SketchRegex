@@ -1,0 +1,25 @@
+// example 
+"4G90R34H",+
+"DD",-
+"IxKdk",-
+"3LUZKP7X83",+
+"5&AK",-
+"2XY7CS59U",+
+"79=",-
+"I=243",-
+"5F3719S",+
+"Dt",-
+"#Eog",-
+"4G90R347",+
+"",-
+"7",-
+"V8019C",+
+"V80198",+
+"@",-
+"2XY7CS593",+
+"5F37195",+
+"3LUZKP7X8A",+
+"791",-
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),6)

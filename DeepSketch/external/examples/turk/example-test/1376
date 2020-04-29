@@ -1,0 +1,17 @@
+// example 
+"G>",+
+"Y",+
+"t",-
+",W"",+
+"YHH%F",+
+"",+
+"O30",+
+"EY",+
+"~3<^",+
+"OeTd}",+
+"A",-
+"R2I{",+
+"B",+
+
+// ground truth 
+not(or(<low>,<vow>))

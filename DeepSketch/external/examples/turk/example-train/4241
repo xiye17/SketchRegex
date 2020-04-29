@@ -1,0 +1,25 @@
+// example 
+"DAcuRYf",+
+"lQiOQP",+
+"VKnkNZVxU",+
+"?UyoH",-
+"~,z/Z",-
+"^{e+",-
+"X",-
+",",-
+"VKnkNZVxr",+
+"",-
+"a}",-
+"MnlqKIjRFe",+
+"ioofwMKn",+
+"DAcuRYD",+
+"gS{",-
+"g:~",-
+"@(`y",-
+"az",-
+"lQiOQc",+
+"MnlqKIjRFW",+
+"ioofwMKB",+
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),6)

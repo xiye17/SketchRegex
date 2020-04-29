@@ -1,0 +1,14 @@
+// example 
+"",+
+"*UUHN.;",+
+">SH",+
+".wO#/",+
+")",+
+"kwM<",+
+"BO",+
+")!uYSq.Y]",+
+"|'?uC^",+
+"(3KV>1>C",+
+
+// ground truth 
+contain(star(concat(<any>,<low>)))

@@ -1,0 +1,18 @@
+// examples
+"!5l",+
+"!@",+
+"!ltter",+
+"!a",+
+"!@@",+
+"!ak@",+
+"!fikg",+
+"asdflk",-
+"a!",-
+"5!",-
+"@!",-
+"letter",-
+"&",-
+"a!5l",-
+
+// ground truth 
+concat(<m0>,contain(or(or(<num>,<m1>),<let>)))

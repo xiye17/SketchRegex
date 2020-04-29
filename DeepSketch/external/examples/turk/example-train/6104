@@ -1,0 +1,25 @@
+// example 
+"KIk[{>F,",+
+"[%3",-
+"cFcv",+
+">h0p{",-
+"KxzU",+
+"T~U~|B",+
+"d(II?O",+
+"0imL",-
+">q{",-
+"",-
+"}U9d",-
+"}N`5I",-
+"g}@bLm~r",+
+"j6A9v",+
+"M",-
+"brhA--2",+
+"Y<KbIkr",+
+"w",-
+"r?",-
+"F*1cl",+
+"}@",-
+
+// ground truth 
+concat(<let>,repeatatleast(<any>,3))

@@ -1,0 +1,26 @@
+// example 
+"*Hw",-
+"s",-
+"!ZNl2e?*0",+
+"?52'",-
+"L+l%mk^('t",+
+"h*A6]u1?",+
+":1",-
+"_NXEnOS{x[",+
+"wrs?2?",+
+"eV<Ak;}",+
+"ov",-
+"",-
+"Ph1ei2hZ4",+
+"?a>%[",-
+";",-
+"7J$yu%!",+
+"'aDYLFBm",+
+"rjS",-
+"FZHR[}",+
+"M%f=",-
+"P",+
+"T:-$N",-
+
+// ground truth 
+or(repeatatleast(<any>,6),<cap>)

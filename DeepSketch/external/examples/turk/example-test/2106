@@ -1,0 +1,15 @@
+// example 
+"",+
+"\",-
+"IM",-
+""Tz8Wp?",-
+"sWSgsSR(C",-
+"Ga_7",-
+"nw<AoE!p",-
+"+za",-
+"7b!&1",-
+"AwdBdn",-
+"W14A_C3t5x",-
+
+// ground truth 
+star(contain(and(<low>,<cap>)))

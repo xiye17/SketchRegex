@@ -1,0 +1,15 @@
+// example 
+"",+
+"\nCbT",+
+"u)",+
+"3C",-
+"\V:81",+
+"u~",+
+"d#p",+
+"%",+
+"dB2",+
+"CJ.t",+
+"C's/",+
+
+// ground truth 
+not(concat(<any>,<cap>))

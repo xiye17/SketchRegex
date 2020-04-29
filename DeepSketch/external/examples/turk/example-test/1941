@@ -1,0 +1,25 @@
+// example 
+"E",+
+"G",-
+"A4+",+
+"|qiQ=",+
+"w>C",-
+"cxBlB",-
+"{i",+
+"w>H",-
+"e{7",+
+"",-
+"{A",+
+"f",-
+"vq",-
+"nUDJ",+
+"naX[",+
+"Zz[r",-
+"|quua",+
+"vh",-
+"Zz[L",-
+"cxBlW",-
+"A",+
+
+// ground truth 
+endwith(contain(<vow>))

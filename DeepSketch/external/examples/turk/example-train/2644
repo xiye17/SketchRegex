@@ -1,0 +1,16 @@
+// example 
+"R_",-
+"D",+
+"hJ%",-
+"o",-
+"{{ui",-
+"R3XI*",-
+"P=gq",-
+",!",-
+"#",-
+"<W!lH",-
+"",-
+"Jdl",-
+
+// ground truth 
+and(and(<any>,<cap>),<let>)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"z-'",+
+"i",+
+"<z:.#",+
+"28",+
+"T\",+
+"Pr/K",+
+"*",+
+"M35zM",+
+"W2N",+
+"uF*T",+
+"B",-
+
+// ground truth 
+repeatatleast(or(not(<cap>),<low>),1)

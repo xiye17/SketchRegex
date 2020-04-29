@@ -1,0 +1,25 @@
+// example 
+"Qo@;T4F",+
+"]|fPxC",+
+"]|fP0U",+
+"W",-
+",VYo%g",-
+"r"",-
+"aIw=",-
+",VYo%3",-
+"",-
+"LezTzXjS",+
+"LezTzXWP",+
+"Wz07g'pxC",+
+")/BIK",+
+"Qo@;TIU",+
+"aIwe",-
+")/B*N",+
+"IZ[=.",-
+"A;JS",+
+"Wz07g'pHB",+
+"({_",-
+"IZ[=l",-
+
+// ground truth 
+concat(repeatatleast(<any>,3),<cap>)

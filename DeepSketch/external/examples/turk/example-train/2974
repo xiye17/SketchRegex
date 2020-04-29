@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(repeatatleast(<m1>,3),or(<m0>,<any>))

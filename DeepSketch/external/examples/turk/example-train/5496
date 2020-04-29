@@ -1,0 +1,17 @@
+// example 
+"''G&u",-
+":,Kir",-
+"qv",+
+"Sa+",-
+"5~*&",-
+"",-
+"/tO_",-
+"g",-
+"Fh",+
+"W|",-
+"^Y",-
+"?Sy",-
+"D",-
+
+// ground truth 
+concat(or(<let>,<num>),<low>)

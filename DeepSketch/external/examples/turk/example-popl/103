@@ -1,0 +1,18 @@
+// examples
+"abcd",+
+"abcde",+
+"aaaaa",+
+"aaaaaa",+
+"aaaaaaa",+
+"aaaaaaaa",+
+"aaaaaaaaaaa!",+
+"fa",-
+"a",-
+"aaa",-
+"",-
+"?4",-
+"??",-
+"?$AAA",-
+
+// ground truth 
+startwith(repeatatleast(<low>,4))

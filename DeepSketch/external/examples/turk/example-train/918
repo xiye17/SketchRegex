@@ -1,0 +1,17 @@
+// example 
+"}C?=",+
+"_wP[",+
+"q+1e%",+
+"VtB$n",+
+"Lx}",+
+"]U",+
+"_",+
+"",+
+"j",-
+"80",+
+"{]g",+
+"H",-
+"|",+
+
+// ground truth 
+or(repeatatleast(<vow>,6),not(<let>))

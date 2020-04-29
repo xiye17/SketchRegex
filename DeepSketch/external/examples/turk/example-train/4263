@@ -1,0 +1,14 @@
+// example 
+"",+
+"qsVN%feN",+
+"s@",+
+"ibHR;c",+
+"=AZ|",+
+"cC$l^",+
+"yx\V}'>",+
+"317bQB'h)",+
+"[h|",+
+"b",+
+
+// ground truth 
+not(and(and(<vow>,<any>),<num>))

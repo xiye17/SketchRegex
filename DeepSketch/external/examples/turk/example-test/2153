@@ -1,0 +1,25 @@
+// example 
+"NuQOOATu",+
+"Te",-
+"VoIIQUNuNiKO",+
+"NuQOOATE",+
+"TS",-
+"+",-
+"K1x0",-
+"X",-
+"IEOiZa",+
+"Hu@",-
+"",-
+"VoIIQUNuNiKe",+
+"Gi3Lt",-
+"VUDuMuIEBe",+
+"RODE",+
+"IEOiZO",+
+"KAf>",-
+"Hum",-
+"GiTEf",-
+"RODi",+
+"VUDuMuIEBi",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),2)

@@ -1,0 +1,17 @@
+// example 
+"lys!",-
+"!~:9",-
+"q",-
+"!P",-
+"!{",-
+"",-
+"@g5M[",-
+"xKNjA",-
+"!gp",-
+"Vj",+
+""<x",-
+"K",-
+"!a",+
+
+// ground truth 
+concat(or(or(<m0>,<num>),<cap>),<low>)

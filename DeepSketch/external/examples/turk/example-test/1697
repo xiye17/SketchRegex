@@ -1,0 +1,25 @@
+// example 
+"yr9Z7+P",+
+"oQ1?pRCg",+
+"b5]O",+
+"s%",+
+"{L.]",-
+"fljgyI",+
+"W]IU",-
+"&">u7",-
+"",-
+"|D",-
+"|",-
+"0R",-
+"~.H",-
+"iX8G*",+
+"!<-",-
+"k`*l=j6@F",+
+"uw{^>rvQ-W",+
+"v",+
+"|e)'I",-
+"?",-
+"c+R",+
+
+// ground truth 
+or(startwith(<low>),and(and(<m0>,<m1>),<m2>))

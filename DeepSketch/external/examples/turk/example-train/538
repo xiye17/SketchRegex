@@ -1,0 +1,15 @@
+// example 
+"zk",+
+"wob%74c>",+
+"iaR",+
+"S5ar",+
+"3",+
+"7s6%0",+
+"N(mNW->(p",+
+"~Js-fgT",+
+"!(L\xaN[56",+
+"glKK-.",+
+"",-
+
+// ground truth 
+contain(or(<any>,<num>))

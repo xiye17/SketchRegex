@@ -1,0 +1,25 @@
+// example 
+"BVXA]",-
+"sgCtkZp",+
+"fMybxGTCl",+
+"u",-
+"mVxJNZzKZY",+
+"}ri<",-
+"\7W",-
+"uRiafxzF",+
+"mVxJNZzKZi",+
+"hVskZoyfhqB",+
+"",-
+"hVskZoyfhqs",+
+"{bo",-
+"uRiafxzm",+
+"kR",-
+"fMybxGTCQ",+
+"`)>u",-
+"sgCtkZU",+
+"I",-
+"BVXAv",-
+"k^",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),7)

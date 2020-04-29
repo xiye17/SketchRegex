@@ -1,0 +1,26 @@
+// example 
+"Gs+",+
+"N45(",+
+"V7",+
+"V!",+
+"ZC}/Mz",+
+"N4756",-
+"p*kT",-
+"+Y.",-
+"qW5u2",-
+"N339+",+
+"4Bm2",-
+"Z7V`a3",+
+"",-
+"N33!l",+
+"88",-
+"|(p",-
+"P",+
+"N45C",+
+"lx",-
+"@",-
+"G%P",+
+"z",-
+
+// ground truth 
+concat(<cap>,not(repeatatleast(<num>,3)))

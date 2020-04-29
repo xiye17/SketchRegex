@@ -1,0 +1,15 @@
+// example 
+"}",-
+"7!{",-
+"WC",-
+"W!",-
+"~uq(L",-
+"f!B^",-
+"~!lOR",-
+"q!0",+
+"7|l",-
+"",-
+"f!"P",-
+
+// ground truth 
+concat(<any>,concat(<m0>,<num>))

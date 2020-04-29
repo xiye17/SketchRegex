@@ -1,0 +1,15 @@
+// example 
+"#C?'RM)}",+
+"[!_S\pxRq",+
+"?9`"u{",+
+")pI*.h"",+
+"h))J",+
+"(efV#",+
+"RE1#Aef{}D",+
+"~",+
+"os",+
+"0[o",+
+"",-
+
+// ground truth 
+or(endwith(<any>),concat(<vow>,<m0>))

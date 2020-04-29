@@ -1,0 +1,17 @@
+// example 
+"\Z2=4",-
+"b%J",-
+"",-
+"|O",-
+"p5[L",-
+"y7#i=",-
+"bYk",-
+"@",-
+"c9",+
+"!0",+
+"I",-
+"[>",-
+"p$wv",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<low>),<num>)

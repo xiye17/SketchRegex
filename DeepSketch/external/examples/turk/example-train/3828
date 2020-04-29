@@ -1,0 +1,25 @@
+// example 
+"3yE",+
+":!L",-
+"'Fqu",-
+"1@",+
+"8b31O",+
+"1",+
+"]\$EM",-
+"7az-D3Z",+
+"-",-
+"$o;",-
+"3A""",+
+"",-
+")x",-
+"8wwnC*0V",+
+":",-
+"r|",-
+"3cs.PfA5g",+
+"0n&H(xhHae",+
+"!ER|7",-
+"hXvq",-
+"5Fi3aW",+
+
+// ground truth 
+startwith(or(and(<m0>,<m1>),<num>))

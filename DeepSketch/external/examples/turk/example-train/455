@@ -1,0 +1,16 @@
+// example 
+"1",-
+"T+^2",-
+"$n",-
+"<*{",-
+"5|Rjk",-
+"2Go",+
+"h.",-
+"'^3C",-
+"",-
+")",-
+"%J(",-
+"5*f6Q",-
+
+// ground truth 
+concat(concat(<num>,<cap>),<low>)

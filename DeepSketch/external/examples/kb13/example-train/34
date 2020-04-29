@@ -1,0 +1,25 @@
+// example 
+"&O^96",+
+"AR(5!1",+
+"zuw",-
+"3",-
+"<mHu65w",+
+"zu5",-
+"u52",+
+"O2+1",+
+"<mHu6,8",+
+"",-
+"e4.!",-
+"nu",-
+"O27",+
+"e4.d",-
+"OL89",+
+"R",-
+"IX5,!",-
+"AR(5k9",+
+"n8",-
+"IX5,i",-
+"&O-32",+
+
+// ground truth 
+and(contain(<vow>),repeat(contain(<num>),2))

@@ -1,0 +1,25 @@
+// example 
+"Ie2",+
+"o",+
+"Npf",-
+"q",-
+"\wT",-
+"e!CY",-
+"u5pw",+
+"ew]o*",-
+"e!C+",-
+"",-
+"D-",-
+"Ug.\0",+
+"=",-
+"u"^8",+
+"U90vk",+
+"i8",+
+"ew]oL",-
+"e0",+
+"I*2",+
+"H~",-
+"A",+
+
+// ground truth 
+concat(<vow>,star(contain(<num>)))

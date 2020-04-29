@@ -1,0 +1,17 @@
+// example 
+"Y",+
+"x'",+
+"H7",-
+"_^",+
+"h1",-
+"",+
+"cUY9",+
+"c/6:<",+
+"UJ{",+
+"c)X.",+
+"U.L",+
+"c1%Kf",+
+"|",+
+
+// ground truth 
+not(concat(<let>,<num>))

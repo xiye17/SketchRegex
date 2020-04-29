@@ -1,0 +1,25 @@
+// example 
+"jL",+
+"Q%",-
+"k",+
+"qYQ",+
+"w6",-
+"vBEKD",+
+"cAJGPK",+
+"rHPAXTNP",+
+"r%]",-
+"Zid[",-
+"",-
+"%",-
+"dNVXf",-
+"|@@",-
+"jFYV",+
+"qQSJHLEIQA",+
+"dNVX8",-
+"oZBQVZAJH",+
+"{",-
+"bAPXJBM",+
+"~*)D",-
+
+// ground truth 
+concat(<low>,star(<cap>))

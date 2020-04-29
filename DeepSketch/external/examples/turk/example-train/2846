@@ -1,0 +1,14 @@
+// example 
+"",+
+"dwyRb",+
+"G]kw,uz%",+
+"l",+
+"p[-",+
+"S2:-sk#hB",+
+"jUXg@<|",+
+"He",+
+"/~Sh",+
+"ceB;o-",+
+
+// ground truth 
+contain(or(<m0>,not(<let>)))

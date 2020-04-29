@@ -1,0 +1,17 @@
+// example 
+"/&",+
+"U??_e",+
+"O%wh",+
+"Z"E6*",+
+"",+
+"h1X",+
+"S7",+
+"O",-
+"N",+
+"F60s",+
+"A",-
+"I{p",+
+"|",+
+
+// ground truth 
+not(or(or(<vow>,<low>),<num>))

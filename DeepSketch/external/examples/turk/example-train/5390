@@ -1,0 +1,25 @@
+// example 
+"iEuEaIE",+
+"o",-
+"l",-
+"adauh",-
+"MMogFceIoooE",+
+"Wa",-
+"",-
+"{UIoAAUa",+
+"{UIoAAUO",+
+"x_t",-
+"MMogFceIooou",+
+"ey{R",-
+"x_-",-
+"ey{U",-
+"]IAcEaiVsASLU",+
+"ei6FuIcenIO",+
+"]IAcEaiVsASLa",+
+"adauZ",-
+"WA",-
+"ei6FuIcenIA",+
+"iEuEaIO",+
+
+// ground truth 
+repeatatleast(endwith(<vow>),7)

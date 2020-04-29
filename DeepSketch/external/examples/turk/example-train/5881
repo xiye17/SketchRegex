@@ -1,0 +1,25 @@
+// example 
+"k@;}K",-
+"Tx-",-
+"O&N;M",+
+"a",+
+"+",-
+"dBBt[",-
+"Og\8",+
+"uDaE",+
+"",-
+"I_G",+
+"TMBU",-
+"uy",+
+"i0?{$",+
+"d*x.",-
+"R",-
+"dF",-
+"I",+
+"AFE",+
+"o%",+
+"F_p",-
+"lD",-
+
+// ground truth 
+startwith(or(<m0>,<vow>))

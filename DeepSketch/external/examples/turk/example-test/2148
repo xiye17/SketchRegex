@@ -1,0 +1,25 @@
+// example 
+"\",-
+"*T{<v",-
+"gQUHOd!",+
+"|3",-
+"gQUHOW!",+
+"jJBzCoq!",+
+"p",-
+"phnqUTIUWE!",+
+"jJBzCoY!",+
+"NXxIBTnrl!",+
+"",-
+"^@",-
+"L)MVu",-
+"\aOP",-
+"gSfpwFIM!",+
+"g5[",-
+"4_f3",-
+"NXxIBTnrP!",+
+"gSfpwFIj!",+
+"phnqUTIUWp!",+
+"g[^",-
+
+// ground truth 
+concat(repeatatleast(<let>,6),<m0>)

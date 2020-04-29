@@ -1,0 +1,17 @@
+// example 
+"za!",+
+"1",-
+"lo2",-
+"mN",-
+"Nl)",-
+"",-
+"jH`:C",-
+"zE!",+
+"cI!h",-
+"ma",-
+"cIsH",-
+""?%R6",-
+"~",-
+
+// ground truth 
+concat(concat(<low>,<vow>),<m0>)

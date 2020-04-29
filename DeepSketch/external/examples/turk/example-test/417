@@ -1,0 +1,25 @@
+// example 
+"\[FbyBTc",+
+"OVx",-
+"D<vtBxw",+
+"\[FbyBTL",+
+"\~kT`",-
+"D<vtBxN",+
+"giojCs",+
+"^",-
+"",-
+"H&",-
+"}",-
+"~*'m",-
+"~*'[",-
+"O#M~{$PhvL",+
+"OV\",-
+"[4{tFeQiA",+
+"giojCP",+
+"\~kTc",-
+"[4{tFeQiv",+
+"O#M~{$Phvz",+
+"H~",-
+
+// ground truth 
+repeatatleast(endwith(<let>),6)

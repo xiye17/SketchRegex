@@ -1,0 +1,17 @@
+// example 
+"Sg!ff",+
+"D",+
+"HtZ",+
+"",+
+"#AqV",+
+"O",-
+"A>",+
+"w",+
+"AE[",+
+"EzQ"t",+
+"Ps",+
+"Ov/V",+
+"E",-
+
+// ground truth 
+not(and(and(<cap>,<let>),<vow>))

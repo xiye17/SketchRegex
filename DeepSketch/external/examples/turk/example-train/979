@@ -1,0 +1,17 @@
+// example 
+"UD",+
+"u",-
+"eT",+
+"Uh",-
+"A3$",-
+"",-
+"LM$(I",-
+"U!",-
+"pKoe",-
+"I",-
+"Ak^",-
+"U^d6",-
+"IL<8D",-
+
+// ground truth 
+concat(and(<let>,<vow>),<cap>)

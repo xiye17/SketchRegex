@@ -1,0 +1,25 @@
+// example 
+"ioNIOUHE",+
+"jiAr",-
+"BDEIU",-
+"AaZMIjigOajO",+
+"u",-
+"oOtuujAQ+hi",+
+"Hqu",-
+"ioNIOUHU",+
+"jiAa",-
+"IeFUs`EIO",+
+"",-
+"IeFUs`EII",+
+"HqI",-
+"}DEFHoOiEa",+
+"oOtuujAQ+hI",+
+"BDEIz",-
+"UU",-
+"UR",-
+"H",-
+"}DEFHoOiEo",+
+"AaZMIjigOaje",+
+
+// ground truth 
+repeatatleast(endwith(<vow>),6)

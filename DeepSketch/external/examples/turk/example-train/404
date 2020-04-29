@@ -1,0 +1,16 @@
+// example 
+",`",-
+"yWBq",-
+"@!",+
+"l!oK9",-
+"y!IL",-
+"@J",+
+"^H9",-
+"^mm",-
+"_",-
+"l^SWj",-
+"",-
+",9",-
+
+// ground truth 
+concat(<any>,or(<cap>,<m0>))

@@ -1,0 +1,16 @@
+// example 
+";r",-
+"%Xksc",-
+"!!",-
+"!%:2",-
+"R",-
+"|S|",-
+"!@X",+
+"!",-
+"!NS",-
+"py%>",-
+"",-
+"!7cEs",-
+
+// ground truth 
+concat(<m0>,concat(<m1>,<cap>))

@@ -1,0 +1,25 @@
+// example 
+"?Zg@",-
+"`"",-
+"@!o""5#",+
+"#!P@",+
+"@i#",-
+"@!#",+
+"`@",-
+"&d"@!#",+
+"@!o"""#",+
+"(",-
+"!.[@!",-
+"#",-
+"@i"",-
+"",-
+"!.[@"",-
+""#7!@",+
+"#2!@",+
+"?Zg!",-
+""#s!@",+
+"&d"#!@",+
+"#!@",+
+
+// ground truth 
+or(concat(contain(<m1>),concat(startwith(<m0>),startwith(<m2>))),concat(contain(<m2>),concat(startwith(<m0>),startwith(<m1>))))

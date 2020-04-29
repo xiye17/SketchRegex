@@ -1,0 +1,16 @@
+// example 
+"^A",+
+"zn",-
+"z[",-
+"TI?",-
+"^E",+
+"m",-
+"]cpN^",-
+"#E<r",-
+"TcY",-
+"#anM",-
+"",-
+"]@V`t",-
+
+// ground truth 
+concat(or(or(<num>,<low>),<any>),<vow>)

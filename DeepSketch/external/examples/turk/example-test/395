@@ -1,0 +1,24 @@
+// example 
+"y}Z>kTz",+
+"!#}",-
+"#ti"1T",+
+"!A-"Dl]",-
+"&5-f,rAJf",+
+"!",-
+"!#^3sR",-
+"!xrCIjoF",-
+"",+
+"zW<4",+
+"!T'%",-
+"L",+
+"t@",+
+"$r|Z'DZq",+
+"opO",+
+"!S~{B",-
+"!B0zQ?5N~(",-
+"dS9w$",+
+"!.",-
+"!RtW*3?:+",-
+
+// ground truth 
+not(startwith(repeatatleast(<m0>,1)))

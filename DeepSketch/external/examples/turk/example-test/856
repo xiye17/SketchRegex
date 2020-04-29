@@ -1,0 +1,15 @@
+// example 
+"+TS",-
+"OB",-
+"/xCBD|KJI",-
+"Gs%H8p",-
+",!DV~t6;",-
+"Re{,JTk",-
+"#);][r93qU",-
+"\",+
+"",-
+"_vP)",-
+"'%?U~",-
+
+// ground truth 
+or(or(<m0>,<any>),<cap>)

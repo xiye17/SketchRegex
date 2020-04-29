@@ -1,0 +1,16 @@
+// example 
+"<I",+
+"G",-
+"@F",-
+"@f",-
+"QHXi<",-
+"Ua!",-
+"WiMO",-
+"U]:",-
+"Wgy9",-
+"",-
+"QeB(u",-
+"<U",+
+
+// ground truth 
+concat(or(or(<let>,<num>),<any>),<vow>)

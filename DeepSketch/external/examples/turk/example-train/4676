@@ -1,0 +1,24 @@
+// example 
+"b2E#xj",-
+"aedVB:[{PC",+
+"g((",-
+"l.P3uv$^d",+
+"+h1GJ}?5",-
+"jz#L>6+S",+
+"d",-
+"JcEZY_~\|So",+
+"+K89I",-
+"",-
+"5^X?L"]",-
+"!8?)SrKE9CsS",+
+"!8?)SrKE9Csi",+
+"M[",-
+"l.P3uv$^X",+
+"aedVB:[{Pl",+
+"JcEZY_~\|ST",+
+"h\CQ",-
+"jz#L>6+s",+
+"+h1GJ}?]",-
+
+// ground truth 
+concat(contain(repeatatleast(<any>,7)),<let>)

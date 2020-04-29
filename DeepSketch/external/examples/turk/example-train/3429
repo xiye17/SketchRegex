@@ -1,0 +1,23 @@
+// example 
+"GiRUKoCoMIIaUIRiIOFo",+
+"MaTAIoZaOiUiRa",+
+"bX*F",-
+"1c",-
+":=q",-
+"VeNoHuGeREVePuRO",+
+"MaTAIoZaOiUiRU",+
+"5<d@",-
+"",-
+"}",-
+"BEQeTiMeEiSaHiJaCI",+
+"iz",-
+"v'^",-
+"VeNoHuGeREVePuRa",+
+"?",-
+"BEQeTiMeEiSaHiJaCU",+
+"HO}S8",-
+"GiRUKoCoMIIaUIRiIOFi",+
+"h;b`n",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),7)

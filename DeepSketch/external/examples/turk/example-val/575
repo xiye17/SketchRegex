@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"WAa",-
+"t",-
+"m}Xxc",-
+"uw5j",-
+"8G",-
+"W!v",-
+">9|VG",-
+"d",-
+"L$",-
+"",-
+"u!G{",-
+"a!",+
+
+// ground truth 
+concat(or(or(<cap>,<vow>),<num>),<m0>)

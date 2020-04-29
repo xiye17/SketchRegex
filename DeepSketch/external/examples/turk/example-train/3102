@@ -1,0 +1,17 @@
+// example 
+"q",-
+"J#k",-
+"l!",+
+"|!^uy",-
+"",-
+"Jxk",-
+";",-
+"HA",-
+"k!rS",-
+"|W>qd",-
+"\l",-
+"krdV",-
+"l@",+
+
+// ground truth 
+or(concat(<any>,<m0>),concat(<let>,<m1>))

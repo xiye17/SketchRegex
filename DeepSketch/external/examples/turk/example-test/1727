@@ -1,0 +1,16 @@
+// example 
+"r",-
+"E!",+
+"I!l"",-
+"2X",-
+"IH7a",-
+"]0WM.",-
+"Ge!",-
+"G!^",-
+"dGL+[~",-
+"d!iTox",-
+"]!GMJ",-
+"",-
+
+// ground truth 
+concat(or(<cap>,<any>),<m0>)

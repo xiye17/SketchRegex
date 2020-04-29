@@ -1,0 +1,16 @@
+// example 
+".MC4U!",+
+"')",-
+"_$8yB!o",-
+"Z.Yk",-
+"R",-
+"JIZ'-",-
+"_$8yBLZ",-
+"pi3J9QYI",-
+"hc7n81",-
+"",-
+"wP2",-
+"pi3J9!6N",-
+
+// ground truth 
+concat(repeat(<any>,5),<m0>)

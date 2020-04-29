@@ -1,0 +1,26 @@
+// example 
+"{fL}5",-
+"bkmhgr!D",+
+"~P~eJvjjld!",+
+"h3RI",-
+"bkmhg!!y",+
+"~P~e|mfitu!",+
+"ykbsk!",+
+"{fL}~",-
+"",-
+"a%",-
+"a~",-
+"DZ|",-
+"~pxare!",+
+"jtm|swlyb!",+
+"I;ecuuct!",+
+"jtm9oabht!",+
+"{",-
+"2qktto!",+
+"I;ecuuc!O",+
+"DZR",-
+"h3R~",-
+"E",-
+
+// ground truth 
+contain(concat(repeatatleast(<low>,5),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"Ey@",-
+"V$",-
+"BPBKGLGNEBE4",+
+"TZCMCPKFREWDFZ3",+
+"E78",-
+"",-
+"VM",-
+"}f$Kj",-
+"_$:6",-
+"NOAOWOCDQWLVL2",+
+"NEMFNRKP9",+
+"SJSFMHS7",+
+"YKJQAUHFOGLL9",+
+"9",-
+"BWEYGJ8",+
+"w",-
+"SVJZUTVDA2",+
+"FXFLGQKXAX3",+
+"&&#Q%",-
+"XHGAZIAGBJNTYOE8",+
+"G{O4",-
+
+// ground truth 
+concat(repeatatleast(<cap>,6),<num>)

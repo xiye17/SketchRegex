@@ -1,0 +1,25 @@
+// example 
+"OfT",+
+"r",-
+"Mb",-
+"ti3",-
+"U\ln",-
+"IBu]i",+
+"M}",-
+"U\lD",-
+"ju]u",+
+"rYL6_",-
+"Qo",+
+"IBu]u",+
+"rYL6j",-
+"",-
+"b",-
+"i",+
+"ju]U",+
+"O",+
+"Ofz",+
+"ti{",-
+"QU",+
+
+// ground truth 
+concat(endwith(<vow>),star(<let>))

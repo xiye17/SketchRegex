@@ -1,0 +1,14 @@
+// example 
+"",+
+"8{K",+
+"7L",+
+"QORr@|}*",+
+"[D#c",+
+"]5=P<v",+
+"zRT0qgV",+
+"uve2Tb=:"",+
+"]",+
+"x#LKS",+
+
+// ground truth 
+not(and(concat(<m0>,<m1>),<m2>))

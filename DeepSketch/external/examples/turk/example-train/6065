@@ -1,0 +1,15 @@
+// example 
+"l|y",+
+"JqT3OL",+
+"^z)C*@[A`",+
+"^<"&k^8fY9",+
+">'",+
+"pb+k9",+
+"a",+
+"YiPl",+
+"%2"cL`.",+
+"(ULj7a=^",+
+"",-
+
+// ground truth 
+contain(or(<cap>,<any>))

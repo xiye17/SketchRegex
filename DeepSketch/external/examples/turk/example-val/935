@@ -1,0 +1,14 @@
+// example 
+"",+
+"m%",+
+"yC]C",+
+"L-i",+
+"P",+
+"`V`/J",+
+"l(,O>(",+
+"aV)^\LDz",+
+""x3|X>[\~",+
+"$LN!3W"",+
+
+// ground truth 
+not(and(and(<m0>,<any>),<low>))

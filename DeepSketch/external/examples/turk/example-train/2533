@@ -1,0 +1,25 @@
+// example 
+"!@|U",+
+"!#'",-
+"!@f",-
+"!@I$",-
+"!@GiOa",+
+"BuKf",-
+"!",-
+"E>$p@",-
+"!@EHUoi",+
+"!G",-
+"",-
+"!@o",+
+"!@",-
+"!@[ji",+
+"!@[je",+
+"!@EHUoI",+
+"!R\^H",-
+"y",-
+"!@U",+
+"!@GiOU",+
+"!@|o",+
+
+// ground truth 
+concat(startwith(concat(<m0>,<m1>)),<vow>)

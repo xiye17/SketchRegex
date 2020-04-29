@@ -1,0 +1,25 @@
+// example 
+"xpHcJ",-
+"aeFs",+
+"Uw{B{u",+
+"bK*",-
+"I3{hi",+
+"I3{|p",+
+"az}",-
+"ae|e",+
+"",-
+"I{}"",-
+"a",-
+"af",+
+"Ib",+
+"Uw{B;o",+
+"Umz",+
+"UR",-
+"u~o{0",-
+"KY",-
+"I{}{",-
+"B",-
+"U~n",+
+
+// ground truth 
+concat(<vow>,endwith(<low>))

@@ -1,0 +1,25 @@
+// example 
+"dFO",+
+"iMEAC",-
+"Z]sOI",+
+"SaH",-
+"o",+
+"Z]sOE",+
+"",-
+"%",-
+"g",-
+"ag",-
+"aO",+
+"dFo",+
+"iMEAd",-
+"i",+
+"wgUi",+
+"aa",+
+"eF!~",-
+"wgUu",+
+"al",-
+"SaC",-
+"eF!?",-
+
+// ground truth 
+endwith(or(<vow>,concat(<m0>,<low>)))

@@ -1,0 +1,17 @@
+// example 
+"!I",+
+"q!(3",-
+"!ufC",-
+"!Uy",-
+"!lgWl",-
+"!",-
+"",-
+"*An@r",-
+"!S",-
+"!U",+
+"!QH",-
+"{",-
+"!+",-
+
+// ground truth 
+concat(<m0>,or(<vow>,<num>))

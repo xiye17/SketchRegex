@@ -1,0 +1,25 @@
+// example 
+"PD",-
+"BU>g",+
+"ABd",+
+"",-
+"PT",-
+"uU_",+
+"Q",-
+"Gs\YD",-
+"GoV+;",+
+"E/",+
+"i",+
+"Xjtl",-
+"EI::r",+
+"u",+
+"QU",+
+"H|y",-
+"H|k",-
+"z",-
+"Xjtg",-
+"Gs\YR",-
+"BAv{",+
+
+// ground truth 
+contain(and(and(<any>,<let>),<vow>))

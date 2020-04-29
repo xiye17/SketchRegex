@@ -1,0 +1,17 @@
+// example 
+"HiM?",-
+"OM",-
+"t",-
+"#op-?",-
+"X",-
+"Hi\d",-
+"VIs",+
+"",-
+"[^W&:",-
+"jC",-
+"VIG",+
+"UnG",-
+"U6/",-
+
+// ground truth 
+concat(concat(<cap>,<vow>),<let>)

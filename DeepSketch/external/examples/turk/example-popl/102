@@ -1,0 +1,18 @@
+// examples
+"abcdk",+
+"!",+
+"!a",+
+"!fasf",+
+"jfkla;fj",+
+"afjkdlasfjs",+
+"afasdlk;fjkasd;jfkl",+
+"?asfd",-
+"?",-
+"a",-
+"aa",-
+"aaa",-
+"a",-
+"stk",-
+
+// ground truth 
+startwith(or(repeatatleast(<let>,4),<m0>))

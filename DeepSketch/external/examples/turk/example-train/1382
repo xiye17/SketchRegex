@@ -1,0 +1,25 @@
+// example 
+"G",-
+"E!a!u!U!",+
+"a!I!u!I!E!",+
+"eT",-
+"U;()F",-
+"KK",-
+"a!I!u!I!I!",+
+"GZ"b",-
+"O!I!",+
+"O!i!",+
+"",-
+"<",-
+"a!o!U!",+
+"KzA",-
+"a!o!I!",+
+"E!a!u!I!",+
+"r+Be",-
+"S$<Br",-
+"d&.",-
+"o!",+
+"I!",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<m0>),1)

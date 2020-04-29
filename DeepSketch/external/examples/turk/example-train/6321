@@ -1,0 +1,17 @@
+// example 
+"2KCN/",-
+"ec",-
+"`/T%",-
+"`c?L{",-
+"m",+
+"}DG$",-
+"^xC",-
+"",-
+"`",-
+"|U",-
+"J",+
+"{",-
+"~bE",-
+
+// ground truth 
+or(and(<num>,<cap>),<let>)

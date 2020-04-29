@@ -1,0 +1,25 @@
+// example 
+"Y",+
+"E&",-
+"3if",-
+"!:~3",-
+"VFIQFYGRY",+
+"CUEVGYQ",+
+"!",-
+"!_:r'",-
+"_",-
+"h(e",-
+"",-
+"WLM",+
+"3_h4%",-
+"&U=-",-
+"FR",+
+"JOWJ",+
+"Ea",-
+"RTVELL",+
+"ZWXXD",+
+"!a",+
+"TDXMVUHB",+
+
+// ground truth 
+or(concat(<m0>,<any>),repeatatleast(<cap>,1))

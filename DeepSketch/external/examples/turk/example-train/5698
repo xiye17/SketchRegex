@@ -1,0 +1,17 @@
+// example 
+"Ik",+
+"AM(",+
+"",+
+"JE",+
+"M",+
+"O",-
+"S'.0=",+
+"P",+
+"A&6LC",+
+"I<}l",+
+"A",-
+"A(ZD",+
+"LBy",+
+
+// ground truth 
+not(and(or(or(<m0>,<cap>),<m1>),<vow>))

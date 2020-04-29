@@ -1,0 +1,15 @@
+// example 
+"NK",+
+"J.",-
+";K$+z",-
+"Jr",-
+"@aX",-
+"@:T",-
+";2}Fe",-
+"{",-
+"+Rwy",-
+"",-
+"+&{^",-
+
+// ground truth 
+concat(<any>,<cap>)

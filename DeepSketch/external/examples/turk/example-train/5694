@@ -1,0 +1,17 @@
+// example 
+"a&H!",-
+"u",-
+"n{d\V",-
+"H!",+
+",QuDa",-
+"",-
+"a",-
+"bD",-
+"Th",-
+"[`T",-
+"i!",+
+"a!F/",-
+"uR>",-
+
+// ground truth 
+concat(or(<vow>,<cap>),<m0>)

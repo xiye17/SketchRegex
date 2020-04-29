@@ -1,0 +1,17 @@
+// example 
+"G",-
+"[Rl",-
+"J!IK",-
+"U]<t]",-
+"{dn",-
+"l!",+
+"",-
+"QG",-
+"7",-
+"A!",+
+"jr",-
+"`O\u#",-
+"^.?d",-
+
+// ground truth 
+concat(or(or(<let>,<m1>),<cap>),<m0>)

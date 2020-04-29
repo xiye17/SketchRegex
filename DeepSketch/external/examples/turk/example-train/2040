@@ -1,0 +1,16 @@
+// example 
+"ff",-
+"fq",-
+"@jyH|",-
+"ao7",-
+"KeoP",-
+"me",+
+"*",-
+"aaw",-
+"@h57;",-
+"mo",+
+"",-
+"KhEO",-
+
+// ground truth 
+concat(<any>,and(<low>,<vow>))

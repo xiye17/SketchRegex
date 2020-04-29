@@ -1,0 +1,19 @@
+// example 
+"9DXrx#JyA.",+
+"_RzOc_P>FV`g8",+
+"li=fgVXEolTdY(",+
+"~2,H",-
+"+R:m5p",+
+"vF`"L"z",+
+"",-
+"wg",-
+"%Ud6`",+
+"~F|",-
+"B]@df.|c",+
+"C"H1Q}~:r",+
+"h'JLcGU}wCCn",+
+"`F}2grVLC]o",+
+"{",-
+
+// ground truth 
+contain(repeatatleast(endwith(<any>),5))

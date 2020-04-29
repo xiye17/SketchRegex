@@ -1,0 +1,17 @@
+// example 
+"v7",+
+"d>lr(",+
+"]hay",+
+"c",-
+"Xa"",+
+"",+
+"7|~",+
+"H".`",+
+"7",+
+"W#brU",+
+"S",-
+"}",+
+"A/",+
+
+// ground truth 
+not(or(or(<cap>,<let>),<vow>))

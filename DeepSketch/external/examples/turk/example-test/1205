@@ -1,0 +1,15 @@
+// example 
+""%U.0",+
+"RpKHk(",+
+"#~,mFB,",+
+"<LH}'s+4O4",+
+"'1",+
+"j^w",+
+"PBR2",+
+"Jr7a\>*r",+
+"",-
+"$",+
+"vmT8U6Hp7",+
+
+// ground truth 
+contain(or(<any>,startwith(<m0>)))

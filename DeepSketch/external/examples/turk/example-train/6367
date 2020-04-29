@@ -1,0 +1,24 @@
+// example 
+"UD",-
+"Aab",-
+"iGI0",-
+"G"7Vs",-
+"ulow!",+
+"itqY",-
+"Iq",+
+"!",+
+"Ujus",+
+"!us",+
+"c",-
+"",+
+"!oo",+
+"Ujeg",+
+"WR",-
+"AaE",-
+"v",-
+"ulii!",+
+"Nw5E[",-
+"ei",+
+
+// ground truth 
+star(or(concat(<vow>,<low>),<m0>))

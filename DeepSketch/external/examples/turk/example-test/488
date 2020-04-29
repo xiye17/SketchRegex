@@ -1,0 +1,14 @@
+// example 
+"",+
+"_GT)GZ",+
+"sSm:",+
+"#:",+
+";{jz*Gq",+
+"KZI:~'rWs",+
+""ztY(",+
+"zc81),\(",+
+"C",+
+"{*/",+
+
+// ground truth 
+endwith(or(<low>,not(<m0>)))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"\",-
+"'l98/e+)",-
+"RRNn",-
+"?85Q8tF-NP",-
+"Q%",-
+".O`jV2X",-
+"O7*|MxX&1",-
+"i$t",-
+";O#'^",-
+"MG(Nko",-
+
+// ground truth 
+not(or(<num>,contain(<any>)))

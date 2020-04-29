@@ -1,0 +1,15 @@
+// example 
+"%c!>?",-
+"+k",-
+"%WA-"",-
+"4",-
+"KhMO",-
+".A",+
+"+-",-
+"KV,Y",-
+"s\p",-
+"",-
+"sH!",-
+
+// ground truth 
+concat(or(or(<let>,<m0>),<any>),<cap>)

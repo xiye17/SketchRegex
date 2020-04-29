@@ -1,0 +1,16 @@
+// example 
+"",+
+""`",+
+"~PV9'",+
+"e6",+
+"zWM",+
+"}cI",+
+"z/dO~",+
+"M6U>",+
+"V",+
+"u8GQ",+
+"z",-
+"|",+
+
+// ground truth 
+or(not(<low>),and(and(<num>,<m0>),<m1>))

@@ -1,0 +1,24 @@
+// example 
+"!k/>E",+
+"I`u",-
+"!;YS",+
+"!{Ru,O",+
+"!"",-
+"!?W}$\K4a",+
+"cfG.#",-
+"!",+
+"!s[{;(l!",+
+"Q;(X",-
+"",-
+"!|_{y%!A\O",+
+"P>H!gD",-
+"!xx",+
+"#t",-
+"!Ln0FkgzI'+",+
+"!jzNIpC",+
+"[?uq!"3&",-
+"xKJ1Cmx",-
+"~",-
+
+// ground truth 
+concat(<m0>,not(<any>))

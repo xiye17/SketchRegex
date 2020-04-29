@@ -1,0 +1,17 @@
+// example 
+"[yGNY",+
+"[",+
+"~py",+
+"~L",+
+"gj85",+
+"!",-
+"]X",+
+"",+
+"QfEK'",+
+"8*MZ",+
+"A",-
+"|",+
+"7+C",+
+
+// ground truth 
+not(or(or(<m0>,<vow>),<let>))

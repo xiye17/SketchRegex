@@ -1,0 +1,25 @@
+// example 
+"z+ep",+
+"7!xfQ",-
+"d+",+
+"Aw`X*(",+
+"D{$",+
+"3X",-
+"}X",-
+"|AF<_",-
+"`L,",-
+"",-
+"9K?",-
+"~#[q",-
+";",-
+"_*sW",-
+"i",-
+"bC8",+
+"hl\JV",+
+"Vq$$",+
+"Lw",+
+"q9CL#O",+
+"WXS`7",+
+
+// ground truth 
+concat(<let>,endwith(<any>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"{;cZnY+q",+
+"e[>S5",+
+".",-
+"@X",+
+"`1>cL`|",+
+"L$56T,2cA\",+
+"[#@#",+
+"aQPLH\",+
+"_5~",+
+"~GyH>NKjD",+
+
+// ground truth 
+not(or(or(<m0>,<any>),<let>))

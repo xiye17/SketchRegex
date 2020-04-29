@@ -1,0 +1,26 @@
+// example 
+"=i)",+
+"ABdE",-
+"egFoe",+
+"1",+
+"V",-
+"eIfDAi",+
+"=J5",+
+"",-
+"uEocE",-
+"g",-
+"qq",-
+"ua",+
+"SF!2",+
+"SFQ9",+
+">7v",-
+"uEocO",-
+"ABdO",-
+"egFo]",+
+"qU",-
+">7K",-
+"eIfDAO",+
+"uO",+
+
+// ground truth 
+endwith(or(concat(<vow>,<any>),<num>))

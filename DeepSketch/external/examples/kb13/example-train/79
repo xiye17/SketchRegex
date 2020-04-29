@@ -1,0 +1,25 @@
+// example 
+"JmK",-
+"ZV",-
+"AEl",+
+"a",+
+"em|",+
+"y<][y",-
+"",-
+"uw",+
+"e",+
+"a]?F",+
+"Db",-
+"Es",+
+"iY"Dr",+
+"fJ9Q",-
+"q((",-
+"kamSG",-
+"M",-
+"I?I{.",+
+"{",-
+"H)`N",-
+"Abdn",+
+
+// ground truth 
+startwith(concat(<vow>,star(<let>)))

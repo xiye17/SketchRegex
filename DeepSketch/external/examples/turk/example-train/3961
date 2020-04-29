@@ -1,0 +1,25 @@
+// example 
+"L9u",-
+"KF",-
+")v",-
+"WZed",-
+"a",+
+"IUEaO",+
+"iOe",+
+"IUEaU",+
+"AuJI[",-
+"iA",+
+"iE",+
+"",+
+"|",-
+"mJo{",-
+"h",-
+"i",+
+"eAAi",+
+"AucRw",-
+"eAAo",+
+"iOu",+
+"bBe",-
+
+// ground truth 
+and(not(<m0>),star(<vow>))

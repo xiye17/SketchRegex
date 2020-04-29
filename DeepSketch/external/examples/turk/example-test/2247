@@ -1,0 +1,25 @@
+// example 
+"Ty",-
+"PQj",-
+"LRPVEOEHYJf",-
+"EFICWx",-
+"2",+
+"ITpe[",+
+"YFQb",-
+"p[",+
+"Dgv_",+
+"JCANx",-
+"OLFIRVYZq",-
+"",+
+"4n",+
+"-wO",+
+"D|P}",+
+"HNRUNSXKVn",-
+"L",+
+"JWKCACd",-
+"I]pv\",+
+"PBKMNWAg",-
+"{iS",+
+
+// ground truth 
+not(concat(repeatatleast(<cap>,1),<low>))

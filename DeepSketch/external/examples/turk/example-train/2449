@@ -1,0 +1,25 @@
+// example 
+"Fecxqs",+
+"GVW",-
+"b~~E",-
+"%,D+",-
+"Ihjs",+
+"Bm",+
+"Trcpc",+
+"_",-
+"",-
+"b%S+B",-
+"Xdo",+
+"{X",-
+"_H",-
+"zgj",+
+"hriaai",+
+"mhzi",+
+"ewioj",+
+"H",-
+"b~+;P",-
+"eh",+
+"_{+",-
+
+// ground truth 
+concat(<let>,repeatatleast(<low>,1))

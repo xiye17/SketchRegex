@@ -1,0 +1,25 @@
+// example 
+"o6\/",-
+"@v0dr",-
+"e8a1E7O2",+
+"iTf",-
+"i2L",-
+"u5e2i8",+
+"e",-
+"",-
+"P%",-
+"a3e2A3O2O2E6",+
+"o6CA",-
+"e2i4e5o5E3",+
+"a3e2A3O2O2o6",+
+"a4o8",+
+"e8a1E7A6",+
+"e2i4e5o5U7",+
+"b:Awg",-
+"u5e2u8",+
+"g,",-
+"K",-
+"a4E9",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),2)

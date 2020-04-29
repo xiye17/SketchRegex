@@ -1,0 +1,14 @@
+// example 
+"",+
+"9SW$LT",+
+"uHA-b",+
+"?x",+
+"j",+
+"_]LVy3&",+
+"q;4l_jp&",+
+"Mj&x",+
+"y';",+
+"z1~X;o(7H",+
+
+// ground truth 
+not(and(and(<m0>,<let>),<cap>))

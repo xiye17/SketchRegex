@@ -1,0 +1,24 @@
+// example 
+"0xA=G",-
+"6i",-
+"2",-
+"%arT/",-
+"9O8B6Y7J2I2Z6C5Q1I",+
+""\",-
+"5N4Q4D9E",+
+",",-
+"",-
+"1B8Z0Q8D0A9K",+
+"LZ9.",-
+"3B8P8T",+
+"9O3G6S8Q3X7B2B",+
+"4;#",-
+"8V3Q3Q1J7E1Z9K1Z",+
+"4vm",-
+""pDP",-
+"0X2Q",+
+"0R2W8Y4D7K6I9O9E6G3O",+
+"4R5Y3Z0R0J",+
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),2)

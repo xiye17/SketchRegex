@@ -1,0 +1,25 @@
+// example 
+"u{l?*",-
+"q&",-
+"uU",+
+"r~gp",-
+"u{l?i",-
+"a",+
+"e`A",+
+"T",+
+"s#K8",+
+"_",-
+"aSk!^",+
+"",-
+".xd",-
+"{A",+
+"q\",-
+"h",-
+"r~g#",-
+"eV-",+
+".x0",-
+"ak^KI",+
+"sO;z",+
+
+// ground truth 
+or(<vow>,contain(<cap>))

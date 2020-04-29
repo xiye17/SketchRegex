@@ -1,0 +1,25 @@
+// example 
+"GGdJb",-
+"P^o&2",+
+"GGdJ7",-
+"P^c{O",+
+"{N:",-
+"fu",+
+"a",+
+"E<E",+
+"Ok",+
+"UfC",+
+"{NM",-
+"",-
+"g",-
+"flbR",-
+"PN",-
+"flbl",-
+"i",+
+"mlU|",+
+"mle#",+
+"x",-
+"Pt",-
+
+// ground truth 
+repeatatleast(contain(<vow>),1)

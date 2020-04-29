@@ -1,0 +1,25 @@
+// example 
+"kr!wbvn",+
+"NMd@F",-
+"!c!g!gdr",+
+"!}Ix",-
+"!",-
+"tpvs",+
+"ny!dxk",+
+"i!!{s",-
+"",-
+"kr!wbv!",+
+"!c!g!gd!",+
+"~uw",-
+"w!!sd",+
+"7^>",-
+"w!!s!",+
+"ny!dx!",+
+"ak",-
+"!9x"",-
+"|_",-
+"tpv!",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<m0>,<low>),4)

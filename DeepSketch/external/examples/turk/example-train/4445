@@ -1,0 +1,25 @@
+// example 
+"FG",+
+"L}MpM",+
+"B)T",+
+"*",+
+"Gf"QI",-
+"",+
+"FP",+
+"Nm@j",+
+"BE4r",-
+"B)C",+
+"TDA",-
+"U",-
+"#U",-
+"BHUd",-
+"J",+
+"O~I",-
+"Gf"QU",-
+"Nm@/",+
+"I",-
+"UR",-
+"L}MpB",+
+
+// ground truth 
+not(contain(and(<cap>,<vow>)))

@@ -1,0 +1,16 @@
+// example 
+"1",-
+"XK",-
+")!7(_",-
+"6W",-
+"3Z!5",-
+"6U!",+
+"lW$Rz",-
+",",-
+"8VI",-
+"8?}",-
+"",-
+"3Z7z",-
+
+// ground truth 
+concat(<num>,concat(<cap>,<m0>))

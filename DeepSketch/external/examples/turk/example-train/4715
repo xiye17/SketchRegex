@@ -1,0 +1,21 @@
+// example 
+"YM",-
+"Q|,J4;nUU",+
+"n.yau",-
+"[db",-
+"fTrfAacik-"VE(p;",+
+"G/!',l%#",+
+"Ma5nt\>gqnLo8[",+
+"",-
+"Q",-
+"~O38S?Fs!Jj>",+
+"Q*_XqT4",+
+"6bmZ}!lp{v",+
+"[cq7{-"PjO]",+
+"^ux$",-
+"uWWzQ8G1PyI&AXY",+
+"-ULF{;eB=;uqo",+
+"x\L9*R",-
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),7)

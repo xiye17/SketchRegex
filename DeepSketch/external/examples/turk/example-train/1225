@@ -1,0 +1,17 @@
+// example 
+"Nn",-
+"d)",-
+"O(u",-
+"Aay",+
+"ok>M",-
+"u!h8T",-
+"AQd",+
+"",-
+"a",-
+"O_H",-
+"A",-
+"ok}(",-
+"u{(ci",-
+
+// ground truth 
+concat(<vow>,concat(<let>,<low>))

@@ -1,0 +1,25 @@
+// example 
+"Gi",+
+"dHLlj",-
+"O,;$U",+
+"8d_",-
+"o",+
+"A^;tY",+
+"uGH6",+
+"lb",-
+"ipJ",+
+"JIX",+
+"^",-
+"",-
+"c",-
+"l^",-
+"Cg|r",-
+"8dq",-
+"dHLld",-
+"e*",+
+"C",+
+"Cg|m",-
+"AbkE",+
+
+// ground truth 
+or(endwith(<cap>),contain(<vow>))

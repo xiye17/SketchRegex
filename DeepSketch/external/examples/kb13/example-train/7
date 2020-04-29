@@ -1,0 +1,25 @@
+// example 
+"T~:",-
+""-Voz",+
+"\!?n}",-
+"Qyi",+
+"?Zre",+
+"?ZrO",+
+"._",-
+"f}h|`2S",+
+"`U^Hh|",+
+""-VoW",+
+"e",-
+"",-
+"Ys~`",-
+"QyZ",+
+"Ys~9",-
+".$",-
+"T~Z",-
+"`U^Hh8",+
+"f}h|`2x",+
+"{",-
+"\!?nm",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3)

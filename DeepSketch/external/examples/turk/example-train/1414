@@ -1,0 +1,16 @@
+// example 
+"u!o}",-
+"E!\;,",-
+"L1@0[x",-
+"u?bP",-
+"0!",+
+"p!|",-
+"p=J",-
+"L!6bPV",-
+"f)",-
+"",-
+"'",-
+"EC0']",-
+
+// ground truth 
+concat(or(or(<cap>,<low>),<any>),<m0>)

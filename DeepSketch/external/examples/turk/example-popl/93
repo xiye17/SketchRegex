@@ -1,0 +1,18 @@
+// examples
+"aaaaaa",+
+"aaaaaaaaaaaaa",+
+"eeeeeeeeeeeeee",+
+"iiiiiiiiiiii",+
+"oooooooooooo",+
+"uuuuuuuuuuu",+
+"4#$%aaaaaaaaaa",+
+"sssss",-
+"ssssssssssssss",-
+"aaaaa",-
+"a",-
+"e",-
+"#$%aei",-
+"aeiokuuuws",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),6)

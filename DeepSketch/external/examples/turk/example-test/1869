@@ -1,0 +1,25 @@
+// example 
+"!F"<",-
+"!WHKHX",+
+"!XNVJZCOQU",+
+"!UDMRMN",+
+"!a",-
+"!XVVQGHEGWM",+
+"!sh",-
+"!VYEYSLILOGA",+
+"!",-
+"!Qirn",-
+"!RUKHCEHDYMSW",+
+"",-
+"pX",-
+"!&f",-
+"me{r",-
+"f",-
+"!YGGSVCBS",+
+"!XLMGHOS",+
+"!PZRW",+
+"!VMS",+
+"mGN!T",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<cap>,3))

@@ -1,0 +1,18 @@
+// example 
+";%",-
+"8\w)tv?!=x[6K",+
+"H<Dj/9AU&pF",+
+"p|~ww>o",+
+"ZjDY"9e5",+
+"",-
+"pXK",-
+"^VbA*\6$_",+
+"U",-
+"h40u8m_*e*`X",+
+"-j)/)Y|0CC",+
+"b1"c",+
+"dY}6^",+
+"[5>@V=",+
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),4)

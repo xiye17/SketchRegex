@@ -1,0 +1,17 @@
+// example 
+"7K",-
+"Og",-
+"I9",+
+"Ie~",-
+"",-
+"}",-
+"Hkz8",-
+"O4C5",-
+"i2",+
+"I*h",-
+"i_aX\",-
+"B",-
+"FYR0o",-
+
+// ground truth 
+concat(<vow>,<num>)

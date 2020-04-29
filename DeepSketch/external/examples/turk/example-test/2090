@@ -1,0 +1,17 @@
+// example 
+"5F",+
+"s",-
+"g@",-
+"gz",-
+"z'Hh",-
+",",-
+"&0S",-
+"!K",+
+"",-
+"~"lt",-
+"K@a",-
+"!a}wc",-
+"!Urn2",-
+
+// ground truth 
+concat(or(or(<low>,<m0>),<num>),<cap>)

@@ -1,0 +1,15 @@
+// example 
+"{buU..",+
+"c@o8=&C",+
+"E",+
+"?[",+
+"H8%w",+
+":I5",+
+"sGU4V-22&e",+
+"-<Z,}",+
+"G_Re>?3I(",+
+"",-
+"VN0r@o<w",+
+
+// ground truth 
+repeatatleast(or(<m0>,endwith(<any>)),1)

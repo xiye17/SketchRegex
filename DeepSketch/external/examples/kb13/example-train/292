@@ -1,0 +1,25 @@
+// example 
+"x{z~F^8",+
+"h,}m`",-
+"@+x",-
+"3rL=",-
+"S0H/\o",+
+"Q,~ZE",+
+"x{z~F^~",+
+"J}tf",+
+"",-
+"h,}m&",-
+"klQ",+
+"@+T",-
+"kll",+
+"Q,~Zz",+
+"c}",-
+"3rL]",-
+"J}tB",+
+"cn",-
+"S0H/\J",+
+"{",-
+"B",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3)

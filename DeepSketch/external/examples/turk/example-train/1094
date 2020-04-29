@@ -1,0 +1,25 @@
+// example 
+"RDJGAR!",+
+"CATSZKBL!",+
+"WF!",+
+"UPCHGMPEAES!",+
+"Aw",-
+"'fo",-
+"UHSPSGV!",+
+"EVC!",+
+"NM!N-",-
+"*",-
+"N=8+[",-
+"f@a",-
+"D=Ls",-
+"OCVBFVKXJ!",+
+"",-
+"QENWY!",+
+"&<",-
+"N",-
+"YRIMUUEIDF!",+
+"De86",-
+"WWCD!",+
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<m0>)

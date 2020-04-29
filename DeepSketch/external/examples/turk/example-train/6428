@@ -1,0 +1,25 @@
+// example 
+"F",-
+"BBcw",-
+"eb",+
+"ETh}",+
+"o",+
+"nuXu{",+
+"nE<bi",+
+"nDa",+
+"^",-
+"",-
+"}nLH/",-
+"g^",-
+"cK<",-
+"}nLHr",-
+"cKf",-
+"ne5",+
+"BBcD",-
+"AW@m",+
+"El",+
+"g8",-
+"A",+
+
+// ground truth 
+repeatatleast(contain(and(<vow>,<let>)),1)

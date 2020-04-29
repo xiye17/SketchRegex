@@ -1,0 +1,17 @@
+// example 
+"S&",+
+"kPZ\T",+
+"q",-
+"Uq^q,",+
+"{I?",+
+"",+
+"}s",+
+"A",-
+"#dX.",+
+"}hOD",+
+"=",+
+"~",+
+"?]e",+
+
+// ground truth 
+not(or(or(<let>,<num>),<vow>))

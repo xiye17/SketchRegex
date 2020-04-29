@@ -1,0 +1,25 @@
+// example 
+">V7&V"Zw",+
+"C48B?Q[}Pc",+
+"UV$z",-
+"m/e`h<Vck",+
+"z1fWW4c",+
+"z1fWWar",+
+"m/e`h<V)g",+
+"C48B?Q[}vr",+
+"6l[*CO}",-
+"",-
+"Gf^.j?",-
+"%kV5D>|BG}u",+
+"Gf^.j}",-
+"--^z-e",+
+":\TMA",-
+"6l[*CON",-
+"Vb",-
+">V7&V"wk",+
+"%kV5D>|BGAl",+
+"x",-
+"Dwy",-
+
+// ground truth 
+concat(repeatatleast(<any>,5),<low>)

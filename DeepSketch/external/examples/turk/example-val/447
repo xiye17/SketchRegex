@@ -1,0 +1,14 @@
+// example 
+"",+
+"NJW",+
+"OXn+o<",+
+"x}*_FDo",+
+"p6mDdOO=",+
+"@.*_;",+
+"tXSY",+
+"c",+
+"z,",+
+"Hdpme9i^>",+
+
+// ground truth 
+startwith(or(not(<let>),<num>))

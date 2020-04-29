@@ -1,0 +1,25 @@
+// example 
+"^elmt7",+
+"c\k@",-
+"^elmW0",+
+"$#G+Z",-
+"$#G+u",-
+"KpraE1eWH",+
+"VA",-
+"FKsWkq0",+
+"]~rfWsJ5",+
+"Q/\",-
+"Q/f",-
+"FKsWkZ7",+
+"",-
+";",-
+"V\",-
+"mbnu6",+
+"]~rfWsr5",+
+"mbnL5",+
+"KpraEsyl9",+
+"c\kR",-
+"M",-
+
+// ground truth 
+contain(concat(repeatatleast(<let>,4),<num>))

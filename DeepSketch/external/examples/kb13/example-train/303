@@ -1,0 +1,25 @@
+// example 
+"{|s9Xe",+
+"_O\}",-
+"5ZkR",+
+"SHq",+
+"~^Z",-
+"",-
+"c",-
+"`P}A~",-
+"5Zkv",+
+"{~SsF",+
+"o,",-
+"~^e",-
+"7",-
+"_O\4",-
+"`P}A9",-
+"{~Ssr",+
+"fY,}bc<",+
+"fY,}bcq",+
+"SHM",+
+"o`",-
+"{|s9XS",+
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3)

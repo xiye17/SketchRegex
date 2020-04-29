@@ -1,0 +1,17 @@
+// example 
+"\",-
+"G",+
+"}so",-
+"!AO+m",-
+"c",+
+"]d%H",-
+"",-
+"#.d",-
+"_M",-
+"|z",-
+"aRGn#",-
+"JP>2",-
+"~",-
+
+// ground truth 
+or(or(<vow>,<let>),<cap>)

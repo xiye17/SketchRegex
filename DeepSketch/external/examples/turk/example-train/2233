@@ -1,0 +1,16 @@
+// example 
+"}",-
+"9a,'",-
+"b>",-
+"F!R",-
+"d>hZ",-
+")v9.8",-
+"Y",-
+"X!H~~",-
+"FNc",-
+"B!",+
+"UT",-
+"",-
+
+// ground truth 
+concat(<cap>,and(<m0>,<any>))

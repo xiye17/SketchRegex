@@ -1,0 +1,25 @@
+// example 
+"E!eu!AX@",+
+"EuIa!U",+
+"E!eu!!*$",+
+"ieo!Ea};]7",+
+"C9",-
+"N-",-
+"Aud",-
+"ieo!Eo/0dP",+
+"",-
+"Rr(m2",-
+"EuIa!a",+
+"EAGp3",-
+"!eUiOiw;P",+
+"i",-
+"N",-
+"A(/",-
+"\7&m",-
+"!eUiOeI8f",+
+"IJm7",-
+"UOoieoB",+
+"UOoieAT",+
+
+// ground truth 
+startwith(repeatatleast(or(<vow>,<m0>),6))

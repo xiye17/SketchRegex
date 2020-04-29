@@ -1,0 +1,17 @@
+// example 
+"lN",-
+"yDRUD",-
+"Tosj",-
+"",-
+"T!aw",-
+"ib`",-
+"wO",+
+"|",-
+"l2",-
+"i@m",-
+"wU",+
+"|.Fgl",-
+"C",-
+
+// ground truth 
+concat(or(<let>,<cap>),or(or(<m0>,<vow>),<m1>))

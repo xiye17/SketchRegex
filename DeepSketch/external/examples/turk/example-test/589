@@ -1,0 +1,25 @@
+// example 
+"cv",-
+"qsBT/#",+
+"nQo",+
+"bCx!D",+
+"6A_y",-
+"bCLNu",+
+"KPwW",+
+"",-
+"}",-
+"[5]",-
+"Byzzk25",+
+"~4^#",-
+"nQV",+
+"9",-
+"_>GWJ",-
+"*@",-
+".+j",-
+"qshW~_",+
+"ByPwLc{",+
+"~mo)J",-
+"KPHc",+
+
+// ground truth 
+startwith(repeatatleast(<let>,3))

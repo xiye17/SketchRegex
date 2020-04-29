@@ -1,0 +1,15 @@
+// example 
+"~Gkfde4",+
+">Mh8",+
+"*:fthOn9m",+
+"@[4G>VR}",+
+"FCt+}",+
+"MFWtnR",+
+"=>*n6lLWb0",+
+"(p",+
+"}",+
+"q+a",+
+"",-
+
+// ground truth 
+contain(or(<low>,<any>))

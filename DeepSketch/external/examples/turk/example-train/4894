@@ -1,0 +1,25 @@
+// example 
+"OLlIC",-
+"uKA",+
+"uKU",+
+"!e~",-
+"OLlI^",-
+"Ss",-
+"ODo|O",+
+"piUI",+
+"!CqC",-
+"",-
+"|",-
+"SL",-
+"!es",-
+"Qu",+
+"piUu",+
+"N",-
+"u",+
+"QI",+
+"!Cqd",-
+"ODo|u",+
+"A",+
+
+// ground truth 
+endwith(or(<m0>,<vow>))

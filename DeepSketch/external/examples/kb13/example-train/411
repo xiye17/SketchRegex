@@ -1,0 +1,25 @@
+// example 
+"\",-
+"_n",-
+"t?YH;^J7vFg",+
+"g[eDTCZo",+
+"Xh%'vJCFf",+
+""{1~S",-
+"bvznooK",+
+"O}#cJ\OwWD",+
+"e",-
+"[z{:",-
+"",-
+""{1~~",-
+"&Oh",-
+"&OP",-
+"bvznoou",+
+"g[eDTCZN",+
+"Xh%'vJCFG",+
+"O}#cJ\OwWa",+
+"_~",-
+"t?YH;^J7vFH",+
+"[z{\",-
+
+// ground truth 
+repeatatleast(contain(<let>),7)

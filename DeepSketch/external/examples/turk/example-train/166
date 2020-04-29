@@ -1,0 +1,17 @@
+// example 
+"Im<A",-
+"*TAN!",-
+"Z",-
+"EWN",-
+"Ix=",-
+"IE",-
+"",-
+"&",-
+"E[",-
+"Aaop",-
+"I\YKP",-
+"I",+
+"A",+
+
+// ground truth 
+or(<vow>,<low>)

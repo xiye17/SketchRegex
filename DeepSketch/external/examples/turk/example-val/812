@@ -1,0 +1,25 @@
+// example 
+"/GJ%X",-
+"PX",+
+"G[n/",-
+"[&o",-
+"SBM;y",+
+"G|",-
+"Haxa",+
+"Ilo(o1",+
+"",-
+"Mb4",+
+"G.ub",-
+"i",-
+"#ET",-
+"Pb",+
+"IAk&ME",+
+"U",-
+"X,W?f",-
+"MUa",+
+"HW<s",+
+"G"",-
+"SfKad",+
+
+// ground truth 
+startwith(concat(<cap>,<let>))

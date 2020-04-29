@@ -1,0 +1,25 @@
+// example 
+"i;O+",+
+"E",+
+"UZm5=",+
+"Er9",+
+"t",-
+"rO8",-
+"k^YV",-
+"u^I",+
+"HG\",-
+"O;,w",+
+"",-
+"H2"n|",-
+"9",-
+"PYY/",-
+"<Abd{",-
+"E4",+
+"iY",+
+"i~X(T",+
+"j|",-
+"A",+
+"#d",-
+
+// ground truth 
+startwith(repeatatleast(or(<vow>,<m0>),1))

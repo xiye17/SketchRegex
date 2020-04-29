@@ -1,0 +1,19 @@
+// example 
+"ZcKVxKs<<ZB9PU",+
+"UoOGnW[w",+
+"Y%Y`p",+
+"6'BtFBj,St",+
+"!9R*Ah",+
+"2/ajDzMPG",+
+"",-
+"!3TsRGT",+
+"z4",-
+"L'md",-
+"+b*DngzgankW",+
+"*34",-
+"S>@Ug`Ua)<X`1",+
+"B",-
+"<&x&4\w1>8C",+
+
+// ground truth 
+contain(repeatatleast(<any>,5))

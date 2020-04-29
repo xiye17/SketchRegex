@@ -1,0 +1,17 @@
+// example 
+"l;",-
+"EE2",+
+"D~Po",-
+"g4q",-
+"Ja0CN",-
+""",-
+"",-
+"['gC",-
+"i",-
+"EU0",+
+"5xN",-
+"JaeiO",-
+"+X",-
+
+// ground truth 
+concat(<cap>,concat(<vow>,<num>))

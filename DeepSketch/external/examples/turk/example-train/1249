@@ -1,0 +1,17 @@
+// example 
+"~i8",-
+"*#8",-
+"u",-
+"AIHDF",-
+"Iv",+
+"",-
+"_7!OP",-
+"jW",-
+"z;",-
+"Et(\",-
+"ENc6",-
+"!c",+
+"B",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<low>)

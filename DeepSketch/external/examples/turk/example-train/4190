@@ -1,0 +1,17 @@
+// example 
+"IW4(u",+
+"J:\",+
+"t:5z",+
+"G",+
+"2p2",+
+"X",+
+"U/",+
+"",+
+"Oj4e",+
+"O",-
+"E4",+
+"BnUjh",+
+"E",-
+
+// ground truth 
+not(and(<vow>,<cap>))

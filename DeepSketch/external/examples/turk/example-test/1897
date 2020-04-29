@@ -1,0 +1,25 @@
+// example 
+"usNMU",+
+"h_",-
+"oOI",+
+"fjoI",+
+"uU(",-
+"fu",+
+"fjoa",+
+"U",+
+"",-
+"c",-
+"usNMa",+
+"h-",-
+"PEtg",-
+"uUH",-
+"R",-
+"fU",+
+"oOe",+
+"ppIsM",-
+"PEts",-
+"ppIsR",-
+"A",+
+
+// ground truth 
+concat(not(<let>),endwith(<vow>))

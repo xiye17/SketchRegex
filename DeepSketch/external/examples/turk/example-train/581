@@ -1,0 +1,25 @@
+// example 
+"si",+
+"jaa",+
+"Cgg",-
+"t",-
+"jau",+
+"CgK",-
+"a",+
+"mUQA",+
+"mUQI",+
+"VHuC",-
+"",-
+"mB",-
+"P",-
+"su",+
+"VHut",-
+"mg",-
+"ELaXO",+
+"}aUEd",-
+"}aUEn",-
+"ELaXA",+
+"A",+
+
+// ground truth 
+endwith(repeatatleast(<vow>,1))

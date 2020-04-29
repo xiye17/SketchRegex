@@ -1,0 +1,25 @@
+// example 
+"!@>",-
+"Z",+
+"]",-
+".",-
+"rbMkw",+
+"TuYy",+
+"d'",-
+"!&[",-
+"rbMkV",+
+"EA",+
+"jQJY}",-
+"TuYH",+
+"",+
+"d",+
+"!@BI",-
+"j\<#N",-
+"Et",+
+"HTJ",+
+"d_",-
+"HTr",+
+"!rrE",-
+
+// ground truth 
+or(star(<let>),concat(<m0>,<m1>))

@@ -1,0 +1,15 @@
+// example 
+"U^z]",+
+".",+
+"eW",+
+"W?%"0e)",+
+"5Q~c%(",+
+"VUN?ph4)0r",+
+"4Do",+
+"c7[Sn^"bk",+
+"3Jd5L",+
+"T=t1/3"#",+
+"",-
+
+// ground truth 
+startwith(or(concat(<m0>,<m1>),<any>))

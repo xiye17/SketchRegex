@@ -1,0 +1,20 @@
+// example 
+"5F4|9n",+
+"yjTRrJ.N@3h",+
+"dK6",-
+"gjh5&}F)G(:;7!",+
+"T(r*3.+kCj1:<",+
+"bo!f/;]",+
+"Y$",-
+"5Ofwn",-
+"",-
+"&",-
+"o#EFo?9wD['20s8",+
+"aFff=+xxd",+
+"um-wMfX"\^",+
+"9d6p!1AX",+
+"wf)2",-
+"*fjM#bhc?eB*",+
+
+// ground truth 
+repeatatleast(startwith(<any>),6)

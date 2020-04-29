@@ -1,0 +1,25 @@
+// example 
+"|^^fKzv",+
+"rEs)E``I",+
+"l7})B",-
+"[",-
+"}|{",-
+"l7})[",-
+"mpyjA",+
+"~{",-
+"X[d]BT",+
+"",-
+"oZvL",+
+"oZvu",+
+"rEs)E``h",+
+"o{wb",-
+"~P",-
+"o{w^",-
+"X[d]Bf",+
+"mpyjd",+
+"{",-
+"}|3",-
+"|^^fKzR",+
+
+// ground truth 
+repeatatleast(endwith(<let>),4)

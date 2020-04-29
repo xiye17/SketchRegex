@@ -1,0 +1,17 @@
+// example 
+"ehD",+
+"j!sb_",+
+"e!F",+
+"`",+
+")",+
+"_R",+
+"('",+
+"M/ap",+
+"J!",-
+"",+
+"|kCBr",+
+"z!",-
+"M!D@",+
+
+// ground truth 
+not(concat(<let>,<m0>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"d",+
+"tw./",+
+"j9*I?"s",+
+"=oE{(WE[",+
+"x+98*g5gc",+
+"/h&l;"",+
+"'E",+
+"^e\",+
+"=0wLf",+
+
+// ground truth 
+endwith(star(concat(<let>,<m0>)))

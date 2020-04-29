@@ -1,0 +1,26 @@
+// example 
+"ZZ2",+
+"+H9",+
+"Uv0",-
+".",-
+"Y8",+
+"/:(]",-
+">QB3",+
+">!J7",+
+"$<1Z/",-
+"u;CtM8",+
+"/:(G",-
+"",-
+"$<1ZL",-
+"ep6T6",+
+"u;CRV9",+
+"pJ",-
+"epYS1",+
+"8P?QIK5",+
+"K",-
+"Uvy",-
+"8P?Q#W5",+
+"p<",-
+
+// ground truth 
+endwith(concat(<cap>,<num>))

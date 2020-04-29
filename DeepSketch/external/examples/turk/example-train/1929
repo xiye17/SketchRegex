@@ -1,0 +1,14 @@
+// example 
+"",+
+"5+3i=/Q$",+
+"CX",+
+"Xxw\xQG4f",+
+"_+>0",+
+"E~M",+
+"o?*Pj",+
+"V",+
+"YPU}z/",+
+"R%pNTe!",+
+
+// ground truth 
+not(and(concat(<m0>,<m1>),<m2>))

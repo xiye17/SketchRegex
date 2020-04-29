@@ -1,0 +1,25 @@
+// example 
+"Qwd",-
+"DjJMTDEPGYHTLdZS",+
+"+z4]",-
+"`j:'A",-
+"WITqPcDwLkGF",+
+"IcJADFFbQGWzZrExVr",+
+"Q|",-
+"DjJMTDEPGYHTLdZl",+
+"PbCvISBBHfExLmSkWzPZ",+
+"L{Cgp",-
+"_",-
+"",-
+"h{}",-
+"pS-'",-
+"IcJADFFbQGWzZrExVR",+
+"QE",-
+"FMYlOCZrTeAYUw",+
+"PbCvISBBHfExLmSkWzPf",+
+"FMYlOCZrTeAYUB",+
+"WITqPcDwLkGh",+
+"H",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),6)

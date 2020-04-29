@@ -1,0 +1,15 @@
+// example 
+"",+
+"p"",-
+"P",-
+"pYi$-*Bf",-
+"K'nz^:C",-
+"%Sr;jS8;c",-
+"](KyoI",-
+"pkGT`&I{^`",-
+"JAq",-
+"5$7\B",-
+"{hy#",-
+
+// ground truth 
+not(repeatatleast(or(<m0>,<any>),1))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"0X^",-
+"JD",-
+"0?"'xmW'",-
+">j8U*Ck",-
+"w__b1/ur-",-
+"HUx!L5",-
+"pNa@K",-
+"!",-
+"In/$",-
+"w?b{Pj$!9:",-
+
+// ground truth 
+not(repeatatleast(startwith(<any>),1))

@@ -1,0 +1,25 @@
+// example 
+"q{k.C`s",+
+"&0thMo",+
+"QyNZ",+
+"T~aPs",+
+"N5S",-
+"l+",-
+"{}^__",-
+"T~aPB",+
+"|)bM~^jn",+
+"",-
+"q{k.CSu",+
+"|",-
+"&0thMQ",+
+"N",-
+"N5m",-
+"QyNa",+
+"-e}k",-
+"|)bM~^jU",+
+"{}^_k",-
+"lE",-
+"-e}|",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),4)

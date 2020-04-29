@@ -1,0 +1,14 @@
+// example 
+"",+
+"F;!",+
+"2<KU",+
+"(4F}C&[-{",+
+"^xS<gYX",+
+"a)vhZU@r",+
+"a",+
+"bb",+
+"ccx#L",+
+"s(;k~1",+
+
+// ground truth 
+startwith(or(<let>,not(<any>)))

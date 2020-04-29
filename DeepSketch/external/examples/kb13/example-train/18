@@ -1,0 +1,25 @@
+// example 
+"LMX~.",+
+"[",-
+"]UF&",+
+"d}s\\",-
+"Y1",-
+"h|N",-
+"X",-
+"`_^a",-
+"Ezt)Oi",+
+"",-
+"d}s\7",-
+"eU",+
+"eq",+
+"Lm|PP",+
+"E~]lRp",+
+"oxo",+
+"h|w",-
+"Y}",-
+"`_^B",-
+"oX|",+
+"]Uw|",+
+
+// ground truth 
+contain(repeatatleast(<let>,2))

@@ -1,0 +1,16 @@
+// example 
+"Ba",+
+"(osL",-
+"S^_of",-
+"4v",-
+"4)",-
+"Be",+
+"jK2",-
+"K",-
+"(aX%",-
+"j!>",-
+"",-
+"S,C\,",-
+
+// ground truth 
+concat(<any>,or(or(<vow>,<cap>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"iZ",-
+"o0)",-
+"",-
+"c",-
+"u'GK",-
+"u8",+
+"oZ:",-
+"j`QEj",-
+"i#",-
+"3-]W",-
+">",-
+"evXl)",-
+"a4",+
+
+// ground truth 
+concat(and(<vow>,<low>),<num>)

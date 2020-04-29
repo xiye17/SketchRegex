@@ -1,0 +1,26 @@
+// example 
+"S@",-
+"c9Q",+
+"%~QK",+
+"cMG",+
+"zSivK",+
+"rxC[wX",+
+"%~dY",+
+""",-
+"",-
+"Sn",-
+"#f,@~",-
+"""o7",-
+"rxC[JR",+
+"""o[",-
+"Q",+
+".~t",-
+"6",-
+"OH",+
+".~&",-
+"#f,@'",-
+">S",+
+"zSiWT",+
+
+// ground truth 
+concat(not(<num>),<cap>)

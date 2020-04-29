@@ -1,0 +1,24 @@
+// example 
+"MzD",+
+"6i",-
+"joEiE",-
+"=Mgt",+
+"]",+
+"",+
+"A&",+
+"5fE",-
+"<UedB",+
+"6u",-
+"8eBE",-
+"8eBo",-
+"joEia",-
+">A~uUo",-
+"Az",+
+"=MgT",+
+"Mzv",+
+">A~uUu",-
+"<Ued|",+
+"5fi",-
+
+// ground truth 
+not(concat(<any>,endwith(<vow>)))

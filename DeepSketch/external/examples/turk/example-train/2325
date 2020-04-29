@@ -1,0 +1,25 @@
+// example 
+"uKDVEZYV",+
+"yHOZQ",+
+"jw",-
+"Ka9s",-
+"qCEL",+
+".:z",-
+"dNIDGCKGC",+
+"",-
+"jTDJIJHNLHE",+
+"pNQIBY",+
+"Q",-
+"}",-
+"hLT",+
+"dYRNWZU",+
+"eOJVKDILSBTN",+
+"kRWYNAALVS",+
+"[`&~5",-
+"~9@$",-
+"oH.",-
+"jD",-
+"|6)%)",-
+
+// ground truth 
+concat(<low>,repeatatleast(<cap>,2))

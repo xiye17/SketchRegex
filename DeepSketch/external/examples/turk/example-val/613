@@ -1,0 +1,26 @@
+// example 
+""7L|",-
+"g\'jXU",+
+"|C2k3",-
+"bW^S",+
+"q;MwC",+
+"g\'jsZ",+
+"rCU",+
+"bR1",-
+"7iv",-
+"",-
+"bW:B",+
+"q;M;V",+
+"|h",-
+"zKH<",-
+"oJBv5.S",+
+"xY",+
+"NK",-
+"y",-
+"rjN",+
+"oJBv5VQ",+
+"W]A'|",-
+"~",-
+
+// ground truth 
+concat(<low>,endwith(<cap>))

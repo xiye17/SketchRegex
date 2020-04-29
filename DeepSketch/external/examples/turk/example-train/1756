@@ -1,0 +1,20 @@
+// example 
+"te",-
+"LZ!\1",-
+"L[OiGVN~K2N>S"DbIhNb",+
+"e>.)",-
+"_",-
+"MpD-HpItNYWwZLX1D]",+
+"",-
+"EjD!JkC.LZX4",+
+"S?SvJYFIABYSJpE}",+
+"6m<",-
+"iF'",-
+"S5H{Y?E{HnGWCz",+
+"6",-
+"I[",-
+"LZLu6",-
+"5^Ub",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),6)

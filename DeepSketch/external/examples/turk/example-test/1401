@@ -1,0 +1,26 @@
+// example 
+"e3<",-
+"7<!",-
+".",-
+"6IO",+
+"0W",+
+"7<IicN",+
+"7fv\D",+
+"",-
+"7<Ii#N",+
+"6bY",+
+"U%",-
+"ZI&h6",-
+"7fvJS",+
+"8",-
+"$e5oN",-
+"7k}rkHM",+
+"HO?B",-
+"0KrV",+
+"0K!G",+
+"7k}rk_Q",+
+"+U",-
+"8~I\",-
+
+// ground truth 
+concat(startwith(<num>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"fX",-
+"]^;",-
+"]^J",-
+"bOUpT",-
+"bOUpJ",-
+"ui",+
+"",-
+"Ytcqe",+
+"vlUa",+
+"Ytcqo",+
+"fP",-
+"ua",+
+"|",-
+"WUeh",-
+"hEU",+
+"|igCaU",+
+"N",-
+"vlUE",+
+"WUeX",-
+"hEo",+
+"|igCaI",+
+
+// ground truth 
+concat(contain(<let>),<vow>)

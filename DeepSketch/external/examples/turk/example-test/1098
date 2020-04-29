@@ -1,0 +1,25 @@
+// example 
+"POMsSje",+
+"wvj4q",-
+"RKHiKwrbiK",+
+"\8",-
+"ut}}",-
+"jLadLjvttby",+
+"",-
+"sTxyrpeh",+
+"}",-
+"}Ff`",-
+"|Q<p"",-
+"<",-
+"qVgTPtEbH",+
+"yqn",-
+"#do",-
+"qVgTPtEbe",+
+"sTxyrpeQ",+
+"RKHiKwrbiu",+
+"jLadLjvttbT",+
+"POMsSjY",+
+"~%",-
+
+// ground truth 
+repeatatleast(or(<let>,<low>),7)

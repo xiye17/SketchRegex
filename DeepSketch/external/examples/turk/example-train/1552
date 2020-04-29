@@ -1,0 +1,25 @@
+// example 
+"-K",+
+"C-MDZ",+
+"M:O3",-
+"C-MfY",+
+"u",-
+"j6",-
+"XR",+
+"c4y",-
+"pVF",+
+"ja",-
+"",-
+"pfS",+
+"]6pH",+
+"8X?5,",-
+"M",+
+"8X?5r",-
+"c46",-
+"M:Oo",-
+"]6TL",+
+"A",+
+"~",-
+
+// ground truth 
+or(endwith(<cap>),repeatatleast(<vow>,3))

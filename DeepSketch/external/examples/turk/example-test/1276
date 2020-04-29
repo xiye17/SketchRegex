@@ -1,0 +1,17 @@
+// example 
+"tcYj",-
+"{x5E",-
+"BC",-
+"]~"u9",-
+"JP",-
+"oq",+
+"",-
+"i",-
+"WQf",-
+"J+R~s",-
+"v",-
+"oP",+
+"sas",-
+
+// ground truth 
+or(concat(<vow>,<let>),and(<low>,<m0>))

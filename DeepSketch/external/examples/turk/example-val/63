@@ -1,0 +1,14 @@
+// example 
+"",+
+"XW-LRVa",+
+"{%YDT",+
+"_Nw]$^tRB",+
+"Be",+
+">5uf",+
+"}",+
+"+}#;s+",+
+"HAy",+
+"jRX8|'|F",+
+
+// ground truth 
+contain(not(endwith(<cap>)))

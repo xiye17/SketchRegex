@@ -1,0 +1,26 @@
+// example 
+"IB8Gu9&JtPFU",+
+"7UBMB'RBJ=S",+
+"iA",-
+"lVf",-
+"QGCG@P-MG",+
+"$VZMGDSA",+
+"/Vau,",-
+"/VauI",-
+"QGCG@4BHV",+
+"",-
+"IB8Gu9&J%HBY",+
+"&",-
+"Q-QXSSST",+
+"7UBMB'RBw@J",+
+"992JCVBLVC",+
+"WCKSKVT",+
+"lVH",-
+"99nOXRBMMH",+
+"r~LA",-
+"r~L<",-
+"D",-
+"ie",-
+
+// ground truth 
+endwith(repeatatleast(contain(<cap>),7))

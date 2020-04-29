@@ -1,0 +1,25 @@
+// example 
+"I!nT4L=06",-
+"q",+
+"fs",+
+"W!c",-
+"V!M9G=f:",-
+"Y>Vcs",+
+"U!2$TB<_R<B",-
+"{<%",+
+"W!h.O",-
+"I!jbKH",-
+"{#Kh",+
+"Y!>m@%TnKD",-
+"3ks+",+
+"",+
+"/;S",+
+"D!AE",-
+"X!",-
+"_lyMj",+
+"(E",+
+"X!sL|Wi",-
+"A",+
+
+// ground truth 
+not(startwith(concat(<cap>,<m0>)))

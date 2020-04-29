@@ -1,0 +1,24 @@
+// example 
+"!\aMMa3aoM",+
+"!Kdh4<",+
+"Jj#",-
+"~l6jVQMd",-
+"!]3%'",+
+"(JZ}()3",-
+"ra9+",-
+"!",+
+"",-
+"[q",-
+"!|BcZ*!>(",+
+"\\c;>",-
+"SvV0~/P$e",-
+"!nI",+
+"_"+:}K",-
+"!\#eO4*",+
+"S",-
+"!lZy",+
+"!Olw__GG",+
+"!d",+
+
+// ground truth 
+concat(<m0>,contain(star(<cap>)))

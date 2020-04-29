@@ -1,0 +1,25 @@
+// example 
+"ioU/",-
+"N>",+
+"9J5J",-
+"m",-
+"WNRAGE",+
+"",-
+"drz",-
+"SGH",+
+"Q",-
+"zge;}",-
+"SG_",+
+"NL",+
+"VZTs",+
+"WNRAG.",+
+"VZTL",+
+"OSHBW",+
+"1ix",-
+"OSHBd",+
+"\c",-
+"3E",-
+")GrS?",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<any>)

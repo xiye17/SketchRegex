@@ -1,0 +1,15 @@
+// example 
+"BuYAC",-
+"8SzP",-
+"t",-
+"bz",+
+"u{`",-
+""0",-
+""}",-
+"",-
+"uB<",-
+"B{jYM",-
+"8}Zr",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<vow>),<low>)

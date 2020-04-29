@@ -1,0 +1,26 @@
+// example 
+"!!TU%",-
+"4E,J1QD",+
+"!!TU~",-
+"!!",-
+"!EbY*X",+
+"!8uK",+
+"!",-
+"!F",-
+"xZD",+
+"x.T",+
+"d_>VR",+
+"",-
+"4E,J1wX",+
+"!EbYpP",+
+"!8.R",+
+"YF",+
+"d_>sV",+
+"y",-
+"L&+",-
+"C:M.",-
+"C:Mj",-
+"L&l",-
+
+// ground truth 
+concat(not(star(<m0>)),<cap>)

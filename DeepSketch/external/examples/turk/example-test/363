@@ -1,0 +1,26 @@
+// example 
+"pTyoC",+
+"{u[4h",-
+"qGZ",+
+"{=|",-
+"1-+Ms",-
+"niUF06",+
+"eJ",+
+"",-
+"]QE",-
+"?PtV",-
+"|",-
+"#D",-
+"vE",-
+"d",+
+"hfBf",+
+"h4-r",+
+"8",-
+"eZ",+
+"{\?`",-
+"qf=",+
+"nIe:.V",+
+"pAtwI",+
+
+// ground truth 
+concat(<low>,not(<vow>))

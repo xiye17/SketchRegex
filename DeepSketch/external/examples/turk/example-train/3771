@@ -1,0 +1,26 @@
+// example 
+"O!",+
+"P7!",+
+"Bf@",-
+"aL",-
+"AEol",-
+"!",+
+"",-
+"K[j!",+
+"!yC",+
+"Eb!s.S",+
+"f!",+
+"aAioh",-
+"U",-
+"aAioQ",-
+"q\(!Z",+
+"p0}",-
+"AEoI",-
+"ak",-
+"K[!B",+
+"Eb;!MP",+
+"B",-
+"q\!>r",+
+
+// ground truth 
+or(contain(<m0>),repeatatleast(<vow>,5))

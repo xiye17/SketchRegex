@@ -1,0 +1,25 @@
+// example 
+"V}",-
+"a[~=B",-
+"]",-
+"6o_sNVNRW",+
+"VU",-
+"~YLvgjRc",+
+"BwlCcuS",+
+"c}!`tAcZAk",+
+"~-h",-
+"~YLvgjRO",+
+"{M]E",-
+"",-
+""E~{~OlYPvz",+
+"BwlCcuz",+
+"P",-
+"~-:",-
+"a[~=_",-
+""E~{~OlYPvN",+
+"{M]_",-
+"c}!`tAcZAS",+
+"6o_sNVNRk",+
+
+// ground truth 
+repeatatleast(endwith(<let>),7)

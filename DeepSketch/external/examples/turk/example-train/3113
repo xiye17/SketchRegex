@@ -1,0 +1,24 @@
+// example 
+"pEwZc",-
+"p!n!m!v!u!t!j!d!",+
+"e!a!g!t!m!n!v!e!d!",+
+"e!yq",-
+"d!n",-
+"t!h!",+
+"e2cU",-
+"",-
+"~}",-
+"z!a!z!c!v!h!k!u!j!w!",+
+"|",-
+"i",-
+"f!f!s!v!",+
+"g!y!h!a!u!s!h!",+
+"a!g!b!",+
+"u!u!l!e!r!",+
+"p!vD}",-
+"i!x!p!g!x!z!",+
+"V)",-
+"}Q!",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),2)

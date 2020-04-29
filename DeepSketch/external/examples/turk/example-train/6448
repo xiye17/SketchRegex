@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"F",-
+"E!",+
+"fkOML",-
+"&AU!",+
+"F'R",-
+"VdNE!",+
+"]PdU",-
+"katIa!",+
+"",-
+"fkOMU",-
+"VdNI!",+
+"u!<",+
+"R",-
+"AA",-
+"katIO!",+
+"uU!",+
+"&AO!",+
+"Ae",-
+"F'e",-
+"]Pdu",-
+
+// ground truth 
+repeatatleast(contain(concat(<vow>,<m0>)),1)

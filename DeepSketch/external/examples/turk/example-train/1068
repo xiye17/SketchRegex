@@ -1,0 +1,24 @@
+// example 
+"LKV",+
+"ZJRKAY",+
+"rm*`.",-
+"DT",+
+"`Y/^",-
+"W5F",-
+"RLRHZPT",+
+"",+
+"AUYQDZUAB",+
+";",-
+"cSc",-
+"F'",-
+"Q",+
+"!<",-
+"+5$_",-
+"MHGHSBGK",+
+"y",-
+"AHDTM",+
+"DHLC",+
+"?|a&N",-
+
+// ground truth 
+and(star(<cap>),not(<low>))

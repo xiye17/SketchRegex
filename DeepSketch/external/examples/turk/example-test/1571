@@ -1,0 +1,15 @@
+// example 
+"N2FgX",+
+"/d\<zOj",+
+"bF\U{CtaSD",+
+"$~:14J",+
+"tQeE'G8c",+
+"7",+
+"=`,X",+
+"Q)",+
+"=(S",+
+"",-
+"vHFTZ<LO+",+
+
+// ground truth 
+contain(or(or(<any>,<let>),<low>))

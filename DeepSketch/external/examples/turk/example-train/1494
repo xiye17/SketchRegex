@@ -1,0 +1,25 @@
+// example 
+"iU",+
+"hOairAjItA",+
+"9|W",-
+";Q_R<",-
+"vIsa",+
+"kr",-
+"{;`",-
+"mU+l!",-
+"dEcAtE",+
+"",-
+"xUpevooi",+
+"dEcAto",+
+"hOairAjIte",+
+"7",-
+"kT",-
+"vIsI",+
+"kx"<",-
+"kgM[",-
+"ia",+
+"xUpevoou",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),1)

@@ -1,0 +1,25 @@
+// example 
+"uIR",+
+"eEEV",+
+"aeEke",-
+"G|y",-
+"T",+
+"IH",+
+"uIE",+
+"^",-
+"",-
+"bu<'",-
+"IO",+
+"ueeaV",+
+"L",+
+"ueeaR",+
+"ae",-
+"eEEE",+
+"P=R",-
+"3vGN",-
+">",-
+"aeEhz",-
+"ao",-
+
+// ground truth 
+concat(star(<vow>),<cap>)

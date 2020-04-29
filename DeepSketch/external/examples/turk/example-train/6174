@@ -1,0 +1,17 @@
+// example 
+"A&Ci",-
+"T$",-
+"A28",-
+"O1",+
+"U2",+
+"AMXb",-
+"",-
+"A,Q",-
+"{o",-
+"i",-
+"T",-
+"I8{s,",-
+"I!E1&",-
+
+// ground truth 
+concat(and(<let>,<vow>),<num>)

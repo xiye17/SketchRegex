@@ -1,0 +1,14 @@
+// example 
+"",+
+"#L",+
+"kV^+",+
+"'_|4dv;@",+
+"(;@me>",+
+"Udxz?",+
+"\OmILKa",+
+"w",+
+"y:x",+
+"WQUaqP)zv",+
+
+// ground truth 
+contain(or(star(<any>),<let>))

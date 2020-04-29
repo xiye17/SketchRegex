@@ -1,0 +1,14 @@
+// example 
+"",+
+"mL<*,",+
+"32C",+
+"0vM!A+A|5",+
+"_'F2Ki",+
+"m",+
+"{)~a?[Y",+
+"Z|",+
+"Bp!e",+
+"U\~4!Vt4",+
+
+// ground truth 
+contain(not(and(and(<vow>,<m0>),<m1>)))

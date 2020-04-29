@@ -1,0 +1,25 @@
+// example 
+"TeWapj">,",+
+"]~D%",-
+"W<oKV;ZiAv",+
+"eF@",-
+"I6+hp:",+
+"KKZ'dzg",+
+"W",-
+"l",-
+"7^9V",-
+"FI}XK",+
+"",-
+"2fc5C",-
+"Npjd:uAj((Y",+
+"W+4xrYXe",+
+"GKN",+
+"H9",+
+",z",-
+"&Py",-
+"R!BU",+
+"v5",-
+"nh{q#",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,1))

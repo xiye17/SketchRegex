@@ -1,0 +1,26 @@
+// example 
+".ymhtc",+
+"o",-
+"m@}C{yzeib",+
+"2T>~",-
+"2T>,",-
+"x|}{N",-
+"|kdmud",+
+"~\}zpblg/",+
+"",-
+")",-
+"|5jddos",+
+"m@}Ctgtbdq",+
+"<}n",-
+"uf",-
+"u|",-
+"<}C",-
+"t\ucfny$",+
+"t\Imldxs",+
+"rwpyb",+
+"~\}{dyypf",+
+"|{kezyh",+
+"x|}{}",-
+
+// ground truth 
+contain(repeatatleast(<low>,5))

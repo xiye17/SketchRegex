@@ -1,0 +1,25 @@
+// example 
+"Gs56d",-
+"UU^<R)c%",+
+"iOou",+
+"t",-
+"o">z~3X",+
+"OG2",-
+"pR",-
+"ACE",-
+"O-.e4h",+
+"",-
+"aP",-
+"E_AoW",+
+"e>--:z",+
+"vIe'",-
+"IJ5dk/Rz",+
+"igO!UVN",+
+"+}_"D",-
+"o+'zq",+
+"H",-
+"uk1C",+
+"_I=1",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<any>,3))

@@ -1,0 +1,25 @@
+// example 
+"dAwea",+
+"o",-
+"iKB",-
+"EGbkI",-
+"BaVOSo",+
+"GAuE",+
+"BaVOSe",+
+"dIKE",-
+"iKo",-
+"dIK=",-
+"UteFeIA",+
+"EGbku",-
+"uoE",+
+"",-
+"}o",-
+"A",-
+"}A",-
+"GAuo",+
+"dAweO",+
+"UteFeIe",+
+"uoa",+
+
+// ground truth 
+repeatatleast(endwith(<vow>),3)

@@ -1,0 +1,16 @@
+// example 
+"H!",-
+"g!U0m",-
+"t",-
+"W!ts",-
+"+!k",-
+"+!B",-
+"g!D;0",-
+"H=",-
+")!O",+
+")!e",+
+"",-
+"W!e?",-
+
+// ground truth 
+concat(concat(<any>,<m0>),<vow>)

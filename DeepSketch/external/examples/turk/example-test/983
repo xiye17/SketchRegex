@@ -1,0 +1,25 @@
+// example 
+"MiA",+
+"Dg'I3",+
+"Ii",+
+"Qc",-
+"dba9",+
+"Qk",-
+"UKQl",-
+"",-
+"Ia",+
+"8one#",-
+"N",-
+"MiO",+
+"dbaE",+
+"O",+
+"uaF",-
+"UKQR",-
+"ua;",-
+"Dg'Iu",+
+"{",-
+"8oneB",-
+"A",+
+
+// ground truth 
+endwith(or(<num>,<vow>))

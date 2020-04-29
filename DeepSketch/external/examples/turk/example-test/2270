@@ -1,0 +1,21 @@
+// example 
+"<Pl",-
+"-oA0",-
+"z9a2u5l4v1",+
+"<&F,N",-
+"{5$tr",-
+"u1t1f1i2e8u7h3u5e5p7",+
+"",-
+"|",-
+"d8",-
+"y4g3j5b7c3f3l6y3",+
+"i1z7e6f0m0c9o0d3m0",+
+"g8w2c3z2s6c9",+
+"r2x",-
+"m0k7n5l2o5s9a2",+
+"E",-
+"~`",-
+"}k?&",-
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),5)

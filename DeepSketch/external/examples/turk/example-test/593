@@ -1,0 +1,17 @@
+// example 
+"I,",+
+"B*{?",-
+"zW",+
+"]-",-
+"\%3",-
+",G]~e",-
+"%hV",-
+"(",-
+"_",-
+"",-
+"u8Jw*",-
+"nj$b",-
+"{}",-
+
+// ground truth 
+concat(<let>,or(or(<vow>,<num>),<any>))

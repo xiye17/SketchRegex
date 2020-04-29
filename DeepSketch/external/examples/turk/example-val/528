@@ -1,0 +1,15 @@
+// example 
+".V973",+
+"v$u))&E\",+
+"p"A>nZm",+
+"'KT]In",+
+")",+
+"_5i^ayNR[",+
+"b`VF",+
+"^r",+
+"",-
+"W/3",+
+"xu?e{h=qPw",+
+
+// ground truth 
+or(contain(<any>),and(<m0>,<m1>))

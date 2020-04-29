@@ -1,0 +1,25 @@
+// example 
+"eAIm",+
+"U~of/1",+
+"eAOx",+
+"u",-
+"EIDig",+
+"U~oAAi",+
+"Op",+
+"",+
+"ux",+
+"III",-
+"AADb",-
+"ted",+
+"i",-
+"IIL",-
+"AADe",-
+"cA",-
+"aMo#U",-
+"tOg",+
+"ct",-
+"aMo#I",-
+"EIDuw",+
+
+// ground truth 
+star(contain(concat(<vow>,<low>)))

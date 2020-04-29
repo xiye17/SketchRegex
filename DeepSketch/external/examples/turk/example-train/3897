@@ -1,0 +1,25 @@
+// example 
+"5'6",-
+"!MDh#",-
+"!D!M!Z!B",+
+"2",-
+"!T!}",-
+"!;L=$",-
+"!Q!A!G!U!C!A",+
+"!R!P!C",+
+"!B!X",+
+"!",-
+"!A",+
+"!N!P!G!H!H!D!D!W",+
+"!X!O!M!O!Q!B!T",+
+"",-
+"!T!,",-
+"!J!X!C!O!H",+
+"hV",-
+"!Z!V!O!C!T!Y!N!A!Y",+
+"!M!Q!F!Q!X!T!A!K!F!R",+
+"!o",-
+"!4)",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<cap>),1)

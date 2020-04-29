@@ -1,0 +1,25 @@
+// example 
+"~w",-
+"pl",+
+"pD",+
+"|cd",-
+"un_T",+
+"w.%L|G",+
+"W",-
+"t8}^",-
+"t8}1",-
+"",-
+"r`k",+
+"z!}`}",-
+"w.%L|h",+
+"r`W",+
+"sbG`D",+
+"sbG`z",+
+"&+^",-
+"un_l",+
+"{",-
+"!.",-
+"+}Dbi",-
+
+// ground truth 
+concat(<low>,repeatatleast(endwith(<let>),1))

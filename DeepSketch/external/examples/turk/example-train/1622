@@ -1,0 +1,14 @@
+// example 
+"",+
+"u(R",+
+"h6",+
+"5j51t},Z^",+
+"i#Gi",+
+"W:ex~p8",+
+"%",+
+"SA}'n",+
+"X#kPc}",+
+"|%6Tc+{/",+
+
+// ground truth 
+startwith(or(not(<num>),<m0>))

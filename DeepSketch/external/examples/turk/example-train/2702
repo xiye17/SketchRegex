@@ -1,0 +1,25 @@
+// example 
+"AAIHWRNYUOD",+
+"PZ",-
+"t",-
+"w/3q*",-
+"oLYLFJLE",+
+"oDAUFZPNQX",+
+"ASTEWCFHFNZQ",+
+"",-
+"eRLRVDTWWVL",+
+"iNZULTML",+
+"N$$&{",-
+"y;",-
+"iaR",-
+"uUGOULHCG",+
+"M",-
+"&lC&",-
+"UOMQAHQLZTAL",+
+"nVa",-
+"oJEBPMVXM",+
+"j<^h",-
+"aBFVMCNMSL",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<cap>,7))

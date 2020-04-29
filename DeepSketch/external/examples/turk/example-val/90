@@ -1,0 +1,25 @@
+// example 
+"A}X",-
+"k3A(",-
+"hZjRtBd",+
+"PNjt",+
+"vGiYu",+
+"k~;l",-
+"MIDQqm",+
+"vGiel",+
+"iCxDOhFc",+
+"",-
+"MIDQTw",+
+"hZjRtsq",+
+"E[",-
+"PNTb",+
+"T",-
+"A_&",-
+"iCxDOhlp",+
+"{:dy$",-
+"E3",-
+"z",-
+"l[q.g",-
+
+// ground truth 
+concat(repeatatleast(<let>,3),<low>)

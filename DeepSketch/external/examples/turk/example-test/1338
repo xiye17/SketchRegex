@@ -1,0 +1,26 @@
+// example 
+"8!w54",-
+"!BNZAG",+
+">!",-
+"!lk",-
+"T!="e'rX",+
+"'!vFFTm",+
+"!",-
+"OL!EH"(&/;",+
+"r!d{",-
+"Tam!24{?",+
+"!Gjw:J%5l",+
+"",-
+"^3(",-
+"!&Z"b>9",+
+"rj!S",-
+"!M<:2`0Yl4",+
+"!u(Dy",+
+"8l!Zn",-
+"^Zwi!<m^n",+
+"+!L0)(",+
+"x",-
+"!i",-
+
+// ground truth 
+concat(endwith(<m0>),repeatatleast(<any>,4))

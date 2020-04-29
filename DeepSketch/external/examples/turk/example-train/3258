@@ -1,0 +1,14 @@
+// example 
+"",+
+"|z",+
+"G",+
+"l~2",+
+")7kD(*",+
+"b<bT",+
+"ao:2{=~lK",+
+".<Ioke?p",+
+"_8xGm",+
+"&m'IHaJ",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,2),<let>))

@@ -1,0 +1,16 @@
+// example 
+"W'",-
+"VPn",+
+"8X{m|",-
+"Pq/o",-
+"W{",-
+"+SJ",-
+"+S{",-
+"Pqkl",-
+"Vuc",+
+"",-
+"8XcU#",-
+"b",-
+
+// ground truth 
+concat(<any>,concat(<let>,<low>))

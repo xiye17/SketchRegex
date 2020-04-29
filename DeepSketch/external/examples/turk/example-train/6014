@@ -1,0 +1,25 @@
+// example 
+"DE",-
+"o",+
+"oe",+
+"g;/",-
+"5",-
+"Fx/c1",-
+"UEiz",+
+"tI%",-
+"UHb+",-
+"b",+
+"",-
+"M)",-
+"eaAEy",+
+"eaAE!",+
+"oh",+
+"UEi!",+
+"!Jr@_",-
+"Aae",+
+"Aai",+
+"Ue'`",-
+"{",-
+
+// ground truth 
+concat(star(<vow>),or(<let>,<m0>))

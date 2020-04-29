@@ -1,0 +1,15 @@
+// example 
+"<4~",+
+"uEj&h",+
+":7|on*;x",+
+"R;?=hE&",+
+",Y?trqzdfG",+
+"4",+
+"}iH0&p",+
+"m#eJ|{1D<",+
+"^.IV",+
+"",-
+"::",+
+
+// ground truth 
+or(contain(<any>),startwith(<cap>))

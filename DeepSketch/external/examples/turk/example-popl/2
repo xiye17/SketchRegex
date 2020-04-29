@@ -1,0 +1,18 @@
+// examples
+"aaaaaa",+
+"AAAAAA",+
+"aaaaaaa",+
+"AAAAAAA",+
+"aaaAAA",+
+"aaaAAAA",+
+"bbbbbbb",+
+"1",-
+"a",-
+"b",-
+"@",-
+",",-
+"123",-
+"abc",-
+
+// ground truth 
+repeatatleast(or(<let>,<low>),6)

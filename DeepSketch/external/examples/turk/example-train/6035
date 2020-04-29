@@ -1,0 +1,26 @@
+// example 
+"e!",+
+"e!loW",+
+"oCk\0",-
+"E!",+
+"u!+!U?",+
+"KS>I",-
+"orq|",-
+"1",+
+"I!5",+
+"",-
+"a!s",+
+"e!1C",+
+"Er",-
+"i!/4",+
+"U",-
+"ieS",-
+"\MN",-
+"E!+DK",+
+"i!8$oX",+
+"l>",-
+"ud7Eg",-
+"D",-
+
+// ground truth 
+startwith(or(<num>,concat(<vow>,<m0>)))

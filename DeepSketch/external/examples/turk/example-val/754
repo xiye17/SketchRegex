@@ -1,0 +1,25 @@
+// example 
+"!3LK",+
+"G!"vz",+
+"!/Gez",+
+"NW>",-
+"IDc6w1C[",-
+"`BsV",-
+"!32",+
+"N!N",+
+",Fm`X",-
+"!N",+
+"!",+
+"",-
+"J!",+
+"lH",-
+"OJYC|Fc'Y",-
+"h!#/",+
+"!>m,GN",+
+"B0=!4E",+
+"M",-
+"w$f@Po",-
+"q.s9;|P",-
+
+// ground truth 
+contain(concat(not(<any>),<m0>))

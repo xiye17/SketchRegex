@@ -1,0 +1,16 @@
+// example 
+"K7/Q",+
+"%+Jd,:LpZ=m",+
+"zf'dyhp",+
+"_v?oNQw[G{",+
+")s<g_aal",+
+"B+f",+
+"Vxpjx#8GP",+
+"gK7nH",+
+"R?=5z@",+
+"^",-
+"Wd",+
+"",-
+
+// ground truth 
+repeatatleast(startwith(<any>),2)

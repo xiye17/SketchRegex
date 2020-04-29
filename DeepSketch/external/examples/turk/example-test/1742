@@ -1,0 +1,15 @@
+// example 
+"",+
+"61&0#[g",+
+",SImX}",+
+"\p/m~GkS",+
+"s",-
+"1~",+
+"#cixL/~Ih*",+
+"=DU",+
+"-&W9",+
+"`:H7c",+
+"Z@Jt~7Sfv",+
+
+// ground truth 
+not(or(or(<low>,<let>),<any>))

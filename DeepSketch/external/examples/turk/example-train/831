@@ -1,0 +1,15 @@
+// example 
+"D",+
+",e$}6w=99"",+
+"-wr",+
+"~B",+
+"F6S%",+
+"w1R.K0",+
+"HEm\*a$1",+
+"HRO%%",+
+"'`6p;a%",+
+"nbsN]}"Mi",+
+"",-
+
+// ground truth 
+or(<num>,endwith(<any>))

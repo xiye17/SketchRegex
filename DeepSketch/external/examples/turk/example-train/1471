@@ -1,0 +1,17 @@
+// example 
+"f!PWT",-
+"k!Q",+
+"V,Y",-
+"",-
+"N!G",+
+"i",-
+"b!Nm",-
+"bFp6",-
+"x!",-
+"V!$",-
+"fxUgw",-
+"I",-
+"{G",-
+
+// ground truth 
+concat(concat(<let>,<m0>),<cap>)

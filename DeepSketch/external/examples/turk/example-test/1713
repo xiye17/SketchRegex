@@ -1,0 +1,19 @@
+// example 
+"r",-
+"c!b!x!g!w!v!r!l!",+
+"f!w!y!n!g!o!k!g!g!g!",+
+"}|Z4k",-
+"a!",-
+"aM",-
+"{\/(",-
+"JD$*Q",-
+"",-
+"n!w!z!k!w!i!a!e!w!",+
+"|",-
+"~%l",-
+"s_e",-
+"u!a!r!j!q!m!y!",+
+"V(#?",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),7)

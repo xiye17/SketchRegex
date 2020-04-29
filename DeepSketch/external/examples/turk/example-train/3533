@@ -1,0 +1,24 @@
+// example 
+"!8+@bMo-i,",+
+"Ew!4O",-
+"aZci1Z9",-
+"K9%%",-
+"!",+
+"!yk5I",+
+"",-
+"i]Z1D|\.",-
+"!>",+
+"!ah!HhSE",+
+"|",-
+"!$i",+
+"!-=jE3",+
+"!F/M"+BQ?",+
+"i`",-
+"!ehpKb0",+
+"Hk[LRF'%$",-
+"!=Mi",+
+"82y",-
+"PT/Y"y",-
+
+// ground truth 
+and(endwith(<any>),startwith(<m0>))

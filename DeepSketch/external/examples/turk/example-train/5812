@@ -1,0 +1,26 @@
+// example 
+"U!@",+
+"IT!@",+
+"7A6",-
+"o",-
+"IN!E!G!@",+
+"uD",-
+"JGeJ!@Q",+
+"I!@>",+
+"R!@XX:",+
+"PRN"",-
+"IN!E!@&u",+
+";Q!@d",+
+"O!O'+",-
+"",-
+"PRN[",-
+"u7",-
+"R!1O!@",+
+":",-
+";QQ!@",+
+"7Af",-
+"O!O'M",-
+"JGeJX!@",+
+
+// ground truth 
+contain(concat(concat(<cap>,<m0>),<m1>))

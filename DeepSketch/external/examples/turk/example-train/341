@@ -1,0 +1,14 @@
+// example 
+"",+
+":",+
+">`hp,(",+
+"y\vblUD",+
+">4=w",+
+"f5",+
+"x\^;h;ln}",+
+"g-cqk",+
+"Ry%",+
+"(M9u!9Lb",+
+
+// ground truth 
+contain(or(not(<m0>),<num>))

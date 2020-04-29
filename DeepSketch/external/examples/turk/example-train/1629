@@ -1,0 +1,25 @@
+// example 
+"JUPDYVIO",+
+"IHVSHALOI",+
+"cPG",-
+"B1HOx",-
+"[",-
+"2|8",-
+"";0Yr",-
+"WPOLAA",+
+"Lz>~",-
+"W",-
+"VITTPZBQFE",+
+"-9R>",-
+"JUPDYVIa",+
+"",-
+"EJBTXIe",+
+"Dh",-
+"DN",-
+"IHVSHALOi",+
+"VITTPZBQFo",+
+"WPOLAo",+
+"EJBTXII",+
+
+// ground truth 
+concat(repeatatleast(<cap>,5),<vow>)

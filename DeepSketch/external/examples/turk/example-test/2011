@@ -1,0 +1,17 @@
+// example 
+"3>0f",-
+"2wc",-
+"()0}U",-
+"3FG~",-
+"iTCw]",-
+"",-
+"$",-
+"2wC",-
+"7",-
+"9k",-
+"7gO",+
+"9~",-
+"7gU",+
+
+// ground truth 
+concat(concat(<num>,<let>),<vow>)

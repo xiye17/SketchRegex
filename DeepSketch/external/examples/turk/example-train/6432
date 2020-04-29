@@ -1,0 +1,16 @@
+// example 
+"2+u",-
+"3",-
+"Qu52=",-
+"bD",-
+"m",-
+"~b1z",-
+"2o",-
+"C!~/",-
+"Y!z",+
+"f+q",-
+"Q!}SZ",-
+"",-
+
+// ground truth 
+concat(<cap>,concat(<m0>,<low>))

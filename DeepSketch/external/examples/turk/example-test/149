@@ -1,0 +1,25 @@
+// example 
+"e`",+
+"t",-
+"icEn'",+
+"!!!!k",-
+"U",+
+"AdHc$",+
+"b",-
+"",+
+"B'HL",-
+"BI",-
+"uoh",+
+"H.J&",-
+"oMxu",+
+"tE",-
+"!5N",-
+"I",+
+"!!",+
+"Aas",+
+"!!5",-
+"Kl{jw",-
+"ud{*",+
+
+// ground truth 
+or(star(<m0>),startwith(<vow>))

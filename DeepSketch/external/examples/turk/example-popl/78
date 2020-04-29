@@ -1,0 +1,18 @@
+// examples
+"3a",+
+"2,",+
+"a2,",+
+"aaa3a",+
+"nobody33a33",+
+"when2a",+
+"nope2!",+
+"a2",-
+"2",-
+"aaaa",-
+"",-
+",",-
+",a",-
+"yes",-
+
+// ground truth 
+endwith(concat(<num>,contain(<any>)))

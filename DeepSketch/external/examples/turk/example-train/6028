@@ -1,0 +1,16 @@
+// example 
+"",+
+"P",-
+"b3w=",+
+"V_-ON",+
+"r`n",+
+"`",+
+"(kZD",+
+":yF",+
+"3]",+
+"<",+
+"yH",+
+"+T~hI",+
+
+// ground truth 
+or(not(<cap>),star(<m0>))

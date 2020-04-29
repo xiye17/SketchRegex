@@ -1,0 +1,26 @@
+// example 
+"K`a_!",+
+"iO7",+
+"iO!",+
+"od",-
+"eCNL",-
+"oK",-
+"eCNA",-
+"!",+
+"TfUeO",-
+"#",-
+"",-
+"J!",+
+"TfUeI",-
+"oII",-
+"uE!b",+
+"K`aM!",+
+"f!",+
+"uEU1",+
+"oI:",-
+"A",-
+"I!2@3]",+
+"IA5h8'",+
+
+// ground truth 
+contain(or(concat(<vow>,<num>),<m0>))

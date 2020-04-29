@@ -1,0 +1,14 @@
+// example 
+"",+
+"j8gP|-f!",+
+"mdW#",+
+"6S>"UC;H"",+
+".g8=6&<",+
+"-?M"nF",+
+"u$",+
+"5CUAP",+
+"gHN",+
+"}",+
+
+// ground truth 
+repeatatleast(or(not(<m0>),<any>),6)

@@ -1,0 +1,16 @@
+// example 
+"f,&IB",-
+"j!8",+
+"b"GA",-
+"`*un",-
+"|i3~W",-
+"o",-
+"O",-
+"~LQ",-
+"b!",-
+"t!g",-
+"",-
+"}E",-
+
+// ground truth 
+concat(concat(<low>,<m0>),<num>)

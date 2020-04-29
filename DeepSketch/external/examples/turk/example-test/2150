@@ -1,0 +1,17 @@
+// example 
+"[",-
+"sB'",-
+"~p1^>",-
+"",-
+"a5du",-
+"KO",+
+"bE",+
+")L,14",-
+"*r5#",-
+"}aG",-
+"{",-
+"!0",-
+"em",-
+
+// ground truth 
+concat(<let>,and(<any>,<cap>))

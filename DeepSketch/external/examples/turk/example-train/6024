@@ -1,0 +1,25 @@
+// example 
+"gVn",+
+"AymU",+
+"r",+
+"pHqF",+
+"aL",+
+"'os",-
+"{a",-
+"K(#",+
+"j82\;",+
+"",-
+"G-;TA",+
+"\Ub[",-
+"0qBn",-
+"}<9rg",-
+";",-
+"|",-
+"M",+
+"U:",+
+"`J",-
+"^$cmS",-
+"`\0",-
+
+// ground truth 
+startwith(or(<cap>,<let>))

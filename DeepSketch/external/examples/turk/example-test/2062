@@ -1,0 +1,14 @@
+// example 
+"",+
+"?HZyT8?08",+
+"4;U",+
+"O5)Y(T"",+
+"wxqPA",+
+"{r3%",+
+"K",+
+"1C",+
+"Wd;ZiGdr",+
+"n$vZ^a",+
+
+// ground truth 
+endwith(contain(not(<low>)))

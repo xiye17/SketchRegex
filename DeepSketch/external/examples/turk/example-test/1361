@@ -1,0 +1,15 @@
+// example 
+"NzglPaDm4/",+
+"`9IGHx*",+
+"Ib$L",+
+"N+7Jg",+
+"p=",+
+"jlGy>bD"<",+
+"*",+
+"f`_$'F",+
+"T3U",+
+"LUOXs^<|",+
+"",-
+
+// ground truth 
+startwith(or(or(<any>,<cap>),<let>))

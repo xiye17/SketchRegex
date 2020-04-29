@@ -1,0 +1,25 @@
+// example 
+"rSls",+
+"fcrTdCxn",+
+"fcrTdCxB",+
+"cPcGwQtAad",+
+"|n",-
+"{(Vm",-
+"qarEbz",+
+"GB",-
+":'f",-
+"",-
+"cEpUkteTvbiu",+
+"8^fn",-
+"}",-
+"cPcGwQtAaB",+
+"qarEbP",+
+"{6]",-
+"|4]Hj",-
+"cEpUkteTvbiR",+
+"I",-
+"RB_)#",-
+"rSlQ",+
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),2)

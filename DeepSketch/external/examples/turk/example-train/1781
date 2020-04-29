@@ -1,0 +1,25 @@
+// example 
+"e!C",+
+"a^P%=",-
+"xnS",-
+"A!S",+
+"aqu",-
+"1o",-
+"a!Fv",+
+"d",-
+"O!5ou~",+
+"",-
+"U!",+
+"IgDG",-
+"a#",-
+"i!4F",+
+"U",-
+"oIzP",-
+"E!NuB",+
+"u*v#"",-
+"i!",+
+"e!%tX",+
+"U!GbtE",+
+
+// ground truth 
+startwith(repeatatleast(concat(<vow>,<m0>),1))

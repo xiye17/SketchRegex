@@ -1,0 +1,25 @@
+// example 
+"}b.",-
+"otmyxQ",+
+"tfdfW",+
+"tfdfl",+
+"haf",+
+"otmyxw",+
+"di'C",-
+"i~",-
+"HEKzN",-
+"lhcK",+
+"zbdrzaA",+
+"",-
+"d=*z",-
+"}",-
+"zbdrzal",+
+"::",-
+"ju>",-
+"j",-
+"lhcu",+
+"haB",+
+"m~<.u",-
+
+// ground truth 
+concat(repeatatleast(<low>,2),<let>)

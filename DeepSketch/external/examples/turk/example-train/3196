@@ -1,0 +1,17 @@
+// example 
+"~:i",-
+"O8",+
+"wL@y'",-
+"u-h!",-
+"|@",-
+"w2:T6",-
+"!",-
+"",-
+"j",-
+"uH]Y",-
+"r,",-
+"Y'Z",-
+"p9",+
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<low>),<num>)

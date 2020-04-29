@@ -1,0 +1,24 @@
+// example 
+"sWph",-
+"!TWOP",+
+"!a",-
+"!CPRVXNL",+
+"!(M",-
+"!NES",+
+"g"",-
+"!",+
+"(",-
+"!W-",-
+"!QVQTMZPAO",+
+"!YAFGUTPK",+
+"",-
+"!YV",+
+"!CVLZM",+
+"_%/"0",-
+"!Y",+
+"!7w4*",-
+"!UZIOWH",+
+"!P]H",-
+
+// ground truth 
+concat(<m0>,star(<cap>))

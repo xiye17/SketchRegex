@@ -1,0 +1,25 @@
+// example 
+"qtntjreviao",+
+"q~",-
+"epexumeyE",+
+"qh",-
+"sp!A",-
+"qtntjreviaI",+
+"s3`",-
+"XqTf0",-
+"axrqroa",+
+"yxdamfkooa",+
+"",-
+"axrqroi",+
+"emscuhoO",+
+"|",-
+"epexumeya",+
+"lw{Xo",-
+"M",-
+"emscuhoe",+
+"~33",-
+"yxdamfkooE",+
+"spn%",-
+
+// ground truth 
+concat(repeatatleast(<low>,6),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"FQi"!z7",+
+"e7",-
+"DYj",-
+"AEofI9",+
+"pO,[~U==",+
+"DYa",-
+"FQgAR*6",+
+"O%13)",+
+"gbisY",-
+"",-
+"gdAh",-
+"pUys,;VO",+
+"uu}C",+
+"AiIm",+
+"gdU!",-
+"gbco(",-
+"7",-
+"Qa",-
+"U?4Yf",+
+"A",-
+"ezu3>F",+
+
+// ground truth 
+concat(contain(<vow>),startwith(repeat(<any>,3)))

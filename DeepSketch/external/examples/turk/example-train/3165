@@ -1,0 +1,25 @@
+// example 
+"]",-
+"_|tu9",-
+"2{zTZiND",+
+"][qXuIWSd",+
+":}R{hiJzjK",+
+":}R{hiJzjv",+
+"druImH",+
+"p_ZV",-
+"",-
+"_|tux",-
+"'{",-
+"druIma",+
+"}",-
+"p_Z]",-
+"][qXuIWSB",+
+"^nJBeYi",+
+"'\",-
+"^nJBeYR",+
+"2{zTZiNa",+
+"/Ca",-
+"/C[",-
+
+// ground truth 
+endwith(repeatatleast(<let>,6))

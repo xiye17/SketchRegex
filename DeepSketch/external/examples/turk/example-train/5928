@@ -1,0 +1,17 @@
+// example 
+"2gr",+
+"IDm",+
+"CEbx",+
+"w~*@U",+
+"q",-
+"]"",+
+"X",-
+"]",+
+"",+
+"iQkY",+
+"+{",+
+"Ne>)5",+
+"{",+
+
+// ground truth 
+not(or(<let>,<low>))

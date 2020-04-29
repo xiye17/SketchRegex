@@ -1,0 +1,17 @@
+// example 
+"FIDj",-
+"rmJ",-
+"F{Pk",-
+"X",-
+"^D",-
+"",-
+"G5",+
+"q!egl",-
+"G!",+
+"@",-
+"HC",-
+"[WF",-
+"|z]Dq",-
+
+// ground truth 
+concat(<let>,or(or(<low>,<num>),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"AUq(8",+
+"IEiOE",-
+"io",-
+"2",-
+"Ieei",-
+"Oean",+
+"][",+
+"",+
+":W=",+
+"2c2",+
+"f",+
+"S",+
+"O@69",+
+"iq",+
+"iu",-
+"oaI",-
+"IeeI",-
+"IEiOA",-
+"oaU",-
+"I",-
+"~OP2]",+
+
+// ground truth 
+not(or(<num>,repeatatleast(<vow>,1)))

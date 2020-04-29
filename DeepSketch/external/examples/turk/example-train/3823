@@ -1,0 +1,15 @@
+// example 
+"w]\yUx/",+
+"1/G",+
+"P'\[E!-z",+
+"ak,4TbO*|",+
+"{%r$d:",+
+"T",+
+".g",+
+"?a+}O",+
+"Y]^1&A&8n.",+
+"*k"#",+
+"",-
+
+// ground truth 
+or(startwith(<any>),concat(<vow>,<m0>))

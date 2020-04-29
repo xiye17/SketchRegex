@@ -1,0 +1,14 @@
+// example 
+"",+
+"+&",+
+"ZOC}",+
+"{IAWtt+@",+
+"XVApfZ$",+
+"UyVHf)",+
+"Q&8",+
+"#",+
+"LND]p",+
+"?y1;bC!Nw",+
+
+// ground truth 
+contain(not(<any>))

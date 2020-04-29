@@ -1,0 +1,25 @@
+// example 
+"cocyHHXVeK",-
+"n",+
+"[MMNX",+
+"ZMtimSoCr",-
+"~G\0",+
+"P^",+
+"KBiAFv",-
+"oehJwWX",-
+"NAeZUhyj",-
+"",+
+"KZW",+
+"oehJwWe",-
+"NAeZUhyF",-
+")f\P+",+
+"9",+
+"`RYo",+
+"cocyHHXVeg",-
+"KZ^",+
+"KBiAFD",-
+"Pu",+
+"ZMtimSoCC",-
+
+// ground truth 
+not(repeatatleast(<let>,6))

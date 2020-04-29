@@ -1,0 +1,17 @@
+// example 
+"uA\:",-
+"rtb=",-
+"Oa",+
+"g|.Q^",-
+"",-
+"f1",-
+"a0\I?",-
+"pP",-
+"UR",+
+"M",-
+"83f",-
+"E/a",-
+"C",-
+
+// ground truth 
+concat(<vow>,or(<low>,<any>))

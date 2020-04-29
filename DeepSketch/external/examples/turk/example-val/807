@@ -1,0 +1,17 @@
+// example 
+"G",-
+"Cg#",-
+".",-
+"Ir",-
+"MI",-
+"H>W",-
+"2",+
+"U",+
+"T^W_4",-
+"",-
+"CYcW}",-
+"EuSp",-
+"Kz/z",-
+
+// ground truth 
+or(or(<low>,<num>),<vow>)

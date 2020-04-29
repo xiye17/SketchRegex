@@ -1,0 +1,15 @@
+// example 
+"7pq",-
+"A0G<",-
+"A!c2",-
+"s9",+
+"@6H.c",-
+"UG",-
+"H",-
+"@"_1R",-
+"",-
+"U-",-
+"738",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<vow>),<num>)

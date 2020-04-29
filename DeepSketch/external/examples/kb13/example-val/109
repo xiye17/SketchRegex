@@ -1,0 +1,25 @@
+// example 
+"E[`DMne",+
+"E[`DMnP",+
+"@a\",-
+")r",-
+"ALQfz",+
+")1",-
+")}X,^SSNP",+
+"_NXeJO",+
+"*",-
+"@an",-
+"",-
+"_[AQ",-
+"fR3?~roe",+
+"ALQfT",+
+"_NXeJp",+
+"_[At",-
+")}X,^SSNw",+
+"xfh%T",-
+"fR3?~roA",+
+"{",-
+"xfh%^",-
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),5)

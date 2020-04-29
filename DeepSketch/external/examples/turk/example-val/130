@@ -1,0 +1,26 @@
+// example 
+"$8(3",-
+"^8%m.",-
+"^8%m[",-
+"jO",+
+"j3GDgi",+
+"hq]zP",+
+"@&",-
+"",-
+"@q",-
+"%",-
+"}",-
+"4B",+
+"vg*J",+
+"tp+",-
+"P",+
+"tpi",-
+"Jit",+
+"j3<}/W",+
+"8nV",+
+"hq]4K",+
+"vg~F",+
+"$8(w",-
+
+// ground truth 
+contain(startwith(<cap>))

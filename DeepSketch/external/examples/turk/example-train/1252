@@ -1,0 +1,15 @@
+// example 
+"|"Slf",+
+"n.EGPFL_X",+
+"v,4)yJ#t$<",+
+"n-",+
+"_2Q}",+
+">VC5s).)",+
+"_t-",+
+"P(SC~:~",+
+"x",+
+"",-
+"t9^?-\",+
+
+// ground truth 
+startwith(or(<m0>,or(or(<num>,<any>),<let>)))

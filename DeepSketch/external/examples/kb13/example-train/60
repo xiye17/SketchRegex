@@ -1,0 +1,25 @@
+// example 
+"ROs",-
+"KGEoiEI",+
+"TEIIeo",+
+"op:C~",-
+"AU1U",-
+"XU2UAQIFO",+
+"DSAUKOiI",+
+"",-
+"GE",-
+"KGEoiEi",+
+"Gu",-
+"op:CX",-
+"O",-
+"ROA",-
+"TEIIeu",+
+"uioei",+
+"I",-
+"AU1g",-
+"uioee",+
+"XU2UAQIFi",+
+"DSAUKOie",+
+
+// ground truth 
+repeat(contain(<vow>),5)

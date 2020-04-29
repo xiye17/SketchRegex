@@ -1,0 +1,25 @@
+// example 
+"!9n?X",-
+"T!Rd!",+
+"UR!!K!",+
+"G!ARqSI",+
+"!!`",-
+"IT`u",-
+"T!Rdw",+
+"5",-
+"!X!!",+
+"!",-
+"!X!U",+
+"+)QsU",-
+"",-
+"sQa",+
+"|"",-
+"!2\",-
+"sQ!",+
+"UR!!KW",+
+"IT%@",-
+"_s",-
+"G!ARqS!",+
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),3)

@@ -1,0 +1,16 @@
+// example 
+"`a",+
+"9P",-
+"1sb",-
+"`I",+
+"9H",-
+"C",-
+"ANpCY",-
+"AoqqK",-
+"",-
+"1Ou",-
+"Ny:M",-
+"NC:/",-
+
+// ground truth 
+concat(<any>,<vow>)

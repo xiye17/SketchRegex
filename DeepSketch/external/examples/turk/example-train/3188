@@ -1,0 +1,17 @@
+// example 
+"Or.E",-
+"e$+Dc",-
+"Nf}",-
+"mpr",-
+"e&",-
+"eI",-
+"O1",+
+"",-
+"a",-
+"O-6P",-
+"I",-
+"Dl*zL",-
+"a6",+
+
+// ground truth 
+and(concat(<vow>,<any>),endwith(<num>))

@@ -1,0 +1,25 @@
+// example 
+"B}w",-
+"Fm@5d",-
+"D2Pg",-
+"t",-
+"Ht",-
+"sE%09",+
+"k",-
+"fV|a",+
+"",-
+"zE",+
+"ocQ",+
+"fV|E",+
+"Fm@5/",-
+"B}V",-
+"D2PD",-
+"HF",-
+"a?'",+
+"u",+
+"O[*Bz",+
+"uM",+
+"A",+
+
+// ground truth 
+contain(endwith(<vow>))

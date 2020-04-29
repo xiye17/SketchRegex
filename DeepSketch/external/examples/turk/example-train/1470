@@ -1,0 +1,18 @@
+// example 
+"'fYt",+
+"pJSGZL?",+
+"j6K$PRsn2PF",+
+"?dQ",-
+"^(Yp/"C#!",+
+"@+UHq5fv7I#R",+
+"",-
+"P12%&d",+
+"MQ."TeLSpK",+
+"jELo9U/K",+
+"SmX3Cg9N$4>O.",+
+"KX",-
+"(OkP9",+
+"{",-
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),4)

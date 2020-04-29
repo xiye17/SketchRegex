@@ -1,0 +1,26 @@
+// example 
+"s",-
+"|J?1j",-
+"F",+
+"{[aT",-
+"U^",-
+"Henzyj",+
+"rcU",+
+"nVqO",+
+"",-
+":u26",-
+"U|",-
+"zAmva",+
+"HenzyF",+
+"V3#(K",-
+"mi",+
+"mV",+
+"rcx",+
+"nVqn",+
+"zAmvM",+
+"]~4",-
+"}Cm",-
+"~",-
+
+// ground truth 
+or(repeatatleast(<let>,2),<cap>)

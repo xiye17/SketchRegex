@@ -1,0 +1,19 @@
+// example 
+"+H~",-
+"1",-
+"2T5z6l1S1y6/4t8N6b",+
+"1O3'6S3i1x6*6A0R7t6y",+
+"8a2D5|5!0/8w1a",+
+"PSpge",-
+"+",-
+"XQlq",-
+"h0",-
+"",-
+"^NQ",-
+"#2-l",-
+"6B3P8R6P8)700_1Q",+
+"7x-6n",-
+"%b",-
+
+// ground truth 
+repeatatleast(concat(<num>,<any>),7)

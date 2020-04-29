@@ -1,0 +1,25 @@
+// example 
+"lzzmG",+
+"n",+
+"ES",+
+"w]",-
+"lzzma",+
+"z{ClH",-
+"Rxuq",+
+"",-
+"`",-
+"CXL",+
+"Ep",+
+"}",-
+"CXr",+
+"}I",-
+"]x8",-
+"&>U;Z",-
+"M",+
+"HZ%C",-
+"HZ{~",-
+"b<(",-
+"RxuU",+
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),1)

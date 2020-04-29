@@ -1,0 +1,20 @@
+// example 
+"J0C+rMV!",+
+"1]M)",-
+"$Z"<35Z,"qw\)m",+
+"O{2Ehc",+
+"V",-
+"Ypb)$FOocrhi",+
+"fha][",-
+"jq^rul!",+
+"B{1L4PE~rN{bP",+
+"",-
+"?Q",-
+"9Dwm.aVSo",+
+"Z|\Huq74Ppv",+
+"dv&",-
+".0N&r;%AZF",+
+"hg[5i^Tp#WGxJ3V",+
+
+// ground truth 
+and(repeatatleast(<any>,6),not(<cap>))

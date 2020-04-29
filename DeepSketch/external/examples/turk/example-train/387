@@ -1,0 +1,25 @@
+// example 
+"e}M",-
+"UX",-
+"Ea!",+
+"nco!",+
+"ASAaE!",+
+"ncI!",+
+"Ub",-
+"EE!",+
+"e}u",-
+"IOuV",-
+"H~au!",+
+"",-
+"faB^A",-
+"H~aa!",+
+"i",-
+"IOu{",-
+"A!",+
+"M",-
+"i!",+
+"faB^c",-
+"ASAau!",+
+
+// ground truth 
+endwith(concat(<vow>,<m0>))

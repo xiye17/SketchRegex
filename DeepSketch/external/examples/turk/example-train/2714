@@ -1,0 +1,16 @@
+// example 
+"G",-
+"H?",-
+"gBucs",-
+"C`$g",-
+"~^8F",-
+"g+dC{",-
+"n",-
+"o/"",-
+"y$",-
+"z0",+
+"",-
+"<g#",-
+
+// ground truth 
+concat(<low>,<num>)

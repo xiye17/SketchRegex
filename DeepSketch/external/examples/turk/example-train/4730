@@ -1,0 +1,16 @@
+// example 
+"v!XK",-
+"t!",+
+"{R",-
+"1WN@)",-
+"GON",-
+"pep:m",-
+"6",-
+"yr",-
+"{",-
+"",-
+"}P=",-
+"vQ@m",-
+
+// ground truth 
+concat(and(<low>,<let>),<m0>)

@@ -1,0 +1,17 @@
+// example 
+"F",+
+"E~",-
+"3",-
+"eG2y",-
+"F2/db",-
+"v<'",-
+"",-
+"F-",-
+"mb|",-
+"%)Cj",-
+"|",-
+"V)BTX",-
+"t",+
+
+// ground truth 
+and(not(<vow>),<let>)

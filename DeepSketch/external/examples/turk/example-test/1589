@@ -1,0 +1,17 @@
+// example 
+"eM",+
+"dXG",-
+"e(\",-
+"i;",-
+"fmHI*",-
+"tZ",-
+"",-
+"i",-
+"7",-
+"uZ(cz",-
+"a2,I",-
+"aWVZ",-
+"uS",+
+
+// ground truth 
+concat(and(and(<any>,<low>),<vow>),<cap>)

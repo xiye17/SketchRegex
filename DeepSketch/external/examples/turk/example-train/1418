@@ -1,0 +1,25 @@
+// example 
+"o",-
+"x/]",-
+"F;X[",-
+"Iunpizz",+
+"Evqegulkwh",+
+"u==fm",-
+"Zcm",-
+"ogssngf",+
+"Ibnyuxgl",+
+"",-
+"Ov",-
+"O9",-
+"ewnrvhqkqyn",+
+"arzbjcgd",+
+"akxcmvsix",+
+"uo}UP",-
+"Oftbfmlrtqc",+
+"ijswkznaqu",+
+"eqzwlzvlg",+
+"M",-
+"I-|C",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<low>,6))

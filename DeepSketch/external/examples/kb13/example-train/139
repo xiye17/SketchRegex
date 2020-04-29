@@ -1,0 +1,25 @@
+// example 
+"^}|aHyr",-
+"x`QGjz",-
+"D(+{",+
+"^",+
+"",+
+"gF",+
+";",+
+"gu",+
+"%^)b-",+
+"IIjdP",-
+"rANt",-
+"x`QGjA",-
+"{31",+
+"{3v",+
+"rANP",-
+"3!}AAzK@",-
+"IIjQ1",-
+"3!}AAzq6",-
+"D(+"",+
+"%^)bp",+
+"^}|aHyZ",-
+
+// ground truth 
+not(contain(repeat(<let>,4)))

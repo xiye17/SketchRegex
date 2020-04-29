@@ -1,0 +1,25 @@
+// example 
+"0",-
+"gOE;",+
+"o",-
+"e}",-
+"!C|",+
+"!t.0F",+
+"xu,",-
+"!!G",+
+"!!7#.",-
+"!",+
+"vJ",+
+"",-
+"!t.EC",+
+"mc6@",-
+"!!7#u",-
+"xub",-
+"J",+
+"UBxl",+
+"$J",+
+"mc6b",-
+"e1",-
+
+// ground truth 
+or(repeatatleast(<m0>,1),contain(<cap>))

@@ -1,0 +1,24 @@
+// example 
+"cpjS",+
+"m|&F.",-
+""y7y}E",+
+"mZDpI",-
+"DGdQ~k7U}p",+
+"d",-
+"",-
+"\w",+
+"zV>k+D,F",+
+"\P",+
+""y7y}i",+
+":Rm",-
+"cpjs",+
+"Q[",-
+"RkE|",-
+"DGdQ~k7U}B",+
+":9U",-
+"Q"",-
+"RkE^",-
+"zV>k+D,p",+
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),1)

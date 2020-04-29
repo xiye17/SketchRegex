@@ -1,0 +1,25 @@
+// example 
+"_*8$",-
+"avK!apdT",+
+"pTc!",+
+"!VuN"",-
+",eoX",-
+"mar!o",+
+"!",-
+"Y[",-
+"!n!bxN!",+
+"",-
+"!n!bxNl",+
+"avK!apd!",+
+"~_p",-
+"!V{&0",-
+"vC!@Px",+
+"pTc@",+
+"vC!@P!",+
+"mar!!",+
+"Y=",-
+"![L",-
+"D",-
+
+// ground truth 
+repeatatleast(or(or(<m0>,<m1>),<let>),4)

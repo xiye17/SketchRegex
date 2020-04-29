@@ -1,0 +1,25 @@
+// example 
+"W;lD",-
+"G",-
+",[L_",-
+"[",-
+"}~>X'",-
+"yDsPIT",+
+"[p%q\",-
+"cDfN",+
+"cDSR",+
+"",-
+"nZ",+
+"lzLaW",+
+"V_K",-
+"KL",+
+"lzLJF",+
+"yDsPvA",+
+"i^",-
+"aVW",+
+"aqK",+
+"i.",-
+",+O",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),<cap>)

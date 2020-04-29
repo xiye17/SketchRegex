@@ -1,0 +1,17 @@
+// example 
+"oK",+
+"shM",-
+"oe",+
+"A_",-
+"I^1j",-
+"o=9Ly",-
+"",-
+"j",-
+"A%",-
+"M",-
+"o]=;B",-
+"ht:",-
+"IAXa",-
+
+// ground truth 
+concat(<vow>,or(<low>,<let>))

@@ -1,0 +1,16 @@
+// example 
+"Y6",-
+"B!#E",-
+"1i_E`",-
+"]",-
+"BwX)",-
+"l,B}u",-
+"A",-
+"6gK",-
+"~UU",-
+"P!5",+
+"",-
+")Z",-
+
+// ground truth 
+concat(<cap>,concat(<m0>,<num>))

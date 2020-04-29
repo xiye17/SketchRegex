@@ -1,0 +1,14 @@
+// example 
+"",+
+"'%k1:",+
+"bgS",+
+"$^uI;=z&",+
+"O",+
+"v>4p",+
+"-?W>i57e@",+
+"|G",+
+"6%_wK]",+
+".\:x$ge",+
+
+// ground truth 
+contain(not(concat(<low>,<m0>)))

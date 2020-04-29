@@ -1,0 +1,14 @@
+// example 
+"",+
+"Z",+
+"YZpWN",+
+"M=M?;F5",+
+"<j",+
+"zM>nUJxs",+
+"9ro3?1'H{",+
+"2kI",+
+">vBC8}",+
+"ot#,",+
+
+// ground truth 
+endwith(star(or(<m0>,<let>)))

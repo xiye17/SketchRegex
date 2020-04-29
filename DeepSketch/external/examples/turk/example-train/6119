@@ -1,0 +1,17 @@
+// example 
+"28=6",-
+"!7",+
+"!'^pP",-
+"_",-
+"",-
+"Q",-
+"oA",-
+"K'T",-
+".b",-
+"DJ",+
+"a>J",-
+"!a^N",-
+"na:=E",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<m1>),<any>)

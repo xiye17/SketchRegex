@@ -1,0 +1,14 @@
+// example 
+"",+
+"F:",+
+"g",+
+"\v]e",+
+"zrV",+
+"|9oZ5",+
+"eeO^m~D?.",+
+"I!kr1\",+
+"Dm)+^Un",+
+"lq>7iiMh",+
+
+// ground truth 
+not(and(startwith(<m0>),<m1>))

@@ -1,0 +1,16 @@
+// example 
+"51",-
+"}r",-
+"rswf",-
+"c?"V!",-
+"~?6dA",-
+"_",-
+">8K",-
+"}nLH",-
+"l8B",-
+"z",+
+"",-
+"~",-
+
+// ground truth 
+and(and(<let>,<any>),<low>)

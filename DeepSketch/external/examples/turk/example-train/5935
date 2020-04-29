@@ -1,0 +1,25 @@
+// example 
+"v!cGaB!",+
+"!{T",-
+"!OZbYa!k",+
+"!x!xWW!!!w",+
+"!!LZ!!!YznI",+
+"!",-
+"B/r[",-
+"_7*~f",-
+"",-
+"|",-
+"-,",-
+"BT!!",-
+"E!YF!!!xu",+
+"E!YF!!!xH",+
+"!G!|o",-
+"!OZbYa!J",+
+"!!LZ!!!Yzns",+
+"]x",-
+"v!cGaBa",+
+"!x!xWW!!!!",+
+"!.q",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),7)

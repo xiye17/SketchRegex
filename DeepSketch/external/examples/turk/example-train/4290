@@ -1,0 +1,25 @@
+// example 
+"OodVa",+
+"io/{",-
+"uaua",+
+"OodVM",+
+"[",-
+"ee",-
+"p",-
+"ai**Ju",+
+"ik/]CuZ",+
+"",-
+"m0m5V",-
+"fCnthiJa",+
+"abh",-
+"m0m5&",-
+"ik/]Cui",+
+"io/H",-
+"ab@",-
+"ai**Ja",+
+"fCnthiJN",+
+"e6",-
+"uauu",+
+
+// ground truth 
+repeatatleast(or(contain(<cap>),<vow>),4)

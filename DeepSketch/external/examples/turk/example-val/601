@@ -1,0 +1,17 @@
+// example 
+"r",-
+"Eic",+
+"[",-
+"uil44",-
+"%I&\",-
+"^0",-
+"}p}!",-
+"",-
+"DRC",-
+"7*",-
+"Dhn",-
+"EEj",+
+"4SA_k",-
+
+// ground truth 
+concat(concat(<let>,<vow>),<low>)

@@ -1,0 +1,25 @@
+// example 
+"2rGUXYwef3p",+
+"5K@Zq1{7mgbJ",+
+"#<ga4",-
+"2",-
+"F^[`S",-
+"8w6Mt\nK",+
+"0DoHQ#$7\XFLe",+
+"3}*m+/[Rz?6OW.}zn",+
+"1F43nlI2A",+
+".KC",-
+"",-
+";",-
+"7Ew#ea~{eQ",+
+"'b",-
+"8x=",-
+"8'\"tPgRr44(M#{",+
+"8b6X",-
+"9I",-
+"9Ee6ToUT{{H!,_Qp",+
+"weaV",-
+"3E4xTVvdNVdMsh",+
+
+// ground truth 
+concat(<num>,repeatatleast(<any>,7))

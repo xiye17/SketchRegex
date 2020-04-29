@@ -1,0 +1,25 @@
+// example 
+"!r!R!S",+
+"P[",-
+"!}yc",-
+"!H!u!o!U",+
+"!^b:`",-
+"!",-
+"!z",+
+"!O",+
+"!Q!q",+
+"!r!R!a",+
+"!}'",-
+"",-
+"!m!l!c!g!S",+
+"4([pV",-
+"!Q!B",+
+"!^Fr",-
+"S",-
+"![",-
+"!m!l!c!g!l",+
+"sP6",-
+"!H!u!o!d",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<let>),1)

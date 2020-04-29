@@ -1,0 +1,15 @@
+// example 
+"aP",+
+"BUG",-
+"s\|n-",-
+"M2",-
+"!Y3+",-
+"!)V[",-
+"*",-
+"M}",-
+"B^@",-
+"",-
+"sCDn-",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<any>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"!380@",+
+".!;",-
+"@<",-
+"@523!",+
+"b\!@*",-
+"!",-
+"",-
+"!5?2",-
+"@$884!",+
+";@#!095!",+
+"!.'4;@34@",+
+";@#(208!",+
+"!5?@",-
+"@",-
+"@!",-
+"wx@288!",+
+"!.'4;(57@",+
+"b\!@0",-
+"@05(0!",+
+"wx!722@",+
+".!p",-
+
+// ground truth 
+contain(or(concat(startwith(<m0>),concat(startwith(repeat(contain(<num>),3)),<m1>)),concat(contain(<m1>),concat(startwith(repeat(contain(<num>),3)),<m0>))))

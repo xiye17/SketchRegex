@@ -1,0 +1,25 @@
+// example 
+"uz5g",-
+"UoJIWuViEe",+
+"G",-
+"JOIiDiNE",+
+"Ui~jC",-
+"IU",+
+"DoFI",+
+"JOIiDiNI",+
+"CQ",-
+"IE",+
+"_",-
+"",-
+"LICAJE",+
+"LICAJi",+
+"DoFO",+
+"p\Y",-
+"CoR",-
+"Ui!yj",-
+"UoJIWuViEI",+
+"Cg",-
+"(+)I",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),1)

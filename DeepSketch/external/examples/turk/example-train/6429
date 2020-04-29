@@ -1,0 +1,25 @@
+// example 
+"!A!A!o!U!I",+
+"!e!I!a!I!O!U!e!e",+
+"!A!E!u!u!U!e",+
+"!U!O!o!e!A!U!A!E!e",+
+"!a!x",-
+"!",-
+"!i!o!I!U!A!A!i",+
+"!i!o!I!U!A!A!o",+
+"",-
+"!owyT",-
+"6Ti{e",-
+"!A!E!u!u!U!o",+
+"j",-
+"!i!",-
+"!U!O!o!e!A!U!A!E!E",+
+"!a!I",-
+"!e!I!a!I!O!U!e!a",+
+"!A!A!o!U!e",+
+"!o",-
+"!i,",-
+"]z",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),5)

@@ -1,0 +1,25 @@
+// example 
+"AvdRIDoSnT",+
+";Qjd",-
+"hNT^*",-
+"QcePQF",+
+"PmApdXE",+
+"_(",-
+"aBYgVcXz",+
+"_",-
+"|@=R",-
+"ZWOvalbBq",+
+"",-
+"7`",-
+"AvdRIDoSnv",+
+"}",-
+"ZWOvalbBG",+
+"n~x",-
+"PmApdXz",+
+"QcePQo",+
+"aBYgVcXX",+
+"hNTi[",-
+"nW~",-
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),6)

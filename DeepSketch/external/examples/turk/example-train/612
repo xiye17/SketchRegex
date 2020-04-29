@@ -1,0 +1,25 @@
+// example 
+"\",-
+"SUD",+
+"zSAM",+
+"u",-
+"H^4}",-
+"vFGHV",+
+"kCW",+
+"fX",+
+"Ev)",-
+"YIUQO",+
+"YTEY",+
+"",-
+"E&>",-
+"[\akR",-
+"H2VZ",-
+"RWCTAA",+
+"%o",-
+"|5:#;",-
+"OI",+
+"cRPQLQ",+
+"]?",-
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,1))

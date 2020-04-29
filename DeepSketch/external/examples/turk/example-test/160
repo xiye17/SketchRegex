@@ -1,0 +1,25 @@
+// example 
+"\",-
+"CuW",-
+"CEaXMyPOzAr",+
+"TgQnOGZg",+
+"CEaXMyPOzbj",+
+"gSmdQWmZu",+
+"FqR`]",-
+"FqR{B",-
+"",-
+"JeZOiLi",+
+"aXerElBuwx",+
+"TgQnOGas",+
+"gSmdQWmir",+
+"S",-
+"aXerElBuVr",+
+"H|",-
+"]\.",-
+"JeZOitv",+
+"|J]D",-
+"_yhl",-
+"]?",-
+
+// ground truth 
+concat(repeatatleast(<let>,6),<low>)

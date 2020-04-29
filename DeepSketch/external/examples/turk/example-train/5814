@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"!E{Ru",+
+"B8!",-
+"!btD",-
+"B8L",-
+"h!A#M=",+
+"!~Si/",+
+"!",-
+"b!U",+
+"h!o{f-",+
+"d",-
+"!btk",-
+"",-
+"!T",-
+"!p-{t",-
+"!p-{b",-
+"b!u",+
+"!f",-
+"c!Ta",+
+"!a",+
+"c!Te",+
+
+// ground truth 
+concat(endwith(<m0>),contain(<vow>))

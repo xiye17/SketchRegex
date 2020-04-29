@@ -1,0 +1,17 @@
+// example 
+"O!",+
+"o",-
+"fyT+",-
+"i}",-
+"",-
+"i`",-
+"IB%n",-
+"OF",+
+"U}YFw",-
+"{8e->",-
+"U?C",-
+"I",-
+"U^r",-
+
+// ground truth 
+concat(<vow>,or(<let>,<m0>))

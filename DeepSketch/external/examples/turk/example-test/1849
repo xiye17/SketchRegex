@@ -1,0 +1,17 @@
+// example 
+"O{",+
+"b",+
+"LS6&6",+
+"",+
+"OX",+
+"T:"YC",+
+"e",+
+"Iw",-
+"E3U",+
+"op",-
+"U21(",+
+"U|,v",+
+"E{Z",+
+
+// ground truth 
+not(concat(<vow>,<low>))

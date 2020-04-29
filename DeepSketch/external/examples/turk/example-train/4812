@@ -1,0 +1,25 @@
+// example 
+"fD",+
+"ah=",-
+"KBJ",+
+"Fblcc",+
+"u",-
+"KBC",+
+"CBQJ",+
+"BOk/Q",-
+"CBQt",+
+"FblcR",+
+"fuZo",-
+"b",+
+"e",-
+"",+
+"fN",+
+"oo",-
+"BhNae",-
+"M",+
+"}o",-
+"o|}t",-
+"GDo",-
+
+// ground truth 
+not(contain(<vow>))

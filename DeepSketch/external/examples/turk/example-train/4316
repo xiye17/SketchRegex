@@ -1,0 +1,17 @@
+// example 
+"CMa+M",-
+"JO",+
+"|W",-
+"W",-
+"JU",+
+"EI&",-
+"_",-
+"AAgN",-
+"",-
+"^T",-
+"EJf",-
+"AO7m",-
+"}DOw|",-
+
+// ground truth 
+concat(<let>,and(<cap>,<vow>))

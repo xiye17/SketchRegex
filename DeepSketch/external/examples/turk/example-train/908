@@ -1,0 +1,16 @@
+// example 
+"",+
+";",+
+""5ejm",+
+""ri",+
+"4",-
+"%5R0",+
+"cP3,!",+
+"yT3x",+
+"QKu",+
+"9U",+
+"-T",+
+""",+
+
+// ground truth 
+or(contain(<low>),not(<num>))

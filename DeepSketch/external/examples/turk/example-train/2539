@@ -1,0 +1,17 @@
+// example 
+"!P^",-
+"u2",-
+"!",-
+"~h3e",-
+"^vii",-
+"",-
+"!G",+
+"zE",+
+"}",-
+"!.O",-
+"u}",-
+"y.c-a",-
+"yhC+0",-
+
+// ground truth 
+concat(or(<let>,<m0>),<cap>)

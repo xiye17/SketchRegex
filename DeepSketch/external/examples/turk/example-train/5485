@@ -1,0 +1,25 @@
+// example 
+"]",-
+"CPD5",+
+"hXw",+
+"PF",-
+"IhkhzW}",+
+"*~vI",-
+"}*N-",-
+"hXK",+
+"",-
+";",-
+"Pf",-
+"2UV9:",-
+"ezeKhV",+
+"76G",-
+"z6~",-
+"pUUH?",+
+"W{S$3",-
+"CPD{",+
+"pUUH|",+
+"ezeKh~",+
+"IhkhzWi",+
+
+// ground truth 
+concat(repeatatleast(<let>,2),<any>)

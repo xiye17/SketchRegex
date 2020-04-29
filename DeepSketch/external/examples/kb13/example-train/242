@@ -1,0 +1,25 @@
+// example 
+"$~p`)gTZ",+
+"bra\",-
+"$~p`)gTl",+
+"^`,",-
+"_]jbAQ",+
+"^`]",-
+"/b",-
+"KIls",+
+"2dpVK",+
+"",-
+"9AT/^bL",+
+"2dpVc",+
+"}",-
+"[{iVh",-
+"KIlY",+
+"bra|",-
+"O",-
+"/C",-
+"_]jbAs",+
+"[{iV/",-
+"9AT/^bj",+
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),4)

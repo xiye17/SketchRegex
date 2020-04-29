@@ -1,0 +1,25 @@
+// example 
+"OuVUVs",+
+"JqcEOQO",+
+"vNU",-
+"EUp1c",-
+"iGIu",+
+"",-
+"iEo",+
+"r~",-
+"JqcEOo+",+
+"ri",-
+"iGIe",+
+"U",-
+"iEI",+
+"K",-
+"gNIIi",+
+"Uokg",-
+"EUp1B",-
+"OuVlU`",+
+"gNIIe",+
+"vNi",-
+"Uokk",-
+
+// ground truth 
+repeat(contain(<vow>),3)

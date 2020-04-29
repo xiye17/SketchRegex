@@ -1,0 +1,25 @@
+// example 
+"upubIk",+
+"O|",-
+"upubam",+
+"AqabIfojul",+
+"etaw",+
+"EzQ",-
+"eiS|i",-
+"uh",+
+"esatutam",+
+"O1",-
+"eiCb]",-
+"",-
+"etiw",+
+"EeU}",-
+"esatutup",+
+"i",-
+"Et",+
+"U",-
+"EeU!",-
+"Ezu",-
+"AqabIfojEu",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),1)

@@ -1,0 +1,18 @@
+// examples
+"aaaaaa",+
+"aeioua",+
+"AEIOUa",+
+"111111",+
+"abcdef",+
+"abc123",+
+"abcdef123",+
+"",-
+" ",-
+"1",-
+"a",-
+"12",-
+"123",-
+"1345",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),6)

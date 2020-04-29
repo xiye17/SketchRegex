@@ -1,0 +1,16 @@
+// example 
+"",+
+"$2l",+
+"%rcQz",+
+";",+
+"4EH{",+
+"7",-
+"YP",+
+"1gTJk",+
+"13L",+
+"UMrA",+
+"3j",+
+"$",+
+
+// ground truth 
+or(endwith(<m0>),not(<num>))

@@ -1,0 +1,25 @@
+// example 
+"5T!I}",+
+"BSe!^T",+
+"Cs!8q.M",+
+".\B5HK",-
+"#L`L]\xLP",-
+"8>!K",+
+"",-
+"BSeKc!",+
+"JE",-
+"5!%"e",+
+"68T~",-
+">O[Zrmc",-
+"P!",+
+"s.!",+
+"8>#!",+
+"7",-
+"C!bSevy",+
+"YSpUq&fF",-
+"u3>@3",-
+"U?J",-
+"s!^",+
+
+// ground truth 
+contain(concat(or(<any>,<cap>),<m0>))

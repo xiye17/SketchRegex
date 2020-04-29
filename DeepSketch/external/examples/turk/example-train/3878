@@ -1,0 +1,25 @@
+// example 
+"hw~|]",-
+">qs[xy",+
+">qs[Hq",+
+"}${",-
+"hbd",+
+"}$&",-
+"5^Wpe",+
+"^~gc",+
+"",-
+"|",-
+"Dz",+
+"C{|z",-
+"hIs",+
+"^~Tv",+
+"u~",-
+"hw~|4",-
+"C{|@",-
+"cn",+
+"5^WCr",+
+"B",-
+"uR",-
+
+// ground truth 
+endwith(concat(<let>,<low>))

@@ -1,0 +1,26 @@
+// example 
+"Pzf}",-
+"^0JH",+
+"Pzff",-
+"D_{]G",+
+"&bL^{",-
+"8\c",-
+"D_{}J",+
+"[*",-
+"*",-
+"KeT",+
+"[^",-
+"",-
+"`",-
+"t[=&FA",+
+"P",+
+"_G",+
+"t[=&rY",+
+"&bL^i",-
+"SD",+
+"^0qW",+
+"8\4",-
+"KFJ",+
+
+// ground truth 
+endwith(or(repeatatleast(<low>,7),<cap>))

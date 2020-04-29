@@ -1,0 +1,16 @@
+// example 
+"(U-t",-
+"!1W",+
+"!5",-
+"Cn_",-
+"!.,",-
+"m`m#Y",-
+"!2FzZ",-
+"!",-
+"dH",-
+"",-
+"!aq)",-
+"a",-
+
+// ground truth 
+concat(concat(<m0>,<num>),<cap>)

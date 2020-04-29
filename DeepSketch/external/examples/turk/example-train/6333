@@ -1,0 +1,20 @@
+// example 
+"h/?]lWh<e50/(Z",+
+"yEve",-
+"<AXP@t(]=T2jJ]5",+
+"$/S#\lml1nB",+
+"T{",-
+"h\l!`HWMzh@7",+
+"H9zTU/",+
+"otN<71?eBc",+
+">f9q|J+*",+
+"h+BL4XQkg",+
+"",-
+"c",-
+"CAghQ",-
+"XqPh/KL",+
+"@_@!GmhQ08_~Y",+
+"Z|@",-
+
+// ground truth 
+endwith(repeatatleast(or(<any>,<m0>),6))

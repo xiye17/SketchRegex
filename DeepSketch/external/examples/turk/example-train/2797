@@ -1,0 +1,21 @@
+// example 
+"?[Zi)*Xq]@Z>$cA",+
+"vJP$."F)`i>j",+
+"a830I",-
+"ty4v9KDa",+
+".=XM8B*kEloa`#W1",+
+"`=((Q/J",+
+"_r?m",-
+"'C",-
+"}Wf6Xoy]i--S(S",+
+"",-
+"M6i$2nMI6!c",+
+"b&+X'B",-
+")yz",-
+""Hk#oqT],1",+
+"F3z+;DQU}79T1",+
+"VeWhI8FXW",+
+"L",-
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),7)

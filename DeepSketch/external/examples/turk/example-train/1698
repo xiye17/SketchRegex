@@ -1,0 +1,25 @@
+// example 
+"EjZoy",+
+"S{b[z",-
+"bhp`-",+
+"We1Qq]",+
+"li",+
+"v}9B",-
+"+",-
+"c\",-
+"SSmG$",-
+"^",-
+"",-
+"Xi0z",+
+"Kc",+
+"Son",+
+"c}",-
+"r{j",-
+"{}VT",-
+"cg!",+
+"yt%>",+
+"rE2",-
+"beg?Y]",+
+
+// ground truth 
+startwith(concat(<let>,<low>))

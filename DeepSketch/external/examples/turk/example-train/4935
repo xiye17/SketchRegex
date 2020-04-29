@@ -1,0 +1,15 @@
+// example 
+"yI",+
+"Y,P",+
+"Ct&)J++QIo",+
+"Uh"AnWT",+
+"H",+
+"BxA$",+
+"NZC4\u.8",+
+"Z\<!3CH$y",+
+"Ur!sd",+
+"1CPLkm",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<low>),1)

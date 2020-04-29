@@ -1,0 +1,14 @@
+// example 
+"",+
+",ZM$uMy",+
+"h",+
+"*h",+
+"lf5PF*",+
+"$nJnn",+
+"'L/Ix@OL",+
+"JG;",+
+"Gj^r!fj*G",+
+"BM%3",+
+
+// ground truth 
+contain(not(repeatatleast(<m0>,4)))

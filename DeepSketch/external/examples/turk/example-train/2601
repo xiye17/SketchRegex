@@ -1,0 +1,14 @@
+// example 
+"",+
+"d",+
+"|r",+
+"Bt;C_K",+
+"kREX[k`4j",+
+"}GKj6C(#",+
+"w>Jo",+
+"{^Nfd",+
+";&?]86a",+
+"!NX",+
+
+// ground truth 
+star(contain(not(<vow>)))

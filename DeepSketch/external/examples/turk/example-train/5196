@@ -1,0 +1,17 @@
+// example 
+"0HxP",+
+"0HQXq",+
+"W",-
+"",-
+"QrN>h>(Y+794",+
+".KlgEJIO~",+
+"?!",-
+"c'1",+
+"X\"y=_4",+
+""Rpn+`Rlr~R",+
+"$]^We:$lc.",+
+"$+Z.A:",+
+"#mS,$9Mi",+
+
+// ground truth 
+startwith(repeatatleast(or(<any>,<low>),3))

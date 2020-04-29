@@ -1,0 +1,17 @@
+// example 
+"AG",-
+"x-G",-
+"H&d",-
+"",-
+"dqcCQ",-
+"N",-
+"UOggV",-
+"A{",-
+"O{%B",-
+"Ig",+
+"pJ]G",-
+"Ap",+
+"H",-
+
+// ground truth 
+concat(or(or(<num>,<vow>),<m0>),<low>)

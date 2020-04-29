@@ -1,0 +1,22 @@
+// example 
+"FH.AnT|BPAwDrI",+
+">//I",-
+"@UR:M",-
+">^8"",-
+"gPRKEGOZ/NzX+SIN&L",+
+",Q'IXB@G@KJG",+
+"<OfBvWlCSF",+
+"QLfXsZ7P",+
+"PV",-
+"EN2V{KYQ2JdYDMzD",+
+"",-
+"@kLit",-
+"ZMY",-
+"T",-
+"lVdB^W",+
+"P4",-
+"Z{c",-
+"WDCF@CWM^V\BZO*F&BUS",+
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),3)

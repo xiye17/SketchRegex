@@ -1,0 +1,17 @@
+// example 
+"{93",-
+"vb",-
+"Q\8%",-
+"",-
+"U!",+
+"UHSG",-
+"a!",+
+"T",-
+"zQu8~",-
+"^~M",-
+"lW6vA",-
+"E",-
+"a8",-
+
+// ground truth 
+concat(<vow>,and(<any>,<m0>))

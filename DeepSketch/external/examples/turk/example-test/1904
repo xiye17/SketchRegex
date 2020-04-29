@@ -1,0 +1,14 @@
+// example 
+"",+
+"Tl",+
+"B7lh",+
+"_8TG?@",+
+"Tl,X!$Z`q",+
+"?-7Eh^o",+
+"m",+
+"c|Q",+
+"]M`=0",+
+"H9t1Y/w)",+
+
+// ground truth 
+not(and(repeatatleast(<cap>,1),<m0>))

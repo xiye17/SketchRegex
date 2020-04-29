@@ -1,0 +1,14 @@
+// example 
+"",+
+"1=21SW",+
+"(PA6D>a",+
+"5mBZ",+
+"ED<",+
+"/7EN`-Y7",+
+"=K,|v",+
+"Q}ILqXA\z",+
+"g.",+
+"|",+
+
+// ground truth 
+not(and(and(<m0>,<cap>),<any>))

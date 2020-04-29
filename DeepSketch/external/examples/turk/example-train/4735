@@ -1,0 +1,16 @@
+// example 
+"!&+j",-
+"/SGPX",-
+"!4",-
+"!MV",-
+"!tT04",-
+"!M5",-
+"!v^Z",-
+"g+",-
+"!",-
+"v",-
+"!O@",+
+"",-
+
+// ground truth 
+concat(concat(<m0>,<cap>),<m1>)

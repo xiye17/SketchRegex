@@ -1,0 +1,14 @@
+// example 
+"",+
+"&TUZi",+
+"~)",+
+"~[r",+
+"ybp>",+
+"4_pm"8&k",+
+"x+]8Q'}",+
+",AxYl7[`x",+
+"u",+
+"Ex@^hE",+
+
+// ground truth 
+startwith(or(star(<low>),<m0>))

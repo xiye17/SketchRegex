@@ -1,0 +1,25 @@
+// example 
+"xg]LT",+
+"Uie",-
+"iEaU",-
+"auiOU",-
+"Oe",-
+"K)"@W",+
+"aiIiEa",-
+"AUih",+
+"",+
+"MS",+
+"iK",+
+"IO)",+
+"i",+
+"O",+
+"iEaO",-
+"UiI",-
+"aiIiEI",-
+"AUiL",+
+"auiOE",-
+"OU",-
+"IOK",+
+
+// ground truth 
+not(repeatatleast(<vow>,2))

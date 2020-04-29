@@ -1,0 +1,25 @@
+// example 
+"mDjtD",-
+"KDi/",+
+"nck",-
+"Lg",-
+"U",+
+"nc~",-
+"X",-
+"tkJJ",-
+"",-
+"c",-
+"KDER",+
+"mDjt{",-
+"u1Uq9",+
+"jaF",+
+"tkJt",-
+"u",+
+"LD",-
+"OigbG",+
+"ef",+
+"jCu",+
+"pu",+
+
+// ground truth 
+contain(concat(star(<let>),<vow>))

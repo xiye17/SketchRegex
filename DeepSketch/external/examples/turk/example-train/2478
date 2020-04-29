@@ -1,0 +1,14 @@
+// example 
+"",+
+"DB",+
+"gH*>P",+
+"R",+
+"S,S(d6>:",+
+"U#k",+
+"L2A4",+
+":]Xp/6",+
+"W8!R@bmO:",+
+"i)f]Kg5",+
+
+// ground truth 
+endwith(contain(not(<m0>)))

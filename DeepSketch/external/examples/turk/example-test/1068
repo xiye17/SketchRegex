@@ -1,0 +1,17 @@
+// example 
+"!_",-
+"!m<3",-
+"nlNuE",-
+"!",-
+",Q",-
+"",-
+"!`z",-
+"!I#;",-
+"!d*if",-
+"!Z",+
+"ZnU",-
+"y",-
+"!g",+
+
+// ground truth 
+concat(<m0>,or(or(<let>,<cap>),<m1>))

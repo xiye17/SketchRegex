@@ -1,0 +1,14 @@
+// example 
+"",+
+"B^}vJJpY",+
+"a*}C\5}"X",+
+"^Lq%}!z",+
+"Q",+
+"Bgc",+
+"3tq2",+
+"ut[_uZ",+
+".b|%$",+
+"6B",+
+
+// ground truth 
+star(contain(or(or(<any>,<let>),<m0>)))

@@ -1,0 +1,25 @@
+// example 
+"kD}",-
+".dSA",+
+"/TlPD",+
+"fTs",+
+"^}",-
+"*",-
+"fTH",+
+"O{rd[",-
+"l]DhdQw",+
+"",-
+"^x",-
+"}eqgJD",+
+"V{a{",-
+".dSd",+
+"kD2",-
+"O{rd}",-
+"V{a:",-
+"}eqgJu",+
+"/TlPf",+
+"l]DhdQV",+
+"~",-
+
+// ground truth 
+concat(endwith(<low>),concat(<cap>,<let>))

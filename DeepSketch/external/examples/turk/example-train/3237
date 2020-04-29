@@ -1,0 +1,24 @@
+// example 
+"XSK",+
+"Xuz",+
+"-|",-
+"@3:No",-
+"",-
+"FQ",+
+"p||z",-
+"-?",-
+"MM<_=r",+
+"@^;{S",-
+"-D@_+",+
+"p\R%",-
+"MiUz"R",+
+"Fv",+
+"PhzW",+
+"PUnx",+
+"-a.VG",+
+"Y-{",-
+"z",-
+"Y~V",-
+
+// ground truth 
+startwith(concat(<any>,<let>))

@@ -1,0 +1,17 @@
+// example 
+"VR",-
+">rX9",-
+"",-
+"dUkyh",-
+"=",-
+"ksY",-
+"!U",+
+"Vw",-
+"uIbX",-
+"dkHh?",-
+"!o",+
+"kOM",-
+"{",-
+
+// ground truth 
+concat(or(or(<cap>,<low>),<m0>),<vow>)

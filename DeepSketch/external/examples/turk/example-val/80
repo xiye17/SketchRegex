@@ -1,0 +1,21 @@
+// example 
+"F",-
+"G**",-
+"P!S!N!W!O!1",+
+"H!W!K!R!P!K!9",+
+"4n]",-
+""_",-
+"U!G!O!L!O!Q!R!4",+
+"W!C!C!V!7",+
+"",-
+"XFVrB",-
+"S!S!U!C!V!G!K!V!G!4",+
+"S!",-
+"0)RW",-
+"A!12",-
+"6",-
+"X!q>I",-
+"D!Y!A!H!W!R!F!N!6",+
+
+// ground truth 
+concat(repeatatleast(concat(<cap>,<m0>),4),<num>)

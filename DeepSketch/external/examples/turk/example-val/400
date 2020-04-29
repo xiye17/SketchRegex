@@ -1,0 +1,25 @@
+// example 
+"tci",+
+"}}]",-
+"qfp'",-
+"_9]NM",-
+"_9]NP",-
+"_\",-
+"",-
+"kA",+
+"qfpT",-
+"XTjwLO",+
+"f",-
+"|",-
+"tcE",+
+"|mI8",+
+"|mia",+
+"iELMF",+
+"igzA=",+
+"kU",+
+"XTjUC1",+
+"_}",-
+"}}G",-
+
+// ground truth 
+endwith(contain(concat(<let>,<vow>)))

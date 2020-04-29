@@ -1,0 +1,17 @@
+// example 
+"|^4",-
+"}X",-
+"xE|{",-
+"Kt[cx",-
+"skE",-
+"eR",-
+"",-
+"ci",+
+"|",-
+"cU",+
+"h",-
+"4Kzn=",-
+"]AVu",-
+
+// ground truth 
+concat(or(<cap>,<let>),<vow>)

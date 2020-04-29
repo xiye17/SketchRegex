@@ -1,0 +1,25 @@
+// example 
+"5E3D",+
+"3L1I2a2b",+
+"6n1A1H",+
+"4N",-
+"5^'hr",-
+"6n1A1u",+
+"5E3k",+
+"4:",-
+"7z1O6H0U7y",+
+"5h.h/",-
+"3L1I2a2H",+
+"7z1O6H0U7N",+
+"-",-
+"",-
+"9b6",-
+":",-
+"95L",-
+"7E1T5A5Z4L8p",+
+"$HKL",-
+"z5~8",-
+"7E1T5A5Z4L8E",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),2)

@@ -1,0 +1,25 @@
+// example 
+"pekqkldo",+
+"}1Z",-
+"gfqstrtcz",+
+"!1X",-
+"rqs",+
+"jxvpm",+
+"nguj",+
+"!",+
+"dmgdpjz",+
+"",-
+"k}",-
+"h}q|",-
+"zw",+
+"|:",-
+"|",-
+"gt{NE",-
+"{Be]'",-
+"hs|k",-
+"v",+
+"@",-
+"fzcbeh",+
+
+// ground truth 
+or(repeatatleast(<low>,1),<m0>)

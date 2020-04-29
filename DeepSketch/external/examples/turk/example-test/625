@@ -1,0 +1,16 @@
+// example 
+"T,",-
+"v!5",-
+"/t.F",-
+";`u$~",-
+"T{",-
+";j_fp",-
+"gW",+
+"5",-
+"g!",+
+"",-
+"/FIf",-
+"v-*",-
+
+// ground truth 
+concat(<any>,or(or(<let>,<vow>),<m0>))

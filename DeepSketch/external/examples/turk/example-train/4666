@@ -1,0 +1,25 @@
+// example 
+"rzA{{FPH",+
+">ZLZ",-
+"iE/IljJY*X0h",+
+"t3]d9`eZZ",+
+"vTwl^A?dvQ",+
+"sI2HE,B3/O9h`~*",+
+"vN8+X",-
+"W",-
+"s&zb12"_2W5",+
+"8vj",-
+"",-
+"gx;8vtI2"|yBkH}g",+
+"l"'5!4~R8\2Tm",+
+"|",-
+"ooU%",-
+"{|"}T",-
+"v*x",-
+"&8",-
+"gAq-`|:q3$1-#J",+
+"rV;Vg>dA@q$beb%`]",+
+"}?",-
+
+// ground truth 
+concat(<low>,repeatatleast(<any>,7))

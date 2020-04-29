@@ -1,0 +1,18 @@
+// example 
+"BJ?JVY*;p",-
+"*T>=7Io",-
+"Ev",+
+"(59K*8/i1U%",-
+"qo21",-
+"7*1%?/q9b515e",-
+"",+
+"TQ!",+
+".ex6~#",-
+"VE2'kx0,kR$J",-
+"y{=pd)UI43",-
+"TUz8v~H)",-
+"O",+
+"Zl:b4",-
+
+// ground truth 
+not(repeatatleast(<any>,4))

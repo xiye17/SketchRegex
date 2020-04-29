@@ -1,0 +1,14 @@
+// example 
+"",+
+"{+9J\vT",+
+"aMijT%{Jv",+
+"Gg{",+
+"/fPj$[Ir",+
+"J",+
+"V>k|U",+
+")P\6#"",+
+"b5",+
+"hYOG",+
+
+// ground truth 
+not(and(contain(<m0>),<low>))

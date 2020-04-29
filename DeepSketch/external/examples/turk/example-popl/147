@@ -1,0 +1,18 @@
+// examples
+"s",+
+"1",+
+"!",+
+"sd1",+
+"fd3",+
+"d!",+
+"s3a",+
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+
+// ground truth 
+endwith(or(repeatatleast(<any>,1),<num>))

@@ -1,0 +1,25 @@
+// example 
+"UY",+
+"E!",+
+"zB",-
+"M,O;",+
+"EP*",+
+"HN'",-
+"KGJCE",+
+"Gw]S",-
+"KGJCO",+
+"",-
+"zK",-
+"I`i",+
+":",-
+"HNB",-
+".F?XG",-
+".F?XN",-
+"O",+
+"Gw]F",-
+"I",+
+"J",-
+"M,MI",+
+
+// ground truth 
+contain(and(and(<vow>,<cap>),<let>))

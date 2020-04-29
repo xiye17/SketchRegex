@@ -1,0 +1,17 @@
+// example 
+"!xA",+
+"!w",-
+"!xO",+
+"!",-
+"",-
+"c",-
+"!Sy0",-
+"!SI4",-
+"!n4",-
+"!~LXp",-
+"Ts",-
+"!n|",-
+"!sj.V",-
+
+// ground truth 
+concat(concat(<m0>,<let>),<vow>)

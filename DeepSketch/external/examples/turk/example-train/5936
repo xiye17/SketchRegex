@@ -1,0 +1,25 @@
+// example 
+"D",+
+"UqI",-
+"[~[[0",+
+"li",-
+">v",+
+"UqE",-
+"~]yBgu",-
+">`",+
+"[~[[Y",+
+"n5S]",+
+"la",-
+"",+
+"TiIo",-
+"[\F",+
+"vRlsU",-
+"TiIA",-
+"v",+
+"~]yBga",-
+"n5Sv",+
+"[\`",+
+"vRlsI",-
+
+// ground truth 
+not(concat(endwith(<let>),<vow>))

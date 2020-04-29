@@ -1,0 +1,23 @@
+// example 
+"O!o!o!I!I!E!E!a!o!",+
+"At",-
+"dn4uN",-
+"o!m",-
+"e",-
+"",-
+"o]N^7",-
+"hk",-
+"a!u!A!A!A!U!i!E!u!E!",+
+"i",-
+"~D(C",-
+"I!I!u!A!U!E!E!U!",+
+"hV.",-
+"e!U!o!o!A!e!a!",+
+"O!o!o!I!I!E!E!a!E!",+
+"e!U!o!o!A!e!A!",+
+"I!I!u!A!U!E!E!o!",+
+"a!u!A!A!A!U!i!E!u!I!",+
+"rV.z",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<m0>),7)

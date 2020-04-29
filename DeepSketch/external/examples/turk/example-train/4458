@@ -1,0 +1,14 @@
+// example 
+"",+
+"Z0$pKg4",+
+"U@l8l",+
+"'}_Wk=",+
+"OW!Q4r*I",+
+"p2f]`WOo)",+
+"%kz",+
+"0Bx'",+
+"|",+
+"];",+
+
+// ground truth 
+not(and(and(<any>,<let>),<m0>))

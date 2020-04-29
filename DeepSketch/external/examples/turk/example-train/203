@@ -1,0 +1,20 @@
+// example 
+"6t5x7i6o5l5k7g2n1c1t",+
+"0",-
+"\",-
+"5c8y2j9w8u8v6x5l",+
+"3b4v0y6d1j8f7c",+
+"1~P",-
+"6z4j3q0t9q5e6f2s0z",+
+"#!qO",-
+"3f",-
+"",-
+"1e2",-
+"*f|DS",-
+"3~",-
+"KG~#C",-
+"{#(`",-
+"5q3u8m9m4z4q",+
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),6)

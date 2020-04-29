@@ -1,0 +1,25 @@
+// example 
+"!~9",-
+"!x#s",+
+"!h}k.sHW,8F",+
+"!|",-
+"!#3J",-
+"!5"",-
+"!{=~",-
+"!zW<J_#e",+
+"!s(j,cr=qv",+
+"!",-
+"!lv>Y<1",+
+"!vF>~ZF#r",+
+"",-
+"$yfNu",-
+"!iL",+
+"gF",-
+"!z<m0",+
+"w",-
+"!h",+
+"!f{1t?",+
+"!{x|.",-
+
+// ground truth 
+repeatatleast(startwith(concat(<m0>,<low>)),1)

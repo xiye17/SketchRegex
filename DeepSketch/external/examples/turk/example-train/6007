@@ -1,0 +1,17 @@
+// example 
+"u",-
+"C!",+
+"a!E",-
+"",-
+"\/d:5",-
+"wu?\",-
+"=eow'",-
+"ay.",-
+"qa",-
+"Xp",-
+"o!",+
+"_'@|",-
+"~",-
+
+// ground truth 
+concat(and(<any>,<let>),<m0>)

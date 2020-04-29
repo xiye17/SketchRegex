@@ -1,0 +1,15 @@
+// example 
+"qUC",+
+"#Fz`)qP[fm",+
+"&75+{{x",+
+"U",+
+"gVuKQfRn",+
+"};dq)",+
+"e=3Mu*HF#",+
+"Da",+
+"+&QM",+
+"",-
+"X~t~eb",+
+
+// ground truth 
+contain(or(or(<any>,<let>),<cap>))

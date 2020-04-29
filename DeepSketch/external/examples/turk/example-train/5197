@@ -1,0 +1,25 @@
+// example 
+"to\u}",+
+"le",+
+"t",-
+"o",+
+"utI",+
+"2]5",-
+"b-",-
+"4f[p",-
+"lU",+
+"hhne",+
+"",-
+"4f[l",-
+"l;h1k",-
+"e",+
+"h",-
+"b\",-
+"av4",+
+"eZ7N-",+
+"he]B",+
+"l;h1[",-
+"2]]",-
+
+// ground truth 
+contain(or(<vow>,<cap>))

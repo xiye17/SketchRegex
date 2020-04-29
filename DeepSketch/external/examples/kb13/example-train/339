@@ -1,0 +1,25 @@
+// example 
+"qYN*!I[",+
+"-w",-
+"7#,;.!",+
+",0Xa_!e?[",+
+"BhQ!",+
+"l]tW",-
+"@*{$Q",-
+"",-
+"&",-
+":q&!C",+
+":q&'!",+
+"7#,!]b",+
+"aRqVjH35",-
+",0Xa__!p>",+
+"o"pWPji!",+
+"o"pWPj!Q",+
+"!~o,OF",-
+"n79Nq(u$,",-
+"qYN!{x-",+
+"wD$+'xh",-
+"U.D",-
+
+// ground truth 
+concat(endwith(repeat(<any>,3)),startwith(<m0>))

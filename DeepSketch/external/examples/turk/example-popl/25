@@ -1,0 +1,18 @@
+// examples
+"aa",+
+"aaa",+
+"aaaa",+
+"aaaaa",+
+"aaaaaa",+
+"aaaaaaa",+
+"aaaaaaaa",+
+"@a",-
+"@b",-
+"!a",-
+"Aa",-
+"0a",-
+"1a",-
+"A",-
+
+// ground truth 
+star(concat(<low>,contain(<let>)))

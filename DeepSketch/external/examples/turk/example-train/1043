@@ -1,0 +1,15 @@
+// example 
+"W~{h",-
+"2m",-
+"W@W0",-
+"X@5",-
+"29",-
+"7",-
+"u@",+
+"XqD",-
+"J@T@z",-
+"",-
+"J!FI>",-
+
+// ground truth 
+concat(or(or(<vow>,<any>),<m0>),<m1>)

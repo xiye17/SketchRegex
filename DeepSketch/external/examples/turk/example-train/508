@@ -1,0 +1,16 @@
+// example 
+"Q&0",-
+"3bFe)",-
+"sG9.s",-
+"q",-
+"S~,d",-
+"C}",-
+"Bl8",+
+"M",-
+"CS",-
+"i41",-
+"S<0i",-
+"",-
+
+// ground truth 
+concat(<cap>,concat(<low>,<num>))

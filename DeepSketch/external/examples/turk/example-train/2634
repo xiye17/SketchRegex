@@ -1,0 +1,24 @@
+// example 
+"vod",-
+"&yHw",-
+"`oTeY",-
+"`oTet",-
+"Sq",-
+"",-
+"}",-
+"sI",+
+"=ePItO",+
+"Sv",-
+"#DuFA",+
+"@bo",+
+"#DuFi",+
+"zI]e",+
+"zI]E",+
+"&yHh",-
+"sO",+
+"@ba",+
+"=ePItu",+
+"voN",-
+
+// ground truth 
+concat(startwith(<any>),<vow>)

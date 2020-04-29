@@ -1,0 +1,17 @@
+// example 
+"RHQZ",-
+"A2",+
+"CsK7",-
+"GR",-
+";'F",-
+"F7X`}",-
+"",-
+"O5",+
+"O",-
+"P\%",-
+"A",-
+"A:",-
+"DUUVd",-
+
+// ground truth 
+concat(and(<vow>,<cap>),<num>)

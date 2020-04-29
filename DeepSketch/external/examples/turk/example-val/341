@@ -1,0 +1,14 @@
+// example 
+"",+
+"1r.1m)",+
+"DHE",+
+"C]Lug=Dr~",+
+"h.!s^",+
+""ygk",+
+"s.Y<&J5:",+
+"R,",+
+"b",+
+"];k35P3",+
+
+// ground truth 
+contain(not(and(<m0>,<any>)))

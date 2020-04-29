@@ -1,0 +1,25 @@
+// example 
+"`eF7",-
+"#vOZ",+
+";G_amx",+
+"VxKCs",+
+"{|",-
+"0}~",-
+"{RZ",+
+"{Rp",+
+"VxKCJ",+
+"4",-
+"mD",+
+"mv",+
+"",-
+";G_amB",+
+"S6GQ<",-
+"S6GQ~",-
+"#vOi",+
+"0}0",-
+"{>",-
+"`eF\",-
+"z",-
+
+// ground truth 
+endwith(repeatatleast(<let>,2))

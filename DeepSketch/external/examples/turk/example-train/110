@@ -1,0 +1,26 @@
+// example 
+"Im",+
+"cgvm",+
+"WavBSh",+
+"/",-
+"Y{G=i",-
+"m",+
+"Jv|",-
+"EVTlw",+
+"zfu",+
+"Y`6|^",-
+"",-
+"WavBwd",+
+"3b",-
+"Jv[",-
+"%3=K",-
+"cgMb",+
+"EVTYq",+
+"|`",-
+"er",+
+"`Gcd",-
+"zTw",+
+"~",-
+
+// ground truth 
+and(endwith(<low>),star(<let>))

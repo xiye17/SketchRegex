@@ -1,0 +1,25 @@
+// example 
+"E^(S%bbRzU",+
+"Aa{GJ=x(6Z",+
+"g9",-
+"CZJk$",-
+"e>)vW>YP",+
+"aR+UjKWJbQ+",+
+"",-
+"U3+%i<h%5Wz",+
+"Q",-
+"e]:d",-
+"A>FbhuIsPE/4",+
+"o?c",-
+"Ij~9*CSf6(<}",+
+"U9=jV"z=c",+
+"Jn",-
+"Epwe",-
+"K",-
+"Eh.",-
+"wuKpU",-
+"Uc)rg'.j",+
+"o3{}g=BFy",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<any>,7))

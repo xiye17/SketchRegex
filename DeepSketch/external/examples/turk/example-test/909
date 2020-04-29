@@ -1,0 +1,25 @@
+// example 
+"[",-
+"rmyn",+
+"5*^V",-
+"i{W@d",-
+"a",+
+"hyg",+
+"",-
+"|dS",-
+"Bg}!",-
+"em",+
+"Yxr",+
+"iTL%q",-
+"Kzsjp",+
+"83",-
+"^Q",-
+"H",+
+"punly",+
+"{",-
+"eRx",-
+"Ti",+
+"Lshg",+
+
+// ground truth 
+concat(<let>,star(<low>))

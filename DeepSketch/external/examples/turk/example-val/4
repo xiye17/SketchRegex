@@ -1,0 +1,16 @@
+// example 
+"Jwj",-
+"!GkxA",-
+"!r(4-",-
+"!Lu",-
+";Z|D",-
+"2",-
+"!"",-
+"!@"G",-
+"!",-
+"!K",+
+"",-
+"!j",-
+
+// ground truth 
+concat(and(<any>,<m0>),<cap>)

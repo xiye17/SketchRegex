@@ -1,0 +1,25 @@
+// example 
+"EqB{iE",+
+"EJE",-
+"E&",-
+"COuil",+
+"UcVO<",-
+"Uk",+
+"q$I<",-
+"bjuo",+
+"",-
+"q$I{",-
+"COuie",+
+"EJi",-
+"EqB{ih",+
+"U",-
+"R",-
+"UcVO~",-
+"dUe",+
+"bjuE",+
+"E`",-
+"dUi",+
+"UJ",+
+
+// ground truth 
+endwith(concat(<vow>,<let>))

@@ -1,0 +1,26 @@
+// example 
+"{|",-
+"|d}ykD",+
+"|d}Ixv",+
+"n~~y",-
+"hm",+
+"=rd",+
+"}}}zY",-
+"hkD",+
+"",-
+"o}~im",+
+"j7_|Vut",+
+"g",-
+"{C",-
+"Gp~",-
+"n~~~",-
+"j7_|twa",+
+"}}}z{",-
+"[|kq",+
+"o}qkP",+
+"Gp)",-
+"{",-
+"[=uk",+
+
+// ground truth 
+contain(endwith(repeatatleast(<low>,2)))

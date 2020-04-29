@@ -1,0 +1,17 @@
+// example 
+"!;swv",-
+"/;",-
+"!6B",-
+"!,i",+
+"!6;",-
+"!P",-
+"!",-
+"!Ezd",-
+"",-
+"B;T~p",-
+"!,e",+
+"L",-
+"!Efa",-
+
+// ground truth 
+concat(concat(<m0>,<any>),or(<num>,<vow>))

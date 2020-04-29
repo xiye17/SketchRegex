@@ -1,0 +1,16 @@
+// example 
+"",+
+"jg<Cb",+
+"G",+
+"{h.",+
+"M.W",+
+"n",-
+"~0",+
+"|Hhe",+
+"Y9a}*",+
+"E?",+
+"dG@c",+
+"{",+
+
+// ground truth 
+not(and(endwith(<let>),<low>))

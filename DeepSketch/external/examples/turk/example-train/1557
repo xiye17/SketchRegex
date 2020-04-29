@@ -1,0 +1,26 @@
+// example 
+"!Em/z9cS",+
+"!c@#",-
+"!c@w",-
+"!EmZ{Z">",+
+"!",-
+"!d>",-
+"*}#sp",-
+"!7qYPZQ",+
+"",-
+"!7UoTm*",+
+"!`D",+
+"!"ly=",-
+"!K-oY",+
+"!=",-
+"_D[",-
+"!E>l4T",+
+"vk",-
+"@",-
+"!E>llA",+
+"!"XG",+
+"!KGuA",+
+"!"kK",+
+
+// ground truth 
+concat(concat(<m0>,<any>),contain(<cap>))

@@ -1,0 +1,17 @@
+// example 
+"E",+
+"OX8",-
+"I-",-
+"Lc!K",-
+"Cz",-
+"Pt3",-
+"IUv9M",-
+"h3*#",-
+"AFqNV",-
+"",-
+"N",-
+"A",+
+"D",-
+
+// ground truth 
+and(repeatatleast(<cap>,1),or(or(<m0>,<m1>),<vow>))

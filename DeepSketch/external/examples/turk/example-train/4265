@@ -1,0 +1,25 @@
+// example 
+"%6)p",-
+"PN6H71744",+
+"?i#",-
+"B342JYW543",+
+"2M8JMDJON1J",+
+"79X9724",+
+""E<",-
+"",-
+"%",-
+"687RVRJL",+
+"B342JYW54U",+
+"2M8JMDJON19",+
+"3<Cft",-
+"39A)A",-
+"79X972H",+
+"=",-
+"PN6H7174A",+
+"687RVRJ1",+
+"9u",-
+"|M3u",-
+";>",-
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),7)

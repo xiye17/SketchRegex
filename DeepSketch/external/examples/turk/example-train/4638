@@ -1,0 +1,25 @@
+// example 
+"}g",-
+"{kj",+
+"n",-
+"p[rdww",+
+"v^~y",-
+"~|.0~",-
+"pG!2=A",+
+"|*god",+
+"",-
+"vM",+
+"v^~G",-
+"{kF",+
+">X~",-
+"~|.0A",-
+"v~hO",+
+">Xb",-
+"v~hp",+
+"|*gZS",+
+"}N",-
+"vj",+
+"~",-
+
+// ground truth 
+contain(concat(<low>,<let>))

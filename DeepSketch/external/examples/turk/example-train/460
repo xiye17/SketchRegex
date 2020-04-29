@@ -1,0 +1,17 @@
+// example 
+"5E",+
+"'Q>",-
+"7M6{,",-
+"{0l",-
+"5bNI",-
+"7fj7I",-
+"5Y-S",-
+"",-
+"a",-
+"eW",+
+"r'",-
+"rd",-
+"6",-
+
+// ground truth 
+concat(or(<num>,<low>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"arP",-
+"ALOXeP",+
+"oAIIiRoMIPATeP",+
+"x<k`s",-
+"p",-
+"UWoDAVaH",+
+"OVANEOIToD",+
+"",-
+"ID",-
+"OGaDaYiZIVOJ",+
+"OVANEOITAE",+
+"OGaDaYiZIVAH",+
+"f!f^",-
+"ALOXuI",+
+"UWoDAVoC",+
+"mL@x",-
+"oMAfW",-
+"oAIIiRoMIPATOQ",+
+"I",-
+"a2]",-
+"I#",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),3)

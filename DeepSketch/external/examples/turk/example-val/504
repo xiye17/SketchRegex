@@ -1,0 +1,25 @@
+// example 
+"F",-
+"IRUCGYSBQT",+
+"GHDFYEULJYBJW",+
+"3",-
+"5u",-
+"!8n",-
+"F?S\",-
+"OXLCFPDMDADM",+
+"j\",-
+"c$_",-
+"9i{3",-
+"",-
+"D$>?|",-
+"OGIQWCZFCGUEFZ",+
+"DkH$A",-
+"AFHRZCS",+
+"HURHIFYMM",+
+"NVVCRIXU",+
+"LBJMQNNUNXD",+
+"SMHHT",+
+"NHGFSJ",+
+
+// ground truth 
+repeatatleast(<cap>,5)

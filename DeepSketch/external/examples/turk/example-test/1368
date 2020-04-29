@@ -1,0 +1,25 @@
+// example 
+"?GJeke",-
+"Hk%3lu^"",-
+"!s",+
+"v!",+
+"l",-
+"P<!38",+
+"!",+
+"lHP!",+
+"",-
+"Z(9!=^",+
+"gq!",+
+"[@Lg",-
+"g!3",+
+"JiZ1J",-
+"]jKmg;d/h",-
+"sO",-
+"<}0",-
+"!'=u:T",+
+",Q:U)<4",-
+"lH!j",+
+"P<%!N",+
+
+// ground truth 
+repeatatleast(endwith(contain(<m0>)),1)

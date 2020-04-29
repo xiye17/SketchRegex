@@ -1,0 +1,25 @@
+// example 
+")C",+
+"LbM",+
+"9DdD",+
+"GHbrt",+
+"u",-
+"no",-
+"ji3",-
+"jU?6",-
+"GHbrM",+
+"To[Pw",-
+"je[",-
+"IevV",-
+"",+
+")8",+
+"nI",-
+"i",-
+"9Dd}",+
+"6",+
+"Lbp",+
+"H",+
+"THrCo",-
+
+// ground truth 
+not(repeatatleast(contain(<vow>),1))

@@ -1,0 +1,23 @@
+// example 
+"4l7m8d3n2f9k2t4h",+
+"5c4c2q9t7g5w1w2h2w3x",+
+"6}$",-
+"4m9a8t9l9k8f5m",+
+"7y2y1j",+
+"9f8h7i4q7r8j9q5t6i",+
+"9p'k",-
+"0u9j4z6x",+
+"5f3q0i8v8o",+
+"9A.TT",-
+"9p4)",-
+"",-
+"BvW&1",-
+"2v8p6x5m8h9m",+
+"9",-
+"6VZ",-
+"'1",-
+"M",-
+"3~",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),3)

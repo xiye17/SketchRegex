@@ -1,0 +1,25 @@
+// example 
+"ty",-
+"MF!%A",+
+"T;q",-
+"gBl"1",-
+"1V!0",+
+"gBl"u",-
+"!",+
+"-",-
+"^",-
+"rx!",+
+"",-
+""Wnv",-
+"B!",+
+"rxI",+
+"MFm7!",+
+"I",+
+"1VD!",+
+"BL",+
+"t6",-
+"T;*",-
+""Wn0",-
+
+// ground truth 
+or(contain(<m0>),endwith(<cap>))

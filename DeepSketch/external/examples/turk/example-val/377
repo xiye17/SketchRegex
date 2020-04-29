@@ -1,0 +1,25 @@
+// example 
+"HBaLhUtQGnm{",+
+"MxbDcgWedqZ",+
+"xnXLckOHHJ",+
+"MxbDcgWedq@",+
+"[?4b",-
+"HxNBDFt{",+
+"qSbIGSQW{",+
+"HxNBDFts",+
+"qSbIGSQWr",+
+"^",-
+"",-
+"xnXLckOHH~",+
+"MU",-
+"HBaLhUtQGnm^",+
+"}w(",-
+"S",-
+"Y^Kl",-
+":Y(",-
+"zfdix",-
+"z_41J",-
+"M!",-
+
+// ground truth 
+concat(repeatatleast(<let>,7),<any>)

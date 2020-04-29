@@ -1,0 +1,25 @@
+// example 
+"Ob",-
+"IUOEAEOU",+
+"UOOIAEEUU",+
+"S:]'",-
+"EUIEOAA",+
+"UEAEO",+
+"OEAOEU",+
+"IUOEAEOA",+
+"A2{",-
+"UEAEE",+
+"D1Sa",-
+"",-
+"UOOIAEEUO",+
+"OA",-
+"OEAOEI",+
+"U",-
+"ASV",-
+"CS`Z2",-
+"EUIEOAO",+
+"E",-
+"'{t+}",-
+
+// ground truth 
+repeatatleast(and(<vow>,<cap>),5)

@@ -1,0 +1,15 @@
+// example 
+"",+
+"7";E`c)p]",+
+"^lD2ch",+
+"EAH+d`t",+
+"iP/u*J5eZD",+
+"`Xu<",+
+"5",-
+"#0"z1",+
+"06",+
+"M'Z",+
+"wT)`[6>J",+
+
+// ground truth 
+or(repeatatleast(<low>,6),not(<any>))

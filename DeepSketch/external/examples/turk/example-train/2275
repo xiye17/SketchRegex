@@ -1,0 +1,24 @@
+// example 
+"p~YD",-
+"6,pW:",-
+"$FiSl",+
+"*AUiaSmUR",+
+"6|n2S",-
+"dXkQWUmh",+
+"bDjRCGB",+
+"",-
+"&'",-
+"m$6",-
+"$FiSJ",+
+"*AUiaSmUo",+
+"p=F}",-
+"bDjRCGl",+
+"dXkQWUmP",+
+"{lOulD",+
+"S",-
+"mNL",-
+"{lOulm",+
+"&~",-
+
+// ground truth 
+concat(<any>,repeatatleast(<let>,4))

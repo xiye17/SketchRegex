@@ -1,0 +1,25 @@
+// example 
+"wZHnS!9",+
+"C|",-
+"G!#",+
+"n!/",+
+"x``$",-
+"_",-
+"}#",-
+"wZHnw!o",+
+"",-
+"Cw!J",+
+"uPg!o",+
+"DTup!^",+
+"CI!A",+
+"uPQ![",+
+"F\fSf",-
+"m|:",-
+"]|Lg9",-
+"v",-
+"DTuX!`",+
+"x6SA",-
+"m_J",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),concat(<m0>,<any>))

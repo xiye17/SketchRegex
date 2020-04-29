@@ -1,0 +1,15 @@
+// example 
+"",+
+"-L",+
+"RUj;8bn",+
+"Vo~",+
+"O+Yw",+
+"*{`ZtgmaXa",+
+"Xh({ILY'",+
+"o(I2j<<Z2",+
+"<0(^Y",+
+"d",-
+">|/8]n",+
+
+// ground truth 
+not(or(or(<let>,<any>),<cap>))

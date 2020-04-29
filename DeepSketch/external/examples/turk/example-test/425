@@ -1,0 +1,24 @@
+// example 
+"_E~R9G",-
+"dL#~BI",+
+";046{^meU",+
+"_E~R9D",-
+"nQ",-
+"|wa-?",-
+"p{zS(i`",-
+"<lbtlOOAHa",+
+",zfUrqe",+
+"",-
+"PLbJmMao",+
+"<lbtlOOAHE",+
+"PLbJmMaA",+
+"i",-
+",zfUrqu",+
+"p{zS(i~",-
+"dL#~BO",+
+"?|X",-
+";046{^mea",+
+"1%En",-
+
+// ground truth 
+concat(repeatatleast(<any>,5),<vow>)

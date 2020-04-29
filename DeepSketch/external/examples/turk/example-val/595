@@ -1,0 +1,15 @@
+// example 
+"7P@7U",+
+"Qf$fdY|D=W",+
+"X$!<<m",+
+"2",+
+"G1a",+
+"fGi?O_s?'",+
+"y-<nUq1T",+
+"cg",+
+"+gGQ",+
+"S+uCzW0",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<let>),<m0>))

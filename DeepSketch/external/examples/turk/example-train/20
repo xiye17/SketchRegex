@@ -1,0 +1,25 @@
+// example 
+"C,:[)",-
+"u",-
+"Og{",-
+"ioUuaaeaiq",+
+"AIiIuuUoEuif",+
+"q",-
+"oD`Q",-
+"Zm8K",-
+"iuaIOeooh",+
+"ioUuaaeaia",+
+"OOaOoiAo",+
+"",-
+"u6",-
+"OOaOoiAe",+
+"iuaIOeoop",+
+"UeieOOOAaOe",+
+"uI",-
+"d_Z",-
+"UeieOOOAaOi",+
+"AIiIuuUoEuip",+
+"q{*zl",-
+
+// ground truth 
+concat(repeatatleast(<vow>,7),<low>)

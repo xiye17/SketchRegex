@@ -1,0 +1,25 @@
+// example 
+"aUiU",+
+"^FEa",-
+"^OUuo",+
+"u",-
+"u=T",-
+"DeEoeuI",+
+"aUie",+
+"^OUuU",+
+"`iLmN",-
+"",-
+"eP",-
+"uHEOAE",+
+"DeEoeui",+
+"!-iIUeau",+
+"O",-
+"^FEg",-
+"e=",-
+"uHEOAU",+
+"!-iIUeaO",+
+"u=E",-
+"`iLmb",-
+
+// ground truth 
+concat(not(<m0>),repeatatleast(<vow>,4))

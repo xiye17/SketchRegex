@@ -1,0 +1,25 @@
+// example 
+"wawwuB",+
+"pogzjiecs",+
+"<5'",-
+"U4?'",-
+"wawwus",+
+"uezbqpW",+
+"\/$U>",-
+"_",-
+"nrmdsjrT",+
+"",-
+"}8<y",-
+"W'",-
+"fy*I%",-
+"uezbqpv",+
+"w'",-
+"nrmdsjrz",+
+"gqywirodku",+
+"pogzjiecB",+
+"~IW",-
+"gqywirodkT",+
+"{",-
+
+// ground truth 
+concat(repeatatleast(<low>,5),<let>)

@@ -1,0 +1,25 @@
+// example 
+"AQIOG!",+
+"<2",-
+"T8",-
+"C!",+
+"t",-
+"MEXFTAGK!",+
+"t]0B(",-
+"AD!",+
+"!UFQ#",-
+"ZBORZRGIU!",+
+"DUIWRN!",+
+"=@=u",-
+"",-
+"WOTGHWJ!",+
+"7",-
+"O!U",-
+"XEHVBTKJHI!",+
+"^(r;",-
+"GXC!",+
+"JRFM!",+
+">(C",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<m0>)

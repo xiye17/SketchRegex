@@ -1,0 +1,25 @@
+// example 
+"G|3:",-
+"_HL]2m1",+
+"03HTE",+
+"2#]",-
+"]%!b1Bb3",+
+"V&gl10",+
+"{|[K;",-
+"2#*",-
+"#",-
+"L$",-
+"_HL]20w",+
+"",-
+"V&gR84",+
+"G|3E",-
+"?]}?z6jh0",+
+"@",-
+"{|[K^",-
+"]%!b1BP0",+
+"L7",-
+"?]}?z6jF8",+
+"03HTo",+
+
+// ground truth 
+and(repeat(contain(repeatatleast(<let>,1)),3),repeat(contain(<num>),2))

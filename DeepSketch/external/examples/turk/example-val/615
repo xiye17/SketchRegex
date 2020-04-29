@@ -1,0 +1,16 @@
+// example 
+"!4",+
+"!8R+L",-
+";Jb",-
+"S",-
+"t(",-
+"pY_e",-
+"!",-
+"!B.g",-
+"!&",-
+"CqZ4)",-
+"",-
+"!-8",-
+
+// ground truth 
+and(contain(<num>),concat(<m0>,<any>))

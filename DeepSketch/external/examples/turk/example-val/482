@@ -1,0 +1,25 @@
+// example 
+"[Ph~",-
+"}|_@|",-
+"kq",+
+"C=LUv",+
+"T_1j",+
+"kG",+
+"sov",+
+"<|C",-
+"`y",-
+"",-
+"g",-
+"<|^",-
+"soZ",+
+"C=LUV",+
+"`*wZLz",+
+"}|_@`",-
+"T_1R",+
+"`_",-
+"`*wZLA",+
+"E",-
+"[Ph[",-
+
+// ground truth 
+repeatatleast(endwith(<let>),2)

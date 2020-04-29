@@ -1,0 +1,17 @@
+// example 
+"u':",+
+"AlW4g",+
+"hSoN",+
+"u7m",+
+"!",+
+"&",+
+"",+
+"S3",+
+"U8",-
+"BfAn",+
+"!9",-
+"jO";{",+
+"j{",+
+
+// ground truth 
+not(concat(or(or(<vow>,<m0>),<m1>),<num>))

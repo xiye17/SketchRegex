@@ -1,0 +1,17 @@
+// example 
+"]",-
+"_(v",-
+"lNo))",-
+"q",-
+"OD?L",-
+"dP0",+
+"",-
+"o=",-
+"{r5",-
+"lsG!U",-
+"XJ6",+
+"O`Dt",-
+"oT",-
+
+// ground truth 
+concat(<let>,concat(<cap>,<num>))

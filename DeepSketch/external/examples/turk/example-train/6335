@@ -1,0 +1,25 @@
+// example 
+"Wekf{t",+
+"Io",+
+"o*-|~",-
+"t~#",-
+"o*-|*",-
+"wRMg",+
+"kH",-
+"",-
+"gVb",+
+"wR~s",+
+"k|",-
+"dx",+
+"g~v",+
+"R(u`w",+
+"K",-
+"Mkh~",-
+"Mkh<",-
+"Wekfss",+
+"R(u}j",+
+"t~~",-
+"~",-
+
+// ground truth 
+concat(startwith(<let>),<low>)

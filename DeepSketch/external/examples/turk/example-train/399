@@ -1,0 +1,14 @@
+// example 
+"",+
+"u*=9P",+
+"}f+",+
+".?eA9x",+
+"#yx;",+
+"A@",+
+"pi5Sa}5",+
+"-z%~wStWg",+
+")",+
+"#k]8a"#n",+
+
+// ground truth 
+or(not(<cap>),startwith(<let>))

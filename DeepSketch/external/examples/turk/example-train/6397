@@ -1,0 +1,25 @@
+// example 
+"OuOoe",+
+"aoU",-
+"UUAdoe",+
+"UUAdoO",+
+"CoaeSGWio",+
+"OmHwu",-
+"OBKEieO",+
+"o]/ubuAa",+
+"MalK",-
+"aoo",-
+"o]/ubuA!",+
+"",-
+"S4",-
+"OmHwI",-
+"OBKEieI",+
+"Malu",-
+"OuOoE",+
+"i",-
+"CoaeSGWiO",+
+"S}",-
+"H",-
+
+// ground truth 
+repeatatleast(or(<m0>,contain(<vow>)),5)

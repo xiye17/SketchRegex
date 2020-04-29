@@ -1,0 +1,25 @@
+// example 
+"LNUa^OIE",+
+"HMS",-
+"Aa",-
+"uEDUi",-
+"fAoe~dUIU",+
+"LNUa^OIA",+
+"e",-
+"",-
+"AR",-
+"uuuAI",+
+"PAiaOi",+
+"h",-
+"doUH",-
+"PAiaOU",+
+"fAoe~dUIa",+
+"uEDUH",-
+"doUp",-
+"BheoOOu",+
+"HMp",-
+"uuuAA",+
+"BheoOOA",+
+
+// ground truth 
+repeatatleast(endwith(<vow>),5)

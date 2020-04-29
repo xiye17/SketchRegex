@@ -1,0 +1,26 @@
+// example 
+"XD5h{_|;SU",+
+"UBI6Yd^r",-
+"EP",-
+"rgU`_Z&",-
+"Z%#0L%'pQpJ",+
+"i]8?d.V",+
+"Z%#0L%'pQ3A",+
+"c'Pc2WZE",+
+"A~%u",-
+"zM4vk$|=F",+
+"",-
+"v_YWtBp|\AYE",+
+"c'Pc2WxN",+
+"UBI6Yd^#",-
+"zM4vk$|RL",+
+"XD5h{_|;zK",+
+"rgU`_Zv",-
+"/m,@E%",-
+"v_YWtBp|\AnH",+
+"M",-
+"./$",-
+"DuxqT",-
+
+// ground truth 
+concat(repeatatleast(<any>,6),<cap>)

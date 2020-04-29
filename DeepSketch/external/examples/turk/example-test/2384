@@ -1,0 +1,16 @@
+// example 
+"r+4s#",+
+"u,YuWa",+
+"l7#CccP9<`,",+
+"mvy'2^~",+
+"WO'E",+
+"=",-
+"kg",+
+"S6cU[;x~",+
+"J8$eRPkSRB",+
+"}adCE9[T_",+
+"y~{",+
+"",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),2)

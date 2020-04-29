@@ -1,0 +1,17 @@
+// example 
+"a.6!*",-
+"u",-
+"ew",+
+"KBhtF",-
+"M9",-
+"O"KF",-
+"",-
+"n`",-
+"i",-
+"Ab",+
+"Aa:",-
+"0Nb0",-
+"L_h",-
+
+// ground truth 
+concat(<vow>,or(or(<any>,<num>),<m0>))

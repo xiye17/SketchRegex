@@ -1,0 +1,17 @@
+// example 
+"+l+",-
+"g~k`",-
+"|QnaK",-
+"ff",+
+"",-
+"gJZT",-
+"~(f",-
+"|",-
+"j.",-
+"fQ",+
+"<",-
+"Cq!]N",-
+"j}",-
+
+// ground truth 
+and(startwith(<any>),concat(<low>,<let>))

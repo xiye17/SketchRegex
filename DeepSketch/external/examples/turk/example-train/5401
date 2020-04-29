@@ -1,0 +1,14 @@
+// example 
+"",+
+"{?Fh_",+
+"y",+
+"S1OB",+
+"6[",+
+"fB@",+
+"dheO<^q1D",+
+"7U:*`-",+
+">7Dqn]M",+
+"L2^9+N`_",+
+
+// ground truth 
+not(and(and(<cap>,<num>),<m0>))

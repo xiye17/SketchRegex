@@ -1,0 +1,25 @@
+// example 
+"sW+1B",-
+"=~`",-
+"!~t'",+
+"``]!C",+
+"g8!",+
+"!{",-
+"oE",-
+"!A",+
+"",-
+"J.UkN",-
+"FkO5",-
+"~){!t,",+
+"O",-
+"=~,",-
+"``]!y",+
+"!bZk",+
+"~){!Jx",+
+"ck?6",-
+"g!>",+
+"i!",+
+"~",-
+
+// ground truth 
+and(endwith(contain(repeatatleast(<let>,1))),startwith(contain(<m0>)))

@@ -1,0 +1,16 @@
+// example 
+"da",+
+"KIy",-
+"i",-
+"KDZ",-
+"qe$#",-
+"TCzx8",-
+"d!",+
+"YG",-
+"YQ",-
+"q{93",-
+"T|0U'",-
+"",-
+
+// ground truth 
+concat(<any>,or(or(<m0>,<num>),<vow>))

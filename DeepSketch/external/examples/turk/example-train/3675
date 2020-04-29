@@ -1,0 +1,25 @@
+// example 
+"gR8",+
+"cylvq|",-
+"hazbpcc",-
+"mqwcudzo",-
+"whfvvppbf",-
+"whfvvppb{",-
+"cylvq6",-
+"",+
+";",+
+"5*^J",+
+"ep",+
+"l}1q",+
+"idukg",-
+"j[/cu",+
+"g~4",+
+"4#FKv",+
+"hazbpc|",-
+"}",+
+"R.",+
+"iduk?",-
+"mqwcudz+",-
+
+// ground truth 
+not(concat(repeatatleast(<low>,4),<any>))

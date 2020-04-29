@@ -1,0 +1,17 @@
+// example 
+"~_",-
+"[",-
+"hI8",-
+"kC*\",-
+"k",+
+"C9OT",-
+"Qv",-
+"",-
+"6HU",-
+"{icDr",-
+"N",+
+"f{D:b",-
+"{",-
+
+// ground truth 
+or(or(<low>,<cap>),<vow>)

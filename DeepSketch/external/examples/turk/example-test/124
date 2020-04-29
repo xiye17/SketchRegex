@@ -1,0 +1,16 @@
+// example 
+"mG",+
+"JH1r}y*",+
+"-bq",+
+"]",-
+"}T&O_*",+
+"jXj_",+
+"~p,hN",+
+"k9o$TdaSH",+
+"D[e($#sx<y",+
+"2H4WJl(gGvN",+
+"",-
+"}wGk(>ku",+
+
+// ground truth 
+repeatatleast(endwith(<any>),2)

@@ -1,0 +1,25 @@
+// example 
+"c6sk!",+
+"!gkmK?Z&",+
+"!t|",-
+"!!!r",+
+"r!",-
+"c6ski",+
+"!pa}~",-
+"!!!lgF",+
+"!gk{!jb^",+
+"",-
+"|",-
+"u`Th!!!",+
+"n!Nh",-
+"!pa}*",-
+"7",-
+"u`Th!oM",+
+"~.",-
+"|fw",-
+"!!!!",+
+"!!!!mL",+
+"n!N!",-
+
+// ground truth 
+repeatatleast(or(startwith(<low>),<m0>),4)

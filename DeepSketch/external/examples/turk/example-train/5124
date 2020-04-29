@@ -1,0 +1,15 @@
+// example 
+"",+
+"!(",+
+"!8;y",+
+"Ht",+
+".Vtia",+
+"!J4",+
+"g^E",+
+"!gpdE",+
+"mE@?",+
+"!",-
+"t",+
+
+// ground truth 
+not(and(<m0>,<any>))

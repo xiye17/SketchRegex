@@ -1,0 +1,25 @@
+// example 
+"nk",-
+"padoegr",-
+"wq4T",+
+"sqh",-
+"fdvwjigl",-
+"t",-
+"^|M",+
+"&B]WS",+
+"}X",+
+"V",+
+"shbjui",-
+"",+
+"rfhb",-
+"pliqgbnaxk",-
+"cljfz",-
+"Du",+
+"|?jPq",+
+"jnkgmmeta",-
+"A+\j",+
+"}jL",+
+"{",+
+
+// ground truth 
+not(repeatatleast(<low>,1))

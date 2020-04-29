@@ -1,0 +1,24 @@
+// example 
+"IODsibeOU2",+
+"3",-
+"u\",-
+"_u\:",-
+"aukoqu",+
+"_u\M",-
+"Ncu]oiA",+
+"&bu",-
+"IODsibUQ]W",+
+"Ncu]oiu",+
+"",-
+"MOzJxO{AA",+
+"ue",-
+"Sf'f\",-
+"pu,a*ba+",+
+"pu,a*IUA",+
+"aukoqe",+
+"&bi",-
+"Sf'fa",-
+"MOzJxO{e*",+
+
+// ground truth 
+repeatatleast(contain(concat(<any>,<vow>)),3)

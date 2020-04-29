@@ -1,0 +1,15 @@
+// example 
+"&)",-
+")A",+
+"[}?",-
+"U",-
+"=rTze",-
+"&b",-
+"[9x",-
+"=O%%v",-
+"",-
+"FGfI",-
+"F~mC",-
+
+// ground truth 
+concat(or(<any>,<m0>),<cap>)

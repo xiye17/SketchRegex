@@ -1,0 +1,25 @@
+// example 
+"0",-
+":gS",-
+"4pu",+
+"2!",-
+"8Ggo^i",+
+"9_Y",-
+"9FQO",+
+"QE)H",-
+"+n\@",-
+"",-
+"!I",-
+"8Ggo^o",+
+"4o",+
+"$",-
+"4pe",+
+"9FQo",+
+"EI0kR",-
+"4U",+
+"9Ii`A",+
+"9Ii`u",+
+")#:{;",-
+
+// ground truth 
+concat(<num>,endwith(<vow>))

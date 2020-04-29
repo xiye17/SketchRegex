@@ -1,0 +1,25 @@
+// example 
+"okW",-
+"bvigxvqtl",+
+"Ax",-
+"ogtxwiji",+
+"HEY=",-
+"|1Pu<",-
+"gcjirzx",+
+"@53",-
+"rsmvnczmvq",+
+"",-
+"urkwdgrjr",+
+"Os",-
+"|",-
+"NS|Z$",-
+"oaglshhfio",+
+"h",-
+"o|RE",-
+"O",+
+"I",+
+"fzejsjsd",+
+"jmjrlfv",+
+
+// ground truth 
+or(repeatatleast(<low>,7),<vow>)

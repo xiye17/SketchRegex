@@ -1,0 +1,16 @@
+// example 
+"\",-
+"fr",-
+"B[<",-
+"B-g",-
+"O",-
+",&",-
+"O3nn~",-
+"%)@U",-
+"a0bU;",-
+"_L65",-
+"",-
+"A0",+
+
+// ground truth 
+concat(and(<cap>,<let>),<num>)

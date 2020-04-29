@@ -1,0 +1,25 @@
+// example 
+"F",+
+".Fc",+
+"[",-
+"z+}",-
+".Z}{",-
+".bk",+
+"wd%i",+
+"wd|o",+
+"{h",+
+"",-
+"}#s>j",+
+"z+\",-
+"apf~B",-
+"apf~}",-
+"n|",-
+"nG",-
+"x",+
+"{",-
+".Z}Z",-
+"gc",+
+"}#swo",+
+
+// ground truth 
+or(startwith(<cap>),endwith(<low>))

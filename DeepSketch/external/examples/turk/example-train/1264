@@ -1,0 +1,25 @@
+// example 
+"^x^",-
+"{|",-
+"WsSp\",-
+"K~j",+
+"|}Tuju",+
+"*}ad",+
+"d|n{w|j",+
+";}}oe",+
+"d|n{wkb",+
+"^x}",-
+"WsSp{",-
+"",-
+"KMy",+
+"*}@j",+
+"K|r~",-
+"_a",+
+"|}Tu~b",+
+";}};l",+
+"i",-
+"K|r*",-
+"{W",-
+
+// ground truth 
+concat(<any>,endwith(<low>))

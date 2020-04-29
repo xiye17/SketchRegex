@@ -1,0 +1,25 @@
+// example 
+"h!9Rc",+
+"u",-
+"18l2GET",-
+"]w:=&jp.",-
+"W0Bwh!",+
+"`!N",+
+"7!",+
+"h+!dH",+
+"",-
+"][qsdo",-
+"$|",-
+"W0Bw!G",+
+"uaDuR3!",+
+"/!#'",+
+"wY/(|Y?j<",-
+"`|!",+
+"0eQ",-
+"uaDu!="",+
+"&cOU",-
+"EL%Zd",-
+"/b!I",+
+
+// ground truth 
+contain(concat(<any>,<m0>))

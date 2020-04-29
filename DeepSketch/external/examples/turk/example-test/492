@@ -1,0 +1,24 @@
+// example 
+"Kr",+
+"JPXC",+
+"~x7",-
+"DyP.H-WQH%YfC/IzT|",+
+"B#0I",-
+"D#Z^XjF:C0",+
+"*",-
+"w,",-
+"+B",-
+":gtuA",-
+"",+
+"RHS7R=Ax",+
+"g",-
+"ZjI{YvW^C^LKI]",+
+"BpM0Z,FLRTS_",+
+"XgX/K6CvTDH@Z6WS",+
+"B#hE",-
+")|%",-
+"e"gOG",-
+"QOBmYg",+
+
+// ground truth 
+star(concat(<cap>,<any>))

@@ -1,0 +1,15 @@
+// example 
+"E",+
+"}C1",-
+"3zZ@",-
+"+Yh1@NqM#",-
+";Z-JM0&R",-
+"V%qz_",-
+"+n;jI|^-@;",-
+"e#tj/{K",-
+"Iu",-
+"(lB:3M",-
+"",-
+
+// ground truth 
+or(or(<low>,<m0>),<any>)

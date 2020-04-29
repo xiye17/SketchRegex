@@ -1,0 +1,14 @@
+// example 
+"",+
+"6ps",+
+"\BCf",+
+"f<<BwTVd",+
+"xp",+
+"O%z}^d?\J",+
+"=R,Y4T",+
+"T",+
+"d)QJt$V",+
+"}w7r0",+
+
+// ground truth 
+startwith(contain(not(<num>)))

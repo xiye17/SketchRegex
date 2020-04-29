@@ -1,0 +1,15 @@
+// example 
+"^K",-
+"{T[*d",-
+"n(Y",-
+"1@",+
+"9",-
+"nuS",-
+"a6re",-
+"a@&{",-
+"{@/PO",-
+"^#",-
+"",-
+
+// ground truth 
+concat(or(or(<num>,<m0>),<any>),<m1>)

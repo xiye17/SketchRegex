@@ -1,0 +1,17 @@
+// example 
+"Y",-
+"A.N%",-
+"E8",+
+"~O",-
+"-g",-
+"A27Ie",-
+"",-
+";",-
+"S>n",-
+"A=#`2",-
+"I2",+
+"N_~",-
+"Aq"=",-
+
+// ground truth 
+concat(or(<vow>,<low>),<num>)

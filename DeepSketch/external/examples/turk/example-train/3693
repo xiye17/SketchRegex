@@ -1,0 +1,15 @@
+// example 
+"p",+
+"KRccbQm",-
+"@_U_",-
+"fW6J-pP?",-
+"`k'<_`",-
+"Kn",-
+")HRm0`^5s",-
+":!f",-
+"V|m#%CZR#A",-
+"",-
+"<*5}?",-
+
+// ground truth 
+or(or(<any>,<m0>),<vow>)

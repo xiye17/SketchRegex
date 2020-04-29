@@ -1,0 +1,16 @@
+// example 
+"[In",-
+"Ri",-
+"BozmJ",-
+"o",-
+"ge!",+
+"gO!",+
+"Ra",-
+"jDUL",-
+"[D!",-
+"Bo!wu",-
+"",-
+"jo!B",-
+
+// ground truth 
+concat(<any>,concat(<vow>,<m0>))

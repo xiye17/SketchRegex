@@ -1,0 +1,17 @@
+// example 
+"oS'",-
+"n",-
+"a",+
+"g|0",-
+"kdKW",-
+"eK",-
+"",-
+"c",-
+"r%",-
+"i=54I",-
+"bVo%J",-
+"e",+
+"_jCI",-
+
+// ground truth 
+and(and(<vow>,<let>),<low>)

@@ -1,0 +1,26 @@
+// example 
+"1",-
+"Ea7}E_",+
+"I~"a~wQ",+
+"J|b",+
+"AN~P",-
+"AN~|",-
+"Bn",+
+"JNh",+
+"B{}f",+
+"F{hLt",+
+"F{{3k",+
+"",-
+"t1J]3",-
+"vS"",-
+"=q8!d",-
+"WU~",-
+"B{",-
+"B[",-
+"BwzN",+
+"I~"}~|o",+
+"EOoVCH",+
+"B",-
+
+// ground truth 
+concat(<cap>,contain(<low>))

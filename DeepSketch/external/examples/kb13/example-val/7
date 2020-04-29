@@ -1,0 +1,25 @@
+// example 
+"bI'",-
+"HHZZc",+
+"\KnqEh",+
+"<cxYvs~",+
+"bIg",-
+"_'",-
+"!r{oDUcY",+
+"_",-
+"*bY}KOhiD",+
+"",-
+"7:!]",-
+"HHZZC",+
+"<",-
+"*bY}KOhin",+
+"\KnqEU",+
+"_}",-
+"J`IND",-
+"J`INz",-
+"<cxYvSl",+
+"!r{oDUct",+
+"7:!J",-
+
+// ground truth 
+contain(repeat(<let>,5))

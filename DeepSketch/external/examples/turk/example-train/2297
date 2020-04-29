@@ -1,0 +1,26 @@
+// example 
+"doi;",-
+"[",-
+"G%&G4*",+
+"R@3n",+
+"Jv-Q5"f",+
+"N&",-
+"K3",+
+"5%Fo",-
+"G%&Gx4",+
+"",-
+"N#Xb(",-
+"OzlA2",+
+"X3F",+
+"Jv-QU,4",+
+"X:4",+
+"M)c",-
+"36?",-
+"J",-
+"R1[B",+
+"O9;Y)",+
+"`R",-
+"N#Xb@",-
+
+// ground truth 
+and(startwith(<cap>),contain(<num>))

@@ -1,0 +1,15 @@
+// example 
+"|!59M",+
+"4}6{a&~",+
+"i&w>",+
+"i",+
+"^F$!,rBg",+
+"G#9j18BzH",+
+"mJ0i1@",+
+"qHd",+
+"4f",+
+"3%\VJBQ9Fr",+
+"",-
+
+// ground truth 
+contain(or(or(<let>,<num>),<any>))

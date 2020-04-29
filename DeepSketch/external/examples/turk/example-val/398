@@ -1,0 +1,25 @@
+// example 
+"^*\",-
+":ER",-
+"2",-
+"PAMFv",+
+">2",-
+"N1um",-
+"PQ]Wc",-
+"WVEQGt",+
+"PQy4-",-
+"OVMUZIs",+
+"JDYJQJPh",+
+"",-
+"KOx",+
+"uy",-
+"KPWVDBNUy",+
+"MVNRYIXOFUPb",+
+"MXNJLEMNFp",+
+"DBXQZXIBRYm",+
+"XHBo",+
+"E",-
+"NrgG",-
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<low>)

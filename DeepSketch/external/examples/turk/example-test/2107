@@ -1,0 +1,25 @@
+// example 
+"1",-
+"?D<",-
+"]B|z",-
+"pEKf?",-
+"!]+M",-
+"ZY|Qq",+
+"Qq;3",+
+"XG",+
+"",-
+"|",-
+"~Av",-
+"X`u:"A",+
+"K|S[ZC~]&i",+
+"P?]ne/y%k",+
+"IhKP0G$@;H9",+
+"W9#8^%W",+
+"OSr",+
+"Vw@/B;D{",+
+"+\",-
+"4\GdC",-
+"bT",-
+
+// ground truth 
+repeatatleast(startwith(concat(<cap>,<any>)),1)

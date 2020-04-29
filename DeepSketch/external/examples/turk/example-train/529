@@ -1,0 +1,25 @@
+// example 
+"XN!LYAX!K",+
+"'Y;B@",-
+"XN!LYAX!!",+
+"AISB!",+
+"!!",-
+"Lnd!",-
+"E!!V!!",+
+"JJP!HW!",+
+"!VG!GASL",+
+"!^3",-
+"!",-
+"L+n$",-
+"JJP!HWM",+
+"",-
+"!VG!GAS!",+
+"kHd",-
+"[XQ=X",-
+"AISBZ",+
+"v",-
+"E!!V!H",+
+"!2",-
+
+// ground truth 
+repeatatleast(or(<m0>,<cap>),5)

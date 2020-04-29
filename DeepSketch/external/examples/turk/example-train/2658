@@ -1,0 +1,25 @@
+// example 
+"IEymB",-
+"S]|wE",+
+"MCCF",-
+"ECUi",+
+"U",+
+"EI",+
+"VoF",-
+"",-
+"`",-
+"TC",-
+"PFi",+
+"Vo.",-
+"ECUI",+
+"I",+
+"Ei",+
+"M",-
+"PFO",+
+"S]|wI",+
+"MCCg",-
+"IEymJ",-
+"Tg",-
+
+// ground truth 
+and(endwith(<vow>),contain(<cap>))

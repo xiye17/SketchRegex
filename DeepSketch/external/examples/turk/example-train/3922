@@ -1,0 +1,17 @@
+// example 
+"F",-
+"SFn<j",-
+"IO"",-
+"U",+
+"AC",-
+"O@",-
+"",-
+"E2P",-
+"G7!g",-
+"I",+
+"OP%wQ",-
+"={K(",-
+"B",-
+
+// ground truth 
+and(startwith(<vow>),<cap>)

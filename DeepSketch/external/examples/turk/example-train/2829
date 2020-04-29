@@ -1,0 +1,21 @@
+// example 
+"cF~~zg<T*@iQ8",+
+""b[+K",-
+"HOD",-
+"u",-
+"jxG0{Lg$=][b",+
+"'Ldksq-?2oWZd/kV",+
+"C|",-
+"XBYEWNq~q",+
+"1ryMFB|iPrx",+
+"nA`T#3-E_/eQ]z&",+
+"",-
+"Ejw9QO",-
+"9`:%Y^M",+
+"yS48",-
+"W_`+@.GS",+
+"-MiLeTu)2haJ4g",+
+"~9G4[C+?Pm",+
+
+// ground truth 
+repeatatleast(or(<any>,<num>),7)

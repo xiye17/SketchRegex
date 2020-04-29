@@ -1,0 +1,15 @@
+// example 
+"",+
+"XHPo",-
+"T",-
+"?yA2y,'!$D",-
+"-/IIWa:{7",-
+"GHv",-
+"Z\WX|",-
+"]UPyK/",-
+"d\",-
+"3|idS{U",-
+"CS=c\\a}",-
+
+// ground truth 
+star(contain(and(and(<let>,<any>),<m0>)))

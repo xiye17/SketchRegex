@@ -1,0 +1,17 @@
+// example 
+"pn",-
+"O#",+
+"e#",+
+"I0~F=",-
+"d",-
+"",-
+"o"E",-
+"O!6j",-
+"U!",-
+"H`J,e",-
+"I",-
+"\U>",-
+"O#)C",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<vow>),<m2>)

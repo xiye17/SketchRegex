@@ -1,0 +1,25 @@
+// example 
+"Wz7T39p",+
+"Rw9ota",+
+"[",-
+"!`",-
+"|</",-
+"\?:0",-
+"RVi2zOi5a1",+
+"{t4|g",-
+"k",-
+"5jk1gXL6",+
+"f(I=",-
+"",-
+"5jk1gXLr",+
+"N4Y4sgRl4",+
+"Wz7T39J",+
+"w{",-
+"=l1",-
+"N4Y4sgRlR",+
+"Rw9ot3",+
+"RVi2zOi5aA",+
+"^CIa!",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),6)

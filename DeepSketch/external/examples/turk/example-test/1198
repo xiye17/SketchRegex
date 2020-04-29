@@ -1,0 +1,25 @@
+// example 
+"}j",-
+"?P<",-
+"\t",-
+"TK?gfP^f2%",+
+"`*-9q",-
+"gmba?Hp",+
+"",-
+"V+AGqY5?",+
+"n'W|1(Cj.",+
+"eC?t",-
+"h",-
+"xWGXh?$2",+
+"G_sxW4UYA",+
+"ZWkgfp",+
+"pwLh>r!OJL",+
+"-?{@h",-
+"E?6P+P'",+
+"D&h",-
+"M$=6",-
+"s25nB|",+
+"D",-
+
+// ground truth 
+concat(<let>,repeatatleast(<any>,5))

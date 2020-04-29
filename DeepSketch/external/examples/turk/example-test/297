@@ -1,0 +1,25 @@
+// example 
+"F",-
+"po",+
+"=dxWt",-
+"tlo",+
+"U",+
+"_jH~",-
+"=dxWf",-
+"d8f",-
+"_jHt",-
+"",+
+"P",-
+"icw&",+
+"Tp",-
+"d8l",-
+"e",+
+"pa",+
+"|E5pa",+
+"otW",+
+"xRA>",+
+"Th",-
+"|DIwB",+
+
+// ground truth 
+star(contain(<vow>))

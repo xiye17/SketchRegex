@@ -1,0 +1,15 @@
+// example 
+"U|",-
+"dxz",-
+"ON8|5w-Kn",-
+"0",+
+"Jah<",-
+"3=YMIJ(lV}",-
+"~A/tMcY",-
+"ihI:KB@^",-
+"`KzKt",-
+"",-
+"{&18v$",-
+
+// ground truth 
+or(or(<m0>,<any>),<low>)

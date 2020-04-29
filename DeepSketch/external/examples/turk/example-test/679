@@ -1,0 +1,25 @@
+// example 
+"E",+
+"cG",-
+"4",-
+"PU@",+
+"SFiGA",+
+"",-
+"FBj",-
+"SFiU_",+
+"DMCDC",-
+"LE",+
+"FGu_",-
+"O",+
+"LI",+
+"FGu#",-
+"wI]|",+
+"wUhv",+
+"PFO",+
+"DMCDN",-
+"H",-
+"co",-
+"FBP",-
+
+// ground truth 
+contain(and(and(<cap>,<any>),<vow>))

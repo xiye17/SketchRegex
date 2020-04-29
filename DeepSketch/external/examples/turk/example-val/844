@@ -1,0 +1,25 @@
+// example 
+"{:wEzuve",+
+"{:wEzuva",+
+"zhgI!eoju",+
+"{jI",-
+"zC_oi",-
+"uUoAqO",+
+"uhuz",-
+"{ja",-
+"ao~oAyO",+
+"A~sBbAmuju",+
+"",-
+"|",-
+"A~sBbAmujI",+
+"w|",-
+"wW",-
+"uhuY",-
+"uUoAqo",+
+"zC_ou",-
+"zhgI!eoji",+
+"ao~oAye",+
+"E",-
+
+// ground truth 
+repeatatleast(contain(concat(<low>,<vow>)),3)

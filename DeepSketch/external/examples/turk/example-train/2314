@@ -1,0 +1,21 @@
+// example 
+"8432",-
+"K9A(K4KEPQQXNzZ7G<H7",+
+"S-RvE}WPZDXpPwJCCf",+
+"WTBJL7HnZXY(",+
+"vW",-
+"p-z",-
+"M^Y%GwLuK'ZYR2",+
+"s|W/",-
+"",-
+"N,H1X\YEX\CjA;P"",+
+"'",-
+"68'!k",-
+"dED!Y",-
+"J?",-
+"LJFQC%J5Qv",+
+"{",-
+"#;L",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),5)

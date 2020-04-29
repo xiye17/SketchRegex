@@ -1,0 +1,25 @@
+// example 
+"VdA_A",+
+"]uE",+
+"VdA_o",+
+"u`Lo",+
+"JtoUh",-
+"U",+
+"Qy",-
+"i0m",-
+"D)aG",-
+"]uu",+
+"JtoUn",-
+"",-
+"f",-
+"D)a8",-
+"II",+
+"Ie",+
+"Qb",-
+"i0b",-
+"u`Lu",+
+"H",-
+"A",+
+
+// ground truth 
+endwith(or(repeatatleast(<cap>,2),<vow>))

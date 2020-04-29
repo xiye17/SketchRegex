@@ -1,0 +1,25 @@
+// example 
+"R3",-
+"Y",-
+"j7:*O",+
+"eXS",+
+"nokrB,",+
+"q0mMA8B",+
+"nokr;X",+
+"0H",+
+"j7:}N",+
+"",-
+"Mt0",-
+"U@;d",-
+"|67ql",-
+"|67q*",-
+"U@;#",-
+"Mto",-
+"mR"1",+
+"e5W",+
+"Rs",-
+"m{`R",+
+"q0EwG'.",+
+
+// ground truth 
+concat(<any>,contain(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"!Wa1",+
+"!B,B>q?",+
+"!ZjzG3j%2%",+
+"!TO?va]Az",+
+"!8",-
+"!X-cg",+
+"!gb~",-
+"l",-
+"!",-
+"!.!",-
+"!91$",-
+"!^M/0",-
+"!CoRT=",+
+"",-
+"!BxCeh.:SF)",+
+"!AiX=&p}",+
+"!Q",+
+"!%7St",-
+"A7",-
+"!OX",+
+"!t7",-
+
+// ground truth 
+startwith(concat(<m0>,<cap>))

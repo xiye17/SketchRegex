@@ -1,0 +1,23 @@
+// example 
+"mfrbQpxuZgJeAsDpKhBq",+
+"L~",-
+"AfRklfWbTwVebqfc",+
+"AfRklfWbTwVebqPx",+
+"q",-
+"E}`PR",-
+"IlhrfxfzCzXmDnAuDd",+
+"#",-
+"",-
+"EZfHx",-
+"mfrbQpxuZgJeAsDpKhjr",+
+"|R?",-
+"Igs",-
+"rpilasnwSuyums",+
+"rpilasnwSuyuCa",+
+"IlhrfxfzCzXmDnAuvb",+
+"+$",-
+"I=Oi",-
+"I{z`",-
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),7)

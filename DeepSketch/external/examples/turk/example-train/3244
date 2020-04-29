@@ -1,0 +1,25 @@
+// example 
+"r",-
+"djfu",+
+"i)SbT",+
+"ms",-
+"fdzj",-
+"uOK",+
+"fdzQ",-
+"ckpQb",-
+"do",+
+"",-
+"b",-
+"qga}X",+
+"eo",+
+"e",+
+"ml",-
+"oxm",+
+"ckpQt",-
+"|Hn",-
+"|Hg",-
+"u",+
+"djfa",+
+
+// ground truth 
+contain(and(and(<vow>,<any>),<low>))

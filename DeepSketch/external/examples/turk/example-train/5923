@@ -1,0 +1,25 @@
+// example 
+"WvQ|",+
+"G5n.",-
+"4",-
+"jA'",+
+"TxoW)",+
+"[xsnQ?",+
+"I%;",-
+"",-
+"p!",-
+"Sj",+
+"$O;{=",-
+"WvQ3",+
+"I%E",-
+"G5nJ",-
+"jAk",+
+"SQ",+
+"TxoWB",+
+"$O;{U",-
+"[xsnQ_",+
+"B",-
+"px",-
+
+// ground truth 
+concat(endwith(<cap>),<any>)

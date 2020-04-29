@@ -1,0 +1,25 @@
+// example 
+"Kr",+
+"]",-
+"L~",-
+"pMIrg",+
+"aKHp",+
+"=wp",-
+"ACR<",-
+"KJ",+
+"(",-
+"|.n",-
+"sHY",+
+"aKHC",+
+"",+
+"`~Un(",-
+"pMIrH",+
+"sHo",+
+"N",+
+"L.",-
+"=telA",-
+"y",+
+"AC{X",-
+
+// ground truth 
+star(or(<cap>,<let>))

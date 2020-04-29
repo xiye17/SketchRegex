@@ -1,0 +1,14 @@
+// example 
+"",+
+"[)1>",+
+"86we0",+
+"dx[",+
+":T@uvl\|;",+
+"\VPc-P~4",+
+"nw{lNs'",+
+"A3",+
+"(,*UBV",+
+"^",+
+
+// ground truth 
+endwith(or(<m0>,star(<num>)))

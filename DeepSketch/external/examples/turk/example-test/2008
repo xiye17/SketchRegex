@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"i!NY",-
+"t",-
+"i6}",-
+"p06!?",-
+"iA?_",-
+"",-
+"pwV",-
+"mU",-
+"ROYpn",-
+"o!",+
+"{",-
+"a7",-
+
+// ground truth 
+concat(and(and(<vow>,<low>),<let>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"E",+
+"IV",+
+"uh",+
+"IV;",+
+"Oic",+
+":ez=",-
+"",-
+"e{p'",+
+"Q",-
+"0&",-
+"]s",-
+"V6<&",-
+"i#mg",+
+"fw7",-
+"G_1?_",-
+"aS1hX",+
+"~trpY",-
+"u",+
+"u(P#/",+
+"z",-
+"J]Y",-
+
+// ground truth 
+concat(startwith(<vow>),star(<cap>))

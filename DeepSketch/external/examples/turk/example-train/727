@@ -1,0 +1,17 @@
+// example 
+"SIZV3",-
+"Fo",+
+":,",-
+"PIE",-
+"l",-
+"kH",-
+"",-
+"!UW4",-
+"S",-
+"SAi@X",-
+"PdU",-
+"!A"=",-
+"FE",+
+
+// ground truth 
+concat(or(<m0>,<cap>),<vow>)

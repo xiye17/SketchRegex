@@ -1,0 +1,14 @@
+// example 
+"",+
+"LOlKOl|",+
+"Rf#_:pI=O",+
+"XV",+
+"Z$+",+
+"o",+
+",7}=3t",+
+"xP].N",+
+"Jw~"o}4v",+
+"}=[f",+
+
+// ground truth 
+not(and(and(<cap>,<vow>),<num>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"B)",+
+"Cd1OD",+
+"L@omZW;'Z",+
+"O",+
+"d^M",+
+"}~GA",+
+"^p2)C!",+
+"$\Nz{P}",+
+"v{3H4VYN",+
+
+// ground truth 
+startwith(or(not(<cap>),<m0>))

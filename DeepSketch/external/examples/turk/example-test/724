@@ -1,0 +1,25 @@
+// example 
+"S;<",-
+"I,Q",+
+";E}|WwN",+
+"S;g",-
+"ldiwb",-
+"E&-o",-
+"*Y*W",+
+"oPE0R",+
+"oPENV",+
+"",-
+"ED",+
+"A)",-
+"*YxO",+
+";E}|WEL",+
+"ldiw<",-
+"20vCKC",+
+"S",-
+"E&-7",-
+"Ay",-
+"20vC^E",+
+"I|T",+
+
+// ground truth 
+concat(startwith(<any>),<cap>)

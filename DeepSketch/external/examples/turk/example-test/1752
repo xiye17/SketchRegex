@@ -1,0 +1,20 @@
+// example 
+"!e!s!t!k!j!l!e!w!j!g",+
+"+3",-
+"!m!i!n!j!s!m!l",+
+"!RI"(",-
+"!}p",-
+"!3a",-
+"!",-
+"!~",-
+"!Rz$",-
+"",-
+"!m!m!y!c!q!c!l!u",+
+"$",-
+"!~^v",-
+"!p!v!j!c!y!i",+
+"!o!u!c!j!b!t!w!m!a",+
+"!~B}[",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),6)

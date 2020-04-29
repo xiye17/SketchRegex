@@ -1,0 +1,25 @@
+// example 
+"s",-
+"ob",+
+"enteefstxe",+
+"ttmonbmskmx",+
+"yloweuv",+
+"pzznkrxu",+
+"fnrkmw",+
+"",-
+"mg}I",-
+"{K4",-
+"klouv",+
+"^?9BI",-
+"z9",-
+"+[$",-
+"sxh",+
+"fequirxhh",+
+"Rm",-
+"|&]>>",-
+"{",-
+"mgq{",-
+"wpkz",+
+
+// ground truth 
+and(repeatatleast(<low>,1),not(<any>))

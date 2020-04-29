@@ -1,0 +1,25 @@
+// example 
+"0",-
+"~_",-
+"jBE",+
+"suRJZ",+
+"h}s",-
+"JV+2",-
+"\7",-
+"-!+.",-
+"UmYU",+
+"n|>iz",-
+"",-
+"jBd",+
+"_#K_i",-
+"f",+
+"suRJj",+
+"L",+
+"UmYe",+
+"ie",+
+"iZ",+
+"hH~",-
+"{",-
+
+// ground truth 
+repeatatleast(or(or(<let>,<cap>),<low>),1)

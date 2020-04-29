@@ -1,0 +1,25 @@
+// example 
+"F",-
+"E",+
+"AoOp",-
+"ec!fF",-
+"UX!",+
+"V!EUo",+
+"iF",-
+"ec}Bj",-
+"a",+
+"h!",+
+"UCc",-
+"",-
+"P",-
+"{r",-
+"Uun",-
+"G!",+
+"Eb!u",+
+"UD!",+
+"AoO}",-
+"Eb!A",+
+"V!EUa",+
+
+// ground truth 
+repeatatleast(or(concat(<let>,<m0>),<vow>),1)

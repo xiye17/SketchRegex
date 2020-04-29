@@ -1,0 +1,25 @@
+// example 
+"9UgCgt",+
+"6BUbjwc",+
+"9UgCgG",+
+"*9P",-
+"5mtTpUsZ",+
+"5pj\",-
+"zk2=M",-
+"2.3Kt",-
+"1phjSTBRk",+
+"!",-
+"2R",-
+"~"C5",-
+"",-
+"0cGDy",+
+"1phjSTBRO",+
+"5mtTpUsv",+
+"0}0",-
+"S",-
+"6BUbjwG",+
+"2o",-
+"0cGDY",+
+
+// ground truth 
+concat(<num>,repeatatleast(<let>,4))

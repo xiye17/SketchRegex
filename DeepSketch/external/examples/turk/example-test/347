@@ -1,0 +1,16 @@
+// example 
+"8!j",-
+"f!SK`",-
+"Q!"5",-
+"fI#KI",-
+"QI[<",-
+"*",-
+"rx",-
+"8CY",-
+"_/~!*g",-
+"",-
+"_!6Z:,",-
+"m!",+
+
+// ground truth 
+concat(or(<any>,<cap>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"AB,|b",-
+"!IFGSnIFzuF",+
+"!tlFZVkq",+
+"!7",-
+"!OrwhSXiBa",+
+"!~*p",-
+"!DNyRUaxR",+
+"!^3+:",-
+"!sWnRbT",+
+"!OrwhSXiBY",+
+"!",-
+"!tlFZVkU",+
+"!DNyRUaxc",+
+"",-
+"!;H",-
+")S{Q",-
+"!Xt",-
+"!IFGSnIFzub",+
+"!sWnRbk",+
+"2/",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,6))

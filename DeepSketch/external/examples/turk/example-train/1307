@@ -1,0 +1,17 @@
+// example 
+"HDz",-
+",l",-
+"He1",-
+"Bq",-
+"!UW@x",-
+"_",-
+"",-
+":",-
+"!EiV",-
+"!Ib2!",-
+"AU",+
+"!kS~",-
+"Ae",+
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<m1>),<vow>)

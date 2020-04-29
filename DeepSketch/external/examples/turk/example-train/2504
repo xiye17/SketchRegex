@@ -1,0 +1,19 @@
+// example 
+"u!o\&",-
+"E!",+
+"Je",-
+"u}jt^",-
+"ossI",-
+"W",-
+"o!4f",-
+"e!W",-
+"b",+
+"",-
+"eQj",-
+"u!",+
+"u",+
+"M",-
+"'f",-
+
+// ground truth 
+or(concat(<vow>,<m0>),and(<low>,<any>))

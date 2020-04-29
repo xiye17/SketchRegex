@@ -1,0 +1,25 @@
+// example 
+"hCv!K",-
+"uuQ",+
+"fu*yH",+
+"n",-
+"gD}r",-
+"a",+
+"uwBl7",+
+"xD",-
+"",-
+"gD}H",-
+"hCv!T",-
+"e",+
+",dW",-
+"Zjte",+
+"S",-
+"!!",+
+"oZr",+
+"Zjtu",+
+"xg",-
+",dK",-
+"!e",+
+
+// ground truth 
+or(contain(<vow>),endwith(<m0>))

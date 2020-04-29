@@ -1,0 +1,17 @@
+// example 
+"I~ZX",-
+"E",+
+"!a",-
+"sE:",-
+"rBPeV",-
+"eI",-
+"a",+
+"Tp|",-
+"",-
+"\t1D6",-
+"H",-
+"D",-
+"h0d+",-
+
+// ground truth 
+and(<vow>,<any>)

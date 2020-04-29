@@ -1,0 +1,25 @@
+// example 
+"aeo",+
+"=fvp\",-
+"a",+
+"ga{cu",+
+"=fvpb",-
+"oo",+
+"aeu",+
+"uq",-
+"dek_",-
+"^",-
+"|<]",-
+"",-
+"g",-
+"u"",-
+"|<'",-
+"ga{ca",+
+"gjwa",+
+"gjwO",+
+"dekm",-
+"u",+
+"oS",+
+
+// ground truth 
+endwith(or(repeatatleast(<vow>,1),<cap>))

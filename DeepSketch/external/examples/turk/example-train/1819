@@ -1,0 +1,25 @@
+// example 
+"!tzG",+
+"!eTOiCi",+
+":s",-
+"!oTY]",-
+"vNV",-
+"!NYZOdBY",+
+"!",-
+"!oTY#",-
+"!tze",+
+"!iLgu",+
+"!vOctc",+
+"",-
+"!iLgJ",+
+"!uX]",-
+"A",-
+"!NYZOdBa",+
+"!a7",-
+"!eTOiCC",+
+"!u_G",-
+"!vOctJ",+
+"!i",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,3))

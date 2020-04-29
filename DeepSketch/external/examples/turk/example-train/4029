@@ -1,0 +1,14 @@
+// example 
+"",+
+"r7E",+
+"9F7%l^PA",+
+"Q",+
+"_B:8@HJ",+
+"<M",+
+"k*+<1a6^T",+
+"G'$d#",+
+"/|,@\J",+
+"C2;G",+
+
+// ground truth 
+not(and(and(<low>,<any>),<m0>))

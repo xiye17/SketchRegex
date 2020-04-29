@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+contain(and(endwith(<m0>),<low>))

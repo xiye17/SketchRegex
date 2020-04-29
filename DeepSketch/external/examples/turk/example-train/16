@@ -1,0 +1,25 @@
+// example 
+"N`/]",-
+"yfcT",+
+"MhK00Z1V",+
+"u6a",-
+"mWe74",+
+"yaZKvux",+
+"MhK00Z17",+
+"u6J",-
+"3_",-
+"yfcy",+
+"",-
+"NH|;",-
+"kd{Uy",-
+"=",-
+"3uP62M",+
+"yaZKvuC",+
+"3$",-
+"mWe7m",+
+"3uP62g",+
+"kd&2X",-
+"{",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),4)

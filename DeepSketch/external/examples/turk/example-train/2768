@@ -1,0 +1,15 @@
+// example 
+"f@h=(`_",+
+"8vJZ7>1u-",+
+"s;",+
+"}qx@s",+
+"y_w+U;?^",+
+"Fuw`",+
+"Q/(",+
+"rl$*7%",+
+"",-
+"|",+
+"Hh($_a~Abz",+
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),1)

@@ -1,0 +1,23 @@
+// example 
+"4k1k4h1r",+
+"5r9m4f7w1k7k0s1f9l",+
+"$6mHG",-
+"pOAT",-
+"2",-
+"VLd",-
+"9a9x4l0n2p",+
+"7l8e5v8z5t6l3w",+
+"2j8v4f",+
+",G8B",-
+"",-
+"$",-
+"0g",-
+"9d8t3a0x9m3i",+
+"6c5k5w4o1x1h6s0i1d9n",+
+"0}",-
+"'pv",-
+"X-V(_",-
+"7x3u7d4z2n9o0p5z",+
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),3)

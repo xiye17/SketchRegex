@@ -1,0 +1,25 @@
+// example 
+"r",-
+"eAX",-
+"uCfs",-
+"iCNuo",+
+"A\",-
+"gau",+
+"d",-
+"AK",-
+"",-
+"ae",+
+"aO",+
+"gaE",+
+"Aaaiz",-
+"O",+
+"qB\I",+
+"uCfT",-
+"qB\E",+
+"eAD",-
+"Aaai0",-
+"A",+
+"iCNuA",+
+
+// ground truth 
+or(endwith(<vow>),repeatatleast(<num>,1))

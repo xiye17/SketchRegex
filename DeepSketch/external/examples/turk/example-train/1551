@@ -1,0 +1,17 @@
+// example 
+"q",-
+"kI",+
+"ug",-
+"7mS8",-
+"S&h$2",-
+"",-
+"gi*",-
+"ud",-
+"}_26",-
+"7",-
+"gU%",-
+"}xTy1",-
+"ki",+
+
+// ground truth 
+concat(and(<low>,<let>),<vow>)

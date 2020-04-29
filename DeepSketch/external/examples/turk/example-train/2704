@@ -1,0 +1,25 @@
+// example 
+"E",+
+"EiOa",+
+"s",-
+"Aw",-
+"aiq",-
+"aiC",-
+"uA<Lb",-
+"IuUuA",+
+"",+
+"iu",+
+"eAhS",-
+"EiOA",+
+"u[^4d",-
+"i",+
+"IuUuo",+
+"3EE",+
+"AB",-
+"ie",+
+"elGf",-
+"{",-
+"3E5",+
+
+// ground truth 
+star(or(<num>,<vow>))

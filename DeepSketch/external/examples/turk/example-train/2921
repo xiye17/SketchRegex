@@ -1,0 +1,17 @@
+// example 
+"?Zt??,j|e",+
+"\",-
+"an_",+
+"G7X`J",+
+"EnCR\f;dH!yF",+
+"}iNot&h",+
+"",-
+"NlODW84N",+
+"?{",-
+"b^.MR*FiJv",+
+"!nny",+
+">0q(@V",+
+"'a9"D1ZG]wl",+
+
+// ground truth 
+endwith(repeatatleast(<any>,3))

@@ -1,0 +1,17 @@
+// example 
+"!FI",+
+";Yda@",+
+"!a",-
+"[j",+
+"|?",+
+"V",+
+"*",+
+"uv",-
+"[FOZ?",+
+"",+
+"{_E",+
+"V)EV",+
+"n<WX",+
+
+// ground truth 
+not(concat(or(<m0>,<let>),<any>))

@@ -1,0 +1,25 @@
+// example 
+"A2A9p5d5i5Y8x8o1G3b6",+
+"l)Y",-
+"]T|VN",-
+"[",-
+"lv`",-
+"|p",-
+"c7e0B1T1x1w1u8L1",+
+"A2A9p5d5i5Y8x8o1G3G3",+
+"",-
+"P",-
+"y6B8u1F9P9f0",+
+"y6B8u1F9P9R4",+
+"c7e0B1T1x1w1u8y5",+
+"*)_4H",-
+"9/",-
+"u0C4Q0t6I4u6c0",+
+"F<^f",-
+"V9N9d3I0B7K2B5z4n0",+
+"u0C4Q0t6I4u6L8",+
+"V9N9d3I0B7K2B5z4B3",+
+"~,{=",-
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),6)

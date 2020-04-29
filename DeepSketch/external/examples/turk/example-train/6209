@@ -1,0 +1,25 @@
+// example 
+"eWubu",+
+"o!WT~",-
+"]g",-
+"!!Of!I!",+
+"I!ydW!",+
+"I!ydWa",+
+"u!S8",-
+"eWubP",+
+"",-
+"`",-
+"'",-
+"!!ub",+
+"o!WT^",-
+"$I8",-
+"X!{",-
+"!!Of!IX",+
+"!!u!",+
+"WnO",+
+"u![F",-
+"|i",-
+"Wn!",+
+
+// ground truth 
+repeatatleast(or(or(or(<m0>,<vow>),<let>),<m1>),3)

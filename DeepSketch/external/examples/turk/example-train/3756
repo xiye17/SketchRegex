@@ -1,0 +1,17 @@
+// example 
+"B2_%S",+
+"n",+
+"i[y",+
+"5",-
+"lqS",+
+"ge&'",+
+"d*Is2",+
+"<7",+
+"",+
+"i",-
+"?",+
+"uOpP",+
+".1",+
+
+// ground truth 
+not(or(or(<cap>,<num>),<vow>))

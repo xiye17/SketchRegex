@@ -1,0 +1,17 @@
+// example 
+"C$>",-
+"Cu:",-
+"Bp9G-",-
+"",-
+"B07jg",-
+"Bi4y",-
+"W~",-
+"Nz",+
+"B}VR",-
+"@",-
+"H",-
+"WF",-
+"N9",+
+
+// ground truth 
+concat(<cap>,or(<low>,<num>))

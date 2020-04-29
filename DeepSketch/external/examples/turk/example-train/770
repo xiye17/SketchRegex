@@ -1,0 +1,25 @@
+// example 
+"IW",+
+"PL=.E",+
+"nxD",-
+"nxq",-
+"gDPlj",-
+"N|wN",-
+"_",-
+"N|wT",-
+"OnF",+
+"",-
+"XF",-
+"Dfi7",+
+"%",-
+"e",+
+"sE",+
+"i",+
+"gDPlF",-
+"AHMB",+
+"PL=.e",+
+"'4I",+
+"Xp",-
+
+// ground truth 
+contain(or(<num>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"u5{=bn5!)1!",+
+"Dn",-
+"`[4(\q",-
+"4_}wG(_",-
+"2RH&d&!&!",+
+"t6ZFw.{{{6I!",+
+"=]tiAQ!P",-
+"uB6Q=6!R!!",+
+"rF2YO<!!",+
+"",-
+"VMT^io!",+
+"t6ZFw.{{{6!!",+
+";",-
+"uB6Q=6!Re!",+
+"u5{=bn5!)!!",+
+"OLQ;l",-
+"+AK",-
+"m0%=",-
+"rF2YO<7!",+
+"=]tiAQ&P",-
+"2RH&d&!!!",+
+
+// ground truth 
+concat(repeatatleast(<any>,6),<m0>)

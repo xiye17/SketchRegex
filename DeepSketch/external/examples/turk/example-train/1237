@@ -1,0 +1,25 @@
+// example 
+"QOzP",+
+"G",-
+"E|",-
+"U[ew1",+
+"o",-
+"e"DezB",+
+"aC",+
+"E@",-
+"cu(",-
+"e"DeUh",+
+"O|e\y",-
+"QOTk",+
+":U\m",-
+":U\s",-
+"",-
+"]IP",+
+"]Ie",+
+"O|e\d",-
+"cu_",-
+"aw",+
+"UkvDk",+
+
+// ground truth 
+contain(concat(<vow>,<let>))

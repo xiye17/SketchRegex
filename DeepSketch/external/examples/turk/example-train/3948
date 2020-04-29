@@ -1,0 +1,17 @@
+// example 
+"i[G6",-
+"LLoF7",-
+"o",-
+"u-C",-
+"J'",-
+"",-
+"i",-
+"it",+
+"uK&",-
+"iZ",+
+"i"g+",-
+"J|",-
+"Lv;Ok",-
+
+// ground truth 
+concat(or(<cap>,<vow>),<let>)

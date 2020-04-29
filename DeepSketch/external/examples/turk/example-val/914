@@ -1,0 +1,14 @@
+// example 
+"",+
+"rn\JEqM*)",+
+"K_Cw+-;",+
+"_e",+
+"]D'x",+
+"8PL#!+",+
+"p>7]v",+
+"t",+
+"f],",+
+"6VSU<P3j",+
+
+// ground truth 
+star(or(startwith(<low>),<any>))

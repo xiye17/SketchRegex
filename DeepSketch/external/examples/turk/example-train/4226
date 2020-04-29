@@ -1,0 +1,15 @@
+// example 
+"C+>41",+
+"d7",+
+"JZo",+
+"Ev$5#^2['",+
+"lno2d':3uC",+
+"J!'(gT",+
+"&",+
+"Jk1/YB8",+
+"b$&B",+
+"",-
+"H]?_\j"n",+
+
+// ground truth 
+endwith(or(and(<m0>,<vow>),<any>))

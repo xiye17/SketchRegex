@@ -1,0 +1,25 @@
+// example 
+"haqI",-
+"QuIau",-
+"SIeuii",+
+"BEoeiAoa",+
+"haqa",-
+"iOEeOAi",+
+"u",-
+"iOEeOAO",+
+"SIeuiA",+
+"eEIiO",+
+"",-
+"moOpiaaUu",+
+"moOpiaaUI",+
+"U",-
+"BEoeiAoe",+
+"QuIao",-
+"G,i",-
+"WO",-
+"G,)",-
+"eEIie",+
+"WE",-
+
+// ground truth 
+endwith(repeatatleast(<vow>,5))

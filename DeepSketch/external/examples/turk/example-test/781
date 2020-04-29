@@ -1,0 +1,25 @@
+// example 
+"eAm",+
+"u",-
+"ea",-
+"Up(G",+
+"UwHTo",-
+"iIo",-
+"6"lAr",+
+"",+
+"Ag",+
+";",+
+"eE",-
+"UwHTE",-
+"f",+
+"i",-
+"6"lAL",+
+"Az",+
+"bliu",-
+"eAs",+
+"blii",-
+"iII",-
+"Up(h",+
+
+// ground truth 
+not(endwith(<vow>))

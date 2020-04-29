@@ -1,0 +1,17 @@
+// example 
+"!u",+
+"n",-
+"!",-
+"c<NN",-
+"!ja",-
+"!Xn0",-
+"",-
+"!}_n3",-
+"!B<JO",-
+"!f",-
+"!tw",-
+"=p",-
+"!e",+
+
+// ground truth 
+concat(<m0>,or(or(<cap>,<vow>),<m1>))

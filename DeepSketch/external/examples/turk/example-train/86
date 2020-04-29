@@ -1,0 +1,15 @@
+// example 
+"}h^^}^[",+
+"O:']",+
+"bF7Ew",+
+"P@,gmo",+
+"sTnKD}p]X",+
+"CVI2|}K6Kg",+
+"bf~",+
+"g'FtZ%\A",+
+"x",+
+"",-
+"`T",+
+
+// ground truth 
+contain(or(<any>,endwith(<cap>)))

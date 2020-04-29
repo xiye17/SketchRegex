@@ -1,0 +1,25 @@
+// example 
+"x=",-
+"w,s",-
+"p(}~OLyvE",+
+"}{||SJJkOe",+
+"jsSpXA",+
+"glZ[",-
+"jsSpXy",+
+"~`JMWojO",+
+"}{||SJJkOR",+
+"X",-
+"SE'}[",-
+"p(}~OLyvk",+
+"",-
+"`",-
+"]fjYMeR",+
+"SE'}I",-
+"w,$",-
+"]fjYMel",+
+"xb",-
+"glZ}",-
+"~`JMWojs",+
+
+// ground truth 
+repeatatleast(contain(<let>),6)

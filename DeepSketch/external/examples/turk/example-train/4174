@@ -1,0 +1,16 @@
+// example 
+"(*d;",-
+"czO",-
+"%b2",-
+"L3/S",-
+"yy",-
+"F'3",+
+"4",-
+"Mq",-
+"@VG#x",-
+"Tv)x|",-
+"I",-
+"",-
+
+// ground truth 
+concat(<cap>,concat(<any>,<num>))

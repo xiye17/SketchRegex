@@ -1,0 +1,17 @@
+// example 
+"s",-
+"C&[",-
+"u'",-
+"aJn#",-
+"UX]fW",-
+"",-
+"z6",-
+"Ic",+
+"ir",+
+"Uo6d3",-
+"ac!{",-
+"M",-
+"x!0",-
+
+// ground truth 
+concat(or(<num>,<vow>),<low>)

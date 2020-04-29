@@ -1,0 +1,25 @@
+// example 
+"!`",+
+"ND7sIcL",+
+"v1S9a",-
+"I><B",+
+"8(PQ",-
+"NZbpj?",+
+"l",-
+"!",-
+"b/",-
+"ANOSq]FU",+
+"",-
+")zr",-
+"KQ",+
+"RY8",+
+"L",+
+"W4^'m#yVB",+
+"!\69t",-
+":W",-
+"g|?",-
+"o^@/",-
+"D5(T`",+
+
+// ground truth 
+or(concat(<m0>,<any>),startwith(<cap>))

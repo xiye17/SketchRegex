@@ -1,0 +1,25 @@
+// example 
+"!UIAHPSABKLYOUFF",+
+"!JDLCDMVSNG",+
+"rD",-
+"!ZZVVWWN",+
+"!p4",-
+"!QVUDCMGNETC",+
+"!ZQSQKI",+
+"!TPTYPNQSZNCJH",+
+"!",-
+"!_as",-
+"",-
+"!RKKZWATZQMBK",+
+"!EAHAMUJDX",+
+"!i{pd",-
+"!f",-
+"!E8",-
+"!XSVKFCVJYHILTH",+
+"{",-
+"!9Pm>",-
+"!IMSFRGEP",+
+"p8vt",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<cap>,6))

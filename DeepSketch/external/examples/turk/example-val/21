@@ -1,0 +1,20 @@
+// example 
+"}a-#\1s",+
+"+|:PbP",+
+"VQM`fKXx%E{c;n>",+
+"ndN",-
+"R]",-
+"",-
+"Y.[Y{,t~=R",+
+"5J)n'P+7G={",+
+"%v;V42N@ejG<",+
+"f*Bch",-
+"7",-
+"qeb;8#,o#",+
+"58=Xzvhztp>}H1",+
+""fvGWI[>A*RW3",+
+"?:E>Jxb/",+
+"Y5o&",-
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),6)

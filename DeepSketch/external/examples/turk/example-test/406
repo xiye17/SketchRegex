@@ -1,0 +1,14 @@
+// example 
+"",+
+"iv",+
+"Zp[BYC",+
+")",+
+"l8.",+
+"3=GUP&U+",+
+"=c>|LYO",+
+"Ih4W`^Q"e",+
+"81@#",+
+"-lvEM",+
+
+// ground truth 
+contain(or(<m0>,not(<vow>)))

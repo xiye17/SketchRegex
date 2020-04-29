@@ -1,0 +1,15 @@
+// example 
+"WV;:",+
+"4n#Z/",+
+"W%",+
+"x*VUKjNr",+
+"3",+
+"9+}Zyt",+
+"L_z",+
+"W[|J]IJ98",+
+""=Rmx&2ANy",+
+"",-
+"<7bF]m+",+
+
+// ground truth 
+endwith(or(or(<m0>,<any>),<m1>))

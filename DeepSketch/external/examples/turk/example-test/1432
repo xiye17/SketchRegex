@@ -1,0 +1,24 @@
+// example 
+"r",-
+"!XVQVUJ",+
+"]^qM",-
+"!",+
+"!Gl/2",-
+"!z`'}",-
+"",-
+"!FPO",+
+"!QHGAHDZ",+
+"!CC",+
+"!CMHHE",+
+"!LCHC",+
+"!?",-
+"!W",+
+"!KWPPGSCE",+
+"!OWCMJDGMP",+
+"!@=E",-
+"!vo",-
+"y[/",-
+"gi",-
+
+// ground truth 
+concat(<m0>,star(<cap>))

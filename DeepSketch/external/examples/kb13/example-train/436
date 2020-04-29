@@ -1,0 +1,25 @@
+// example 
+"c`|",-
+"nQ",+
+"`T}^^",-
+"q[m8",-
+"psj",+
+"_",-
+"]}~eUI",+
+"",-
+"pUR",+
+"=L",-
+"c`1",-
+"`T}^n",-
+"06DT",+
+"|9~ay",+
+"]}~ekL",+
+"06Dl",+
+"A",-
+"q[m_",-
+"nq",+
+"|9~aE",+
+"={",-
+
+// ground truth 
+contain(repeatatleast(<let>,2))

@@ -1,0 +1,17 @@
+// example 
+"O!p",+
+"4'AGF",-
+"O!Z",+
+"m",-
+"3f",-
+"H!^",-
+"",-
+"`J",-
+"H!|",-
+"A![Z",-
+"hf@P",-
+"l/].X",-
+"B",-
+
+// ground truth 
+concat(<cap>,concat(<m0>,<let>))

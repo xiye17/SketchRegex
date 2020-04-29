@@ -1,0 +1,25 @@
+// example 
+"i}}}5",-
+"lth4",-
+""E-",-
+"SUapsKl",+
+"OT}!KK{TI`B",+
+"lth|",-
+"A_qSk%xKC",+
+"^",-
+"",-
+"i}}}j",-
+"=",-
+"N]XBgEZd",+
+"g8-{WAlnKt",+
+"i"",-
+"]"c",-
+"g8-{WAlnKA",+
+"SUapsKI",+
+"OT}!KK{TI`d",+
+"N]XBgEZA",+
+"A_qSk%xKb",+
+"ii",-
+
+// ground truth 
+repeatatleast(startwith(<let>),7)

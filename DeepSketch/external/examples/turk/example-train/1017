@@ -1,0 +1,17 @@
+// example 
+"r",+
+"n",+
+"y{y",+
+"e",-
+"eI",+
+"a",-
+"",+
+"uE=_0",+
+"icxF",+
+"eIUW4",+
+"o-8",+
+"if",+
+"]C*c",+
+
+// ground truth 
+concat(star(<cap>),not(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"\",-
+"3La_Q\.89.1",+
+"PWqgx",-
+"W8@su3A542",+
+"]f(g",-
+"3U)rR!",-
+"VjIw6r7",+
+"VjIw6.2",+
+"&>S]c6u2",+
+"3La_Q\.89>6",+
+"o:",-
+"",-
+"&>S]c6$0",+
+"_)b",-
+"FxIh&4%",-
+"FxIh&4R",-
+"Sc#n5<,46",+
+"Sc#n5<,p3",+
+"3U)rRb",-
+"VQ+,c4",+
+"W8@su3A5,8",+
+
+// ground truth 
+concat(repeatatleast(<any>,5),<num>)

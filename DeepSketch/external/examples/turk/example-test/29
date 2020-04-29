@@ -1,0 +1,25 @@
+// example 
+"!ggr=S",+
+"!Ho|uNp4",+
+"F",-
+"V:[fH",-
+"QR~",-
+"VIl^O",-
+"U{[M",-
+"!",+
+"_",-
+"",-
+"!!%A",+
+"!~*",+
+"db",-
+"qY",+
+"QxO",-
+"d$",-
+"!NG0Y{;jI",+
+"!4hUM",+
+"!csxK&*",+
+"`m`t",-
+"DI",+
+
+// ground truth 
+or(startwith(<m0>),concat(<let>,<cap>))

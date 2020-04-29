@@ -1,0 +1,16 @@
+// example 
+"vhA",-
+"Hu",+
+"Ho",+
+"|r",-
+"[l&Z",-
+"|l",-
+"%EYfb",-
+"[iX5",-
+"x",-
+"",-
+"vI5",-
+"%i{yD",-
+
+// ground truth 
+concat(or(or(<num>,<any>),<let>),<vow>)

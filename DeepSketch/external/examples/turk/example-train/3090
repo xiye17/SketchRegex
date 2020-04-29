@@ -1,0 +1,26 @@
+// example 
+",MHRJVGl",-
+"$AKgX",+
+"8NKSECO",-
+"A-n~",+
+"OLz",+
+"=RIKNWMy/&",-
+"",+
+"9D",+
+"#&~QUVAPX",-
+"j",+
+"CMBDBQ",-
+"P",+
+"OLQ",+
+"gUTPFCQ",-
+"A-n/",+
+"=RI)AOJITC",-
+",:DIXWTY",-
+"#&7MUNFVE",-
+"$AKg3",+
+"|;o:mISZLNL",-
+"|;o:KEPVMM.",-
+"9x",+
+
+// ground truth 
+not(contain(repeatatleast(<cap>,6)))

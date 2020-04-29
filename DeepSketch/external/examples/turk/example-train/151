@@ -1,0 +1,25 @@
+// example 
+"nd}P9c@>=V",+
+"-53{>"AB",+
+"$%O<CK)kN",+
+"^0{;/\?}xIB",+
+"m",-
+"Du%;b+P#Z]wM",+
+"Z*"53r}!YV!iQ",+
+"",-
+"^0{;/\?}x]O",+
+"Z*"53r}!YV!/G",+
+"?}Ii",-
+"D7",-
+"nd}P9c@>AQ",+
+"$%O<CK)$G",+
+"cgz:!",-
+"v'`",-
+"lZYwF[p",-
+"Y)4+]-",-
+"Du%;b+P#Z];G",+
+"9)ZW!B{:",-
+"9)ZW!B{o",-
+
+// ground truth 
+concat(repeatatleast(<any>,7),<cap>)

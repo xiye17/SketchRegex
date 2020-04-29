@@ -1,0 +1,14 @@
+// example 
+"",+
+"00d",+
+"4st]",+
+"r",+
+"(<sZX+",+
+"L|F<f4<_$",+
+"cCCX7uR",+
+"VmahQ",+
+"kB(dE$M%",+
+"+5",+
+
+// ground truth 
+contain(not(<vow>))

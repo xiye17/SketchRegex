@@ -1,0 +1,14 @@
+// example 
+"",+
+".",+
+"!=<Hj",+
+"'o<S+u&P!",+
+"V7u/",+
+"19?Z\m;*",+
+"1g14v0S",+
+"?(",+
+"+vb",+
+"jIM.xW",+
+
+// ground truth 
+not(and(endwith(<m0>),<num>))

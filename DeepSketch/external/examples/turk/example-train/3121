@@ -1,0 +1,18 @@
+// example 
+"r",-
+"^\\+;i|mMF@?q",+
+"]#cX+",+
+"5/bR#}]3ubI",+
+"NU",-
+"^);/Bxn",+
+"",-
+"cb6'N=",+
+"&[q}>u/=",+
+"-;gP",+
+",;lnoA,21",+
+"fxx`4j6Oz>HX",+
+"I!FjI;#|,]",+
+"r{X",-
+
+// ground truth 
+startwith(repeatatleast(<any>,4))

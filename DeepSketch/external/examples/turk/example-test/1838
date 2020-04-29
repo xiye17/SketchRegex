@@ -1,0 +1,25 @@
+// example 
+"EZ!",+
+"s",-
+"Ij`",-
+"UD![,!!",+
+"eM!U!",+
+"Y",-
+"J7",-
+"e=c1",-
+"aK!Q!!",+
+"iK!!~",-
+"x?N",-
+"IAU!",+
+"b$YK",-
+"",-
+"aK!QU!",+
+"UD![,3!",+
+"AO!",+
+"eM!!!",+
+"['1G|",-
+">[",-
+"IA!!",+
+
+// ground truth 
+concat(startwith(concat(<vow>,<cap>)),<m0>)

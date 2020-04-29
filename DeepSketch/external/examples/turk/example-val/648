@@ -1,0 +1,25 @@
+// example 
+"t",-
+"!E",-
+"!UY~vN",+
+"tVfp)",-
+"tyy4v_v=",-
+"!@JsI",+
+"!a+Flm",+
+"!",+
+"!GB",+
+"!|E",+
+"",-
+"=VPIo*:",-
+"!O=m",+
+"!R",+
+"d&=?",-
+"!a{7",+
+"jaH",-
+"![",+
+"!bmD;",+
+"x`zp*m",-
+"!i",-
+
+// ground truth 
+concat(<m0>,not(<vow>))

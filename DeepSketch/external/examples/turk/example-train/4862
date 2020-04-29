@@ -1,0 +1,23 @@
+// example 
+"Imu\aTokAvO&AxO%aMo/",+
+"a8ebo]i'ImI/u/",+
+"OVuDA>EWEgI9i3O#",+
+"aTA=e",-
+"Imu\aTokAvO&AxO%aMEc",+
+"a8ebo]i'ImI/IH",+
+"OVuDA>EWEgI9i3i8",+
+"",-
+"idijoguEoFUViou+oc",+
+"a",-
+"aTA=u",-
+"idijoguEoFUViou+U]",+
+"j[",-
+"Le,",-
+"Uqo%",-
+"l89",-
+"p,2d",-
+"A|",-
+"A",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),7)

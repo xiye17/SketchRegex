@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"THBA!",+
+"O!!!",+
+"vDOG8",-
+"A!!!W!",+
+"",-
+"R|I",-
+"MO!^",-
+"vDO!v",-
+"IM",-
+"e!!",+
+"e<!",+
+"THBu!",+
+"N",-
+"O",-
+"u!",+
+"MO'm",-
+"A!!!!!",+
+"R|O",-
+"O!1!",+
+"ma",-
+
+// ground truth 
+concat(contain(<vow>),<m0>)

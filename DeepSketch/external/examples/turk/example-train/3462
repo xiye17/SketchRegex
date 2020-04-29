@@ -1,0 +1,25 @@
+// example 
+"G(5D",+
+">7z1",-
+"?)_9a",-
+"Gf4+A",+
+"%:",-
+"Ok!J,p",+
+"2uV",+
+"G(Kr",+
+"",-
+"?)_9.",-
+"[-"",-
+"[-f",-
+">7zj",-
+"$pxX5@W",+
+"22E",+
+"%c",-
+"^N",+
+"OW*OZh",+
+"M",-
+"$px)GF\",+
+"Gf4Sb",+
+
+// ground truth 
+contain(concat(<any>,<cap>))

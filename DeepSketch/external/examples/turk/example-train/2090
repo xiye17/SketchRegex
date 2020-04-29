@@ -1,0 +1,15 @@
+// example 
+"",+
+"7r^tj)",+
+"4.",+
+"7",-
+"_{q",+
+"kaeV",+
+">wFPI",+
+"30!|J:',^",+
+""U_>;$)",+
+"D>2P!ZJI",+
+"^RtNRa?P=r",+
+
+// ground truth 
+not(or(or(<let>,<num>),<any>))

@@ -1,0 +1,17 @@
+// example 
+"1rO:",-
+"DU",+
+"l7s",-
+"6u6",-
+"",-
+"wQ",-
+"WcVI_",-
+"i",-
+"Dv",+
+"T}Xu",-
+"3S",-
+"W|]9v",-
+"D",-
+
+// ground truth 
+concat(<cap>,or(<low>,<let>))

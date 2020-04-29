@@ -1,0 +1,25 @@
+// example 
+"I+",-
+"t,`",-
+"uuEIuuAoE",+
+"AooUoeIi",+
+"eouaOiAeoEEm",+
+"G"Q'x",-
+"",-
+"b",-
+"oHu$j",-
+"ieAEIoaUEi",+
+"uoOiIEAaueC",+
+"Id",-
+"ieAEIoaUEU",+
+"ll5^",-
+"AooUoeIG",+
+"eouaOiAeoEEO",+
+"B?]",-
+"uuEIuuAod",+
+"A",-
+"oKYh",-
+"uoOiIEAaued",+
+
+// ground truth 
+concat(repeatatleast(<vow>,7),<any>)

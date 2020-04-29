@@ -1,0 +1,16 @@
+// example 
+"",+
+"|,",+
+"[Q1qr",+
+"7AL",+
+"2",+
+"q",-
+"l1b",+
+"}@a;T",+
+"Ov",+
+"}5e5",+
+"{",+
+"EfLr",+
+
+// ground truth 
+or(not(<low>),contain(<cap>))

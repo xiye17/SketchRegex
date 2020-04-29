@@ -1,0 +1,19 @@
+// example 
+"<:+",-
+"7(iK",-
+"K_y=5",-
+"`S-YLLKL-OOEiNDV",+
+"QB*W=X`HMR3O",+
+"UTMT)PLWgOmJfL",+
+"!",-
+"1DOHQCzY_T4B#P%G]U",+
+"",-
+":>",-
+"<G;",-
+"7zmv",-
+"K"K6h",-
+":W",-
+"|T?W?VPLnOaO^A{H_INF",+
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),6)

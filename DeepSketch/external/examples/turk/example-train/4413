@@ -1,0 +1,16 @@
+// example 
+"a~Ef",-
+"*Fv",-
+"wx4",+
+"^k66i",-
+"7{",-
+"wY7",+
+"J",-
+"^kzn+",-
+"*F,",-
+"7H",-
+"",-
+"a[|&",-
+
+// ground truth 
+concat(concat(<any>,<let>),<num>)

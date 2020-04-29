@@ -1,0 +1,26 @@
+// example 
+":|TIAE",+
+":8WSRM",+
+"d?:W+ETCU",+
+"X",-
+"CS",-
+"pW:N",-
+"g_W|W!BW",+
+"",-
+"a",-
+"BZOO",+
+"anU",-
+"p4M36",-
+"pW:g",-
+"p4M3I",-
+"HcJWW",+
+"C1",-
+"anz",-
+"}2KV-HT",+
+"H7CFM",+
+"}2KjWZL",+
+"g_W|-MHX",+
+"d?:W+ETlY",+
+
+// ground truth 
+contain(repeat(contain(<cap>),4))

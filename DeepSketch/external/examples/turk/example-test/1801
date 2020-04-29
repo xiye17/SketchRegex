@@ -1,0 +1,15 @@
+// example 
+"c)",-
+"96ll",-
+"9Vi^",-
+"g34_t",-
+"a0",+
+"cj",-
+"09c",-
+"0go",-
+"g@2VI",-
+"y",-
+"",-
+
+// ground truth 
+concat(or(or(<low>,<cap>),<any>),<num>)

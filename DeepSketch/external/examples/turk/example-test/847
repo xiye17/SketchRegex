@@ -1,0 +1,16 @@
+// example 
+"1rb",-
+"$",-
+"O@AK",-
+"p",-
+"L3f",-
+"U?",-
+"I",+
+"NpHHD",-
+"0ru9",-
+"",-
+"7D",-
+"f+mjh",-
+
+// ground truth 
+and(and(<cap>,<any>),<let>)

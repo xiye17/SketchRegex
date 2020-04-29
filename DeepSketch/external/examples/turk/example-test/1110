@@ -1,0 +1,25 @@
+// example 
+"\",-
+"@a~8",-
+"WEICT",+
+"o!p",-
+"BDWraXIuF",+
+"hmyYgA",+
+"u__2",-
+"Nn7KC",-
+"QyTMJRTS",+
+"",-
+"]$",-
+"hmyYgp",+
+"QBmeayb",+
+"5)o",-
+"QBmeayQ",+
+"BDWraXIum",+
+"~g",-
+"N{X>?",-
+"QyTMJRTz",+
+"WEICh",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),5)

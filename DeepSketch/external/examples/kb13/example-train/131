@@ -1,0 +1,25 @@
+// example 
+"qeen",+
+"PWuoL",+
+"OSI\TS",+
+"ii",+
+"=eO",+
+"u",-
+"=eu",+
+"Oc",-
+"qefI",+
+"e",-
+"PWuuF",+
+"",-
+"Ot",-
+"iu",+
+"uTS",-
+"eHzh",-
+"A0sFM",-
+"uTD",-
+"OU7r+Q",+
+"eHzP",-
+"A0sFR",-
+
+// ground truth 
+repeat(contain(<vow>),2)

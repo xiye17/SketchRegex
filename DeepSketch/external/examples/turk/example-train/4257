@@ -1,0 +1,25 @@
+// example 
+":6j",-
+"N9T;KdI_U",+
+"nhV",-
+"rZ0;\",-
+"GcUs1Ak74g",+
+"Y",-
+"RQS[[Eh",+
+"DfRw!@##L\v",+
+"TU1:l",+
+"Ub",+
+"",-
+"yg",-
+")|",-
+"w&g%",-
+"SNZj",+
+"v",-
+"4nPwb",-
+"T?m^i|",+
+"W[H@yszy",+
+"#J1I",-
+"UpK",+
+
+// ground truth 
+concat(startwith(<cap>),<any>)

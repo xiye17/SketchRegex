@@ -1,0 +1,25 @@
+// example 
+"!aEoUaiuAEo",+
+"!UF",-
+"!uaeoEauIO",+
+"!'$a{",-
+"y^",-
+"!eoeAIiuAeiU",+
+"!aEoUaiuAEu",+
+"!",-
+"!OV+",-
+"!uaeoEauII",+
+"!uooOaUOO",+
+"",-
+"b",-
+"!U",-
+"!eoeAIiuAeio",+
+"!Ue",-
+"Pn7'",-
+"!IoIUEEe",+
+"!uooOaUOo",+
+"!IoIUEEa",+
+"!coXj",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<vow>,7))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"zPM?rMp$%",+
+"Ow",+
+",",+
+"z`wF",+
+"]2-$33P",+
+"k:K",+
+"Ee<p;",+
+"5Jmq-/",+
+":}]]Jd[q",+
+
+// ground truth 
+contain(not(or(<let>,<low>)))

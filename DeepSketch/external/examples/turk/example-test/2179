@@ -1,0 +1,16 @@
+// example 
+"!W4",+
+"!*",-
+"!Y[",-
+"D^x",-
+"!r0q",-
+"!",-
+"X",-
+"!r=~",-
+""/",-
+"",-
+"@Ae`O",-
+"!g(Lv",-
+
+// ground truth 
+concat(concat(<m0>,<any>),<num>)

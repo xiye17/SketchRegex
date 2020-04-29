@@ -1,0 +1,25 @@
+// example 
+"IaEa",-
+"\"k",-
+"=3kkp",-
+"!:7V^F",+
+"PGYFV^c",+
+"{DeKY",-
+"!",+
+"!&m^?",+
+"",-
+"I{",-
+"IA",-
+"'",-
+"IP+F",-
+"!\qT",+
+"!Q",+
+">s'",-
+"!OH",+
+"AKRFPF",+
+"M",-
+"!K=?p8|",+
+"EGSZA",+
+
+// ground truth 
+startwith(or(repeatatleast(<cap>,5),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"@~RT",-
+"!U$"",-
+"!O!E%",-
+"!E",-
+"!O!I!i!E!O",+
+"!",-
+"!i!e!I!I",+
+"",-
+"b",-
+"!U!u!O!e!O!i!a!A",+
+"!U",-
+"!U!u!O!e!O!i!a!o",+
+"!B>wS",-
+"!i!O!U!O!O!U!A",+
+"!E!a!e!E!e!O",+
+"L?$",-
+"!eA",-
+"!i!O!U!O!O!U!a",+
+"!i!e!I!e",+
+"!O!I!i!E!u",+
+"!E!a!e!E!e!A",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),4)

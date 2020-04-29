@@ -1,0 +1,16 @@
+// example 
+"",+
+"p"",+
+"s",+
+"p{",+
+"{D-",+
+"}0,P",+
+"sW%)\",+
+"NyW(",+
+"dB",-
+"H/4",+
+"s>:UH",+
+"}",+
+
+// ground truth 
+not(concat(<low>,<cap>))

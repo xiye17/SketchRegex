@@ -1,0 +1,17 @@
+// example 
+"G",-
+"^P9",-
+"Bg",-
+"Te5",+
+"]19x",-
+"",-
+"`",-
+"Bj",-
+"{RN",-
+"OxRA`",-
+"TA0",+
+"}vL1",-
+"Ob5Va",-
+
+// ground truth 
+concat(concat(<let>,<vow>),<num>)

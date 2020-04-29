@@ -1,0 +1,14 @@
+// example 
+"",+
+"Z",+
+"m/^!}P'zc",+
+"n_Yj",+
+"Te[=B)",+
+"*h+Je}d",+
+"GhA/vv3H",+
+"pkW",+
+"s5",+
+"@w,"s",+
+
+// ground truth 
+not(and(and(<m0>,<num>),<vow>))

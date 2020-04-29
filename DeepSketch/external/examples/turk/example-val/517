@@ -1,0 +1,15 @@
+// example 
+"D",+
+"C5JB}",+
+"[<6}S'60",+
+"7-"Z2J+7N"",+
+"t'",+
+"S3{",+
+"?u"SGG",+
+"g\.7Un0Ka",+
+")_?-",+
+"N"A6~PQ",+
+"",-
+
+// ground truth 
+contain(or(or(<num>,<any>),<vow>))

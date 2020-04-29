@@ -1,0 +1,23 @@
+// example 
+"l!}CB",-
+"l",-
+"*s%",-
+"",-
+"M!Z!j!Y!e!q!z!",+
+"y!R!B!u!p!c!J!d!x!",+
+"Q",-
+"M!Z!j!Y!e!q!B!",+
+"c!f!n!s!Q!S!r!X!F!d!",+
+"]e!M",-
+"l~LjU",-
+"c!f!n!s!Q!S!r!X!F!Z!",+
+"|U",-
+"zoy",-
+"}ccd",-
+"Z!g!K!W!o!F!q!r!",+
+"y!R!B!u!p!c!J!d!H!",+
+"Z!g!K!W!o!F!q!J!",+
+"nA",-
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),7)

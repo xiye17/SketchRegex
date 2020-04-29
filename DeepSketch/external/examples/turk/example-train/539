@@ -1,0 +1,26 @@
+// example 
+"ez",-
+"dlC",-
+""F!",+
+"u",-
+"Eauir",-
+"mEuc!",+
+""|!",+
+"GI!Q",+
+"Eauiu",-
+"r!",+
+"!t{?L!",+
+"!",+
+"",-
+"DI|r",-
+"Q",-
+"GIs!",+
+"dlv",-
+"OG",+
+"DI|K",-
+"eg",-
+"mEuiA",+
+"vOu{OW",+
+
+// ground truth 
+contain(or(concat(<vow>,<cap>),<m0>))

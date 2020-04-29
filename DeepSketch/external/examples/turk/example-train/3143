@@ -1,0 +1,15 @@
+// example 
+"",+
+"&p(kw",+
+"x5j*A&,Hz{",+
+"Ug`",+
+".",-
+"XG[K^[,<",+
+"Kd?+a#",+
+"Kd|I",+
+"bN",+
+"<RgrjTY",+
+"mH|WEpA!6",+
+
+// ground truth 
+not(or(or(<vow>,<let>),<any>))

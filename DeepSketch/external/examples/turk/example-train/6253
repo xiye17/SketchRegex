@@ -1,0 +1,25 @@
+// example 
+"C~D}h",-
+"o_",+
+"Us{=Y",+
+"Los",+
+"a",+
+"MQP",-
+"dg",-
+"MQG",-
+"",-
+"C~D}N",-
+"LEq",+
+"eC",+
+"dK",-
+"jU#&",+
+"R",-
+"cFkL",-
+"cFk'",-
+"u",+
+"dHDPU",+
+"C",-
+"jI3[",+
+
+// ground truth 
+contain(and(and(<let>,<vow>),<any>))

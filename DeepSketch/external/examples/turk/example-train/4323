@@ -1,0 +1,25 @@
+// example 
+"uSIGB",-
+"j*oJUI",+
+"AAr+",+
+"ai"T]",+
+"Be",-
+"E&o",-
+"uSIGa",-
+"Ue",+
+"",-
+"E&<",-
+"Ba",-
+"G\Ma",-
+"UO",+
+"O",-
+"Ai&d",+
+"j*oJUA",+
+"caA",+
+"cau",+
+"aoq6>",+
+"H",-
+"G\Me",-
+
+// ground truth 
+contain(repeatatleast(<vow>,2))

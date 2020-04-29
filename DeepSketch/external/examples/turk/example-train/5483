@@ -1,0 +1,25 @@
+// example 
+""1sP",+
+"U7HbI",+
+"fD,UR",-
+"5M~",+
+"|;6",+
+"}+",+
+"h6hKZ:"fV",-
+"|==N",+
+"cnQ"",-
+"b;&>&k|[",-
+"",+
+"}r3?0",+
+"kpV2PT$",-
+"akD",-
+"d1@oVs",-
+"l>z?yaCA~d",-
+"K",+
+"z",-
+"&v",+
+"|",+
+"z,",-
+
+// ground truth 
+not(startwith(repeatatleast(<low>,1)))

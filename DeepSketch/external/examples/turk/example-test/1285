@@ -1,0 +1,18 @@
+// example 
+"(3k4/P",+
+"!",-
+"TR@J17v",+
+"_es",-
+"BJJ>_",+
+"``jl?0qMm.1.}",+
+"",-
+"@n",-
+"r^.)aG2q1d",+
+"&^>}^MeV,["-",+
+"Lwuc0it@",+
+"ZCLd",+
+"e1VeKXZEh",+
+".{V[;Sa^@[@",+
+
+// ground truth 
+contain(repeatatleast(<any>,4))

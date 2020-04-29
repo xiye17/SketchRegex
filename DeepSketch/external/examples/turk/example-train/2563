@@ -1,0 +1,25 @@
+// example 
+"!iuiE",+
+"!uiAee",+
+"!KEU",+
+":#j6s",-
+"!|",-
+"!",-
+"!b|",-
+"!H",-
+"!KEI",+
+"",-
+"'",-
+"!joP",-
+"!~[+u",-
+"!uiAeu",+
+"!?y",-
+"!dI",+
+"!RUuiEU",+
+"!iuii",+
+"#by=",-
+"!RUuiEI",+
+"!dO",+
+
+// ground truth 
+concat(concat(<m0>,<let>),repeatatleast(<vow>,1))

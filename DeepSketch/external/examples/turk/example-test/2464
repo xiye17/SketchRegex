@@ -1,0 +1,25 @@
+// example 
+"40HUD",+
+"CF73412T",+
+"2",-
+"2}k5",-
+"2XXNUT5",+
+"09Q9H3QW6",+
+"'^k%",-
+"\%~//",-
+"NLVI59",+
+"$8F$"",-
+"2XXNUTK",+
+"",-
+"$b",-
+"CF734129",+
+"+_R",-
+"09Q9H3QWW",+
+"~vN",-
+"40HU8",+
+"@C",-
+"?",-
+"NLVI5W",+
+
+// ground truth 
+repeatatleast(or(<num>,<cap>),5)

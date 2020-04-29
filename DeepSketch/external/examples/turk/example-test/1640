@@ -1,0 +1,17 @@
+// example 
+"E",+
+"o",+
+"C`u@@",-
+"d",-
+"",-
+"VJX",-
+"uXXP",-
+"}",-
+")aso4",-
+"s@v",-
+"aK~U",-
+"e]",-
+"uR",-
+
+// ground truth 
+or(or(<m0>,<m1>),<vow>)

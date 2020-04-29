@@ -1,0 +1,19 @@
+// example 
+"{wAg_3F",+
+"S}|",-
+"wz\:efGTn/Y.Xo",+
+"}5]nV|",+
+"u3O@q[:a1P7yG",+
+"X:/yp",+
+"%|>X#o|j/n",+
+"",-
+"yi",-
+"PIHk9eMn%8=",+
+"V7v'^es~'G0q",+
+"`O_ShSR^/",+
+"K",-
+"-g<L"E{s",+
+"xkO=",-
+
+// ground truth 
+concat(not(<let>),repeatatleast(<any>,5))

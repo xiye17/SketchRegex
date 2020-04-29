@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+repeatatleast(and(and(<low>,<vow>),<m0>),1)

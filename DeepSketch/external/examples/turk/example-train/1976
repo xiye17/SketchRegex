@@ -1,0 +1,26 @@
+// example 
+"!@i",+
+"!,ZdO",-
+"!@ieeOa",+
+"!u",-
+"!@Eae",+
+"!@EaO",+
+"!",-
+"!@UG",-
+"!@UUue",+
+"(",-
+"!@oE",+
+"",-
+"!@ieeOo",+
+"!@I",+
+"*^",-
+"!@",+
+"!@oU",+
+"!@UUuo",+
+"!@Z",-
+"!XPVG",-
+"!@U^",-
+"tjd",-
+
+// ground truth 
+concat(concat(<m0>,<m1>),star(<vow>))

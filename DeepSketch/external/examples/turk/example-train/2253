@@ -1,0 +1,25 @@
+// example 
+"q",+
+"u{u",+
+",2`I=",+
+"bk",-
+"}+a_",+
+"bIeKqilB",-
+"",+
+"ixdmoV",-
+"bIeKqilv",-
+"}q",+
+"g/",+
+"7",+
+"uNo",+
+"uExS",-
+"uExn",-
+"ixdmoq",-
+"znohgXwgaC",-
+"8bU0",+
+"znohgXwgan",-
+"bL",-
+"z}[ax",+
+
+// ground truth 
+not(repeatatleast(concat(<low>,<let>),1))

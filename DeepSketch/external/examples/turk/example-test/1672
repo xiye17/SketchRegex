@@ -1,0 +1,15 @@
+// example 
+".",+
+"9M)l+}",-
+"t"}S#1Tq",-
+"%gd",-
+"GOa}_sr(z%",-
+"v,<eZ1$5z",-
+"5Rjx",-
+"T0vEj",-
+"*#",-
+"",-
+">{OWrdn",-
+
+// ground truth 
+or(or(<cap>,<let>),<any>)

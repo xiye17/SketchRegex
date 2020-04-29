@@ -1,0 +1,15 @@
+// example 
+"",+
+"!]",+
+"!|LL",+
+"#TsY%",+
+"ldC",+
+"!",-
+"!ZD2t",+
+"<",+
+"a3",+
+"!{+",+
+"u_+o",+
+
+// ground truth 
+or(not(<m0>),and(<vow>,<any>))

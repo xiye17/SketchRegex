@@ -1,0 +1,17 @@
+// example 
+"y4|",+
+"|s",+
+"{c|S_",+
+"p",-
+"!z",+
+"",+
+"<ot]",+
+"uTcH",+
+"Rv|`A",+
+"ZjX",+
+">",+
+"{",+
+"E",-
+
+// ground truth 
+not(or(or(<num>,<let>),<cap>))

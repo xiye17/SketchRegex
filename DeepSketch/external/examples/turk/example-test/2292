@@ -1,0 +1,15 @@
+// example 
+"",+
+"ZhVS&iFL",+
+"RI",+
+"vFG#,01U#",+
+".P\KN%O!z5",+
+"jP!",+
+"u",-
+"&jp[",+
+"}sl/Ii",+
+"0xo>n",+
+"{KpPP4$",+
+
+// ground truth 
+not(or(or(<any>,<cap>),<num>))

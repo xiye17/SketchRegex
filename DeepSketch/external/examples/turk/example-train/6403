@@ -1,0 +1,25 @@
+// example 
+"-",+
+"OWB",+
+"UPOKOYS4w9A4ZV",-
+"Av",+
+"CGXOV"9s9<q/",-
+"",+
+"PKBXR2txe'9",-
+"AWTKJ",-
+"WJDIH"v^9",-
+"`A",+
+"Pxri",+
+"MCHPZ&",-
+"ITVDLhOp",-
+"JBTWBzAPmg",-
+"FIFQIidwruKy^",-
+"y!F",+
+"I7SK'",+
+"C",+
+"zf<S",+
+"z,_jR",+
+"WVAOM&%",-
+
+// ground truth 
+not(startwith(repeatatleast(<cap>,5)))

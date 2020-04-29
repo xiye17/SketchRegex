@@ -1,0 +1,14 @@
+// example 
+"",+
+"Tk|<",+
+"CC6Zz",+
+"3]8",+
+";2onm\:,.",+
+"wa!`gA",+
+"`",+
+"zZ",+
+"mez-N2q",+
+";(qXWw/@",+
+
+// ground truth 
+endwith(contain(not(<any>)))

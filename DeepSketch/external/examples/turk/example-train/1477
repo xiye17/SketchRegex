@@ -1,0 +1,25 @@
+// example 
+"O7",+
+"oTEp",-
+"uuO",-
+"Dm\Be9",+
+"ikIdi",-
+"e",-
+"A9U6",+
+"/E~i1",+
+"",-
+"EL",-
+"/E~e8",+
+"a",-
+"i3",+
+"ikIde",-
+"ea7",+
+"A9o3",+
+"oTEf",-
+"uu,",-
+"eI7",+
+"E'",-
+"Dm\BU8",+
+
+// ground truth 
+concat(endwith(<vow>),<num>)

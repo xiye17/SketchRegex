@@ -1,0 +1,17 @@
+// example 
+"EP",+
+"aC(`H",-
+"eZ3Z",-
+"Erq",-
+"",-
+"iE",+
+"a",-
+"a9>n7",-
+"eyMK",-
+"E2=",-
+"E`",-
+"H",-
+"E+",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<m1>),<cap>)

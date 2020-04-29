@@ -1,0 +1,25 @@
+// example 
+"!!x",+
+"mm!A",+
+"bISA!",+
+"nf|Cq",-
+"s!!Hi!n",+
+"!D]",-
+"!!Q",+
+"nf+P!",-
+"!D8",-
+"SefLNz",+
+"",-
+"mm!!",+
+"7*",-
+"|"",-
+"~+>p",-
+"bISAF",+
+"!]+Z",-
+"SefLN!",+
+"s!!Hi!M",+
+"L",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),3)

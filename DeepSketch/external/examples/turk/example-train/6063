@@ -1,0 +1,17 @@
+// example 
+"uI|",-
+"ugiN",-
+"k",-
+"_",-
+"",-
+"7?",-
+"e",+
+"77rxK",-
+"?L%",-
+"I",+
+"Nt}8",-
+"QU",-
+"IMZ,J",-
+
+// ground truth 
+or(or(or(<num>,<m0>),<vow>),<m1>)

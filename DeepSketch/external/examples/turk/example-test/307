@@ -1,0 +1,25 @@
+// example 
+"J`{vw",+
+"]",-
+"b?i`H[",+
+"T_",-
+"b?iOo+",+
+"TT",-
+"T~T_|",-
+"^&b7",-
+"#&o{v`C",+
+"",-
+"4vBj",+
+"J`{vQ",+
+"g",-
+"a}{",-
+"eeM",+
+"a}c",-
+"eeg",+
+"T~T_]",-
+"4vBU",+
+"#&o{v`i",+
+"^&bM",-
+
+// ground truth 
+repeatatleast(contain(<let>),3)

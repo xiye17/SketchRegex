@@ -1,0 +1,25 @@
+// example 
+"I!S!B!A!L!",+
+"T!B!A!J!Q!9tR!=-2ls",+
+"H!Q!F!R!V!/",+
+"F!Z",-
+"E!J!R!O!V!ZTt@nq",+
+"t}y",-
+"S'A\",-
+"Q!K!I!J!M!GSf",+
+"p0h3",-
+"IVe2Q",-
+"V!A!D!J!B!!]Op",+
+"",-
+"G!H!K!M!M!dO;0e",+
+"f",-
+"D!M!T!R!K!WHEf|)"",+
+"Z!O!D!L!U!$2#G,<BS",+
+"Gs",-
+"j}`;6",-
+"G!",-
+"M!H!G!P!R!6g",+
+"B",-
+
+// ground truth 
+startwith(repeatatleast(concat(<cap>,<m0>),5))

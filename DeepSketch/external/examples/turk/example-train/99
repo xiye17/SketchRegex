@@ -1,0 +1,17 @@
+// example 
+"{O",-
+"Z76",-
+"u=",-
+"}nhJ",-
+"",-
+"`",-
+";+,_",-
+"aUk",+
+"T",-
+"~R]",-
+"_*pVs",-
+"~_")Q",-
+"TBs",+
+
+// ground truth 
+concat(concat(<let>,<cap>),<low>)

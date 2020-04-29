@@ -1,0 +1,25 @@
+// example 
+"ilws",-
+"ld",+
+"EScUR",-
+"eJ`",+
+"o",-
+"iY",-
+"ip",-
+"O}",+
+"EVo",-
+"EScUf",-
+"m",+
+"T",+
+"El^a",+
+"",+
+"|Km.",+
+"cDsi8",+
+"eJ|",+
+"U",-
+"ilwP",-
+"i}:}O",+
+"EVF",-
+
+// ground truth 
+not(concat(<vow>,star(<let>)))

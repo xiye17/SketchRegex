@@ -1,0 +1,25 @@
+// example 
+"-,hgo",-
+"t!N!q!T!r!S!A!l!",+
+"}7&",-
+"e!t!b!A!y!H!T!",+
+"t!N!q!T!r!S!A!E!",+
+"r!Y!A!d!J!V!O!r!B!",+
+">cb",-
+"^OQjh",-
+"I!j!k!p!m!",+
+"a!",-
+"M!Y!c!R!L!X!",+
+"",-
+"i!]4",-
+"I!j!k!p!K!",+
+"M!Y!c!R!L!m!",+
+"f",-
+"r!Y!A!d!J!V!O!r!w!",+
+"ix'C",-
+"e!t!b!A!y!H!u!",+
+"a@",-
+"{",-
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),5)

@@ -1,0 +1,17 @@
+// example 
+"H`",+
+"~6Vp",-
+"~:T",-
+"n|VFa",-
+"+",-
+"|H",-
+"",-
+"}",-
+"2r",-
+"b@g",-
+"~xU`[",-
+"!h",+
+"[U~:",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<low>),<any>)

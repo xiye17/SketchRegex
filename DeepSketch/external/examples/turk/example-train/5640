@@ -1,0 +1,25 @@
+// example 
+"3A",+
+"`Kv;",-
+"3",-
+"0o8e3e0e",+
+"6I8o",+
+"7#`,`",-
+"6I8U",+
+"5E5E7e1U3E",+
+"2A5e6O",+
+"6U,O",-
+"7Q4O`",-
+"3e",+
+"0o8e3e0u",+
+"",-
+"2A5e6A",+
+"(+,",-
+"4k",-
+"?",-
+"5E5E7e1U3e",+
+"6i-",-
+"4d",-
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),1)

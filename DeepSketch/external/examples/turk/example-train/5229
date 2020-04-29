@@ -1,0 +1,15 @@
+// example 
+";A>lez",+
+"`M",+
+"V]%w.5z",+
+"UoEW8",+
+"k",+
+"#+Eb`I?b0",+
+"nL6ZmAk-",+
+"OAH",+
+"@{rU-0OE%3",+
+"vlob",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<m0>),<num>))

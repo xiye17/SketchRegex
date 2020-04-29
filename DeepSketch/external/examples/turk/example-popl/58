@@ -1,0 +1,18 @@
+// examples
+"Fake",+
+"Nope",+
+"Not sure",+
+"I think this will work",+
+"S8",+
+"E%",+
+"M.",+
+"S",-
+"",-
+"about",-
+"%S",-
+"(L",-
+"fore#F",-
+"foreF#",-
+
+// ground truth 
+repeatatleast(startwith(concat(<cap>,contain(<any>))),1)

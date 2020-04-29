@@ -1,0 +1,25 @@
+// example 
+"$9Bn",-
+"T@V",-
+"7`!8",+
+"2",-
+"!|",+
+"!",+
+"t%802",-
+"kBfeH3",-
+"",-
+"J!",+
+"!k#",+
+"7!DA",+
+"!3q1X",+
+"Ra&5[!",+
+"+!F",+
+"=.v!A",+
+"?%",-
+"XH8wyArL",-
+"Ra&5!K",+
+"$]v[~k42}",-
+"cM=)_EU",-
+
+// ground truth 
+contain(concat(star(<let>),concat(<m0>,star(<let>))))

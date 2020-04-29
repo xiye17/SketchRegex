@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(not(<m0>),and(and(<vow>,<low>),<cap>))

@@ -1,0 +1,25 @@
+// example 
+"NFLE",-
+"ZGEYDNJUWZ",-
+"GDZZBFZ",-
+"SVNYOGVGEYNS",-
+"$uW",+
+"FHRDAQEI",-
+"A?W^",+
+"MVFH$",+
+"FUKAF",-
+"AQU-",+
+"",+
+"CKJGGONMOXL",-
+"SFFSDYCGJ",-
+"M%fo;",+
+"S",+
+"u`",+
+"_@/",+
+"SJHNZX",-
+"u",+
+"MBFTCWVDUWSHU",-
+"5B",+
+
+// ground truth 
+not(repeatatleast(<cap>,4))

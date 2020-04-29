@@ -1,0 +1,25 @@
+// example 
+"wdu",+
+"UD",-
+"0mS#",-
+"GuB^n",-
+"{w",-
+"xwzvt",+
+"b$",+
+"b}",+
+"owyU",+
+"~%e}",-
+"E&E",-
+"p{nR_",-
+"wdA",+
+"xwzv{",+
+"cvsxe{",+
+"",-
+"}",-
+"cvsxe)",+
+"@",-
+"owy|",+
+"|VI",-
+
+// ground truth 
+concat(repeatatleast(<low>,1),<any>)

@@ -1,0 +1,25 @@
+// example 
+"-",+
+"L](n|",+
+"_E",+
+":mY",-
+":DR",-
+"/(|'",+
+"]gwdD",-
+"",+
+"![]",+
+"|EfF",-
+"]gwQK",-
+"YB",-
+"L](n_",+
+"~)}URZ",-
+"|EDK",-
+"~)}UoE",-
+"![v",+
+"_u",+
+"~",+
+"nA",-
+"/(|~",+
+
+// ground truth 
+not(concat(endwith(<let>),<cap>))

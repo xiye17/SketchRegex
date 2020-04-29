@@ -1,0 +1,14 @@
+// example 
+"",+
+"t_(N",+
+"&T",+
+"wA!",+
+"4",+
+"V[I>H",+
+"E|1^x;",+
+"h'1vI38",+
+"}]mh=lT4+",+
+"\P[FVtyY",+
+
+// ground truth 
+or(star(<num>),endwith(<any>))

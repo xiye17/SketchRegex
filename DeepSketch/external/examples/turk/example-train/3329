@@ -1,0 +1,25 @@
+// example 
+"Y",+
+"F\",-
+"MOy",+
+"{Ny",-
+"PZkP",+
+"nkY8",-
+"URLK*",-
+"VL",+
+"Xiklt",+
+"",+
+"MOC",+
+"nkY~",-
+"PZki",+
+"Vr",+
+")'",-
+"U\?FP",-
+"XiklJ",+
+">",-
+"x",+
+"^P0",-
+"~",-
+
+// ground truth 
+star(or(<let>,<cap>))

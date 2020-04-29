@@ -1,0 +1,25 @@
+// example 
+"r",-
+"ueE",+
+"Au",+
+"uuAEU",+
+"o",+
+"In",-
+"g<*O",-
+"IJ",-
+"iUEa",+
+"uuAEO",+
+"wE*",-
+"",-
+"iUEe",+
+"ug^U",-
+"uei",+
+"c#8}E",-
+"e",+
+"J",-
+"Ae",+
+"{s#K#",-
+"eK1",-
+
+// ground truth 
+and(repeatatleast(<vow>,1),not(<cap>))

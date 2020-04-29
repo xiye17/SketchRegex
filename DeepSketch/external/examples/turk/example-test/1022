@@ -1,0 +1,25 @@
+// example 
+"p",-
+"uuVeiHT7",+
+"",-
+"Zefo",-
+"\V*Tv",-
+"ipz",-
+"CHaae",+
+"l2",-
+"Zg4j",-
+"uaueoo",+
+"iKauefE",+
+"uauee{",+
+"CHaaL",+
+"f<96)",-
+"Kaaoub;;E",+
+"3P",-
+"iKauND5",+
+"uuVea>.,",+
+"KaaoaA*8i",+
+"B",-
+"iae",-
+
+// ground truth 
+startwith(repeatatleast(or(<vow>,<cap>),5))

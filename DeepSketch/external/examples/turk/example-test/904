@@ -1,0 +1,15 @@
+// example 
+"W1",+
+"jJa+kas",+
+"i",+
+"lKr[MI^)7S",+
+"kkw~",+
+"@aB%nQ",+
+"!|ayHnJ)",+
+"cyH",+
+"JQTxJ",+
+"",-
+"v69X^,C(c",+
+
+// ground truth 
+endwith(or(and(<m0>,<num>),<any>))

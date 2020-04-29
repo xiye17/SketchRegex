@@ -1,0 +1,25 @@
+// example 
+"ju",+
+"~`X{",-
+"Nh^|0",-
+"FIO",+
+"FIo",+
+"m][fO",+
+"_",-
+"",-
+"za)",-
+"Nh^|}",-
+"m][fa",+
+"=hUOEi",+
+"}",-
+"dd",-
+"dw",-
+"~`XF",-
+"\SIi",+
+"=hUOEU",+
+"zat",-
+"jI",+
+"\SIu",+
+
+// ground truth 
+endwith(concat(<let>,<vow>))

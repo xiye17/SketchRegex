@@ -1,0 +1,25 @@
+// example 
+"s",-
+"dSwv!",-
+"iS",-
+"i!b",-
+"e!o!E!A!e!U!O!",+
+"a!e!I!o!e!O!",+
+"E!u!E!o!i!A!A!O!",+
+"O!O!o!E!U!I!i!i!A!",+
+"I!U!A!a!U!i!U!u!I!U!",+
+"",-
+"i^+",-
+"E!u!E!o!i!A!A!u!",+
+"O!O!o!E!U!I!i!i!E!",+
+"i!",-
+"a!e!I!o!e!E!",+
+"O",-
+"e!b]",-
+"hP%'",-
+"I!U!A!a!U!i!U!u!I!A!",+
+"s=yGk",-
+"e!o!E!A!e!U!i!",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<m0>),6)

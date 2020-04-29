@@ -1,0 +1,25 @@
+// example 
+"aFdA!",+
+"aFda!",+
+"wWsQa!",+
+"FTc!",+
+"u^Fjr",-
+"wWsQO!",+
+"_`",-
+"r!)",-
+"u!e0'",-
+"r|U",-
+"",-
+"|",-
+"B!",+
+"Pk!",+
+"*K",-
+"i->q",-
+"i_N9",-
+"FTQ!",+
+"?",-
+"i!",+
+"PB!",+
+
+// ground truth 
+concat(repeatatleast(<let>,1),<m0>)

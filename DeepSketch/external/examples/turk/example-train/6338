@@ -1,0 +1,25 @@
+// example 
+"~4W.",-
+"RywX",+
+"]",-
+"|.",-
+"{t{q)",-
+"[qo",-
+"zp",+
+"xgVrH",+
+"U%hq-",+
+"`j",-
+"f3OZ",+
+"",-
+"g",+
+"=oSC:",-
+"J$f",+
+"IJ",+
+"~GR",-
+"14A@",-
+"H",+
+"ifq",+
+"~",-
+
+// ground truth 
+or(concat(<low>,<m0>),startwith(<let>))

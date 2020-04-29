@@ -1,0 +1,25 @@
+// example 
+"oa",+
+"qtU",+
+"nIs@",-
+"akjI",+
+"o",-
+"qtE",+
+"fO)",-
+"",-
+"ZD",-
+"akjA",+
+"dounZ",-
+"dounF",-
+"oO",+
+"ruqpbO",+
+"budoI",+
+"hH",-
+"nuUm",-
+"budoE",+
+"ruqpbI",+
+"~",-
+""6P",-
+
+// ground truth 
+concat(repeatatleast(<low>,1),<vow>)

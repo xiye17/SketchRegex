@@ -1,0 +1,25 @@
+// example 
+"ula",+
+"ti3",+
+"ha",-
+"u",-
+"o",-
+"cK4BU",-
+"U'",+
+"dhu1",+
+"u:",+
+"/zBP",-
+"uNt\j=",+
+"hc",-
+"",-
+"Clg",-
+"/zBJ",-
+"a>'(Z",+
+"cK4Bu",-
+"ClJ",-
+"EG<%:{",+
+"dhE4",+
+"hUC1J",+
+
+// ground truth 
+concat(contain(<vow>),<any>)

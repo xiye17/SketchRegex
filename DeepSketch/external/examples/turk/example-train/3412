@@ -1,0 +1,25 @@
+// example 
+"E",+
+"UKT",+
+"Q=",-
+"V",-
+"A7R",+
+"qQN2K",+
+"Qi:",-
+"",-
+"Ep",+
+"O3_{",+
+"g",+
+"IgoT@",+
+"X8D",-
+"~<aEk",-
+"Mpe$",-
+"O\",+
+"C?l!8",-
+"I:Bk",+
+"3L",-
+"D",-
+"{w7m",-
+
+// ground truth 
+startwith(or(<low>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"dZa",+
+"x|n",-
+"dZu",+
+"a",+
+"GGsu",+
+"GGsI",+
+"Iniue",+
+"x|{",-
+"^",-
+"",-
+"b",-
+"GA2(",-
+"Iniuu",+
+"SJ",-
+"KqiO_",-
+"re",+
+"O",+
+"SG",-
+"KqiOP",-
+"ro",+
+"GA2L",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),1)

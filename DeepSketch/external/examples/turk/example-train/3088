@@ -1,0 +1,15 @@
+// example 
+"",+
+"(cpT",+
+"y@YcJ=4TV",+
+"f",-
+"F*mTt",+
+"2=*qd1@{",+
+"H?|;E=12PS",+
+"pT&=51.",+
+"NY%",+
+"%Y8zFA",+
+"&%",+
+
+// ground truth 
+not(or(or(<let>,<any>),<num>))

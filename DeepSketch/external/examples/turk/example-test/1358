@@ -1,0 +1,19 @@
+// example 
+"u"V`(Oy[#-9X",+
+"1'sx&i&aWdp",+
+"~/Uo8Q",+
+"cmmtk?$F",+
+"`k(n^@_",+
+"",-
+"o'19MuH^:",+
+"zgc'H",+
+"J:`pD`~<fDp2Q[",+
+"bz;?_gt_/9iMR",+
+"0py[&,:ziG",+
+"b"",-
+"L",-
+"Nz$)",-
+"TET",-
+
+// ground truth 
+repeatatleast(endwith(<any>),5)

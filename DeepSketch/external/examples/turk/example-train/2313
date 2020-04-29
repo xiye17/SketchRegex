@@ -1,0 +1,25 @@
+// example 
+"041vghw",+
+"6eh2yvwb",+
+")3P",-
+"3W",-
+"6eh2yvw9",+
+"z3c4tk",+
+"",-
+"5~&f2",-
+"z3c4t3",+
+"041vgh9",+
+"'",-
+"3g",-
+"55)vs",-
+"};I",-
+"3m15z9fp9",+
+"{",-
+"hl62l",+
+"NY"F",-
+"}&c1",-
+"hl623",+
+"3m15z9fpl",+
+
+// ground truth 
+repeatatleast(or(<num>,<low>),5)

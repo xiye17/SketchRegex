@@ -1,0 +1,21 @@
+// example 
+"~C``>=OHE;Gt\:s",+
+"Y",-
+"d9d(d|D=$a:",+
+"n!UkSS]1sV",+
+"mtb",-
+"}bJ2RTwvE/.D&",+
+"",-
+"YN]D",-
+"v|(S-*n0=,$=yd",+
+"K:",-
+"<:R~o",-
+"d;@r3N",-
+"U:r5?"LRT(skc0"h",+
+"b1MWk"]%",+
+"|e@!J"Yp"",+
+"u-dcpW;",+
+"s"~:UYYROw"[",+
+
+// ground truth 
+repeatatleast(or(<any>,<low>),7)

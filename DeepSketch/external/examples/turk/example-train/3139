@@ -1,0 +1,25 @@
+// example 
+"`{ei",+
+"wvc)ve",+
+"^2|g",-
+"di",+
+"",-
+"aS",-
+"]tf",-
+"[AO",+
+"Q",-
+"^~2ao",+
+"[AE",+
+"ac",-
+"`{ee",+
+"^~2aU",+
+"wvc)vU",+
+")j{dR",-
+"^2|}",-
+"]tB",-
+"dO",+
+"~",-
+")j{dY",-
+
+// ground truth 
+endwith(repeatatleast(concat(<let>,<vow>),1))

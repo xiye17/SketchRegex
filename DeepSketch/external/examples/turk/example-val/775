@@ -1,0 +1,25 @@
+// example 
+"*O~M",-
+"!Oi",+
+"gM",-
+"!DO!I",+
+"!oEa/i",+
+"!",+
+"!A",+
+"d",-
+"ev\",-
+"eBB",-
+"",-
+"*O~f",-
+"!oEa/a",+
+"g`",-
+"!DO!E",+
+"fo"O",+
+"!o",+
+"!Oa",+
+"$iKi)",-
+"$iKG6",-
+"fo"A",+
+
+// ground truth 
+repeatatleast(or(concat(<any>,<vow>),<m0>),1)

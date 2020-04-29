@@ -1,0 +1,14 @@
+// example 
+"",+
+"96"d,",+
+"XoT6586",+
+"=6!HPk",+
+"1",+
+"BRA7",+
+"EYOk:0LJ",+
+"ft&=/WP]S",+
+"<z`",+
+"I`",+
+
+// ground truth 
+not(and(and(<low>,<let>),<m0>))

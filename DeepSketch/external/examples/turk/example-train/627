@@ -1,0 +1,21 @@
+// example 
+"@z!'%+}",+
+"W=W%Gq19,#J9k6\h",+
+"#dO",-
+"gzC!",-
+"z(st=?_<N",+
+"1PV8R",-
+"z=jW'r/7Ul@X9Q",+
+"".Hku;2woHY",+
+"u:",-
+"",-
+")",-
+"EM.ZQ)YD~*Rl];`",+
+"j,),3M",-
+"aH`blfrJj=",+
+"Yz9?Z{ZT&V"t",+
+"_A<^$,HzE}7rm",+
+"EjqUyNbX",+
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),7)

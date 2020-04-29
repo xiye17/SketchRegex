@@ -1,0 +1,25 @@
+// example 
+"q7hG",-
+"kcA",+
+"Fq",-
+"o",+
+"p",-
+"CSe_}",+
+"CS}hE",+
+"Fn",-
+"c_a(",+
+"iyYQ",+
+"q~d",-
+"q~m",-
+"P%fdc",-
+"",-
+"q7h[",-
+"fO",+
+"fe",+
+"O",+
+"S",-
+"kce",+
+"P%fdD",-
+
+// ground truth 
+contain(concat(star(<let>),<vow>))

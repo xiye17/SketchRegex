@@ -1,0 +1,26 @@
+// example 
+"x*4",+
+"hv-U8",+
+"H7,",-
+"d;P%",-
+"ni/8",+
+"fyG"%7@",+
+"nib2",+
+"",-
+"ss",-
+"|ff",-
+"nj.F1.",+
+"|",-
+"x:2",+
+"hv-02",+
+"D.*Pe",-
+"|*",-
+"v",-
+"d;PR",-
+"n52reY",+
+"c6",+
+"~yP$[",-
+"fyG"%-1",+
+
+// ground truth 
+concat(<low>,contain(<num>))

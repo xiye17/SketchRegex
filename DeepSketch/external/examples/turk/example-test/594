@@ -1,0 +1,26 @@
+// example 
+"]S",-
+"0orQX",-
+"!!!",+
+"!HUgI!O",+
+"!RA!",+
+"W",-
+"!",-
+"Bo!oe",+
+"!RE!",+
+"Bo!oa",+
+"",-
+"!hi",-
+"0orOe",-
+"]]",-
+"!ECa!e",+
+"!To"U!ii",+
+"!ECa!i",+
+"!To"U!iE",+
+"!HUgI!U",+
+"|ryL",-
+"|hbD",-
+"!hN",-
+
+// ground truth 
+repeatatleast(or(concat(<any>,<vow>),<m0>),3)

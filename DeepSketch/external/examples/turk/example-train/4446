@@ -1,0 +1,26 @@
+// example 
+"!HQ",+
+"\j"",-
+"+",-
+"!",-
+"!Pn#",-
+"!vJi.P",+
+"",-
+"!{"Z",+
+"!^W",+
+"!(",-
+"!Pn`",-
+"!Lt",-
+"!vJixT",+
+"!V",+
+"!T!WM",+
+"q)",-
+"!zVe2rV",+
+"!T!*C",+
+"!zVe2GT",+
+"%@qeO",-
+"!{OI",+
+"!z7_!",-
+
+// ground truth 
+concat(<m0>,endwith(<cap>))

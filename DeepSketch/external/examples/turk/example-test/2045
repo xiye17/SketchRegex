@@ -1,0 +1,17 @@
+// example 
+"{M",-
+"St\jj",-
+"]us",-
+"7OT",-
+"S:=.Q",-
+"#",-
+"^",-
+"D#.Y",-
+"",-
+"_#",-
+"lP{",+
+"ON.",+
+"^#rE",-
+
+// ground truth 
+concat(<let>,concat(<cap>,<any>))

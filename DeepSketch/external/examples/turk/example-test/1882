@@ -1,0 +1,26 @@
+// example 
+"[{suwc",+
+"{T}V<",-
+"i}{",-
+"[{suZs",+
+"e|",-
+"<ov",+
+"3lMa",+
+"3l{z",+
+"TdN}i",+
+"^",-
+"",-
+">o",+
+"{yF'",-
+"{T}V}",-
+"ol",+
+"TdNXe",+
+"eE",-
+"i}`",-
+"{yF|",-
+"<Ys",+
+"x",+
+"{",-
+
+// ground truth 
+concat(not(<m0>),endwith(<low>))

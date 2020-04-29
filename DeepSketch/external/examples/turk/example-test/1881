@@ -1,0 +1,25 @@
+// example 
+"VLEJQHKm",+
+"PWYMICXCw",+
+"898:",-
+"TREEHFK",+
+"PWYMICXCJ",+
+"Q4",-
+"W;T|+",-
+"HUKGJy",+
+"",-
+"Q",-
+";",-
+"FVYUO",+
+"VLEJQHKO",+
+"HUKGJT",+
+")Mh",-
+"FVYUd",+
+";K",-
+"h+O",-
+"WaF8?",-
+"_\f3",-
+"TREEHFm",+
+
+// ground truth 
+concat(repeatatleast(<cap>,4),<let>)

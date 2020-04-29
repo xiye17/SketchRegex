@@ -1,0 +1,14 @@
+// example 
+"",+
+",i7n)e*",+
+"0~Er",+
+"oS|(5[",+
+"X/*",+
+"hrEkQH70",+
+"r63(l",+
+";o",+
+"?8H*&\WG,",+
+"b",+
+
+// ground truth 
+repeatatleast(contain(not(<m0>)),3)

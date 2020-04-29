@@ -1,0 +1,16 @@
+// example 
+"",+
+"!E~r",+
+"d",+
+"v#C",+
+"cTx,.",+
+"H~=h",+
+"S{",+
+"n{",+
+"X",-
+"+",+
+"+`oKA",+
+"::z",+
+
+// ground truth 
+not(and(startwith(<any>),<cap>))

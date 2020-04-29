@@ -1,0 +1,16 @@
+// example 
+"n`Q_[",-
+"`~X,",-
+"nd!kU",-
+"N",-
+"`.&m",-
+"{]",-
+"<&j",-
+"Dw!",+
+"{~",-
+"",-
+"<Hr",-
+"DS!",+
+
+// ground truth 
+concat(<any>,concat(<let>,<m0>))

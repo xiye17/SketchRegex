@@ -1,0 +1,25 @@
+// example 
+"psY!",+
+"tqeQt!",+
+"Nh!0?",-
+"oETgtG!",+
+"Yqid!",+
+"YqiS!",+
+"tqeQP!",+
+"oETgtu!",+
+"",-
+";"",-
+"s]Y",-
+"tXtT",-
+"Nh[OD",-
+"j",-
+"Zu!",+
+"ZQ!",+
+"t]qK",-
+"psa!",+
+"s~'",-
+">",-
+"|&",-
+
+// ground truth 
+concat(repeatatleast(<let>,2),<m0>)

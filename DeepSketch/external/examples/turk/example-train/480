@@ -1,0 +1,17 @@
+// example 
+"tU|B",-
+"i8<R",-
+"oZQOj",-
+"i2D",-
+"o9",+
+"",-
+"c",-
+"a",-
+"o4rL,",-
+"i"J",-
+"B"",-
+"o%",-
+"A4",+
+
+// ground truth 
+concat(and(<vow>,<let>),<num>)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"[",+
+"K0",+
+"U=EtY",+
+"43O[u",+
+">mm",+
+"-<Fc",+
+"I'>,",+
+"f.\",+
+"C",-
+"%",+
+"gH",+
+
+// ground truth 
+concat(star(<low>),not(<let>))

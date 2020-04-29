@@ -1,0 +1,26 @@
+// example 
+"p-UA",+
+"M6",-
+"`d&`",-
+"k,a",-
+"5",-
+"/7Z",+
+"K&Q9R",+
+"",-
+"4w=R{",-
+"Mv",-
+"`d&=",-
+"/{M",+
+"k,.",-
+"uAQd7I",+
+"kL",+
+"P",+
+"K&QET",+
+"5L",+
+"p-lI",+
+"x",-
+"4w=R*",-
+"uAQd{Y",+
+
+// ground truth 
+endwith(repeatatleast(<cap>,1))

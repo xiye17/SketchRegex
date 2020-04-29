@@ -1,0 +1,25 @@
+// example 
+"Y~9k",+
+"g?",-
+"yP7/]",-
+"0",+
+"g"",-
+"l",+
+"tu{+",-
+"}+6A1",+
+"}+6Ap",+
+"",-
+"Y~93",+
+"\R~",-
+"fYh",+
+"V4",+
+"Vm",+
+"?",-
+"tu{H",-
+"yP7/.",-
+"\RT",-
+"fY7",+
+"~",-
+
+// ground truth 
+endwith(repeatatleast(or(<low>,<num>),1))

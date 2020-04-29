@@ -1,0 +1,25 @@
+// example 
+"^B!(",+
+"{XkSVw",-
+"d(vi51h3",-
+"Ji",-
+"4\!V^J",+
+"A!%mNGk",+
+"e1=Z",-
+"&\H4Mi&",-
+"4!;e-h",+
+"i9Q",-
+"`ho!i",+
+"",-
+"&~;uTcWHL",-
+"k!w",+
+"kC!",+
+"g",-
+"OXpl:",-
+"f!",+
+"^B%!",+
+"`hoB!",+
+"A$!&X!L",+
+
+// ground truth 
+contain(concat(or(<any>,<low>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"s",-
+"c+8-2A%H4",+
+"`GRuGzA",+
+"W>Vb]+MTUsp",+
+"B}",-
+"xqsiRk7KC:]?",+
+"X+8g",+
+"Tk>fv4!)^p",+
+"",-
+""A({59{[",+
+"N3;",+
+"kQ[H3r",+
+"e.~T"",+
+
+// ground truth 
+repeatatleast(contain(<any>),3)

@@ -1,0 +1,17 @@
+// example 
+"SV!",+
+"Sy!",+
+"U3L|y",-
+"^",-
+"",-
+"U{<\b",-
+"&j",-
+"{rL",-
+"U;!f",-
+"F|",-
+"H]%",-
+"3jS;",-
+">",-
+
+// ground truth 
+concat(concat(<cap>,<let>),<m0>)

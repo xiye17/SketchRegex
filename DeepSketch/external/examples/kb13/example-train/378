@@ -1,0 +1,17 @@
+// example 
+"DO_|_",-
+"~r",-
+".zW",-
+"="cL']y",+
+"l",-
+"o|G|",-
+"",-
+"<",-
+"DO_|~",-
+"="c{{}n",+
+"~.",-
+".zk",-
+"o|Gf",-
+
+// ground truth 
+and(repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),2),repeat(<any>,7))

@@ -1,0 +1,17 @@
+// example 
+"Z",+
+"UHl",+
+"U9<Gv",+
+"D&2[",+
+"T",+
+"TZv0.",+
+"!",-
+"CG",+
+"",+
+"O+",+
+"A",-
+"!(t",+
+"lUVz",+
+
+// ground truth 
+not(or(or(<m0>,<low>),<vow>))

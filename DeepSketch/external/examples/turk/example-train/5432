@@ -1,0 +1,25 @@
+// example 
+"JMAb",+
+"Ymp",+
+"Q{",-
+"mKCox",+
+"JMjw",+
+"Ok",+
+"YGo",+
+"",-
+"a",-
+"(E&",-
+"}",-
+"QG",-
+"_M%",-
+"rB~k:",-
+"uu",+
+"fQzbXt",+
+"mKCAl",+
+"{tO>",-
+"=;0[",-
+"rB^CY",-
+"fQzbib",+
+
+// ground truth 
+concat(repeatatleast(<let>,1),<low>)

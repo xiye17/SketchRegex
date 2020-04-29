@@ -1,0 +1,25 @@
+// example 
+"F",-
+"bMq",-
+"rBdF",-
+"[h",-
+"kO_NN",+
+"hQTKV",-
+"oBA",+
+"a",+
+"i|",+
+"So",+
+"rBd_",-
+"",-
+"[`",-
+"P",-
+"e",+
+"I"K",+
+"bMk",-
+"GsAG",+
+"Gsi=",+
+"I,jFp",+
+"hQTKF",-
+
+// ground truth 
+contain(endwith(<vow>))

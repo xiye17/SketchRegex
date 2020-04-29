@@ -1,0 +1,25 @@
+// example 
+"UA",+
+"UU26",+
+"UU",+
+"a&Lvy",-
+"UO['_",+
+"Eoa8`b",+
+"UO-I",+
+"",-
+"eY}",-
+"Uf",-
+"eMd",-
+"i",-
+"UaOt*",+
+"W33ql",-
+"EI;i9R",+
+"EO5",+
+"V-.T",-
+"OV\l",-
+"EaL",+
+"E",-
+"UM",-
+
+// ground truth 
+startwith(repeatatleast(<vow>,2))

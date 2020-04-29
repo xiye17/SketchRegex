@@ -1,0 +1,25 @@
+// example 
+"\",-
+"y`h",-
+"M2zeH",+
+"|:I}oo0D",+
+"|^FMrb",+
+"k.{z<kp",+
+"EB",-
+"~U{}",-
+"",-
+")",-
+"v)[~~",-
+"tzoN",+
+"|^FMrZ",+
+"~U{_",-
+"|:I}oo0c",+
+"y`Y",-
+"v)[~M",-
+"k.{z<kO",+
+"tzoh",+
+"M2zem",+
+"E,",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),4)

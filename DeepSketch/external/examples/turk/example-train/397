@@ -1,0 +1,17 @@
+// example 
+"6]a?",-
+"HAQ",-
+"LO!",+
+"HEU",-
+"Lo!",+
+"",-
+"aDxl",-
+":",-
+"To",-
+"/(Kp1",-
+"N",-
+"SU!Ut",-
+"T3",-
+
+// ground truth 
+concat(<cap>,concat(<vow>,<m0>))

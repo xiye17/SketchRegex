@@ -1,0 +1,14 @@
+// example 
+"",+
+"W[",+
+">sxrH",+
+";KMp#`/b",+
+"Rau3IVAyc",+
+"S0!%",+
+")xg;K(",+
+"x6e'/Jv",+
+"H",+
+"~@"",+
+
+// ground truth 
+endwith(contain(not(<let>)))

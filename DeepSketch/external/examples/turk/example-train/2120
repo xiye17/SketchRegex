@@ -1,0 +1,16 @@
+// example 
+"xH",-
+"|AKV",-
+"IU;ZV",-
+"rI",+
+"zav",-
+"zuR",-
+"|uqT",-
+"*",-
+"I9R{e",-
+"ru",+
+"",-
+"xj",-
+
+// ground truth 
+concat(or(<num>,<any>),<vow>)

@@ -1,0 +1,15 @@
+// example 
+"QU^M",+
+"1sw",+
+"4Wo:f",+
+"C{i$%I`]",+
+"K[)F5>",+
+"X",+
+"3>^ODfO=I",+
+"bl",+
+"vxnw`\@",+
+"NL>WSoFGh}",+
+"",-
+
+// ground truth 
+repeatatleast(or(<num>,<any>),1)

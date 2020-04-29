@@ -1,0 +1,14 @@
+// example 
+"",+
+"X9\1;19:A",+
+"N",+
+"~aT",+
+"WBO;0",+
+"+A",+
+"`:\q",+
+"fM_>N?",+
+"{h~%0Ey",+
+"YInk9epX",+
+
+// ground truth 
+not(and(concat(<num>,<any>),<m0>))

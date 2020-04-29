@@ -1,0 +1,25 @@
+// example 
+"DIAaIaEIa",+
+"w0WA",-
+"Nuq|E",-
+"FoaUEEiaIA",+
+"VeOEeOuAaIi",+
+"DIAaIaEIu",+
+"ni",-
+"W",-
+"OeaaUOau",+
+"k",-
+"EAOuEIo",+
+"",-
+"NuaOm",-
+")4&",-
+"Joq",-
+"FoaUEEiaIu",+
+"VeOEeOuAaIu",+
+"EAOuEIe",+
+"OeaaUOaE",+
+"Me",-
+",=>S",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<vow>,6))

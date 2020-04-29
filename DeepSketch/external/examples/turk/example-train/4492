@@ -1,0 +1,15 @@
+// example 
+"'O.",-
+"?f",-
+"?9",-
+"{uUc",-
+")L7PY",-
+"N",-
+").Vja",-
+"{Bp+",-
+"JV",+
+"'6x",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<let>),<num>),<cap>)

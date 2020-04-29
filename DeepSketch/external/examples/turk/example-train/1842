@@ -1,0 +1,17 @@
+// example 
+"qd",-
+"q5",-
+"~MPg^",-
+"W",-
+"~.v",-
+"\T^>",-
+"",-
+"'",-
+"lZ",+
+"<-x",-
+"WK",+
+"\"th{",-
+"')k<",-
+
+// ground truth 
+concat(or(<let>,<vow>),<cap>)

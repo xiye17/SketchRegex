@@ -1,0 +1,24 @@
+// example 
+"fo",+
+"?COGa",-
+"Fs",-
+"]aK!lH",+
+"-",-
+"#qS",-
+"fi",+
+"]uU|6Y",+
+"",-
+"rOHV",+
+"nOd",+
+"niA",+
+"s\G9",-
+"rIU?",+
+"sPhG",-
+"Fx",-
+"#TL",-
+"nOpP$",+
+"?bK79",-
+"nuE=U",+
+
+// ground truth 
+startwith(concat(<any>,<vow>))

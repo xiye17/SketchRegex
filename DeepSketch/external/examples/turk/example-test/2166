@@ -1,0 +1,15 @@
+// example 
+"",+
+"VD",+
+"!z{",+
+"uP:\",+
+"w$!/D",+
+"!T:DD",+
+"]|B",+
+"T",+
+"!",-
+"!c",+
+"!T;^",+
+
+// ground truth 
+repeatatleast(or(not(<m0>),<low>),4)

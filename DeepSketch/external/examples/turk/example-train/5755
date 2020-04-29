@@ -1,0 +1,20 @@
+// example 
+"oX1h1Z2MG",-
+"n",+
+"I,*2;.",-
+"}P",+
+"]Rd=",+
+"y:OW4",+
+"/11=fC?z^_-",-
+"nHT",+
+"",+
+"w)w4ETLp@fp-_'",-
+"Wcb*&~M",-
+"QmbaS5pF[QNLN",-
+"b=Uf$fdt^3^<ls,",-
+"L\R`npr=Hl",-
+"Rlb]&P5H",-
+"_38'>]QG&KZ1",-
+
+// ground truth 
+not(repeatatleast(contain(<any>),6))

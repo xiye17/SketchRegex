@@ -1,0 +1,16 @@
+// example 
+"7EfY",-
+"MRw2$",-
+"fl",-
+"EI",+
+"f`",-
+"Ei",+
+"w",-
+"]h[",-
+"]Uv",-
+"7kUf",-
+"",-
+"MGEly",-
+
+// ground truth 
+concat(or(<cap>,<any>),<vow>)

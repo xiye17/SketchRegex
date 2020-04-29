@@ -1,0 +1,17 @@
+// example 
+"[",-
+"~&af",-
+"K6",+
+"!",-
+"",-
+"N7Bal",-
+"B*T",-
+"z9",+
+"w#\x",-
+"^P",-
+"~f",-
+"N-|b)",-
+"B1o",-
+
+// ground truth 
+concat(or(or(<let>,<low>),<m0>),<num>)

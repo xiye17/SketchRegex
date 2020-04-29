@@ -1,0 +1,25 @@
+// example 
+"Lhp",-
+"Vjgeyphn",+
+"]",-
+"[vz6",-
+"q}",-
+"rrVysjOcteVjgt",+
+"jpxuupIlcq",+
+"fataismsXlie",+
+"Zu`~U",-
+"MqgkAdvkAkbbTvVb",+
+"",-
+"qv",-
+"jpxuupIlHd",+
+"VjgeypKt",+
+"L}A",-
+"Zu7,s",-
+"MqgkAdvkAkbbTvll",+
+"rrVysjOcteVjAs",+
+"{'~%",-
+"{",-
+"fataismsXlYo",+
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),4)

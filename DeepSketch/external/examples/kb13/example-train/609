@@ -1,0 +1,25 @@
+// example 
+"6GxwQUF",+
+"\G~~",-
+"\3Osdfnf",+
+"|\",-
+"6GxwQe=",+
+"`W_",-
+"jvc}IRfpT",+
+"`Wt",-
+"Fr/^|",-
+"#",-
+"|C",-
+"",-
+"\G~]",-
+"luQaK",+
+"\3OsdfU4",+
+"luQaf",+
+"shzXkn",+
+"x",-
+"jvc}IRfpj",+
+"Fr/^[",-
+"shzXC3",+
+
+// ground truth 
+contain(repeatatleast(<let>,5))

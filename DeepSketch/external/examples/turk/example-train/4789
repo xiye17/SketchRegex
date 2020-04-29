@@ -1,0 +1,16 @@
+// example 
+"8!",-
+"8K",-
+"#!8",-
+"r%U7",-
+"Q!I",+
+"Q!O",+
+"n!UgY",-
+"y",-
+"r!EB",-
+"#!Y",-
+"n!JVm",-
+"",-
+
+// ground truth 
+concat(concat(<any>,<m0>),or(<low>,<vow>))

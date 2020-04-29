@@ -1,0 +1,25 @@
+// example 
+"lP",+
+"uOOa",-
+"s",+
+"1Ef*B",+
+"u",-
+"uOO2",-
+""'d",+
+"aOO?",+
+"Ou",-
+"o06",-
+"",-
+"ye",+
+"1`p3j",+
+"o0e",-
+"Y:a",+
+"auIue",-
+"OA",-
+"aOOL",+
+"auIuU",-
+"=",+
+"E",-
+
+// ground truth 
+not(star(or(<vow>,<num>)))

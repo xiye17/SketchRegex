@@ -1,0 +1,14 @@
+// example 
+"",+
+"8",+
+"W^C",+
+"aRj=M",+
+"1plBMwinS",+
+"R7JV",+
+"|n",+
+"{8E.Q7R",+
+"MG,#00",+
+"$kI{UwYs",+
+
+// ground truth 
+contain(or(star(<cap>),<m0>))

@@ -1,0 +1,16 @@
+// example 
+"BL"ck",-
+"T",-
+"oiAM",-
+"XOh",+
+"XUd",+
+"oiq)",-
+"BYe|n",-
+"qj0",-
+"",-
+"6G",-
+"qEU",-
+"6E",-
+
+// ground truth 
+concat(<any>,concat(<vow>,<low>))

@@ -1,0 +1,17 @@
+// example 
+"p",+
+"E",+
+"HEjZY",-
+"!b",-
+"W<h",-
+"C4YY",-
+"",-
+"]!",-
+"N",-
+"!sdu",-
+"M7xv"",-
+"C",-
+"OJ&",-
+
+// ground truth 
+or(or(<low>,<vow>),<m0>)

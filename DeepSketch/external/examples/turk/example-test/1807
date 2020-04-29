@@ -1,0 +1,25 @@
+// example 
+"l}",-
+"zZ8d",-
+"w!pf!b",+
+"!h!d!!qya!",+
+"5",-
+"bietvf!",+
+"!{_=8",-
+"!h!d!!qyaa",+
+"d!!vh!!!",+
+"",-
+"kzq!xww!!",+
+"!x|$g",-
+"A;{",-
+"Z|;h",-
+"bietvfu",+
+"d!!vh!!i",+
+"l4",-
+"kzq!xww!l",+
+"~<|",-
+"{",-
+"w!pf!!",+
+
+// ground truth 
+repeatatleast(or(<low>,<m0>),6)

@@ -1,0 +1,26 @@
+// example 
+"P}+--2}l",+
+"G",-
+"=/D&;o|ct",+
+"kW3CTpcAi0o",+
+"b&~O;|I|~~hk",+
+"kW3CTpcAi{y",+
+"#5d>J];Nxm",+
+"",-
+"#E",-
+"]^0Qw0|T",-
+"|3S~7(y",+
+"=/D&;o|(m",+
+"#5d>J];N|o",+
+"P}+--2!n",+
+""&r",-
+"_Ur7Tf>",-
+"_Ur7Tf|",-
+"]^0Qw0|}",-
+"z[4f",-
+"Qei;<",-
+"b&~O;|I|~~Yw",+
+"vg%LGb",-
+
+// ground truth 
+concat(repeatatleast(<any>,6),<low>)

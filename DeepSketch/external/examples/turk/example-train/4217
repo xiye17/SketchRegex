@@ -1,0 +1,17 @@
+// example 
+"DC",+
+"G",+
+"E=x",+
+"A<'sb",+
+"",+
+"Ic{x",+
+"D@m;",+
+"KG@|M",+
+"A5D",+
+"^O",+
+"I",-
+"C",+
+"E",-
+
+// ground truth 
+not(and(and(<any>,<cap>),<vow>))

@@ -1,0 +1,17 @@
+// example 
+"r",+
+"otF",+
+"o",-
+"@-iP",+
+"H%!/",+
+"U"I",+
+"Se",+
+"",+
+"EQP{W",+
+"AU",+
+"LnM,d",+
+"{",+
+"E",-
+
+// ground truth 
+repeatatleast(not(<vow>),2)

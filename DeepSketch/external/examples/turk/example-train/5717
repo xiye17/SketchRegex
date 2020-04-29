@@ -1,0 +1,16 @@
+// example 
+"5O",+
+"5g",+
+"F}D|",-
+"FPfw",-
+"B*#;Z",-
+"NR",-
+"N3",-
+"v0A",-
+"B^'7e",-
+"",-
+"a",-
+"vU@",-
+
+// ground truth 
+concat(<any>,or(<vow>,<low>))

@@ -1,0 +1,25 @@
+// example 
+"i(EkEJ",+
+">6q",-
+"cVj{",-
+"apiRadANEi",+
+"sz",-
+"GM/'^",-
+"U+",-
+"",-
+"IKOw",+
+"apiRadANIV",+
+"b",-
+"U~a<A-oc",+
+"I.iJO5A.I@ut",+
+"Iqg0",-
+"IKIu",+
+"fKlx;",-
+"I.iJO5A.I@On",+
+"\i"",-
+"i(EkOB",+
+"U~a<A-aJ",+
+"E",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),2)

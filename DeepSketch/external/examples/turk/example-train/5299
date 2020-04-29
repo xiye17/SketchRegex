@@ -1,0 +1,25 @@
+// example 
+"OHWC",+
+"F",+
+"UA",+
+"ABUVX",+
+"UGH",+
+"2",-
+"Lii",-
+"LK;",-
+"EF",+
+"D-",-
+"",+
+"AWGE",+
+"CRP",+
+"L",+
+"Dv",-
+"ILTCO",+
+"?h}p",-
+"HRW$2",-
+"H)u#,",-
+"mXR~",-
+"E",-
+
+// ground truth 
+and(not(<vow>),star(<cap>))

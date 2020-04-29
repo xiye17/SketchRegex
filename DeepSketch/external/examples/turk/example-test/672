@@ -1,0 +1,14 @@
+// example 
+"",+
+"7",+
+"-z",+
+"S}[A",+
+"uIIo6hZcT",+
+"Rs:_k",+
+"I`DHFl",+
+"tJz#)ra",+
+"r*vB;6,,",+
+"1,h",+
+
+// ground truth 
+not(and(concat(<cap>,<m0>),<vow>))

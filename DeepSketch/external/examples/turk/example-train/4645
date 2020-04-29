@@ -1,0 +1,14 @@
+// example 
+"",+
+"JJQt;p6",+
+"r",+
+"*>v?#",+
+"iX1\'XK=e",+
+"8N%RgV",+
+"MKtmSGj`",+
+"lc.",+
+"%o<}",+
+"iD",+
+
+// ground truth 
+not(and(concat(<num>,<let>),<low>))

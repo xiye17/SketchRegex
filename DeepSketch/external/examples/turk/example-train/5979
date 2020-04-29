@@ -1,0 +1,25 @@
+// example 
+"!S!B!!!A",+
+"JPKNNT!!!!",+
+"!AM=Z",-
+"MNM!!!",+
+"JPKNNT!!!E",+
+"m",-
+"!",-
+"a*A",-
+"!D",-
+"!S!B!!!!",+
+"5j",-
+"!!Fk",-
+"!AM!Z",-
+"",-
+"!TLA!N!",+
+"MNM!!E",+
+"!TLA!NK",+
+"78H",-
+"ED!O!!!J!",+
+"!!FD",-
+"ED!O!!!JV",+
+
+// ground truth 
+repeatatleast(or(<m0>,<cap>),6)

@@ -1,0 +1,18 @@
+// example 
+"'s|Cnm",-
+"!1hx",-
+"!2",+
+"2",+
+"!'w",-
+"!",+
+"",-
+"!RpzUd",-
+"8y",-
+"w5?@",-
+"!(",-
+"!JgkL",-
+"!n9",-
+"!#s#.",-
+
+// ground truth 
+or(concat(<m0>,<num>),or(or(<m1>,<let>),<any>))

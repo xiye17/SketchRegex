@@ -1,0 +1,17 @@
+// example 
+"h[8Q",+
+"a5dR",+
+"iIl8&",+
+"u",-
+"m",+
+"gV",+
+"u5[2k",+
+"a",-
+"",+
+"oU",+
+"8",+
+"yD}",+
+"uVq",+
+
+// ground truth 
+not(and(or(or(<vow>,<num>),<m0>),<low>))

@@ -1,0 +1,17 @@
+// example 
+"fE",+
+"DE^o",-
+"Z",-
+"!d+",-
+"",-
+"}",-
+"DhP}",-
+"0#:OR",-
+"`I:_/",-
+"hH",-
+"fI",+
+"3K",-
+"!T5",-
+
+// ground truth 
+concat(or(<let>,<m0>),<vow>)

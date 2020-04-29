@@ -1,0 +1,25 @@
+// example 
+"I/kSR",+
+"pmc!",-
+"!2(h/",+
+"tpyfkulqw!",-
+"qg",+
+"e!",-
+"!,?<",+
+"!",-
+"kpmr!",-
+"W",+
+"bmqih!",-
+"tjezwk!",-
+"oahrblwf!",-
+"",+
+"z!\",+
+"e",+
+"v!)"",+
+"q,",+
+"amkryjt!",-
+"ai!",-
+"z/]",+
+
+// ground truth 
+not(concat(star(<low>),<m0>))

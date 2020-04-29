@@ -1,0 +1,25 @@
+// example 
+"\",-
+"O;c",-
+"UaeOUOEieoO",+
+"Au",-
+"aL^+9",-
+"m",-
+"OOOOOoAuiieD",+
+"H'NE",-
+"uAoEUoEeE",+
+"uAoEUoEeK",+
+"UooAOIiUiL",+
+"",-
+"UooAOIiUiE",+
+"AU",-
+"%RP,d",-
+"OOOOOoAuiieU",+
+"OJU",-
+"oEEeiIoV",+
+"oEEeiIoI",+
+"UaeOUOEieoW",+
+"mf[}",-
+
+// ground truth 
+concat(repeatatleast(<vow>,7),<cap>)

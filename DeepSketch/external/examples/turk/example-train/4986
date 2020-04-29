@@ -1,0 +1,23 @@
+// example 
+"|c4",-
+"h.",-
+"}:Ur",-
+"x4a4b1x2g9S7j1o5F6",+
+"t7~",-
+"2sCId",-
+"R6O8y5h7p6i7c7l3A3o4",+
+"",-
+"`",-
+"hj",-
+"t9K8q9B9q0t6h7",+
+"C1K6U8w7k7B4X5x0",+
+"x4a4b1x2g9S7j1o5s4",+
+">32.",-
+"C1K6U8w7k7B4X5J0",+
+"]";|K",-
+"t9K8q9B9q0t6A0",+
+"R6O8y5h7p6i7c7l3A3J5",+
+"{",-
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),7)

@@ -1,0 +1,17 @@
+// example 
+"Ge}",+
+"uBx!",+
+"e^no7",+
+"DS_",+
+"T_1q|",+
+"l#9+",+
+"",+
+"j",+
+"U",-
+"J",+
+"A",-
+"rk",+
+"i&",+
+
+// ground truth 
+repeatatleast(not(<vow>),7)

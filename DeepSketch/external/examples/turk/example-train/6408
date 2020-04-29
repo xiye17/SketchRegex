@@ -1,0 +1,26 @@
+// example 
+"pAL",+
+"Aey1Eh",+
+"KmT55",-
+"AUU|Q~",+
+"Xoo5g",+
+"poB",+
+"{e5E",-
+"",-
+";",-
+"}",-
+"dR/<",-
+"7;t/-",+
+"{c$",-
+"RU",+
+"^67(m",-
+"6",+
+".$X",-
+"@D",-
+"{s",-
+"1C",+
+"ooK'",+
+"oaBb",+
+
+// ground truth 
+startwith(or(concat(<let>,<vow>),<num>))

@@ -1,0 +1,25 @@
+// example 
+"0",-
+"7E1s9B4z2d",+
+"6V7n7Q",+
+"Z",-
+"$o",-
+"5B4O2P0E",+
+"UBH",-
+"5B4O2P0v",+
+"L=.S",-
+"9E3X",+
+"n76KK",-
+"",+
+"4B",+
+"6V7n7q",+
+"0\F8n",-
+"+hx?",-
+"7E1s9B4z2U",+
+"9E3u",+
+"9}",-
+"4f",+
+"3k7",-
+
+// ground truth 
+star(concat(<num>,<let>))

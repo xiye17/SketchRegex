@@ -1,0 +1,25 @@
+// example 
+"p",+
+"h>_6",+
+""T",+
+"}l",+
+"ievf",-
+"rzhpg",-
+"hwiR",+
+"qiuvoxeyavyw",-
+"6x^I&",+
+"g{KqR",+
+"uPW",+
+"pwsddoal",-
+"fyyoqtb",-
+"",+
+"kowfxiauhp",-
+"tsh",-
+"u~i",+
+"tkfsfsslu",-
+"xnhgzlmmjcc",-
+"wirdor",-
+"|",+
+
+// ground truth 
+not(repeatatleast(<low>,3))

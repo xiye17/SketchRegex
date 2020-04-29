@@ -1,0 +1,14 @@
+// example 
+"",+
+"#y",+
+"\NNiG",+
+"R_A>q=7p",+
+"1",+
+"\#hn",+
+"0JwG`>|",+
+"['p",+
+"_W!*Z8>ws",+
+"Yi(RyI",+
+
+// ground truth 
+not(and(and(<cap>,<any>),<m0>))

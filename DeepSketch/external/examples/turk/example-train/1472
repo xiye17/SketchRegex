@@ -1,0 +1,24 @@
+// example 
+"qmrqxgr",+
+"nekkxejh",+
+"<M",-
+"R4s",-
+"lk",+
+"V",-
+"iB}]",-
+"^",-
+"}bQ|",-
+"",+
+"arco",+
+"f",+
+"kvykU",-
+"R~L",-
+"xht",+
+"nazxn",+
+"$vo1t",-
+"mwiqpt",+
+"T0",+
+"~`",-
+
+// ground truth 
+or(star(<low>),concat(<cap>,<num>))

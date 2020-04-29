@@ -1,0 +1,16 @@
+// example 
+"",+
+"q9!po",+
+"T3l$k",+
+"r",-
+"|+t",+
+"}I",+
+"O",+
+"a)",+
+"XC;",+
+"oNX|",+
+"1zGC",+
+"{",+
+
+// ground truth 
+not(and(<any>,<low>))

@@ -1,0 +1,25 @@
+// example 
+"FB`X",-
+"OKG/t",+
+":SC|S",-
+"!z",+
+"|Lm",+
+"A;b"s",+
+"PTA^",+
+"",-
+"F*",-
+"P",-
+"FS",-
+"PJD",-
+"E/",+
+"PJG",-
+":SC|C",-
+"PT!F",+
+"O",+
+"I",+
+"|LU",+
+"H",-
+"FB`Q",-
+
+// ground truth 
+contain(or(or(<low>,<m0>),<vow>))

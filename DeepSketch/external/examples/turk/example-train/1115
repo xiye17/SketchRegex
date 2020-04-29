@@ -1,0 +1,25 @@
+// example 
+"xeB\",-
+"Y",-
+"T|",-
+"W+R]D~~psxYD",+
+"U^ijYFenE",+
+"L`@P\kGIcpS",+
+"VOqgCOWR",+
+"}+=",-
+"U^ijYFeLJ",+
+"",-
+"`",-
+"W+R]D~~psxeX",+
+"G3|eQlwjVG",+
+"xeB|",-
+"L`@P\kGIcIX",+
+"VOqgCOlQ",+
+"}w1*r",-
+"T&",-
+"nj;",-
+""k#=)",-
+"G3|eQlwjcY",+
+
+// ground truth 
+concat(repeatatleast(startwith(<let>),7),<cap>)

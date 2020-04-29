@@ -1,0 +1,20 @@
+// example 
+"^VW#y7LQA0N",+
+"p+0j6$O+:K0#7:&",+
+".LWKRR",+
+"**gB",-
+"204mdqNb>",+
+"ZhX"%^M}h;u[u",+
+"`y\NxADDVeqFjn",+
+"%)(_~X.",+
+"",-
+"sJR4lma86W",+
+"QsEGL",-
+"k`",-
+"*xX",-
+"iBh19r{W",+
+".j=V^8zfug@:",+
+"B",-
+
+// ground truth 
+repeatatleast(or(<any>,<low>),6)

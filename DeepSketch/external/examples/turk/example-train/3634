@@ -1,0 +1,25 @@
+// example 
+"UAai",+
+"vr:~|",-
+"UA}r",+
+"z~{",-
+"vr:~>",-
+"z~T",-
+"b",+
+"r9h",+
+"",-
+"E1'E",-
+"Q",-
+"E1'{",-
+"R<",-
+"i",+
+"~j",+
+"W|x~t",+
+"R|",-
+"W|xDq",+
+"(u",+
+"r~h",+
+"B",-
+
+// ground truth 
+concat(not(<vow>),<low>)

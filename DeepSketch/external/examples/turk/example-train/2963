@@ -1,0 +1,25 @@
+// example 
+"Gw;HM",-
+"u)",+
+"EAQ",+
+"n^rr",-
+"p",-
+"B9",-
+"Auj",+
+"Idn{",+
+"oQg(9",+
+"",-
+"n^",-
+"bmoz<",-
+"i",+
+"it",+
+"Ehsm",+
+"OW1NR",+
+"S",-
+"-K"7",-
+"Bfq",-
+"A",+
+"~pi",-
+
+// ground truth 
+startwith(or(and(<vow>,<let>),<m0>))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"#'|/",+
+"{[`sY",+
+"p:::",+
+"|L",+
+"7O",+
+"J",+
+"*eAt!",+
+"{R(",+
+"sa*",+
+"~",+
+"c",-
+
+// ground truth 
+not(and(and(<any>,<low>),<let>))

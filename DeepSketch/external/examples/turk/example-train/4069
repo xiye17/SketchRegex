@@ -1,0 +1,25 @@
+// example 
+"P`Q",-
+"T{^O",-
+"gT",-
+"HZeD`n",+
+"T#{"",-
+"M~(uE",-
+"XpOUO",+
+">4",-
+"",-
+"M#c.k",-
+"VE",+
+"XO|/t",+
+"@",-
+"<)Z",-
+"Vk",+
+"IH]R",+
+"Hx/|g5",+
+"Igsi",+
+"AP0",+
+"AwE",+
+"E",-
+
+// ground truth 
+startwith(concat(<cap>,<let>))

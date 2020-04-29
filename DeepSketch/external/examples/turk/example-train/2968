@@ -1,0 +1,25 @@
+// example 
+"EKJ2x",+
+"AILvOJZ.|!w",+
+"KIGvB\XdDV"B",+
+"1",-
+"LU@",-
+"UZjo",-
+".+",-
+"SHLU_yNW",+
+"UZ/I",-
+"QPR",+
+"NYT>jrl\/9",+
+"Kx^nv",-
+"XFEWhPj47",+
+"",-
+"EG",-
+"L/^",-
+"Q",-
+"MEF+",+
+"ZGSVEmK",+
+"K)RV}",-
+"VLJR*U",+
+
+// ground truth 
+startwith(repeatatleast(<cap>,3))

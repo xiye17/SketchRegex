@@ -1,0 +1,25 @@
+// example 
+"o``}ZyYVPVb",+
+"s}_=",-
+"]viILFmgS",+
+"mK",-
+"KeC}U",-
+"uzdnaBC",+
+"{xXNSdkR",+
+"V",-
+"s}_N",-
+"uzdnaBf",+
+"'>szltnaSI",+
+"",-
+"'>szltnaSy",+
+"o``}ZyYVPVV",+
+"$",-
+"]viILFmgv",+
+"|':",-
+"{xXNSdko",+
+"KeC}^",-
+"m_",-
+"|'|",-
+
+// ground truth 
+endwith(repeatatleast(<let>,7))

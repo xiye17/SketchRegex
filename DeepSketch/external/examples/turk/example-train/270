@@ -1,0 +1,25 @@
+// example 
+"vagka",+
+"grjf:UV"Q",+
+"hnauNY+",+
+"bd'",-
+"bd}",-
+"jwbm+gJ\Ik",+
+"bhaknne~yqB~",+
+"aW",-
+"mcejdX",+
+"tbxbZ/OvsHO",+
+"gsteUW?g5#@]K",+
+"",-
+"!dWO",-
+"jwda",+
+"h'l+=",-
+"}",-
+"a}",-
+"N",-
+"bcumD/3^",+
+"}aRK",-
+"hvsNI",-
+
+// ground truth 
+startwith(repeatatleast(<low>,4))

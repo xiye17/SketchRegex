@@ -1,0 +1,14 @@
+// example 
+"",+
+"e:8h6:am",+
+"+>",+
+"h$|<4",+
+"3",+
+"Y_y@~Q",+
+"^+~-(~4",+
+"&{9yz"UK}",+
+"PLUT",+
+"}@u",+
+
+// ground truth 
+not(and(and(<let>,<m0>),<low>))

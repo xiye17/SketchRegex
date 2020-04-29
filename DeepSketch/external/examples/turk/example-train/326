@@ -1,0 +1,16 @@
+// example 
+"loeDr",-
+"uf?",-
+"lKY@W",-
+"pA",+
+"sH",-
+"sp",-
+"uuX",-
+"#yad",-
+"pU",+
+"C",-
+"#er#",-
+"",-
+
+// ground truth 
+concat(or(<let>,<any>),<vow>)

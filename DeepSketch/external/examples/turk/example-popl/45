@@ -1,0 +1,18 @@
+// examples
+"BBBBBBBa",+
+"BBBBBBBBe",+
+"cklmnopqrtu",+
+"zzzzzzzzzzzei",+
+"zzzzzzzzzzzoz",+
+"mmmmmmmmmmmmmi;",+
+"zzzzzzzzzzzzzzo!!",+
+"za",-
+"zza",-
+"zzza",-
+"zzzzu",-
+"zzzzzi",-
+"kkkkkko",-
+"mmmmmmm",-
+
+// ground truth 
+concat(repeatatleast(<let>,7),contain(<vow>))

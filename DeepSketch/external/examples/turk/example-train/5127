@@ -1,0 +1,26 @@
+// example 
+";HP^",-
+"KxjQp",+
+"Kx6Hb",+
+"?%H"\Uu",+
+"N6y,"",-
+"w{Bz",+
+"DtK",-
+"N6y,m",-
+"wYMt",+
+"",-
+"?%H"$Ry",+
+"(Ec",+
+";HPT",-
+"eYe",+
+"i",-
+""4",-
+""w",-
+"?",-
+"=)k%Ld",+
+"=)kuOc",+
+"Dtb",-
+"Cg",+
+
+// ground truth 
+concat(endwith(<cap>),<low>)

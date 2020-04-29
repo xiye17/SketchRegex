@@ -1,0 +1,17 @@
+// example 
+"g!&",-
+"Q!gV",-
+"`kH",-
+"V#",+
+"V@",+
+"Qa9J",-
+"",-
+"~B",-
+"Q",-
+"~xRDW",-
+"|",-
+"I5",-
+"`6,Oy",-
+
+// ground truth 
+concat(<let>,or(or(<m0>,<m1>),<m2>))

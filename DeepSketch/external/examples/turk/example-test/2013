@@ -1,0 +1,14 @@
+// example 
+"",+
+"g",+
+"4MC",+
+""wQX-*",+
+"qpjCak{l",+
+"My6Q",+
+"`R%f:R6",+
+"V@",+
+"'s,2t",+
+"Y0YzS.P0:",+
+
+// ground truth 
+not(and(<cap>,<num>))

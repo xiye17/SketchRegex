@@ -1,0 +1,16 @@
+// example 
+"4Y!",+
+"5-X",-
+"/",-
+".rH+",-
+"6&ZX:",-
+"Y",-
+"%r",-
+"8H35",-
+"{g",-
+"%{j",-
+"y8hM]",-
+"",-
+
+// ground truth 
+concat(concat(<num>,<cap>),<m0>)

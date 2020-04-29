@@ -1,0 +1,17 @@
+// example 
+"ZZVK]",-
+"jf[N"",-
+"F]j",-
+"9O",+
+"@'",-
+"9U",+
+"wBjc",-
+"",-
+"mEJ",-
+"i",-
+"+M",-
+"M",-
+"wu,T",-
+
+// ground truth 
+concat(or(<low>,<num>),<vow>)

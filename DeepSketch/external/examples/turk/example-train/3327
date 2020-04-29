@@ -1,0 +1,25 @@
+// example 
+"SU",+
+"s",-
+"Au@d3)8[E",+
+"zzQ~6",-
+"4DXx!",-
+"LLxB;{s]3gl",+
+"2",-
+"hV9O",-
+"$0t",-
+"MXpOgQkA3`",+
+"LghdIz(x",+
+"[du",-
+"Dd0Adm=",+
+"J1G",+
+"",-
+"KR_E",+
+"Mc-bO*",+
+"FMf]o",+
+"l>",-
+";ds;",-
+"7z",-
+
+// ground truth 
+startwith(concat(<cap>,<any>))

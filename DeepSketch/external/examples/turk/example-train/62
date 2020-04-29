@@ -1,0 +1,15 @@
+// example 
+"p",+
+",w",-
+"u^$%",-
+"uJ|[g+",-
+"cI\^d",-
+"B1p%8\vV",-
+"|';",-
+"(=e;5O6]Z",-
+"/q:MTzZ",-
+"vcS:*0.f\7",-
+"",-
+
+// ground truth 
+or(or(<m0>,<let>),<any>)

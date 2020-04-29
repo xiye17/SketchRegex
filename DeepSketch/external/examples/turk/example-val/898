@@ -1,0 +1,17 @@
+// example 
+"g!Q",+
+"H!",-
+"~rR",-
+"A!WH",-
+"!",-
+"Hi",-
+"",-
+"N!1",+
+"|",-
+"7^Y",-
+"n!Z+0",-
+"5=3$f",-
+"Aa$~",-
+
+// ground truth 
+concat(<let>,concat(<m0>,<any>))

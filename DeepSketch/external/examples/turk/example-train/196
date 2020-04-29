@@ -1,0 +1,25 @@
+// example 
+"#L",+
+"##C*yF1",+
+""yk",-
+"w;V-}",-
+"#k%*1FS#",+
+"!CYZ",-
+"#u.Sd{0'[",+
+"k",-
+""SWe0",-
+""",-
+"#|0gOA",+
+"",-
+"#",+
+"#=$ye",+
+""5",-
+"#kuy",+
+"YJ`V",-
+"#['",+
+"YR",-
+"v6$",-
+"#DZ7_Vqxuf",+
+
+// ground truth 
+startwith(or(and(and(<m0>,<m1>),<let>),<m2>))

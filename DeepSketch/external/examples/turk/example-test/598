@@ -1,0 +1,14 @@
+// example 
+"",+
+"~fv3%",+
+"Gd!",+
+"6l",+
+"`",+
+"6ksZrF",+
+"5X"t",+
+"f)*j{;'",+
+"M"t7:W;P?",+
+"_@OMAk0;",+
+
+// ground truth 
+not(and(concat(<let>,<num>),<vow>))

@@ -1,0 +1,17 @@
+// example 
+"Av",+
+"UiAV.",-
+"t@"X",-
+"U[A>=",-
+"K4U",-
+"K_bv",-
+"Oq",+
+"",-
+"'",-
+"D7",-
+"I}2",-
+"I",-
+"JB",-
+
+// ground truth 
+concat(<vow>,<low>)

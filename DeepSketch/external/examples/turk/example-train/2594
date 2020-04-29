@@ -1,0 +1,25 @@
+// example 
+"D",+
+"r",+
+"t*3",-
+"9RW",+
+"g8K4N",+
+"5",-
+"g8KFq",+
+"^",-
+"S2Ht\",-
+"",-
+"t\^",-
+"jV",+
+"r|",-
+"rpkb",+
+"r)",-
+"js",+
+"rp7V",+
+"!zE.",-
+"S2Ht3",-
+"9Re",+
+"P%Ax",-
+
+// ground truth 
+repeatatleast(or(<let>,concat(<num>,<cap>)),1)

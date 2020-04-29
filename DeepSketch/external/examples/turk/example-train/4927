@@ -1,0 +1,15 @@
+// example 
+"E",+
+"9DCS~DS",-
+"+4%bIm",-
+"&>k0:l*Fc",-
+"62B",-
+"7L*R(",-
+",sA^",-
+"9"@K#]y=W=",-
+"n!",-
+"L~yPT1F=",-
+"",-
+
+// ground truth 
+or(or(<cap>,<any>),<m0>)

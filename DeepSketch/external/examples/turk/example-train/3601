@@ -1,0 +1,25 @@
+// example 
+"]",-
+"FA7z9",+
+"JChcC4",+
+"Z|<B",-
+"s4$9/",-
+"FA7zh",+
+"Zlb\",-
+"Z>$",-
+"P30",+
+"Qi",+
+"s49#d",-
+"",-
+"P3M",+
+"[-",-
+"QZ",+
+"t2P6",+
+"t2Pu",+
+"S",-
+".t",-
+"Z%H",-
+"JChcCS",+
+
+// ground truth 
+repeatatleast(or(<num>,<let>),2)

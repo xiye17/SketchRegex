@@ -1,0 +1,15 @@
+// example 
+"9W+[(w5(.",+
+"a's",+
+"e",+
+"W$~s>.9x7T",+
+"y4wym",+
+"Zu",+
+"7|B#ch",+
+"tb-BO-?",+
+"Do.`HW`Z",+
+"[?/z",+
+"",-
+
+// ground truth 
+contain(or(or(<let>,<any>),<cap>))

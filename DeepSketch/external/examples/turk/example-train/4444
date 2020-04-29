@@ -1,0 +1,25 @@
+// example 
+"4y",-
+"4",-
+".jc",-
+"&RJ#U",-
+"9v[d6",-
+"9O+",+
+"`ss",-
+"9cx%",-
+"9aQ",+
+"6UPT",+
+"",-
+"4F",-
+"'",-
+"7U",+
+"7IC`1",+
+"7U9Ph",+
+"6AzA",+
+"9kt;",-
+"6oB[|0",+
+"6OWqS'",+
+"7A",+
+
+// ground truth 
+repeatatleast(startwith(concat(<num>,<vow>)),1)

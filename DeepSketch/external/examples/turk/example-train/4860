@@ -1,0 +1,15 @@
+// example 
+"$!%&]",+
+"i^<*",+
+"wN*",+
+"jQr?h(S",+
+"=ZDnlA",+
+"7w*q)]<*",+
+"v5}Z+<tis",+
+"}l",+
+"u",+
+"|>yt#0Ga)N",+
+"",-
+
+// ground truth 
+startwith(or(<any>,or(or(<m0>,<m1>),<low>)))

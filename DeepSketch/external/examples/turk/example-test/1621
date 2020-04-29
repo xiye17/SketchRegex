@@ -1,0 +1,25 @@
+// example 
+"f*;",+
+"E[D",+
+"UZLK",-
+"iSO/d",+
+"oDWM",-
+"eYI",-
+"UUEYZ",-
+"ISV",-
+"f#NB",+
+"iJ",-
+"a",-
+"iIBLI",-
+"",+
+"A%",+
+"ia"1e",+
+"g",+
+"S",+
+"O",-
+"Ae",+
+"e7xm",+
+"OV",-
+
+// ground truth 
+not(concat(<vow>,star(<cap>)))

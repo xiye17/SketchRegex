@@ -1,0 +1,25 @@
+// example 
+"|E",-
+"p",+
+"]",-
+"^c",+
+"IIg",+
+"k",+
+"_UU$e",-
+"+",-
+"^y",+
+"oUI{",-
+"d+fD",+
+"",-
+"Ut%un",+
+"||",-
+"I7e",-
+"WCJ~",+
+"_UU${",-
+"IIZ",+
+"UI{Y6",+
+"I7u",-
+"oUIU",-
+
+// ground truth 
+contain(and(repeatatleast(<let>,1),not(contain(<vow>))))

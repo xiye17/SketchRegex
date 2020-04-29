@@ -1,0 +1,15 @@
+// example 
+"a4M[6~",+
+"r",+
+"$[L.",+
+"~f[$~@Dwz4",+
+"/%}",+
+"6DFQI",+
+"xj",+
+"7NrJA7<",+
+"d(Yv&4De",+
+"",-
+"H]?rjQTji",+
+
+// ground truth 
+or(repeatatleast(<any>,1),endwith(<m0>))

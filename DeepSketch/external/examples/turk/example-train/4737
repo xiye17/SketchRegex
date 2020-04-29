@@ -1,0 +1,25 @@
+// example 
+"WDH",+
+"a[",-
+"ommDBc",+
+"jKXp",+
+"WDw",+
+"vImzzpx",+
+"bPEbv",+
+"^",-
+"",-
+"c:}",-
+"vImzzpU",+
+"~OiCu",-
+"bPEbD",+
+"M.WIl",-
+"ommDBE",+
+"am",-
+"v",-
+"EuE}",-
+"jKXI",+
+"c_s",-
+"EuE<",-
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),3)

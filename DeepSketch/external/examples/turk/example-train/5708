@@ -1,0 +1,17 @@
+// example 
+"Os!",+
+"E|",-
+"-Nq",-
+"Or!J=",-
+"Ek!",+
+"L]Q",-
+"",-
+"KVyT",-
+"OrV<P",-
+"T",-
+"Ek",-
+"m4ZW",-
+"E",-
+
+// ground truth 
+concat(concat(<vow>,<low>),<m0>)

@@ -1,0 +1,15 @@
+// example 
+"d(au=z2",+
+"i",+
+"R3ZvbY",+
+")dw\?a#WU",+
+""DEL6",+
+"(gw",+
+"FamL%1U<",+
+"Ue",+
+"pc.4,\CAb-",+
+"",-
+"j--N",+
+
+// ground truth 
+contain(endwith(<any>))

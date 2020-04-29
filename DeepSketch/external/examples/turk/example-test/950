@@ -1,0 +1,20 @@
+// example 
+"';]pG##",+
+"GDfc}tNYcK~DEFI",+
+"{%h3r"2ZZ",+
+"OXXr6nt['6(~[",+
+"",-
+"l\DQ;3E,a;|,",+
+"*-D.c.&z",+
+"PA:i!gBZX*E",+
+"S",-
+".~",-
+"""6L",-
+"/rZ",-
+"^x0_|(5l~VK3G_",+
+"(H}<7]",+
+"=YNCa&QMUz",+
+"N_LMI",-
+
+// ground truth 
+repeatatleast(endwith(contain(<any>)),6)

@@ -1,0 +1,17 @@
+// example 
+"KC",+
+"!V0z9",-
+"V",-
+"^",-
+";&e[r",-
+"",-
+"s3",-
+"!Q",+
+"!i;",-
+"d]V",-
+""#!w",-
+"DZXo",-
+"4h",-
+
+// ground truth 
+concat(or(or(<m1>,<cap>),<m0>),<any>)

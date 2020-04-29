@@ -1,0 +1,15 @@
+// example 
+"2!",+
+"h-{5`{",+
+"a",+
+"0|(4Z",+
+"O@:%/ie}Ze",+
+"AFXZP`|O",+
+"p>>jD8st~",+
+"B7fN",+
+"{h!",+
+"r=_!ZV6",+
+"",-
+
+// ground truth 
+contain(or(or(<num>,<m0>),<any>))

@@ -1,0 +1,26 @@
+// example 
+"NP!",+
+"hvPX6",-
+">?MoE!",+
+",ZWF!",+
+"Q!",+
+"Ip",-
+"J/kn",-
+"Gatx^L!",+
+"",-
+"-+X!",+
+",Z!Q!",+
+"j",-
+"I'",-
+"A",-
+"J/k#",-
+">?M#Z!",+
+"Gatx;W!",+
+""><",-
+"hvPX|",-
+"8F!",+
+"-HI!",+
+"">}",-
+
+// ground truth 
+endwith(concat(<cap>,<m0>))

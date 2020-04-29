@@ -1,0 +1,16 @@
+// example 
+"F",-
+"-ByT",-
+"6J",-
+".",-
+"3o;qW",-
+"4uT",+
+"(2",-
+".:q",-
+"@jm9",-
+"VY-sL",-
+"7M)",-
+"",-
+
+// ground truth 
+concat(concat(<num>,<any>),<cap>)

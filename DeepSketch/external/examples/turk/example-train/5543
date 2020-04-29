@@ -1,0 +1,25 @@
+// example 
+"]",-
+"R>qe",+
+"e6V4",+
+"k",+
+"]c",-
+"~9&c",-
+"_U{k,",-
+"q{7F2",+
+"",-
+".U",-
+"4/)",-
+"{OES3",-
+"rg",+
+"V[{5M",+
+"]DcE",-
+"Zdz",+
+"A9",+
+"R",+
+"}@L",-
+"d):",+
+"~",-
+
+// ground truth 
+repeatatleast(startwith(<let>),1)

@@ -1,0 +1,25 @@
+// example 
+"gzu",+
+"]Q",-
+"xtRe",+
+"U",+
+"[Gc%f",-
+"Bgzx",-
+"O4",+
+"",-
+"[Gc%1",-
+"]]",-
+"BgzD",-
+"P",-
+"|",-
+"sEvi3",+
+"e",+
+"gzi",+
+"xiox",+
+"ga",+
+"@Cs",-
+"@CG",-
+"uM8]Q",+
+
+// ground truth 
+contain(or(repeatatleast(<m0>,2),<vow>))

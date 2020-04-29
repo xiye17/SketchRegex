@@ -1,0 +1,17 @@
+// example 
+"[",-
+"q}",-
+"",-
+"EQ,O_",-
+"|OC",-
+"Eo",+
+"q+",-
+"og",+
+"A",-
+"HY^y",-
+""5i",-
+"E~[,5",-
+"H}G]",-
+
+// ground truth 
+and(not(<m0>),concat(<let>,<low>))

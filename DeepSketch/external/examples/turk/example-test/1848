@@ -1,0 +1,17 @@
+// example 
+"E{",-
+"Z",-
+"zDb",-
+".%T",-
+"Zs",+
+"",-
+"Q8:F",-
+"Z!",+
+"E]",-
+"Q}DX",-
+"7",-
+"elTcP",-
+")CXxV",-
+
+// ground truth 
+concat(<cap>,or(or(<m1>,<m0>),<let>))

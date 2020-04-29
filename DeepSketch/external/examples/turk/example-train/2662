@@ -1,0 +1,15 @@
+// example 
+"[BGZ%",-
+"E"Q]",-
+"!gX",-
+"!",-
+"jk",-
+"!0",+
+"Mj%",-
+"",-
+"B",-
+"!}6H",-
+"!pYa/",-
+
+// ground truth 
+concat(<m0>,or(or(<any>,<cap>),<m1>))

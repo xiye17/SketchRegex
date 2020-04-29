@@ -1,0 +1,17 @@
+// example 
+"cF(+a",-
+"G{?",-
+"}f",-
+"",-
+"tR!V",-
+"bwC",+
+"}AZ",-
+"cFo".",-
+"P",-
+"|",-
+"tRco",-
+"Ts",-
+"bCB",+
+
+// ground truth 
+concat(concat(<low>,<let>),<cap>)

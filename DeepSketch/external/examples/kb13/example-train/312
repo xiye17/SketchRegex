@@ -1,0 +1,25 @@
+// example 
+":vfdX)Mb",-
+"P4+oS",-
+"E!",+
+"6!A",+
+"U#!a(",+
+"!R5tV",+
+"X$w",-
+"!",+
+"GA",-
+"e~>p@>K*u",-
+"!R!XcN",+
+"",-
+"@Jig_*c",-
+"m/d!uZ",+
+"g",-
+"!}m)",+
+"tpH{$.",-
+"b!6H",+
+"Y.s}",-
+"6K!",+
+"!)",+
+
+// ground truth 
+contain(concat(<m0>,star(<let>)))

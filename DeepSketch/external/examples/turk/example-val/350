@@ -1,0 +1,25 @@
+// example 
+"sfudmgxshlxM",+
+"zhljlqcsoelwiarU",+
+"rfbrqybhfhmhU",+
+"WiX",-
+"bqldsfxehoO",+
+"GQ$K",-
+"(",-
+"",-
+"~/`",-
+"}",-
+"~!P5",-
+"gxsrgheymvlguP",+
+"wqjagtkF",+
+"|m-:.",-
+"uwarfkcuU",+
+"neghvpqrfjagkyvtO",+
+"mP",-
+"ma",-
+"@Eh!;",-
+"bveguabbiL",+
+"gtzlrbcypkztuyF",+
+
+// ground truth 
+concat(repeatatleast(<low>,7),<cap>)

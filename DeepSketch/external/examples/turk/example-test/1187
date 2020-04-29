@@ -1,0 +1,25 @@
+// example 
+"i}ad",-
+"BgxOl",-
+"yx",+
+"tdarF",+
+"xcud",+
+"}dH!s",-
+"ihZ",+
+"d",-
+"namwas",+
+"",-
+"ihh",+
+"xcuE",+
+"namwaJ",+
+"l[",-
+"x[+",-
+"i:O^",-
+"9",-
+"tdaro",+
+"yP",+
+"x{D",-
+"l{",-
+
+// ground truth 
+concat(repeatatleast(<low>,1),<let>)

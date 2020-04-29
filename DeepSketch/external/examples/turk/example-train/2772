@@ -1,0 +1,17 @@
+// example 
+"Ty,cJ",-
+"E<",+
+"N^",-
+"_",-
+"",-
+"I#{",-
+"WT",-
+"t%h",-
+"go.h",-
+"ua0~"",-
+"O&7h",-
+"A/",+
+"D",-
+
+// ground truth 
+concat(and(<vow>,<let>),or(<any>,<low>))

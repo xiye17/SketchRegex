@@ -1,0 +1,16 @@
+// example 
+"b[)",-
+"=",-
+"bZ~",-
+"}B",-
+"yF",+
+"d",-
+"QU",-
+"qJzM",-
+"qr`o",-
+"y3:b2",-
+"",-
+"/T!;t",-
+
+// ground truth 
+concat(<low>,and(<cap>,<let>))

@@ -1,0 +1,16 @@
+// example 
+"!U",-
+"PN",-
+"w5H'",-
+"X7",+
+"R",-
+"AJ[",-
+"?D0s",-
+"",-
+"b",-
+"A(W",-
+"!M::j",-
+"dH`cU",-
+
+// ground truth 
+concat(<cap>,<num>)

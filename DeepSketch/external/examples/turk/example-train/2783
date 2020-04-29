@@ -1,0 +1,25 @@
+// example 
+"Gi",+
+"RUibr",-
+"I(Ui",+
+"QgE",+
+"TabP",-
+"Cx",-
+"I(UI",+
+"",-
+"RUibP",-
+"Tab]",-
+"isH",-
+"Gu",+
+"j",-
+"isr",-
+"i",+
+"OuuVa",+
+"Qgi",+
+"OuuVo",+
+"Cg",-
+"I",+
+"J",-
+
+// ground truth 
+concat(not(and(<num>,<m0>)),<vow>)

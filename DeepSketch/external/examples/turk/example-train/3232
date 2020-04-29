@@ -1,0 +1,15 @@
+// example 
+"8",+
+"2A$oy=4C",+
+">RIuI$",+
+"kRW",+
+"Oh_,Mj^",+
+"z'oywKAL{|",+
+"nq",+
+"\l}rQ",+
+"1DF7",+
+"bPK@&{xUG",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<any>),<low>))

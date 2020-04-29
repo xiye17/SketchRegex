@@ -1,0 +1,25 @@
+// example 
+")",+
+"xfq",+
+"tTu",-
+"f8WE<y",-
+"ubcmrnm",+
+"",-
+"uIz|(",-
+"@_(O",-
+"p4qu",-
+"t~w",-
+"~QM_&u",-
+"xmgmrr",+
+"yqwnhmmd",+
+"imtw",+
+"{W",-
+"rrwhdrvkh",+
+"m,",-
+"qekfc",+
+"uaH6Y",-
+"gc",+
+"|",+
+
+// ground truth 
+or(repeatatleast(<low>,1),or(or(<m0>,<any>),<m1>))

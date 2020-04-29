@@ -1,0 +1,25 @@
+// example 
+"Q`Y",-
+"N7|*H",-
+"}RI",+
+",",-
+"N7|*{",-
+"!",+
+"h/",+
+"}AR",+
+"",-
+"#LTX",-
+"E.",+
+"EPFWi",+
+"CAq%",+
+"'N",-
+"S",-
+"'Q",-
+"s4,>b",+
+"Q`}",-
+"I",+
+"#LTB",-
+"Cehx",+
+
+// ground truth 
+contain(or(or(<vow>,<m0>),<low>))

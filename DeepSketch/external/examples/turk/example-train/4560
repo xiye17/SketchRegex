@@ -1,0 +1,17 @@
+// example 
+"(vm",-
+"$\",-
+"2wV",+
+"3wu<K",-
+"${<R",-
+"",-
+"8",-
+"3w;yr",-
+"g$p",-
+"2PT",+
+"H",-
+"G*",-
+"3|PX",-
+
+// ground truth 
+concat(concat(<num>,<let>),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"BX",+
+"lh?},",-
+"l!R(N",-
+"_",-
+"",-
+"b",-
+"D~p",-
+"`B",-
+"Br",+
+"~M9%",-
+"[{ec",-
+"|-",-
+"]}R",-
+
+// ground truth 
+concat(<let>,or(or(<m0>,<low>),<cap>))

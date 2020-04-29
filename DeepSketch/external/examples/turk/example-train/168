@@ -1,0 +1,26 @@
+// example 
+"~Jd\uy]HMgq",+
+"}Mf",-
+"yL{havpp",+
+"q",-
+"}v}U",-
+"yL{Lvhco",+
+"}POZk]hrw",+
+"",-
+"vC~5O",-
+"uzcgrx",+
+"}POZk]Lwj",+
+"}M\",-
+"(B",-
+"}v}]",-
+"Jhosqih",+
+"}hw^iEC{Oy",+
+"}hw^iEC{tt",+
+"vC~[5",-
+"~Jd\uy]HMXo",+
+"{",-
+"(}",-
+"JCfsbxq",+
+
+// ground truth 
+repeatatleast(or(concat(<any>,<let>),<low>),6)

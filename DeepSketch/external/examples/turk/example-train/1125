@@ -1,0 +1,14 @@
+// example 
+"",+
+"lm[",+
+"I:m-|o|O0",+
+";",+
+"S;GjFIAe",+
+"%J.cE",+
+"~{dZ",+
+"4lqIL!",+
+"\]\::(H",+
+"aT",+
+
+// ground truth 
+not(and(<vow>,endwith(<m0>)))

@@ -1,0 +1,26 @@
+// example 
+"R}{g",+
+"N[=n&j",+
+"O|",-
+"R}vj",+
+"N<b",+
+"Sh~ud",+
+"C3ee}-u",+
+"Nhc",+
+"",-
+"&",-
+"C3ee}}a",+
+"T",-
+"H{}",-
+"g@y[",-
+"OT",-
+"H{S",-
+"KT6Z~",-
+"N[=nso",+
+"KT6ZP",-
+"Tj",+
+"Sh~}s",+
+"'S/*",-
+
+// ground truth 
+and(endwith(<low>),startwith(<cap>))

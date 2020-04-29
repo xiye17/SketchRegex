@@ -1,0 +1,20 @@
+// example 
+"qnWIi3",+
+"TP]{N?`B",+
+"%O*"PeD",+
+"v}~",-
+"{D3DTN,S(I",+
+"]EC{wxb+)}"u"9",+
+"eNL;",-
+"T0@LF1C[6.nf6DB",+
+"!}",-
+"Wf=~D{63P",+
+"F_HN2Aku".L&H",+
+"",-
+",8b>Pk5>m5]",+
+"zhn|>",-
+"G4vQN%~LL95b",+
+"y",-
+
+// ground truth 
+repeatatleast(or(or(<any>,<cap>),<m0>),6)

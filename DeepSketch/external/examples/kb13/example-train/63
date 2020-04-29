@@ -1,0 +1,25 @@
+// example 
+"D!}$v",-
+"yH[Id5`_f",+
+"[",-
+"P,",-
+"CYYZf",+
+"fR|BH]M",+
+"fR|BHL&",+
+"H^{fa#vU",+
+"P~vh",-
+"u~T",-
+"Y^Asvh",+
+"CYYZX",+
+"",-
+";",-
+"P|",-
+"yH[Id5`_F",+
+"u~}",-
+"H^{fa#vd",+
+"P~v|",-
+"Y^AsvS",+
+"D!}$F",-
+
+// ground truth 
+contain(repeatatleast(contain(<let>),5))

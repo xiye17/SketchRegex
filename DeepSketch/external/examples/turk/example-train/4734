@@ -1,0 +1,15 @@
+// example 
+"X(8",+
+"%38E'|'{",+
+"S^S^04x",+
+"\a1Zlm",+
+"'6go'",+
+"k<j4",+
+"cllBJ)x{B",+
+"?j",+
+"DRS>@&0l]z",+
+"B",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<cap>),<any>))

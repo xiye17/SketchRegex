@@ -1,0 +1,24 @@
+// example 
+"!wsNHWzU",+
+"x*qu",-
+"!HZ5q$YDKx",+
+"?pvA2d",-
+"!t*Z^Syd#Y&",+
+"!",-
+"9@\(GtDG",-
+"#",-
+"by@Lo",-
+"!g-:Up",+
+"",-
+"!Kb7",+
+"!:iDkn_$o",+
+"!l",+
+"!Ne",+
+"!*As9",+
+"!^xu`X8",+
+"v&3",-
+"'G^9v_u",-
+"l?",-
+
+// ground truth 
+concat(repeatatleast(<m0>,1),endwith(<any>))

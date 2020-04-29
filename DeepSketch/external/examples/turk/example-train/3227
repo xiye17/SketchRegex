@@ -1,0 +1,17 @@
+// example 
+"D",+
+"Ahe",+
+"FI%Z",+
+"G%~UB",+
+"I$fKV",+
+"$",+
+"H$",+
+"",+
+"PJ(u",+
+"O",-
+"EUn",+
+"A0",+
+"E",-
+
+// ground truth 
+not(or(<vow>,<low>))

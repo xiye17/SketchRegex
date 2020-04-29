@@ -1,0 +1,25 @@
+// example 
+"B_5^(zD",+
+"D]",-
+"\{`",-
+"nQY",+
+"~IAJ",+
+"nQe",+
+"",-
+"Df",-
+"}/`en",-
+"\{@",-
+"|",-
+"|p`u",-
+"}{{Rfi",+
+":M[xG",+
+":M[xn",+
+"}{{RfX",+
+"~IAn",+
+"B_5^(zb",+
+"L",-
+"}/`eS",-
+"|p`{",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),3)

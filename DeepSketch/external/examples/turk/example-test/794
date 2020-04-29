@@ -1,0 +1,14 @@
+// example 
+"",+
+"p",+
+"*7i=I",+
+"oYO&x33#",+
+"`I8",+
+"PX7/ey",+
+":\+!e!t",+
+"S0",+
+"Wy9P",+
+"[F(q7beJ3",+
+
+// ground truth 
+not(and(<low>,or(<m0>,<m1>)))

@@ -1,0 +1,17 @@
+// example 
+"Q;",-
+"HQ&^",-
+"A@%",-
+"K9dI",-
+"",-
+"j@",+
+"!@",+
+"A2Z",-
+"I",-
+"I<T94",-
+"Ee",-
+"E",-
+"I@i{5",-
+
+// ground truth 
+concat(or(or(<vow>,<low>),<m0>),<m1>)

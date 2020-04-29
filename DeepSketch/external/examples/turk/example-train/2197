@@ -1,0 +1,14 @@
+// example 
+"",+
+"|<c>;/u",+
+"vv'\^O",+
+"<Y"",+
+"DaTA",+
+",d",+
+"y",+
+"kT>wk];$}",+
+"'ZaQW918",+
+"&\hzP",+
+
+// ground truth 
+not(and(and(<any>,<num>),<cap>))

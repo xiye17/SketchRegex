@@ -1,0 +1,14 @@
+// example 
+"",+
+",",+
+"_VCn%M_=4",+
+"d~Ja",+
+"Sh",+
+".lc",+
+"0H%Nz",+
+"&:\<hS",+
+"%YsC-Ui",+
+"+3xoI8kY",+
+
+// ground truth 
+endwith(star(contain(<vow>)))

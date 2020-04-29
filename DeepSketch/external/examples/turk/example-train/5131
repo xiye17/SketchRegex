@@ -1,0 +1,25 @@
+// example 
+"hZkhiiykxflQyOsVqlyV",+
+"boylcNbIjorrtUtHzj",+
+"fgbCcekMcbpYbcgU",+
+"yPwpcBgUqllH",+
+"~]v",-
+"i}",-
+"l",-
+"boylcNbIjorrtUtHzZ",+
+"yPwpcBgUqllc",+
+"hZkhiiykxflQyOsVqlyd",+
+"",-
+"Ao,2b",-
+"fgbCcekMcbpYbcgz",+
+"owigjyoMsWoRuI",+
+"|",-
+"y}*A",-
+"owigjyoMsWoRuy",+
+"r['}5",-
+"i$",-
+"y"(f",-
+"=*U",-
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),6)

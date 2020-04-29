@@ -1,0 +1,21 @@
+// example 
+"!`",+
+"3rC",-
+"j@7&x3",-
+"!BpLV!r3",+
+"!<C",+
+"/c>jH=T",+
+"!",+
+"",-
+"S$fgwx#I",+
+"!ifve",+
+"!xC{%fw",+
+"Q<-iV",-
+"!%)+VX",+
+"!PrR",+
+"#)M4",-
+">",-
+"BO",-
+
+// ground truth 
+or(startwith(<m0>),repeatatleast(<any>,7))

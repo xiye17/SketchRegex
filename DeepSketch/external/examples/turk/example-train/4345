@@ -1,0 +1,16 @@
+// example 
+"",+
+"FzJr",+
+"`+5",+
+"|axhg",+
+"JP",+
+";u{Q",+
+"HfJ+,",+
+"R#K",+
+"w",+
+"W",-
+"(",+
+"ly",+
+
+// ground truth 
+not(or(and(<m0>,<vow>),<cap>))

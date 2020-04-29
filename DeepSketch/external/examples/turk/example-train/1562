@@ -1,0 +1,17 @@
+// example 
+"mb0K",-
+"o7",-
+"u",-
+"m",-
+"u+H",-
+"",-
+"dl",-
+"dTG%(",-
+"x)3",-
+"slJ6",-
+"i!",+
+"uV|p(",-
+"o!",+
+
+// ground truth 
+concat(and(<low>,<vow>),<m0>)

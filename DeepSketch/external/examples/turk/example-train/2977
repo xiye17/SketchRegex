@@ -1,0 +1,17 @@
+// example 
+"o",-
+"td",-
+"Bf)",-
+"uh",+
+"Ou",+
+"K;0@",-
+"RNn",-
+"a'jmr",-
+"",-
+"u!",-
+"UX,8",-
+"K",-
+"afImx",-
+
+// ground truth 
+concat(<vow>,<low>)

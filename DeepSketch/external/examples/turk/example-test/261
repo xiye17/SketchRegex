@@ -1,0 +1,25 @@
+// example 
+"un",-
+"eUaz",-
+"JG0x",+
+"eJodk",+
+"ANUsEq",-
+"`",+
+"oYALALEH",-
+"rM",+
+"o~",+
+"ANUsEJ",-
+"eUaF",-
+"TX6",+
+"IliZORIBet",-
+"",+
+"a.\G",+
+"eJodI",+
+"w",+
+"u|,",+
+"oYALALEm",-
+"IliZORIBeV",-
+"uQ",-
+
+// ground truth 
+not(repeatatleast(concat(<vow>,<let>),1))

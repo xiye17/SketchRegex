@@ -1,0 +1,15 @@
+// example 
+"?V^",+
+"_SNLEEueP",+
+"B~}YV",+
+"5!@ovS",+
+"J",+
+"Jyr:o;A{\|",+
+"xfd^",+
+"JU",+
+"W1G:VOgQ",+
+"Ub)8x{S",+
+"",-
+
+// ground truth 
+repeatatleast(or(or(<any>,<num>),<cap>),1)

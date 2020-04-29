@@ -1,0 +1,17 @@
+// example 
+"AT>",-
+"AE",+
+"fO&",-
+"I|",-
+"lLC5",-
+"",-
+"Hm},e",-
+"Ag",+
+"I8",-
+"BD4!]",-
+"S",-
+"I",-
+"tnS0",-
+
+// ground truth 
+concat(<vow>,<let>)

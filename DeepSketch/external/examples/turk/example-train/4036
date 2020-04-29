@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"W6A",+
+"bXgI",+
+"o",+
+"l2A{",-
+"ztn",-
+"!E",+
+"",-
+"rYAjR",-
+"o+",-
+"!He"E",+
+"W6O",+
+"bXgi",+
+"!He"i",+
+"ztB",-
+"rYAj.",-
+"C",-
+"H",-
+"Tg",-
+"A",+
+"l2AR",-
+
+// ground truth 
+concat(not(<let>),or(<m0>,<vow>))

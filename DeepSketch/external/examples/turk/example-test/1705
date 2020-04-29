@@ -1,0 +1,25 @@
+// example 
+"r",-
+"CBLR",-
+"RUl9W",+
+"SfSDz",-
+"F5",-
+"EI",+
+"Fb",-
+"Hce",+
+"SfSDR",-
+"RO",+
+"",-
+"c",-
+"gQd",-
+"Ayim",+
+"iOzq",+
+"e",+
+"I",+
+"CBLy",-
+"HIe",+
+"gQ1",-
+"REg'C",+
+
+// ground truth 
+contain(and(<vow>,<let>))

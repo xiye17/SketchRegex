@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(and(<let>,<m0>),<num>)

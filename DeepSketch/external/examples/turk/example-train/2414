@@ -1,0 +1,25 @@
+// example 
+"W~c':m;j",-
+"xiP",+
+"^_",+
+"%6",+
+"q9hX",+
+"L9j3L",-
+"P@K",-
+"7#=h",+
+"L5<C",-
+"",+
+";uk",+
+"N{fg0D",-
+":",+
+"Hy&F$LSA$",-
+"!uk&[",+
+"A",-
+"Lo(WN#z7hS",-
+"FO",-
+"y",+
+"]A0&c",+
+"LVLb/:t",-
+
+// ground truth 
+not(startwith(<cap>))

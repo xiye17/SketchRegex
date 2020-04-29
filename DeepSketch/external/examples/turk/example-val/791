@@ -1,0 +1,17 @@
+// example 
+"&YW",+
+"Ibf#8",+
+"U0qA",+
+"ES%:0",+
+"",+
+"ls",+
+"U",-
+"IJ#;",+
+"5",+
+"A",-
+"{",+
+"WF",+
+"OkF",+
+
+// ground truth 
+not(and(<any>,<vow>))

@@ -1,0 +1,16 @@
+// example 
+"q'+0L",-
+"N",-
+"a~U~",-
+"o",+
+"|3'",-
+"{zT^",-
+"}m",-
+"13Zk=",-
+"Y[",-
+"{",-
+"",-
+"oJ@",-
+
+// ground truth 
+and(startwith(<any>),<low>)

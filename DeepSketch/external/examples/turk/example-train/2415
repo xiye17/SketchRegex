@@ -1,0 +1,26 @@
+// example 
+"EBu",+
+"~Sq\",+
+"lzNTy",+
+">|M",-
+"FZ&)1",-
+"IX|]Yo",+
+"f:h?;Fx",+
+">|<",-
+"`C\L",-
+"lzNq@",+
+"FZ&)C",-
+"kG",-
+",Om",+
+"Wa",+
+"",-
+"k|",-
+"IX|3Bw",+
+"`C\_",-
+"R",-
+"f:h?uEv",+
+"~SRq",+
+"@",-
+
+// ground truth 
+contain(concat(repeatatleast(<cap>,1),<low>))

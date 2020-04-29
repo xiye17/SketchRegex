@@ -1,0 +1,25 @@
+// example 
+"rkwXoLGBK",+
+"RHvBd",+
+"C2M3ksza",+
+"0\",-
+"0f10RQ6",+
+"D5xw7K",+
+"~e*QJ",-
+"8Pe;}",-
+"#",-
+"z:uW",-
+"",-
+"`",-
+"}JP*",-
+"|V.",-
+"rkwXoLGBj",+
+"C2M3kszH",+
+"07",-
+"D5xw76",+
+"0f10RQV",+
+"RHvB9",+
+"9W@",-
+
+// ground truth 
+repeatatleast(or(<num>,<let>),5)

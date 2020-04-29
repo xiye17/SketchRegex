@@ -1,0 +1,17 @@
+// example 
+":p",-
+"O[.T",-
+"Ann3+",-
+"I|",-
+"",-
+"NQ]<v",-
+"H=n",-
+"Kn$-",-
+"Ay",+
+"Eq",+
+"I",-
+"L]2",-
+"E",-
+
+// ground truth 
+concat(and(<cap>,<vow>),<low>)

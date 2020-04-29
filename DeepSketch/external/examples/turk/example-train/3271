@@ -1,0 +1,25 @@
+// example 
+"_[%Hw",-
+"SsvvLMa6Q&",+
+"D)FGiIeNA(I!U[k`",+
+"qNNhJxN@LhjJtuEEtQ",+
+"qNNhJxN@LhjJtuEEWd",+
+"B$",-
+"]Y",-
+""~6",-
+"BL_Y",-
+"D)FGiIeNA(I!U[F5",+
+"S}n",-
+"BLPd",-
+"SsvvLMa6ts",+
+"",-
+"P",-
+"X'|U]",-
+"SonMdiAvW;tYwi",+
+"SonMdiAvW;tYGI",+
+"u+Plk9m-MAeg",+
+"u+Plk9m-MAJ@",+
+"y",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),5)

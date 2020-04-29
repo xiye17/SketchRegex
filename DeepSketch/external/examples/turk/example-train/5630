@@ -1,0 +1,14 @@
+// example 
+"",+
+">T!:F",+
+"tT",+
+"<W@~d,%@",+
+"EH[7{B@",+
+"_=bY",+
+"g_Z",+
+"B",+
+"9_>B0.",+
+"T%X)5{LIS",+
+
+// ground truth 
+not(and(and(<cap>,<m0>),<vow>))

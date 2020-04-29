@@ -1,0 +1,25 @@
+// example 
+"zm",-
+"nDjX",-
+"2LH",-
+"D|e&o",+
+"nDj]",-
+"a",+
+"o{",+
+"kgO",+
+"RtAk",+
+"",-
+"c",-
+"Fa",+
+"DeG|y",+
+"zc",-
+"Rti$",+
+"N",-
+"B'cff",-
+"i",+
+"kuZ",+
+"B'cfY",-
+"2L]",-
+
+// ground truth 
+contain(or(concat(<cap>,<num>),<vow>))

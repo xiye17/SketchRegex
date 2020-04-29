@@ -1,0 +1,26 @@
+// example 
+"znraO",+
+"!&&_]",-
+"ji!\",-
+"lkZ",+
+"~oW",-
+"!",-
+"!L",+
+"!cuccD",+
+"",-
+"znr!B",+
+"!naC",+
+"ji!'",-
+"!cuc!X",+
+"Wk",-
+"tW",+
+"!~F`V",-
+"!n!I",+
+"I",+
+"GzL",-
+"l!N",+
+"~",-
+"_v",-
+
+// ground truth 
+concat(star(or(<m0>,<low>)),<cap>)

@@ -1,0 +1,24 @@
+// example 
+"!<dGD",-
+"$aZ.78}BD",+
+"!s",-
+"RX",+
+".0]",+
+"!",-
+"!KaK.{OLh",-
+"!O,"gKqwom",-
+"",+
+"Tx\jl`~",+
+"!FxO^0",-
+"V1VM",+
+";",+
+"X*)L;v",+
+";>6M`X8Y",+
+"!/>x",-
+"!]x(2A4",-
+"!CP9B4BH",-
+"`xyYd",+
+"!xk",-
+
+// ground truth 
+not(startwith(<m0>))

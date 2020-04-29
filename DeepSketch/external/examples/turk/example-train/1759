@@ -1,0 +1,25 @@
+// example 
+"JZNFRYDKMA0",-
+"HKPYSMNYLED0",-
+"6Ml",+
+"AKBWJQ2",-
+"!",+
+"FUNYZCFP4",-
+"b",+
+"nw'",+
+"",+
+"DWJFAWW0",-
+"OTIZDFCXP2",-
+"qH",+
+"<)",+
+"KFNPSYJHUSIPG5",-
+"St'J",+
+"@Waf<",+
+"PIJTJ4",-
+"yG6C",+
+"WDXXUTIISLMG4",-
+"RGDnQ",+
+"DYGG5",-
+
+// ground truth 
+not(concat(repeatatleast(<cap>,4),<num>))

@@ -1,0 +1,25 @@
+// example 
+"!{`swE",+
+"^mS",-
+"\}&`EcT",+
+"zDb",+
+"o;",-
+"|M%{",-
+"^uTy",+
+"o{",-
+"^uTA",+
+"e",-
+"",-
+"^mx",-
+"}",-
+"!{`swi",+
+"";OaL",+
+"";Oaz",+
+"(~r%_",-
+"(~r%m",-
+"zDX",+
+"|M%\",-
+"\}&`Ecs",+
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),3)

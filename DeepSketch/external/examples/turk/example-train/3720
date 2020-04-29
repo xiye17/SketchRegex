@@ -1,0 +1,25 @@
+// example 
+"aE",+
+"uaOo",+
+"E",+
+"iuoEE",+
+"Z",-
+"'&F",-
+"UaU",+
+"iuoEu",+
+"{5Zb",-
+"Uao",+
+"",+
+"k{",-
+"H,",-
+"_D$!",-
+"RZcPs",-
+"fnk&1",-
+"An5",-
+"ai",+
+"B",-
+"A",+
+"uaOA",+
+
+// ground truth 
+or(star(<vow>),and(and(<m0>,<m1>),<num>))

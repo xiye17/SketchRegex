@@ -1,0 +1,25 @@
+// example 
+"+{Dm",-
+"G0I",+
+"UYXNC",+
+"A`",+
+"U",+
+"*",-
+"Og",+
+"cH/A",+
+"TSc",-
+"NQ}D.",-
+"",-
+"G0U",+
+"O^+Nl",+
+"+{D%",-
+"JJ",-
+"TSB",-
+"NQ}DD",-
+"Ia.%",+
+"A",+
+"~",-
+"JB",-
+
+// ground truth 
+contain(and(and(<any>,<vow>),<cap>))

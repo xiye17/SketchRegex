@@ -1,0 +1,17 @@
+// example 
+"!b",-
+"0n)B",-
+"!}n^",-
+"VE6Fo",-
+"VJ},v",-
+"e",-
+"",-
+"EE",+
+"Eo",+
+"!l",-
+"Riq",-
+"8!}",-
+"D",-
+
+// ground truth 
+concat(or(<cap>,<m0>),<vow>)

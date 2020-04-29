@@ -1,0 +1,25 @@
+// example 
+"r",+
+"Npy",+
+"fV",+
+"A!9",-
+"bcz:w",+
+"Ad!",-
+"A!G2b",-
+",#",+
+"X",+
+"uOpx",+
+"Ad_K!",-
+"j!zj",-
+"",+
+"O&\}",+
+"I!",-
+"k!",-
+"a-0",+
+"O",-
+"U",-
+"jy!A",-
+"C)00m",+
+
+// ground truth 
+not(or(contain(<m0>),<vow>))

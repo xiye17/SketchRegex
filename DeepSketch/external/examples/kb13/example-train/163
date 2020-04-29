@@ -1,0 +1,25 @@
+// example 
+"aE",+
+"~U}",+
+"ouOuo",+
+"ouOue",+
+"bCY",-
+"eE|t",-
+"eEDY",-
+"Os",-
+"",+
+"~U[",+
+"P",-
+"e",+
+"OF",-
+"i",+
+"nCUI;",-
+"au",+
+"y",-
+"iU~E",+
+"ws5",-
+"F6"m6",-
+"iU~}",+
+
+// ground truth 
+not(contain(and(repeatatleast(<let>,1),star(notcc(<vow>)))))

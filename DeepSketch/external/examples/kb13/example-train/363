@@ -1,0 +1,25 @@
+// example 
+"bS",-
+"@!1",+
+"b?",-
+"[D@a!5",+
+"o@!0",+
+"5!q",-
+"??;I@",-
+"o8!@",+
+"",-
+"5!+",-
+"??;Iv",-
+"o<@!5",+
+"3!4#0@D",+
+"3!4#@"5",+
+"[D@$!8",+
+"3!@",+
+"o<9!@",+
+"@",-
+"?",-
+"B"?9",-
+"B"??",-
+
+// ground truth 
+or(concat(contain(<num>),concat(startwith(<m0>),startwith(<m1>))),concat(contain(<m1>),concat(startwith(<m0>),startwith(<num>))))

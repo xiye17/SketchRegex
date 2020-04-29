@@ -1,0 +1,16 @@
+// example 
+"#X",+
+"Yc('",-
+"}sH",-
+"5",-
+"YSdM",-
+"%{tTy",-
+"%hIw/",-
+"#u",+
+"9)",-
+"}'{",-
+"",-
+"9{",-
+
+// ground truth 
+concat(<any>,or(<vow>,<let>))

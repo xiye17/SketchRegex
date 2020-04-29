@@ -1,0 +1,15 @@
+// example 
+"ow",+
+"L#JcJ)${",+
+"%.cfKg+",+
+"'LitPT#JF8",+
+"b}${o?9QC",+
+"t",+
+"DluP",+
+"r5:*j",+
+"",-
+"OID",+
+"jl'5sx",+
+
+// ground truth 
+contain(or(or(<any>,<num>),<low>))

@@ -1,0 +1,17 @@
+// example 
+"Sl",-
+"[",-
+"xY*eb",-
+"Ye",+
+"!",-
+"",-
+"S#",-
+"kFr",-
+"~C9w",-
+"kl7",-
+"!iWj",-
+"YA",+
+"xbVz]",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<let>),<vow>)

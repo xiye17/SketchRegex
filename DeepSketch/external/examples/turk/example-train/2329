@@ -1,0 +1,25 @@
+// example 
+"$E",+
+"5SCyC",+
+"}>YM",-
+"JdB",-
+"c}pN[",-
+"",-
+"}",-
+"l\",-
+"lF",-
+"c}pNw",-
+"!e.",+
+"}>Y\",-
+"<",-
+"6",+
+"aq|'Y",+
+"Jd=",-
+"TCdo",+
+"u",+
+"$u",+
+"8Eq",+
+"I@#v",+
+
+// ground truth 
+contain(or(or(<num>,<m0>),<vow>))

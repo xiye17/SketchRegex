@@ -1,0 +1,17 @@
+// example 
+"n",-
+"dB",-
+"?-*",-
+"U8ZN",-
+"_",-
+"d.",-
+"",-
+"U8t}",-
+"<QQ(T",-
+"}bfHH",-
+"M%.",-
+"a1w",+
+"R6z",+
+
+// ground truth 
+concat(<let>,concat(<num>,<low>))

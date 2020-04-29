@@ -1,0 +1,26 @@
+// example 
+".fUIKGF",+
+"3NNQZJ",+
+""o>FLRSJ",+
+""oIGUBYE",+
+"w<OU",-
+"CR",-
+"VFMPM",+
+"d",-
+"2YgBZXSVS",+
+"",-
+"&",-
+"2VoMK",-
+"w<Oe",-
+"V%4",-
+"C[",-
+"2YgxYKNPA",+
+".XLLDMA",+
+"]zO+5JJFTX",+
+"]zO+HUDSOA",+
+"ISILLP",+
+"V%]",-
+"2VoM,",-
+
+// ground truth 
+endwith(repeatatleast(<cap>,5))

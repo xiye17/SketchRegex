@@ -1,0 +1,25 @@
+// example 
+"!I",+
+"G",-
+"/!B",-
+"!a",-
+"*!DIS",-
+"kq!QU",+
+"*!DIp",-
+"/!F",-
+"!VA",+
+"!",-
+"!VE",+
+"",-
+"I!U.",-
+"kq!QO",+
+"!B",-
+"!U",+
+"!XUA",+
+"!AUUEO",+
+"!XUO",+
+"I!UR",-
+"!AUUEU",+
+
+// ground truth 
+concat(contain(<m0>),and(<cap>,<vow>))

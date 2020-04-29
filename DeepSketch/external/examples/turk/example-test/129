@@ -1,0 +1,24 @@
+// example 
+"O!",+
+"J!R!",+
+"4",-
+"I\+",-
+"T!R!X!",+
+"0!",-
+"^>",-
+"",+
+"I!g",-
+"dC&#",-
+"J!P!G!K!U!",+
+"H!E!H!P!P!X!G!",+
+"S!T!Q!R!G!V!",+
+"M",-
+"8mw]",-
+"^>{I=",-
+"Q!E!N!R!",+
+"W!U!X!B!A!B!S!A!V!",+
+"N!E!P!R!A!Q!G!A!",+
+"WaZt1",-
+
+// ground truth 
+star(concat(<cap>,<m0>))

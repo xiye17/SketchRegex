@@ -1,0 +1,19 @@
+// example 
+"P![z>Ogz}le",-
+"69Rh$",-
+"BG_",+
+"Aq2@'O/sW|y;V",-
+"",+
+"k%BD]u",-
+"JAk`*V"N",-
+"z3",+
+"IUb|+fFK"",-
+"thwwrghbFe2<",-
+"h1O;%_/I3-j{|m",-
+"m(")",+
+"13`SAaCD"L",-
+"|",+
+"pb9B/CO",-
+
+// ground truth 
+not(repeatatleast(startwith(<any>),5))

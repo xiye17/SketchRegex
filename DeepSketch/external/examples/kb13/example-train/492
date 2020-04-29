@@ -1,0 +1,25 @@
+// example 
+"iz@(!Z",+
+"0",-
+"4]@!",+
+"<]y",-
+"@!",+
+"@!UnR",+
+"@kR@!",+
+"@!P",+
+"&!Nd",-
+"&!N"",-
+"",-
+"!U",-
+"!?",-
+"!@",+
+"$@Lcd",-
+"<]=",-
+"iz@(.!",+
+"@",-
+"4]!@",+
+"@P:@a",-
+"@f!",+
+
+// ground truth 
+or(concat(contain(<m0>),startwith(<m1>)),concat(contain(<m1>),startwith(<m0>)))

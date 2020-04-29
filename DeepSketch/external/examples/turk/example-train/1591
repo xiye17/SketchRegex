@@ -1,0 +1,25 @@
+// example 
+"!!",-
+"h!U,!A",+
+"!a'`",-
+"B!U",+
+"!E{",-
+"!",-
+"!A",+
+"!B!a",+
+"B!e",+
+"!B!e",+
+"",-
+"!m",-
+"y!;!e",+
+"T",-
+"!E!",-
+"!a'!",-
+"!o",+
+"h!U,!u",+
+"!U!H!",-
+"y!;!I",+
+"!U!H"",-
+
+// ground truth 
+concat(endwith(repeatatleast(<m0>,1)),<vow>)

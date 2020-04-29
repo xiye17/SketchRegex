@@ -1,0 +1,25 @@
+// example 
+"XkD\)",-
+"".)Z*Qj",+
+"i)Z"]+oV",+
+"MFCV",-
+"b1J",-
+"XkD\\",-
+"ixjGH{",-
+"Nk_IY`{",-
+"<O'Fj",+
+"".)Z*QL",+
+"YVia`L",+
+"5E{K_F~:c",+
+"",-
+"&",-
+"ixjGH(",-
+";J",-
+"YVia`f",+
+"i)Z"]+om",+
+"Nk_IY`[",-
+"5E{K_F~:D",+
+"<O'FI",+
+
+// ground truth 
+concat(repeatatleast(<any>,4),<let>)

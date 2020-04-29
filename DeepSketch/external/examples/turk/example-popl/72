@@ -1,0 +1,18 @@
+// examples
+"ca",+
+"bec",+
+"bidf",+
+"zoggd",+
+"dutttfzxi",+
+"haffssa",+
+"ga234aa",+
+"",-
+"dddddd",-
+"cc234234",-
+"e",-
+"4234ffffddd",-
+"ccczzz",-
+"4234fff",-
+
+// ground truth 
+repeatatleast(concat(<low>,contain(<vow>)),1)

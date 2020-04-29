@@ -1,0 +1,25 @@
+// example 
+"c0ik5",-
+"u",-
+"OZOpoL",+
+"ACAnesINeFEVeW",+
+"IZunopirAX",+
+"OZOpot",+
+"IZunopirAc",+
+"",-
+"UtoriiuX",+
+"a",-
+"{-",-
+"UuOLefuYiXos",+
+"ACAnesINeFEVeq",+
+"Ux",-
+"KP#B",-
+"Utoriium",+
+"UuOLefuYiXoE",+
+"I|Y",-
+"IAc",-
+"ROo~",-
+"si.p$",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),3)

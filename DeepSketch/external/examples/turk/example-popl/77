@@ -1,0 +1,18 @@
+// examples
+"yay!",+
+"yay@",+
+"yay I'm happy!",+
+"yay I'm happy@",+
+"!@!",+
+"@!@",+
+"!",+
+"yay! I'm happy",-
+"",-
+"!aaa",-
+"@aaa",-
+"something with no symbols",-
+"!!!@@@ending",-
+"!@!a",-
+
+// ground truth 
+endwith(or(<m0>,<m1>))

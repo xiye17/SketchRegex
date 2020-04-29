@@ -1,0 +1,25 @@
+// example 
+"b`n0",-
+"I*",+
+"eL3`",+
+"ae\vC",+
+"Hwlu",-
+"}U=",-
+"Bi",-
+"hc",-
+"DFT",-
+"",-
+"Ia",+
+"|",-
+"D5fQ<",-
+"O",+
+"U7F",+
+"u",+
+"a7T:N",+
+"C",-
+"b+RFB",-
+"e3<w",+
+"U#s",+
+
+// ground truth 
+concat(<vow>,not(<num>))

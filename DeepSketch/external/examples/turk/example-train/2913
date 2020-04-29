@@ -1,0 +1,20 @@
+// example 
+"?s9LIT[^pm7`|",+
+"G^"Aa",-
+"wD",-
+":z`}<8$6kGl",+
+"k*E0gU!w,1Ae",+
+"`Y"",-
+"+yKi",-
+"&WD'7^7",+
+"~)_N]uCA8fM~[_",+
+"",-
+"s8J~CCsm2GaPn-D",+
+"mmUW@Ft$9",+
+"j*OU'\hd",+
+"@/zwxw",+
+"v",-
+".kiOl${(W0",+
+
+// ground truth 
+repeatatleast(or(<any>,<vow>),6)

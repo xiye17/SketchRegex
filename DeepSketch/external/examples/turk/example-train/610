@@ -1,0 +1,16 @@
+// example 
+"vX",+
+"cv,M",-
+"~))}B",-
+"R.D",-
+"5s",-
+"}0'9",-
+"r6",-
+"!",-
+"~T)",-
+"Nlh-?",-
+"{",-
+"",-
+
+// ground truth 
+concat(and(<low>,<let>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"]",-
+"|]",-
+"tq8TvfD!",+
+"}<lQdC!",+
+"2",-
+"gSij!",+
+"{x{",-
+"",-
+"}uFaN!",+
+";{a~C",-
+"wo-2zsfn!",+
+"|{",-
+"%{"^",-
+"gSiB!",+
+"%{"1",-
+"}<lQdx!",+
+"wo-2zsfX!",+
+"tq8Tvfc!",+
+";{a~_",-
+"}uFaa!",+
+"{xd",-
+
+// ground truth 
+contain(concat(repeat(<let>,4),<m0>))

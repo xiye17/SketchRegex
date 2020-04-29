@@ -1,0 +1,25 @@
+// example 
+"daEA",+
+"UuBETiNE",+
+"daEi",+
+"rMK",-
+"^IS^<",-
+"EoLewOfAyi",+
+"",-
+"a",-
+"wa]3|",-
+"oUkori",+
+"leIUSawONOta",+
+"oUkoro",+
+"leIUSawONOtI",+
+"EoLewOfAyO",+
+"%+",-
+"SFq*",-
+"J",-
+"UuBETiNA",+
+"]r",-
+"^_8",-
+"]sd.",-
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),2)

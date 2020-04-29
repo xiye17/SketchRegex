@@ -1,0 +1,16 @@
+// example 
+"bT5IW^1",+
+"uSr2",+
+"OC6#Oy[u",+
+"qgi",+
+"A",-
+"Yg",+
+"w.FA=",+
+"C^P~-NC>W>",+
+"r\TG#O",+
+"Rq;-S5VG_",+
+":GrXXBf#V?0",+
+"",-
+
+// ground truth 
+or(concat(<cap>,<m0>),repeatatleast(<any>,2))

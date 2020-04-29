@@ -1,0 +1,23 @@
+// example 
+"<wo<O",+
+"B'",+
+"&2`80r[",+
+"y&y",-
+"I~J2W",+
+"M<y",+
+"k",-
+"iz>QcFs",+
+"82<Wli",+
+"",-
+"6*\",-
+";",-
+"T|{L",+
+"Z~)j_r",+
+"L",+
+"n\i<",-
+"?w",-
+"v7",-
+"5Lv@",-
+
+// ground truth 
+startwith(or(repeatatleast(<any>,5),<cap>))

@@ -1,0 +1,15 @@
+// example 
+":5Q",+
+"Y%WA{h+",+
+"aO^%X~?lg",+
+"lu",+
+"W",+
+"(2;(KWEM4V",+
+"a!#MF!&k",+
+"Rv'LU",+
+"",-
+"6iV`",+
+"Jxvxm,",+
+
+// ground truth 
+startwith(repeatatleast(or(<vow>,<any>),1))

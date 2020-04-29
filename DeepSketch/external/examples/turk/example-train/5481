@@ -1,0 +1,14 @@
+// example 
+"",+
+")&J5vl",+
+"8MFHA0j`J",+
+"{noELzM",+
+"0",+
+"JgO;~",+
+"ppu?",+
+"M;",+
+"N[`",+
+"A6C&N>Ib",+
+
+// ground truth 
+not(and(repeatatleast(<cap>,5),<m0>))

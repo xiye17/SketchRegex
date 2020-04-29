@@ -1,0 +1,25 @@
+// example 
+"iCX?",-
+"E",+
+"E^,",-
+"o0]8O",-
+"IV",+
+"iAMNX",+
+"uCH",+
+"o",+
+"oG",+
+"ut",-
+"V",-
+"E!$",-
+"UTS",+
+"ELLS",+
+"",-
+"uJIQ",+
+"aDMSU",+
+"olSi@",-
+"dH",-
+"iCXs",-
+"B",-
+
+// ground truth 
+concat(<vow>,star(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"v7k8w0",+
+"p9p3k9n7f9g3y3",+
+"s)",-
+".V=R1",-
+"i6z9x7o7y5k6",+
+"i2j5i9y6y0c9r0b8",+
+"",-
+"u1",+
+"OY@a",-
+"~(R",-
+"e1t0o7y5x9z5y7r3d0y9",+
+"i",-
+"y2j9r6t2m3n4p3o4k1",+
+"q/n"",-
+"sZ",-
+"v6b1j0x8x0",+
+"NsL",-
+"b3y9r7e8",+
+"g5g7",+
+"~m9+4",-
+"E",-
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),1)

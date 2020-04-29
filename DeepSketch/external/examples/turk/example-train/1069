@@ -1,0 +1,17 @@
+// example 
+"!J",+
+"gO_G!",-
+"f1e\",-
+"EO^",-
+"",-
+"fQzK",-
+"$",-
+"!(",-
+"gg]ld",-
+"U",-
+"E0P",-
+"IZ",+
+"!c",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<low>),<cap>)

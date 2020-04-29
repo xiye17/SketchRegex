@@ -1,0 +1,14 @@
+// example 
+"",+
+"l-y6VK?#N",+
+"$AS",+
+"p-+Y@(SQ",+
+"Tt",+
+"1,9Q8",+
+"6SV;=b",+
+"K",+
+"fP;p",+
+"(pdAY`W",+
+
+// ground truth 
+repeatatleast(contain(not(<m0>)),7)

@@ -1,0 +1,17 @@
+// example 
+"[",+
+"p$VR",-
+"N`'$0",-
+"o0]!4Vb!)L<2",-
+"!IUy.#F0Ad",-
+"0H",+
+"MZj#ZK",-
+"cWgKeu5#E",-
+"",+
+"Q_\%(J[>",-
+"f\d\3^I",-
+"yn79:m.O[YD",-
+"K]y",-
+
+// ground truth 
+not(startwith(repeatatleast(<any>,3)))

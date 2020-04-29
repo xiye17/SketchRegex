@@ -1,0 +1,17 @@
+// example 
+"EzK",+
+"<QSO",+
+"u",-
+"=+",+
+"k",+
+"QApEI",+
+"",+
+"g",+
+"pg",+
+"itd",+
+"UBUKT",+
+"e${S",+
+"E",-
+
+// ground truth 
+or(concat(<m0>,<m1>),not(<vow>))

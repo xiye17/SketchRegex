@@ -1,0 +1,15 @@
+// example 
+"",+
+"!4",-
+",b",+
+""Ns",+
+"!b+",+
+"!NWsv",+
+"ZXtz",+
+"gj3Fg",+
+"!$z7",+
+"!",+
+"c",+
+
+// ground truth 
+not(concat(<m0>,<any>))

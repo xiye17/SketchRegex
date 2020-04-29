@@ -1,0 +1,15 @@
+// example 
+"",+
+"o@",+
+"U6ne(",+
+"Q4,MFWy",+
+"ZYW?",+
+"rwOuvq!OAk",+
+"A",-
+"I'CiJAid<",+
+"pq5",+
+"_z%Xbq2V",+
+";-d2xu",+
+
+// ground truth 
+not(or(<low>,<any>))

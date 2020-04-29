@@ -1,0 +1,25 @@
+// example 
+"^*kX",-
+"jVXzTYMglb",+
+"[",-
+"{cD",-
+"dtwubMcm",+
+"wa#",-
+"|QML",-
+"jVXzTYMglE",+
+"uoRnEAIVlyV",+
+"LyuJ]",-
+"dtwubMcD",+
+"UfdYvziqK",+
+"",-
+"9#0~j",-
+"uoRnEAIVlyf",+
+"yynuekk",+
+"O",-
+"IQ",-
+"yynuekZ",+
+"UfdYvziqk",+
+"I\",-
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),7)

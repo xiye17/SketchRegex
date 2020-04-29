@@ -1,0 +1,15 @@
+// example 
+"G",-
+"sE3",-
+"!:5",-
+"!@#Y3",-
+"f@oF!",-
+"!",-
+"uh",-
+"!YKs",-
+"",-
+"!d",+
+"E?T#",-
+
+// ground truth 
+concat(<m0>,or(or(<any>,<let>),<vow>))

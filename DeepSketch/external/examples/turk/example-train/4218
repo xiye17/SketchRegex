@@ -1,0 +1,26 @@
+// example 
+"~Do{v!",-
+"&g!",-
+"h!",-
+"=lmu~k!",-
+"sf!",-
+"Tgc!",-
+"~DoRs!",-
+"",+
+"|{",+
+"U.'m",+
+"=lmutd!",-
+"e!!",+
+"q{r!~",+
+"i",+
+"T(r!",-
+"N",+
+"q{r!+",+
+"Qy!w!",-
+"Qycv!",-
+"e!j",+
+"|b",+
+"U.'P",+
+
+// ground truth 
+not(concat(endwith(<low>),<m0>))

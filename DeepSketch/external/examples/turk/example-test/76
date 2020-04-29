@@ -1,0 +1,17 @@
+// example 
+"TM",-
+"OD=",-
+"A{kn?",-
+"gS",-
+"uV!",+
+"",-
+"a",-
+"uu!",+
+"TD9Z",-
+"O|G",-
+"A0{Ig",-
+"M"?V",-
+"D",-
+
+// ground truth 
+concat(concat(<vow>,<let>),<m0>)

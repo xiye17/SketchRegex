@@ -1,0 +1,25 @@
+// example 
+"SQCdII3>M",+
+"D_i>",-
+"h`",-
+"2!t0RgyU",+
+"SQCd^GF'}",+
+"#}}_O",-
+"a`NWRy",+
+"WmtAi",+
+"Yn\F]hz",+
+"WmtAF",+
+"_",-
+"",-
+"}",-
+"#}}_,",-
+"Yn\F]hZ",+
+"D_i{",-
+"BN)",-
+"h}",-
+"2!t0Rgyk",+
+"BN\",-
+"a`NWRM",+
+
+// ground truth 
+repeatatleast(contain(concat(<let>,star(<let>))),5)

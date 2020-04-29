@@ -1,0 +1,25 @@
+// example 
+"XpK~~X",+
+"oZ-|gS|",+
+"#{",-
+",{Xw;",-
+"wAS",+
+"ykaPP",+
+"#:",-
+"oZ-|gS`",+
+"A-c",-
+"\~_#",-
+""",-
+"",-
+"j`py",+
+"}",-
+"A-`",-
+"j`pS",+
+"\~_|",-
+"wAx",+
+",{Xw]",-
+"ykaP$",+
+"XpK~~{",+
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3)

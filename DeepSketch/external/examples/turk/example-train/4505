@@ -1,0 +1,25 @@
+// example 
+"!kPVtmX!TJ",+
+"<&}/Q",-
+"|kM(y",-
+"ZbRDa!Y",+
+"Z!T!b!OQ",+
+"!EF!H!",+
+"!EF!Hc",+
+"s!!JSK!oG",+
+"!",-
+"|yD",-
+"d/",-
+"0I"",-
+"",-
+"s!!JSK!ow",+
+"%",-
+"!kPVtmX!Tl",+
+"}aiy",-
+"]vi2",-
+"Z!T!b!Op",+
+"ZbRDa!r",+
+"|i",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),6)

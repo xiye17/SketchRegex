@@ -1,0 +1,16 @@
+// example 
+"4E",-
+"Ic",+
+"8",-
+"<YK!,",-
+"ui)",-
+"tDJS",-
+"p",-
+"~R`#6",-
+"S}",-
+"?3Oz",-
+".|,",-
+"",-
+
+// ground truth 
+concat(and(and(<cap>,<any>),<let>),<low>)

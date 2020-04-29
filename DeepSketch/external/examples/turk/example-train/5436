@@ -1,0 +1,16 @@
+// example 
+"r",-
+"#A",+
+"1rN",-
+"{O?8",-
+"!]",-
+"#p",+
+"1_f",-
+"!{",-
+"i1-qm",-
+"{hNV",-
+"i{',%",-
+"",-
+
+// ground truth 
+concat(<any>,or(<low>,<let>))

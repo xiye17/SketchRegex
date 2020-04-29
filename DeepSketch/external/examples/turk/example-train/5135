@@ -1,0 +1,15 @@
+// example 
+"!bSJt",-
+"GS",-
+"!o",+
+"bP>o",-
+"!",-
+"!V,",-
+"!|p$",-
+"t$M",-
+"`2Eaj",-
+"",-
+"&",-
+
+// ground truth 
+concat(<m0>,or(or(<vow>,<m1>),<any>))

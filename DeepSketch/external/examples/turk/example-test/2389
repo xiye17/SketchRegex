@@ -1,0 +1,25 @@
+// example 
+"UOo",+
+"IEEI",+
+"D@",-
+"UOu",+
+"7EUuOu",+
+"IUOIIU3",+
+"u4IF",-
+"4rN%H",-
+"",-
+"k,n",-
+"|",-
+"eiAUe",+
+"7EUuO9",+
+"4OopY",-
+"U",-
+"IUOIIUO",+
+"~o",-
+"IEEE",+
+"uGh+",-
+"eiAUa",+
+"iOG",-
+
+// ground truth 
+repeatatleast(or(<vow>,<num>),3)

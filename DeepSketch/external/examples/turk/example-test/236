@@ -1,0 +1,14 @@
+// example 
+"",+
+".",+
+"mq'"T0i",+
+""#[",+
+"+^*@gpGx}",+
+"d(_gAO5l",+
+"#]",+
+"sy,C",+
+"EW/:o",+
+"{dqmW&",+
+
+// ground truth 
+contain(endwith(star(<low>)))

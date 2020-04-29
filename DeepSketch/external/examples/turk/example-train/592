@@ -1,0 +1,24 @@
+// example 
+"FbJdG",-
+"&fkIu",+
+"qQ",-
+"SS^Y",-
+"}ci",+
+"n",-
+"qg",-
+"?U",+
+"?I",+
+"Pode",+
+"&fkIO",+
+"ZIoEAi",+
+"",-
+"SS^P",-
+"Poda",+
+"0XF",-
+"FbJdj",-
+"}cA",+
+"0XD",-
+"ZIoEAO",+
+
+// ground truth 
+concat(startwith(<any>),repeatatleast(<vow>,1))

@@ -1,0 +1,25 @@
+// example 
+"!CB}!a!u!U",+
+"va!E!i!o",+
+"!A!o!E",+
+"!QL)!",-
+"!",-
+"#8!E",-
+"va!E!i!A",+
+"(*j",-
+"n!",-
+",jA!u!u!a",+
+"",-
+")",-
+"&!u!O!U",+
+"n`",-
+"!A!o!i",+
+"!QL)j",-
+"(*!",-
+"&!u!O!A",+
+"!CB}!a!u!O",+
+"#8!e",-
+",jA!u!u!A",+
+
+// ground truth 
+endwith(repeatatleast(concat(<m0>,<vow>),3))

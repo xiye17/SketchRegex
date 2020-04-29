@@ -1,0 +1,16 @@
+// example 
+"m)",-
+"}!<",-
+"0CSH",-
+"g!5D,",-
+"V!",+
+"0!P(",-
+"g8Us3",-
+"}f*",-
+"pK=h95",-
+"q",-
+"p!{$`B",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<cap>),<low>),<m0>)

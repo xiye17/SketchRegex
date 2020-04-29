@@ -1,0 +1,26 @@
+// example 
+":l=",-
+"~GV!P!C!J!Q!V!E!",+
+"=pr1aYF!X!H!A!P!N!Y!",+
+"3",-
+"b6S!$Z!Q!V!U!S!N!",+
+"C!B!X!G!A!E!A!",+
+"FDP!G",-
+"b6S!nY!M!J!L!B!A!",+
+"",-
+"X!o!4L!'M!R!H!C!E!",+
+"ceqfdD!V!T!K!X!M!V!",+
+"FV4m",-
+"=pr1aY!gY!N!B!V!H!N!",+
+"~G!KE!V!B!L!S!T!",+
+"FV4-",-
+"FDP![",-
+"fy",-
+"fK",-
+"fQ!H!Y!F!S!E!D!",+
+"w",-
+"X!o!4L!{I!O!C!H!Q!",+
+":lb",-
+
+// ground truth 
+repeatatleast(contain(concat(<cap>,<m0>)),7)

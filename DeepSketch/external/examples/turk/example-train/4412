@@ -1,0 +1,14 @@
+// example 
+"",+
+"@9+<",+
+"%m0",+
+"}P",+
+"`",+
+"^O]"V",+
+"mHpb&hOJM",+
+"Z%4!>\|",+
+"k)|<)!",+
+"bX|v1.0L",+
+
+// ground truth 
+not(and(and(<vow>,<low>),<m0>))

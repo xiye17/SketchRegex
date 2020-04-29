@@ -1,0 +1,25 @@
+// example 
+"r",-
+"OC@*",-
+"OB!1",+
+"eAl",-
+"OR-/)",-
+"iO",+
+"OBo8",+
+"y!MC5",+
+"Uh",-
+"y!M9x",+
+"eA#",-
+"",+
+"&o9",+
+"U|",-
+"e",+
+"T",-
+"i8",+
+"OC@g",-
+"u",+
+"OR-/p",-
+"&.8",+
+
+// ground truth 
+or(contain(<num>),star(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"E",+
+"RuO",+
+"G",-
+"E|",-
+"U",+
+"Gen",-
+"OUuEH",-
+"Ge?",-
+"q.CO",+
+"q.CU",+
+"",-
+"Q",-
+"aO",+
+"eesbU",+
+"RuA",+
+"Es",-
+"OUuES",-
+"aa",+
+"k^,K",-
+"k^,j",-
+"eesbi",+
+
+// ground truth 
+or(concat(<m0>,<num>),endwith(<vow>))

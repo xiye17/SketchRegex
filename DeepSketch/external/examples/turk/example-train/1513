@@ -1,0 +1,25 @@
+// example 
+"!thzxLyORd",+
+"!EXUwMinN",+
+"!~K",-
+"!X[q",-
+"!dYwdW",+
+"!jxajlTh",+
+"In",-
+"!",-
+"!thzxLyORJ",+
+"!dYwdd",+
+"",-
+"!cEknKG",+
+"!]!",-
+"!*(k|",-
+"!EXUwMinj",+
+"!Y",-
+"!jxajlTF",+
+"!\VYS",-
+"!cEknKm",+
+"J",-
+"!X82",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,5))

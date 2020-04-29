@@ -1,0 +1,17 @@
+// example 
+"Ojq",+
+"s",+
+"n&",+
+"UbP51",+
+"iJCk",+
+"(",+
+"ut",+
+"IW\",+
+"",+
+"O",-
+"A'3tK",+
+"7o>g",+
+"E",-
+
+// ground truth 
+or(repeatatleast(<m0>,1),not(<vow>))

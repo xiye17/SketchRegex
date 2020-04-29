@@ -1,0 +1,25 @@
+// example 
+"cbrxDH",+
+"]",-
+"SXdiU",+
+"gpROxpEe",+
+"ejk",-
+"uD-*",-
+"AYfvPMHnl",+
+"",-
+"~E",-
+"AYfvPMHnY",+
+"dTMBrLW",+
+"dTMBrLr",+
+"_J",-
+"{P.",-
+"?5u0G",-
+"uD[&",-
+"cbrxDf",+
+">",-
+"[u;C9",-
+"SXdig",+
+"gpROxpEB",+
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),5)

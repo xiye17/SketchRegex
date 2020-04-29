@@ -1,0 +1,25 @@
+// example 
+"d:a[",-
+"!E!e!E!u",+
+"!o!I!I",+
+"8?B1,",-
+"!A!e!a!I!A",+
+"!",-
+"!e!",-
+"!H",-
+"!gh:-",-
+"",-
+"!i!o",+
+"!J",-
+"!o!I!O",+
+"!E!e!E!o",+
+"!yNu",-
+"!eC",-
+"!U",+
+"!i!a",+
+"!o",+
+"@",-
+"!A!e!a!I!a",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),1)

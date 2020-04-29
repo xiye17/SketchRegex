@@ -1,0 +1,15 @@
+// example 
+"p",+
+"F8,c9)_;",+
+"uoh5,",+
+"<(T.Rq<",+
+"-Hn",+
+"[{>=",+
+"u^io!%",+
+"vm",+
+"f;Cm#1xZD$",+
+"",-
+"EfVcgwH*k",+
+
+// ground truth 
+contain(or(repeatatleast(<m0>,1),<any>))

@@ -1,0 +1,25 @@
+// example 
+"ey",+
+"OG#",+
+">N",-
+"ye%",+
+"Avw<",+
+"kfZSH",-
+"*",-
+"MDUZ",+
+">k",-
+"kfZSs",-
+"",-
+"Rb\c",-
+"fP?",-
+"O",+
+"oM{!7",+
+"I",+
+"fP`",-
+"H",-
+"Rb\r",-
+"OS",+
+"ULcwv",+
+
+// ground truth 
+endwith(contain(<vow>))

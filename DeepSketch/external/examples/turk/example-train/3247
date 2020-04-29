@@ -1,0 +1,14 @@
+// example 
+"",+
+"&~",+
+".2r",+
+"%[RA",+
+":r^j;",+
+"qmI(B!",+
+"2",+
+"*.6=Jjvm",+
+"HGUHZKF",+
+"kI5.\~i}n",+
+
+// ground truth 
+endwith(star(contain(<let>)))

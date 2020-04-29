@@ -1,0 +1,25 @@
+// example 
+"\",-
+"o@oa",+
+"oug{_",-
+"=cq",-
+"a_Yja",+
+"eptq",-
+""",-
+"eptg",-
+"",-
+"bH",+
+"bu",+
+"}Pi",+
+"i",+
+"=c>",-
+"oug{>",-
+"i0",-
+"u",+
+"o@oI",+
+"}Po",+
+"a_Yju",+
+"ih",-
+
+// ground truth 
+endwith(or(<cap>,<vow>))

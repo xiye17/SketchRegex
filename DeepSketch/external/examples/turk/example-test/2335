@@ -1,0 +1,25 @@
+// example 
+"A!rQR",+
+"!!",-
+"!aB!!T",+
+"D7rm#",-
+"H!AP",-
+"D|ZcU",-
+"^",-
+"hO!!DqCS",+
+"",-
+"2L",-
+"}",-
+"!aB!!!",+
+"H!Aa",-
+"E{g",-
+"A!rQr",+
+"ZGB!Hqx",+
+"hO!!DqC!",+
+"E\L",-
+"Ew!sfL!Vb",+
+"Ew!sfL!VN",+
+"ZGB!Hq!",+
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),5)

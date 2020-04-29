@@ -1,0 +1,26 @@
+// example 
+"oiO[!",+
+"uBi}",-
+"o",-
+"Q!.!#",-
+"uB!W",-
+"ut",-
+"3t!R!!",+
+"uOoa",+
+"!",+
+"e",-
+"OHG",-
+"n!",+
+"",-
+"oiOf!",+
+"3t!R;!",+
+"uK",-
+"Q!.,i",-
+"uOD!",+
+"!!",+
+"IIO",+
+"O2L",-
+"IIU",+
+
+// ground truth 
+or(endwith(<m0>),repeatatleast(<vow>,3))

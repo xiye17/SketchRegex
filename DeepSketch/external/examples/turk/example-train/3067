@@ -1,0 +1,17 @@
+// example 
+"en(",+
+"\->i",+
+"AfX)[",+
+"c",+
+"a",-
+"",+
+"Uz",+
+"A,c",+
+"M",+
+"O",-
+"a(",+
+"c'0A#",+
+"l+*B",+
+
+// ground truth 
+or(not(<vow>),startwith(<m0>))

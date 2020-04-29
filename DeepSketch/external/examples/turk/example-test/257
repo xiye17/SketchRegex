@@ -1,0 +1,15 @@
+// example 
+"c(",+
+"e",+
+"x7r",+
+"}p&)",+
+"7>`;mGb^",+
+"-yXk/d)$3B",+
+"|qb|>",+
+"a#+"fbrN%",+
+"YM:SUd]",+
+"y$Q|*3",+
+"",-
+
+// ground truth 
+or(startwith(<any>),<vow>)

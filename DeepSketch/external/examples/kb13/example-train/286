@@ -1,0 +1,17 @@
+// example 
+"Iu?",-
+"Gi",-
+"d7uq",-
+"HfYbC",+
+"",-
+"d7I9",-
+"HfYbF",+
+"g",-
+"U",-
+"oU<\Z",-
+"Gs",-
+"AR?:|",-
+"oCQ",-
+
+// ground truth 
+and(repeat(<any>,5),not(contain(<vow>)))

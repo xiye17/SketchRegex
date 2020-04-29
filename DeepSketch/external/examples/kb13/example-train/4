@@ -1,0 +1,25 @@
+// example 
+"b=",-
+"^3I~",-
+"`{wZ}Iz",+
+"(XoWAUP~",+
+"2",-
+"^3Im",-
+"kENM",+
+"(XoWAUPB",+
+"]^R",-
+"",-
+"3G"Twz",+
+"|",-
+"3G"TwP",+
+"$LEdU",+
+"]^]",-
+"|]\E[",-
+"$LEdr",+
+"bD",-
+"kENm",+
+"`{wZ}IF",+
+"|]\E}",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),4)

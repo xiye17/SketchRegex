@@ -1,0 +1,25 @@
+// example 
+"IAOeEEo",-
+"ak"",+
+"EIUuU",-
+"Oa",+
+"AeaaUeIEA",-
+"IAOeEEa",-
+"eGIq",+
+"!",+
+"iieeuouo",-
+"b",+
+"ioaIoa",-
+"",+
+"iieeuouU",-
+"p;@bl",+
+"lsI",+
+"e$<;",+
+"EIUuO",-
+"AeaaUeIEa",-
+"jU2@]",+
+"ioaIou",-
+"OO",+
+
+// ground truth 
+not(repeatatleast(<vow>,5))

@@ -1,0 +1,26 @@
+// example 
+"l+LSF",+
+"(1\",-
+"aY>EXH",+
+"g`.sTTO",+
+"N}];UFHI",+
+"bx=@",-
+"XR",-
+"l^CGT",+
+"APO",+
+"aYXHBI",+
+"",-
+"a",-
+"%",-
+"(1;",-
+"3TIS",+
+"bx=v",-
+"g`.ZJOD",+
+"N}];^MQA",+
+"bQJK",+
+"X9",-
+"ApO9[",-
+"ApO9T",-
+
+// ground truth 
+endwith(repeatatleast(<cap>,3))

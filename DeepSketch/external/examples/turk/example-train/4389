@@ -1,0 +1,17 @@
+// example 
+"g<$",-
+"=dU@W",-
+"yZ",+
+"te7[",-
+"k",-
+"{]",-
+"gfT",-
+"",-
+"ye",+
+"}",-
+"r|",-
+"YMXX",-
+"jg2mx",-
+
+// ground truth 
+concat(<low>,or(or(<vow>,<m0>),<cap>))

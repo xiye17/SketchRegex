@@ -1,0 +1,17 @@
+// example 
+"6MIQH",-
+"dX\",-
+"|L$lg",-
+"-",-
+"F)",-
+"",-
+"Z6",+
+"d9K",-
+"^Q",-
+"x",-
+"e4",+
+"m1'c",-
+"m.|8",-
+
+// ground truth 
+concat(or(<cap>,<let>),<num>)

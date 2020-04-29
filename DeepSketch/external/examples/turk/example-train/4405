@@ -1,0 +1,17 @@
+// example 
+"~XIq",+
+"XX",-
+"Y/",+
+"(",+
+")1&",+
+"|7A",+
+"",+
+"Yn",+
+"/?f{",+
+"sP",-
+"b=*99",+
+"~",+
+"bDM+.",+
+
+// ground truth 
+not(concat(<let>,<cap>))

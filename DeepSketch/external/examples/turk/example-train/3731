@@ -1,0 +1,17 @@
+// example 
+"`2!g!vCl",+
+"o",-
+"zC)",+
+"9Lmq'8",+
+"x*EVv",+
+"\6YDR_:zc",+
+"",-
+"/e>jdd&",+
+")y",-
+"Bmf+!/kCiNAK",+
+"qB:i",+
+"k\tM~#J>F(",+
+"^(8:h.Wz1uD",+
+
+// ground truth 
+and(not(<num>),repeatatleast(<any>,3))

@@ -1,0 +1,25 @@
+// example 
+"{eIauux",+
+"u",-
+"jsA",-
+"UIuOi$",+
+"{eIaui0",+
+"a_aA<",-
+"Gxeh",-
+"UIuOEV",+
+"ToP[IeIiu",+
+"",-
+"oEaUi",+
+"uloaUii0",+
+"uloaUiI,",+
+"jsP",-
+"oEaUE",+
+"Gxee",-
+"Jn",-
+"a_aAU",-
+"A",-
+"ToP[IeIiU",+
+"JA",-
+
+// ground truth 
+contain(repeatatleast(<vow>,5))

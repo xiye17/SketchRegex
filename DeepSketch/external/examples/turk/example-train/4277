@@ -1,0 +1,16 @@
+// example 
+"2$y\6",-
+"}QWv",-
+"Vca[|",-
+"W-",-
+"v",-
+",",-
+"3/",-
+"x,!",-
+"/;i&",-
+"",-
+"7oi",-
+"O6",+
+
+// ground truth 
+and(concat(<cap>,<num>),not(<m0>))

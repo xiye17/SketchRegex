@@ -1,0 +1,25 @@
+// example 
+"qrbTXxWObr",+
+"{d$zzVPSjWnOt",+
+"VabII`]"|GCvnT",+
+"\I",-
+"]\4"",-
+"j}hJ9",-
+"4Js-XebGo?wtcgO",+
+"{d$zzVPSjWnOO",+
+"VabII`]"|GCvnj",+
+"",-
+"\}",-
+"\C:",-
+"\Ct",-
+"4Js-XebGo?wtcgv",+
+"]\4[",-
+"QEhBQ0|zeAuc",+
+"v",-
+"M",-
+"qrbTXxWObH",+
+"QEhBQ0|zeAuX",+
+"j}hJA",-
+
+// ground truth 
+repeatatleast(contain(repeat(<let>,5)),2)

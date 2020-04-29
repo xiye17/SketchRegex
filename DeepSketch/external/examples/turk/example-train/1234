@@ -1,0 +1,25 @@
+// example 
+"UD:",+
+"q",+
+"IOeui",-
+"SU",-
+"UuO",-
+"He\t@",+
+"NEoi",-
+"Uyu",+
+"RJ",+
+"",+
+"Sa",-
+"BuOeui",-
+"8",+
+"BuOeuU",-
+"Uuo",-
+"IOeua",-
+"sQFd",+
+"Rb",+
+"o"ZL8",+
+"NEoE",-
+";~s6",+
+
+// ground truth 
+not(concat(<cap>,repeatatleast(<vow>,1)))

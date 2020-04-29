@@ -1,0 +1,17 @@
+// example 
+"D!a",+
+"D!I",+
+"m",-
+"A!",-
+"Y7p-",-
+",-2%|",-
+"",-
+"A8",-
+"j8OEh",-
+"L",-
+"5vR",-
+"`FS",-
+"9KcO",-
+
+// ground truth 
+concat(<cap>,concat(<m0>,<vow>))

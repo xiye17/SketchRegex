@@ -1,0 +1,24 @@
+// example 
+"bj~nv",-
+"0wItQt{c~k",+
+">|~p|j{b}x|q",+
+"}~e}s;xiq|t}o",+
+"{<xvxua!iei",+
+"Zp{f",-
+"{<xvxua!iAa",+
+"0wItQt{c)b",+
+"h}s}ayimzb4s6f",+
+"^",-
+"",-
+"h}s}ayimzb4suj",+
+"Zp{>",-
+"K~]",-
+"|"",-
+"|z",-
+">|~p|j{b}xMm",+
+"bj~n~",-
+"}~e}s;xiq|tvy",+
+"K~f",-
+
+// ground truth 
+endwith(repeatatleast(concat(<any>,<low>),5))

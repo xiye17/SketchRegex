@@ -1,0 +1,21 @@
+// example 
+"IX",-
+"LY\>O",-
+"[Ng",-
+"|nT}wNsFWlybqnbq",+
+"",-
+"|nT}wNsFWlybqnbI",+
+"]S}2",-
+"|",-
+"WxWrbBzU2EVpO'c",+
+"MIXP:t\{drqS^JyWd",+
+"]S}`",-
+"LY\>\",-
+"9",-
+"MIXP:t\{drqS^JyWN",+
+"[N|",-
+"I(",-
+"WxWrbBzU2EVpfUu",+
+
+// ground truth 
+contain(repeat(contain(repeat(<let>,4)),3))

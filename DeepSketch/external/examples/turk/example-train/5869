@@ -1,0 +1,25 @@
+// example 
+"G#`B",+
+"AnMF<",-
+"SW",+
+"UxFUH",+
+"wb",-
+"cY",+
+"c}V",+
+"w)",-
+"S_)",-
+"c%D",+
+"",-
+"`9e",-
+"|O.Z",-
+"|qt,M",-
+"|",-
+"G#WF",+
+"kj+@",-
+"Zth}#J",+
+"UxFfF",+
+"v",-
+"Zth}~P",+
+
+// ground truth 
+concat(<let>,endwith(<cap>))

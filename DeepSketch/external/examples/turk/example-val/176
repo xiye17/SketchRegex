@@ -1,0 +1,17 @@
+// example 
+"E",+
+"eT\",+
+"o",+
+"UWd6F",+
+"eg[",+
+"i?km",+
+"AW",-
+"",+
+"c'eZ",+
+"vB",+
+"UcIJo",+
+"a7",+
+"OV",-
+
+// ground truth 
+not(concat(<vow>,<cap>))

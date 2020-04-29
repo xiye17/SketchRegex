@@ -1,0 +1,17 @@
+// example 
+"!LmU",-
+"!S\",-
+"!BlO[",-
+"!",-
+"X",-
+"!O",+
+"}$",-
+"",-
+"!S",-
+"!I`B",-
+"!DX",-
+"k~6Z;",-
+"!a",+
+
+// ground truth 
+concat(<m0>,and(<any>,<vow>))

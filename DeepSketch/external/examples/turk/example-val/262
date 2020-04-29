@@ -1,0 +1,25 @@
+// example 
+"G",-
+"Onu{U",-
+"O;l;$",-
+"agu{",-
+"agum",-
+"ubUtifamIyUhUh",+
+"UqEzOfaaih",+
+"k'@",-
+"",-
+"iiowOwUn",+
+"yA",-
+"UqEzOfaaom",+
+"i",-
+"icOkasenirUu",+
+"UdIdEu",+
+"iiowOwav",+
+"icOkasenirOs",+
+"ubUtifamIyUhaq",+
+"j|",-
+"UdIdOe",+
+"W-8",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),3)

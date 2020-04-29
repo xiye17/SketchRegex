@@ -1,0 +1,25 @@
+// example 
+"sM!Q!YztMh",+
+"!`!%<",-
+"!E|!AALJt",+
+"h!!!",-
+"!Ylftl",+
+"!!rqmfs",+
+"!",-
+"k",-
+"$!",-
+"",-
+"-d!",-
+"!YlftH",+
+"!ojLfl1f",+
+"!E|!AALJS",+
+"!ojLfSWx",+
+"h!!y",-
+"$?",-
+"!`!%!",-
+"sM!Q!YztMI",+
+"-dt",-
+"!!rqmfO",+
+
+// ground truth 
+contain(concat(<m0>,repeat(<let>,5)))

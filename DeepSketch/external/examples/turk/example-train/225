@@ -1,0 +1,14 @@
+// example 
+"",+
+"A~O",+
+"|m",+
+"WD*D?T<C",+
+"\d8@:E",+
+"\gq>B{H",+
+"U",+
+"S8{T",+
+"yj^973]8A",+
+"*j_/$",+
+
+// ground truth 
+contain(or(star(<m0>),<let>))

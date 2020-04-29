@@ -1,0 +1,15 @@
+// example 
+"",+
+"!k",+
+"7qi",+
+"w",+
+"Zh",+
+"!M$3",+
+"bhdj=",+
+"!",-
+"2xR]",+
+"!ox",+
+"!~=_$",+
+
+// ground truth 
+or(not(<m0>),repeatatleast(<m1>,5))

@@ -1,0 +1,16 @@
+// example 
+"=4,0q",-
+"s",-
+"L+<",-
+"S",-
+"H~A_",-
+"KIN3-",-
+"Pi",+
+"</]",-
+"H2cn",-
+"",-
+"I{",-
+"0m",-
+
+// ground truth 
+concat(and(<let>,<cap>),<low>)

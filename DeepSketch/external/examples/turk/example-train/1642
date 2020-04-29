@@ -1,0 +1,16 @@
+// example 
+"$",-
+"g2",-
+"^a",+
+"XpY",-
+"c<;u",-
+"^e",+
+"gw",-
+"Xwz",-
+"2^7I;",-
+"",-
+"cuE-",-
+"2hKJ[",-
+
+// ground truth 
+concat(or(or(<any>,<num>),<low>),<vow>)

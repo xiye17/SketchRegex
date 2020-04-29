@@ -1,0 +1,25 @@
+// example 
+"xiEWb^ayGS",+
+"TOTU=LLvc",+
+"xwnCOBLn",+
+"xwnCOBLX",+
+"~`b",-
+"",-
+"{}eVHDsIJJ-",+
+"TOTU=LLvD",+
+"~Hb^GXIFGeBp",+
+"{}eVHDsIJhV",+
+"~`;",-
+"|c|}<",-
+"xiEWb^ayGr",+
+"\~u$",-
+"|c|}_",-
+"x",-
+"\~u[",-
+"~Hb^GXIFGeBH",+
+"{",-
+"_r",-
+"_9",-
+
+// ground truth 
+repeat(contain(repeat(<let>,4)),2)

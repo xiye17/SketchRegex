@@ -1,0 +1,18 @@
+// examples
+"!a",+
+"12A",+
+"dsge",+
+"dI",+
+"@o",+
+"!jgU",+
+"$#!fO",+
+"!q",-
+"aR",-
+"12n",-
+"23",-
+"t3d",-
+"w2",-
+"qwb",-
+
+// ground truth 
+concat(or(<m0>,<any>),contain(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"UyoobO",+
+"ii7OK",-
+"t",-
+"rL{",-
+"D!o6",-
+"oaEO?",+
+"UUui",+
+"oqK;ihuO",+
+"",-
+"uoJIID!",+
+"uM",-
+"ii7OR",-
+"UyoobA",+
+"UUuE",+
+"oaEi1",+
+"Iaf",-
+"uoJIaqA",+
+"IGld",-
+"oqK;ihui",+
+"D",-
+"uQ",-
+
+// ground truth 
+repeatatleast(startwith(<vow>),4)

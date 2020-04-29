@@ -1,0 +1,17 @@
+// example 
+"te",-
+"ql,R",-
+"aA",+
+"dV3",-
+"eS",+
+"",-
+"b",-
+"j~W",-
+"i6",-
+"i",-
+"c=B8",-
+"iR#,[",-
+"i>OIr",-
+
+// ground truth 
+concat(and(and(<low>,<vow>),<any>),<cap>)

@@ -1,0 +1,24 @@
+// example 
+"!w9|(0d",+
+"VS",-
+"X?gO#",-
+"~+A*`l",-
+"!.Jbz*gE",+
+"!.:".tm~ft",+
+"!,DhyW",+
+"-%qV",-
+"!D",+
+"!",+
+"",-
+"a)M?[T:",-
+"]H*d;/,!8",-
+"Ui`jG=wr",-
+")~K",-
+"!U!|F<ryN",+
+"!"[Z",+
+"!c'q=",+
+"!k!",+
+"w",-
+
+// ground truth 
+concat(startwith(<m0>),not(<cap>))

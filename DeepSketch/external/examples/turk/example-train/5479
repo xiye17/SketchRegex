@@ -1,0 +1,25 @@
+// example 
+"kr",+
+"cij",+
+"0",+
+"/Li3",-
+"k2",+
+"8+4S",-
+"k",+
+"o2!",-
+"",-
+";:B",-
+"ci6",+
+".3",-
+"qDI!p",-
+"238o3",+
+"usc1",+
+"K",-
+"238ok",+
+"usch",+
+"{",-
+"q}>9D",-
+"OU",-
+
+// ground truth 
+repeatatleast(or(<num>,<low>),1)

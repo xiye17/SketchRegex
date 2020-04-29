@@ -1,0 +1,25 @@
+// example 
+"e]a",+
+"u!O_?d",+
+"a[",-
+"un}~;",-
+"a-",-
+"un}~{",-
+"e]|`",-
+"_",-
+"e]|*",-
+"",-
+"U*OJ",+
+"d~f",-
+"U]emJ",+
+"em",+
+"u!O_?C",+
+"eD",+
+"U]emt",+
+"<",-
+"U*Om",+
+"DF8",-
+"e]J",+
+
+// ground truth 
+concat(startwith(<vow>),<let>)

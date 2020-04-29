@@ -1,0 +1,25 @@
+// example 
+"~&_~ti",+
+"o",-
+"lA_",-
+"<|\Z;",-
+"HeUbe",+
+"^}",-
+"!'#F",-
+"lAB",-
+"RidU",+
+"<|\ZD",-
+"",-
+"NU",+
+"~&_~tu",+
+"|bI",+
+"NI",+
+"|bE",+
+"RidA",+
+"!'#\",-
+"@",-
+"^_",-
+"HeUbu",+
+
+// ground truth 
+endwith(concat(<let>,<vow>))

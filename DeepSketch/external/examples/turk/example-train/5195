@@ -1,0 +1,15 @@
+// example 
+"f",+
+"%P$9G1",+
+"0P]LZ2yNS",+
+"!`O/k.${",+
+"%=7",+
+"\CK'lSy",+
+"F!",+
+"&*|{2",+
+"",-
+"dh-z",+
+"m7'z!q.C*]",+
+
+// ground truth 
+contain(or(or(<low>,<let>),<any>))

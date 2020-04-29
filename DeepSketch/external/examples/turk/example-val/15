@@ -1,0 +1,16 @@
+// example 
+"",+
+"#+",+
+"h\",+
+"@@;",+
+"n",+
+"/sR",+
+"{&jr",+
+"@OX5",+
+"N5z+H",+
+"!WYMl",+
+"@",-
+"&",+
+
+// ground truth 
+or(repeatatleast(<m0>,5),not(<m1>))

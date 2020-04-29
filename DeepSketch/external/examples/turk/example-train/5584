@@ -1,0 +1,25 @@
+// example 
+"gpu",+
+"gd|`]",-
+"le",+
+"gylq",-
+"li",+
+"kjp",-
+"gpe",+
+"gd|`l",-
+"a",+
+"-",-
+"wof\",+
+"",-
+"7%",-
+"b",-
+"7`",-
+"]Z4fe",+
+"e",+
+"gylh",-
+"]i+}'",+
+"w/sW",+
+"kj}",-
+
+// ground truth 
+contain(or(or(<m0>,<cap>),<vow>))

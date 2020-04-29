@@ -1,0 +1,17 @@
+// example 
+"L~",-
+"-f",-
+"\\+X#",-
+"?tA",-
+"#",-
+"",-
+"R=]0",-
+"5naUJ",-
+"MLF",+
+"Rw*_",-
+"Mhm",+
+"r1`",-
+"D",-
+
+// ground truth 
+concat(concat(<cap>,<let>),<any>)

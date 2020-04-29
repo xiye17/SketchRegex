@@ -1,0 +1,25 @@
+// example 
+"*VLD",-
+"Fu",+
+"{9",-
+"!",-
+"^}V",-
+"{]",-
+"^oi",+
+"",-
+"^}[",-
+"(DHcAO",+
+"|",-
+"_yfUE",+
+"{-Hqj",-
+"{^tI",+
+"(DHcAi",+
+"*VLK",-
+"^oE",+
+"FA",+
+"_yfUA",+
+"{^tE",+
+"{-Hqh",-
+
+// ground truth 
+concat(endwith(<let>),<vow>)

@@ -1,0 +1,17 @@
+// example 
+"M!6d",-
+"Y!",-
+"J!9",+
+"^",-
+"",-
+"}",-
+"\WXgv",-
+"w!0",+
+"M!?#",-
+"YT",-
+"N!!",-
+"[=~",-
+"B-5Pt",-
+
+// ground truth 
+concat(<let>,concat(<m0>,<num>))

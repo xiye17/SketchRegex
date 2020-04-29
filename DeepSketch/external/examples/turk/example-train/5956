@@ -1,0 +1,17 @@
+// example 
+"|p(",+
+"|ppm",+
+"XL'",+
+"|"h'^",+
+"",+
+"jA",-
+"c{",+
+"jU",-
+"G\DZ"",+
+"cf",+
+"y",+
+"3c*y",+
+"{",+
+
+// ground truth 
+not(concat(<low>,<vow>))

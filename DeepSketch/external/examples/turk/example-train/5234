@@ -1,0 +1,25 @@
+// example 
+"RJNMV3",+
+"]GN5J",-
+"TNQM3",+
+"UMPWDEH6",+
+"FKIAZIKRJQ9",+
+"H09.",-
+"",-
+"Q8",-
+"iex",-
+"}",-
+"RJUALWQQ8",+
+"FNB9",+
+"ZT0",+
+"-%",-
+"QNQPHSZTOFI3",+
+"M",-
+"4Ws",-
+"Hbo-",-
+"1eR}3",-
+"BZQNHM0",+
+"KZQPDPWSM1",+
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<num>)

@@ -1,0 +1,25 @@
+// example 
+"EK}",+
+"kZ",-
+"o+/",+
+"nNcX&",-
+".+",-
+"c}:",-
+"JKoC",-
+"LaYrf",-
+"",-
+"a9",+
+"f",-
+"o(=?3",+
+"k'q",-
+"ulWQ",+
+"uKaG|",+
+"QP3T",-
+"U]7hD?",+
+"u%cJ5I",+
+"UF",+
+"eehg",+
+"E",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<any>,1))

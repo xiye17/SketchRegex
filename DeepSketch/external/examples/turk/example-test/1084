@@ -1,0 +1,14 @@
+// example 
+"",+
+"p|2",+
+"$^V;JCH",+
+"G",+
+".J{S",+
+"|,:R2_I$",+
+"O(Y]P8uI\",+
+"clF;&",+
+">P",+
+"28ORp3",+
+
+// ground truth 
+star(or(<any>,<cap>))

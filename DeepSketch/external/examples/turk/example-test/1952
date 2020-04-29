@@ -1,0 +1,14 @@
+// example 
+"",+
+"abdY",+
+"$?]yURwMT",+
+"2[Y",+
+"f46$s",+
+"<%",+
+")",+
+"'f\YPd",+
+"B*`nU!P",+
+"GdQ%och+",+
+
+// ground truth 
+endwith(star(or(<low>,<m0>)))

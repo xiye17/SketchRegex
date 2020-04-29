@@ -1,0 +1,17 @@
+// example 
+"3",-
+"]R",-
+"4ZG",+
+"5r,Z",-
+""00a*",-
+"4Zx",+
+"-+a",-
+"(",-
+"9]V",-
+"",-
+")}",-
+"MBSlT",-
+"5E5r",-
+
+// ground truth 
+concat(<num>,concat(<cap>,<let>))

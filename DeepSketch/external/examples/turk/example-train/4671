@@ -1,0 +1,24 @@
+// example 
+"tR;}=",-
+"*]|)",-
+"",-
+"ukK",+
+"$",-
+"t`QLn",+
+")H!",-
+"*]|_",-
+"A~",-
+"oM^j`M",+
+"ukd",+
+"t`QLF",+
+"]C",+
+"fZ[D",+
+"oM^j`b",+
+"A5",-
+")H}",-
+"]x",+
+"fZ[u",+
+"tR;}\",-
+
+// ground truth 
+concat(endwith(contain(<any>)),<let>)

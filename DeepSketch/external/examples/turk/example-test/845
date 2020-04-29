@@ -1,0 +1,25 @@
+// example 
+"WDz]Z`\",+
+"cmBG",+
+"LRB6U",+
+"t[",-
+"_",-
+"WDPV5fp",+
+"dWN",+
+"",-
+"c",-
+"R|'",-
+"dRe:cU",+
+"nG[$",-
+"LRoQv",+
+"{H~!.",-
+"dRUJAt",+
+"dWv",+
+"nG6!",-
+"qQ[<Z",-
+"cmh~",+
+"|+",-
+"_"h",-
+
+// ground truth 
+startwith(repeatatleast(<let>,3))

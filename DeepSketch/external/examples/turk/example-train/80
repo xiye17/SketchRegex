@@ -1,0 +1,25 @@
+// example 
+"GGm",+
+"UB",+
+"_=SI9",-
+"c8I\A",-
+"fqy",-
+"m",+
+"NAWk",+
+"RZIYR",+
+"`s",-
+"Uh",+
+"",-
+"`",-
+"}",-
+"R|",-
+"~f.",-
+"5(mL",-
+"K",+
+"GGG",+
+"NAWS",+
+"RZIYq",+
+"hDt&",-
+
+// ground truth 
+concat(star(<cap>),<let>)

@@ -1,0 +1,17 @@
+// example 
+"Oo*l",+
+"Uo",-
+":2#",+
+"`",+
+"wSz",+
+"%",+
+"",+
+"UO",-
+"OI/^",+
+"!zi%>",+
+"OG",+
+"g[zbn",+
+"c2",+
+
+// ground truth 
+not(concat(<cap>,<vow>))

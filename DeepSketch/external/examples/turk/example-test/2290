@@ -1,0 +1,25 @@
+// example 
+"YONuDEQeWUSIPe",+
+"Ji",-
+"IfFN",-
+"QATECAJo",+
+"Ww[",-
+"DaVoFiWiYaBoDIRE",+
+"YONuDEQeWUSIPU",+
+"",-
+"DuV#<",-
+"TiYuUAKAHeRe",+
+"QATECAJU",+
+"DaVoFiWiYaBoDIRa",+
+"NUAoUoLoTu",+
+"Jo",-
+"]fl",-
+"NUAoUoLoTO",+
+"z",-
+">",-
+"TiYuUAKAHeRA",+
+"ilg`s",-
+"IK\b",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),4)

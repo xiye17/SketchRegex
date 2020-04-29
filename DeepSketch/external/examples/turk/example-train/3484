@@ -1,0 +1,26 @@
+// example 
+"aX^",-
+"qAVkF!",+
+"}kdiY",-
+"F4vh",-
+"|"Fk",-
+"hN!",+
+"k$rL!",+
+"k$ER!",+
+"e=,PZ;K!",+
+"",-
+"$c",-
+"t.T!",+
+"~(",-
+"fZ7j>P!",+
+"|",-
+"n-;74",-
+"qAVRC!",+
+"e=,PZDC!",+
+"fZ7jBJ!",+
+"t_W!",+
+"v",-
+"aX#",-
+
+// ground truth 
+concat(startwith(<low>),concat(<cap>,<m0>))

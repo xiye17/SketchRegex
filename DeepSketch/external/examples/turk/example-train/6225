@@ -1,0 +1,15 @@
+// example 
+"",+
+")9g",+
+"efpg",+
+"Un6jxX2YX",+
+".<vEDpePgp",+
+"Vr",+
+"h&Y-JdT",+
+"S",-
+"=kQ`{U",+
+"mI6~Ccav",+
+"Cdrhz",+
+
+// ground truth 
+not(or(or(<cap>,<any>),<let>))

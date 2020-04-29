@@ -1,0 +1,17 @@
+// example 
+"_[hd",-
+"MHI?)",-
+"''L6",-
+"Be",+
+",",-
+"F)r",-
+"",-
+"Me!BH",-
+"}",-
+"BK",-
+"Bb",-
+"Ba",+
+"Fo(",-
+
+// ground truth 
+concat(or(<cap>,<low>),<vow>)

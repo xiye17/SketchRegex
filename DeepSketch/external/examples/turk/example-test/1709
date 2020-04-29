@@ -1,0 +1,25 @@
+// example 
+"vtwnmeutj",+
+"r",-
+"{^@I",-
+"~w",-
+"l49",-
+"l~u",-
+"nzcjxfkY",+
+"kqcmrvf",+
+"vtwnmeutY",+
+"6BvV",-
+"kqcmrvY",+
+"chbhsibnbtS",+
+"",-
+"|",-
+"{MJ7Z",-
+"xjkoqsotkf",+
+"TZ",-
+"chbhsibnbtn",+
+"r{BC5",-
+"nzcjxfkh",+
+"xjkoqsotkW",+
+
+// ground truth 
+concat(repeatatleast(<low>,6),<let>)

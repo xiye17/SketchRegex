@@ -1,0 +1,25 @@
+// example 
+"OM",-
+"USAXuKOEiXiFeR",+
+"fUr",-
+"AJeOiAeO",+
+"eYoVoXIFiIaF",+
+"AXaRELUCeP",+
+"W",-
+"iXf",-
+"USAXuKOEiXiFiC",+
+"UZATIAoEaCuXIHOY",+
+"Tx~#-",-
+"AXaRELUCIR",+
+"",-
+"uh&*?",-
+"C%gn",-
+"AJeOiAIK",+
+"UZATIAoEaCuXIHAR",+
+"Om",-
+"dNFU",-
+"eYoVoXIFiIuL",+
+"D",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),4)

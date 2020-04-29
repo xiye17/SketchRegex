@@ -1,0 +1,25 @@
+// example 
+"G~lm\"58G1",+
+"G~lm\"58)7",+
+"I{LH!k-80",+
+"HGdDbvZ++)1",+
+"O?Tv",-
+"9^6SBbRDc".3",+
+"k*^<i",-
+"+",-
+"9^6SBbRDc";7",+
+"",-
+"HGdDbvZ++E4",+
+"&`",-
+"[FFx==7$",-
+"Bjb$,,A52s1P0",+
+"_du",-
+"Bjb$,,A52s195",+
+"e}%',=",-
+"[FFx==7W",-
+"I{LH!k-`7",+
+":m;*pB#5",+
+"Tqs`X@a",-
+
+// ground truth 
+concat(repeatatleast(<any>,7),<num>)

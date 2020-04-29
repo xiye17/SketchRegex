@@ -1,0 +1,24 @@
+// example 
+"|iOVR",-
+"B!A!O!D!E!F!",+
+"Z!L!",+
+"3",-
+"Vz",-
+"U!K!C!F!J!T!U!C!",+
+"<9sL\",-
+"Wq[",-
+"",+
+"C!I!B!T!G!",+
+"h",-
+"I!D!H!I!S!Y!I!H!P!",+
+"O!K!R!Z!M!V!X!",+
+"X!",+
+"'h",-
+"z9}{",-
+"W!@Y",-
+"W!N!C!",+
+"W!H",-
+"A!R!K!F!",+
+
+// ground truth 
+star(concat(<cap>,<m0>))

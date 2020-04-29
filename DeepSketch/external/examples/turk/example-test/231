@@ -1,0 +1,25 @@
+// example 
+"a0",-
+"~D=\EwquNyya",+
+"%^{\",-
+"nbFrDjSk",+
+"JgXIyhn}Pz",+
+"a]",-
+"^B]",-
+"t",-
+"JgXIyhn}of",+
+")xb~v",-
+"VxpCfEdYm",+
+"~D=\EwquNyTl",+
+"",-
+"nbFrDjcj",+
+"$",-
+"^B>",-
+"%^{|",-
+"}G_juafYnhy",+
+")xb~]",-
+"}G_juafYnAp",+
+"VxpCfEdwi",+
+
+// ground truth 
+repeatatleast(endwith(concat(<let>,<low>)),4)

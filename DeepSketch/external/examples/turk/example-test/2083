@@ -1,0 +1,25 @@
+// example 
+"J8",+
+"J4lUoJ",+
+"Q6\n",+
+"Q-~",-
+"j7",+
+"5",-
+"q1L",+
+"X",-
+"sz",-
+"c6/{ui",+
+"}$",-
+"",-
+"_o]",-
+"dp=Ae",-
+"j5;{",+
+"v3=:.",+
+"V6^~v",+
+"E3l",+
+"}<{(",-
+"d$q%t",-
+"iwym",-
+
+// ground truth 
+startwith(concat(<let>,<num>))

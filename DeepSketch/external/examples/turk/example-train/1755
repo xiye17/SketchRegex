@@ -1,0 +1,24 @@
+// example 
+"6wXBKU",+
+"6wXBu)",+
+"^YT",-
+"Oe$$E",+
+"O1E\K",+
+"9JO",+
+"or",-
+"p9JI",+
+"o:",-
+"",-
+"9Ji",+
+"g",-
+"iMmB",-
+"GI",+
+"p9Ja",+
+"iMm|",-
+"jsXl4",-
+"jsXll",-
+"Ga",+
+"^Y{",-
+
+// ground truth 
+contain(concat(<any>,<vow>))

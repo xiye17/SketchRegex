@@ -1,0 +1,16 @@
+// example 
+"x7z;_",+
+"5p",-
+"z**4",+
+"$bY",+
+"K",+
+"(",+
+"!"",+
+"6*=D",+
+"d"*",+
+"zI",+
+"6f2Fe",+
+"",-
+
+// ground truth 
+concat(not(<num>),or(or(<let>,<m0>),<any>))

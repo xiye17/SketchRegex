@@ -1,0 +1,25 @@
+// example 
+"KyT",-
+"~oC%h",+
+"#ep",+
+"q|Vv",-
+"]*U",+
+"J!Sf"",-
+">9L>",+
+"i|@",-
+"_[",+
+"/GGdd",+
+"e",-
+"\",+
+"",+
+"cO[k4",-
+"/W",+
+"lo",-
+"][,Z",+
+">",+
+"Ak",-
+"AuI9",-
+"D",-
+
+// ground truth 
+not(startwith(<let>))

@@ -1,0 +1,26 @@
+// example 
+"T{bV",+
+".cP",+
+"~wQ",+
+"k/`",-
+"YY[dN",+
+"E}|uE+E",+
+"lT",+
+"E}|u)Oc",+
+"l7iHj"",+
+"",-
+""*",-
+"k/(",-
+"j",-
+""{",-
+"xyc?'",-
+"&~a^",-
+"T\sU",+
+"l7ialQ",+
+"&~a1",-
+"xyc?z",-
+"YY{gJ",+
+"D",-
+
+// ground truth 
+concat(endwith(<low>),contain(<cap>))

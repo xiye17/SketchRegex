@@ -1,0 +1,25 @@
+// example 
+"AvJG",+
+"mx@",+
+"+4",-
+"C4p5",-
+"T;",-
+"A\",+
+"X*c+0",-
+"Ur{+",+
+"Qq=4i",-
+"U`RnO",+
+"p:#_%",+
+"",-
+"Ub)",+
+"P&)",-
+"Uy",+
+"YJm",-
+"O",+
+"R",-
+"_Y(6",-
+"A",+
+"D",-
+
+// ground truth 
+startwith(or(<vow>,<low>))

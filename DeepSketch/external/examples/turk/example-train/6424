@@ -1,0 +1,15 @@
+// example 
+"",+
+"t<h",+
+"(~(WMmds+;",+
+"(9N)J",+
+"070MfoFy]",+
+"h",-
+"?;a@s%",+
+"&Y2N9ex",+
+"y$A7",+
+"2F",+
+"Iu:]*]%[",+
+
+// ground truth 
+not(or(or(<any>,<low>),<num>))

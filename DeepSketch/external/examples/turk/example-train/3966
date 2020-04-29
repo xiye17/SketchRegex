@@ -1,0 +1,16 @@
+// example 
+"!i",+
+"[g",-
+"!||",-
+"!kBex",-
+"!PN",-
+"!",-
+"k",-
+"!|}H",-
+"byi7",-
+"!~",-
+"aU=W#",-
+"",-
+
+// ground truth 
+concat(<m0>,and(<low>,<any>))

@@ -1,0 +1,25 @@
+// example 
+"TwbW"8A)",+
+"\",-
+"svzz",-
+"9Uz_7",-
+"T5",+
+"RGk*jN4[=w",+
+"/",-
+"ydrxC",-
+"X4wNa]6@:",+
+"2w",-
+"Yp(N",+
+"U[Aumj9",+
+":+9_",-
+"Yiq",+
+"DmQ.M",+
+"",-
+"gAm",-
+"}I",-
+"5ey",-
+"J",+
+"S9&\!_",+
+
+// ground truth 
+repeatatleast(startwith(<cap>),1)

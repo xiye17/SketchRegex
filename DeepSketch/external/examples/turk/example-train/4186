@@ -1,0 +1,25 @@
+// example 
+"Ga&o5",+
+"E8J",+
+"c+e7wN",+
+"]2+l",-
+"z*^",-
+"Ga&(9",+
+"`@",-
+"74=B",-
+"_",-
+"",-
+"i3",+
+"z*"",-
+"PyV2",+
+"Q+tgE",-
+"EE9",+
+"I3",+
+"P4@;",+
+"4`",-
+"y",-
+"c8/2,T",+
+"Q+tg%",-
+
+// ground truth 
+concat(<let>,repeatatleast(contain(<num>),1))

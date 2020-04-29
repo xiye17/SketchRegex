@@ -1,0 +1,16 @@
+// example 
+"I-;Q]",-
+"h",-
+"Z3o",+
+"Q)",-
+"T7iF",-
+"Qy",-
+"&yK",-
+"C",-
+"T7Q&",-
+"",-
+"qFQ",-
+"*8-9>",-
+
+// ground truth 
+concat(<cap>,concat(<num>,<low>))

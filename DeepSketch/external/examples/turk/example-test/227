@@ -1,0 +1,15 @@
+// example 
+"YpDq+pB~6",+
+"r",+
+"cYSO:-G",+
+"-!",+
+"jW19",+
+"W%q",+
+"tF'|#@",+
+"eEhr_*!a1O",+
+"",-
+"^qn%y",+
+"-A(`2|^,",+
+
+// ground truth 
+contain(or(or(<low>,<m0>),<any>))

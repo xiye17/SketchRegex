@@ -1,0 +1,17 @@
+// example 
+"u*",+
+"I$6{F",+
+"O1",-
+"c",+
+"",+
+"|2j",+
+"I1HQN",+
+"ud",+
+"vFmv",+
+"a2t}",+
+"f}x",+
+"A",+
+"a8",-
+
+// ground truth 
+not(concat(<vow>,<num>))

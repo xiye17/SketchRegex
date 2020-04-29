@@ -1,0 +1,25 @@
+// example 
+"L:+E",-
+"!JEl)",-
+"!@BcbNm",+
+"!Lk",-
+"!@JvEE",+
+"!@BcbNR",+
+"!@DD",+
+"!",-
+"!@Dv",+
+"",-
+"a",-
+"!K",-
+"!@fJH",+
+"!@JvEh",+
+"!@v",+
+"!@fJq",+
+"n7d",-
+"!@L",+
+"!'"C",-
+"=o",-
+"c'P9(",-
+
+// ground truth 
+concat(concat(<m0>,<m1>),repeatatleast(<let>,1))

@@ -1,0 +1,15 @@
+// example 
+"/\",-
+"R~b",-
+"R@W",-
+"1@",+
+"/&",-
+"i@Fu",-
+"WiNI~",-
+"K",-
+"i(;-",-
+"",-
+"W@g$e",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<vow>),<m1>)

@@ -1,0 +1,21 @@
+// example 
+"`DMpp03U~GN",-
+"x=",+
+"s`.Pb3`D",-
+"F-Gi",+
+"@"EwmqiFz",-
+"cwRRcC>[sO{n{",-
+"c",+
+"Ad^WW:`Lno",-
+"",+
+"&Dg>~F>E`";EK~",-
+"Z|H}2",+
+"Al'!IK",+
+"|w7",+
+"Wrv5#_QJ>i7"",-
+")}IuF?3MS|-SCMl",-
+"ZSy0xL8",-
+"{mL{T9`ysxT'5,cS",-
+
+// ground truth 
+not(startwith(repeatatleast(<any>,7)))

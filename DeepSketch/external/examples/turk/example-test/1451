@@ -1,0 +1,21 @@
+// example 
+"Z5R'c0k",+
+"]Q,}?&nGX<<wSu",+
+"9S'Jo}[hnL",+
+",7h}Q?--v2jM2r^~",+
+"IW}!>a"G.-l]03E",+
+"N(%]\e",-
+"kXRj'N&=Ihr]b",+
+"AQ&rbyQhQ-E",+
+"xYj",-
+"",-
+"_dN(M",-
+"n0/s",-
+"^hJ9ey(gL",+
+"\>U1k'l^",+
+"K",-
+"F@",-
+"6UA]bMB\AXSn",+
+
+// ground truth 
+startwith(repeatatleast(<any>,7))

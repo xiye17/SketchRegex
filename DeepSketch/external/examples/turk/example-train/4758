@@ -1,0 +1,18 @@
+// example 
+"dW",-
+"h~X",+
+"#$0H!q",+
+"ds",-
+"=Sp*",+
+"Wmy4o",+
+"",-
+"8",+
+"h"n",+
+"=|~,",+
+"a'",+
+"a~",+
+"WA?@V",+
+"#c>I`L",+
+
+// ground truth 
+concat(<any>,not(<let>))

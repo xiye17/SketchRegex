@@ -1,0 +1,21 @@
+// example 
+"7HN",-
+"]",-
+"ll~8J",-
+"ll~8}",-
+"^p=UEag`{XcloqafM",+
+"@w~nKir{|\}oGNxChnR",+
+"",-
+"GLrx\FhMP]JAWl",+
+"@w~nKir{|\}oGNxChna",+
+"_#",-
+"}}}M",-
+"}}}c",-
+"7H\",-
+"GLrx\FhMP]JAWX",+
+"_|",-
+"{",-
+"^p=UEag`{Xcloqaff",+
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,4)),3)

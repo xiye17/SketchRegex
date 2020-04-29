@@ -1,0 +1,25 @@
+// example 
+"Qh",-
+"HqTHs",-
+"o",+
+"cev",+
+"cip",+
+"HqTH_",-
+"U",+
+"Di",+
+"nA}d",+
+"d",-
+"PJGH",-
+"",-
+"De",+
+"QG",-
+"cFj",-
+"|",-
+"PJG{",-
+"<OslD",+
+"niFZ",+
+"Aif9}",+
+"cFG",-
+
+// ground truth 
+and(contain(<vow>),star(<any>))

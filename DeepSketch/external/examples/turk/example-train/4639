@@ -1,0 +1,24 @@
+// example 
+"t>[Z",+
+"u+Qhcj",+
+"!_9{^",-
+"o[H",+
+"yY",+
+"P`L/c",+
+"ya",+
+"",-
+"Q}#}",-
+"o[m",+
+"u+QhcG",+
+"h",-
+"P`L/S",+
+"1[",-
+"Q}#6",-
+"r(}",-
+"1{",-
+"r([",-
+"!_9{/",-
+"t>[k",+
+
+// ground truth 
+concat(startwith(<any>),<let>)

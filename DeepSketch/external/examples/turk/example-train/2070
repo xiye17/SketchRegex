@@ -1,0 +1,16 @@
+// example 
+"s[t",-
+"mm9j",-
+"j",-
+"~Yh",-
+"A_=D1",-
+"{9",-
+"{JR7",-
+"h*",+
+"{",-
+"7z",-
+"",-
+"vBMEH",-
+
+// ground truth 
+concat(<low>,or(or(<any>,<vow>),<m0>))

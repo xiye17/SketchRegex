@@ -1,0 +1,17 @@
+// example 
+"UZ",+
+"Qd",-
+"DW-C",-
+"R[pQ",-
+"ID",+
+"D$X",-
+"",-
+"xBhQ?",-
+"H@",-
+"x8K$g",-
+"HMy",-
+"A",-
+"~",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<vow>),<cap>)

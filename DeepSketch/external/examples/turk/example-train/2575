@@ -1,0 +1,24 @@
+// example 
+"4Gtv",-
+"1ds",-
+"wIHO=Epa,u",+
+"^",-
+"5u!I4U",+
+"3UnIco{IiOoO",+
+"",-
+"5AoiwIno",+
+"Ue",-
+"4}Rk",-
+"UQ",-
+"^epe(I{UnO[OoA",+
+"wIHO=Epa,o",+
+"5u!I4E",+
+"Ai~Uu",-
+"3UnIco{IiOoo",+
+"^epe(I{UnO[Ooo",+
+"An{Vg",-
+"1OZ",-
+"5AoiwIni",+
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),3)

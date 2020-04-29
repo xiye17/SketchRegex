@@ -1,0 +1,17 @@
+// example 
+"9ObM",-
+"9r|(",-
+"2O",+
+"4G{Fz",-
+"",-
+"4OK4_",-
+"'",-
+"5U.",-
+"5Ez",-
+"2A",+
+"2T",-
+"Xf",-
+"E",-
+
+// ground truth 
+concat(<num>,and(and(<cap>,<vow>),<any>))

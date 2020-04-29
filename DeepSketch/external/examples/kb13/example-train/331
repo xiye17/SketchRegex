@@ -1,0 +1,25 @@
+// example 
+",>",-
+"u",-
+"!d|~'",-
+"!(gh",+
+"!Ex",+
+"!'cvM~",+
+"!{",-
+"!K{",-
+"!",-
+"!J~~r",+
+"!ED",+
+"!(gY",+
+"3WG%,",-
+"",-
+"!'cvMU",+
+"!}<V7&D",+
+"qdEb",-
+"!}<V7&v",+
+"!K[",-
+"!.}|",-
+"!J~~K",+
+
+// ground truth 
+and(startwith(<m0>),repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),2))

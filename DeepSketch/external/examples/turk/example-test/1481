@@ -1,0 +1,14 @@
+// example 
+"",+
+"&XIgNp`",+
+"%PqUwXXv",+
+"-E@#+[{B<",+
+")",+
+"jAt",+
+"ev;^",+
+"ri1ac",+
+"+O",+
+"9NSQ)X",+
+
+// ground truth 
+startwith(star(concat(<m0>,<m1>)))

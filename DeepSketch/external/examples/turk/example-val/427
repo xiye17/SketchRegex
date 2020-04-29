@@ -1,0 +1,25 @@
+// example 
+"1",-
+"{G:<w",-
+"txH",-
+"5Z",-
+"Iqy",+
+"Vvugm`o",+
+"Qzhl",+
+"IOp",+
+"/A'w",-
+"",-
+"Vv,c|&.",+
+"kE",-
+"<54!G",-
+"OP|ge",+
+"-;G",-
+"j",-
+"WY_&}v",+
+"WY_np"",+
+"_#Bn",-
+"OP|~d",+
+"Qz|d",+
+
+// ground truth 
+concat(concat(<cap>,<let>),contain(<low>))

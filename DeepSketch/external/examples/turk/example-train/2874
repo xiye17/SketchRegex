@@ -1,0 +1,25 @@
+// example 
+"zA",-
+"FLg",-
+"aQOJt",+
+"_~:AzsYz",+
+"zl",-
+"|YZ?",-
+"_{N{XTrwx",+
+"~`l4^",-
+"q",-
+"aQOJC",+
+"FLX",-
+"",-
+"_{N{XTrwA",+
+"|",-
+"MtQuiZi",+
+"^qhVAL",+
+"MtQuiZR",+
+"_~:AzsYI",+
+"|YZ|",-
+"~`l4a",-
+"^qhVAy",+
+
+// ground truth 
+endwith(repeatatleast(<let>,5))

@@ -1,0 +1,15 @@
+// example 
+"'5",-
+"T",-
+"5>{",-
+"s-<N",-
+"sZxY",-
+"'m",-
+"5D1",-
+"QS",+
+"b?Py6",-
+"",-
+"bIv7[",-
+
+// ground truth 
+concat(<any>,<cap>)

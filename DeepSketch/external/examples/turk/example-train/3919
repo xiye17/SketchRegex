@@ -1,0 +1,21 @@
+// example 
+"G9D6",-
+"m(ah%",-
+"Q1W9B2I8D3",+
+"V",-
+"@`UlL",-
+"6M",-
+"Z4Y3Z7G7Z2A2D9P1",+
+"H2D1T4I5X7L6Q9L1U6",+
+"",-
+"K1O7I7N7V9K2P5U8E5W5",+
+"8lm~",-
+"B6C5B0Q0M4Q5Q4",+
+"\l",-
+"8\E",-
+">",-
+"W/3",-
+"M7Y9A5I5P6X8",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),5)

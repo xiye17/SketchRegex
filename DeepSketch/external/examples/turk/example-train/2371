@@ -1,0 +1,17 @@
+// example 
+"cBT",+
+"iKSlC",+
+"aH",+
+"q\On",+
+"o",-
+"e<",+
+"uec",+
+"xQ&6",+
+"|a5h6",+
+"a",-
+"",+
+"f",+
+"x",+
+
+// ground truth 
+not(and(and(<vow>,<any>),<low>))

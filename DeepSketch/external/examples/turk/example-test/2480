@@ -1,0 +1,15 @@
+// example 
+"q",+
+"hgCAX@",+
+"V5IHd.T",+
+">]Jk\&y=V=",+
+"_z6",+
+"HiuY=",+
+"w/KH",+
+"jH",+
+"_rgtfmb]",+
+"n%GODjG<<",+
+"",-
+
+// ground truth 
+or(endwith(<any>),repeatatleast(<cap>,2))

@@ -1,0 +1,16 @@
+// example 
+"!b!7",-
+"!yV",-
+"!q",+
+"P@3Q",-
+"!}.06",-
+"!",-
+"x",-
+"!C",-
+"!~",-
+"!{6",-
+"fVL$y",-
+"",-
+
+// ground truth 
+concat(<m0>,and(and(<any>,<let>),<low>))

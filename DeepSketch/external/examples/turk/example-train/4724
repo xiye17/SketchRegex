@@ -1,0 +1,25 @@
+// example 
+"Uo",+
+"KEJaMI",+
+"HaKaVuUIWI",+
+"PB",-
+"LoYeZaUI",+
+"NAhTU",-
+"NA<=a",-
+"HeEE",+
+"d",-
+"Jaq",-
+"",+
+"Ja>",-
+"P",-
+"61",-
+"KEJaMA",+
+"HaKaVuUIWA",+
+"\\B}",-
+"HeEo",+
+"LoYeZaUu",+
+"UE",+
+"QaBl",-
+
+// ground truth 
+star(concat(<cap>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"@YvH",-
+"!j]W",+
+"k-",-
+"!C",+
+"~:",-
+"N{$",-
+"!H$uhN",+
+"!q[i~",-
+"",-
+"`",-
+"!q[i[",-
+"TWgRq",+
+"T!Y",+
+"}Mt&",-
+"8",-
+"!j]!",+
+"TW!-S",+
+"!H$uhm",+
+"N\a",-
+"!!",+
+"Tt!",+
+
+// ground truth 
+repeatatleast(or(startwith(<m0>),<let>),2)

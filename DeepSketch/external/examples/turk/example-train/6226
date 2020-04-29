@@ -1,0 +1,24 @@
+// example 
+"RmMzIn",+
+"r>|D",-
+"o",-
+"DjFkZdAsSe",+
+"V{",-
+"Nt@",-
+"4",-
+"V@",-
+"=+46",-
+"",-
+"TnXv",+
+"Jjt|Q",-
+"y]!",-
+"PuPlPfWcBvAxGeIjAjOc",+
+"SnXmUfErLyKsHv",+
+"KnHyVsDuGxSzQhRp",+
+"DpKoAuYgOlHnKkEjXq",+
+"8M^zR",-
+"FoGmMaOq",+
+"NmAuKuYyBdEg",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),2)

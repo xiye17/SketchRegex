@@ -1,0 +1,24 @@
+// example 
+"aU9On!",+
+"'h2",-
+"G?Y!",+
+"k)usjc&)",-
+"V4?#fkFU:"",-
+"qBQAu",-
+"M6!",+
+"d",-
+"G?!S",+
+"",+
+"b*&:*%_",-
+"D4^}/_V?9",-
+"Q2Oa",-
+"M!}",+
+"f!>%'",+
+"K!",+
+"f^!W{",+
+"a!':UV",+
+"E,",-
+"~?vT>1",-
+
+// ground truth 
+star(contain(concat(<any>,<m0>)))

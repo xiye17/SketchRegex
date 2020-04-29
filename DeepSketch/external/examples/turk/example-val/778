@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(repeatatleast(<low>,5),concat(<m0>,<vow>))

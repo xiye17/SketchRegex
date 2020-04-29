@@ -1,0 +1,22 @@
+// example 
+"zMdObAiCrRyXkR",+
+"xB~)Q",-
+">O'>",-
+"~8y",-
+"~AB\4",-
+"wViDbIuHiL",+
+"",-
+"1i",-
+"uo",-
+"gHkPbPiNiLiEdAhU",+
+"kIcQxDsF",+
+"<~$",-
+"rApDfGkNfTyTjBoPcW",+
+"tSoCiGrUbKjHaKuNeKpV",+
+"cHkAhNiWgAoH",+
+"y",-
+"~",-
+"{!AH",-
+
+// ground truth 
+repeatatleast(concat(<low>,<cap>),4)

@@ -1,0 +1,21 @@
+// example 
+"hV;(ZuD|:w^lRLI",+
+"9kwT",-
+"Sz2[."Uc",+
+"bT|,6%F",+
+"Y5'D9",-
+"sPRMWC87~EFbx?",+
+"",-
+"EdPS<(8V74",+
+"0H]SgboOi",+
+"KAGo:F@RP=-",+
+"x[",-
+"`9V'jk_9j74?=",+
+"[(AUTM|s0._W",+
+"C1yJX3~+YLM5I.xa",+
+"v^~",-
+">",-
+"U>t^4r",-
+
+// ground truth 
+repeatatleast(or(<any>,<let>),7)

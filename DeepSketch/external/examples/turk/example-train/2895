@@ -1,0 +1,16 @@
+// example 
+"j,",-
+"7g3",-
+"9B!jV",-
+"8",-
+"%rtJ",-
+"7gp",-
+"9`[L",-
+"'K@G8",-
+"+",-
+".k",-
+"7rX",+
+"",-
+
+// ground truth 
+concat(concat(<num>,<low>),<cap>)

@@ -1,0 +1,18 @@
+// examples
+"!",+
+"@",+
+"!!",+
+"@@",+
+"!@",+
+"!@!",+
+"@!!@",+
+"other",-
+"123",-
+"",-
+"character",-
+"##",-
+"# ! mixed",-
+"mix @ 66",-
+
+// ground truth 
+repeatatleast(or(<m0>,<m1>),1)

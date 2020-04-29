@@ -1,0 +1,15 @@
+// example 
+"VPn",+
+"E+m]ck",+
+"9(|#U",+
+"u3M9cyg",+
+"W=.:2{)eIz",+
+";icliLB5",+
+"t",+
+"z[",+
+"OD@t",+
+"",-
+"!cG/qyLB"",+
+
+// ground truth 
+startwith(or(concat(<m0>,<vow>),<any>))

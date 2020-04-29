@@ -1,0 +1,15 @@
+// example 
+"mL=YG?@",+
+"u`",+
+"vupX}",+
+"sHkS~x"DZ",+
+"rK~",+
+"q(IDt-",+
+"o}$G",+
+"D,$SzUG{mT",+
+"_@)|Cb[#",+
+"",-
+"^",+
+
+// ground truth 
+or(contain(<any>),and(and(<num>,<m0>),<m1>))

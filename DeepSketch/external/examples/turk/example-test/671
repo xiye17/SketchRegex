@@ -1,0 +1,25 @@
+// example 
+",i",-
+"c!",+
+"z!Z!z!",+
+"",-
+"'Gw",-
+"t!P!p!T!D!",+
+":",-
+"|T$yg",-
+"e!f!",+
+"t!P!p!T!v!",+
+"z!Z!H!",+
+"u!l$]",-
+"]pQO",-
+"M!",+
+"]U+",-
+"9B(?",-
+"e!S!",+
+"uJ",-
+"T!A!D!h!",+
+"{",-
+"T!A!D!S!",+
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),1)

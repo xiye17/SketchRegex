@@ -1,0 +1,14 @@
+// example 
+"",+
+"k"k3",+
+"s+e=)?@V",+
+"\s%o7",+
+"LihL?&",+
+"_M.mC4$",+
+";0jN)`q&.",+
+"6#",+
+">",+
+"fGs",+
+
+// ground truth 
+contain(star(<any>))

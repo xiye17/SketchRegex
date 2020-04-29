@@ -1,0 +1,18 @@
+// examples
+"A!",+
+"B1",+
+"C@",+
+"AB!",+
+"CD2",+
+"ABC!23",+
+"A!a",+
+"",-
+" ",-
+"ab",-
+"12",-
+"1",-
+"@",-
+"Aa",-
+
+// ground truth 
+concat(<cap>,contain(or(or(<m0>,<num>),<m1>)))

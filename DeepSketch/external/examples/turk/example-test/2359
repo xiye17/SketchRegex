@@ -1,0 +1,25 @@
+// example 
+"EP",+
+"XPLOQVRLFF",+
+"eVc",-
+"e{.",-
+"HVTMQXSUMX",+
+"EMPLYTZ",+
+"UGPTWSY",+
+"",-
+"AZXYBJOR",+
+"OKINBDSMR",+
+"Uj%wl",-
+"u`di",-
+"umIS",-
+"Em",+
+"UGOVRHUV",+
+"HVIQQRABU",+
+"J",-
+"I",-
+"E2",-
+"l{",-
+"U~BKF",-
+
+// ground truth 
+or(repeatatleast(<cap>,7),concat(<vow>,<let>))

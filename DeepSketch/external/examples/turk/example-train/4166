@@ -1,0 +1,25 @@
+// example 
+"b]|8",-
+"]",-
+"JhsOkhiL",+
+"b]|R",-
+"~c_^YBpkkmf",+
+"JhsOkhBT",+
+"N\",-
+"^|.H[",-
+"",-
+"bcVWunC",+
+"bcVWunp",+
+"\?NQbAVJo",+
+"\?NQbAVJB",+
+"[^fIXUgyji",+
+"Cx`",-
+"CxE",-
+"[^fIXUgySF",+
+"~c_^YBpkkmX",+
+"Nt",-
+"^|.Hs",-
+"D",-
+
+// ground truth 
+contain(repeatatleast(<let>,7))

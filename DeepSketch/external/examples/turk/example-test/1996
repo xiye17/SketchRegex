@@ -1,0 +1,25 @@
+// example 
+"OaP7uJ",+
+"]",-
+"HiCA",-
+"}t]Id",+
+"te",-
+"EL",+
+"AeIJi",-
+"OaP7ui",+
+"tO",-
+"DOia",+
+"",-
+"deo",+
+"ihV",-
+"HiCi",-
+"AeIJg",-
+"ED",+
+"DOiu",+
+"dez",+
+"U",-
+"iho",-
+"}t]Iv",+
+
+// ground truth 
+endwith(concat(<vow>,<let>))

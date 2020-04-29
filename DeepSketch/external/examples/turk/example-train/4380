@@ -1,0 +1,24 @@
+// example 
+"!_",+
+"!sz@*",+
+"!"N{#'/o",+
+"blT$GV'R",-
+"!",-
+"!,7)|{Cg|5",+
+"!PdsY5(@f;Q",+
+"7~rZti",-
+"!5f",+
+"!]i]y8|",+
+"!7BF8;tkE",+
+"",-
+"s@Cx",-
+"Gzf\<",-
+"g",-
+"!|!S:f",+
+"!Z9B",+
+"96m",-
+"J/Tal$H",-
+"79",-
+
+// ground truth 
+startwith(concat(<m0>,<any>))

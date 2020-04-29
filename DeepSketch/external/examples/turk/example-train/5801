@@ -1,0 +1,25 @@
+// example 
+"E",+
+"Eiec",+
+"efV",-
+"s",+
+"OuIASt",-
+"F"#V\",-
+"DA",-
+"IEO",+
+"Il",+
+"OuIAf_",-
+"IEr",+
+"aioI5",+
+"",-
+"fh",-
+"oFB,Y",-
+"iOGE",-
+"EieU",+
+"iODu",-
+"eH!",-
+"Ih",+
+"aioII",+
+
+// ground truth 
+concat(star(<vow>),or(or(<m0>,<any>),<low>))

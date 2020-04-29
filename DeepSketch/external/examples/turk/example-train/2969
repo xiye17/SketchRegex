@@ -1,0 +1,25 @@
+// example 
+"ob",-
+"Xs1)",-
+"SGCUGNXOAa",+
+"U4m)j",-
+"QTAVETSI",+
+"XYAFBUu",+
+",1i",-
+"AKFSQNVOA",+
+"Ut<i*",-
+"",-
+"QTAVETSE",+
+"SGCUGNXOAo",+
+"DWXJPAAYEFo",+
+"j",-
+"R",-
+"AKFSQNVOo",+
+"cPn<",-
+"DWXJPAAYEFi",+
+"Ga",-
+"XYAFBUa",+
+"n8T",-
+
+// ground truth 
+concat(repeatatleast(<cap>,6),<vow>)

@@ -1,0 +1,17 @@
+// example 
+"U\",+
+"E$Aa)",+
+"CnY"j",+
+"",+
+"Hn",+
+"6SH",+
+"OYX$",+
+"J",+
+"I0]",+
+"A",-
+"H",+
+"I",-
+"y(fT",+
+
+// ground truth 
+not(and(and(<let>,<vow>),<cap>))

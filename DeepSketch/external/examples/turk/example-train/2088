@@ -1,0 +1,15 @@
+// example 
+"",+
+"X?",+
+"G@",-
+"c@;;",+
+"c>KH",+
+"Bcr",+
+"B5W",+
+"/=Ob+",+
+"/@pVx",+
+"x",+
+"XG",+
+
+// ground truth 
+not(concat(or(or(<num>,<any>),<m0>),<m1>))

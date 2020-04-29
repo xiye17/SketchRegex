@@ -1,0 +1,20 @@
+// example 
+"hM[Okz)",+
+"$a}JGc",+
+"cLC.<f(5TT",+
+"CM40-ae0p",+
+"Xr?2I}7PAic",+
+"=v3",-
+"a|7DyeFu",+
+"V!TLf`6NzeMpfM",+
+"",-
+"@Ih-"*GoGXB<",+
+"]!",-
+"a_Bv",-
+"M",-
+"+X5P-",-
+"S_ZcX(x{Qv-f'",+
+"Vg^%:Wf2}`>D;4@",+
+
+// ground truth 
+contain(repeat(<any>,6))

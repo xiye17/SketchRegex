@@ -1,0 +1,24 @@
+// example 
+"~rS~m",+
+"F",-
+"vh}Z^",-
+"~obr",+
+"{|",-
+"qh",+
+"~o!d",+
+"{)",-
+"",+
+"d",+
+"vh}Z~",-
+"~g",+
+"Sc'",-
+"~P{{",-
+"_ez",+
+"~rSOm",+
+"_Dc",+
+"Sc{",-
+"~P{U",-
+"~",-
+
+// ground truth 
+star(endwith(<low>))

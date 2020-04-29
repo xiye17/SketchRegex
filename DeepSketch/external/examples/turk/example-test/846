@@ -1,0 +1,17 @@
+// example 
+"Fea$",-
+"AFf^9",-
+"",-
+"c",-
+"iG",-
+"jeK",-
+"AZ(",-
+"Eq!",+
+"AF!Ap",-
+"O",-
+"m2[=",-
+"A'!",+
+"I`",-
+
+// ground truth 
+concat(concat(<vow>,<any>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"}7kA",+
+"qS5",+
+"As.",-
+"/",-
+"}7kl",+
+"9@]}KO",+
+"fO&,",-
+"",-
+"L~L;J",-
+"|{h4o",+
+"5;",-
+"O",-
+"fO&t",-
+"5M",-
+"AsI",-
+"9@]}Kv",+
+"L~L;'",-
+"|{hh6",+
+"~=Rn:7m",+
+"~=Rn:_1",+
+"q1r",+
+
+// ground truth 
+and(endwith(contain(<num>)),startwith(repeat(contain(<let>),2)))

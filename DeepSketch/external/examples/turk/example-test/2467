@@ -1,0 +1,25 @@
+// example 
+"71{F@B5",+
+"A.v",-
+"65pu=",+
+"9v@H8rG;H>",+
+"0l=lK$<qc",+
+""6_<",-
+"UTwQ",-
+"2{",+
+"9b(",+
+"1oDe!*emshU",+
+""",-
+"2+qt",+
+"",-
+"[_",-
+"+j",-
+"4+=H?t\Z",+
+"(T2",-
+"05!g$\",+
+",'dUu",-
+":|IGB",-
+"H",-
+
+// ground truth 
+concat(startwith(<num>),<any>)

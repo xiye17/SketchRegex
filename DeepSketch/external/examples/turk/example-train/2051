@@ -1,0 +1,16 @@
+// example 
+"I][",-
+"''y/D",-
+"=GQs",-
+"O",-
+"[6",-
+"F!",+
+"=p!Y",-
+"",-
+"'!vv7",-
+"Fb",+
+"[}",-
+"I}=",-
+
+// ground truth 
+concat(or(<any>,<vow>),or(or(<let>,<m0>),<cap>))

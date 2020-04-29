@@ -1,0 +1,25 @@
+// example 
+"1",-
+"8A=92m",+
+"6*jO"x~=j",+
+""$T",-
+"6D",+
+"",-
+"&",-
+"+x$r",-
+"5X~uSwx7",+
+"0L`x=GL<kR",+
+""c",-
+"6Y$",+
+"9/#2D|_",+
+"#G0zE",-
+"^eBC",-
+"V*",-
+"51Vd3",+
+"9g(sTg'gE%:",+
+"3=-8",+
+"Gs{",-
+"\I?*-",-
+
+// ground truth 
+concat(repeatatleast(<num>,1),endwith(<any>))

@@ -1,0 +1,17 @@
+// example 
+"\",-
+"Jdp",-
+"_K'Z",-
+"D",+
+"nkv\r",-
+"o",+
+"&X",-
+"7Xk",-
+"H7SO5",-
+"",-
+"}",-
+"}/",-
+"EM]\",-
+
+// ground truth 
+or(or(<cap>,<let>),<vow>)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"Y?",+
+"}z}",+
+"r",+
+")a",+
+"ufPZ",+
+"R",-
+"G^Y'",+
+"?:X",+
+"/bbg*",+
+"%",+
+"eNibo",+
+
+// ground truth 
+not(and(<any>,<cap>))

@@ -1,0 +1,25 @@
+// example 
+"]LX",-
+"g3G6J6U7",+
+"f4Z6C0q8p6G2",+
+"J6F0Q2m3F4G8c9",+
+"f4Z6C0q8p6p5",+
+"",-
+"O7@r",-
+"J6F0Q2m3F4G8G7",+
+"b",-
+"g3G6J6j8",+
+"O7F0",-
+"q4j3v9e3j2",+
+"q4j3v9e3J4",+
+"XL",-
+"R",-
+"A8b3T0E5M9z4r7T7",+
+"X/",-
+"$CkxP",-
+"+zn",-
+"A8b3T0E5M9z4r7i2",+
+"{%'Jv",-
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),4)

@@ -1,0 +1,15 @@
+// example 
+"u!O",+
+"C!mh",-
+"C!E.",-
+"`B",-
+"X!'",-
+"v9m$R",-
+"X!u",-
+"^",-
+"`!",-
+"",-
+"v!+8x",-
+
+// ground truth 
+concat(<any>,concat(<m0>,<cap>))

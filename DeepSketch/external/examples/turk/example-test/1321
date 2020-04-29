@@ -1,0 +1,25 @@
+// example 
+"AuUc",-
+"Aux.",-
+"aOiIIEaIAd",+
+"C.A*:",-
+"iP",-
+"AaauAEoii",+
+"uuUOek",+
+"",-
+"uuUOeo",+
+"AaauAEoid",+
+"Br5",-
+"aUaIaUUe",+
+"O",-
+"iH.E#",-
+"aOiIIEaIAi",+
+"s+~",-
+"OAaIuou",+
+"OAaIuov",+
+"H",-
+"ii",-
+"aUaIaUUz",+
+
+// ground truth 
+concat(repeatatleast(<vow>,5),<low>)

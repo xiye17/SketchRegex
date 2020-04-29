@@ -1,0 +1,14 @@
+// example 
+"",+
+"7N8vIDPPA",+
+"57nn)&",+
+"`)Jk1",+
+"Y@Yu",+
+"YF",+
+"X\_*BN+",+
+"!",+
+"F3A",+
+"'yBp1&2D",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,7),<vow>))

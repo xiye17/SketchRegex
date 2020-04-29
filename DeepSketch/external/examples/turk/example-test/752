@@ -1,0 +1,25 @@
+// example 
+"EBa",-
+"o",-
+"NAbh\",-
+"SA",-
+"rLOoEauO",+
+"O@PeTEiaEIE",+
+"NAbhQ",-
+"e",-
+"AEIuoaq",+
+"",-
+"Sn",-
+"AEIuoE>",+
+"IoIIeOY._u",+
+"Udhg",-
+"IoIIeo}(eV",+
+"heOIoiubfsuf",+
+"O@PeTEiaEIO",+
+"EBr",-
+"heOIoiaC{[9e",+
+"rLOoEauo",+
+"UdhU",-
+
+// ground truth 
+contain(repeatatleast(<vow>,6))

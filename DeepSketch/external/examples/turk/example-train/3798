@@ -1,0 +1,25 @@
+// example 
+"in",-
+"aeuA",+
+"uaoUoEI",+
+"uOEAE",+
+"#",-
+"UOI",+
+"aeuU",+
+"",-
+"khfIG",-
+"eEIioU",+
+"uaoUoEe",+
+"uOEAa",+
+"hZw",-
+"aEoD",-
+"UOa",+
+"eEIioO",+
+"aEoF",-
+"J",-
+"N_o",-
+"OUTMm",-
+"if",-
+
+// ground truth 
+and(repeatatleast(<vow>,3),contain(<cap>))

@@ -1,0 +1,16 @@
+// example 
+"yNUbH",+
+"g",-
+"An27",+
+"8w7",+
+"$GCx<YTd",+
+"&DH[XXQCAG",+
+"4!ejyj",+
+"(?YJX^#",+
+":$VIx$J}#(S",+
+"]3&LYA3,c",+
+"Iu",+
+"",-
+
+// ground truth 
+repeatatleast(contain(<any>),2)

@@ -1,0 +1,25 @@
+// example 
+"G_<56",-
+"X]Ivct",+
+"A^6QG[bk",+
+"|RQv",-
+"3[",-
+"[[mDwHr",+
+"Gcu",-
+"OePwK",+
+"X]IvcW",+
+"_",-
+"",-
+"f/5~zB,bf",+
+"OePwh",+
+"|RQ@",-
+"[[mDwHU",+
+"f/5~zB,bO",+
+"3}",-
+"G_<5{",-
+"A^6QG[bN",+
+"{",-
+"GcV",-
+
+// ground truth 
+contain(repeat(contain(concat(<let>,star(<let>))),5))

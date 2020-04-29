@@ -1,0 +1,25 @@
+// example 
+"tcRe",+
+"BOA",+
+"a",+
+"cO",+
+"",+
+"Be9",+
+"ci",+
+"LH",-
+"CTB",-
+"fmDb",-
+"Op.@",+
+"fmDH",-
+"CTh",-
+"O",+
+"R",-
+"DjAb1",+
+"mKHFs",-
+"K",-
+"mKHFH",-
+"L}",-
+"DjUh7",+
+
+// ground truth 
+star(or(contain(<vow>),<num>))

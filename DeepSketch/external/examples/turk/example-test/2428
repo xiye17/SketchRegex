@@ -1,0 +1,17 @@
+// example 
+"eN",-
+"I~E",-
+"Y}<1W",-
+"u",-
+"m7!-",-
+"he",-
+"",-
+"iv",+
+"eo",+
+"Y]jjY",-
+"I1W",-
+"{",-
+"dU|{",-
+
+// ground truth 
+concat(or(<cap>,<vow>),<low>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"Fht",+
+"P:UvMZ@",+
+"\6O3",+
+";aw@p:jN",+
+"np",+
+"?J::XlM8n",+
+"c",+
+"sHuG,",+
+"_gy0-|",+
+
+// ground truth 
+contain(not(and(<vow>,<cap>)))

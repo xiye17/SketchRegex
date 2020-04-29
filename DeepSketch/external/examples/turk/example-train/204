@@ -1,0 +1,14 @@
+// example 
+"",+
+"`<][T",+
+"jz@!aX",+
+"0/14E88+",+
+"#T",+
+"!KDR$@uI%",+
+"KH[",+
+"t",+
+"vi\+D;4",+
+"s#>e",+
+
+// ground truth 
+not(and(<m0>,startwith(<let>)))

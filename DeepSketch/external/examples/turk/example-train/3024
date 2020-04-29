@@ -1,0 +1,25 @@
+// example 
+"Twij",-
+"!FR&/",-
+"!u!u!U!U!E!a!E!A",+
+"!E!U!I!E!I!U",+
+"!",-
+"!i!o!A!O!o!a!a!I!u!O",+
+"",-
+"!I",-
+"GSl?J",-
+"}dS",-
+"!U!I!e!U!u!o!o",+
+"!a!i!o!O!e!o!O!u!U",+
+"!E!U!I!E!I!i",+
+"!i!o!A!O!o!a!a!I!u!o",+
+"!B",-
+"!u!u!U!U!E!a!E!e",+
+"R",-
+"!U!I!e!U!u!o!I",+
+"!a!i!o!O!e!o!O!u!u",+
+"!u!",-
+"!o!C",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),6)

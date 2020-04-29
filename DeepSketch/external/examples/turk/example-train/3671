@@ -1,0 +1,25 @@
+// example 
+"rEw",+
+"s",-
+",B",-
+"{Wji",+
+"mi_}h",+
+"AD{0o",-
+"p=cg",-
+"AD{0}",-
+"mU-DF",+
+"",-
+"9~|",-
+"}}zfzo",+
+"{Wja",+
+"9~Q",-
+"}}zfzA",+
+"tA",+
+"rIx",+
+",{",-
+"p=cG",-
+"to",+
+"~",-
+
+// ground truth 
+repeatatleast(contain(concat(<low>,<vow>)),1)

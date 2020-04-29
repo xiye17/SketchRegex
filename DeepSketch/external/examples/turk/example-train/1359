@@ -1,0 +1,25 @@
+// example 
+"SBERCRXF",+
+"HHLST",+
+"$1",-
+"q",-
+"L#G5/",-
+"FWVGNXC",+
+"",-
+"NM<",-
+"CETUWEHDQ",+
+"'",-
+"STOQDEYNTY",+
+"FMJZ",+
+"RURQPG",+
+"Nv}",-
+"O",+
+"md",-
+"PfO7",-
+"QK",+
+"#G\.m",-
+"HDZ",+
+"=5h@",-
+
+// ground truth 
+and(endwith(<any>),repeatatleast(<cap>,1))

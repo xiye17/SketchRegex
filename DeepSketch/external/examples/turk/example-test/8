@@ -1,0 +1,25 @@
+// example 
+"COM",-
+"edtmb",+
+"rppfczo",+
+"wt",-
+"OK",+
+"pafc",+
+"aptujg",+
+"o",-
+"hI/8",-
+"vgdrk",+
+"agyh",+
+"lpy~m",-
+"|R-",-
+"",-
+"hzv~",-
+"aO",+
+"dphcmrd",+
+"w|",-
+"ZZ\~;",-
+"I",-
+"zzzinp",+
+
+// ground truth 
+or(repeatatleast(<low>,4),concat(<vow>,<cap>))

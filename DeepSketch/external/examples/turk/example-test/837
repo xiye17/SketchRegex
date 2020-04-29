@@ -1,0 +1,17 @@
+// example 
+"zA",+
+"zO",+
+"kH",-
+"",-
+"g",-
+"mUNM",-
+"3RA#I",-
+"h!$",-
+"kk",-
+"ldS9O",-
+"mISI",-
+"{",-
+"hii",-
+
+// ground truth 
+concat(<low>,or(or(<m0>,<vow>),<m1>))

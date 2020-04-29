@@ -1,0 +1,15 @@
+// example 
+"bB[rUPA",+
+"?*VKQ=JGe",+
+"!+4HaM",+
+"di@/yN<*",+
+"o",+
+".9w`k",+
+"Q#$",+
+"6`",+
+"5*QZ",+
+"*iOQ.2p;MO",+
+"",-
+
+// ground truth 
+contain(or(or(<let>,<any>),<low>))

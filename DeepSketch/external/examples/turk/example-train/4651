@@ -1,0 +1,25 @@
+// example 
+"S(",",+
+"/vWn",+
+"6UAaA",-
+"2",+
+"6eEAOe",-
+"S$",+
+"#1h,:",+
+"9oo",-
+"X",+
+"8A",-
+"",+
+"0pv",+
+"8O",-
+"r:3a,",+
+"0uOE",-
+"6UAaE",-
+"9oa",-
+"6eEAOo",-
+"0Xz",+
+".0",+
+"0uOu",-
+
+// ground truth 
+not(concat(<num>,repeatatleast(<vow>,1)))

@@ -1,0 +1,15 @@
+// example 
+"N@",+
+"]@Rv",-
+"}bF",-
+"tx",-
+"N",-
+"}@0",-
+"t;",-
+"]2sE",-
+"~y|-s",-
+"~+eDW",-
+"",-
+
+// ground truth 
+concat(or(or(<cap>,<any>),<m0>),<m1>)

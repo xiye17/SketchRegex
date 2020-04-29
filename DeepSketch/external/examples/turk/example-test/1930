@@ -1,0 +1,23 @@
+// example 
+"!uY@",-
+"!j!h!w!h!j!t!z!k!p!r",+
+"!",-
+"CP",-
+"!l!n!x!s!g!a!v",+
+"",-
+"!k",-
+"!{E",-
+"!c!t!i!f",+
+"!w!z!v!x!w!w!k!i!g",+
+"!c!e!t!e!g!f",+
+"!u!{",-
+"!w!b!l",+
+"!t!l!r!a!m",+
+"!}S#X",-
+"!q!v!y!k!o!p!q!x",+
+"os-",-
+">Vgy]",-
+"{",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),3)

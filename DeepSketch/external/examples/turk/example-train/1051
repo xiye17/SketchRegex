@@ -1,0 +1,22 @@
+// example 
+"4#",-
+"ra",-
+"IjG\W;HFPiT(",+
+"VIH",-
+"FTU`ZYHS",+
+"S{O^ImIeT0SvBjY0",+
+"",-
+"5m>dp",-
+"a",-
+"vk_M0",-
+"X7EeXfF4FF",+
+"U7YYF*X+CnV>UOIHQ<",+
+"6",-
+"7I4)",-
+"qiE%",-
+"H}B@R`HAF}PtUWOeR%Pq",+
+"S_JBX|XTS~M}WX",+
+"|$c",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),4)

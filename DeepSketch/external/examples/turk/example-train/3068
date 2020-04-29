@@ -1,0 +1,17 @@
+// example 
+"~tC",-
+"uiFx",-
+"",-
+"ui&L",-
+"jaz3&",-
+"bu",-
+"lia",-
+"joH",+
+"S",-
+"juX",+
+"ja+x-",-
+"bP",-
+"~",-
+
+// ground truth 
+concat(concat(<low>,<vow>),<cap>)

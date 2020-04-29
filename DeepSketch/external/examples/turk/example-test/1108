@@ -1,0 +1,26 @@
+// example 
+"oqjNH^",+
+"|O&ll",-
+"[",-
+"RCqD",+
+"!",+
+"!9%",+
+"",-
+"~@",-
+"yZVx-em",+
+"<;Ss",-
+"|",-
+"Kwp{|",-
+"!?",+
+"yZVUQ0;",+
+"RCql",+
+"!<O}!",+
+"]p",-
+"30H",-
+"b~vE",-
+"SPxzM",+
+"]Cx",-
+"oqjlGp",+
+
+// ground truth 
+startwith(or(repeatatleast(<let>,4),<m0>))

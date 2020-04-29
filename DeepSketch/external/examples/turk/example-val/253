@@ -1,0 +1,25 @@
+// example 
+"g$y",-
+"`x?",-
+"\zLxr",-
+"~O",-
+"oCuNK",+
+"Ruoeuo",+
+"aieeeYai",+
+"iaue",+
+"iauo",+
+"e",-
+"aieeeYaa",+
+"",-
+"ooiieeN",+
+"a",-
+"a`hu",-
+"m<vbF",-
+"ooiieei",+
+"toq%",-
+"hF",-
+"oCuNo",+
+"RuoeuY",+
+
+// ground truth 
+repeatatleast(or(<cap>,<vow>),4)

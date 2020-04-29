@@ -1,0 +1,18 @@
+// example 
+")VXkE4H68",+
+"]k[qxx|QMUR",+
+"P#^D",+
+"x0C",-
+"hy?5Hq~*",+
+"2.j<;<2m&O*&"",+
+"I)A5_Hw",+
+"",-
+"c",-
+"a[3>Ot++Y[",+
+"i=a-D",+
+"*rYX2u*g=hCt",+
+"Vt",-
+";x/1@8",+
+
+// ground truth 
+or(repeatatleast(<any>,4),and(and(<m0>,<m1>),<vow>))

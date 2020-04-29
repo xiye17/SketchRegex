@@ -1,0 +1,25 @@
+// example 
+"umkmmN",+
+"t",-
+"u*",-
+"pnjF",+
+"0I[",-
+"+;"=m",-
+"uj",-
+"iqbbcoqR",+
+"-",-
+"{->m",-
+"",-
+"|yscV",-
+"rzxtwnqownZ",+
+"husidnfmzobV",+
+"hgbqlutupnbyI",+
+"|aL",-
+"%$02",-
+"aifmywazC",+
+"pexrU",+
+"ourateQ",+
+"oyksmujrgN",+
+
+// ground truth 
+concat(repeatatleast(<low>,3),<cap>)

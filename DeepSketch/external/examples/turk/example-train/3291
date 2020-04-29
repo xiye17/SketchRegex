@@ -1,0 +1,17 @@
+// example 
+"E",+
+"o{\n",-
+"i&F",-
+"3",+
+"&%|=",-
+"I@w",-
+"_",-
+"",-
+"h*",-
+"dy",-
+"Tztjx",-
+"L",-
+"DU]OT",-
+
+// ground truth 
+or(<num>,<vow>)

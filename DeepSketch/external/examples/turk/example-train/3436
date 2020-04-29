@@ -1,0 +1,17 @@
+// example 
+"t4",+
+"]iD",-
+"O6R9",-
+"(XwJL",-
+"",-
+")",-
+"}H",-
+"O!jx",-
+"t,",-
+"{6fab",-
+"P7",+
+"b`6",-
+"~",-
+
+// ground truth 
+concat(<let>,and(<any>,<num>))

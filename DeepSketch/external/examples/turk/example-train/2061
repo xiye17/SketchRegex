@@ -1,0 +1,14 @@
+// example 
+"",+
+"4L|\l=u",+
+"O#ncE",+
+"om&",+
+")Rl~",+
+";*",+
+"B-3pyE-i",+
+":35wLJ",+
+"`VcE3Ol\l",+
+"{",+
+
+// ground truth 
+startwith(star(or(<m0>,<num>)))

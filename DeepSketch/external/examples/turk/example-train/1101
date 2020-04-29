@@ -1,0 +1,14 @@
+// example 
+"",+
+"F",+
+"!DB)N",+
+"!J])",+
+"/gB",+
+"0n",+
+"KSAd3}",+
+"1)Fz/pwG"",+
+"y=f]Z#N",+
+"MGsU9$Jc",+
+
+// ground truth 
+startwith(or(<vow>,not(<let>)))

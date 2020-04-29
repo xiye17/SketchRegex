@@ -1,0 +1,24 @@
+// example 
+"WBDU!",+
+"*A!V",+
+"PuE%",-
+"PEfA^",-
+"tuUCa!",+
+"3i!",+
+"WBDi!",+
+"PEfAJ",-
+"",-
+"xJ",-
+"`0A",-
+"!wAyfI!",+
+"xa",-
+"PuEU",-
+"C",-
+"!wAyfe!",+
+"3u!",+
+"*Ai!",+
+"tuUCI!",+
+"`0u",-
+
+// ground truth 
+contain(concat(concat(<any>,<vow>),<m0>))

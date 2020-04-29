@@ -1,0 +1,22 @@
+// example 
+"q7*#",-
+"p4w2x9b6",+
+"h1j5k9j0g4r0k0f4m2",+
+"f3X",-
+"q7}y",-
+"J)=m#",-
+"p",-
+"k6g6o6s6m7s0",+
+"",-
+"v8c4z2a2f1m4v2f8",+
+"mS",-
+"|",-
+"q0r4a7d2o8s1a4",+
+"|D[O(",-
+"u6p9u1s4h1",+
+"m&",-
+"f3~",-
+"r8q7k5y1b7f9h7n1k2i5",+
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),4)

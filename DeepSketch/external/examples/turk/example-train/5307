@@ -1,0 +1,17 @@
+// example 
+"63tT?",-
+"P,+",-
+"6!MA",-
+"?dok",-
+"S@",+
+"H6",-
+"PbM",-
+"",-
+"&",-
+"2@",+
+"8",-
+"Hp",-
+"c2s@G",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<cap>),<m1>)

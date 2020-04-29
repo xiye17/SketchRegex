@@ -1,0 +1,25 @@
+// example 
+"PZUGMEU0",+
+"E~",-
+"D,A.",-
+"z;Lyr",-
+"OOK",-
+"jo]&",-
+"kq",-
+"BEHYIMKFTY0",+
+"",-
+"b",-
+")FB4p",-
+"BMHAJWLEWNQIN8",+
+"AQGOGJSO7",+
+"KXPINYGPMHNW5",+
+"U",-
+"OOh",-
+"HZRXTFZQRQYZZG8",+
+"IZQIJVUTABYFZKON4",+
+"UCRJXSJGGJESVNO4",+
+"HBSMOBUYA9",+
+"JNLOEROGHMC3",+
+
+// ground truth 
+concat(repeatatleast(<cap>,7),<num>)

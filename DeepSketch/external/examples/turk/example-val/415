@@ -1,0 +1,17 @@
+// example 
+"yim",+
+"e7mrz",+
+"s",+
+"u",-
+"dSL",+
+"u12x-",+
+"tsk-",+
+"",+
+"i",-
+"cW",+
+"j",+
+"uA-7",+
+"ap",+
+
+// ground truth 
+not(and(and(<low>,<vow>),<let>))

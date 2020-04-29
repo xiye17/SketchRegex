@@ -1,0 +1,25 @@
+// example 
+"ko",+
+"|%~{|",-
+"#maj",+
+"O~",-
+"~e}ja",+
+"#maE",+
+"|%~{k",-
+"-",-
+"O6",-
+"[.,e",-
+"",-
+"WdQ",+
+"kN",+
+"~h?|do",+
+"Wdd",+
+"~e}jG",+
+"[.,S",-
+"~h?|dG",+
+"{",-
+"N}G",-
+"N}}",-
+
+// ground truth 
+endwith(concat(<low>,<let>))

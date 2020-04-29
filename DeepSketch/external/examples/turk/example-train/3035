@@ -1,0 +1,15 @@
+// example 
+"",+
+"!I",+
+"hR",+
+"cG`3",+
+"!$;OJ",+
+"umaH:",+
+"!",-
+"+",+
+"!;b",+
+"txJ",+
+"!AA}",+
+
+// ground truth 
+or(not(<m0>),concat(<m1>,<vow>))

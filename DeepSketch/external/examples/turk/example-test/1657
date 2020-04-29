@@ -1,0 +1,17 @@
+// example 
+"^MTw,sL1x",+
+"ot,U.V'/",+
+"hyf",+
+"g&\z=",+
+"",-
+"&",-
+"bfjH",+
+"Awel[-:",+
+"'K;vZwR)c8MW",+
+"?2MdVy",+
+"c-Hb2A#IsMR",+
+"v<1k\>K:se",+
+"\%",-
+
+// ground truth 
+repeatatleast(or(contain(<m0>),<any>),3)

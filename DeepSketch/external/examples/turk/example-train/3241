@@ -1,0 +1,25 @@
+// example 
+"0tknopq",+
+"Wd/",-
+"2{ilD",-
+"2",-
+"8j",-
+"p",-
+"2amqusyhoroad",+
+"zP_hx",-
+"V!#}",-
+"8?",-
+"%$L",-
+"",-
+"9yppfuuncvq",+
+"2cbphnjjcu",+
+"#pU^",-
+"9ukxiutqwvsi",+
+"4jjnipjl",+
+"4qccgg",+
+"2ffn",+
+"4vkka",+
+"5nfqalrke",+
+
+// ground truth 
+concat(<num>,repeatatleast(<low>,3))

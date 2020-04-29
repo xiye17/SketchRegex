@@ -1,0 +1,25 @@
+// example 
+"!v!s!b!k!h!f",+
+"Z",-
+"!"",-
+"!|:o)",-
+"!b!m!i!h!e!u!i",+
+"!h![",-
+"!g!o!i!e!r!u!v!b!s!t",+
+"!c!i!a!z!o!v!o!u!z",+
+"!",-
+"!b!v!l",+
+"!b!c!r!c!v",+
+"",-
+"!h-;",-
+"\j",-
+"!|9",-
+"[^&",-
+"!k!e",+
+"!f!i!o!b",+
+"!x!_!",-
+"!j!l!z!o!v!c!t!d",+
+"!d",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),1)

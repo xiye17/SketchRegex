@@ -1,0 +1,17 @@
+// example 
+"KE",+
+"chL}~",-
+"!",-
+"!Le",-
+"ca/V(",-
+"",-
+"!uq|",-
+"KO",+
+"|",-
+"FT",-
+"\39",-
+"!E<w",-
+"FF",-
+
+// ground truth 
+concat(or(or(<m0>,<let>),<m1>),<vow>)

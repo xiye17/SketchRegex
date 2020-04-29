@@ -1,0 +1,25 @@
+// example 
+"R37+J",+
+"jN",-
+"bX9",-
+"!9`",+
+"!CZQj",+
+"!",+
+"2}zMm",-
+"",-
+"!=Ac",+
+"b",-
+"MT",+
+"F!h",+
+"|*'6",-
+"-2^G",-
+"M",+
+"8",-
+"N{Ts",+
+"vLEZ2",-
+"#1",-
+"'A%",-
+"!c",+
+
+// ground truth 
+repeatatleast(startwith(or(<cap>,<m0>)),1)

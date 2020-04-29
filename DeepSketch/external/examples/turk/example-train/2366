@@ -1,0 +1,15 @@
+// example 
+"(d2+",+
+"-2fXh'2\",+
+"PRaa^kHs}",+
+"U,e]?",+
+"p4$",+
+"Q",+
+"`<~.oJ&R[5",+
+"hO",+
+"n,HQQMV",+
+"SesnWn",+
+"",-
+
+// ground truth 
+endwith(or(<num>,<any>))

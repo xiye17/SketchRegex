@@ -1,0 +1,25 @@
+// example 
+"6pj",-
+"ex%\",+
+"6pR",-
+"a",+
+"rtso",+
+"{4bv",-
+"3r}SE",+
+"]W",-
+"OP5",+
+"",-
+"c",-
+"P",-
+"hqD2d",-
+"Fi",+
+"FO",+
+"o0x",+
+"3r}SO",+
+"]K",-
+"u",+
+"hqD2k",-
+"{4b\",-
+
+// ground truth 
+and(repeatatleast(<any>,1),contain(<vow>))

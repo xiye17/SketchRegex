@@ -1,0 +1,17 @@
+// example 
+"HU!",+
+"$Z",-
+"VEN",-
+"go!bS",-
+"[q%&",-
+"X",-
+"Ha!",+
+"goj$.",-
+"",-
+"ci;D",-
+"nb",-
+"6",-
+"VbO",-
+
+// ground truth 
+concat(concat(<let>,<vow>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"oooee",+
+"jTT",-
+"eai",+
+"+[Zy:",-
+"R\",-
+"oooiiU",+
+"\l7Y~",-
+"<b1",-
+"ua;z",-
+"Puue",+
+"e",-
+"eaa",+
+"",-
+"oooiie",+
+"g",-
+"oooeB",+
+"oeTAuia",+
+"PuuI",+
+"Re",-
+"uab9",-
+"oeTAuio",+
+
+// ground truth 
+repeatatleast(or(<vow>,<cap>),3)

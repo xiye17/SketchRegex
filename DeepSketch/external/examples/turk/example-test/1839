@@ -1,0 +1,15 @@
+// example 
+"",+
+"9+s>}_",-
+"ra",-
+")q}ov@IH",-
+"M!]",-
+"Nt<z",-
+"W",-
+"sU`_c",-
+"YM"8wk)9[",-
+";@Ys.2As6*",-
+"BeYzGYL",-
+
+// ground truth 
+not(or(repeatatleast(<any>,1),<cap>))

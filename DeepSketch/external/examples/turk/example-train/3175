@@ -1,0 +1,17 @@
+// example 
+"r",-
+"IB",+
+"",-
+"m[m",-
+"Id",+
+"oxZI{",-
+"H>tT",-
+"f@",-
+"J",-
+"<'--N",-
+"K)",-
+"H`+",-
+"+LC,",-
+
+// ground truth 
+concat(and(<cap>,<any>),<let>)

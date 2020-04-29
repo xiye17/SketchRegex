@@ -1,0 +1,26 @@
+// example 
+"lJNoUw?BQL",+
+"thS;LCLPF",+
+"[",-
+"jCQ'B",-
+"Nl,5",-
+"<q",-
+"Nl,M",-
+"-zHzh/NXCWG",+
+"<B",-
+"&bNYTIMC",+
+"",-
+"thSzHIPKF",+
+"jCQ'7",-
+"70S",-
+"ZFBC1ZV",+
+"8",-
+"70h",-
+"ZFBCLoV",+
+"&?KBFGZK",+
+"WFSADJ",+
+"lJNoUwtEKI",+
+"-zHzh_AIENN",+
+
+// ground truth 
+repeatatleast(contain(<cap>),6)

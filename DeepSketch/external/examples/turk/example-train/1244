@@ -1,0 +1,18 @@
+// example 
+"I!/",-
+"'!7!+!k!o!0!b!b!",+
+"j!K5D",-
+"j!K!J",-
+"n!1!M!?!_!A!S!+!^!>!",+
+"F!",-
+"G!K!q!!!Z!S!x!",+
+"",-
+"n!C+",-
+"I|a",-
+"O",-
+"n!C!",-
+"d!z!"!.!6!x!A!9!%!",+
+"FA",-
+
+// ground truth 
+repeatatleast(concat(<any>,<m0>),7)

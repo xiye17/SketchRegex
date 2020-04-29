@@ -1,0 +1,25 @@
+// example 
+"o6",+
+"bnf",+
+"cejobu",+
+"e[wsd",-
+"hmwi",+
+"mvaihb",+
+"b{",-
+"ox",+
+"",-
+"b4",-
+"mtyie",+
+"a",-
+"eJw9",-
+"N",-
+"iyvpw",+
+"u%&",-
+"us+",-
+"e8,M"",-
+"ecv",+
+"bgco",+
+"T:Ic",-
+
+// ground truth 
+or(repeatatleast(<low>,2),concat(<vow>,<num>))

@@ -1,0 +1,25 @@
+// example 
+"E",+
+"]",-
+"dU",+
+"W\",-
+"Vt]HU",+
+"c4?",-
+"do",+
+"xA\]",+
+"A1+",+
+"'mpB",-
+"",-
+"W+",-
+"Vt]a@",+
+";",-
+"'mpf",-
+"e",+
+"tGJ\b",-
+"e\&p",+
+"c4l",-
+"tGJ\l",-
+"Pme",+
+
+// ground truth 
+repeatatleast(contain(endwith(<vow>)),1)

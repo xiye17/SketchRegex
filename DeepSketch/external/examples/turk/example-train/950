@@ -1,0 +1,25 @@
+// example 
+"x\4p",-
+"[Xv",+
+"-#{|U",-
+"x\4W",-
+"|dQr",+
+"",-
+"`",-
+"~``mz",+
+"iWrrWq",+
+"\T",-
+"[bi",+
+"]`5",-
+"-#{|{",-
+"ir",+
+"Kj",+
+"]`v",-
+"|dof",+
+"~``Fe",+
+"H",-
+"iWrrji",+
+"\^",-
+
+// ground truth 
+endwith(concat(<let>,<low>))

@@ -1,0 +1,24 @@
+// example 
+"};(|",+
+"!{ZM",+
+"n",+
+"!u!z!g!c!y!p!h!n",-
+"!p!p!j!b!o!g!o!o!p!d",-
+"!|",+
+"!",+
+"!|D",+
+"!i!p!r!z!y!x",-
+"s@z[r",+
+"!e!d!k",-
+"!H",+
+"",+
+"!q!t",-
+"!x!v!c!m",-
+"!i!l!a!l!b!r!z",-
+"!v!w!n!t!i!a!f!y!c",-
+"!}yQT",+
+"!g!e!s!j!u",-
+"!YF",+
+
+// ground truth 
+not(repeatatleast(concat(<m0>,<low>),2))

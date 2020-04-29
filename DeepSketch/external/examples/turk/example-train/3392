@@ -1,0 +1,15 @@
+// example 
+"",+
+";d",+
+"!s;`",+
+")",+
+"!o",+
+"S;YH",+
+"!",-
+"q+"Q"",+
+"!6=2Y",+
+"aEl",+
+"!Bo",+
+
+// ground truth 
+or(not(<m0>),contain(<m1>))

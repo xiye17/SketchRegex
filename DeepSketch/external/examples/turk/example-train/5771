@@ -1,0 +1,16 @@
+// example 
+"",+
+"OwT",+
+"nOe[",+
+"nf",+
+"J:f?^",+
+"7jnx",+
+"~(,R+",+
+"l",-
+"&",+
+"~",+
+"sNK",+
+"C+",+
+
+// ground truth 
+or(not(<low>),repeatatleast(<m0>,5))

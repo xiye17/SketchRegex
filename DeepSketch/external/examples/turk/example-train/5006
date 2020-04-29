@@ -1,0 +1,14 @@
+// example 
+"",+
+"!j",+
+"1",+
+"k`.cZ](",+
+"!PYh![P=G",+
+"{7RVY",+
+"`n"",+
+"Ddjgms",+
+">'$lKbLn",+
+"s3%I",+
+
+// ground truth 
+not(and(concat(<vow>,<cap>),<low>))

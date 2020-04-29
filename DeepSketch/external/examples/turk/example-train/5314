@@ -1,0 +1,25 @@
+// example 
+"T1IS",-
+"ev",+
+"A;sV",+
+"hF3\",-
+"EK",+
+"IFJ}Z",+
+"T>4[E",-
+"iBkk",+
+"K&0",-
+"br/",-
+"e*V]_",+
+"AYXbMz",+
+"",-
+"AU>",+
+";",-
+"I]WFZM",+
+"Dc",-
+"edD",+
+"j",-
+"F{",-
+"f3djq",-
+
+// ground truth 
+concat(startwith(<vow>),<any>)

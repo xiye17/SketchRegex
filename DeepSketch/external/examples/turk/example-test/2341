@@ -1,0 +1,25 @@
+// example 
+"Hohubud",+
+"4",-
+"Hwqxilksqdbbppm",+
+"Ddkdfykcwwfen",+
+"Lrwwhclef",+
+"#$o",-
+"Wotmccck",+
+"",-
+"Q",-
+"Flwmfozlun",+
+"NqIz",-
+"Kbnsdyodjozb",+
+"Ebibapslkfyednlc",+
+"Sl1ES",-
+"Upvejcpheovudu",+
+"4j",-
+"N|h8",-
+"kUWVK",-
+"f0m",-
+"Cqjqpegvypo",+
+"YC",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<low>,6))

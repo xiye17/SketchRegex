@@ -1,0 +1,16 @@
+// example 
+"",+
+"Wj%",+
+"|q",+
+"'LRE",+
+"(yAmr",+
+"r~l2o",+
+"+",+
+"0K<",+
+"b",+
+"Kz",+
+"w>4c",+
+"D",-
+
+// ground truth 
+not(and(and(<let>,<cap>),<any>))

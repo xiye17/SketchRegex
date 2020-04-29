@@ -1,0 +1,17 @@
+// example 
+"F",-
+"O$",-
+"gB^gs",-
+"U",+
+"+",-
+"TZPF",-
+"",-
+"ImUPa",-
+"O",+
+"C;@",-
+"Rd",-
+"E;Z",-
+"U/Bj",-
+
+// ground truth 
+and(and(<let>,<cap>),<vow>)

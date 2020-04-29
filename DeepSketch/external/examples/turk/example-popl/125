@@ -1,0 +1,18 @@
+// examples
+"a",+
+"asd",+
+"aedtf",+
+"7as",+
+"875!s",+
+"goo",+
+"doog",+
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+
+// ground truth 
+startwith(or(or(<any>,<cap>),<let>))

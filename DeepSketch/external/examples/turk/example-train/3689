@@ -1,0 +1,15 @@
+// example 
+""E0WjSX7\w",+
+"QOM\",+
+"vQ=Znh=m",+
+"WBnZB",+
+"m)n",+
+"M<d$r34",+
+"+)I?WENl;",+
+"'E",+
+">",+
+"",-
+"2-='x1",+
+
+// ground truth 
+contain(or(<vow>,<any>))

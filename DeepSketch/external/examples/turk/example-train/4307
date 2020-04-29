@@ -1,0 +1,14 @@
+// example 
+"",+
+"qp",+
+"sR?r",+
+"y?"S6*"y",+
+"0",+
+"I"l",+
+"T[UP5W-",+
+"<ZH6=.UpW",+
+"_3@IBf",+
+"gM#6X",+
+
+// ground truth 
+endwith(contain(star(<cap>)))

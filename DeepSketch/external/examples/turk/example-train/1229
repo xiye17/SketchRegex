@@ -1,0 +1,16 @@
+// example 
+"=-i<mp^RJN",+
+"-Bd/rgi"X6:",+
+"]",-
+"0Rk|j",+
+"E7f!$j",+
+"PrNgsz.~",+
+"R':E",+
+"'U;",+
+"XC$9^ybx6",+
+"gG",+
+"",-
+"~V|+WbY",+
+
+// ground truth 
+repeatatleast(or(<low>,<any>),2)

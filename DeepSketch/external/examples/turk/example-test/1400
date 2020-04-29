@@ -1,0 +1,15 @@
+// example 
+"-P8",+
+">T)6",-
+"oL$&}",-
+"lMk",-
+"S",-
+"o:V"Y",-
+"lM,",-
+">ym$",-
+".K",-
+".;",-
+"",-
+
+// ground truth 
+concat(<any>,concat(<cap>,<num>))

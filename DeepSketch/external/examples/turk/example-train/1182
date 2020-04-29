@@ -1,0 +1,15 @@
+// example 
+"f",-
+"U^jX7",-
+"!W",+
+"`pPs",-
+"!Mm|g",-
+"!",-
+"`7'",-
+"!$Ou",-
+"lI",-
+"",-
+"!=Z",-
+
+// ground truth 
+or(concat(<m0>,<any>),and(<m1>,<low>))

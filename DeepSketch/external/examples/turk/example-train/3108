@@ -1,0 +1,17 @@
+// example 
+"6oH",+
+"6AD",+
+""&X",-
+"Iu",-
+"9o`2",-
+"",-
+"'",-
+"1dbbK",-
+"'1g4h",-
+"9",-
+"9mcG",-
+"/I",-
+"0u.",-
+
+// ground truth 
+concat(<num>,concat(<vow>,<cap>))

@@ -1,0 +1,17 @@
+// example 
+"ik",+
+"|5MW0",-
+"[",-
+"/LXFG",-
+"0uT",-
+"!",-
+"Q-",-
+"",-
+"i8",+
+"QF",-
+"t)A",-
+"}E5L",-
+"5;sB",-
+
+// ground truth 
+concat(<let>,or(<num>,<low>))

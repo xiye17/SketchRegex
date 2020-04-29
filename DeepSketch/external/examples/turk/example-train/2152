@@ -1,0 +1,25 @@
+// example 
+"DvLCCGI",+
+"}"v",-
+"^?x",-
+"yhSsziMpn",+
+",-",-
+"k`[I",-
+"zaSyQHIj",+
+"~z",-
+"WmxlbF",+
+"",-
+"{ia91",-
+"HuMebZHpSK",+
+"$",-
+"zaSyQHIN",+
+"yhSsziMpN",+
+"Wmxlbq",+
+"j",-
+"\%qU*",-
+"~{&+",-
+"DvLCCGh",+
+"HuMebZHpSo",+
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),6)

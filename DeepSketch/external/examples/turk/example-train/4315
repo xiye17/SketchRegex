@@ -1,0 +1,14 @@
+// example 
+"",+
+"y\UOZY",+
+"99'B<n~x",+
+"R:",+
+"`+-",+
+"{nTz?nS",+
+"93xtY%2H2",+
+"B",+
+"u9f!.",+
+"{RYk",+
+
+// ground truth 
+not(and(<num>,<low>))

@@ -1,0 +1,24 @@
+// example 
+"gOPHFUWRTF",+
+"K{B",-
+"KEE",-
+")C",-
+".ACOUJJ",+
+"1OA0",-
+"tKah8",-
+"m",-
+"mXRZKQRBRGUHL",+
+"^TKDQ",+
+"",-
+"_YKUAZWF",+
+")}",-
+"eMIPTIJBGBF",+
+"uVCORFRZX",+
+"1OAe",-
+"<MST",+
+"MYRGSX",+
+"+VGUMPLWEILR",+
+"tKE|]",-
+
+// ground truth 
+concat(<any>,repeatatleast(<cap>,3))

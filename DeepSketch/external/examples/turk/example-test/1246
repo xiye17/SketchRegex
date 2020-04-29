@@ -1,0 +1,25 @@
+// example 
+"OjjPTbgW",+
+"xR",-
+"eIJunstTD",+
+"oBOahcT",+
+"o~9bz",-
+"OjjPTbgp",+
+"axesIMbNAt",+
+"JuCi",-
+"eIJunstTl",+
+"e",-
+"",-
+"b",-
+"rSB-",-
+"axesIMbNAM",+
+"UX*",-
+"^/",-
+"ocIDLD",+
+"oBOahcw",+
+"UX~",-
+"o3"UH",-
+"ocIDLr",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<let>,5))

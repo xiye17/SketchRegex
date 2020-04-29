@@ -1,0 +1,15 @@
+// example 
+"\2;CiS7d",+
+"T<Lx?;",+
+"4)H+trj#*[",+
+"K^T}a",+
+"KS=G",+
+"T,HZO&=",+
+"k",+
+"$V",+
+"7Qp",+
+"U"s3,F8Lm",+
+"",-
+
+// ground truth 
+contain(or(or(<low>,<any>),<m0>))

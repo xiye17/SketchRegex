@@ -1,0 +1,17 @@
+// example 
+",-$E",-
+"/",-
+",-$-",-
+"0aV4O",-
+"6-6",-
+"",-
+"6I",-
+"63",-
+"'.1U8O0a9o4o9U0O",+
+"0aV4k",-
+"'.1U8O0a9o4o9U0a",+
+"6-a",-
+"B",-
+
+// ground truth 
+repeatatleast(contain(concat(<num>,<vow>)),7)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"-",+
+""q;x,{Bu",+
+"(Wi]",+
+"WB",+
+"0mw",+
+"^>o,%6@=J",+
+")JnuIF",+
+"V\(o-",+
+"W>$R}3p",+
+
+// ground truth 
+contain(not(<cap>))

@@ -1,0 +1,15 @@
+// example 
+"@8T",+
+"QzJ8[M~",+
+"<8`z-DXp",+
+"O",+
+"~1jP",+
+"%bbu!V$?7z",+
+"M-",+
+""[.&:+Gns",+
+"wZV7&",+
+"T<ZTzz",+
+"",-
+
+// ground truth 
+concat(contain(<any>),star(<m0>))

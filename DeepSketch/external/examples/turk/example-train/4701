@@ -1,0 +1,15 @@
+// example 
+"T+",+
+"sr;WQ`D05",+
+"dlDOjoa2)\",+
+"SpQ",+
+"{iXBA",+
+"]|fsac(",+
+"N,p2",+
+"_EHHQ),]",+
+"{]/+'C",+
+"",-
+"^",+
+
+// ground truth 
+or(endwith(<any>),contain(<m0>))

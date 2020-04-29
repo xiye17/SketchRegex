@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+contain(and(and(<num>,<m0>),<let>))

@@ -1,0 +1,15 @@
+// example 
+"NK",+
+"D",+
+"w_<+R",+
+"Z3N)47^",+
+"zeS-RYu:",+
+"1YwO",+
+"Ln;",+
+"91AweH(TyK",+
+"YMA}4]5?Z",+
+";cF"_K",+
+"",-
+
+// ground truth 
+endwith(or(repeatatleast(<any>,1),<low>))

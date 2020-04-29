@@ -1,0 +1,16 @@
+// example 
+"!=-",-
+"Dc",-
+"!'",-
+"!e/_H",-
+"!RpG",-
+"!GBG]",-
+":al\",-
+"!",-
+"Fmx",-
+"!L",+
+"",-
+"`",-
+
+// ground truth 
+concat(<m0>,and(<let>,<cap>))

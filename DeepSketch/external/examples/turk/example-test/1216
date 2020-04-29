@@ -1,0 +1,17 @@
+// example 
+"pi-~N",-
+"{m#$",-
+"uU`}",-
+"",-
+"c",-
+"za",+
+"rfL",-
+"pA\"C",-
+"O",-
+"~P",-
+"&l",-
+"ze",+
+"{5?",-
+
+// ground truth 
+concat(and(and(<any>,<low>),<let>),<vow>)

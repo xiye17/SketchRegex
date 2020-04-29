@@ -1,0 +1,14 @@
+// example 
+"",+
+"L&4&A",+
+"aa,",+
+"f",+
+"C8",+
+"5[<_PmuO+",+
+"/1IG[NJ",+
+"`W;u#%",+
+"*/LD",+
+"o9Phgql:",+
+
+// ground truth 
+not(and(and(<num>,<let>),<vow>))

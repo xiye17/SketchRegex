@@ -1,0 +1,25 @@
+// example 
+"!8C",+
+"E",+
+"Oq3",-
+"DY",-
+"a",+
+"Eu",+
+"EI",+
+"EkK@#",-
+"njl"1",-
+"d",-
+"u&:|",-
+"`",-
+"q9",-
+"",+
+"%@":",-
+"tgg",-
+"oAoAu",+
+"aAo",+
+"AuaE",+
+"oAoAa",+
+"AuaI",+
+
+// ground truth 
+or(star(<vow>),startwith(<m0>))

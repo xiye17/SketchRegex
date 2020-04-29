@@ -1,0 +1,19 @@
+// example 
+"!i!f!j!t!n!k!y!z!f",+
+"!g!o!n!x!z!s!l",+
+"!",-
+"!~",-
+"",-
+"Y2SzF",-
+"!A",-
+"!c!c!u!d!y!m!n!v",+
+"!>2",-
+"9{Bq",-
+"!Qn9E",-
+"!:A}",-
+"D9f",-
+"!n!v!s!z!b!u!z!t!d!a",+
+">",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),7)

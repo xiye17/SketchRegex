@@ -1,0 +1,14 @@
+// example 
+"",+
+"[",+
+"|72%G:P",+
+"`QKtZtG8",+
+"Ej]gjh",+
+"rBB9sxLJ&",+
+"5H",+
+"5UK",+
+"uQVV",+
+"2BJ@C",+
+
+// ground truth 
+endwith(star(or(<num>,<m0>)))

@@ -1,0 +1,15 @@
+// example 
+"Hk",+
+"xDAD4",+
+"s;)gY%",+
+"PT;K3q/",+
+"'<>`-^x7",+
+"A<LvJQN<|",+
+"#eRp!zT|ly",+
+"F>'",+
+":-@G",+
+"4",+
+"",-
+
+// ground truth 
+endwith(or(<let>,<any>))

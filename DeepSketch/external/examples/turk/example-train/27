@@ -1,0 +1,24 @@
+// example 
+"UR4"",-
+"!I!Dg",+
+"G!Yw",+
+"DjVgZ!",+
+"DjV!D$",+
+"#",-
+"~F",-
+"8V!",+
+"",+
+"D!",+
+"~k",-
+"jyF",-
+"GaZ!",+
+"`<07s",-
+"UR4^",-
+"!IgF!",+
+"hK!",+
+"C",-
+"`<07+",-
+"jy%",-
+
+// ground truth 
+star(contain(concat(<cap>,<m0>)))

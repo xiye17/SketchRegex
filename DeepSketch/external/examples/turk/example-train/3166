@@ -1,0 +1,17 @@
+// example 
+"0",-
+"\",-
+"h5",-
+"&Ew",-
+"",-
+"(RT_@",-
+"4QJ",+
+"4nJ",+
+"BJ<a",-
+"L\$+'",-
+"7p`",-
+"-jdT",-
+"$~",-
+
+// ground truth 
+concat(<num>,concat(<let>,<cap>))

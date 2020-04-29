@@ -1,0 +1,25 @@
+// example 
+"LHF",+
+"u{9s",+
+"~,h8",-
+".",-
+"f]",+
+"]P",-
+"|#8",-
+"OICc"",+
+"D$",+
+"^",-
+"",-
+"<0E",-
+"^ou{",-
+")>",-
+"d",+
+"oVq",+
+"}'bib",-
+"`4yMe",-
+"H",+
+"ycw&Y",+
+"L],l",+
+
+// ground truth 
+concat(<let>,endwith(star(<cap>)))

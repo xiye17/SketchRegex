@@ -1,0 +1,25 @@
+// example 
+"!+L",+
+"!*L|.8",+
+"!FOM3",+
+"!tTApwO[x",+
+"U",+
+"O3",-
+"",-
+"!%lz",+
+"Mo|1",-
+"bdos-",-
+"!MC:;!f",+
+"j",-
+"EC@Il",-
+"O",+
+"R",-
+"hY",-
+"rlV",-
+"!&",+
+"!gbr"y{k",+
+"QF@",-
+"OAmo",-
+
+// ground truth 
+or(startwith(<m0>),<vow>)

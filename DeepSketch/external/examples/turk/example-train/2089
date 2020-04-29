@@ -1,0 +1,17 @@
+// example 
+"h2",+
+"s",-
+"*",+
+"}]+",+
+"yocIm",+
+"{E>Rf",+
+"",+
+"WByJ",+
+"N",-
+"[<J",+
+"`DT8",+
+"{",+
+"|_",+
+
+// ground truth 
+not(or(or(<cap>,<low>),<vow>))

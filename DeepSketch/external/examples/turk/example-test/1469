@@ -1,0 +1,25 @@
+// example 
+"!Dz;e",+
+"!`0#5K",+
+"!ed",+
+"!u",-
+"!})Pp"",+
+"!",+
+"!b8O",+
+"!eN",+
+"",-
+"!IIio",-
+"!U",-
+"!ooi",-
+"!Ai",-
+",}n",-
+"!lS`U",+
+"!IIiA",-
+"!p",+
+"!Zv@",+
+">",-
+"!oou",-
+"!f",+
+
+// ground truth 
+concat(<m0>,not(repeatatleast(<vow>,1)))

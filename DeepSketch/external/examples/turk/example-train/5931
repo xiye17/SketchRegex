@@ -1,0 +1,14 @@
+// example 
+"",+
+",\D",+
+"GECJX",+
+"H",+
+"Y7guXCg",+
+"e.*bDGtY",+
+"ID&E+0qp?",+
+"Id@V",+
+"8[",+
+"M2:\|w",+
+
+// ground truth 
+not(and(startwith(<m0>),<vow>))

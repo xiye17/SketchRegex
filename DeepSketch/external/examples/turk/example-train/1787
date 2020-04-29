@@ -1,0 +1,15 @@
+// example 
+"?hz!R$va",+
+"EBY7",+
+"i&0@MrBEP",+
+"KZm0mSc",+
+"l",+
+"8j",+
+"FNdKqw@H$O",+
+"S336;",+
+"[(+s*5",+
+"uk1",+
+"",-
+
+// ground truth 
+contain(or(<low>,<any>))

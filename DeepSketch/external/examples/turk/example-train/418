@@ -1,0 +1,17 @@
+// example 
+"s",+
+"D<_",+
+"OzZj~",+
+"",+
+"HC,}",+
+"GS{",+
+"A",-
+"BAEB",+
+"Fz",+
+"Ap",+
+"Em_8~",+
+"C",+
+"E",-
+
+// ground truth 
+not(and(and(<vow>,<any>),<cap>))

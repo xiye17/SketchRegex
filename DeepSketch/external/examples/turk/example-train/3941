@@ -1,0 +1,25 @@
+// example 
+"!Ur",-
+"B*",-
+"Ny!Jf",-
+"!U&!A",+
+"!",-
+"!O",+
+"R!i",+
+"!U&!e",+
+"_S!L",-
+"Ny!J!",-
+"a",-
+"",+
+"wKB!!i",+
+"Qy!i",+
+"wKB!!U",+
+"B!",-
+"!o",+
+"!U!",-
+"Qy!A",+
+"_S!l",-
+"R!E",+
+
+// ground truth 
+star(endwith(concat(<m0>,<vow>)))

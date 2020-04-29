@@ -1,0 +1,25 @@
+// example 
+"FEROX",+
+"FEROn",+
+"]",-
+"EIPT",+
+"2",-
+"hI7",-
+"JLKHUK",+
+"2@c",-
+"LZp",+
+"Bi&VW",-
+"YY",+
+"Yc",+
+"",-
+"X|)o",-
+"y.",-
+"6I",-
+"JLKHUr",+
+"LZY",+
+"EIPg",+
+"wHw.Q",-
+"XN?N",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<let>)

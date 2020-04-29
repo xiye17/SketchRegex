@@ -1,0 +1,25 @@
+// example 
+"};",-
+"XNLEMY",+
+"ZYUOATTOG",+
+"HJKNKVGL",+
+"CVYPZHS",+
+"n!BM",-
+"_-!",-
+"",-
+"TSEMFDPJGG",+
+"b!jsP",-
+"}",-
+"BMTQGJYMDZT",+
+"<",-
+"OBBNOROQFWHBP",+
+"^4Cy@",-
+"}?,",-
+"n<=r",-
+"_i",-
+"b!",+
+"JXVVOYWJTFNB",+
+"DLXEJKWDILXYMP",+
+
+// ground truth 
+or(repeatatleast(<cap>,6),concat(<low>,<m0>))

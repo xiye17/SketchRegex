@@ -1,0 +1,25 @@
+// example 
+"0",-
+"gdu",-
+"[",-
+"7M",-
+"AVHRVDLm",+
+"EOUQLf",+
+"HNQTSDHJAl",+
+"ITTl",+
+"\L)C=",-
+"",-
+"aj-L`",-
+"|:",-
+"NCWXu",+
+"Nb",+
+"MGz",+
+"VGFFIDUBi",+
+"Ujb",-
+"O&rO",-
+"y",+
+"{:~U",-
+"KDTWIYj",+
+
+// ground truth 
+concat(star(<cap>),<low>)

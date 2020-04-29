@@ -1,0 +1,25 @@
+// example 
+"cu",+
+"JgJZ",-
+"o",+
+"FE9V",+
+"Nuy",+
+"h#",-
+"d",-
+"oTVg.",+
+"H_)",-
+"",-
+"hf",-
+"ci",+
+"A=bes",+
+"hr=ZR",-
+"hr=Zh",-
+"4",+
+"!q`",+
+"FNBU",+
+"C",-
+"H_K",-
+"JgJj",-
+
+// ground truth 
+repeatatleast(contain(or(or(<m0>,<num>),<vow>)),1)

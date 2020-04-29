@@ -1,0 +1,17 @@
+// example 
+"zbXv<",+
+"a0NJx",+
+"qy",+
+"u",-
+"l",+
+"aS",+
+"b",+
+"",+
+"i",-
+"o05",+
+"iOU",+
+"jnI:",+
+"oxK>",+
+
+// ground truth 
+not(and(<vow>,<low>))

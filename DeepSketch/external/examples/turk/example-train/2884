@@ -1,0 +1,14 @@
+// example 
+"",+
+"#%\O#No}E",+
+"\<AV",+
+"h\NXR",+
+">/h",+
+"n9q5TAL",+
+"y",+
+"q}1iz?",+
+">]<{D.^t",+
+"dM",+
+
+// ground truth 
+star(contain(or(<cap>,<any>)))

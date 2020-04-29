@@ -1,0 +1,25 @@
+// example 
+"4Fv",-
+"hhhr",-
+"Io",+
+"lbe",+
+"e}sfi",+
+"uFDrr",+
+"Iu",+
+"d",-
+"hhhj",-
+"",-
+"aP~",+
+"fk",-
+"4F"",-
+"f",-
+"fg",-
+"e",+
+"hgvn{",-
+"e/%Q",+
+"ot,h",+
+"u",+
+"hgvnt",-
+
+// ground truth 
+contain(and(<low>,<vow>))

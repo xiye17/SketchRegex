@@ -1,0 +1,16 @@
+// example 
+"lE",+
+"ef",-
+"nOE",-
+"n3,/_",-
+"8",-
+"e}",-
+"ns|kE",-
+"la",+
+"nga",-
+"{lja",-
+"{UrD",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<let>),<m0>),<vow>)

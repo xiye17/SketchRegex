@@ -1,0 +1,17 @@
+// example 
+"n",+
+"b@t",+
+"]Hf",+
+"2",+
+"e",-
+"a",-
+"",+
+"eqqu",+
+"A4s'M",+
+"hk",+
+"ep",+
+"U#V4",+
+"Et-jZ",+
+
+// ground truth 
+or(not(<vow>),star(<m0>))

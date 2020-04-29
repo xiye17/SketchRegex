@@ -1,0 +1,14 @@
+// example 
+"",+
+"rW0@bE",+
+"BH)*[jJZ(",+
+"GO",+
+"S!2'4v$B",+
+"G{LuK",+
+"Du49eRh",+
+"cJf)",+
+"$",+
+"o#@",+
+
+// ground truth 
+startwith(star(concat(<low>,<vow>)))

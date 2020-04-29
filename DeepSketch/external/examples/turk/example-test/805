@@ -1,0 +1,17 @@
+// example 
+"mqMWv",-
+"GV",-
+"Km0d",-
+"m}6B@",-
+",",-
+"!z",+
+"G}",-
+"",-
+"K~4h",-
+"0fx",-
+"^+!",-
+"Pi",+
+"E",-
+
+// ground truth 
+concat(or(or(<m0>,<let>),<m1>),<low>)

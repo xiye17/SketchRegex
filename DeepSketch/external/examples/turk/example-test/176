@@ -1,0 +1,25 @@
+// example 
+"8s*7$C%",-
+"Z%ez",-
+".",-
+"!XY",+
+"rC4",-
+"T]!D[3",+
+"gA",-
+"c!}",+
+"!O",+
+"!",+
+"",-
+"}!Sv",+
+"X`5{WI",-
+"g6Ca+z/x(",-
+"e,O!y",+
+"!nRZ.X",+
+"G!",+
+"},R!",+
+"e,!Jf",+
+"l>*EB",-
+"YdTsf<BL",-
+
+// ground truth 
+contain(and(not(<vow>),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"po",+
+"RH",-
+"5,GD",-
+"IaIAa",+
+"qoF{`",-
+"pU",+
+"_",-
+"NiA",+
+"",-
+"eiEuIa",+
+"$",-
+"IaIAe",+
+"eiEuIu",+
+"]5%l",-
+">G",-
+"}_Q",-
+"]vz",-
+"Nie",+
+"aAeu",+
+"ql%ys",-
+"aAeA",+
+
+// ground truth 
+concat(<let>,repeatatleast(<vow>,1))

@@ -1,0 +1,17 @@
+// example 
+"Hw",-
+"5Y4e8",-
+"H5",-
+"4@",+
+"",-
+";",-
+"!@",+
+"8",-
+"OiV",-
+"5"iUr",-
+"O@o",-
+"Wj;[",-
+"&UrQ",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<num>),<m1>)

@@ -1,0 +1,16 @@
+// example 
+"k^d",-
+"`\",-
+"K`awF",-
+"S!",+
+"!%aYk",-
+"2%",-
+"W",-
+"LWts",-
+"%y9",-
+"L!{_",-
+"",-
+"b",-
+
+// ground truth 
+concat(and(<any>,<cap>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"q[hKz!",+
+"}|{",-
+"Aj^s{",-
+"qz}~",-
+"aP{O>mg!!",+
+"C~",-
+"sKNK!",+
+",{JlvX!",+
+"",-
+",{Jlvk!",+
+"CM",-
+"q[hKH!",+
+"]p{X_It!",+
+"aP{O>mgE!",+
+"R",-
+"}|1",-
+"qz}P",-
+"y",-
+"Aj^s_",-
+"sKNt!",+
+"]p{X_IV!",+
+
+// ground truth 
+concat(repeatatleast(contain(<let>),4),<m0>)

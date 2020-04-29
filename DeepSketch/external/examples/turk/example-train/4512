@@ -1,0 +1,17 @@
+// example 
+"EtXG",+
+"F",+
+"o7\dr",+
+"BA",+
+"u",-
+"Gm",+
+"Bi2",+
+"W",+
+"E4W",+
+"HYIfH",+
+"",+
+"A",-
+"MQ<E",+
+
+// ground truth 
+not(or(<vow>,<m0>))

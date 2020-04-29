@@ -1,0 +1,14 @@
+// example 
+"",+
+"fS9(+[",+
+"?0w05Nf?k",+
+"_@M57Ms",+
+"?UuPx",+
+"b",+
+"Qit",+
+"q>{fcDl(",+
+"`7",+
+"*7a]",+
+
+// ground truth 
+not(and(and(<let>,<low>),<cap>))

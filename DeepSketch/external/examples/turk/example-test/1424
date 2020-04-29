@@ -1,0 +1,25 @@
+// example 
+"1",-
+"5mkcarsth",+
+"9szmmqudxjehw",+
+"g5bR",-
+"1obaypswdt",+
+"*+",-
+"m",-
+"0tqgskqkkunpubl",+
+"4yrdxuib",+
+"1fvpzwrbppcyzmlft",+
+"*[M",-
+"5hclqgokvwjkghej",+
+"",-
+"9riaqvlumpwgey",+
+"zx:",-
+"yMYv.",-
+"9r",-
+"6Yf?",-
+"&sh6<",-
+"3bjpmiewvbbh",+
+"1bnndfurpns",+
+
+// ground truth 
+concat(<num>,repeatatleast(<low>,7))

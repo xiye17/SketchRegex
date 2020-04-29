@@ -1,0 +1,17 @@
+// example 
+"!AF",+
+"!",-
+"!eV",+
+"!B1K",-
+"",-
+"&",-
+"Kk[",-
+"!:",-
+"!o",-
+"!b,A=",-
+"!OF<e",-
+"!e7",-
+"!U~6",-
+
+// ground truth 
+concat(concat(<m0>,<vow>),<cap>)

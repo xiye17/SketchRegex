@@ -1,0 +1,25 @@
+// example 
+"|R!B",+
+";]_",-
+"K~\m!H",+
+"]{g!l",+
+"#{WW!tL",+
+"C!",-
+"LF!}l",-
+"K~\m!f",+
+"W",-
+"h`}_",-
+"^",-
+"",-
+"h`}e",-
+"LF!}}",-
+";]R",-
+"q!b",+
+"#{WW!KL",+
+"Cq",-
+"|R!e",+
+"]{g!X",+
+"q!V",+
+
+// ground truth 
+contain(concat(repeatatleast(<let>,1),concat(<m0>,repeatatleast(<let>,1))))

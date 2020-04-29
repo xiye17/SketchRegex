@@ -1,0 +1,25 @@
+// example 
+"UuA!",-
+"2ua",+
+"e!",-
+"UuO!",-
+"q#^",+
+"UVtIf",+
+"fi",+
+"OOEiI!",-
+"",+
+"u!",-
+"UI!t]",+
+"OOEiO!",-
+"UO!",-
+"ueuI!",-
+"Eeul",+
+"UU!",-
+"I",+
+"ZSx*",+
+"i%",+
+"A",+
+"ueue!",-
+
+// ground truth 
+not(concat(repeatatleast(<vow>,1),<m0>))

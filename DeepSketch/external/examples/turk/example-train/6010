@@ -1,0 +1,26 @@
+// example 
+"eypT",-
+"4L",+
+"tb1",-
+"uiaoOa",+
+"UoL<+",-
+"oOEaEIe",+
+"UAAAiAoE",+
+"",-
+"AaaAiEEIIe",+
+"eIaa",-
+"AaaAiEEIIi",+
+"EEaAAaiOa",+
+"zu",-
+"UAAAiAoe",+
+"EEaAAaiOo",+
+"A",-
+"w",-
+"NIc",-
+"uiaoOU",+
+"k*",-
+"UoOd&",-
+"oOEaEIO",+
+
+// ground truth 
+or(concat(<num>,<any>),repeatatleast(<vow>,6))

@@ -1,0 +1,17 @@
+// example 
+"JU_",-
+"Hu",+
+"o",-
+"2&dn",-
+"",-
+"N",-
+"Ho",+
+"rmk",-
+"UUn{",-
+"AS<th",-
+"A_G[\",-
+"Vk",-
+"V,",-
+
+// ground truth 
+concat(<cap>,<vow>)

@@ -1,0 +1,17 @@
+// example 
+"ar",-
+"O9ya",-
+"89.?",-
+"/",-
+"i!c",+
+"a!",-
+"O!*",-
+"O!$O+",-
+"_",-
+"",-
+"O>hx5",-
+"O!j",+
+"O!|",-
+
+// ground truth 
+concat(and(<any>,<vow>),concat(<m0>,<low>))

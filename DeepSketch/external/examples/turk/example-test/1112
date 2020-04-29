@@ -1,0 +1,25 @@
+// example 
+"&N4HH",-
+"iKB",-
+"&N4HB",-
+"U",+
+"KK",-
+"QKBb",-
+"Iv",+
+"K&UQ",+
+"",-
+"K&@U",+
+"SAR",+
+"QKB@",-
+"N",-
+"TU",+
+"KP",-
+"I",+
+"Oj4",+
+"&0BiE",+
+"x",-
+"&0BiI",+
+"iKM",-
+
+// ground truth 
+contain(and(and(<any>,<cap>),<vow>))

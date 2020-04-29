@@ -1,0 +1,17 @@
+// example 
+"]",-
+"W3",+
+"b]@",-
+"",-
+")",-
+"Y(",-
+"2=)K",-
+"%&]",-
+"CyBO",-
+"X6fUe",-
+"Yo",-
+"i6",+
+"X*Pqh",-
+
+// ground truth 
+concat(or(or(<vow>,<cap>),<let>),<num>)

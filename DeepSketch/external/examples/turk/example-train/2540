@@ -1,0 +1,25 @@
+// example 
+"!lO_",-
+"!z",-
+"!OgOf",+
+"!UQEPITaf",+
+"!UvFPY",+
+"!UworhCB",+
+"!",-
+")Ud\C",-
+"{h",-
+"",-
+"!o}",-
+"!OgOD",+
+"!eTMPqk",+
+"Q",-
+"!eTMPqT",+
+"!lO~",-
+"!`i|a",-
+"!UQEPITaW",+
+"!UworhCb",+
+"!UvFPn",+
+"!{L",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,4))

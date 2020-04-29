@@ -1,0 +1,14 @@
+// example 
+"",+
+"s`Yv\A",+
+"b+J@YU`O",+
+"s\",+
+"z"G",+
+"n?*f",+
+"*rl4#",+
+"5G^.0mC(*",+
+"pgi>nSK",+
+"}",+
+
+// ground truth 
+contain(or(star(<m0>),<any>))

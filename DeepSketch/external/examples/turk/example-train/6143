@@ -1,0 +1,25 @@
+// example 
+"C),?",-
+"Og",-
+"9>8I",-
+"DCIVQQu",+
+"RQAMV",+
+"JRZYGe",+
+"O2",-
+"GLFs",+
+"E7z",-
+"RQAM'",+
+"RDG",+
+"",-
+"[~J",-
+"U",-
+"\X"]X",-
+"Cs#NX",-
+"RDm",+
+"GLFR",+
+"JRZYG=",+
+"DCIVQQ/",+
+"z",-
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<any>)

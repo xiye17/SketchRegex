@@ -1,0 +1,26 @@
+// example 
+"t4",+
+"2oX",-
+"jk2",+
+"Q-lQ",-
+")2F:@",-
+"Q=Yy",-
+"puOuA7",+
+"1",+
+"~O",-
+"jD6",+
+"luQ0",+
+"",-
+"I6",+
+"\c&",-
+"$",-
+"N",-
+"xCyC9",+
+"?'",-
+"~kpDU",-
+"xCyh5",+
+"lux1",+
+"puOuv1",+
+
+// ground truth 
+concat(star(<let>),<num>)

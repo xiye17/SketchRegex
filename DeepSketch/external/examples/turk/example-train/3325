@@ -1,0 +1,25 @@
+// example 
+"IX",+
+"aJW",+
+"AYA%",+
+"Pttq",-
+"tz",-
+"O]$6?w",+
+"m3",-
+"m",-
+"psO_b",-
+"AJ",+
+"om;|e",+
+"U5XWPi",+
+"",-
+"gWA,(",-
+"wNk",-
+"s!Y",-
+"U",-
+"e7XV",+
+"u=C",+
+"Eqhc4",+
+"ghoQ",-
+
+// ground truth 
+startwith(concat(<vow>,<any>))

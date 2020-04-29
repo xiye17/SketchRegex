@@ -1,0 +1,17 @@
+// example 
+"T!",+
+"|r",-
+"V",-
+"bx",-
+"|hlC",-
+"-",-
+"Paf",-
+"W!voi",-
+"",-
+"J!_U",-
+"w!",+
+"W\O0_",-
+"P!)",-
+
+// ground truth 
+concat(and(<let>,<any>),<m0>)

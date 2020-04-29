@@ -1,0 +1,17 @@
+// example 
+"a!~",-
+"uC",-
+"o!Ty",-
+"=4j",-
+"U!Up-",-
+"E!b",+
+"",-
+"u!",-
+"E!M",+
+"otK[",-
+"U!%sI",-
+"A",-
+"D",-
+
+// ground truth 
+concat(concat(<vow>,<m0>),<let>)

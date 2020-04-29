@@ -1,0 +1,17 @@
+// example 
+"q",+
+"5I8",-
+"`!:x,",-
+"|w",-
+"AY_V",-
+"",-
+"&",-
+"Urt",-
+""7>Y",-
+"C>CaY",-
+"I",+
+"M",-
+"X0",-
+
+// ground truth 
+or(or(<vow>,<num>),<low>)

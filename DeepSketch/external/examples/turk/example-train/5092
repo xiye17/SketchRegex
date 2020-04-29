@@ -1,0 +1,18 @@
+// example 
+">S5dN",+
+"0=K+Wcs}'",+
+""",-
+"",-
+"|8bFAHV",+
+"@^Z!_Dl}",+
+""iw>L3QZvFIP<",+
+"?Wz",-
+"]n:B",+
+"|a",-
+"s'Iv~i",+
+"@]j&rA*mII?",+
+"lKntzf^udc",+
+"D<rs3U1H'/7%",+
+
+// ground truth 
+repeatatleast(or(<any>,<let>),4)

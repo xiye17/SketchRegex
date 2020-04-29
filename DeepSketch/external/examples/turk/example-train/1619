@@ -1,0 +1,26 @@
+// example 
+"NSf-J",-
+"UntC$B",-
+";kO5",+
+";kOk",+
+"c",+
+"L+e",+
+"53F",-
+"$",+
+"L+&",+
+"",+
+"\T",-
+"NSf{J",-
+"R6",+
+"C-E={",+
+"/L",-
+"UntCmV",-
+"Rd",+
+"5pV",-
+"C-E=3",+
+"=tOJ",-
+"E",-
+"=t6Y",-
+
+// ground truth 
+not(endwith(<cap>))

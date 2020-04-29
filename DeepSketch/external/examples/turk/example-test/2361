@@ -1,0 +1,25 @@
+// example 
+"a}E6]",-
+"AtzY",+
+"yi1",-
+"_Ep",+
+"ej{k|v",+
+"a}E6!",-
+"o9",-
+"e",-
+"",-
+"ou",+
+"5O*]",-
+"oV",+
+"ej{k|L",+
+"Ea\_P",+
+"_EX",+
+"U",-
+"Atzb",+
+"yi|",-
+"Ea\_k",+
+"5O*|",-
+"o^",-
+
+// ground truth 
+concat(repeatatleast(contain(<vow>),1),<let>)

@@ -1,0 +1,17 @@
+// example 
+"I!2",+
+"A!M",+
+"rL",-
+"N&[8}",-
+"",-
+"a!$E",-
+"f",-
+"Jr",-
+"nEi",-
+"r;U",-
+"ab@~",-
+"mX6Dt",-
+"~",-
+
+// ground truth 
+concat(concat(<vow>,<m0>),<any>)

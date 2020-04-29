@@ -1,0 +1,25 @@
+// example 
+"N}U|+",-
+"pBZ",-
+"KUXBgkfq",+
+"}`[L",-
+"$R1sA",-
+"HpQMFbaLZ",+
+"h]",-
+"n",-
+"pB^",-
+"X{(v",-
+"HmDTpg",+
+"fepDimJ",+
+"rFUJrWxQaV",+
+"",-
+"HmDTpU",+
+"KUXBgkfO",+
+"}q",-
+"fepDimh",+
+"HpQMFbaLa",+
+"@",-
+"rFUJrWxQam",+
+
+// ground truth 
+and(not(<m0>),repeatatleast(<let>,6))

@@ -1,0 +1,25 @@
+// example 
+"XRP1G3Z0T8N6X6N",+
+"U8T7U5J8N2Z4S.",+
+"hSZS!",-
+"|O@$hX2C8J5I7O1F0",+
+"hSZSs",-
+"U.S8P1S9K4E7J0",+
+"XR1L5E0J7F8Y4]j",+
+"x7c",-
+"",-
+"x7%",-
+"%",-
+":?vC7C7K8Q2L7L9P0Y",+
+"w@",-
+"wA",-
+"p*sEY2O9N4Q6O6R0",+
+"p*sE5I4L1P1E4J2w",+
+"P(;A",-
+"{",-
+"P(;?",-
+"|O9LT5L6A3Y9P2B0e",+
+":?vC7CU4E5C2T5I6V1",+
+
+// ground truth 
+contain(repeatatleast(concat(<cap>,<num>),6))

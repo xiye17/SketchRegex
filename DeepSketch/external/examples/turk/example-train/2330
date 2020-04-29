@@ -1,0 +1,25 @@
+// example 
+"jNT)`",-
+"Uo",-
+"G",+
+"u",-
+"CIu#B",-
+"a8i",-
+"OIEO",+
+"",-
+"Ug",-
+"a",-
+"Pu!",+
+"a!a",-
+",o1\",-
+"FO",+
+"Pi!",+
+"OIEI",+
+"FU",+
+"cLPg",-
+"J",+
+"u!U!E",+
+"u!U!D",+
+
+// ground truth 
+repeatatleast(or(concat(<vow>,<m0>),<cap>),1)

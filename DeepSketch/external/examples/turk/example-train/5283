@@ -1,0 +1,26 @@
+// example 
+"_P=0z",-
+"Ga1",+
+"\yI",-
+"<B0Eh",-
+"2",+
+"GX1",+
+"JeCC6",+
+"S8",+
+"}$",-
+"",-
+":UR",-
+"9qQQ",-
+"d6",+
+"CbTzg8",+
+"Ovq3",+
+"CbTzX4",+
+"!Y",-
+"!v=/",-
+"JeCo5",+
+"@",-
+"M",-
+"OvT4",+
+
+// ground truth 
+concat(star(<let>),<num>)

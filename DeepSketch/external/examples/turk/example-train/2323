@@ -1,0 +1,25 @@
+// example 
+"oTMVEg",+
+"o",-
+"^x4",-
+"FoLo^",-
+"_'",-
+"kfr=",-
+"kCR",+
+"\Kv*",-
+"",-
+"GB",+
+"oTMVEA",+
+"|P",-
+"FodC",+
+":",-
+"5v&;l",-
+"Gq",+
+"0CX",-
+"VBfEq",+
+"kCh",+
+"VBfEF",+
+"Fody",+
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),2)

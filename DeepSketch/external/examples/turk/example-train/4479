@@ -1,0 +1,25 @@
+// example 
+"YTK",-
+"Vl%5B",-
+"qen",-
+"1X",-
+"CIHNWRWHQt",+
+"WDDAXMDG",+
+"WDDAXMD~",+
+"~^~E",-
+"(",-
+"DQMQKEMMg",+
+"",-
+"u6",-
+"LKZOJRN",+
+"8K=@",-
+"N",-
+"NOBOOz",+
+"NOBOO#",+
+"LKZOJRw",+
+"CIHNWRWHQ9",+
+"VP<ff",-
+"DQMQKEMMJ",+
+
+// ground truth 
+concat(repeatatleast(<cap>,5),<any>)

@@ -1,0 +1,15 @@
+// example 
+"tJEC",-
+"|@",-
+"|a",-
+"jI-",-
+"~D",+
+"*$Aj:",-
+"*qisX",-
+"jc(",-
+"tnry",-
+"",-
+"'",-
+
+// ground truth 
+concat(or(or(<num>,<m0>),<any>),<cap>)

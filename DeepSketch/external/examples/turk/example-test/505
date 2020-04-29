@@ -1,0 +1,25 @@
+// example 
+"Ee",+
+"s",-
+">;1gj",-
+"Eu",+
+"*",-
+"MVa",+
+"}H&+",-
+"",-
+"ZI)J'",+
+"*nkg",-
+"LSITB2",+
+"hrN",-
+"g]6oy",-
+"3c6",-
+"MVA",+
+"HONH",+
+"HiM5",+
+"ZUpT#",+
+"LSpna)",+
+"`Y",-
+",s",-
+
+// ground truth 
+concat(<cap>,contain(<vow>))

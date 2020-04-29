@@ -1,0 +1,14 @@
+// example 
+"",+
+"<E;S-e",+
+";q",+
+"Ie{79",+
+"jo{h",+
+"O",+
+"09v>gc"n",+
+"TUW",+
+""TL&I!f",+
+"LV@RJ/2kX",+
+
+// ground truth 
+contain(or(not(<vow>),<low>))

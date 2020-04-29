@@ -1,0 +1,25 @@
+// example 
+"ESXc.|J",+
+"\",-
+""$FZ%6aRJ",+
+"+2",-
+"8~|",-
+"P5%"nB1ymAW",+
+"!n:E![TA",+
+"P5%"nB1ym3D",+
+"",-
+"PjC`eryajY",+
+"rafW-4",-
+"iwObvY",+
+"rafW-s",-
+"BfZ<BRk",-
+"!n:E![0Q",+
+"ESXc.'B",+
+"cia$",-
+""$FZ%6a,V",+
+"PjC`erya$N",+
+")iub`",-
+"BfZ<BR!",-
+
+// ground truth 
+concat(repeatatleast(<any>,5),<cap>)

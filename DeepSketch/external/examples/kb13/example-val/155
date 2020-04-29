@@ -1,0 +1,25 @@
+// example 
+"T!",-
+"!t",-
+"Hfw&!`",-
+"}!W",-
+"Hfw&a!",-
+"!",-
+"hZ~[",+
+"!yZj",-
+"7xaOk5G",+
+"Ss?4jkd^?",+
+"5m4C{",+
+"yAF!*",-
+"y!tyY",-
+"",+
+"DyE",+
+"kP",+
+"}8!",-
+"[S!x",-
+"y",+
+"j<CyB-",+
+"AS*&;62w",+
+
+// ground truth 
+not(contain(<m0>))

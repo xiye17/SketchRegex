@@ -1,0 +1,23 @@
+// example 
+"s!b!e!n!f!a!",+
+"t5",-
+"r!g!",-
+"u!k!a!",+
+"[",-
+"jvW",-
+"q!s!e!g!",+
+"p!v!v!g!n!t!e!",+
+"j!!",-
+"",-
+"}a",-
+"e!j!d!r!z!n!f!u!y!",+
+"wFwgY",-
+"q!n!j!c!r!m!u!p!d!c!",+
+"o!n!d!z!z!",+
+"}'r/Y",-
+"s!x!x!s!t!c!f!o!",+
+"~",-
+"}Y`w",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),3)

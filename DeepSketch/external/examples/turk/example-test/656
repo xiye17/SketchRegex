@@ -1,0 +1,18 @@
+// example 
+"p'y^;4|L",+
+"9qE",-
+"E2LKf;Xgdo9p",+
+"w[+0~qK:qy",+
+"}f<etI",+
+"",-
+"oFi-",+
+"&(wl#Q.",+
+"BgNAU",+
+"wA:j^3r1x",+
+"dWZD1h@YF73G@",+
+"=>",-
+":X[iaTS(CYU",+
+"D",-
+
+// ground truth 
+repeatatleast(or(<any>,<low>),4)

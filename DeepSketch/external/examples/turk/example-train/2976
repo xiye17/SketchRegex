@@ -1,0 +1,17 @@
+// example 
+"GT",+
+"n",+
+"cH4",+
+"+G-Mh",+
+"eY6H",+
+"",+
+"gF",+
+"f",+
+"Nd>+1",+
+"E<!&",+
+"A",-
+"g#x",+
+"I",-
+
+// ground truth 
+not(and(repeatatleast(<any>,1),<vow>))

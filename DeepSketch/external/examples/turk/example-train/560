@@ -1,0 +1,17 @@
+// example 
+"&L",-
+"eW([W",-
+"Cx",-
+"U+IP",-
+"l",-
+"bk$",-
+"",-
+"uk",+
+"a",-
+"Ux",+
+"MB2",-
+"Fc(S-",-
+"ektJ",-
+
+// ground truth 
+concat(<vow>,or(or(<num>,<any>),<m0>))

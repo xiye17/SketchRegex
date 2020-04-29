@@ -1,0 +1,25 @@
+// example 
+"6Qs3o9",+
+"?Q>l",-
+"]i",-
+"J\!KG",-
+"qco",+
+"62FCS8m",+
+"",-
+")",-
+"z0ocQ",+
+"lMLl",+
+"62FCS82",+
+"qc5",+
+"J<Tb8",-
+"6",-
+"6_Vf",-
+"6Qs3oU",+
+"5^/",-
+"z0oc9",+
+"-O",-
+"lMLL",+
+"_L!",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),3)

@@ -1,0 +1,25 @@
+// example 
+"O{^",-
+"euNa",-
+"O{a",-
+"p",-
+"DHa!",+
+"dI!",+
+"DHA!",+
+"dO!",+
+"",+
+"Op",-
+"i",-
+"Om",-
+"euNn",-
+"CvUUa!",+
+"hTdSp",-
+"A!",+
+"Rei!w",+
+"ReiO!",+
+"i!",+
+"CvUUi!",+
+"hTdSc",-
+
+// ground truth 
+star(contain(concat(<vow>,<m0>)))

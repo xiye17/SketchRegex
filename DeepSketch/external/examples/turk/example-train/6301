@@ -1,0 +1,15 @@
+// example 
+"o)bQ>|",+
+"&f",+
+"WT{",+
+"o",+
+"B,gNm<L",+
+"i)z7lz\9",+
+"x*k`",+
+"6~%s=",+
+"&4U>~V=DJH",+
+"a&Sgion4I",+
+"",-
+
+// ground truth 
+or(<m0>,endwith(<any>))

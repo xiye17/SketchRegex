@@ -1,0 +1,17 @@
+// example 
+"UFsX",+
+"gAz",+
+"Y",-
+"F^(V",+
+"SCfC7",+
+"]",+
+"kA",+
+"",+
+"Q",-
+"I2)BN",+
+"I",+
+"QT",+
+"Ih~",+
+
+// ground truth 
+or(not(<cap>),star(<vow>))

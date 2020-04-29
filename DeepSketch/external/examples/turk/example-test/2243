@@ -1,0 +1,20 @@
+// example 
+"uVI9}UwVv?a",+
+"W6/`|:{%",+
+"?B=t",-
+"YYi'@`EfLC9RAe5",+
+"`Y+,=v",+
+"Er:\@w*X(",+
+"\m)s?m>}yB%gJc",+
+"",-
+"_gtlyQ2",+
+"yd);+n\G1eYbn",+
+"w/,a-@fSaB",+
+"J3In$",-
+"j",-
+"un%}gjyD@[sB",+
+"C\",-
+"!:d",-
+
+// ground truth 
+repeatatleast(or(<any>,startwith(<num>)),6)

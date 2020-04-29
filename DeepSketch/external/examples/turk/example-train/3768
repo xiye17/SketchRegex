@@ -1,0 +1,17 @@
+// example 
+"Z",-
+"p0|B",-
+"e,,",-
+"",-
+"ecL",-
+"iyYG",-
+"lA",-
+"QM",-
+"RgBD)",-
+"iY",+
+"o|=e4",-
+"IY",+
+"E",-
+
+// ground truth 
+concat(and(<any>,<vow>),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"PZ",+
+"dohA",+
+"u",-
+"k",+
+"Hw7",+
+"",+
+"EY",+
+"t4{hV",+
+"Et]h",+
+"i",-
+"f>[",+
+"IQ|9T",+
+"z",+
+
+// ground truth 
+not(and(<let>,<vow>))

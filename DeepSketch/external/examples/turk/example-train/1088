@@ -1,0 +1,25 @@
+// example 
+"j"_L",-
+"jizqmU",+
+"kvihtyi",+
+"qN",-
+"ofxdaabo",+
+"H[)",-
+"crlusufczu",+
+"qm",-
+"jw~B",-
+"",-
+"mktcrlooa",+
+"jizqmu",+
+"mktcrloou",+
+"crlusufczU",+
+"kvihtyE",+
+"qXA",-
+"v0~b0",-
+"z",-
+"v|jI.",-
+"ofxdaaba",+
+"~",-
+
+// ground truth 
+concat(repeatatleast(<low>,5),<vow>)

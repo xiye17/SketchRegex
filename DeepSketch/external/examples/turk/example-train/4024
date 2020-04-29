@@ -1,0 +1,25 @@
+// example 
+"]",-
+"Il`",+
+"afjD",+
+"RpLX",+
+",n.m",-
+"_.>v#",-
+"bc^oj",+
+"",-
+"Bi",+
+"}",-
+"^-y&",-
+"`PP",-
+"S",+
+"!=",-
+"v",+
+"p>",+
+"+!I5w",-
+"\W",-
+"VJbbt",+
+"fkV",+
+"|-r",-
+
+// ground truth 
+or(repeatatleast(<cap>,1),startwith(<let>))

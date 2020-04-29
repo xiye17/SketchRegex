@@ -1,0 +1,24 @@
+// example 
+"XF(",-
+"x~",-
+"x&",-
+"Wulnkicxyei",+
+"9;oh",-
+"=vtlsoqqqc",+
+"(qsu",+
+"Sshkn",+
+"rlvDi",-
+"5gb",+
+"",-
+"b",-
+"Fbgngtmc",+
+"bukwwy",+
+"ftvdhxiyc",+
+"XlU",-
+"9vH=",-
+"rl|<:",-
+"rt",+
+"?zyvmip",+
+
+// ground truth 
+concat(or(<any>,<m0>),repeatatleast(<low>,1))

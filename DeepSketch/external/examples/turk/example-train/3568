@@ -1,0 +1,20 @@
+// example 
+"tUA]",-
+"P3*>;",-
+"g'1",-
+"Z%8Cw~!XEYy4",+
+"tBbuALlV",+
+"=,P:A#A35P'bX!B",+
+"_[if\G<ax!|uB2",+
+"z<<aqfSK,",+
+"*<Ag9#'a8]",+
+"]Cc'I*",+
+")m9sO#*",+
+"",-
+"D$",-
+"+Cel|Mx'WPLqZ",+
+"J",-
+"U,k18)."~ob",+
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),6)

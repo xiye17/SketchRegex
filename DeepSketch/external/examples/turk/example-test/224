@@ -1,0 +1,24 @@
+// example 
+"]aCie",+
+"-Egmia",+
+"Bg",-
+"Bd",-
+"tIWHN",-
+"FaqA",+
+"{e",+
+"",-
+"RDF",-
+"tIWHT",-
+"Faqa",+
+"NfUs",-
+":Mi",+
+":ME",+
+"RD!",-
+"{I",+
+"]aCiI",+
+"J",-
+"NfUT",-
+"-EgmiO",+
+
+// ground truth 
+concat(startwith(repeatatleast(<any>,1)),<vow>)

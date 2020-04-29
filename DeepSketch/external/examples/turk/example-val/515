@@ -1,0 +1,24 @@
+// example 
+"OiMN5",-
+".ICu7e",+
+"oAgs",-
+"obR`",-
+"OiMjY",-
+"tEAiBU2iwI,O",+
+"Hi#",-
+".ICu7O",+
+"=onE",+
+"|IRAOo*uIu",+
+"",-
+"=onI",+
+"Yp",-
+"YU",-
+"|IRAOo*uIU",+
+"GAYAKi6e",+
+"GAYAKi6O",+
+"HtI",-
+"tEAiBU2iwI,u",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),2)

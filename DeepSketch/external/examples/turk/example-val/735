@@ -1,0 +1,14 @@
+// example 
+"",+
+"h_K}+",+
+"]}=",+
+"e",+
+"j.g(o2",+
+"QA1^B?3KS",+
+"6~p(#5q",+
+"~N",+
+"_1pv+r4K",+
+")Y9"",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<low>))

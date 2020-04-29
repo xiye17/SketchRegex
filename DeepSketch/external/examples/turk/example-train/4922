@@ -1,0 +1,17 @@
+// example 
+"N!p{o",-
+"Kn",+
+"$XhK",-
+"KG",+
+"M!3",-
+"W",-
+"r~uz",-
+"",-
+")",-
+"Ma@",-
+"4V",-
+"V`",-
+"|vRsT",-
+
+// ground truth 
+concat(<cap>,or(or(<low>,<m0>),<let>))

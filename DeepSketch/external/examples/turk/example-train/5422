@@ -1,0 +1,25 @@
+// example 
+"o&JLJF",+
+"o&JL"N",+
+"HW3=",-
+"0r",-
+"HW3j",-
+"x*!},",-
+"d"PI",+
+"",-
+"d"zS",+
+"0=",-
+"XL",+
+"x*!}a",-
+"dR=OZ1N",+
+"/aMsI",+
+"dR=OZwT",+
+"JAG",+
+"J(V",+
+"B",-
+"4J6",-
+"/aMCQ",+
+"4Js",-
+
+// ground truth 
+concat(endwith(<any>),<cap>)

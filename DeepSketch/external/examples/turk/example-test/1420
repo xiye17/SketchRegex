@@ -1,0 +1,15 @@
+// example 
+"=v",+
+"-^04w",+
+"ne*r_L.#dS",+
+"Lm%E",+
+"YSnr@65",+
+"|:pbkW6A",+
+"U_;",+
+"`B!RO|",+
+"DlMS!i|9C",+
+"",-
+"A",+
+
+// ground truth 
+contain(or(or(<any>,<num>),<let>))

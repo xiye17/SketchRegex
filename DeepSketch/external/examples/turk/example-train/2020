@@ -1,0 +1,25 @@
+// example 
+"IA",+
+"pT/U",+
+"U{H{F",-
+"U}A~v",+
+"YGIB",-
+"U",+
+"pT/O",+
+"BHI",+
+"b",+
+"H_",-
+"EI]",-
+"U{H{Q",-
+"",-
+"Q",-
+"BHc",+
+"EIB",-
+"IO",+
+"U}A~U",+
+"YGIG",-
+"C",-
+"H~",-
+
+// ground truth 
+endwith(or(<low>,<vow>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"h~|O%",+
+"e\/&%f",+
+""j~",+
+"Bu9f04W9",+
+"g2IEg4o",+
+"KU",+
+"vMN%",+
+"4`I!bO83%",+
+"^",+
+
+// ground truth 
+endwith(or(not(<cap>),<vow>))

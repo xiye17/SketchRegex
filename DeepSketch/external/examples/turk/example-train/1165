@@ -1,0 +1,25 @@
+// example 
+"f!T{3",+
+"AOA",+
+"AOo",+
+"f7!KA",+
+"IK-m",-
+"h,!>",+
+"d",-
+"eI",+
+"",-
+"h!/n",+
+"Q#=aK",-
+"L%p@-",-
+"IL",-
+"P!",+
+"IUIH",-
+"O",+
+"eEf",-
+"w",-
+"eEx",-
+"A",+
+"I`",-
+
+// ground truth 
+or(repeatatleast(<vow>,1),contain(<m0>))

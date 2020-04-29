@@ -1,0 +1,15 @@
+// example 
+"",+
+"MQ*"",+
+"8i",+
+"j",-
+"@spLCl=Y",+
+"TGEl4n6",+
+"-I'-I!",+
+"%LX",+
+"H!'!,B*#G",+
+"'6NW)",+
+""1YUxT7`7o",+
+
+// ground truth 
+not(or(or(<low>,<num>),<any>))

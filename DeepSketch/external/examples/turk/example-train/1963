@@ -1,0 +1,26 @@
+// example 
+"O{"bEtcvrr",+
+"Uownthc",+
+"g3)evgne",+
+"c~}x",-
+"g3hdndrg",+
+"@XP",-
+"O{"b{ffepn",+
+"fxjut",+
+"",-
+"{hEv=",-
+"U~uonkl",+
+"rh",-
+"xjgstb",+
+"~jgsvn",+
+"S",-
+"@X{",-
+"c~}%",-
+"{{grngctm",+
+"r{",-
+"{hEva",-
+"{{g"cpsxs",+
+"~",-
+
+// ground truth 
+endwith(repeatatleast(<low>,5))

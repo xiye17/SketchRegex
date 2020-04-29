@@ -1,0 +1,17 @@
+// example 
+"<J:<",-
+"EcX",-
+"d",-
+"",-
+"EE^",-
+"qFY}",-
+"vX",-
+":EC{|",-
+"JETu;",-
+"A",-
+"LA",+
+"4m",-
+"Lu",+
+
+// ground truth 
+concat(<cap>,<vow>)

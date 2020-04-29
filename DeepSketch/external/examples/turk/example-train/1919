@@ -1,0 +1,14 @@
+// example 
+"",+
+",%",+
+"/~]23qeU",+
+"gP#",+
+"G/\q8",+
+"<sn>GyT",+
+"}_<%",+
+"zXV4AV",+
+"~",+
+"1cG|ACS?6",+
+
+// ground truth 
+not(and(and(<m0>,<low>),<any>))

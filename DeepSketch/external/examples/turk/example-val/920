@@ -1,0 +1,25 @@
+// example 
+"{dLQf",+
+"hAzv",+
+"IW",-
+"u",-
+"{z0PONz",+
+"~qjpwM",+
+"hAzE",+
+"Yi]%EUrj",+
+"Et`[",-
+"",-
+"Q",-
+"~qjpwh",+
+"`/-n-",-
+"Iw",-
+"{dLQH",+
+"`/-nA",-
+"{z0PONW",+
+"Q|^",-
+"Yi]%EUrY",+
+"Et`~",-
+"Q|Z",-
+
+// ground truth 
+endwith(repeatatleast(<let>,4))

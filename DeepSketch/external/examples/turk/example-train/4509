@@ -1,0 +1,17 @@
+// example 
+"3n",+
+"g4AF>",+
+"kg5",+
+"o",-
+"vSh",+
+"",+
+"i+5B",+
+"o)",+
+"d",+
+"Fx)$Q",+
+"U",-
+"P",+
+"J\`\",+
+
+// ground truth 
+not(or(and(<m0>,<let>),<vow>))

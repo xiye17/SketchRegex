@@ -1,0 +1,25 @@
+// example 
+"tqo",+
+"pgmd",-
+"su3iQ",+
+"ju",+
+"png~k",-
+"!z",-
+"o",+
+"png~p",-
+"a",+
+"ji",+
+"p{p",-
+"p{k",-
+"",-
+"8",-
+"j",-
+"tqe",+
+"~eTD",+
+"~Ga$",+
+"sru+D",+
+"pgmr",-
+"!j",-
+
+// ground truth 
+contain(and(and(<vow>,<low>),<let>))

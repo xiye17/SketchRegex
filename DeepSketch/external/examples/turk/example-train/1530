@@ -1,0 +1,24 @@
+// example 
+"1g1m2k2s1e",+
+"8d0m5k8n3z6z8q",+
+"9g1k9a",+
+"0i8z4q1n1h4o1g6b",+
+"9g3u9u3f9n0y",+
+"9f6u7g6a8m9d7u6i2z3x",+
+"8e3y2l7v9k6o5m8x7i",+
+"-",-
+"5|,",-
+"",-
+"3i5k-",-
+"7a",-
+"0{#Z",-
+"0,2B",-
+"1f3j",+
+"5m3w5k6h",+
+"-*",-
+"z0Mtz",-
+"H1X",-
+"~",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),2)

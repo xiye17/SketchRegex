@@ -1,0 +1,16 @@
+// example 
+"\",-
+"WlL",-
+"I4P=*",-
+"U3K",+
+"I2RH",-
+"'HCq",-
+"?",-
+"j}",-
+"]|R",-
+";ZU{G",-
+"",-
+"R4",-
+
+// ground truth 
+concat(concat(<cap>,<num>),<any>)

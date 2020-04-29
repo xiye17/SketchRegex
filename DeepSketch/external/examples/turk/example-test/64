@@ -1,0 +1,24 @@
+// example 
+"CWO6Ds",+
+"0",-
+"~W3V",-
+"FiWePrZ^WXJ,CG",+
+"~7A",-
+"FbHR",+
+"J5S~OKH>PqY2T_Y+",+
+"9;X5",-
+"N'V|I$O4",+
+"_",-
+"nX",-
+"FMEa/",-
+"",-
+"F[OKMhIvGtTpE9C[Z3A`",+
+"USZEC!Z\USEUVSF#UC",+
+"T4Y0W*YcOi",+
+";A",-
+"@*A",-
+"FMdiD",-
+"U-E&G<G-WIE+",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),2)

@@ -1,0 +1,25 @@
+// example 
+"3MSCXZMK",+
+"6TZKOLGFAHXYC",+
+"7FFPZADSC",+
+"V",-
+"%4o9",-
+"0RXCFIQJNWLI",+
+"5PUMSAUJOVIKSR",+
+"2LKHSLOQMBQXULXLG",+
+"7GIALYMVHK",+
+"",-
+"]8F0`",-
+"&",-
+"%<P9b",-
+")$",-
+"/0G",-
+"A}",-
+"3UIKFHWOXXO",+
+"3QSVRTFOMZKXRHM",+
+"5DRQQYMMRLBHUGYU",+
+"N(]a",-
+"btO",-
+
+// ground truth 
+concat(<num>,repeatatleast(<cap>,7))

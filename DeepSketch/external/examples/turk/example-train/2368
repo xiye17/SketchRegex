@@ -1,0 +1,26 @@
+// example 
+"!IZ",+
+"G^9",-
+"G^!",-
+"&s",-
+"!0$Ah|\",+
+"b>g!z",+
+"5",-
+"G!R2Ez",+
+"KwQ*",-
+"!",-
+"!K?,79",+
+"&!",-
+"b!D=M",+
+"",-
+"!H",+
+"J!o1x2+",+
+"KwQ!",-
+"gB!6",+
+"zaGS!",-
+"g!SA",+
+"zaGSd",-
+"Z!}",+
+
+// ground truth 
+contain(concat(<m0>,<any>))

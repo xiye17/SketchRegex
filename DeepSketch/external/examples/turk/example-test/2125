@@ -1,0 +1,14 @@
+// example 
+"",+
+"w3`",+
+"w1b?!F,",+
+"L",+
+"!cT}|",+
+"ggrvcV",+
+"^dlL&*e+M",+
+"V`",+
+"TOrD",+
+"JtH:Y5RI",+
+
+// ground truth 
+contain(or(<num>,not(<vow>)))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"!j",+
+"|",-
+"\lnK:",+
+"!9J",+
+"N\(",+
+"!",+
+"/L4t",+
+"!{ZW",+
+"L;",+
+"!Q<'q",+
+
+// ground truth 
+concat(star(<m0>),not(<any>))

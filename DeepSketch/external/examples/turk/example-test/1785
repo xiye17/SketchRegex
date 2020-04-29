@@ -1,0 +1,25 @@
+// example 
+"Kpw!ZN",+
+"Jq&",-
+"Kpw!Zy",+
+"wu!!v!Gfkq",+
+"\B",-
+"xhLI",-
+"D!!rHcP",+
+"",-
+"}@{",-
+"!O!gFuNzC",+
+"!!Z!CY!V",+
+"~{]Gi",-
+"_GuF",-
+"_@TN#",-
+"x",-
+"|'",-
+"!!Z!CY!g",+
+"!O!gFuNz!",+
+"wu!!v!GfkA",+
+"D!!rHcs",+
+"E",-
+
+// ground truth 
+repeatatleast(or(and(<any>,<let>),<m0>),6)

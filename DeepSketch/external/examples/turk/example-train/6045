@@ -1,0 +1,25 @@
+// example 
+"eohA",-
+"Deyvu9",+
+"didEV",-
+"BEw",-
+"eohP",-
+"AiI3",+
+"IfOu3",+
+"e",-
+"eK",-
+"",-
+"O5",+
+"IfOU8",+
+"Deyvo8",+
+"eE",-
+"AiE9",+
+"IU7",+
+"BEU",-
+"IA7",+
+"{",-
+"didEg",-
+"A0",+
+
+// ground truth 
+contain(concat(<vow>,<num>))

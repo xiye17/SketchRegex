@@ -1,0 +1,15 @@
+// example 
+"I4:fcu&wY",-
+"]RB#GGBkLK",-
+"@$d[]Cjy",-
+"t$V",-
+"X:8:",-
+"4+#om",-
+"ja",-
+"",-
+",9!'7T",-
+":"(wACg",-
+"#",+
+
+// ground truth 
+or(or(<num>,<any>),<cap>)

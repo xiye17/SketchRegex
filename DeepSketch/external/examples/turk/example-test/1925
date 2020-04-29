@@ -1,0 +1,25 @@
+// example 
+"F",-
+"34oU'<",+
+">#,4L",-
+"2k&}",+
+".5&",-
+"2UJ",+
+"7'kN}6s)N3",+
+"+Iac",-
+"1m52b",+
+"&8("E",-
+"",-
+"'",-
+"8J",+
+"`C",-
+"7",+
+"7~z"<DHH",+
+"2o~XX'`L~",+
+"|Hw.",-
+"+h",-
+"9Y2wWZs",+
+"sgb",-
+
+// ground truth 
+concat(startwith(<num>),not(<vow>))

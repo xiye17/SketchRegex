@@ -1,0 +1,25 @@
+// example 
+"e@E8E",+
+"o2",+
+"Kp",-
+"skmoz",-
+"u~9&Ke",+
+"~5bE",-
+"IH",+
+"_",-
+"a~2",+
+"",-
+"t&G",-
+"IJy^",+
+"UMGR",+
+"amv#:",+
+"BI\",-
+"h",-
+"RVQ9?",-
+"T?",-
+"SaB^",-
+"OmB",+
+"eoXFAh",+
+
+// ground truth 
+concat(<vow>,contain(<any>))

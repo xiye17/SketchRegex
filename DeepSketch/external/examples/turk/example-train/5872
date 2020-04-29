@@ -1,0 +1,15 @@
+// example 
+"Ivy",-
+";}F4m?fVG",-
+"#;R`v&R,",-
+"S",+
+"K{!:\(k",-
+"/oA,",-
+"s=&a+.mq>]",-
+"`@",-
+"#-asr2",-
+"",-
+"0]Aq-",-
+
+// ground truth 
+or(or(<vow>,<cap>),<any>)

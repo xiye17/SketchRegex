@@ -1,0 +1,16 @@
+// example 
+"Zz%",-
+"3Dkh",-
+"5O",-
+"AD",+
+"}9",-
+"mdJ",-
+"m",-
+"Z+Nxg",-
+"-",-
+"2T*eh",-
+"",-
+"CQ_W",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<let>),<m0>))

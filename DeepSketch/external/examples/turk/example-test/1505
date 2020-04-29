@@ -1,0 +1,24 @@
+// example 
+"!+f_HH&4",+
+"oALh^FQl",-
+"~[C",-
+"/gB[l",-
+"xH`'!Oj",-
+"!j@Gi",+
+"!",+
+"!nchizj",+
+"!D,D",+
+"",-
+"!W,",+
+"Q",-
+"!l",+
+"%j9e_AxdE",-
+"!_&>8.",+
+"[K",-
+"\x:u@}",-
+"*bD,",-
+"!.SevLj!l",+
+"!oD|D'G!RN",+
+
+// ground truth 
+concat(startwith(<m0>),not(<let>))

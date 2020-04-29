@@ -1,0 +1,26 @@
+// example 
+"G",-
+"u{%<fnayw",+
+"lnusjl",+
+"u{%~oemgu",+
+"ba}c",-
+"-D~'~kajxmd",+
+"O`~a{",-
+"{hmjaoy",+
+"}8z`~oeaqy",+
+"ba}G",-
+"O`~aX",-
+"-D~'n'lvove",+
+"}8z`bLfpso",+
+"",-
+"tn|",-
+"~~",-
+"|",-
+"~*",-
+"tni",-
+",reoezi",+
+"&@jyzcxe",+
+"&g}cosbw",+
+
+// ground truth 
+repeatatleast(contain(<low>),6)

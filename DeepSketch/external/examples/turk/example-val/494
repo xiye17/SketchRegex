@@ -1,0 +1,25 @@
+// example 
+"{8",-
+"}n]",-
+"XA}k",-
+"NhN",+
+"`M",-
+"SY",+
+"nAUi",+
+"k",+
+"]%U5q",-
+"Sd",+
+"QqMSI",+
+"",-
+"`",-
+"XA[r",-
+"}",-
+"<:x",-
+"nAUF",+
+"QqMSr",+
+"Nhx",+
+"C",+
+"}MFSY",-
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),1)

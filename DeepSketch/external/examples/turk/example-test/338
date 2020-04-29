@@ -1,0 +1,25 @@
+// example 
+"E",+
+"c7/BM",-
+"{uE<",-
+"F.Q",-
+"X",-
+"i([hQ",+
+"~2@",-
+"i}",+
+"",-
+"TWHVf",-
+"j",-
+"i",+
+"i{ytK",+
+"af",-
+"oxDz",+
+"i$",+
+"Ia2",+
+"o{U!",+
+"d@9^",-
+"|^",-
+"I{=",+
+
+// ground truth 
+concat(<vow>,not(<low>))

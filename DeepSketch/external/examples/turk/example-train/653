@@ -1,0 +1,26 @@
+// example 
+"EKl)l!",+
+"u",-
+"i~",-
+"!",+
+"r!S",+
+"e",-
+"a{Zh!",+
+"",-
+"U^_J4",-
+"EKl)!>",+
+"r5!",+
+"Ie",+
+"a{!7H",+
+"A4!7",+
+""fPe",-
+"u2w",-
+"uV2",-
+"A4>!",+
+"i^",-
+"IZ",+
+"RDV#",-
+"U~)gm",-
+
+// ground truth 
+or(contain(<m0>),concat(<vow>,<let>))

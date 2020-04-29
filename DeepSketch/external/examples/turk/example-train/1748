@@ -1,0 +1,25 @@
+// example 
+"IB",+
+"iFNR",+
+"u",-
+"a{"G$",-
+"uKB:",-
+"uK<~",-
+"Iv",+
+"itw",+
+"",-
+"eEbTn",+
+"K@",-
+"IA}",-
+"itP",+
+"AyXAZb",+
+"a'5=~",-
+"eEbTG",+
+"A",-
+"iFNy",+
+"IA3",-
+"AyXAZN",+
+"Xe",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<let>,1))

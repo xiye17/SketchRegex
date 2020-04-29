@@ -1,0 +1,25 @@
+// example 
+"E",+
+"G",-
+"eizz",+
+"uU",+
+"a",+
+"ue",+
+"xU6",-
+"iEs",+
+"",-
+")",-
+"AP",-
+"fx-^",-
+"mkN_,",-
+"e[_(",+
+"GL&N)",-
+"od3JR",+
+"?5Hy",-
+"iG_",+
+"ok&.C",+
+"Ac",-
+"BxH",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),not(<let>))

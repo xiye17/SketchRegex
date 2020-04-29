@@ -1,0 +1,17 @@
+// example 
+"[",+
+"5O;V",+
+"#r>",+
+"<G",+
+"ImfH^",+
+"m",-
+"dhS",+
+"",+
+"7",-
+"nO+|#",+
+"Pv",+
+"dwaS",+
+"{",+
+
+// ground truth 
+not(or(or(<low>,<num>),<let>))

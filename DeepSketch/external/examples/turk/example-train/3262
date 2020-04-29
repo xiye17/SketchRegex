@@ -1,0 +1,26 @@
+// example 
+"iGcIO!",+
+"i@}",-
+"Eo@",+
+"eoJe!",+
+"riwDK",-
+"@uA@",+
+"riwDO",-
+"eoJ@@",+
+"@uA!",+
+"",-
+"c",-
+"i@r",-
+"Ba!i",-
+"Eo!",+
+"Ba!e",-
+"A",-
+"iGcIq@",+
+"WO",-
+"WA",-
+"J@",+
+"h@",+
+"@",+
+
+// ground truth 
+endwith(or(concat(<vow>,<m0>),<m1>))

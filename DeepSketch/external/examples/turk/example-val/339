@@ -1,0 +1,25 @@
+// example 
+"!gsgkici",+
+"!]",-
+"!C:iU",-
+"!",-
+"!tqlrnmtetnipyv",+
+"eG",-
+"!s}",-
+"-",-
+"!|/K",-
+"!snsbrv",+
+"",-
+"!hlxgfyzod",+
+"!sL",-
+"!ntoxz",+
+"!wmvddktfvzwf",+
+"Zqy!F",-
+"!pkabctfxppxke",+
+"!ifotvclhfgr",+
+"!ndfqnaij",+
+"!kenysbqwnd",+
+"!ZnX",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<low>,5))

@@ -1,0 +1,25 @@
+// example 
+"!zq",+
+"!"",-
+"!xgaIip",+
+"!zQ",+
+"GK#qn",-
+"!",+
+"!y=F'",-
+"!,U",-
+"",-
+"!zWxyjUqn",+
+"!z%",-
+"!rGpP",+
+"!rGpl",+
+"!nRbqxJzQls",+
+"!xgaIiZ",+
+"x",-
+"6/",-
+"B4B)",-
+"!zWxyjUqI",+
+"!nRbqxJzQlC",+
+"!X.x",-
+
+// ground truth 
+concat(<m0>,star(concat(<low>,<let>)))

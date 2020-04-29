@@ -1,0 +1,15 @@
+// example 
+"_h{",+
+"f71`O",+
+"$co@V'A9{",+
+"#(\83d)+Dv",+
+"%nSGj0~5",+
+"-r",+
+"nBMc",+
+"712hsn[",+
+"<",+
+"e[tkM_",+
+"",-
+
+// ground truth 
+concat(startwith(<any>),star(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"#N!Sd4X",+
+"#N@&!x.",+
+"]gT",-
+"7$^!",+
+"/kJ!!"",+
+"q",-
+"L.!b_",+
+"q!d",+
+"(g~;.",-
+"",-
+"RKmLqt",-
+"7$!D",+
+"L.K!{",+
+"Gy/R",-
+"`Oj;w2ssy",-
+"bfdQ:6YA",-
+"qn!",+
+"+!",+
+"/kJu!!",+
+"\V",-
+".R`o6-X",-
+
+// ground truth 
+endwith(contain(concat(<any>,<m0>)))

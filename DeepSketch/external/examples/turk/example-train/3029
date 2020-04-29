@@ -1,0 +1,17 @@
+// example 
+"o",-
+",mx=",-
+"HXX",-
+"aN",+
+"I=",+
+"",-
+">o",-
+"R]]FH",-
+"Est?",-
+"qCN%^",-
+"yM",-
+"E",-
+"2Do",-
+
+// ground truth 
+concat(<vow>,<any>)

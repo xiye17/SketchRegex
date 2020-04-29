@@ -1,0 +1,25 @@
+// example 
+"{oD",+
+"FL9EuB",+
+"|r\",-
+"d[;I~",+
+"'];p}",-
+"F_5{~X",+
+"W~&`",-
+"{ol",+
+"",-
+"|r8",-
+"{}ig",+
+"d[;1m",+
+"FJ",+
+"M",-
+"Fz",+
+"{}iF",+
+"{",-
+"<]",-
+"W~&{",-
+"'];p_",-
+"<X",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),2)

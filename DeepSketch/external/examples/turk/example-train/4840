@@ -1,0 +1,15 @@
+// example 
+"XCx?lf",+
+"U"!:LA,",+
+"D",+
+"}Zrt",+
+"XzY)fxRVy",+
+"ekL",+
+"cI]2WeRR;w",+
+"uPygG",+
+")x",+
+"XFLrfZsx",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<let>),<vow>))

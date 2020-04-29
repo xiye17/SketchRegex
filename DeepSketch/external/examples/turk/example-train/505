@@ -1,0 +1,16 @@
+// example 
+"0=",-
+"|Qdug",-
+"+bH3",-
+"i",-
+"4A?",-
+"c!D",+
+"g!aB",-
+"g6",-
+"~z\",-
+"(%%Rb",-
+"",-
+"~",-
+
+// ground truth 
+concat(<low>,concat(<m0>,<cap>))

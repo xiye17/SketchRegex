@@ -1,0 +1,26 @@
+// example 
+"oW~bQtmgw",-
+"a",+
+"($)J3",+
+"u.",+
+"{)",+
+"q|nnfvs",-
+"u}{m}rvanzn",-
+"",+
+"c|Asb",+
+"qMrrwxj",-
+"y{IP",+
+"n{h;kvqz",-
+"y{I}",+
+"oW~Sizzom",-
+"a{}",+
+"f~Qs|mYmao",-
+"viatoz",-
+"a{3",+
+"n{|ozxsd",-
+"~",+
+"u}{m}rva~`s",-
+"f~Qs|@vboz",-
+
+// ground truth 
+not(repeatatleast(startwith(<low>),6))

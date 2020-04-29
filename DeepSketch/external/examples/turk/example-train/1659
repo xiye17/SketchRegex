@@ -1,0 +1,23 @@
+// example 
+"!)a$",-
+"!z!L!h!Z!S!W!c!e",+
+"!m!l!M!u!D!o!F!D!N",+
+"!J!v!h!m!O!O!Q",+
+"!d!>",-
+"!~G^~",-
+"!",-
+"!{n",-
+"",-
+"!s!D!A!i!o!L!a!l!F!R",+
+"|dFuc",-
+"![]",-
+"i",-
+";E",-
+"!s!D!A!i!o!L!a!l!F!n",+
+"!z!L!h!Z!S!W!c!W",+
+"!m!l!M!u!D!o!F!D!e",+
+"!J!v!h!m!O!O!c",+
+"!,",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<let>),7)

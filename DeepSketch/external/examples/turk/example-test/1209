@@ -1,0 +1,15 @@
+// example 
+"",+
+"!$s",+
+"!vV{j",+
+"Y",+
+"!"",-
+"!uK"",+
+"PIQ",+
+"(rU)",+
+"!",+
+"2XJ|6",+
+""b",+
+
+// ground truth 
+not(concat(<m0>,<any>))

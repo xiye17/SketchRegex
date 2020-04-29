@@ -1,0 +1,26 @@
+// example 
+"C5",+
+"6X<l\",-
+"PL8",+
+"q",-
+"rH",-
+"kXC7",+
+"xZ8",+
+"/P@",-
+"8jJu",-
+"8jJ?",-
+"6X<l)",-
+"",-
+"kdF8",+
+"W>g-YG3",+
+"N<z*I6",+
+"N<zhF7",+
+"S",-
+"W>g-cU6",+
+"A{KE9",+
+"A{0D0",+
+"r9",-
+"/P(",-
+
+// ground truth 
+endwith(concat(<cap>,<num>))

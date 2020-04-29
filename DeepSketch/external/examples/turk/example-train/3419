@@ -1,0 +1,17 @@
+// example 
+"!@c",+
+"Lb",+
+"!",-
+"Nf+",+
+"",+
+"oB",+
+"NkFka",+
+"!^3Q",+
+"{nY?Q",+
+"}7PH",+
+"=",+
+"H",-
+"}",+
+
+// ground truth 
+not(or(or(<let>,<m0>),<cap>))

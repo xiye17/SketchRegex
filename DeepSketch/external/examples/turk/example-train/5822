@@ -1,0 +1,25 @@
+// example 
+"UaAUO",+
+"ebUa",+
+"JuaDE",-
+"ebUI",+
+"IG",+
+"eIL",+
+"eIO",+
+"",-
+"IL",+
+"iovo",-
+"JuaD=",-
+"DTI",-
+"iovB",-
+"QGuoo}",+
+"R",-
+"3S",-
+"3H",-
+"UaAUi",+
+"{",-
+"DTa",-
+"QGuooi",+
+
+// ground truth 
+endwith(concat(<vow>,<any>))

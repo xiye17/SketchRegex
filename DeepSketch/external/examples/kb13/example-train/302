@@ -1,0 +1,25 @@
+// example 
+"&t",-
+"%O58<",+
+"I8*%",-
+"grbE5",-
+"I8*o",-
+"",-
+"O--1U2",+
+"P",-
+"O80",+
+"&i",-
+"RU70",+
+"grbEq",-
+"U06",+
+"U",-
+"dI1-K-9",+
+"@<e",-
+"Re42",+
+"%O5M9",+
+"@<p",-
+"dI1-K{8",+
+"O--e68",+
+
+// ground truth 
+and(contain(<vow>),repeat(contain(<num>),2))

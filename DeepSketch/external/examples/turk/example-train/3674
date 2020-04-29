@@ -1,0 +1,16 @@
+// example 
+"jKK",+
+"}5B",-
+"|",-
+"aDFr&",-
+"-~",-
+"m",-
+"xX",-
+"LcaV",-
+"~I{T",-
+"|6JhL",-
+"",-
+"0D|",-
+
+// ground truth 
+concat(<low>,concat(<any>,<cap>))

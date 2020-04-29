@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(concat(<any>,<low>),star(<m0>))

@@ -1,0 +1,17 @@
+// example 
+"]4i",-
+"?wk",-
+"VSF<h",-
+"[l",-
+"!L",+
+"AK",+
+"",-
+"]Iu6",-
+".WK1P",-
+"B#Q:",-
+"w",-
+"{",-
+"!1",-
+
+// ground truth 
+concat(or(or(<let>,<m0>),<m1>),<cap>)

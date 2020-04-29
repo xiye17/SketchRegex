@@ -1,0 +1,16 @@
+// example 
+"BgWCyz3E=Eu",+
+"g",-
+"j(b-NZt{HW",+
+"ST",+
+"auBR}",+
+"pq{",+
+"WZg_<8",+
+"6Kz5=7fw",+
+"^\02QF0)"",+
+"IkX\",+
+"",-
+"X-Z"!\;",+
+
+// ground truth 
+repeatatleast(or(<any>,<let>),2)

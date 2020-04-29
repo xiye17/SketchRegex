@@ -1,0 +1,15 @@
+// example 
+"7FODC.",+
+"\W{{]6+'^t",+
+"9:V{M'At3",+
+"_F",+
+"`",+
+"XhEv",+
+"Ji*|Regs",+
+"[E_",+
+"gKY|;}c",+
+"",-
+"FIV,M",+
+
+// ground truth 
+repeatatleast(or(startwith(<cap>),<any>),1)

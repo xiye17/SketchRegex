@@ -1,0 +1,25 @@
+// example 
+"N!!X!!!",+
+"!PH!VD!Ckf,",+
+"};",-
+"E:^z",-
+"!PH!VDuloJ!",+
+"!",-
+"Ae!!j!TCj",+
+"E}Oy",-
+"N!!X!!u",+
+"^",-
+"cp^",-
+"",-
+"Ae!!j!!8m",+
+"Ka!!!fQ{fI",+
+"A}o%a",-
+"W!!J!w!a",+
+"Ka!!!fej&4",+
+"[v",-
+"W!!J!wKZ",+
+"cpx",-
+"AMs{r",-
+
+// ground truth 
+startwith(repeatatleast(or(<m0>,<let>),7))

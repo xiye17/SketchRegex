@@ -1,0 +1,25 @@
+// example 
+"WCYEHMIRWXPJKTDOg",+
+"TjlN",-
+"}9=6n",-
+"&{!f{",-
+"GWLNPBHAEFVMIIMr",+
+"Y",-
+"1Xn",-
+"@b",-
+"KOEIBDMKLDEq",+
+"MHAWMECRGKf",+
+""",-
+"",-
+"TMCC",-
+"JNPHYSUCt",+
+"eW",-
+"OIANNJOESAQHLn",+
+"WNNYDFMh",+
+"WHUBDTCSETQDw",+
+"EHFFFJVPFDIZNXn",+
+"WFHTXIGELy",+
+"O)E",-
+
+// ground truth 
+concat(repeatatleast(<cap>,7),<low>)

@@ -1,0 +1,18 @@
+// examples
+"2aa",+
+"2ab",+
+"1aaaaa",+
+"1cat",+
+"1fish",+
+"2fish",+
+"7hearts",+
+"redfish",-
+"blue fish",-
+",,,",-
+"",-
+"a1cat",-
+"yay!",-
+"numeral counts a number with more than one character",-
+
+// ground truth 
+concat(<num>,contain(repeatatleast(<let>,2)))

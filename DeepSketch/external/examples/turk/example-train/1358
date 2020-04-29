@@ -1,0 +1,25 @@
+// example 
+"V2I",+
+"Z",+
+"-&u{",-
+"f8&%4",+
+"})2",-
+"_Jaf)",-
+"|v",-
+"zpS0",+
+"!",-
+"I9K*u",+
+".IIRw",-
+"",-
+"[1f4",-
+"|",-
+"7)",-
+"f>B",+
+"Lf^%",+
+"\5;",-
+"z6",+
+"y",+
+"Aj",+
+
+// ground truth 
+startwith(or(repeatatleast(<low>,1),<cap>))

@@ -1,0 +1,25 @@
+// example 
+"egika",-
+"oKoke]",+
+"l",-
+"7Pfi",-
+"oia",+
+"",-
+"af[",-
+"oKokem",+
+"b",-
+"egik=",-
+"Ia",+
+"afo",-
+"Id",+
+"oiI",+
+"WsLuu",+
+"7Pfl",-
+"eeWs",+
+"WsLuh",+
+"ch",-
+"cs",-
+"eeWe",+
+
+// ground truth 
+concat(endwith(or(<cap>,<vow>)),<any>)

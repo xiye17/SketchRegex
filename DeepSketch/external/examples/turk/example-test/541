@@ -1,0 +1,14 @@
+// example 
+"",+
+"KL#1[Dt+Q",+
+"!Q",+
+"W|a!j>",+
+"1",+
+"{dxAGqX",+
+"c-PWqU37",+
+"&#%Q",+
+"XH@5J",+
+"R'W",+
+
+// ground truth 
+not(and(<m0>,<low>))

@@ -1,0 +1,15 @@
+// example 
+"%",-
+"4tB",-
+"!BrsO",-
+"!a&",-
+"!w.y",-
+",C:J",-
+"!",-
+"!L",+
+"R6",-
+"",-
+";~Kf/",-
+
+// ground truth 
+concat(<m0>,or(or(<m1>,<any>),<vow>))

@@ -1,0 +1,17 @@
+// example 
+"r",+
+"dZ",+
+"ip",+
+"gL^<W",+
+">:9",+
+"b",+
+"8#XW{",+
+"e",-
+"",+
+"X4Xt",+
+"i",-
+"i{zY",+
+"z#:",+
+
+// ground truth 
+not(and(and(<vow>,<low>),<let>))

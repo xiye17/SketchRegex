@@ -1,0 +1,16 @@
+// example 
+"",+
+"G",-
+"=ME",+
+"wBr",+
+"Bd>.Q",+
+"YucZ",+
+"iZ",+
+"\",+
+"$",+
+"4D",+
+"4&ON",+
+":Nsh&",+
+
+// ground truth 
+not(or(and(<m0>,<low>),<cap>))

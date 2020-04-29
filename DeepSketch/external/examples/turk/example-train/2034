@@ -1,0 +1,26 @@
+// example 
+"@{L",+
+"SO|jU",+
+"Ch7~~s",-
+"SB",+
+"|xW",+
+"Ch7~gi",-
+"V",+
+"ZJp",-
+"Z}v",-
+"BTJZx",-
+"",+
+"d",+
+"BTJ~e",-
+"yP0`:",+
+"Q0!(",+
+"Q0!{",+
+"Q}|k",-
+"S}",+
+"AI~IaDt",-
+"Q}!j",-
+"Zb",-
+"AI~Ia{y",-
+
+// ground truth 
+not(concat(<cap>,endwith(<low>)))

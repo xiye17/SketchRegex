@@ -1,0 +1,25 @@
+// example 
+"ykrcxqtisoia",+
+"mnjbcoloieI",+
+"q}",-
+"npthwuwu",+
+"frrayfoiou",+
+"dhrcshreo",+
+"WE,8",-
+"",-
+"b",-
+"|",-
+"pK9_v",-
+"npthwuwA",+
+"ykrcxqtisoiU",+
+"~RP?",-
+"qG",-
+"|Bx",-
+"dhrcshreu",+
+"p}g)A",-
+"frrayfoioI",+
+"mnjbcoloieA",+
+"_]&",-
+
+// ground truth 
+concat(repeatatleast(<low>,7),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"}a^"X",-
+"r\",-
+"!a,/",-
+"!@|.",-
+"bpz",+
+"!1~",-
+"w~3wB",-
+"pcjmwcfkpbu",+
+"!",-
+"",-
+"!@t",-
+"llwdvxguno",+
+"jmnnziqld",+
+"!@",+
+"X^",-
+"cqqf",+
+"urdgq",+
+"djogpwu",+
+"nanmwj",+
+"bphumsrk",+
+"~",-
+
+// ground truth 
+or(concat(<m0>,<m1>),repeatatleast(<low>,3))

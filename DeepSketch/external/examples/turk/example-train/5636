@@ -1,0 +1,25 @@
+// example 
+"!\J2",-
+"!aQgnOsdo",+
+"!viKFtFKIrA",+
+"!OXqsAgfPSem",+
+"!OXqsAgfPSeX",+
+"!prBtkZM",+
+"!",-
+"!}",-
+"!t`",-
+"![>^m",-
+"",-
+"!NdTogiWjq",+
+"!~Ha",-
+".}Dd-",-
+"!viKFtFKIrf",+
+"!V",-
+"!aQgnOsdN",+
+"?J6",-
+"{",-
+"!prBtkZn",+
+"!NdTogiWjT",+
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,7))

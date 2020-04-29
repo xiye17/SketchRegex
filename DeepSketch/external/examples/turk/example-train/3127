@@ -1,0 +1,24 @@
+// example 
+"`=ecb",-
+"sa\",-
+"saD",-
+")i",+
+"`=ecF",-
+"yDI",+
+",DeU",+
+"",-
+"xIyH",-
+")u",+
+"g",-
+"@D",-
+"yDi",+
+",DeA",+
+"DAtKO",+
+"DAtKE",+
+"EPUeAi",+
+"@N",-
+"EPUeAe",+
+"xIyg",-
+
+// ground truth 
+and(endwith(<vow>),not(<let>))

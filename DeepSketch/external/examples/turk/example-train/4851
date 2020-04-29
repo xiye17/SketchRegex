@@ -1,0 +1,15 @@
+// example 
+"$2c",-
+"$fS",-
+",@OC",-
+"1@=<l",-
+"6V",-
+",Q1o",-
+"11R[K",-
+"6%",-
+"m@",+
+"",-
+"b",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<any>),<m1>)

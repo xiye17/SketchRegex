@@ -1,0 +1,25 @@
+// example 
+"<d;",-
+"t",-
+"5F1R5N8e8z4y7v4u",+
+"9w3v4W7F7G0k1w7w4x1R",+
+"0n9o2G2N4l9S2M1d3K",+
+"0n9o2G2N4l9S2M1d3q",+
+"",-
+"8f9x1T7C3w4u",+
+"0l3F9H9a0G9c1I",+
+"3+sy",-
+"9w3v4W7F7G0k1w7w4x1c",+
+"8",-
+"8f9x1T7C3w4K",+
+"0|NyR",-
+"1]",-
+"*3~",-
+"3`K7",-
+"0:h@?",-
+"Vd",-
+"0l3F9H9a0G9c1i",+
+"5F1R5N8e8z4y7v4F",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),6)

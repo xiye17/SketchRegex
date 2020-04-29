@@ -1,0 +1,26 @@
+// example 
+"!,m",+
+"3.~jcyegbb",-
+"@|d|",+
+"a[,ahfcsj",-
+"3.Ssjjasep",-
+")~i-~",+
+"~9",+
+"`sxb{C*lrdv",-
+"&",+
+"~}",+
+"`sxb{Ci~grt",-
+"!,X",+
+"nbtifad",-
+"",+
+"a[{umvftl",-
+"@|db",+
+"x4urgqlh",-
+"x|uqevqg",-
+""Q}s}Evahgvo",-
+""Q}s}{ypfofc",-
+")~i-8",+
+"|",+
+
+// ground truth 
+not(repeatatleast(endwith(<low>),7))

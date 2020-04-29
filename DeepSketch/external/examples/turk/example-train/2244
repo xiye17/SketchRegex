@@ -1,0 +1,25 @@
+// example 
+"d?ah:MYLe*",+
+"|"st",-
+"v01Q",+
+"~hl",-
+"s",+
+".",-
+"(8",-
+"tL;oK;By",+
+"}9",-
+"~G71&",-
+"UGP",-
+""F8t/",-
+"ui",+
+"",-
+"m}H]!kw*[",+
+"cu+}a",+
+"nN(s<K4",+
+"B>2A",-
+"i@6"r?",+
+"cM]",+
+"{",-
+
+// ground truth 
+concat(<low>,star(<any>))

@@ -1,0 +1,17 @@
+// example 
+"zo",-
+"~1,!a",-
+"zG",-
+"o:n(",-
+"^6D",-
+""",-
+"2dnaN",-
+"oK!p",-
+"",-
+"qUY",-
+"VU!",+
+"sB!",+
+"J",-
+
+// ground truth 
+concat(concat(<let>,<cap>),<m0>)

@@ -1,0 +1,17 @@
+// example 
+"&^",+
+"mGQ:5",+
+"[L",+
+"]"Ml",+
+"t",-
+"_",+
+"\~d",+
+"",+
+"EIj!6",+
+"h6c",+
+"IiOE",+
+"}",+
+"E",-
+
+// ground truth 
+not(or(or(<let>,<vow>),<cap>))

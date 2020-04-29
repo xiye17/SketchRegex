@@ -1,0 +1,24 @@
+// example 
+"r&q=x",-
+"tOl`vCjxq@o6a0osr5",+
+"eUb:pr",+
+"o-yadjp<",+
+"kB",-
+"",-
+"iP}",-
+"aSuRett~yKlziN",+
+"|",-
+"yM~5",-
+"i%fJe9w&d-rG",+
+"yM"A",-
+"q8kyeaknsxl&k=hEtOc`",+
+"r&q='",-
+"6",-
+"vhknj!f@s%",+
+"E6",-
+"wnl8gvu'p/qBaUpU",+
+"dRuk",+
+"iP]",-
+
+// ground truth 
+repeatatleast(concat(<low>,<any>),2)

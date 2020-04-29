@@ -1,0 +1,26 @@
+// example 
+"!Xa~i!",+
+"SI!EDU!",+
+"[",-
+"!Wb",-
+"LQ",-
+"ZO!!!",+
+"xi!hAUu/i",+
+"!",-
+"xi!hAUu/e",+
+"",-
+"!Iope",-
+"Zo!!!",+
+"!Xa~e!",+
+"!Iopu",-
+"!!!!",+
+":eEO!IaE",+
+"LB",-
+"!LeV",-
+"SI!EDo!",+
+"!WE",-
+"!Le!",-
+":eEO!IaO",+
+
+// ground truth 
+repeatatleast(or(<m0>,concat(<any>,<vow>)),4)

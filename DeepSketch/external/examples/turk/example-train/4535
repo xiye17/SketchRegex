@@ -1,0 +1,17 @@
+// example 
+"Ukxm#",-
+"EL",+
+"",-
+"Rxh",-
+"I7",-
+"Utx",-
+"IMEv",-
+"Imo_",-
+"I",-
+"OV",+
+"B",-
+"XiMq}",-
+"Ia",-
+
+// ground truth 
+concat(or(<low>,<vow>),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"fs|&9",-
+"a",+
+"",-
+"b",-
+"fm:",-
+"ogmiG",-
+"j.",-
+"e",+
+"j",-
+"r'&4",-
+"ic",-
+"u9H",-
+"dmk;",-
+
+// ground truth 
+and(<vow>,<low>)

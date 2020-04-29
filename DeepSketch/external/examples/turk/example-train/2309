@@ -1,0 +1,14 @@
+// example 
+"",+
+"|yXgNDq"",+
+"dhe-=K",+
+"}H",+
+"/1-Zc",+
+"N",+
+"8$'",+
+"g:?I?GF:f",+
+"WkQA",+
+"j0-i^2>",+
+
+// ground truth 
+not(and(repeatatleast(<cap>,6),<m0>))

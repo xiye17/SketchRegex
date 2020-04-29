@@ -1,0 +1,25 @@
+// example 
+"Oc",+
+"A,p",+
+"OIuIeIOUou",-
+"t~9d",+
+"aiAoII",-
+"Lh=z",+
+"",+
+"S",+
+"EIaoiiua",-
+"EIaoiiuE",-
+"OIuIeIOUoo",-
+"ieEOiUe",-
+"uIIeeEoaa",-
+"eiLZV",+
+"uIIeeEoaI",-
+"B",+
+"OU",+
+"AJ6",+
+"ieEOiUU",-
+"ei/~_",+
+"aiAoIA",-
+
+// ground truth 
+not(repeatatleast(<vow>,6))

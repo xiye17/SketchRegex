@@ -1,0 +1,17 @@
+// example 
+"eE;s",-
+"e$Pr",-
+"vU",-
+"o4h",+
+"E2e",+
+"uZR",-
+"",-
+"i",-
+"O",-
+"I<8fY",-
+"NLhjf",-
+"X%",-
+"u+a",-
+
+// ground truth 
+concat(concat(<vow>,<num>),<low>)

@@ -1,0 +1,25 @@
+// example 
+"M\bwdlL",+
+"6j",-
+"j(+",-
+"M\bwdlb",+
+"j({",-
+"_XT#ugnB",+
+"{}`hYuujc",+
+"",-
+"{OX}",-
+"fRxqks",+
+"pp{/`2jVeL",+
+""W~Er",-
+"|",-
+"6\",-
+"T",-
+"{OXJ",-
+""W~EF",-
+"_XT#ugnc",+
+"{}`hYuujC",+
+"fRxqkN",+
+"pp{/`2jVej",+
+
+// ground truth 
+repeatatleast(contain(or(<cap>,<low>)),6)

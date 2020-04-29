@@ -1,0 +1,25 @@
+// example 
+"EuO",-
+"ea",+
+"Auei",+
+"eu",+
+"Uh&a",-
+"iot",+
+"Aueo",+
+"Y&",-
+"BWxZ~",-
+"c\PE8",-
+"eeuAk",+
+"iob",+
+"",-
+"cl_",-
+"eeuAo",+
+"f",-
+"U",-
+"auEuec",+
+"auEuel",+
+"yM",-
+"UF0"",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),<low>)

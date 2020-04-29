@@ -1,0 +1,24 @@
+// example 
+"ZUt",+
+"c.0@3",-
+"TiQAy",+
+"{O`",-
+"]i+",-
+"cUUf",+
+"l",+
+"c]Gat",-
+"TiQiz",+
+"de",+
+"NY",-
+"EUr2",-
+"Bi",+
+"",+
+"|",-
+"EUrK",-
+"NG",-
+"ZIo",+
+"H",-
+"cUAv",+
+
+// ground truth 
+star(or(<low>,concat(<cap>,<vow>)))

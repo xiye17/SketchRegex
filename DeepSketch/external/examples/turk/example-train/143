@@ -1,0 +1,17 @@
+// example 
+"Cb",+
+"^gT}",-
+"b?<",-
+"uY",+
+"q",-
+"e~\I",-
+"_`",-
+"ok[",-
+"",-
+"b",-
+"|#.lE",-
+"iqve3",-
+"qZ",-
+
+// ground truth 
+concat(or(<cap>,<vow>),<any>)

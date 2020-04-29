@@ -1,0 +1,25 @@
+// example 
+"IGO",+
+"E",+
+"MFO*U",+
+"zS",-
+"9U",+
+"@OOU",+
+"PIOV",-
+"PIOQ",-
+"NU*",-
+"",-
+"zH",-
+"@OOO",+
+"9E",+
+"MFO*A",+
+"T",-
+")EPBK",-
+"IGU",+
+"NUG",-
+"I",+
+"v",-
+")EPBQ",-
+
+// ground truth 
+endwith(and(<cap>,<vow>))

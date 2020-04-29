@@ -1,0 +1,14 @@
+// example 
+"",+
+"h",+
+"{R",+
+"VJYv`",+
+"n=2v\hIri",+
+"WZU$Dl",+
+"*I@sP=x]",+
+"MgTk3rP",+
+"H(K",+
+",\*>",+
+
+// ground truth 
+contain(not(<vow>))

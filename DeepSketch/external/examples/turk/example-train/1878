@@ -1,0 +1,17 @@
+// example 
+"Y",+
+"[",-
+"]P",+
+"TO",+
+"~As",+
+"_H8M",+
+"",+
+"{^XZ",+
+"z>'$X",+
+"j",+
+"R\p2q",+
+"TFj",+
+"{",-
+
+// ground truth 
+or(not(<any>),contain(<let>))

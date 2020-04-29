@@ -1,0 +1,17 @@
+// example 
+"G",-
+"Nol",+
+"Vu/07",-
+"CE",-
+"vTI",-
+",)3",-
+"",-
+".Qk7",-
+"f",-
+"RovW",-
+"Cg",-
+"m,9&"",-
+"NAi",+
+
+// ground truth 
+concat(concat(<cap>,<vow>),<low>)

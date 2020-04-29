@@ -1,0 +1,25 @@
+// example 
+"!I",+
+"*!MEa",+
+"!olJp",-
+"!",-
+"!Gi<cI",+
+"-!a",+
+"!UBy",-
+"",-
+"*!MEU",+
+"!Gi<cu",+
+"!olJQ",-
+"!E]",-
+"1!",-
+"!o",+
+"!Ep",-
+"!OiO",+
+"x",-
+"!OiI",+
+"1L",-
+"!UBb",-
+"-!I",+
+
+// ground truth 
+concat(contain(<m0>),<vow>)

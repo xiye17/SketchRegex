@@ -1,0 +1,18 @@
+// examples
+"aC",+
+"tZWa",+
+"a!",+
+"aC!",+
+"aC",+
+"ed!sd",+
+"oJs!",+
+"B",-
+"BA",-
+"21",-
+"B61",-
+"B64S",-
+"BMB!s",-
+"B!B12",-
+
+// ground truth 
+concat(<low>,contain(or(<any>,<m0>)))

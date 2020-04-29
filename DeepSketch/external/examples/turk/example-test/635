@@ -1,0 +1,17 @@
+// example 
+"!u",+
+"!z$#v",-
+"!Cxf",-
+"!{",-
+"!d3",-
+"!a4R#",-
+"!",-
+"!uIB",-
+"",-
+"!je",-
+"&",-
+">-",-
+"!e",+
+
+// ground truth 
+concat(<m0>,and(and(<low>,<let>),<vow>))

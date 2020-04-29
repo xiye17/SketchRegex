@@ -1,0 +1,25 @@
+// example 
+"\",-
+"J8",-
+"%~0[",-
+"W-$",-
+"ZDJ",+
+"fj<)O",-
+"c",+
+"rucxV",+
+"",-
+"{Pl4",-
+"ZDg",+
+"fj[=;",-
+"W{w",-
+"diyA",+
+"diyn",+
+"B",+
+"Hy",+
+"HG",+
+"rucxl",+
+"~",-
+"J{",-
+
+// ground truth 
+or(repeatatleast(<let>,1),and(<low>,<num>))

@@ -1,0 +1,17 @@
+// example 
+"OR*S",-
+"Ij",+
+"5",-
+"P"G",-
+"i}",-
+"Om|!",-
+"!",-
+"IF",+
+"O)L*|",-
+"",-
+"i%",-
+"BqC",-
+"b*k21",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<let>)

@@ -1,0 +1,25 @@
+// example 
+"\_6_XOqZgY",+
+"l\/",-
+"{5",-
+"{}CT",-
+"\_6_XOqZgp",+
+"~^e}g",-
+"*btWZry",+
+"_",-
+"WQkeaK",+
+"^.wmtBBI",+
+"",-
+"*btWZrG",+
+"`T\gGEBPS",+
+"l\}",-
+"{}C_",-
+"WQkeaw",+
+"^.wmtBBm",+
+"~^e}Z",-
+"I",-
+"`T\gGEBPb",+
+"{G",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,3)),2)

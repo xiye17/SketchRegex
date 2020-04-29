@@ -1,0 +1,24 @@
+// example 
+"q9",+
+"l7l4",+
+"}Rh'",-
+"y+Ed",-
+"a4g9v0f0r3",+
+"AW*cQ",-
+"c9l3h0",+
+"q9I",-
+"k4h1h6i3m8b9i2g9u3",+
+"}DAU+",-
+"e",-
+"",+
+"}",-
+"z1x9r8w4y3n8",+
+"x4n3l4v1",+
+"}p",-
+"FwT",-
+"y2s7v0j7l8b7n1",+
+"q7n4y9l0l1x3w0m6",+
+"=p",-
+
+// ground truth 
+star(concat(<low>,<num>))

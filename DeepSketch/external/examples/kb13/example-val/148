@@ -1,0 +1,25 @@
+// example 
+"}{]_",-
+"fB",+
+"u",-
+"KB}}X",-
+"8`]",-
+"H<|n",+
+"i;",-
+"8`H",-
+"Bp",+
+"",-
+"`",-
+"p.S",+
+"H<,t",+
+"{_&bA",+
+"KB}}{",-
+"{_&Jh",+
+"Z|m$Kr",+
+"}{]-",-
+"pJw",+
+"Z|32vC",+
+"ih",-
+
+// ground truth 
+and(contain(<cap>),contain(<low>))

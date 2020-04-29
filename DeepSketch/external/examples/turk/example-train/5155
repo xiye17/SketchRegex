@@ -1,0 +1,14 @@
+// example 
+"",+
+"MWH}q\zaJ",+
+"aU%h",+
+";",+
+"|/~",+
+"Asr}al;",+
+"L4t\7G8/",+
+"fl",+
+"{af6#",+
+"#>!VcH",+
+
+// ground truth 
+not(and(and(<low>,<m0>),<num>))

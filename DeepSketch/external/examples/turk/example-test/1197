@@ -1,0 +1,14 @@
+// example 
+"",+
+"[",+
+"f\q{C",+
+"$W1",+
+"]2E[L?8{8",+
+"}r{9",+
+"CF:.E[",+
+"Z)IM&,#C",+
+"GC",+
+"z4bP{5v",+
+
+// ground truth 
+not(and(<num>,<vow>))

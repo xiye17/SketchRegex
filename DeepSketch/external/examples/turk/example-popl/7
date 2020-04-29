@@ -1,0 +1,18 @@
+// examples
+" Wa",+
+"124Ae",+
+"123AE",+
+"AAAE",+
+"AE Ae",+
+"!!Ao",+
+"  !BBBeee",+
+" ",-
+"",-
+"1",-
+"a",-
+"A",-
+"!",-
+" Aw",-
+
+// ground truth 
+endwith(concat(<cap>,contain(<vow>)))

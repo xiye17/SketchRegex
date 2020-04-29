@@ -1,0 +1,25 @@
+// example 
+"d!y!W!X!X!",+
+"FGQ",-
+"fZ74@",-
+"u",-
+"[BRG",-
+";xXn",-
+"d!y!W!X!d!",+
+"K!k!g!B!",+
+"",-
+"w!k!u!F!q!Z!M!",+
+"|",-
+"[\",-
+"e!t!w!Q!J!g!",+
+"F!}",-
+"Q!",-
+"K!k!g!i!",+
+"_w6VI",-
+"e!t!w!Q!J!Z!",+
+"V!n!K!n!o!c!D!b!",+
+"V!n!K!n!o!c!D!M!",+
+"w!k!u!F!q!Z!p!",+
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),4)

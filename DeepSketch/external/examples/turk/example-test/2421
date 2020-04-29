@@ -1,0 +1,17 @@
+// example 
+"!F3",-
+"!RkS",-
+"!y*S",-
+"F6",-
+"!",-
+"!E",+
+"",-
+"!K",-
+"!SsU>",-
+"!kP",-
+"T",-
+"!U",+
+"!l~9g",-
+
+// ground truth 
+and(concat(<m0>,<cap>),contain(<vow>))

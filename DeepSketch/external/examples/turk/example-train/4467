@@ -1,0 +1,17 @@
+// example 
+"s",-
+"q{",-
+"~UU1",-
+"uFiu5",-
+"u{p!%",-
+"rP^",-
+"rra",+
+"",-
+"rre",+
+"rPf",-
+"D=>t",-
+"Rf",-
+"~",-
+
+// ground truth 
+concat(concat(<low>,<let>),<vow>)

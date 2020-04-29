@@ -1,0 +1,15 @@
+// example 
+"",+
+"OM",-
+"{b]2",-
+"a:{HyLz",-
+"\{"",-
+"BX&E=",-
+""l=2gRuz",-
+"5",-
+"S?7A=~",-
+"a!.UTrV^Jf",-
+"<ECf6"xq"",-
+
+// ground truth 
+not(startwith(<any>))

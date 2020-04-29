@@ -1,0 +1,15 @@
+// example 
+"hkoIdYWR",+
+"T,P9iVzRn",+
+"K#6s}~f",+
+"&?Na@",+
+"s~UF",+
+"l",+
+"Dx-(S)y68X",+
+"C[",+
+"wg^",+
+"xY+l#`",+
+"",-
+
+// ground truth 
+endwith(contain(<any>))

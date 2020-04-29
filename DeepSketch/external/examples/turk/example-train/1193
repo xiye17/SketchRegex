@@ -1,0 +1,16 @@
+// example 
+"Towc?",-
+"3",-
+"T6J(E",-
+"it",-
+"pe/",-
+"lK05",-
+"lA+2",-
+"iD",-
+"ia",+
+"",-
+"iE",+
+"pFi",-
+
+// ground truth 
+concat(or(or(<any>,<m0>),<cap>),<vow>)

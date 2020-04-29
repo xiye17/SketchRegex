@@ -1,0 +1,15 @@
+// example 
+">LfB0Ht",+
+"GfvO2->RXb",+
+"qXA.m*as",+
+"9ViJ",+
+"0|<IV",+
+")5^/B$",+
+"Q`",+
+"0[a",+
+"u",+
+"}@GY_dxc-",+
+"",-
+
+// ground truth 
+startwith(or(<any>,repeatatleast(<vow>,7)))

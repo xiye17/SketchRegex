@@ -1,0 +1,15 @@
+// example 
+"",+
+"Ni^Q.:1V1",+
+"mj"",+
+"A!Lv",+
+"c|%gw;0ChA",+
+"Zh37]",+
+"v6/7A%u",+
+"_",-
+"OT",+
+"gh$j?>:H",+
+"Zzk~Kc",+
+
+// ground truth 
+not(or(or(<any>,<let>),<num>))

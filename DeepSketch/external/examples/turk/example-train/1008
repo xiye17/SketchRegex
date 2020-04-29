@@ -1,0 +1,18 @@
+// example 
+"EwS",-
+"Kw$m]%B{>z$",+
+"#S",-
+"WAHuorb4",+
+"",-
+"%R=MP%rd+`f3W",+
+"'",-
+"8f+%",+
+"V0{<<",+
+"D4Zt\R!",+
+""4)c0H&[p",+
+"/Gcml8uWEO",+
+"Z+a9u>",+
+"8aL5k:.|H;32",+
+
+// ground truth 
+endwith(contain(repeatatleast(<any>,4)))

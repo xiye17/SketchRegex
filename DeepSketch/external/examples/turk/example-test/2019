@@ -1,0 +1,25 @@
+// example 
+"xi",-
+"T@Ym",-
+"xU",-
+"~s/c",-
+"kUkolu",+
+"cIxomekacUlAaO",+
+"yuW6l",-
+"cuwinUrUsA",+
+"",-
+"~}m[2",-
+"f",-
+"sOnAfUxOeeri",+
+"cIxomekacUlAau",+
+"sOnAfUxOeerA",+
+"zuoayise",+
+"cuwinUrUsi",+
+"lhe",-
+"zuoayisO",+
+"{",-
+"kUkola",+
+"lo~",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),3)

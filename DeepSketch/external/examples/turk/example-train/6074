@@ -1,0 +1,17 @@
+// example 
+"$Z",+
+"r",-
+"D",+
+"YL",+
+"EzEj",+
+"I8,",+
+"#",+
+"",+
+"Hl&",+
+"U1(i",+
+"A",-
+"8]WQE",+
+"}f3Y=",+
+
+// ground truth 
+not(or(or(<low>,<vow>),<m0>))

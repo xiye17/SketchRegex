@@ -1,0 +1,15 @@
+// example 
+"",+
+"AdzZJg>ol",+
+"L(",+
+"m]W",+
+"m5)7-t",+
+"W",-
+"$#$3MmWe",+
+"#!\7",+
+"Y,8}OTE",+
+"9w4C$9~!85",+
+"qw"R#",+
+
+// ground truth 
+not(or(or(<vow>,<any>),<cap>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"G=",+
+"%D}3hMqB?",+
+"Q",+
+"rn-~:",+
+"CR!",+
+"m4z0",+
+"j`u~&6ej",+
+"DA4LT5I",+
+"}5&B+l",+
+
+// ground truth 
+or(startwith(<any>),not(<low>))

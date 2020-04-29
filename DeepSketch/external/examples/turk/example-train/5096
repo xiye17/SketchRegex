@@ -1,0 +1,25 @@
+// example 
+"I)`e",-
+"EPFFWLZT",+
+"OJ",-
+"WK\",-
+"DQe",-
+"AAML:",-
+"EOZOOH",+
+"",-
+"EJJWSWFULF",+
+"INIVEOEA",+
+"O(",-
+"OECPOZIJB",+
+"AFPNAAK",+
+"R:Bw",-
+"OFVKVBMSKP",+
+"H",-
+"ISWYXH",+
+"AWDGYJEEG",+
+"OYVBGWY",+
+"E",-
+"AAMLZ",-
+
+// ground truth 
+and(startwith(<vow>),repeatatleast(<cap>,6))

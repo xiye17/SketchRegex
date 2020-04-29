@@ -1,0 +1,17 @@
+// example 
+"c/%",-
+"A,~I",-
+"I!+~X",-
+"wuIF5",-
+"",-
+"a",-
+"U}",-
+"==K",-
+"a!",+
+"Mi",-
+"XEFw",-
+"I",-
+"o!",+
+
+// ground truth 
+concat(or(<vow>,<num>),<m0>)

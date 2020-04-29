@@ -1,0 +1,25 @@
+// example 
+"EKDKiha",+
+"s",-
+"ERm]l",-
+"iQUa",+
+"OOJ"uX",+
+"c?/H",-
+"Im",-
+"igi",-
+"#52",-
+"EKDKihE",+
+"AAI",+
+"",-
+"uehVI",+
+"i",-
+"uehVa",+
+"cq",-
+"AAi",+
+"eATF",-
+"h]k/~",-
+"iQUI",+
+"OOoXG=",+
+
+// ground truth 
+repeatatleast(startwith(<vow>),3)

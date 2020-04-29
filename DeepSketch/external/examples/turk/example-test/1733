@@ -1,0 +1,25 @@
+// example 
+"cueayzlojjed0",+
+"guopjhx2",+
+"|<,%",-
+"y}rz0",-
+"urhedruv4",+
+"tvjlojjag0",+
+"dodwartkmeuady4",+
+"ksunxidnoevxcss5",+
+"}F&JN",-
+"fbftsufuhv2",+
+"",-
+")",-
+"fgfnkbzyzkn3",+
+"gcelzqmroxmtv2",+
+"ceqzkv8",+
+"j",-
+"I8:b",-
+"ua",-
+"u^",-
+"$pt",-
+"owg",-
+
+// ground truth 
+concat(repeatatleast(<low>,6),<num>)

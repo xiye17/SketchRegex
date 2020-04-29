@@ -1,0 +1,15 @@
+// example 
+"$",-
+"Sl!1f",-
+"H~x",-
+"*j!",+
+"!uj_",-
+"Slj@u",-
+"!}",-
+"!p",-
+"Hvy",-
+"",-
+"!u!p",-
+
+// ground truth 
+concat(<any>,concat(<low>,<m0>))

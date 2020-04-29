@@ -1,0 +1,14 @@
+// example 
+"",+
+"W49{J#3",+
+"e",+
+"a:--D#",+
+"<CTn#p7?",+
+"7PF^",+
+"9JV[;X]e3",+
+"6)",+
+"B;W",+
+"6Ajeb",+
+
+// ground truth 
+or(star(<any>),or(or(<m0>,<m1>),<m2>))

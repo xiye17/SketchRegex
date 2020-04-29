@@ -1,0 +1,14 @@
+// example 
+"",+
+"<3",+
+"O]?.G?",+
+"&L(v",+
+"QP\y+",+
+")",+
+"udEOF%)#",+
+"tDhpWfyi9",+
+"v,`",+
+"DtXR`Yh",+
+
+// ground truth 
+not(and(<num>,<let>))

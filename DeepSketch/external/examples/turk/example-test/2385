@@ -1,0 +1,25 @@
+// example 
+"G",-
+"ob",+
+"Eiuj",+
+"{Ug",+
+"Ko",-
+"AcBoy",+
+"UUolUd",+
+"dAv$k",-
+"",-
+"dAv$i",-
+"GTJC",-
+"Eiuu",+
+"oi",+
+"UUolUo",+
+"{Uo",+
+"U",-
+"Ki",-
+"AcBoo",+
+"iu?",-
+"GTJQ",-
+"iuE",-
+
+// ground truth 
+endwith(concat(<vow>,<low>))

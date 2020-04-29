@@ -1,0 +1,25 @@
+// example 
+"+;o",-
+"G",-
+"vLj@!",-
+"QI}>)r6",+
+"vA8",-
+"C5gG2m]l",+
+"*",-
+"#OgRD",-
+"F2x}",+
+"Pexs?=,}0"",+
+":r5[",-
+"Hlg&q0yi,$x",+
+"",-
+"Oy3$[",+
+"_{",-
+"VX",+
+"oO2k",-
+"(I",-
+"IMU",+
+"J\VR(G",+
+"Q<T;wa#s1",+
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,1))

@@ -1,0 +1,16 @@
+// example 
+"^|C3",-
+"/",-
+"u0f",-
+"h",+
+"v:yIH",-
+"]b",-
+"@c]",-
+"&a`c(",-
+"",-
+"~",-
+"kc",-
+"pWLq",-
+
+// ground truth 
+concat(<low>,not(contain(<any>)))

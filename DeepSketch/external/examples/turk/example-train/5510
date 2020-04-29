@@ -1,0 +1,25 @@
+// example 
+"edb!kCl",+
+"!DApySHhHS",+
+"Q!i!a",-
+"edb!kCY",+
+"Gy!!!!M!",+
+"q",-
+"P`",-
+"!xoNM!PRp",+
+"!",-
+"!xoNM!PRF",+
+"!!U",-
+"Q!i~9",-
+"!DApySHhH!",+
+"",-
+"!N;V",-
+"!Wp!r!",+
+"Gy!!!!MW",+
+"P~",-
+"!]r",-
+"!|aP",-
+"!Wp!ra",+
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),6)

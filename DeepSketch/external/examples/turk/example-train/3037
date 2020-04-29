@@ -1,0 +1,17 @@
+// example 
+"G",-
+"{DV",-
+"BIKMM",-
+"r!",+
+"B!3j;",-
+"|Ug:",-
+"",-
+")",-
+"l\)",-
+"D!",+
+"}]",-
+"E!gv",-
+"v0",-
+
+// ground truth 
+concat(or(or(<vow>,<let>),<low>),<m0>)

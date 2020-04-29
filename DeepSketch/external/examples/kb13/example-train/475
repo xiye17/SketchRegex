@@ -1,0 +1,25 @@
+// example 
+"wgw!h",+
+"\",-
+"&L`bLW!",+
+"&L`bLh!",+
+">M",-
+"_faFP!",+
+"Hlp!",+
+"HlX!",+
+"0Nw~SNf!",+
+"_jK",-
+"wgwk!",+
+"",-
+"0Nw~SNG!",+
+"_faFx!",+
+"P|bVX",-
+"TG}[",-
+"A",-
+">[",-
+"_jh",-
+"TG}O",-
+"P|bV+",-
+
+// ground truth 
+contain(concat(repeat(<let>,3),<m0>))

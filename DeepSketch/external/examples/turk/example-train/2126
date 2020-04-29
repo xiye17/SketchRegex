@@ -1,0 +1,19 @@
+// example 
+"WR>7^hh",+
+"k?c\CAu1ri",+
+",",-
+"[.]q<U6zn"E",+
+"&ECl",-
+"7knY@J*UD:9,i",+
+"",-
+"Y)",-
+"~_ua'.",+
+"y&q!z\q(7^p|",+
+"tI{.6Lsa-qg5.N",+
+"9e\0wJy}",+
+"%=A`"XN\U",+
+"XUZUN",+
+"k@N",-
+
+// ground truth 
+endwith(repeatatleast(<any>,5))

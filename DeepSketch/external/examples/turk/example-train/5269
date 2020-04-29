@@ -1,0 +1,25 @@
+// example 
+"vl8eE",+
+"ite~>",-
+"tI",+
+"o",+
+"HiUv",-
+"W",-
+"ite~Q",-
+"gI]",-
+"Ebei",+
+"",-
+"*yO",+
+"gI?",-
+"vl8eO",+
+"EbeU",+
+"*yA",+
+"tg",-
+"u",+
+"K",-
+"HiUg",-
+"to",+
+"tp",-
+
+// ground truth 
+concat(not(and(<low>,<m0>)),<vow>)

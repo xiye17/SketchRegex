@@ -1,0 +1,17 @@
+// example 
+"1",-
+"k\",-
+"k-",-
+"{9_R&",-
+"VI",+
+"",-
+"U}iz",-
+"9X",+
+"<",-
+"Fnt#T",-
+"}`L@",-
+"@9J",-
+"*Wp",-
+
+// ground truth 
+concat(or(<num>,<let>),<cap>)

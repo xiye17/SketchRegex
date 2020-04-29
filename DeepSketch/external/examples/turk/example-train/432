@@ -1,0 +1,17 @@
+// example 
+"4",-
+"5e(",-
+""",-
+"",-
+""[/`",-
+"#D",-
+"zm[",-
+"q<?]",-
+"9IW",+
+"cFSY+",-
+"$Jmct",-
+"9uK",+
+"5F",-
+
+// ground truth 
+concat(concat(<num>,<vow>),<cap>)

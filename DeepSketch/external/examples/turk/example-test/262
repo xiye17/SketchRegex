@@ -1,0 +1,26 @@
+// example 
+"h8{sD",+
+"`lcl",-
+"4*S",+
+"j4n",-
+"cr7KiZ",+
+"w*",-
+"4PK",+
+"^",-
+"",-
+"cMVf_J",+
+"&",-
+"j4"",-
+"${4Y",+
+"wf",-
+"x,8p9",-
+"~U",+
+"${]G",+
+"x,8pi",-
+"J",+
+"`lc$",-
+"h8{Iq",+
+"5D",+
+
+// ground truth 
+contain(endwith(<cap>))

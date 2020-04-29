@@ -1,0 +1,17 @@
+// example 
+"u",-
+"BY{D",-
+"KB.Jo",-
+"i0A",+
+"vq+BJ",-
+"",-
+"i0v",+
+"a",-
+"fePY",-
+"a-u",-
+"H;",-
+"av(",-
+"A0",-
+
+// ground truth 
+concat(concat(<vow>,<num>),<let>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"E#",+
+"K|rfX']J",+
+"[4`Eha3",+
+"9",+
+"xAu",+
+"j&/{?x",+
+"fYDS?",+
+"5#GtifYgU",+
+"%s'8",+
+
+// ground truth 
+or(contain(<any>),star(<vow>))

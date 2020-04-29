@@ -1,0 +1,17 @@
+// example 
+"j[R~",+
+"\x9",+
+"-",+
+"Cu",-
+"O~",+
+"O=",+
+"C[U[",+
+"K>|*O",+
+"CT",-
+"",+
+"$L{",+
+"rV:W{",+
+"|",+
+
+// ground truth 
+not(concat(<cap>,<let>))

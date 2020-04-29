@@ -1,0 +1,26 @@
+// example 
+"jkGq(0",+
+"opH'4",+
+"sg#5",+
+"t2'",-
+"v}",-
+"m",-
+"}'N",-
+"sg12",+
+"",-
+"4Qke<",-
+"}(ot)",-
+"|yy7",-
+"}",-
+"vZ",-
+"zh3*6992",+
+"jkGq99",+
+"EJzx",-
+"ld9",+
+"opHO3",+
+"pr1#619",+
+"pr1#6@2",+
+"zh3*69#4",+
+
+// ground truth 
+concat(repeatatleast(<low>,2),endwith(<num>))

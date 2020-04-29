@@ -1,0 +1,15 @@
+// example 
+"f",-
+";q"",-
+"!Wb",-
+"}T",-
+"40OV2",-
+"??SS",-
+"!/",+
+"!",-
+"!i0la",-
+"!%Ej",-
+"",-
+
+// ground truth 
+and(concat(<m0>,<any>),not(<m1>))

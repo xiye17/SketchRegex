@@ -1,0 +1,17 @@
+// example 
+".<yCd",-
+"2",-
+".aAD",-
+"",-
+"98u",+
+"8>5\",-
+"98o",+
+"(H",-
+"e(",-
+"8-[",-
+"i{NX;",-
+"8-c",-
+"B",-
+
+// ground truth 
+concat(concat(<num>,<any>),<vow>)

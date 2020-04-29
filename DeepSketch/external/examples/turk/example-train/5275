@@ -1,0 +1,15 @@
+// example 
+"",+
+"tcs",+
+"!#0m",+
+"!VO'D",+
+"6GH~",+
+"TFM:&",+
+"!y",+
+"!nE",+
+"!",-
+"V",+
+"5D",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,1),<any>))

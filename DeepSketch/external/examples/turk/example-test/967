@@ -1,0 +1,25 @@
+// example 
+"REXG",-
+"_daI",+
+"OSK",-
+"Qa",+
+"gFI",+
+"uoIik",-
+"Qi",+
+"",+
+"e",+
+"i",+
+"R",-
+"OSG",-
+"gFi",+
+"<EATo",+
+"Ac",-
+"uoIiH",-
+"v",-
+"REXL",-
+"_daU",+
+"<EATa",+
+"Am",-
+
+// ground truth 
+star(endwith(<vow>))

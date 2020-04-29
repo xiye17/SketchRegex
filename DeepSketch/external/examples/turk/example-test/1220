@@ -1,0 +1,17 @@
+// example 
+"\",-
+".",-
+"i)s",-
+"E}KQ]",-
+"2R",-
+"!H",-
+"",-
+"}1O",-
+"O",+
+"v",+
+"It6I",-
+"E!OU",-
+"p"_OS",-
+
+// ground truth 
+or(or(<num>,<vow>),<low>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"A@HA",+
+"mi0i<z",+
+"MgO",+
+"Ih",+
+")@5vue[0e",+
+"xIl>.Zd",+
+"S^Ys7Pn4",+
+"_",+
+"D]%$|",+
+
+// ground truth 
+not(and(and(<vow>,<let>),<num>))

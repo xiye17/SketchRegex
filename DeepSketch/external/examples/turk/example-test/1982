@@ -1,0 +1,17 @@
+// example 
+"u",-
+"D!L",+
+"IF!"Q",+
+"Z-;",+
+"O<;V",+
+"TD",+
+"",+
+"d",+
+"U<",+
+"g+t3",+
+"B",+
+"I",-
+"e%="&",+
+
+// ground truth 
+not(and(and(<any>,<vow>),<let>))

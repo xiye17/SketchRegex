@@ -1,0 +1,16 @@
+// example 
+"",+
+"pKC3@",+
+"@xHn",+
+"L",+
+"@-T+p",+
+"dx",+
+"@",-
+"5'P",+
+"N'0e",+
+">",+
+"@0",+
+"@ba",+
+
+// ground truth 
+or(concat(<m0>,<any>),not(<m1>))

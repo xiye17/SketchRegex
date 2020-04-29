@@ -1,0 +1,17 @@
+// example 
+"r",-
+",Al",-
+"dT",+
+"l9",-
+"bzS31",-
+"H^",-
+"",-
+"od,b",-
+"!pg",-
+"!S",+
+"O",-
+"\*nH",-
+"bA9#<",-
+
+// ground truth 
+concat(or(<low>,<m0>),<cap>)

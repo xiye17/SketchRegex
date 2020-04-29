@@ -1,0 +1,25 @@
+// example 
+"LOvE",-
+"{sIAEAEpA",+
+"I-",-
+"IU",-
+"{sIAEAEpE",+
+"|UI",-
+"{?aOAIiE",+
+"tOK1AElEAU",+
+"",-
+"LOv`",-
+"B=~AAEbOEnU",+
+"|Ud",-
+"CBOAA",-
+"{?aOAIiO",+
+"tOK1AElEAA",+
+"B=~AAEbOEnA",+
+"IInUAI",+
+"IInUAA",+
+"CBOA5",-
+"E",-
+"~",-
+
+// ground truth 
+endwith(repeatatleast(or(<vow>,<low>),6))

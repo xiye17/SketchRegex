@@ -1,0 +1,15 @@
+// example 
+"s@",+
+"88pa",+
+"^[bXJ)8~VQ",+
+"G`;1h",+
+"y",+
+"|b&_G/9U:",+
+"UL!y<s9",+
+"4fA|_z<Z",+
+"",-
+"Vbi",+
+"UXi1DB",+
+
+// ground truth 
+contain(or(or(<low>,<any>),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"MANCUVEYGAK",+
+"95!V",-
+"lP",-
+"`/j",-
+"Wo",-
+"CTFHGAZVWHIC",+
+"n~'M?",-
+"",-
+"BCYOQS",+
+"Y1I8E",-
+"YBTAQDRPXP",+
+"1_g",-
+"DCASTGQIQFUKO",+
+"A",-
+"?",-
+"OTBI",+
+"MIJNBEBW",+
+"XVTVP",+
+"GJKPSFT",+
+"PJg4",-
+"GAXKBYDJO",+
+
+// ground truth 
+repeatatleast(<cap>,4)

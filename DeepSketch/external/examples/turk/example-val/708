@@ -1,0 +1,17 @@
+// example 
+"L,"",+
+":,j",+
+"3",-
+"k",+
+"wxjS.",+
+"}U",+
+"",+
+"\WA/",+
+"Q",+
+"M9;v",+
+"bK",+
+"<Vg)-",+
+"~",-
+
+// ground truth 
+or(not(<any>),repeatatleast(<let>,1))

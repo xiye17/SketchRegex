@@ -1,0 +1,25 @@
+// example 
+"Q\PE",-
+"{qIg",+
+"{@z",-
+"nCs",+
+"^XUs3",+
+"""zsaaf",+
+"-",-
+"A)g{9",-
+"",-
+"qx",-
+"Q\P5",-
+"""zsE*d",+
+"q]",-
+"^XUQU",+
+"+{^rmy",+
+"{qIU",+
+"A)g{W",-
+"nCS",+
+"+{^rmI",+
+"{@~",-
+"~",-
+
+// ground truth 
+contain(repeat(<let>,3))

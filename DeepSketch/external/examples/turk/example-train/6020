@@ -1,0 +1,24 @@
+// example 
+"vKdHaX",+
+"xZuFyMbRsFwZrTtPoTmZ",+
+"nDaN",+
+"i:`#",-
+"cTtRkDdRlH",+
+"yQcVoBlQ",+
+"dGlGiMiIdZpPuSbSeW",+
+"",-
+"a",-
+"|",-
+"y_!",-
+"cMiIhNfBcLkVnL",+
+"bL=OX",-
+"jPxIxOkYpIcZ",+
+"y*5",-
+"q*",-
+"baNh`",-
+"jQxJyVbEcUgMhShJ",+
+"izQx",-
+"`R",-
+
+// ground truth 
+repeatatleast(concat(<low>,<cap>),2)

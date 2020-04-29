@@ -1,0 +1,25 @@
+// example 
+"ckmn",-
+"jz}z+",-
+"wfrhzml)%LWn/Y",+
+"xaclrlmvG:;",+
+"jgjdzls)?-_f@",+
+"ffnkorbk-<u>"`JR",+
+"aG",-
+"k&g",-
+"jzpvj",-
+"~G>",-
+"juzkvhop",+
+"}#",-
+"",-
+"brarnlgIPr(4#aU",+
+"ohucdvc?~*",+
+"zmbxxcnhl",+
+"ckm{",-
+"U",-
+"jvvsqyp",+
+"lbzxsrlvk4}e",+
+"~",-
+
+// ground truth 
+startwith(repeatatleast(<low>,7))

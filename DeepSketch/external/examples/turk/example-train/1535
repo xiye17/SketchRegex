@@ -1,0 +1,14 @@
+// example 
+"",+
+"F",+
+"p*+9",+
+"JHvs$~",+
+"vI&",+
+"sT%YNt~Uz",+
+"^&>az",+
+"W[1\=wv",+
+"r\-ac-=:",+
+"zF",+
+
+// ground truth 
+not(and(and(<let>,<any>),<m0>))

@@ -1,0 +1,25 @@
+// example 
+"yagO",+
+"e}I",+
+"ckdgi",+
+".",-
+"AKEMB",-
+"Aog",-
+"}TGq",-
+"U",+
+"sC",-
+"fa",+
+"k",-
+"e}e",+
+"ckdge",+
+"",-
+"sr",-
+"e",+
+"AKEMz",-
+"f!",+
+"AoH",-
+"yagU",+
+"}TGC",-
+
+// ground truth 
+endwith(or(concat(<low>,<m0>),<vow>))

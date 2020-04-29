@@ -1,0 +1,25 @@
+// example 
+"q",+
+"|7dtr",-
+"HQlpw",+
+"`@JaD",-
+"lY",+
+"bPi",+
+"",-
+"L[",-
+"\Zj",-
+"QkuD",+
+"L3",-
+"8/z",-
+"Qkur",+
+"L",+
+"HQlpC",+
+"bPD",+
+"rTT$",-
+"lu",+
+"?",-
+"rT>Y",-
+"{",-
+
+// ground truth 
+repeatatleast(and(<any>,<let>),1)

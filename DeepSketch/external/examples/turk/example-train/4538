@@ -1,0 +1,25 @@
+// example 
+"5<#-<",-
+"qcEb",+
+"1",-
+"0,rq`=",-
+"5"k&M2@0",-
+"9w@W",-
+"vgh",+
+"u:",+
+"8#nm/0hCB",-
+".U",+
+"&",+
+"~~||7",+
+"5wH",-
+"",+
+"4B",-
+"/6A",+
+"2gy`g5(75H",-
+"B",+
+"%ZaNJ",+
+"0OYjIB<",-
+"/l`{",+
+
+// ground truth 
+not(startwith(repeatatleast(<num>,1)))

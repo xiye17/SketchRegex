@@ -1,0 +1,14 @@
+// example 
+"",+
+"p&L",+
+"w'nAG",+
+"5/\U",+
+"({x4H#?Xe",+
+"]L",+
+"`",+
+"}Q/4eaP",+
+"5To0ym",+
+"9:MPZo\+",+
+
+// ground truth 
+contain(or(<m0>,not(<m1>)))

@@ -1,0 +1,15 @@
+// example 
+"iJB",+
+"_0$g",+
+"n",+
+"r$oSP",+
+"YO1,^i",+
+"`3",+
+"_T}/WctC7",+
+"\_`N`EF",+
+"BS`o6?~d*R",+
+"",-
+"iu|Z{l[[",+
+
+// ground truth 
+or(repeatatleast(<m0>,3),contain(<any>))

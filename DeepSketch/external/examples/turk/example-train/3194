@@ -1,0 +1,15 @@
+// example 
+"L\)}",+
+"!*<@$b7Ex;",+
+"4I\",+
+"7;rUMG",+
+"Y^f-^RU",+
+":$5^0TXj",+
+")",+
+"KfFz4_g%3",+
+"m+xor",+
+"",-
+"H$",+
+
+// ground truth 
+or(contain(<let>),startwith(<any>))

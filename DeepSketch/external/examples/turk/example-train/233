@@ -1,0 +1,15 @@
+// example 
+"7Q"66M6<Ah",-
+";",+
+">{",-
+"6#w?T-",-
+"WaSiq'$e-",-
+"&Bel[AF",-
+"KP9R",-
+"MLj)T",-
+"dR]]k{Dd",-
+"Bcv",-
+"",-
+
+// ground truth 
+or(or(<cap>,<low>),<any>)

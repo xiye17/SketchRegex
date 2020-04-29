@@ -1,0 +1,25 @@
+// example 
+"]-^|)",-
+"}\y",-
+":6{[",-
+"nHC",+
+"%O",-
+"8t1Xs",+
+":6{F",-
+"]-^|e",-
+"^ZgP",+
+"Ldkuq]Z",+
+"e",-
+"Ldkuq]a",+
+"",-
+"|",-
+"}\.",-
+"!=DpcR",+
+"8t1XQ",+
+"^Zgb",+
+"nHc",+
+"!=Dpcf",+
+"%5",-
+
+// ground truth 
+repeatatleast(endwith(<let>),3)

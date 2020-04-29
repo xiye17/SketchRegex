@@ -1,0 +1,25 @@
+// example 
+"}wpnn",-
+"iB:}",+
+"n",+
+"Lk",+
+"i~CX",+
+"s*)w",-
+"}wpn@",-
+"|p>_R",+
+"_",-
+"%'+",-
+"[X",+
+"",-
+";",-
+"s*),",-
+"%'h",-
+"S",+
+"^xW",+
+"EOt",+
+"%$",-
+"|p>DN",+
+"%a",-
+
+// ground truth 
+or(repeatatleast(<low>,1),contain(<cap>))

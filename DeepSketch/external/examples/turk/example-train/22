@@ -1,0 +1,16 @@
+// example 
+"Fct",-
+"!y?",-
+"!Y",-
+"!HN9",-
+"!|",-
+"A",-
+"!",-
+"e*ey+",-
+"!h",+
+"",-
+"!g(v",-
+"!M#n"",-
+
+// ground truth 
+and(concat(<m0>,<low>),star(<any>))

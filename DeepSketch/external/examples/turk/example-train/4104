@@ -1,0 +1,26 @@
+// example 
+"1",-
+"C0aC!",+
+"6kQ!",+
+"6&J!",+
+"}Hru3U!",+
+"",-
+"AF!",+
+"}Hru}T!",+
+"9p",-
+"9E",-
+"G6WiF!",+
+"j",-
+"A!",+
+"q"(",-
+"C0)Q!",+
+"+CE:L",-
+"+CE:!",-
+"$E!",+
+"q"r",-
+"..K]",-
+"..K&",-
+"G6WC!~",+
+
+// ground truth 
+contain(concat(endwith(<cap>),<m0>))

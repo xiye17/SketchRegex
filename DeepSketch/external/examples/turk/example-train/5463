@@ -1,0 +1,15 @@
+// example 
+"X-xX!s",+
+"=1yI53oI",+
+"~4#`urjt*'",+
+"P;je",+
+"dr1&5c{",+
+"Y?iYV@t6f",+
+"L,&n3",+
+"a|s",+
+"(",+
+")R",+
+"",-
+
+// ground truth 
+contain(or(<m0>,repeatatleast(<any>,1)))

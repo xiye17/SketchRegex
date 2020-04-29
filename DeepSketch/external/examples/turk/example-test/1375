@@ -1,0 +1,25 @@
+// example 
+"TlwhL",-
+"3",+
+"H:5l",+
+"5a(",+
+"6.eU_",+
+"ly}+r",+
+"X{",-
+"|~F}",-
+"(",-
+"~x",+
+"",-
+"Tlwh{",-
+"H:ik",+
+"]a",+
+"h",+
+"O",-
+"|~FM",-
+"\|"",-
+"\|{",-
+"X/",-
+"~Jo",+
+
+// ground truth 
+or(startwith(<num>),endwith(<low>))

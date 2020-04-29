@@ -1,0 +1,16 @@
+// example 
+"Stv96",-
+"=b",-
+"bi^g",-
+"=m",-
+"beO+",-
+"@Eh",-
+"SE](-",-
+"@0k",-
+"A",-
+"aI",+
+"",-
+"ao",+
+
+// ground truth 
+concat(or(<any>,<m0>),<vow>)

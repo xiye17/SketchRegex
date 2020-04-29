@@ -1,0 +1,25 @@
+// example 
+"\",-
+"VSO)",-
+"OOEOgO",+
+"IEOIIEv",+
+"{R",-
+"UCl",-
+"IEOIIEI",+
+"EB",-
+"EOUUO",+
+"EOUUU",+
+"",-
+"{4-@7",-
+"sUAA",+
+"sUAU",+
+"Lq6}",-
+"0F03k",-
+"OOEOgA",+
+"EAEIIOIO",+
+"EAEIIOIE",+
+"B",-
+"V'"",-
+
+// ground truth 
+repeatatleast(or(<vow>,<low>),4)

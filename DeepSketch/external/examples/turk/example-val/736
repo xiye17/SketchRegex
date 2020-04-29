@@ -1,0 +1,25 @@
+// example 
+"c4",-
+"e^MJ!",+
+"c_",-
+"{b1Wm",-
+"e^'}P",+
+"oF",+
+"op0",+
+"y\[s",+
+"k",-
+"o]k",+
+"j__\`",-
+"xzN)|}",+
+"os",+
+"",-
+"|RT",-
+"~]@,",-
+"An~",-
+"x=a*FX",+
+"y\PY",+
+"{",-
+"%Eq,",-
+
+// ground truth 
+concat(<low>,contain(<let>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"ySK",+
+"E`zY(",+
+"L'&<c?kkX",+
+"gAIG"H",+
+"W\Y(",+
+"LMekS,s",+
+"=",+
+"ycukh`,@",+
+"{C",+
+
+// ground truth 
+not(and(and(<m0>,<num>),<low>))

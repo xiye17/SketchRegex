@@ -1,0 +1,15 @@
+// example 
+"r#ie*BM:",+
+"vFq=L",+
+"N_",+
+"C"=X:q-",+
+"v+N0!vT/F",+
+"5",+
+"DC&Z",+
+"(sT",+
+"@KK5Uls?\?",+
+"+xB^<x",+
+"",-
+
+// ground truth 
+or(contain(<any>),concat(<m0>,<m1>))

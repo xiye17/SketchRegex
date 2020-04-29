@@ -1,0 +1,16 @@
+// example 
+"$",-
+"*Fr",-
+"3I~B",-
+"8H",+
+"K%=",-
+"1"",-
+"3rG(",-
+"^Wl.z",-
+"y",-
+"(z)3C",-
+"",-
+"n\",-
+
+// ground truth 
+and(endwith(<let>),concat(<num>,<cap>))

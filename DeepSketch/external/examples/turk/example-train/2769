@@ -1,0 +1,26 @@
+// example 
+"}~",-
+""b7/2n",+
+"_5$6",-
+"x'g",+
+"n}/u",+
+"ou|",-
+"dg",+
+"n}ln",+
+""b7/en",+
+"_5$x",-
+"xdh",+
+"ouR",-
+"",-
+"~2zq%mc",+
+"t{xE)",-
+"t{xE}",-
+"{m~iy",+
+"}y",-
+"~2zq%Sx",+
+"v",-
+"{m~|j",+
+"E",-
+
+// ground truth 
+repeatatleast(endwith(<low>),2)

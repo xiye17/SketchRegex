@@ -1,0 +1,17 @@
+// example 
+"A'bz",+
+"D8;b6",+
+"UD7",+
+"amm1E",+
+"e",-
+"",+
+"f",+
+"Ic",+
+"GOp",+
+"ofUS",+
+"U",-
+"o]",+
+"y",+
+
+// ground truth 
+not(and(<let>,<vow>))

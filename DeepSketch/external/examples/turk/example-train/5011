@@ -1,0 +1,14 @@
+// example 
+"",+
+"P?kv",+
+"H,K",+
+"O",+
+"+p`HU?",+
+"k&(W]GB`",+
+"=1}zJ",+
+"bf<P;u!",+
+")U",+
+"r)T(f/E9g",+
+
+// ground truth 
+not(and(and(<low>,<m0>),<vow>))

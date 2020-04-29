@@ -1,0 +1,14 @@
+// example 
+"",+
+"h",+
+"OtJ|G!q#/",+
+"ip",+
+"$h4b{",+
+"2sad",+
+"^iMmv{",+
+"*B|7cPw",+
+"1G#",+
+"l`m=Fm5%",+
+
+// ground truth 
+contain(not(<low>))

@@ -1,0 +1,17 @@
+// example 
+"UN!",+
+"ES!4",-
+"aEo%%",-
+"DX",-
+"b~/",-
+"ER!",+
+"",-
+"aE!hC",-
+"@ZK",-
+"ES'v",-
+"R.",-
+"A",-
+"K",-
+
+// ground truth 
+concat(<vow>,concat(<cap>,<m0>))

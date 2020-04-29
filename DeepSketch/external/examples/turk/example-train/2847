@@ -1,0 +1,25 @@
+// example 
+"\IV",-
+"2i4o2A4u5u0E",+
+"3U8a",+
+"4E8U2A1a",+
+"1o2a3u9a7a",+
+"/_hB7",-
+"",-
+"4F",-
+"$Z@",-
+"9u3e9i",+
+">G^Mx",-
+"8",-
+"4E8U2A1A",+
+":Z""",-
+"3U8E",+
+"@",-
+"4j",-
+"2i4o2A4u5u0u",+
+"9u3e9O",+
+"1o2a3u9a7O",+
+"+7J?",-
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),2)

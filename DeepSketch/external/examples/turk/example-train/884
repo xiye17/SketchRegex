@@ -1,0 +1,25 @@
+// example 
+"5[",-
+";M$$O",-
+".",-
+"u",-
+"5_BRU",+
+"0ca",+
+"9Cke",+
+"0U",+
+"",-
+"0ce",+
+"9Cka",+
+"$2*eK",-
+"9O(<lC",+
+"TO9{",-
+"%-ou",-
+"5_BRA",+
+"0a",+
+"3Cp",-
+"cfO",-
+"9E1r@A",+
+"5H",-
+
+// ground truth 
+concat(<num>,contain(<vow>))

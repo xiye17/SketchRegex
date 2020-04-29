@@ -1,0 +1,15 @@
+// example 
+"%?%l|",+
+"hP*{*(",+
+"*p3D",+
+"v",+
+"5u",+
+"TEe",+
+"<EM3'o`n",+
+"MP-n@Ry",+
+"2DF(5)ZWy",+
+"",-
+"DeHH~dlqJ4",+
+
+// ground truth 
+contain(or(or(<any>,<num>),<cap>))

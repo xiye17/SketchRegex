@@ -1,0 +1,15 @@
+// example 
+"",+
+"=?",+
+"VW-1-",+
+"eoi&v6h",+
+"<dmjyV0\h",+
+"_!q6e%t;J8",+
+"l",-
+"KO{",+
+"cl&CeD",+
+"S5u6HOX3",+
+"!\zi",+
+
+// ground truth 
+not(or(or(<any>,<cap>),<m0>))

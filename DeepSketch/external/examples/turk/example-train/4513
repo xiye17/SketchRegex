@@ -1,0 +1,25 @@
+// example 
+"EI!",+
+"QsAb",-
+"xU",-
+"eui",-
+"oiVEO!",+
+"UfVu!",+
+"UfVU!",+
+"QsAO",-
+"ecI!",+
+"eci!",+
+"",-
+"eu\",-
+"Ee!",+
+"oiVEA!",+
+"T",-
+"oPIwg",-
+"u!",+
+"xo",-
+"A",-
+"o!",+
+"oPIwu",-
+
+// ground truth 
+contain(concat(endwith(<vow>),<m0>))

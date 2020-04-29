@@ -1,0 +1,25 @@
+// example 
+"D!pxRP",+
+"3",-
+"T!",+
+"{q`",-
+"D!>",+
+"H|BQ4",-
+"J3R!k",+
+"",-
+"IM2",-
+"M!u]",+
+"`G3u",-
+"i",-
+"<ztU",-
+"DI!",+
+"J3!Aa",+
+"MO!w",+
+"Rf",-
+"B",+
+"auE$c",-
+"D&![vQ",+
+"(A",-
+
+// ground truth 
+concat(<cap>,star(contain(<m0>)))

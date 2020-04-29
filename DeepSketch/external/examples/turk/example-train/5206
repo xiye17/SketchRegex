@@ -1,0 +1,17 @@
+// example 
+"G",-
+"A],",-
+"F/{=",-
+"KA",-
+"PL",-
+"",-
+"AzC",-
+"UN",+
+"Uc",+
+"sa$}",-
+"C_=4F",-
+"A",-
+"Ust6b",-
+
+// ground truth 
+concat(and(<cap>,<vow>),<let>)

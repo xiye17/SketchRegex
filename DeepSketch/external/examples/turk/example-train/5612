@@ -1,0 +1,26 @@
+// example 
+"~~1b{}go",+
+"iq]YRb",+
+"iq]Ybm",+
+"%17}",-
+"7fK}f:r",+
+"p",-
+",Z",-
+"wpo",+
+"D~qvo",+
+"",-
+"~c~",-
+"~cD",-
+"?{|{}",-
+"~~1b{Xcy",+
+"?{|{f",-
+"7fK}fyt",+
+"}rgn",+
+"Dyzgl",+
+",r",-
+"1hwr",+
+"~",-
+"%17v",-
+
+// ground truth 
+repeatatleast(endwith(<low>),3)

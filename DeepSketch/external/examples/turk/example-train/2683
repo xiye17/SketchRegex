@@ -1,0 +1,25 @@
+// example 
+"EOA",+
+"AF",-
+"EEOwsg",+
+"ABX",-
+"AIU$",-
+"iUEAU",+
+"AT|",-
+"AAEghOA",+
+"e",-
+"",-
+"EEOwsE",+
+"IC17D",-
+"EOO",+
+"UOAU",+
+"AAEghOO",+
+"UOAO",+
+"IUPBG",-
+"AIUH",-
+"C",-
+"iUEAA",+
+"L<",-
+
+// ground truth 
+repeatatleast(or(<low>,<vow>),3)

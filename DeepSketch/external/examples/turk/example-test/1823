@@ -1,0 +1,14 @@
+// example 
+"",+
+"ReQ",+
+"zM+n1cd@.",+
+"-0K*B<~",+
+"BLhX@",+
+"h'!"xj",+
+"(|",+
+"c",+
+""2Q"",+
+"G$C^dWj/",+
+
+// ground truth 
+contain(star(or(<cap>,<low>)))

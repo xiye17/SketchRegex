@@ -1,0 +1,17 @@
+// example 
+"zj",+
+"!AYr1",+
+"}Q)ex",+
+"0",+
+"P6nA",+
+"!",-
+"rgS",+
+"~yOU",+
+"",+
+"Gq",+
+"&Y"",+
+"K",-
+"~",+
+
+// ground truth 
+not(or(or(<vow>,<let>),<m0>))

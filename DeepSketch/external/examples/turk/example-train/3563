@@ -1,0 +1,15 @@
+// example 
+"%=W,",-
+"kkU%6gvE=&",-
+"\0w>c|nH",-
+"u*8",-
+"OTX0v>",-
+"m",+
+"1XG/'",-
+"Q@r2xvM",-
+"M!PNYN7S?",-
+"",-
+"v3",-
+
+// ground truth 
+or(or(<any>,<cap>),<num>)

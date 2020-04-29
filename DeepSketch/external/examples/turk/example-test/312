@@ -1,0 +1,25 @@
+// example 
+"Om.#",+
+"G",-
+"au`.e",+
+"cAzp",-
+"Ok",+
+"",-
+"Q87",-
+"Ig{~",+
+"Eff{?g",+
+"em",+
+"P",-
+"U}",-
+"or~\'M",+
+"En+ZV",+
+"U"",-
+"qsjq",-
+"adp",+
+"|qw",-
+"AJCd-",-
+"eb'",+
+"Nm\*/",-
+
+// ground truth 
+startwith(concat(<vow>,<low>))

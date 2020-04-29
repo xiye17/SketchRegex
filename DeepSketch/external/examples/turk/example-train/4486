@@ -1,0 +1,25 @@
+// example 
+"!v",+
+"!u!b!y!y",+
+"!w!e!k!w!r!n!j!y",+
+"!l!s",+
+"!a!q!d!l!q!p!e!o!j",+
+"UL0",-
+"!v!r!b",+
+"!t!q!z!q!u!i",+
+"!",-
+"!~",-
+"!s!e!m!x!l!d!n!v!m!i",+
+"",-
+"!I",-
+"!2p|",-
+"!a!}C",-
+"!{^",-
+"dR*g",-
+"@",-
+"!p!f!e!y!x!w!s",+
+"!a"7s",-
+"!g!l!d!b!b",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),1)

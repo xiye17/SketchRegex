@@ -1,0 +1,16 @@
+// example 
+"",+
+"_b",+
+"}AY",+
+"7Y>D",+
+".&B",+
+"J`2|k",+
+"0H",-
+""YXZn",+
+""p",+
+"5",+
+"d,~Z",+
+"#",+
+
+// ground truth 
+not(concat(<num>,<any>))

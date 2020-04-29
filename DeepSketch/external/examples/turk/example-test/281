@@ -1,0 +1,25 @@
+// example 
+"EN",+
+"fEaaE",+
+"SaC",+
+"aF",+
+"fEaiS",+
+"A^",-
+"IgI",-
+"i3UdH",-
+"VajjaL",+
+"OcoX",+
+"SoG",+
+"OcIW",+
+"",-
+"IgE",-
+"ZEi7",-
+"Ai",-
+"i3Ude",-
+"U",-
+"ZEib",-
+"I",-
+"VajjIM",+
+
+// ground truth 
+contain(concat(<vow>,<cap>))

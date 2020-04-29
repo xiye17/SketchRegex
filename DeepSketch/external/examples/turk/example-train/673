@@ -1,0 +1,15 @@
+// example 
+"",+
+"!2B",+
+"!'",+
+"$>U^L",+
+"!xE0g",+
+"o`F",+
+"0V",+
+"!][I",+
+"v",-
+"!",+
+"92@R",+
+
+// ground truth 
+or(not(<any>),contain(<m0>))

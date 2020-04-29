@@ -1,0 +1,14 @@
+// example 
+"",+
+"ed",+
+"19|",+
+"i",+
+"z_~"BT2v",+
+"D}Aw",+
+"-D+cZJ",+
+"s?&4jx.",+
+".3d*m{|QK",+
+"BQz9y",+
+
+// ground truth 
+or(not(<cap>),repeatatleast(<let>,1))

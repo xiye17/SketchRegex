@@ -1,0 +1,25 @@
+// example 
+"p",+
+"@i)",-
+"}'6i@",-
+"xua",+
+"jehboi",+
+"jtsbdygx",+
+"",-
+"xtji",+
+"Zvzm",-
+"D!",+
+"vtykc",+
+";",-
+"j.Sug",-
+"y(",-
+"}[u",-
+"A",-
+"y~",-
+"ns",+
+"wxtevdf",+
+"Z!y~",-
+"bprzttxgo",+
+
+// ground truth 
+or(repeatatleast(<low>,1),concat(<cap>,<m0>))

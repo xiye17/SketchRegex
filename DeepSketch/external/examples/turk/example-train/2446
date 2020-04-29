@@ -1,0 +1,26 @@
+// example 
+"oEV_m",-
+"E`UI",+
+"v"",-
+"39nNnGT",+
+"myv",-
+"oEV_3",-
+"vM",-
+"=mcs",-
+"VZi.CY",+
+"",-
+"VZi.<F",+
+"rYVP",+
+"SB~Z>v/B",+
+"$",-
+"|",-
+"my,",-
+"SBX~bQT.",+
+"=mc$",-
+")VcOK",+
+"BVD",+
+"39nN$CM",+
+")V3ZY",+
+
+// ground truth 
+repeatatleast(contain(<cap>),3)

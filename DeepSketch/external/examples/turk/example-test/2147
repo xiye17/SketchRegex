@@ -1,0 +1,25 @@
+// example 
+"vGXwB",+
+"GwtO|",-
+"Dy{",-
+"D{S",-
+"zRbLZJf",+
+"jfH",+
+"vGXwl",+
+"}!",-
+"GwtO@",-
+",",-
+"MnO`",-
+"EGeKOG",+
+"",-
+"jfz",+
+"zRbLZJF",+
+"AUzQ",+
+"gq",-
+"AUzx",+
+"MnO|",-
+"EGeKOj",+
+"B",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),3)

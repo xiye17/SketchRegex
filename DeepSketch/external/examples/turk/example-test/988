@@ -1,0 +1,15 @@
+// example 
+"^*=",-
+"!IIO",-
+"!m",+
+"Uz",-
+"!'!lx",-
+"!",-
+"o%oo6",-
+">",-
+"",-
+"!30",-
+"j]ml",-
+
+// ground truth 
+concat(<m0>,or(<any>,<cap>))

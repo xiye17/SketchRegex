@@ -1,0 +1,24 @@
+// example 
+"Z",-
+"TNx",+
+"ILRPDGH",-
+"JBHQGZ",-
+"91>F",+
+"UA@I(",+
+"&b\NUd",+
+"",-
+"!wk",+
+"Up)p",+
+"}",-
+"X2",+
+"DGDS",-
+"YAUNKCUC",-
+"DNJRJ",-
+"RCT",-
+"UA[.x",+
+"w!5Zn<",+
+"X`",+
+"HB",-
+
+// ground truth 
+not(or(star(<cap>),<any>))

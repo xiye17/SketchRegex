@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"{,WVI",-
+"",-
+"i}^S",-
+"'",-
+"h",-
+"u!",+
+"uTe",-
+"u!5",-
+"i#",-
+"qT}h7",-
+"i!#>",-
+"m_",-
+
+// ground truth 
+and(concat(<vow>,<m0>),contain(<low>))

@@ -1,0 +1,17 @@
+// example 
+"\",-
+"c5^m",-
+"~,Jz^",-
+"}V",-
+"k1",+
+"~{N",-
+"",-
+"M8",+
+"}",-
+"K-6",-
+"3Ijx0",-
+"(l",-
+"cJXu",-
+
+// ground truth 
+concat(or(<let>,<vow>),<num>)

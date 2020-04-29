@@ -1,0 +1,25 @@
+// example 
+"n!mu]",+
+"4!",+
+"-!5",+
+"_2v",-
+"3D8E]f(",-
+"Fu",-
+"p",-
+"C!kq",+
+"+:h0mv",-
+"!",+
+"tiTzX",-
+"u:nx",-
+"",-
+"[!.V4k",+
+"n*!>i",+
+"wy<5=fcCl",-
+"!0n[",+
+"-A!",+
+"l/uB]i*Z",-
+"[n!-;|",+
+"!#",+
+
+// ground truth 
+contain(concat(<m0>,star(<let>)))

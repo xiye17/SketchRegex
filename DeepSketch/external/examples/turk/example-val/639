@@ -1,0 +1,17 @@
+// example 
+"}.Bj'",+
+"p$s",+
+"i~kl",+
+"O{(]",+
+"!",+
+"",+
+"~U",+
+"!S",-
+"j",-
+"![J^W",+
+"!qI",+
+"gm",+
+"{",+
+
+// ground truth 
+not(or(<low>,concat(<m0>,<cap>)))

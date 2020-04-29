@@ -1,0 +1,25 @@
+// example 
+"}mz",-
+"|U1[I",-
+"B&U",-
+"z|r{"",-
+"l!-2d~",+
+"!|",-
+"!n%j",+
+"!sP#/",+
+"wc",+
+"!N",-
+"",-
+"w|t;",-
+"w!",+
+"!!T",+
+"!!l-W",+
+"wR%(",-
+"lj2sb$",+
+"y",-
+"!g/",+
+"!!ej",+
+"~",-
+
+// ground truth 
+startwith(repeatatleast(or(<m0>,<low>),2))

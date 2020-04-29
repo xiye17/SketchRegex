@@ -1,0 +1,17 @@
+// example 
+"/7[u",-
+"cL",-
+"xne",-
+"VU",+
+"ED{-",-
+"VA",+
+"",-
+"y#/8Z",-
+"j",-
+"LjI23",-
+"WM",-
+"M",-
+"!SW",-
+
+// ground truth 
+concat(<cap>,and(<vow>,<any>))

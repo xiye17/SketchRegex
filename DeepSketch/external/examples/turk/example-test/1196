@@ -1,0 +1,26 @@
+// example 
+"i{y",+
+"mf|N(",-
+"mf|N~",-
+"p*~p",+
+"/",-
+"s~",-
+",)n}g",+
+"k",+
+"W}"{",-
+"4K{wmp",+
+"",-
+"iTu",+
+"4K{w|g",+
+",)n&c",+
+"|",-
+"sK",-
+"x{}",-
+"W}"R",-
+"Nh",+
+"cr",+
+"p*si",+
+"x{L",-
+
+// ground truth 
+endwith(repeatatleast(<low>,1))

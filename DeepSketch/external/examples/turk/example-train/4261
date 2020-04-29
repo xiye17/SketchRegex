@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"o",-
+"i1p{e",-
+"d~5",-
+"wo",-
+"",-
+"pCeO",-
+"gj[W)",-
+"j",-
+"o!M",-
+"c:GF",-
+"i!",+
+"o_",-
+
+// ground truth 
+concat(and(and(<let>,<vow>),<low>),<m0>)

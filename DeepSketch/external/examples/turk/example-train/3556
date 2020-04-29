@@ -1,0 +1,25 @@
+// example 
+"IAoD",-
+"_iU0q",-
+"I|OoU",+
+"!s",-
+"io",+
+"q",-
+"!",+
+"feE",+
+"iA",+
+"",-
+"!J",-
+"I|Oou",+
+"f",-
+"IAoP",-
+"_iU0{",-
+"htK",-
+"iUa!",+
+"ht@",-
+"A",+
+"fea",+
+"iUaU",+
+
+// ground truth 
+repeatatleast(or(endwith(<vow>),<m0>),1)

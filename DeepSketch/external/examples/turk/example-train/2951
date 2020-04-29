@@ -1,0 +1,25 @@
+// example 
+"F",-
+"}=",-
+"DRKKDII",+
+"{e97",-
+"q",-
+"pMIEMGR",+
+"CO",-
+"",-
+"kHTUKDMU",+
+"bIIHWXYCV",+
+"fMMQTDJIIE",+
+"SrKZ\",-
+"WWEXBIEZGD",+
+"uVWMVOXUDWF",+
+"DBIOEIEN",+
+"nUJ",-
+"TPMSVFERM",+
+"IVMTMSASXGQ",+
+".$Ca",-
+"n[8",-
+"S1G9N",-
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,6))

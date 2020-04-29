@@ -1,0 +1,25 @@
+// example 
+"Rotp",+
+"ulSnAfHv",+
+"\",-
+"R}g@",-
+"R+@i",-
+"TM>}h",-
+"ydSad",+
+"gU",-
+"fiVQsv",+
+"6RF",-
+"Y$V",-
+"fiVQsP",+
+"",-
+"g]",-
+"IrJyBhp",+
+"9",-
+"ulSnAfHT",+
+"TMW]+",-
+"RotV",+
+"ydSaF",+
+"IrJyBhX",+
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),4)

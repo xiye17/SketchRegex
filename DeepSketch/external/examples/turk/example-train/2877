@@ -1,0 +1,25 @@
+// example 
+"it5ok8",+
+"yg8spuh",+
+"}9<#",-
+"y;RC.",-
+"",-
+"z6%",-
+"021d6qq45",+
+"yg8spu1",+
+"ck1uh1egty",+
+"ck1uh1egt6",+
+"9",-
+"0xfw7745",+
+"WN",-
+"z6l",-
+"021d6qq4d",+
+"M",-
+"y$g[O",-
+"0xfw774m",+
+".r",-
+"it5okk",+
+"M[r7",-
+
+// ground truth 
+repeatatleast(or(<low>,<num>),6)

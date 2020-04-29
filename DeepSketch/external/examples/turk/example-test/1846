@@ -1,0 +1,25 @@
+// example 
+"eUOZRuio",+
+"\UfAAU",+
+"iSDaU",-
+"oiUo)[i",+
+"_Iiui",+
+"eG",-
+"Ua+",-
+"OaOu",+
+"oiUo)[a",+
+"",-
+"\UfAAE",+
+"eUOZRuiu",+
+"O",-
+"Uas",-
+"_IiuU",+
+"Uuho",-
+"OaOa",+
+"e4",-
+"UuhE",-
+"E",-
+"iSDaD",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),4)

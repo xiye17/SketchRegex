@@ -1,0 +1,15 @@
+// example 
+"+zwWQ",+
+"1=|_lpS^",+
+"wR=obOx7oh",+
+"/kP1",+
+"-L}N?h[",+
+"j4",+
+"?",+
+"5N"OhP",+
+"QV(",+
+"LWt"OdW,P",+
+"",-
+
+// ground truth 
+repeatatleast(or(endwith(<any>),<m0>),1)

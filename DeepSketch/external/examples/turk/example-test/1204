@@ -1,0 +1,17 @@
+// example 
+"UY",+
+"Ey",-
+"n",-
+"U%x*^",-
+"d",-
+"",-
+"Oa;`",-
+"i$f",-
+"iB5",-
+"OF",+
+"O?5A",-
+"E-",-
+"UJr'E",-
+
+// ground truth 
+concat(<vow>,<cap>)

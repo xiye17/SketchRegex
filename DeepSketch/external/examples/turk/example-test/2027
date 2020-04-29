@@ -1,0 +1,15 @@
+// example 
+"8qM",+
+"wa5?F^",+
+"8",+
+"t52}Wj?HNO",+
+"deSF)QiT7",+
+"ur",+
+"OV=+",+
+"",-
+"7f1LT",+
+"WPVaVIk",+
+"6B!84'U*",+
+
+// ground truth 
+contain(or(or(<vow>,<any>),<cap>))

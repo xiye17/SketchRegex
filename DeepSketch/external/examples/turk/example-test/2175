@@ -1,0 +1,26 @@
+// example 
+"qa"r",-
+"b"1bg",-
+"F",+
+"y3lkL",+
+"-`",-
+",",-
+"-=",-
+"b"1b@",-
+"Q-",+
+"",-
+"9n~K",+
+"$sdtWm",+
+"9A`3",+
+"/H_",+
+"$sAfkL",+
+"GZy",+
+"y3lOD",+
+"2wl",-
+"2w@",-
+"{",-
+"qa"?",-
+"jC",+
+
+// ground truth 
+contain(and(and(<cap>,<let>),<any>))

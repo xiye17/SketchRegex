@@ -1,0 +1,25 @@
+// example 
+"NKBAROCK",+
+"AJSNVKJUQDFGT",+
+"T7`_u",-
+"F!d=",-
+"OFDICM",+
+"TPKZJGM",+
+"GZPZMYRPPBE",+
+"NTOUCLSPXHTI",+
+"",-
+"EJTZHAYOA",+
+"H@",-
+"FM}",-
+"MMSGMCHRQSTWVNM",+
+"FGV]",-
+"S",-
+"LQBCDSFMWW",+
+"GLPHIHCFQLXGFC",+
+"z",-
+"FMU",-
+"HB",-
+"]'$or",-
+
+// ground truth 
+repeatatleast(<cap>,6)

@@ -1,0 +1,26 @@
+// example 
+"K!cG\]V",+
+"Zo",-
+"Gd5+!",+
+".Pqu",-
+"R!>{",+
+"{3%||",-
+"hc",-
+"",-
+"NoIR",-
+"7",-
+":zR+%",-
+"A!",+
+"V!c",+
+"RNe!",+
+"G!y$-",+
+"Dq:!._",+
+"J",-
+"ICZ",-
+"Vg!",+
+"Dq!f=_",+
+"Kg!Y"L(",+
+""wx",-
+
+// ground truth 
+concat(<cap>,contain(<m0>))

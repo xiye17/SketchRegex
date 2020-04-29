@@ -1,0 +1,24 @@
+// example 
+"(m`x-MWWTza",+
+"}T"odJFie",+
+"6[[eTXkVsp",+
+"@|",-
+"(m`x-MWWTzH",+
+"YTnikaw",+
+"HcZRNJeo",+
+")).}",-
+"G0~]d",-
+"",-
+"G0~]`",-
+"@[",-
+"HcZRNJeF",+
+"j",-
+"}T"odJFiY",+
+"6[[eTXkVsM",+
+")).Q",-
+"p~T",-
+"p~j",-
+"YTnikaL",+
+
+// ground truth 
+concat(<any>,endwith(repeatatleast(<let>,6)))

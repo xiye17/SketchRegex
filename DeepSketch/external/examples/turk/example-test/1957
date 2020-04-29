@@ -1,0 +1,25 @@
+// example 
+"a0",-
+"E",+
+"aK;",-
+"Oe",+
+"eq4[s",-
+"aDI",-
+"aei",+
+"!ICo",-
+"U",+
+"IaoAA",+
+"AiAA",+
+"_",-
+"",-
+"b",-
+"AiAI",+
+"ag",-
+"aeI",+
+"eg76<",-
+"IaoAU",+
+"MP_x",-
+"OO",+
+
+// ground truth 
+or(repeatatleast(<vow>,1),concat(<m0>,<any>))

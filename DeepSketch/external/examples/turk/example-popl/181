@@ -1,0 +1,18 @@
+// examples
+"abcde!",+
+"abcde!a",+
+"abcde!1",+
+"abCde!!",+
+"abcdef!",+
+"qqqqqqq!123",+
+"qqqqqqqqq!!!",+
+"",-
+" ",-
+"a",-
+"1",-
+"!",-
+"abhh!",-
+"ab!abcdef1",-
+
+// ground truth 
+concat(repeatatleast(<let>,5),contain(<m0>))

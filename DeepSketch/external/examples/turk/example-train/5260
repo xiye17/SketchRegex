@@ -1,0 +1,25 @@
+// example 
+"n?",-
+"enzqC",+
+"Um",+
+"enzql",+
+".",-
+"nIAc",+
+"nd",-
+"PmE",+
+"PmO",+
+"",-
+"IX{",-
+"I~Q",-
+"O",+
+"exo}",-
+"]4n+%",-
+"{oHHN",-
+"nIAD",+
+"exo=",-
+"UF",+
+"C",-
+"A",+
+
+// ground truth 
+and(repeatatleast(<let>,1),contain(<vow>))

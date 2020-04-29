@@ -1,0 +1,26 @@
+// example 
+"""J",+
+"a]",-
+"!{n!",-
+"ijXv",+
+"q",-
+"zg.",-
+"zga",-
+")=`wOX",+
+"Bf",+
+"dvLMx",+
+"",-
+"o]^/=",-
+"dJ}fA",+
+"=",-
+"ij<H",+
+"o]^/e",-
+"sM",+
+"!{n|",-
+")=`w@A",+
+"H",+
+""rX",+
+"a4",-
+
+// ground truth 
+startwith(endwith(<cap>))

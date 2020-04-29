@@ -1,0 +1,16 @@
+// example 
+"}Us_r",-
+"|",-
+"xr!",-
+"l<",-
+"n",+
+"DSV",-
+"V",-
+":wh$-",-
+"~i?[",-
+"",-
+"/m",-
+"s32t",-
+
+// ground truth 
+and(repeatatleast(<let>,1),<low>)

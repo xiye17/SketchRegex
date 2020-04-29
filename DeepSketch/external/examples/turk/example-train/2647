@@ -1,0 +1,25 @@
+// example 
+"f!q!y!K!@",+
+"I!j!k!Z!",+
+"g!w!T!A!]ae",+
+"f!W!H!l!-/6j",+
+"f!q!y!g!9",+
+"g!w!T!c!WM~",+
+"|g>wD",-
+"1tI",-
+"_&[c",-
+"",-
+"}-v",-
+"v!h!O!l!xU",+
+"&",-
+";Nq%V",-
+"z!",-
+"j",-
+"v!h!O!T!(h",+
+"I!j!k!b!",+
+"f!W!H!Y!&Se*",+
+"v!.x",-
+"z_",-
+
+// ground truth 
+startwith(repeatatleast(concat(<let>,<m0>),4))

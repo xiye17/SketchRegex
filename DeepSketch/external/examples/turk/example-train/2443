@@ -1,0 +1,15 @@
+// example 
+"",+
+"aaZvSQT",+
+"df\!Zj;8",+
+"9N",+
+"[cV",+
+"=",-
+"]mS!z/G@O",+
+":~m8",+
+"Ze*"c",+
+"tc(*_H",+
+"E@5n5:ym2p",+
+
+// ground truth 
+not(or(or(<any>,<vow>),<m0>))

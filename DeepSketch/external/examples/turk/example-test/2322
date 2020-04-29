@@ -1,0 +1,25 @@
+// example 
+"clYa8",+
+"clYU5",+
+"z2S",-
+"t",-
+"T{",-
+"kryfP6",+
+"CbFTvT8",+
+"",-
+"CbFTvk7",+
+"bu'#",-
+"~Cr5&",-
+"RFW9",+
+"z^[",-
+"bu~P",-
+"Q>X!"",-
+"LH7",+
+"Lf6",+
+"RFv5",+
+"kryfk0",+
+"~",-
+"Tk",-
+
+// ground truth 
+concat(repeatatleast(<let>,2),<num>)

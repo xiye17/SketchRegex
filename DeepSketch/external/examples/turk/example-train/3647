@@ -1,0 +1,17 @@
+// example 
+"e]!",+
+"UE_)",-
+"Is!",+
+"{}usS",-
+"u51",-
+"Sd*-$",-
+"Th=u",-
+"e",-
+"",-
+"aO",-
+"U<",-
+"I'c",-
+"E",-
+
+// ground truth 
+concat(concat(<vow>,<any>),<m0>)

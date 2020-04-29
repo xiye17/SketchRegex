@@ -1,0 +1,25 @@
+// example 
+"\s",-
+"E8qj,",+
+"BnsgL",-
+"o",+
+"O_",+
+"zlB",-
+"|I",+
+"pDxi",+
+"",-
+"\C",-
+"P",-
+"|",-
+"pDiO",+
+"i",+
+"2zRD",-
+"2zRF",-
+"el!vj",+
+"zlH",-
+"pAf",+
+"phO",+
+"Bnsg=",-
+
+// ground truth 
+contain(and(repeatatleast(<let>,1),and(startwith(<vow>),endwith(<vow>))))

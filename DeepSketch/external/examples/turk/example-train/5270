@@ -1,0 +1,17 @@
+// example 
+"<&W",+
+"e<ux",+
+"n",+
+"u",-
+"qk",+
+"e",-
+"",+
+"a9",+
+"n*rc`",+
+"iV*",+
+"t",+
+"p%Gm",+
+":pK}7",+
+
+// ground truth 
+not(and(and(<let>,<low>),<vow>))

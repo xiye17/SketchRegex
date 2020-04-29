@@ -1,0 +1,25 @@
+// example 
+"EUN",+
+"k%Aa",+
+"eDf",-
+"eDe",-
+"aU",+
+"EAEeu",+
+"kw",-
+"PxU\",-
+"",-
+"kF",-
+"EUC",+
+"WUOE_",-
+"PxU{",-
+"k%Aj",+
+"aa",+
+"EPQqIq",+
+"K",-
+"EAEeR",+
+"EPQqIu",+
+"E",-
+"WUOE}",-
+
+// ground truth 
+concat(endwith(<vow>),<let>)

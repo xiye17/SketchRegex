@@ -1,0 +1,15 @@
+// example 
+"L?-C83*",+
+"LT`E*"66r1",+
+"EM$ixOcKc",+
+"R",+
+"pEr",+
+"Ii",+
+"#P4a",+
+"a0VUi",+
+""<$?&/%A",+
+"sf54AT",+
+"",-
+
+// ground truth 
+repeatatleast(contain(or(<num>,<any>)),1)

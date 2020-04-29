@@ -1,0 +1,16 @@
+// example 
+"h3t",-
+"4|/I",-
+"^aqWM",-
+"mRlQ",-
+"Q",+
+"x8",-
+"P5n",-
+"*",-
+"(K%y{",-
+"^",-
+"",-
+"&@",-
+
+// ground truth 
+and(<any>,star(<cap>))

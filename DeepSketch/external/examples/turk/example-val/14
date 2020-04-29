@@ -1,0 +1,17 @@
+// example 
+"o",-
+"w.u("",-
+"f"Vg",-
+"eN6&",-
+"",-
+"eA$",-
+"o)",+
+"i",-
+"L@p",-
+"i2",+
+"ew37]",-
+".h",-
+"tp",-
+
+// ground truth 
+concat(and(<low>,<vow>),<any>)

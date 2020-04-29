@@ -1,0 +1,17 @@
+// example 
+"F",-
+"d!E%",-
+"w!O",+
+"",-
+"|[B",-
+"}",-
+"o!uY&",-
+"d!Wh",-
+"{HG%u",-
+"-]",-
+"~X",-
+"w!E",+
+"d!R",-
+
+// ground truth 
+concat(concat(<low>,<m0>),<vow>)

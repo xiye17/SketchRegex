@@ -1,0 +1,26 @@
+// example 
+"pU'K",+
+"9?T",+
+"6Y>k",-
+".A$F7",+
+"&Z}",-
+"r-",-
+"6Y>*",-
+"m",-
+"BS)/L",-
+"/A5wS5",+
+"B=r;r",-
+"-",-
+"",-
+".AtJ9",+
+"9",+
+"rd",-
+"8M",+
+"80",+
+"9-R",+
+"pUfN",+
+"&0?",-
+"/A5>D4",+
+
+// ground truth 
+repeatatleast(or(<num>,concat(<any>,<cap>)),1)

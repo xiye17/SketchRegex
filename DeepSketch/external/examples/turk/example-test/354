@@ -1,0 +1,25 @@
+// example 
+"LYG!",+
+"V%",-
+"BQZCZB",+
+"!!!!Q",+
+"wCk",-
+"V!!!B!J",+
+"V!",-
+"X",-
+"!v#B:",-
+"BQZCZ!",+
+"",-
+"`",-
+"!O!!U!MK",+
+"R.nz",-
+"O0M",-
+"RWVw",-
+"!O!!U!M!",+
+"3kS|y",-
+"!!!!!",+
+"LYGC",+
+"V!!!B!!",+
+
+// ground truth 
+repeatatleast(or(<cap>,<m0>),4)

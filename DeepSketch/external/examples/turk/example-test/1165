@@ -1,0 +1,25 @@
+// example 
+"sDE",+
+"@ve5",+
+"_,\}",-
+"}I{",-
+"sDU",+
+"LU",+
+""",-
+"",-
+"@_^6t",-
+"}Ij",-
+"E\",-
+"ED",-
+"@_^6}",-
+"Xa]G#",+
+"O",-
+"REI*\y",+
+"Lo",+
+"@vIE",+
+"_,\]",-
+"X_<wE",+
+"RtZutE",+
+
+// ground truth 
+contain(concat(<let>,<vow>))

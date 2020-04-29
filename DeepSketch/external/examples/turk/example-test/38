@@ -1,0 +1,24 @@
+// example 
+"05i<nI)",-
+"!?_Cm-_",+
+"!g/S(]~yT8",+
+"?B",-
+"!q",+
+"!79dwI",+
+"a'hNOE",-
+"$MBp",-
+")Sh;C8+1",-
+"OJ7cyI7'>",-
+"!",+
+"",-
+"SOv",-
+"b",-
+"!lfvD",+
+"!D'NBLY:=",+
+"!k&P}K47",+
+"!%cF",+
+"oKre^",-
+"!DG",+
+
+// ground truth 
+repeatatleast(startwith(<m0>),1)

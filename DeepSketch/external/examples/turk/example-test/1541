@@ -1,0 +1,25 @@
+// example 
+"!o8",+
+"i&&p",+
+"tsdb",-
+"-ho:%",+
+"-u~v=",+
+"t",-
+"{}Cbh",-
+"dqhe",+
+"tsdf",-
+"a",+
+"k",-
+"{}Cbq",-
+"o|",+
+"u<w",+
+"",-
+"n\",-
+"ub",+
+"htN",-
+"hth",-
+"u",+
+"nz",-
+
+// ground truth 
+contain(and(and(<let>,<vow>),<low>))

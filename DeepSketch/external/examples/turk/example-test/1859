@@ -1,0 +1,26 @@
+// example 
+"V{J6CX!X",+
+"U&@`${!",+
+"LE2&",-
+"Z0!N",+
+"-",-
+"I$!",+
+"u0",-
+"Ukjuk!",+
+"",-
+"a",-
+"LI^",-
+"V{J6C!Q!",+
+"U&@`!('",+
+"9I3",-
+"`cXqU",-
+"Ukju!p",+
+"Ymrt!",+
+"$B",-
+")%~yh",-
+"Z0@!",+
+"Ymr!J",+
+"ssF^",-
+
+// ground truth 
+concat(concat(<cap>,<any>),contain(<m0>))

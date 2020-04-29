@@ -1,0 +1,25 @@
+// example 
+"`@zA!",+
+"^Kf",+
+"IwbNr",-
+"@<0",+
+"SFqq",-
+"IwbNE",-
+"+9L8",+
+"GCKdUg",-
+"0",+
+"lGCaauA",-
+"SFqL",-
+"nqqkrUTc",-
+"Zq5`d",+
+"^o",+
+"GCKdUG",-
+"",+
+"}t(u",+
+"lGCaaua",-
+"nqqkrUTN",-
+"sW",+
+"|",+
+
+// ground truth 
+not(repeatatleast(<let>,4))

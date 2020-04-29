@@ -1,0 +1,25 @@
+// example 
+"KieFe",+
+"aiei",+
+"ouoeOuaE",+
+"uooAei",+
+"q",-
+"KieFG",+
+"",-
+"oeuiiea",+
+"aa[",-
+"f",-
+"uooAee",+
+"DobNF",-
+"i9",-
+"rjY=",-
+"/C_}",-
+"Do^rZ",-
+"oeuiiee",+
+"ouoeOuao",+
+"ii",-
+"aieo",+
+"aae",-
+
+// ground truth 
+repeatatleast(or(<vow>,<cap>),4)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"s2",+
+"0G",+
+"B/<J",+
+"]UR",+
+"fkU/#",+
+"I:",-
+"<k$",+
+"z*)<",+
+"N",+
+"4",+
+"HpF|9",+
+
+// ground truth 
+not(concat(<cap>,<any>))

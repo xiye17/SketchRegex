@@ -1,0 +1,17 @@
+// example 
+"iV",-
+"o`",+
+"aOT",+
+"*~r6t",+
+"o~",+
+"^",+
+"",+
+"ohz\",+
+"yAtv6",+
+"o?;o",+
+"iu",-
+"akF",+
+"u",+
+
+// ground truth 
+not(concat(<vow>,<let>))

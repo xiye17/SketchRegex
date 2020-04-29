@@ -1,0 +1,15 @@
+// example 
+"Uf",-
+"UQ",-
+"(Zb;",-
+"(Z3T",-
+"@H-",-
+"p",-
+"@vj",-
+"Phz*&",-
+"PUg"!",-
+"aY2",+
+"",-
+
+// ground truth 
+concat(concat(<any>,<cap>),<num>)

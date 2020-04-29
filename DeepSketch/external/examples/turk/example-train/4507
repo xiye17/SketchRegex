@@ -1,0 +1,14 @@
+// example 
+"",+
+"`tLs",+
+"!\3`XR",+
+"K'{cUuE",+
+"S8p",+
+"O?k_q",+
+"xwP}Oo7n",+
+"e)",+
+"{",+
+"7w=20a]Jt",+
+
+// ground truth 
+contain(star(or(<let>,<low>)))

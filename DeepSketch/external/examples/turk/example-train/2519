@@ -1,0 +1,14 @@
+// example 
+"",+
+"by}UuK[P",+
+"Kl+C.Z",+
+"XbQe'jF",+
+"#p",+
+"Z`#",+
+"UXD8pmv0:",+
+"5+:_",+
+"2X;";",+
+""",+
+
+// ground truth 
+or(star(<any>),contain(<low>))

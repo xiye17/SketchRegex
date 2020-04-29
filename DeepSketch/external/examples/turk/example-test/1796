@@ -1,0 +1,17 @@
+// example 
+"mVZx",-
+"|U1.j",-
+"/",-
+"!Tg",-
+"!tG1",-
+"!Ta",+
+"!s",-
+"!",-
+"!TU",+
+"!,G`8",-
+"",-
+"!(Y",-
+"!#",-
+
+// ground truth 
+concat(concat(<m0>,<cap>),<vow>)

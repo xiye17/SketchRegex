@@ -1,0 +1,25 @@
+// example 
+"w}[>`",-
+"/",-
+"hulwf",+
+"u|D",-
+"!D",+
+"hulw!",+
+"!",+
+"l!",+
+"fxv",+
+"r!GP",+
+"",-
+"rtf!",+
+"~T",-
+"orMB",-
+"w4Tbk",-
+"f!e",+
+"ue{",-
+"I]",-
+"|.AT",-
+"t",+
+"{",-
+
+// ground truth 
+repeatatleast(or(startwith(<m0>),<low>),1)

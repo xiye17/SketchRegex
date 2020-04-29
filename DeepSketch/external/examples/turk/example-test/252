@@ -1,0 +1,16 @@
+// example 
+"Z`I",-
+"B&s",+
+"t",-
+"s3N3(",-
+"HT",-
+"Z`~",-
+"J",-
+"Rf0l",-
+"7O@s3",-
+"",-
+"vn",-
+"#Ui8",-
+
+// ground truth 
+concat(<cap>,concat(<any>,<low>))

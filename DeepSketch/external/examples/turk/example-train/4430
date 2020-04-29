@@ -1,0 +1,24 @@
+// example 
+"@c]f}",-
+"7bZC",-
+"WhDO",+
+"*Ex",+
+"",-
+"SRX",-
+"1kA5Rz",+
+"zb",-
+"ci",+
+"f}O;!",+
+"h",-
+"1kuH3j",+
+"*CE",+
+"zs",-
+"7bZk",-
+"ce",+
+"f}fHo",+
+"SRw",-
+"@c]fN",-
+"WhDU",+
+
+// ground truth 
+contain(concat(<any>,<vow>))

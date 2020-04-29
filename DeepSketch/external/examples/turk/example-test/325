@@ -1,0 +1,17 @@
+// example 
+"Q~",-
+"^7",-
+"~D2lw",-
+"1axaT",-
+"j{l",-
+"-",-
+"",-
+"|",-
+"go",+
+"Gq",+
+"j^4",-
+"Tas)",-
+"T)xM",-
+
+// ground truth 
+concat(<let>,and(<any>,<low>))

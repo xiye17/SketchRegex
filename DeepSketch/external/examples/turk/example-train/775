@@ -1,0 +1,16 @@
+// example 
+"",+
+"n!U",+
+"6?T",+
+"6~).",+
+"S_",+
+";",+
+"n}lYJ",+
+"~K",+
+"|b7?",+
+"c",-
+"|",+
+"B)F;*",+
+
+// ground truth 
+or(not(<low>),endwith(<num>))

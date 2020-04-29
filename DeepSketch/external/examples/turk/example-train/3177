@@ -1,0 +1,25 @@
+// example 
+"KtAh",-
+"a0iEp",-
+"l^J",-
+"Gn",-
+"W",-
+"iA",+
+"JUQUI",+
+"",-
+"JUQUA",+
+"ore",+
+"i",+
+"ora",+
+"0are",+
+"0arI",+
+"Gp",-
+"ie",+
+"a0iE4",-
+"I",+
+"w",-
+"KtA0",-
+"l^B",-
+
+// ground truth 
+repeatatleast(or(<m0>,endwith(<vow>)),1)

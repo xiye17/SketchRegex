@@ -1,0 +1,16 @@
+// example 
+"uL",-
+"u.",-
+"u",-
+"x&0",-
+"xg_",-
+"gM{w"",-
+"m]52",-
+",|dU_",-
+"{",-
+"m,7^",-
+"vV8",+
+"",-
+
+// ground truth 
+concat(concat(<low>,<cap>),<num>)

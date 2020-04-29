@@ -1,0 +1,25 @@
+// example 
+"ProlQdSC",+
+"q[e=",-
+"m@xtXzVEJd1",+
+"bJqWHWTl2",+
+"i|qpbCHvSr",+
+"Gj]~rlVVZCIC",+
+"i|qpbCHvSD",+
+"",-
+"p[",-
+"]OG_^",-
+"q[e_",-
+"!|}",-
+"pM",-
+"m@xtXzVEJNE",+
+"Gj]~rlVVZCIn",+
+"w",-
+"ProlQdSr",+
+"!|f",-
+"{",-
+"bJqWHWTOW",+
+"]OG_|",-
+
+// ground truth 
+contain(and(repeatatleast(<let>,1),repeatatleast(<any>,8)))

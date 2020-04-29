@@ -1,0 +1,17 @@
+// example 
+"|=?C",+
+"jO",-
+",",+
+"ju",-
+"fN4,L",+
+"Dj",+
+"",+
+"4+?",+
+"8m/v",+
+"^~",+
+"fA{D`",+
+"{jy",+
+"~",+
+
+// ground truth 
+not(concat(<let>,<vow>))

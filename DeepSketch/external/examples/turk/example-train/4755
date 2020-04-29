@@ -1,0 +1,17 @@
+// example 
+"!4",+
+"@#",-
+"I/RA",-
+"!",-
+"`[5",-
+"@j",-
+"",-
+"t)o",-
+"hgKI",-
+"a47xs",-
+"i5",+
+"@",-
+"a:ZUS",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<m1>),<num>)

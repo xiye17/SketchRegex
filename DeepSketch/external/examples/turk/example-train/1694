@@ -1,0 +1,17 @@
+// example 
+"um",+
+"a,^5",-
+"o",-
+"o~0",-
+"u4",+
+"",-
+"eC",-
+"aR:&",-
+"U",-
+"f{:Dw",-
+"joWz/",-
+"o\?",-
+"e/",-
+
+// ground truth 
+concat(<vow>,or(<num>,<low>))

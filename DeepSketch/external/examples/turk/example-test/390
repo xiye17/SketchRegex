@@ -1,0 +1,25 @@
+// example 
+"aVeCv",+
+"s",-
+"NuBnsaqZ",+
+"NuBnsaqu",+
+"kHGxdj",+
+"=&oT",-
+"lBbEdhW",+
+"",-
+"\{",-
+"=k_",-
+"lBbEdhy",+
+"IBCuaaLCn",+
+"IBCuaaLCV",+
+"[cJ4",-
+"~n",-
+"z_<",-
+"kHGxdK",+
+"aVeCF",+
+"{_y3H",-
+"{",-
+"H?IGI",-
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),5)

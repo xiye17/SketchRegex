@@ -1,0 +1,19 @@
+// example 
+"chw",-
+"PM87N:nBb"",+
+"Vh30M[e1fE!",+
+"/azS$UA1e",+
+""",-
+"v?^VxRX_E=hkXW",+
+"",-
+"VD[lY%y",+
+"ZWN2zjH4",+
+"NJ",-
+"eZ"T^;{OO9#l",+
+"/6P_]",+
+"w>~{",-
+"T|;$t}$cXDld\",+
+"0">}Fq",+
+
+// ground truth 
+repeatatleast(or(<any>,<vow>),5)

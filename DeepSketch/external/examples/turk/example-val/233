@@ -1,0 +1,25 @@
+// example 
+"!UR=",+
+"![l",-
+"!R<Ce",-
+"!j=X",-
+"!Uw",+
+"!P",-
+"H\27",-
+"!U'qov",+
+"!",-
+"!A",+
+"!EHTW",+
+"!g`u(",-
+"",-
+"sr",-
+"!a3B@(",+
+"!k$",-
+"!o<ju",+
+"!O*",+
+"R",-
+"!a",+
+"!af9",+
+
+// ground truth 
+repeatatleast(startwith(concat(<m0>,<vow>)),1)

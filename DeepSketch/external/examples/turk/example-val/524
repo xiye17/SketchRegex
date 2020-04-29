@@ -1,0 +1,17 @@
+// example 
+":d*T",-
+"2|",-
+"33s",-
+"3sz",-
+"C~D{",-
+"",-
+"Wg",+
+"6r",+
+"h",-
+"N{rk}",-
+"2:",-
+"?",-
+"Np4<}",-
+
+// ground truth 
+concat(or(or(<num>,<let>),<vow>),<low>)

@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+concat(endwith(<let>),and(<low>,<m0>))

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"E",+
+"STdB",-
+"Dx^Ql",-
+"Gk",-
+"u",-
+"Uq",+
+"Nax",+
+",*",-
+"BdNbA",+
+"CHd",-
+"We",+
+"BdNbu",+
+"",-
+"CD`O",+
+"Dx^QJ",-
+"UgC~",+
+"Noa",+
+"O",+
+"STdy",-
+"CHR",-
+
+// ground truth 
+and(contain(<vow>),startwith(<cap>))

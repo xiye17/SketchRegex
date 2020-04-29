@@ -1,0 +1,25 @@
+// example 
+"pn",+
+"dOuOquwoeOrOiEoAdepA",-
+"pOhExahiyugEwaze",-
+"wEeusecEgOuiaaceei",-
+"yobOuukapateve",-
+"dOuOquwoeOrOiEoAdepo",-
+"zd3}",+
+"pP/=d",+
+"~[B",+
+"qurUfugEeuga",-
+"#",+
+"",+
+"EoJ",+
+"pOhExahiyugEwazo",-
+"v",+
+"pi",+
+"zamG",+
+"qurUfugEeugA",-
+"yobOuukapatevA",-
+"wEeusecEgOuiaaceee",-
+"picOn",+
+
+// ground truth 
+not(repeatatleast(concat(<low>,<vow>),6))

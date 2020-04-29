@@ -1,0 +1,15 @@
+// example 
+"!=w4t",+
+"k@P08A",+
+"jq",+
+"UO,#",+
+"V",+
+"HYf",+
+";Qajg!5Z",+
+"(ZU~ODqd;z",+
+"P9;l#I<hZ",+
+"",-
+"|hIrw83",+
+
+// ground truth 
+startwith(or(<m0>,<any>))

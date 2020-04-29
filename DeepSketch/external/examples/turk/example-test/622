@@ -1,0 +1,25 @@
+// example 
+"W!S!!UYL",+
+"CRTA!T!V!!",+
+"!!",-
+"IWQ!BIH",+
+"W!S!!UY!",+
+"!^",-
+"!!_",-
+"!",-
+"BN!!!!",+
+"V!XIIASJ!",+
+"!!Y#/",-
+"",-
+"h;z.",-
+"IWQ!BI!",+
+"!n:",-
+"BN!!!N",+
+"!$yx?",-
+"C!!!",-
+"V!XIIASJC",+
+"x",-
+"CRTA!T!V!P",+
+
+// ground truth 
+repeatatleast(or(<cap>,<m0>),6)

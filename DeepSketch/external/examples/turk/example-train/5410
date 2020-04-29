@@ -1,0 +1,15 @@
+// example 
+"",+
+"B]U=",+
+"La-g8",+
+"!SF/y",+
+"!bD",+
+"Igi",+
+"!",-
+"!fx6",+
+"!c",+
+"%`",+
+"|",+
+
+// ground truth 
+or(not(<m0>),startwith(<vow>))

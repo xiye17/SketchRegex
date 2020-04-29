@@ -1,0 +1,16 @@
+// example 
+"IU8AK\",+
+"-0GI;",+
+"kh)W*R.t-",+
+"fX",+
+"@Rn",+
+"/4_9ZJ*Y",+
+"q#xb",+
+"aHqr00^",+
+"DAKwbdZ0o<",+
+"R=|;*s]k71m",+
+"x",-
+"",-
+
+// ground truth 
+repeatatleast(endwith(or(<low>,<any>)),2)

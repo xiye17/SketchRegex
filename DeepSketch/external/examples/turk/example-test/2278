@@ -1,0 +1,25 @@
+// example 
+"!HszA",+
+"!VICCc",+
+"Kn",-
+"!fb",+
+"!{",-
+"!",-
+"!Y^",-
+"!2u:'",-
+"!VICCO",+
+"!!P",-
+"",-
+"!Hszb",+
+"!tZg",+
+"!uLsRAk",+
+"S",-
+"eQ'2",-
+"!tZC",+
+"!uLsRAV",+
+"!Wt\",-
+"!fI",+
+"!}h"o",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,2))

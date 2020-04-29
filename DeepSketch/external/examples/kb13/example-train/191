@@ -1,0 +1,25 @@
+// example 
+"eQ@yY",+
+"q:D@",-
+".J}iX",-
+"D@{Qh\iZ",+
+"|AdYc~",+
+"D@{Qh\il",+
+"2V_",-
+"|AdYEP",+
+"</,fRFX",+
+".J}i]",-
+"</,fRFd",+
+"_",-
+"",-
+"}_",-
+"Uaan",+
+"}",-
+"2V~",-
+"q:DG",-
+"eQ@yd",+
+"UaaE",+
+"}}",-
+
+// ground truth 
+repeat(contain(repeat(<let>,2)),2)

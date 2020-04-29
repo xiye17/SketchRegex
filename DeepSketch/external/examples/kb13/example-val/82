@@ -1,0 +1,25 @@
+// example 
+">|HsGb",+
+"|q~",-
+"[",-
+"f^_-y{JJ",+
+"i}T\J}r",+
+"<c",-
+"<6",-
+"",-
+"c",-
+"CKhV",+
+"|q[",-
+">|HsGB",+
+"_Odme",+
+"CKhb",+
+"i}T\J}O",+
+"f^_-y{Jo",+
+";|\e~",-
+"_OdmR",+
+"gKx*",-
+";|\eh",-
+"gKx_",-
+
+// ground truth 
+and(repeatrange(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),0,5),repeatatleast(contain(repeatatleast(<let>,1)),4))

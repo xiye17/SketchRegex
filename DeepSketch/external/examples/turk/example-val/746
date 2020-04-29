@@ -1,0 +1,25 @@
+// example 
+"0",-
+"9;bp",-
+"IU",-
+"B2HU3VFVHF",+
+"$W6",-
+"3G97P0EED",+
+"BZY2s",-
+"V90BKNN",+
+"Q12513",+
+"",-
+"B2HU3VFVH7",+
+"&",-
+"3G97P0EE4",+
+"#m",-
+"0Z4SZ7JW",+
+"BZ)1R",-
+"=VA",-
+"0Z4SZ7J1",+
+"9ahM",-
+"Q1251J",+
+"V90BKN9",+
+
+// ground truth 
+repeatatleast(or(<num>,<cap>),6)

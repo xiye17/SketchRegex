@@ -1,0 +1,20 @@
+// example 
+"!V!L!F!T!O!I!I!F",+
+"!K!D!T!X!M!Q",+
+"[",-
+"rHI",-
+"!Cm>",-
+"!W!L!A!L!Z!W!X!M!L!A",+
+"!",-
+"",-
+"d6",-
+"!D!X!V!K!T!S!W",+
+"!X!I!I!B!M!C!H!P!N",+
+"U_L7",-
+"$a]3-",-
+"![0I6",-
+"!_u",-
+"!n",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<cap>),6)

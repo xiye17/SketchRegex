@@ -1,0 +1,23 @@
+// example 
+"3Y4e8D3H1g6V4P",+
+"7I1G6p2n2I7T6k0A",+
+"0g7t!",-
+"0g70n",-
+"2u0L9u6W2n4w2d1W5z",+
+"1h6O8l7g0v2V1J8N0Y0c",+
+"n",-
+"17",-
+"7I1G6p2n2I7T6k0r",+
+"1h6O8l7g0v2V1J8N0Y0O",+
+"",-
+"&",-
+"1u",-
+"7}#>",-
+"9r1",-
+"7)>\",-
+"9ri",-
+"2u0L9u6W2n4w2d1W5Q",+
+"3Y4e8D3H1g6V4d",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),7)

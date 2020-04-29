@@ -1,0 +1,24 @@
+// example 
+"<meF",-
+"Mu~T",+
+"'O9",+
+"n",-
+"Cu",+
+"CO",+
+"kiG8<",+
+"",-
+"~O;QL.",+
+"vZ",-
+"MA"F",+
+"~utoPw",+
+"<g4W",-
+"'uP",+
+"Kgm",-
+"ke}cY",+
+"Xd_H,",-
+"K!-",-
+"vs",-
+"Xq>g9",-
+
+// ground truth 
+startwith(concat(<any>,<vow>))

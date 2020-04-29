@@ -1,0 +1,14 @@
+// example 
+"",+
+"81}",+
+">,A1C\=\",+
+":",+
+"Lh@i",+
+""{o5fy/h}",+
+"W-E}#r",+
+"7*5:E",+
+"=\",+
+"xoDdUm_",+
+
+// ground truth 
+not(and(<low>,repeatatleast(<cap>,1)))

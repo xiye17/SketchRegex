@@ -1,0 +1,25 @@
+// example 
+"IO_GIieEI",+
+"JopC",-
+"qO",-
+"AamIm",-
+"PSieIao",+
+"eUaiIi",+
+"IBU",-
+"vIUaeo0v",+
+"eUaiau",+
+"#",-
+"",-
+"qu",-
+"IBe",-
+"EiIII",+
+"EiIIu",+
+"JopO",-
+"i",-
+"IO_GIieEo",+
+"vIUaee<a",+
+"PSieIae",+
+"AamIG",-
+
+// ground truth 
+contain(repeatatleast(<vow>,5))

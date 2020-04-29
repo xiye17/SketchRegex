@@ -1,0 +1,17 @@
+// example 
+"Z[",-
+"Oq2w",-
+"aC",+
+"oI",+
+"E@C",-
+"",-
+"=",-
+"i_",-
+"~*#"n",-
+"J",-
+"O0eb",-
+"Qpk",-
+"X+:n7",-
+
+// ground truth 
+concat(or(or(<num>,<vow>),<m0>),<cap>)

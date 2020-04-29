@@ -1,0 +1,14 @@
+// example 
+"",+
+"F#Nx",+
+"k\.#9U~",+
+"JKRx$xXc",+
+"Fij",+
+"h",+
+"q@5APnGy9",+
+"NgZ&hm",+
+"c2",+
+"y#!z5",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,1),<m1>))

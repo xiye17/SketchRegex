@@ -1,0 +1,25 @@
+// example 
+"Mc",-
+"IAIAaOIapo!e!a!",+
+"GOi!EI!OoIU!O!U!Q(",+
+"iEuAa",-
+"A!U!u!",+
+"",-
+"uqE",-
+"klTh",-
+"A!U!E!",+
+"k.U!Cu!I!A!",+
+"HUMEEEe!o!o!",+
+"IAIAaOIapo!e!A!",+
+"O",-
+"Mh",-
+"iEuAI",-
+"uqh",-
+"HUMEEEe!o!U!",+
+"k.U!Cu!I!i!",+
+"GOi!EI!OoIU!O!o!cT",+
+"klTB",-
+"E",-
+
+// ground truth 
+contain(repeatatleast(concat(<vow>,<m0>),3))

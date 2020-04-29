@@ -1,0 +1,15 @@
+// example 
+"\5H)p",-
+"gT",-
+"T-V",-
+"-7B",+
+"g7",-
+"*#Db",-
+"*kr"",-
+"\a-oY",-
+"",-
+"TLd",-
+"E",-
+
+// ground truth 
+concat(<any>,concat(<num>,<cap>))

@@ -1,0 +1,17 @@
+// example 
+"f4Fh}",-
+""o",-
+"<01]",-
+"7?4",-
+"|I[0",-
+"TS",+
+"^",-
+"",-
+"7n_",-
+"tC",+
+"fudgI",-
+"|*",-
+"@",-
+
+// ground truth 
+concat(or(or(<vow>,<let>),<num>),<cap>)

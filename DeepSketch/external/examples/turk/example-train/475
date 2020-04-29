@@ -1,0 +1,15 @@
+// example 
+"",+
+"0",-
+"q57C",+
+"!K,%",+
+"!!",+
+"tw~@y",+
+"!",+
+"&v",+
+"\AX",+
+"!0Kg7",+
+"!I~",+
+
+// ground truth 
+repeatatleast(or(<m0>,not(<any>)),1)

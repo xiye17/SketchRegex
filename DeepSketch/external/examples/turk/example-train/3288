@@ -1,0 +1,26 @@
+// example 
+"Z",+
+"?W?",-
+"gO",+
+"e%",-
+"JtNNHV",+
+"l",-
+"BH<Y",+
+"=?\XX",+
+"8j.N5",-
+"",-
+"=?\2G",+
+"8j.N`",-
+"[-F",+
+"YaOx",-
+"JtNNjL",+
+"BHZQ",+
+">",-
+"YaO3",-
+"1L",+
+"en",-
+"[UK",+
+"?Wp",-
+
+// ground truth 
+concat(contain(not(<m0>)),<cap>)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"sqncN",+
+"v1}7",+
+"D#d",+
+"S$>y~",+
+"|7,",+
+"v",-
+"Ej",+
+"hE",+
+":{%>",+
+"A",+
+"|",+
+
+// ground truth 
+repeatatleast(or(not(<low>),<cap>),1)

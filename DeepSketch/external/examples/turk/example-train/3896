@@ -1,0 +1,25 @@
+// example 
+"0",-
+"2e0O8U2u8o4a9o0U",+
+"3U1O1u1e6a7u",+
+"5U6a7U7I4i5e2a",+
+">^+,",-
+"8i9O6U6e6u1a1o1a7U",+
+",Kp",-
+"8i9O6U6e6u1a1o1a7a",+
+"4l/g",-
+"6Bj.r",-
+"",-
+"2e0O8U2u8o4a9o0i",+
+"|F",-
+"t(|",-
+"3U1O1u1e6a7A",+
+"4A5i0I5A2I4U8I8E7I4O",+
+"4A5i0I5A2I4U8I8E7I4e",+
+":",-
+"'M",-
+"5U6a7U7I4i5e2o",+
+"%#*!j",-
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),6)

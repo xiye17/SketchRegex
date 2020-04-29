@@ -1,0 +1,26 @@
+// example 
+"e!",+
+"">COa!",+
+"EIUU",-
+"e8",+
+"gyr!",+
+"gyN!",+
+"eOp",-
+"!",+
+"eT!",+
+"e.!",+
+"",-
+"a",-
+"oy",-
+"EIUh",-
+"!D_O3",+
+"eOj",-
+"LOi_o",-
+"I",-
+"LOi_A",-
+"">COa9",+
+"o`",-
+"!D_O!",+
+
+// ground truth 
+endwith(or(concat(<vow>,<num>),<m0>))

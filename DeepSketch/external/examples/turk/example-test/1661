@@ -1,0 +1,17 @@
+// example 
+"b*",-
+"gYl",-
+"",-
+"_9J[",-
+"o@",+
+"T3L4h",-
+":",-
+"bv",-
+"!@",+
+"k@ip",-
+"Tz^t(",-
+"^zf",-
+"{",-
+
+// ground truth 
+concat(or(or(<low>,<cap>),<m0>),<m1>)

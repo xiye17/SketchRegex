@@ -1,0 +1,25 @@
+// example 
+"MI",+
+"Y",-
+"UlfH",+
+"EPCe3",+
+"Mx",+
+"LNI",+
+"IYFPx",+
+"",-
+"|CDX",-
+"}|N",-
+"=E%,",+
+"^V",-
+"LH|JZ",-
+"LH|JD",-
+"|",-
+"}|B",-
+"AB!",+
+"^T",-
+"O",+
+"I",+
+"|CD|",-
+
+// ground truth 
+contain(or(<low>,<vow>))

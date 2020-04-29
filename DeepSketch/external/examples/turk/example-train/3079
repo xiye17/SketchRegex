@@ -1,0 +1,15 @@
+// example 
+"r}8",+
+"9};E6y",+
+"U))%K",+
+"0,[w",+
+"QE'Rq{Xu",+
+"\fuLA!e<}",+
+"acsYIPj*Js",+
+"&",+
+"y,",+
+"",-
+"VYe]>R^",+
+
+// ground truth 
+endwith(or(repeatatleast(<any>,1),<m0>))

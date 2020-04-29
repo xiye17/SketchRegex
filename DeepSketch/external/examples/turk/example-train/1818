@@ -1,0 +1,16 @@
+// example 
+"!i",+
+"i{A",-
+"$"yO",-
+"l",-
+"!{",-
+"!",-
+"!d1",-
+"fLaoI",-
+"e5",-
+"!3o"S",-
+"",-
+"!9l#",-
+
+// ground truth 
+concat(<m0>,and(<let>,<low>))

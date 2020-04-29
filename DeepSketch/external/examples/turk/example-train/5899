@@ -1,0 +1,26 @@
+// example 
+"?v\",+
+"Ct-Pa",+
+"+<wFS",-
+"Z",-
+"76",+
+"a85R",-
+"7c",+
+"PU",-
+"",+
+"!vG",-
+"?v<",+
+"mSX;",+
+"!*H",-
+"9",+
+"a8ED",-
+"i",+
+"mSX}",+
+"+<w.W",-
+">F",-
+"fhZ,4G",-
+"fhZ,[U",-
+"Ct-P<",+
+
+// ground truth 
+not(repeatatleast(endwith(<cap>),1))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"WMOxU2c`",+
+">,",+
+"UB3v,^^lI",+
+"vpu",+
+"u",+
+"9lGt",+
+"4p!<>",+
+"e]hEr*E",+
+"W%F.}N",+
+
+// ground truth 
+contain(star(endwith(<let>)))

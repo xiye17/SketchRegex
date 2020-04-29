@@ -1,0 +1,25 @@
+// example 
+"B%J",-
+"B{Y",-
+"v=",-
+"1",+
+"JK1G",+
+"ij791",+
+"",-
+"P|QON",-
+"q7",+
+"&",-
+"}",-
+"&(5/",-
+"ij79f",+
+"v]",-
+"MoZ",+
+"P!eLZ",-
+"JK1f",+
+"Mor",+
+"y",+
+"qS",+
+"~d="",-
+
+// ground truth 
+repeatatleast(or(<num>,<let>),1)

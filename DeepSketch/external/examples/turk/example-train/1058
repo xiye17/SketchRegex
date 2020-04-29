@@ -1,0 +1,25 @@
+// example 
+"uA",+
+"ip-",-
+"boBet",-
+"bba",+
+"UITz",-
+"aJ",-
+"boBe.",-
+"U",+
+"ipS",-
+"",-
+"UITp",-
+"D5bi",+
+"aP",-
+"bbA",+
+"ghee8",+
+"D5be",+
+"gheeI",+
+"u",+
+"M",-
+"uI",+
+">",-
+
+// ground truth 
+endwith(or(<vow>,<num>))

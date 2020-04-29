@@ -1,0 +1,25 @@
+// example 
+"e31593ha8e",+
+"9"ZM",-
+"9_F.",-
+":jNGn",-
+"e31593ha83",+
+"3y8l7zg8sb7",+
+"q",-
+"n08fx2dn",+
+"&cc1'",-
+"",-
+"n08fx2d3",+
+"x3",-
+"-'3",-
+"{1U",-
+"x"",-
+"sh2rj9n",+
+"sh2rj97",+
+"s8v38836k",+
+"s8v388362",+
+"3y8l7zg8sbh",+
+"{",-
+
+// ground truth 
+repeatatleast(or(<low>,<num>),7)

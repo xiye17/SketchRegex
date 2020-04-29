@@ -1,0 +1,14 @@
+// example 
+"",+
+"&ClL),",+
+"-ZjMRwrDe",+
+"l2g[",+
+"_\~",+
+"I",+
+"nc",+
+"H#w;}3ky",+
+"K3eV\",+
+")G.T::u",+
+
+// ground truth 
+contain(star(concat(<cap>,<m0>)))

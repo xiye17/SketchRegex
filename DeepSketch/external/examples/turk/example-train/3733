@@ -1,0 +1,15 @@
+// example 
+"",+
+"MT",+
+"!sst",+
+"~|Qu",+
+"RxN}]",+
+":",+
+",/Z",+
+"!",-
+"!%",+
+"!<=",+
+"!dn>w",+
+
+// ground truth 
+or(not(<m0>),concat(<any>,<let>))

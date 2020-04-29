@@ -1,0 +1,17 @@
+// example 
+"\'[oH",-
+"G",-
+"j#",-
+"eTF",-
+"kFU$",-
+"Q|{%9",-
+"i9",+
+"e9b",-
+"O"vY",-
+"u2",+
+"",-
+"UQ",-
+"I",-
+
+// ground truth 
+concat(or(<m0>,<vow>),<num>)

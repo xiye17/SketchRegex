@@ -1,0 +1,15 @@
+// example 
+"+z^",-
+"w}Mp",-
+"Hmgum",-
+"3",-
+"w7FJ",-
+"+Gx",-
+"le",-
+"H9wc#",-
+"",-
+"LX",+
+"l&",-
+
+// ground truth 
+concat(or(<any>,<let>),<cap>)

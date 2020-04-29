@@ -1,0 +1,17 @@
+// example 
+"Qe",+
+"=7+gi",-
+"28",-
+"s@DS",-
+"^",-
+"",-
+"b",-
+"s]o&",-
+"QI",+
+"rD!",-
+"OU\aS",-
+"]]N",-
+"]z",-
+
+// ground truth 
+concat(<let>,<vow>)

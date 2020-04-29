@@ -1,0 +1,16 @@
+// example 
+"cm`",-
+")|",-
+"GI",+
+"cEQ",-
+"GO",+
+"^A}c\",-
+"@",-
+")b",-
+"|E:Y",-
+"|g9b",-
+"",-
+"^in52",-
+
+// ground truth 
+and(concat(<any>,<vow>),not(<num>))

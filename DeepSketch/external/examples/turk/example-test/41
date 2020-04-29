@@ -1,0 +1,25 @@
+// example 
+"HUzp",-
+"FdV",-
+"D'Z{kl=J",-
+""_652I",-
+"t`2#Aj;a4",-
+"!P",+
+"KH!",+
+"!",+
+"d9",-
+"P!x^7",+
+"",-
+"q!o9uE",+
+"<",-
+"!cFBHZ",+
+"!qi8K",+
+"!,1P",+
+"Z3&<Y",-
+"~$]}Zcs",-
+"6!",+
+"K!n",+
+"9[F!",+
+
+// ground truth 
+contain(concat(not(<cap>),<m0>))

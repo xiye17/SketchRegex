@@ -1,0 +1,15 @@
+// example 
+"",+
+"!T",+
+"vB",+
+"_,$",+
+"RX%PU",+
+"!RG!I",+
+"!MM#",+
+"J",+
+"PXF%",+
+"!",-
+"!Ro",+
+
+// ground truth 
+or(not(<m0>),and(<m1>,<any>))

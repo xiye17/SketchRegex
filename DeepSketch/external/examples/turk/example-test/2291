@@ -1,0 +1,17 @@
+// example 
+"'In",-
+"R!",+
+"8m",-
+"Y.",-
+"J!DpK",-
+"7!",+
+"",-
+"`",-
+";",-
+"~K1x",-
+"~Wg",-
+"J}pP!",-
+"d!mi",-
+
+// ground truth 
+concat(or(or(<num>,<low>),<let>),<m0>)

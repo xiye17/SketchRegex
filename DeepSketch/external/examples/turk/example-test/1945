@@ -1,0 +1,15 @@
+// example 
+"!U",-
+"!tL",-
+"!UmH?",-
+"*ANzU",-
+"MC(n",-
+"i/",-
+"!P~c",-
+"!",+
+"",-
+"X~1",-
+"'",-
+
+// ground truth 
+and(not(<num>),<m0>)

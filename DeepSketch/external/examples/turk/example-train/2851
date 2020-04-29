@@ -1,0 +1,17 @@
+// example 
+"!I-",+
+"!q",+
+"!u",-
+"]+g!y",+
+"!y",+
+"!",+
+"",+
+"GhA",+
+"!HEK",+
+"!ifur",+
+"!d9d",+
+"x",+
+"!i",-
+
+// ground truth 
+not(concat(<m0>,<vow>))

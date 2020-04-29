@@ -1,0 +1,24 @@
+// example 
+"!U{n4Z",+
+"\QL",-
+"`MpcL7!ae",-
+"!rO.HpZt",+
+"!",+
+"o`vB5dk",-
+"!Z8P",+
+"",-
+"W1dy",-
+"!2EUc",+
+"3,",-
+"!'",+
+"!]*BNv|",+
+"tA9Qfs",-
+"7",-
+"Lz"/KEdT",-
+"PUz3G",-
+"!R9",+
+"!y8kC\y?.",+
+"!3s%jOC[`g",+
+
+// ground truth 
+concat(<m0>,not(and(<m1>,<m2>)))

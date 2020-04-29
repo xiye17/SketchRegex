@@ -1,0 +1,16 @@
+// example 
+"%",-
+"W1",-
+"h",-
+"Q];.<",-
+"72{@,",-
+"{>m",-
+"Tb(z",-
+"5,Fr",-
+"I",+
+"`l",-
+"7bz",-
+"",-
+
+// ground truth 
+and(endwith(<cap>),or(<any>,<m0>))

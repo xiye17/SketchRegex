@@ -1,0 +1,18 @@
+// examples
+"!a",+
+"!!e",+
+"!A",+
+"!AEO",+
+"!aEi",+
+"!abbbb",+
+"!!!ae",+
+"",-
+" ",-
+"1",-
+"2",-
+"12",-
+"b",-
+"!b",-
+
+// ground truth 
+concat(star(<m0>),contain(contain(<vow>)))

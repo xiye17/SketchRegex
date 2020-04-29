@@ -1,0 +1,25 @@
+// example 
+"bplo",+
+"q~",-
+"bplX",+
+"gxtsiqr",+
+"q?",-
+"mempw",+
+"}^>f",-
+"ivitsl",+
+"umwiwocu",+
+"}7)",-
+"[/._q",-
+"gxtsiqD",+
+"",-
+"i",-
+"mempV",+
+"f3B2U",-
+"umwiwocS",+
+"ivitsU",+
+"2KwO",-
+"H",-
+"_aT",-
+
+// ground truth 
+concat(repeatatleast(<low>,3),<let>)

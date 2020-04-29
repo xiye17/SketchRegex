@@ -1,0 +1,14 @@
+// example 
+"",+
+"cs",+
+"N",+
+"Ub`j",+
+"TdiZ96rq^",+
+"u<k+SM3",+
+"WW~4Y_",+
+"uAOsS",+
+"Qy>",+
+"aFM4Z|uJ",+
+
+// ground truth 
+contain(not(and(<num>,<let>)))

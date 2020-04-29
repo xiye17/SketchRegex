@@ -1,0 +1,25 @@
+// example 
+"2RFuY%Jq",+
+"9{[-ZHbOi",+
+"&Z&",-
+"2",+
+"4_z\5",+
+"!",-
+")L.k'",-
+"R{d_R",-
+"",-
+"}eM9",-
+"oo",-
+"9R9",+
+"6HxDL*J="c",+
+"S",-
+"$[N\",-
+"7<",+
+"8,*XN!",+
+"gXI",-
+"4msj",+
+"3>bn_X7",+
+"'`",-
+
+// ground truth 
+startwith(repeatatleast(<num>,1))

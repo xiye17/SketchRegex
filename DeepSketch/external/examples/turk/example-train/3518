@@ -1,0 +1,26 @@
+// example 
+"ko",+
+"bC7qAZ",+
+"y$p",+
+"}:WF",-
+"t}w'C",+
+"t}~~x",+
+"bsTzX3",+
+"V",-
+"h]\",-
+"jM}"i;y",+
+"qV~z",+
+"",-
+"ym&",+
+"f}",-
+"9Il^*",-
+"qV#i",+
+"jM}"'gB",+
+"y,$~~",-
+"z",-
+"BS",-
+"v~|[",-
+"h]}",-
+
+// ground truth 
+repeatatleast(startwith(<low>),2)

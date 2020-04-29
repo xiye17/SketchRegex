@@ -1,0 +1,25 @@
+// example 
+"LIzp]",+
+"vRaQ",+
+"YeeYi_",+
+"LIzpo",+
+"o",-
+"evNsKb,",+
+"/$",-
+"evNsKb`",+
+"Z#J*R",-
+"",-
+"?zS0",-
+"vRa]",+
+"YeeYi~",+
+"|"",-
+"uT}",-
+"Ro~",+
+"RoK",+
+"|]1uS",-
+"uTz",-
+"r{Eg",-
+"H",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),concat(<low>,<any>))

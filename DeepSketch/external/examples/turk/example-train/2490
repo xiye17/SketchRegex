@@ -1,0 +1,17 @@
+// example 
+"i-oc",-
+"a@z~g",-
+"0@>",-
+"",-
+"I@",+
+"Q",-
+"0dv",-
+"fQ",-
+"h",-
+"e@",+
+"i@[5",-
+"at?a!",-
+"l{",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<num>),<m1>)

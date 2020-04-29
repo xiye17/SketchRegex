@@ -1,0 +1,25 @@
+// example 
+"u52UeI",+
+"Ao5OE",+
+"oE",+
+"afa",-
+"uaiL;",-
+"E58",+
+"ooeI",+
+"",-
+"b",-
+"uaiEG",-
+"oA",+
+"ED",-
+"Ao5Oi",+
+"U",-
+"sF",-
+"sZL)",-
+"JA%+",-
+"E5a",+
+"u52Ue8",+
+"ooe3",+
+"aBw",-
+
+// ground truth 
+repeatatleast(or(<num>,<vow>),2)

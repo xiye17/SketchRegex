@@ -1,0 +1,17 @@
+// example 
+"4e",+
+"1L`Q",-
+"2oE',",-
+"5q",-
+"d",-
+"",-
+")",-
+"2Hrgj",-
+"b}Ql",-
+"4U",+
+"Wz",-
+"5dr",-
+"5D)",-
+
+// ground truth 
+concat(<num>,and(and(<let>,<vow>),<any>))

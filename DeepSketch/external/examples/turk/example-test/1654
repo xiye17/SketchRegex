@@ -1,0 +1,25 @@
+// example 
+"gyKe",+
+"_JB~J",+
+"Os|V^",-
+"MG",+
+"WU^",-
+"k",+
+"I~i",+
+"_JB~l",+
+"!",-
+"Os|V|",-
+"w3",-
+"",-
+"}}W$",-
+"Mj",+
+"}",-
+"WU&",-
+"gyKH",+
+"w|",-
+"J",+
+"I~S",+
+"}}W|",-
+
+// ground truth 
+concat(not(repeatatleast(<m0>,1)),<let>)

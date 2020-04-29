@@ -1,0 +1,18 @@
+// examples
+"Aa",+
+"aa",+
+"Ba",+
+"!a",+
+"!aa",+
+"!a3",+
+"ae3",+
+"a",-
+"!",-
+"A",-
+"1",-
+"!A",-
+"aA",-
+"AA",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<cap>),contain(<low>))

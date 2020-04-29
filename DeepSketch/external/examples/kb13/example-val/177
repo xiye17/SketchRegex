@@ -1,0 +1,25 @@
+// example 
+"Jy~8",-
+".w!",+
+"mJ!J*",+
+"|Xf-a",-
+"}F(",-
+"JV}!",+
+"Fy]KJ",-
+"\}s9!*",+
+"",-
+"Z!",+
+"\}s9z!",+
+"}\",-
+"~PSE",-
+"U",-
+"b!",+
+".I!",+
+"w",-
+"JV!i",+
+"m!C#p",+
+"}F",-
+"}?v",-
+
+// ground truth 
+concat(contain(<let>),startwith(<m0>))

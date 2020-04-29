@@ -1,0 +1,15 @@
+// example 
+"mg>)faya<",+
+"`m5Yvb",+
+"j",+
+"jjF",+
+""b")4",+
+"<T'=",+
+"lW",+
+",Aa"A6h",+
+">XI1QxUY",+
+"",-
+"(6SN?m+4Eq",+
+
+// ground truth 
+or(repeatatleast(<any>,1),<let>)

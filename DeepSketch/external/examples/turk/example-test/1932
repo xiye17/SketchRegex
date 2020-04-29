@@ -1,0 +1,16 @@
+// example 
+"e=l~vppK",+
+"}E",+
+"N!{15Q#%IP9",+
+"Iwo1o",+
+"PXiws'",+
+"ez1~p?(qs",+
+"*W1;/1$.7f",+
+"5ri",+
+"-",-
+"s?*"",+
+"",-
+"?n[+Xrs",+
+
+// ground truth 
+repeatatleast(endwith(or(<any>,<m0>)),2)

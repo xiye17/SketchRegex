@@ -1,0 +1,25 @@
+// example 
+"g}}6{",-
+"Jo|",+
+"g}}6y",-
+"t",-
+"x|o",-
+"|z6k",-
+"mn",+
+"mA",+
+"}~~m7",+
+"x|~",-
+"",-
+"|~",-
+"|z6|",-
+"tdoc",+
+"}~~mp",+
+"T",-
+"|S",-
+"tdo|",+
+"ji||iw",+
+"Joq",+
+"ji||i|",+
+
+// ground truth 
+endwith(concat(<low>,<any>))

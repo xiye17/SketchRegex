@@ -1,0 +1,17 @@
+// example 
+"qUd",+
+"_uW<",-
+"luw./",-
+"qOa",+
+"lu<AH",-
+"",-
+")",-
+"GI",-
+"8+]+",-
+"C",-
+"^=i",-
+"==",-
+"<W|",-
+
+// ground truth 
+concat(<let>,concat(<vow>,<low>))

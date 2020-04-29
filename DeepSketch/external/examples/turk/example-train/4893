@@ -1,0 +1,24 @@
+// example 
+"=pB1y8l|l",+
+"J_1",-
+"MZ}{/|[u",+
+"or1w,8Jz|3n",+
+"or1w,8Jz|3Z",+
+"{1",-
+"0:}TFu"}",-
+"MZ}{/|[A",+
+"",-
+"|]&5xx\[;~_x",+
+"0]-X=",-
+"7&-)1kap-K",+
+"^nWEM=4",-
+"=pB1y8l|I",+
+"7&-)1kap-q",+
+"|]&5xx\[;~_M",+
+"2x7pTa",-
+"@",-
+"Smz;",-
+"0:}TFu"'",-
+
+// ground truth 
+concat(repeatatleast(<any>,7),<let>)

@@ -1,0 +1,15 @@
+// example 
+"",+
+"3:,j",+
+"1",-
+"hR{iG:f]",+
+"'`<~#g*tk:",+
+"I7v",+
+"L9",+
+"s+4Xq+f",+
+"quA:z",+
+"k2ZD$V",+
+"lq2Zo:'S&",+
+
+// ground truth 
+or(not(<any>),and(<m0>,<vow>))

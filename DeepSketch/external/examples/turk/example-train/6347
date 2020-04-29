@@ -1,0 +1,25 @@
+// example 
+"UC",+
+"i*m^",-
+"[",-
+"a`}t",+
+"Us",+
+"oW^{?",-
+"atNjM",+
+"e+[gtv",+
+"a`}B",+
+"",-
+"i;F",+
+"u7",-
+"e+[gtC",+
+"oW^{|",-
+"i;t",+
+"u|",-
+"G=R",-
+"O",-
+"atNjc",+
+"i*m+",-
+"R<u",-
+
+// ground truth 
+concat(<vow>,endwith(<let>))

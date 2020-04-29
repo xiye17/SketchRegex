@@ -1,0 +1,25 @@
+// example 
+"DM6||",-
+"$/",-
+"1wq_",-
+";@b_Nfg",+
+"JhGZq",+
+"LGa\Q3",-
+";@b_NfN",+
+"AALg~Y",+
+"#)J",+
+"",-
+"LGa\Q~",-
+":",-
+"3R7b",+
+"AALg~j",+
+"~"\",-
+"1wq,",-
+"3R7N",+
+"JhGZF",+
+"~"=",-
+"DM6|_",-
+"#)i",+
+
+// ground truth 
+concat(repeatatleast(<any>,2),<let>)

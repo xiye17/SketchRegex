@@ -1,0 +1,14 @@
+// example 
+"",+
+"?V8>3J^",+
+"Q6#2",+
+"l2",+
+">,w;1|",+
+"cGr*Lyf/z",+
+"#Z3I(",+
+"6HK",+
+"YV.iMN!G",+
+"\",+
+
+// ground truth 
+not(and(repeatatleast(<m0>,5),<any>))

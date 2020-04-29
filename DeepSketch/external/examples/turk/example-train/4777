@@ -1,0 +1,17 @@
+// example 
+"-gX64",-
+"0E",+
+"!t|",-
+"K;bc",-
+"",-
+"b",-
+"vE",+
+"?!",-
+"c#Pf0",-
+"!:",-
+"KX)L",-
+"{",-
+"!8c",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<let>),<cap>)

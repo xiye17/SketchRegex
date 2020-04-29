@@ -1,0 +1,25 @@
+// example 
+"0T3s3q8p3u7t6L9l",+
+"/",-
+"9v4Y4u1F2v7l5G",+
+"0;b",-
+"5S0q8d9P2a6c",+
+"0|0",-
+"6G2u0f4M",+
+"0[C/e",-
+"8^JV",-
+"84CU",-
+"",-
+"2i9K6j1p3X",+
+"9v4Y4u1F2v7l5h",+
+"0T3s3q8p3u7t6L9M",+
+"i",-
+"5S0q8d9P2a6C",+
+"0}:>p",-
+"2i9K6j1p3u",+
+"6G2u0f4l",+
+"xh",-
+"#+",-
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),4)

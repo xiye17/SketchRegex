@@ -1,0 +1,25 @@
+// example 
+"AvJ6-",+
+"s",-
+"?,Xc",-
+"cHL",-
+"TjCRD",-
+"{4",+
+"?,X_",-
+"3",+
+"RGTa",+
+"TjCR/",-
+"B!q",+
+"uc/VD",+
+"",-
+"M)",-
+"<",-
+"{o",+
+"Mj",-
+"O",+
+"cHG",-
+"BOu",+
+"RGTU",+
+
+// ground truth 
+contain(or(or(<num>,<vow>),<m0>))

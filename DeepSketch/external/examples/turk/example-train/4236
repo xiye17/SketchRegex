@@ -1,0 +1,24 @@
+// example 
+"}~",-
+"Lu[o{",-
+"|m{g",-
+"|m{}",-
+"IgQ",+
+"Lu[oj",-
+"z~tbW",+
+"oE",+
+"~61WhD",+
+"{pV",+
+"}}g",-
+"ZvCk",+
+"",+
+"}2",-
+"ZvnY",+
+"}}|",-
+"y",-
+"~61dtW",+
+"z~?sL",+
+"~",-
+
+// ground truth 
+star(contain(concat(<low>,<cap>)))

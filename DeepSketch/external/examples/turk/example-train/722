@@ -1,0 +1,25 @@
+// example 
+"r",-
+"$wauiu",+
+"]Mso",+
+"rkoEa",+
+"$wauiE",+
+"]Msi",+
+"rkoE!",+
+"",-
+"su",+
+"?~",-
+"||{\",-
+"C||",-
+"||{s",-
+"{kI",+
+"s!",+
+"?u",-
+"qEu!@",-
+"C|t",-
+"{kU",+
+"{",-
+"qEu!M",-
+
+// ground truth 
+concat(contain(<low>),or(<vow>,<m0>))

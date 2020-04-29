@@ -1,0 +1,14 @@
+// example 
+"",+
+"Z",+
+"XlI2I",+
+".QJbap;i",+
+"eEpVT)hCU",+
+"]|fr;g",+
+"dN@f",+
+"CJ>\8;b",+
+"+P",+
+"Ke8",+
+
+// ground truth 
+not(and(<m0>,<m1>))

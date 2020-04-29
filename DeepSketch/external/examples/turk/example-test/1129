@@ -1,0 +1,17 @@
+// example 
+"nYC",-
+":*P",-
+"q",-
+"gi!",+
+"",-
+"^1#GE",-
+"{.",-
+"q-",-
+"~@H,)",-
+"Oh!E",-
+"Oh:@",-
+"{",-
+"Ga!",+
+
+// ground truth 
+concat(<let>,concat(<any>,<m0>))

@@ -1,0 +1,16 @@
+// example 
+"g",-
+"7\v",-
+"Kn",+
+"C|",-
+"WmUt",-
+"/Dzt"",-
+"hiH",-
+"k;JxG",-
+"(",-
+"CJ",-
+"",-
+"W~v+",-
+
+// ground truth 
+concat(<cap>,<low>)

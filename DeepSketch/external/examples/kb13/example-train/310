@@ -1,0 +1,25 @@
+// example 
+"JcL",-
+"iT3",+
+"3KE>",+
+"%a%`3",+
+"zsU$",-
+"i*7",+
+"%a%+4",+
+"Osa\[",-
+"o7",+
+"^",-
+"PY",-
+"",-
+"a",-
+"Jc,",-
+"zsUE",-
+"ga+&^8",+
+"Osa\/",-
+"i0",+
+"3Ke-",+
+"P2",-
+"ga+&8e",+
+
+// ground truth 
+and(contain(<num>),contain(<vow>))

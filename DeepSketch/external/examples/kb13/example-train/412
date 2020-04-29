@@ -1,0 +1,25 @@
+// example 
+"uSNie",+
+"Euc",-
+"OEa",+
+"O;Ua]4",+
+"UIwvq",-
+"uSNii",+
+"iOjUPL}",+
+"OEo",+
+"oCEu",+
+"",-
+"Ie^L",-
+"UIwvk",-
+":",-
+"O;UUmc",+
+"iOjE[EZ",+
+"A&",-
+"Ie^;",-
+"oCEI",+
+"Ae",-
+"Eu`",-
+"H",-
+
+// ground truth 
+repeatatleast(contain(<vow>),3)

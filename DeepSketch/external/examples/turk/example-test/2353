@@ -1,0 +1,24 @@
+// example 
+"!GSl",+
+"!9;",+
+"d~9",-
+"!$hChIQ",+
+"e@94",-
+"r@yY@hs",-
+"!",+
+"!(kJC|",+
+"",-
+"j.!<#de>g",-
+",kk)ha",-
+"!j[9_ce`",+
+"/7\_)>SW",-
+"!"lUw",+
+"!.",+
+"t7M<|",-
+"!OI~G#oh_'",+
+"!X6x?M[VV",+
+"B",-
+"i)",-
+
+// ground truth 
+concat(<m0>,not(and(<m1>,<num>)))

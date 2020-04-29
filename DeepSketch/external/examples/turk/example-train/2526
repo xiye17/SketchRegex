@@ -1,0 +1,16 @@
+// example 
+"P",-
+"dv",-
+"LZTZ",-
+"V?OsG",-
+"~%Cw",-
+"PE",+
+"{!n",-
+"p",-
+"2Da",-
+";d",-
+"[v|~x",-
+"",-
+
+// ground truth 
+concat(and(<cap>,<let>),<any>)

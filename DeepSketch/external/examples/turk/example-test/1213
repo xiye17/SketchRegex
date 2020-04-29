@@ -1,0 +1,25 @@
+// example 
+"aaEiaoe",+
+"]",-
+"ee",-
+"oJeouNeio",+
+"uauFiieaeeu",+
+"ham",-
+"e|",-
+"oJeouNeia",+
+"A}|W",-
+"e",-
+"",-
+"aaEiaoo",+
+"oiaoeuaO",+
+"QaULoeuoee",+
+"u^\ja",-
+"uauFiieaeeo",+
+"ufI",-
+"oiaoeuaa",+
+"Ab{y",-
+"uugL:",-
+"QaULoeuoei",+
+
+// ground truth 
+repeatatleast(or(<vow>,<cap>),7)

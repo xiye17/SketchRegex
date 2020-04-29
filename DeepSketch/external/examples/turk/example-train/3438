@@ -1,0 +1,25 @@
+// example 
+"FUOPZI",+
+"Jh",-
+"JU",-
+"E(J);",-
+"OWVLXQFRFe",+
+"RBUHMSUMv",+
+"MOUWYAS",+
+"o|a",-
+"",-
+"FUOPZj",+
+"~Qu)",-
+"KFZARXGQ",+
+"=",-
+"V%](",-
+"Ex&:U",-
+"U?p",-
+"RBUHMSUMW",+
+"OWVLXQFRFR",+
+"K",-
+"MOUWYAm",+
+"KFZARXGl",+
+
+// ground truth 
+concat(repeatatleast(<cap>,5),<let>)

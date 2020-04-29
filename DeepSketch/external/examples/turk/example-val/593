@@ -1,0 +1,25 @@
+// example 
+"5W)sqQTq=",-
+"ynGV",-
+"!1",+
+"!Jys",+
+"xs}!<j",+
+">{S(iu",-
+"HNJyQ>;",-
+"!",+
+""Clq{",-
+"",-
+"m~",-
+"!:Aw?",+
+"xs}(!"",+
+"P!",+
+"ELh",-
+"@!+",+
+"dZx97_+S",-
+"z!\k",+
+"!<%",+
+"%!7O+",+
+"I",-
+
+// ground truth 
+concat(not(<let>),contain(<m0>))

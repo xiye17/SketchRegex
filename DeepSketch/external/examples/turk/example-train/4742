@@ -1,0 +1,25 @@
+// example 
+"`j%e",-
+"]'",-
+"k6!m",+
+"*~a",-
+"FszDf",-
+"!",+
+"@!Z",+
+"W^e!;9",+
+"",-
+"W^en\!",+
+"$",-
+"sFC)k:",-
+"N!",+
+"!`z6",+
+"]'l`~JV",-
+"p^CGk_+q",-
+"@K!",+
+"CWd!O",+
+"VSwHH>awz",-
+"!0",+
+"!Vg)*",+
+
+// ground truth 
+or(contain(<m0>),and(and(<let>,<m1>),<any>))

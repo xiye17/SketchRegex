@@ -1,0 +1,25 @@
+// example 
+"Mas",+
+"G",-
+"bUNf+",+
+"Y_Y",-
+"M(rgR",-
+"iFWj",+
+"GsNv",-
+"be5f`",+
+"",-
+"PP",-
+"I5",+
+"=",-
+"u{",+
+"i",+
+"Pc",-
+"M(rgn",-
+"u",+
+"UO_",+
+"u+4t",+
+"GsNL",-
+"Y_q",-
+
+// ground truth 
+repeatatleast(contain(or(<vow>,<m0>)),1)

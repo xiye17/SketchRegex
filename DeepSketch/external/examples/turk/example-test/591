@@ -1,0 +1,25 @@
+// example 
+"456,",-
+"4O",+
+"6h",-
+"9Dei",+
+";;Ctx",-
+"2dcDu",+
+"4I",+
+"5ux&3f",+
+"2diiu",+
+"eK",-
+".[,Im",-
+"",-
+"9Da",+
+"&",-
+"Lu%",-
+"5sd^Ba",+
+"Q",-
+"9uV",+
+"456J",-
+"9AS\",+
+"/f{",-
+
+// ground truth 
+concat(<num>,contain(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"E",+
+"MMSE$",+
+"rZFJ>",-
+"KL",-
+"Ag:^",+
+"HQlT",-
+"Kv",-
+"",-
+"JJC",-
+"DO",+
+"JJt",-
+"HQlC",-
+"rZFJM",-
+"MMSRA",+
+"O",+
+"GGE",+
+"Ac",+
+"GGI",+
+"HI<}",+
+"H",-
+"{",-
+
+// ground truth 
+repeatatleast(contain(and(and(<cap>,<vow>),<let>)),1)

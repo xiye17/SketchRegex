@@ -1,0 +1,16 @@
+// example 
+"a1",-
+"a_",-
+"<J@",-
+"-$9w",-
+"S",-
+"pQ",+
+"pj",+
+"Ad*@:",-
+"<`E",-
+"-hd\",-
+"",-
+"AT5L9",-
+
+// ground truth 
+concat(or(or(<low>,<any>),<m0>),<let>)

@@ -1,0 +1,17 @@
+// example 
+"eN",-
+"ur-Pa",-
+"gy-B",-
+"d4lQ",-
+"m'E1k",-
+"d",-
+"",-
+"nQc",-
+"g",-
+"e",+
+"i",+
+"e?4",-
+"|b",-
+
+// ground truth 
+and(and(<vow>,<low>),<let>)

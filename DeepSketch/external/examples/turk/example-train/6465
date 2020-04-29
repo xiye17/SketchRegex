@@ -1,0 +1,16 @@
+// example 
+"",+
+"cnriF",+
+"_F",+
+"P_",+
+"8nh@7",+
+"t",+
+"V",+
+"V!\{",+
+"H!:",+
+"+cgS",+
+"K!",-
+"HBw",+
+
+// ground truth 
+not(concat(<cap>,<m0>))

@@ -1,0 +1,20 @@
+// example 
+"<8D;s;{oZhYxW!`",+
+"qq2<:A",+
+"e{|fpSYGr$[%Vw",+
+"'&6^",-
+"",-
+"c",-
+"s|JB3&NjHa",+
+"%jkT:q=9ZbCC",+
+""i'",-
+"wzztI",-
+"'|gpu{u",+
+"T@|#Kz*D=t@",+
+"#EHOU&UJu&02,",+
+"Ah8I.E(/",+
+"%-",-
+"yg\|UEDvh",+
+
+// ground truth 
+repeatatleast(or(or(<m0>,<any>),<cap>),6)

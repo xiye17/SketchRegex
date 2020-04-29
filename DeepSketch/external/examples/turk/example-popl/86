@@ -1,0 +1,18 @@
+// examples
+"aaa",+
+"aAa",+
+"aA!",+
+"bA!n",+
+"lol!",+
+"ooo",+
+"nof~",+
+"Aa",-
+"",-
+"Aba",-
+"Bb",-
+"No",-
+"N~",-
+"X,",-
+
+// ground truth 
+concat(<low>,contain(and(<vow>,<any>)))

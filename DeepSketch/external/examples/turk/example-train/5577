@@ -1,0 +1,25 @@
+// example 
+"jfcrt",+
+"s",+
+"u",-
+"ihic",+
+"uh/tE",-
+"u]-L]",-
+"dv|",-
+""",-
+"mu",+
+"opp",+
+"",+
+"k{",-
+"eex~",-
+"orvhf",+
+"dv#",-
+"ucke",+
+"h",+
+"ann",+
+"|l",-
+"eexL",-
+"id",+
+
+// ground truth 
+and(star(<low>),not(<vow>))

@@ -1,0 +1,23 @@
+// example 
+"Q!Y!t!H!M!k!O!(8\,L",+
+"Nb!T!d!j!V!L!J!O4r2T",+
+"@B!L!C!N!P!B!r!a",+
+"dz\",-
+"enI`_",-
+"dzq",-
+""ijb",-
+"0W",-
+"",-
+""ij!",-
+"Q!Y!t!H!M!k!x!Ij=kN",+
+"Nb!T!d!j!V!L!p!%07>"",+
+"0"",-
+"@B!L!C!N!P!B!A!`",+
+"R",-
+"J_=|C!K!b!W!H!F!u!",+
+"enI`1",-
+"J_=|C!K!b!W!H!F!U!",+
+"~",-
+
+// ground truth 
+contain(repeatatleast(concat(<let>,<m0>),7))

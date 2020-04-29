@@ -1,0 +1,16 @@
+// example 
+"ik",+
+"Yxq",-
+"<_",-
+"y<6bU",-
+"t",-
+"<TS4",-
+"<{",-
+"yeYRq",-
+"iO",+
+"Y.Q",-
+"<_GR",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<cap>),<m0>),<let>)

@@ -1,0 +1,16 @@
+// example 
+"?0h<s",-
+"R^|",-
+"oC",+
+"^#"]",-
+"RR}",-
+"?{%YG",-
+"^{y<",-
+"o!",+
+"o_",-
+"",-
+"b",-
+"o>",-
+
+// ground truth 
+concat(<any>,or(or(<let>,<num>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"O),k",-
+"Us",+
+"O""",-
+"",-
+"~`_K>",-
+"A}fvq",-
+"UQ",+
+"O",-
+"O}[",-
+"`]^L",-
+"Hq",-
+"WM",-
+"K",-
+
+// ground truth 
+concat(<vow>,or(<cap>,<let>))

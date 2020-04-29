@@ -1,0 +1,25 @@
+// example 
+".",-
+"ZL06Z",+
+"N204H1",+
+"96P3269",+
+"<)<8",-
+"HZEKM6RCI",+
+"34",-
+".89d",-
+"",-
+"96P326E",+
+"QJE95M44",+
+"H;Cs"",-
+"N204HV",+
+"Z64",-
+".~",-
+"ZL061",+
+"QJE95M4F",+
+"?",-
+"Z6;",-
+"H*QN'",-
+"HZEKM6RC4",+
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),5)

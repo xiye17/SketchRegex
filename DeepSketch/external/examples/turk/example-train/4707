@@ -1,0 +1,17 @@
+// example 
+"|0",-
+"ft",-
+"Y*x",-
+"4",-
+"~1*S",-
+"",-
+"|FI",-
+"pifl5",-
+"S1Na",-
+"xu",+
+"pS|SK",-
+"x!",+
+"{",-
+
+// ground truth 
+concat(<low>,or(<vow>,<m0>))

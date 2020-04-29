@@ -1,0 +1,25 @@
+// example 
+"s",-
+"Cpi",+
+"Qm{Q",-
+"hy",-
+"o*um",+
+"a",+
+"AA5n?",+
+"~NL",-
+"hf",-
+"ja",+
+"",+
+"Qm{^",-
+"FtCVH",-
+"FtCVM",-
+"a,c",+
+"u",+
+"tJ~o",+
+"hbIWe",+
+"~Nh",-
+"jE",+
+"~",-
+
+// ground truth 
+star(contain(or(<m0>,<vow>)))

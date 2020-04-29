@@ -1,0 +1,26 @@
+// example 
+"8*&v",-
+"8*&J",-
+"(0`\:",-
+"6+T@Ja",+
+"#\[",-
+"4Bq",+
+"2{",-
+"9H}L]Ao",+
+",",-
+"2G",-
+"9b;Ml",+
+"9btWj",+
+"gJD",-
+"",-
+"6+T|Rj",+
+"6?\'[XNy",+
+"60Zi",+
+"6?\'[kNb",+
+"O",-
+"6aVr",+
+"9H}L3Qq",+
+"mWY_B",-
+
+// ground truth 
+concat(startwith(<num>),concat(<cap>,<low>))

@@ -1,0 +1,24 @@
+// example 
+"F<\",-
+"j}9=",-
+"F_,",-
+"j0N:",-
+"Y:",-
+"nF?ekp",+
+"DvUyPO6jxb",+
+"vKKH",+
+"Y^",-
+"dq",+
+"_",-
+"",-
+"}YQ|j",-
+"}Y"utrSC",+
+"vKKt",+
+"}}:7\",-
+"nF?ekR",+
+"dO",+
+"DvUyPO6jxH",+
+"}Y"utrSt",+
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),1)

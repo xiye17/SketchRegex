@@ -1,0 +1,23 @@
+// example 
+"0I3a2a1u7u3u6a0a3E",+
+"2`p",-
+"h?YGa",-
+"5o3u7a2e1U8u5a5o",+
+"5U6A5u5E1u7o6A6i6E7o",+
+"W",-
+"+",-
+"&[",-
+"",-
+"0I3a2a1u7u3u6a0a3A",+
+"U#",-
+"5o3u7a2e1U8u5a5O",+
+"7a4i6U2o3O6U9I",+
+"1E"6",-
+"7a4i6U2o3O6U9a",+
+"$\YQF",-
+"2gV",-
+"1Q2D",-
+"5U6A5u5E1u7o6A6i6E7O",+
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),7)

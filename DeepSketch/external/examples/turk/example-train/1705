@@ -1,0 +1,15 @@
+// example 
+"f",-
+")I=ds",-
+"!y",-
+"!\pq",-
+"!P,",-
+"!wFLE",-
+"<D*",-
+"sk7:",-
+"!",+
+"]x",-
+"",-
+
+// ground truth 
+or(<m0>,and(and(<low>,<cap>),<any>))

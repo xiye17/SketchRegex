@@ -1,0 +1,17 @@
+// example 
+"y!",-
+"RKt.I'`",+
+"/N_yE!oK84F`",+
+"?"'{ch:}o",+
+"c@Hpl",+
+"|yiFB$Bj",+
+"",-
+"1s]9S#PEVh",+
+"lP:tQ'u:#!U",+
+"7\{,IE",+
+"%?W_",+
+"3i@",+
+"J",-
+
+// ground truth 
+contain(repeatatleast(<any>,3))

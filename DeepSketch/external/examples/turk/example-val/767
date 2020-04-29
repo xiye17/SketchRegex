@@ -1,0 +1,16 @@
+// example 
+"(jX?",-
+"DL-",-
+"HAXe!",-
+"Zo",+
+"ZO",+
+"DOC",-
+"V",-
+"(IP+",-
+"",-
+"zd",-
+"HE>dW",-
+"zJ",-
+
+// ground truth 
+concat(or(or(<any>,<let>),<low>),<vow>)

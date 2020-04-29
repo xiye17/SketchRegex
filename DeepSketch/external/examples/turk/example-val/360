@@ -1,0 +1,18 @@
+// example 
+"ys`B_7",+
+"kzhN:EKAqgc1",+
+"p",-
+"P!A\vbpylGA",+
+"fb",-
+"8t2/ota",+
+"",-
+"UN\=%",+
+"q1#&i0Lr",+
+"%U/bTiK1j",+
+"=!Eb+c(,j"",+
+"u=L",-
+"(ppg",+
+"v20zmsk*XTBI~",+
+
+// ground truth 
+repeatatleast(endwith(<any>),4)

@@ -1,0 +1,25 @@
+// example 
+"KU!",+
+"]",-
+"eL!",+
+"gU;h",-
+"o",-
+"{Yc|3",-
+"'y}1S",-
+"ER1Q!",+
+"hSJ!",+
+"!aO",-
+"|Pk",-
+"",-
+"rG!,BZ!",+
+"EReC!",+
+"T=|CZ!",+
+"[5",-
+"]/T4",-
+"hcC!",+
+"rG!,?Q!",+
+"}N",-
+"T=|cX!",+
+
+// ground truth 
+concat(startwith(<let>),concat(<cap>,<m0>))

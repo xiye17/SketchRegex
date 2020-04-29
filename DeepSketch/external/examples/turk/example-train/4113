@@ -1,0 +1,25 @@
+// example 
+"]",-
+"cEDMsT",+
+"-#s1\",-
+"PVn~",-
+",m}",-
+"VAsk",+
+"PV^$",-
+"MLn",+
+"",-
+"q;",-
+"Y\f",-
+"]_u+:",-
+"lFVQG",+
+"cEDMsa",+
+"q\",-
+"VAsT",+
+"gyIILhA",+
+"gyIILhy",+
+"MLQ",+
+"z",-
+"lFVQg",+
+
+// ground truth 
+repeatatleast(or(<let>,<low>),3)

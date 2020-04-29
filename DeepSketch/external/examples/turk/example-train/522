@@ -1,0 +1,25 @@
+// example 
+"\9Um",+
+"Gm",+
+"\9ao",+
+"v[~",-
+"EH[4",-
+"}IYq<",-
+"",-
+"v(F\Ya",+
+"b",-
+"}",-
+"EH[{",-
+"B3xzp",+
+"v(F\gz",+
+"wx",+
+"B3xMb",+
+"|6",-
+"hGg",+
+"}IYq^",-
+"hpu",+
+"|_",-
+"v[r",-
+
+// ground truth 
+endwith(concat(<let>,<low>))

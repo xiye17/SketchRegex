@@ -1,0 +1,26 @@
+// example 
+"\",-
+"kO[",+
+"kcW",+
+"Y",+
+"4=Ys",+
+"#@txv",-
+"3T",+
+"i[<?",-
+"G~^_BN",+
+"#@tx-",-
+"4=&K",+
+"",-
+"!'z",-
+"X6",+
+"8",-
+"i[<g",-
+"!e",-
+"!'1",-
+"!&",-
+"8}.sI",+
+"8}E-N",+
+"@=V4GV",+
+
+// ground truth 
+endwith(contain(repeatatleast(<cap>,1)))

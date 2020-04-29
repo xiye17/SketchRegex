@@ -1,0 +1,14 @@
+// example 
+"",+
+"x1zoV!N",+
+"xB?*$L",+
+"O}cG",+
+"k^I)(YE'",+
+"a",+
+"D`o",+
+"@8<vc",+
+"m|",+
+"|b}O!:Mka",+
+
+// ground truth 
+not(and(contain(<low>),<cap>))

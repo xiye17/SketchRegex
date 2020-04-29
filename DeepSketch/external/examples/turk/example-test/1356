@@ -1,0 +1,25 @@
+// example 
+"s4SkR",-
+"bLK[",-
+"ycN",-
+"$CO",+
+"t",-
+"eG/=|",+
+"U",+
+"bLKL",-
+"ycp",-
+"d",-
+"jf",-
+"",-
+"a0#8",+
+"$CA",+
+"i",+
+"s4Skq",-
+"hO",+
+"Ojkmk",+
+"$CIU",+
+"hI",+
+"jD",-
+
+// ground truth 
+contain(endwith(<vow>))

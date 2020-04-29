@@ -1,0 +1,25 @@
+// example 
+"]~7",-
+"a24aEoeoo",+
+"eEieAaa9o6E",+
+"?Hq",-
+"oOaaeEae4U",+
+"a24aEoeoi",+
+"Eo4EOI4",+
+"uAIo",-
+"aau4iaIa",+
+"oOaaeEae4e",+
+"",-
+"aau4iaI6",+
+"eEieAaa9o6O",+
+"i",-
+"O",-
+"WgGnl",-
+"ae",-
+"uAIg",-
+"R%v(:",-
+"az",-
+"Eo4EOIU",+
+
+// ground truth 
+repeatatleast(or(<vow>,<num>),7)

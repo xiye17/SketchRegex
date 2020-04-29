@@ -1,0 +1,25 @@
+// example 
+"!nqskixbu",+
+"!qjxaqnxmw",+
+"!a",-
+"xT",-
+"!xet",+
+"!xdmbghklawh",+
+"!ynfuv",+
+"!llzhir",+
+"!",-
+"!Hk",-
+"!lkhibybtmc",+
+"",-
+"!qwdpytq",+
+"f",-
+"8=BC$",-
+"!ly",+
+"'wpZ",-
+"!h}",-
+"!tdgf",+
+"!}i/",-
+"!{mFX",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<low>,2))

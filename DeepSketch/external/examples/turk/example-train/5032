@@ -1,0 +1,16 @@
+// example 
+"",+
+"uW",+
+"l4L",+
+"H[Lm/",+
+"Q",-
+"9",+
+"vf/ad",+
+"j",+
+"0DC",+
+"<z/c",+
+"F|F8",+
+"MU",+
+
+// ground truth 
+not(and(and(<cap>,<let>),<any>))

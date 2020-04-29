@@ -1,0 +1,14 @@
+// example 
+"",+
+">>KYU.5$`",+
+"#2tc",+
+"J^I",+
+"HO",+
+"cu##i",+
+"j=d1=<;",+
+"h~JI}Nx[",+
+""",+
+"Nc-j*y",+
+
+// ground truth 
+not(and(and(<m0>,<low>),<vow>))

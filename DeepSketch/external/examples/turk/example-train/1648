@@ -1,0 +1,25 @@
+// example 
+"LppSwbbi",+
+"ZTNMWQ",+
+"tPbYQkx",+
+"[",-
+"%F`:",-
+"yGESQmSpKz",+
+"R]O",-
+"R{u",-
+"}[[(",-
+"yGESQmSpKP",+
+"e",-
+"",-
+"VaDIJDWGL",+
+"VaDIJDWGv",+
+"^*n"T",-
+"{4C,r",-
+"tPbYQkQ",+
+"ZTNMWq",+
+"}5",-
+"LppSwbbA",+
+"to",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),6)

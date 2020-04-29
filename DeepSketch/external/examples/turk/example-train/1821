@@ -1,0 +1,25 @@
+// example 
+"wtezzNjA",+
+"{X3'",-
+"_vkW",-
+"[",-
+"}8",-
+"L+1Sk",-
+"fxRuKepVH",+
+"<z",-
+"",-
+"fxRuKepV!",+
+"%%f",-
+"AVJCTT!",+
+"|",-
+"WiYwuK",+
+"wtezzNj!",+
+"WiYwu!",+
+"AVJCTTI",+
+"_P%b+",-
+"lKhA!",+
+"r-)",-
+"lKhAY",+
+
+// ground truth 
+concat(repeatatleast(<let>,4),or(<cap>,<m0>))

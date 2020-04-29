@@ -1,0 +1,16 @@
+// example 
+"-U",+
+"){",-
+"}e:E",-
+"`c4",-
+"`ia",-
+"t",-
+")m",-
+"}uuz",-
+"-E",+
+"OAbrE",-
+"OHH7M",-
+"",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<any>),<vow>)

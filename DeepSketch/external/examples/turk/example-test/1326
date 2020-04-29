@@ -1,0 +1,16 @@
+// example 
+"RI",+
+"IPtI",-
+"e|",-
+"OAB>R",-
+"@Fh",-
+"@Af",-
+"I!1V",-
+"eR",-
+"RO",+
+"",-
+"`",-
+"OUNKK",-
+
+// ground truth 
+concat(<any>,or(or(<m0>,<low>),<vow>))

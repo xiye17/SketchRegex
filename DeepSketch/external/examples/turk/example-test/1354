@@ -1,0 +1,25 @@
+// example 
+"C!!E!mSR",+
+"IP!ul",+
+"X:P",-
+"XP![",-
+"!ob!W!",+
+"W",-
+"IP!uT",+
+"XP!0",-
+"",-
+"C!!E!mSy",+
+"}",-
+"KQ",-
+"vxoT",+
+"_@5vT",-
+"DI!Wb!!",+
+"vxoj",+
+"!ob!Wu",+
+"`R",-
+"X`d",-
+"DI!Wb!a",+
+"|IJ~O",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),4)

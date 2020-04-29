@@ -1,0 +1,25 @@
+// example 
+"cq19u",+
+"e63p6lg",+
+"+q?",-
+"znl",+
+"cq191",+
+"f+",-
+"c89tx8",+
+"",-
+"-_S%y",-
+"'",-
+"f|",-
+"tsz[(",-
+"c89txc",+
+"zn9",+
+"GY$H",-
+"~@/R",-
+"v409",+
+"v40l",+
+"e63p6l5",+
+"{-O",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<low>,<num>),3)

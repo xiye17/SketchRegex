@@ -1,0 +1,25 @@
+// example 
+"7`|",-
+"5e1r1v4J",+
+"Xm|d",-
+"5T3y9s6y7D2k",+
+"k",-
+"9k0B4U4Q0u",+
+"5T3y9s6y7D2A",+
+"2m0M5m3f7W2s1h",+
+"",-
+"lr",-
+"Ix=rE",-
+"9",-
+"9wEO",-
+"3x8I5v",+
+",w0Bm",-
+"5e1r1v4c",+
+"9k0B4U4Q0J",+
+"2m0M5m3f7W2s1L",+
+"/x^",-
+".n",-
+"3x8I5J",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),3)

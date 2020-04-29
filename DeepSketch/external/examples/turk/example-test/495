@@ -1,0 +1,16 @@
+// example 
+"{a|^",-
+"+i",+
+"[",-
+"4B",-
+"{uJ7",-
+"5{e=*",-
+"+a",+
+"4V",-
+"nhl",-
+"nTg",-
+"",-
+"5IyJC",-
+
+// ground truth 
+concat(or(or(<low>,<m0>),<any>),<vow>)

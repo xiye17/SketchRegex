@@ -1,0 +1,26 @@
+// example 
+"4Q*",-
+"1S62Q)9Q",+
+"5Q8;?,"4M4I",+
+"5A3*J1Ec3Q",+
+"5Q8;?,2O(2B",+
+"1S62Q>5H",+
+"0Y",-
+"",-
+"`",-
+"9C)$",-
+"6PaR#",-
+"%",-
+"0Lb6N3E",+
+"5M<r4L)4M",+
+"5A3*J13S0E",+
+"4Q3",-
+"0L2Ns5K",+
+"0$",-
+"9C)1",-
+"5M<r4LL1P",+
+"6u)5q",-
+"0L8X4P",+
+
+// ground truth 
+repeatatleast(startwith(concat(<num>,<cap>)),3)

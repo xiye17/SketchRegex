@@ -1,0 +1,25 @@
+// example 
+"D,",+
+"e8",-
+"nfGvy",+
+"|y"",-
+"Di",+
+",",-
+"^r`UT",-
+"z)C",+
+"n%Q)l",+
+"^",-
+"",-
+"z44",+
+"|[%'",-
+"-!wlF",-
+"v",+
+"}M",-
+"X%e-",+
+"I",+
+"('u`",-
+"_0R",-
+"XO.1",+
+
+// ground truth 
+concat(repeatatleast(<let>,1),not(<num>))

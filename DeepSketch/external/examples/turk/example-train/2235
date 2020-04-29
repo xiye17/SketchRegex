@@ -1,0 +1,15 @@
+// example 
+"NNJ*o"y/",+
+"~I",+
+"zPFW{?s/v",+
+"K]>l'nBG|V",+
+"^>a/$",+
+"nll$",+
+"!Sj",+
+">",+
+"u"UQLz'",+
+"",-
+"nCwh%6",+
+
+// ground truth 
+repeatatleast(startwith(<any>),1)

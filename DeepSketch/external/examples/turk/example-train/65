@@ -1,0 +1,17 @@
+// example 
+"xz|",-
+"q",-
+"s/",-
+"!F",+
+"",-
+"s_",-
+"jY",+
+"P40Z",-
+"n7{Rr",-
+"H2hg-",-
+"xX^",-
+"&x+V",-
+"C",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<num>),<cap>)

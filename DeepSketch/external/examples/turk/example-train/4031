@@ -1,0 +1,17 @@
+// example 
+"u>?af",+
+"o",-
+"U|d",+
+"k",+
+"",+
+"wR",+
+"I3",+
+"h",+
+"Oh.9",+
+"O",-
+"3#%",+
+"Q0t|",+
+"EiXHY",+
+
+// ground truth 
+not(<vow>)

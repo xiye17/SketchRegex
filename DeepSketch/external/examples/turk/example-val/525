@@ -1,0 +1,25 @@
+// example 
+"1",-
+"pyx}",-
+"H[GUN",-
+":o",-
+"'p",-
+"H3:RE",-
+"D4wYg6",+
+"8G5!9!!6",+
+"8G5!9!!q",+
+"R?f",-
+"Oz16E",+
+"",-
+"%",-
+"pyx^",-
+"25!5",+
+"!8Xf7Lb",+
+"Oz16q",+
+"D4wYgW",+
+"!8Xf7L5",+
+"R)5",-
+"25!x",+
+
+// ground truth 
+repeatatleast(or(or(or(<m0>,<m1>),<let>),<num>),4)

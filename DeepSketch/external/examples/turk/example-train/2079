@@ -1,0 +1,17 @@
+// example 
+"LO",+
+"Lk",+
+"(Q",-
+"5",-
+"B,K"",-
+"V!,@r",-
+"",-
+"Etl",-
+"V#,}E",-
+"e>",-
+"K",-
+"E!G",-
+"B|Ag",-
+
+// ground truth 
+concat(<cap>,or(or(<let>,<m0>),<m1>))

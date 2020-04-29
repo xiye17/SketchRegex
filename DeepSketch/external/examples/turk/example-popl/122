@@ -1,0 +1,18 @@
+// examples
+"!S!N!S",+
+"!!!E",+
+"!!eaA",+
+"!S",+
+"abc",+
+"!sS!s",+
+"!s",+
+"no",-
+"no!",-
+"s!s!",-
+"everyt!",-
+"123!",-
+"eve!",-
+"",-
+
+// ground truth 
+or(concat(<m0>,contain(<let>)),repeatatleast(<low>,3))

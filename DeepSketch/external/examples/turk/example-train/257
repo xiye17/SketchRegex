@@ -1,0 +1,15 @@
+// example 
+"j"0",+
+"9Js@ED)",+
+"+qtR]",+
+"&E4d:)",+
+"Py5'4cKh[",+
+"l",+
+"\@6t1m:yYS",+
+"X}",+
+"X0C8",+
+"I1FG?r+d",+
+"",-
+
+// ground truth 
+contain(or(or(<vow>,<any>),<num>))

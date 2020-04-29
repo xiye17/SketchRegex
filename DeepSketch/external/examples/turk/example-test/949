@@ -1,0 +1,25 @@
+// example 
+"E",+
+"G",-
+"KFm|R",-
+"nh]i",+
+"nhIQ",+
+"d",-
+"",-
+"#Pg",-
+"KFm|d",-
+"j:nJ",-
+"o}j_&",+
+"wiT",+
+"Vo",+
+"cD",-
+"cf",-
+"wpE",+
+"j:n8",-
+"Vi",+
+"#PH",-
+"A",+
+"A:QFZ",+
+
+// ground truth 
+contain(and(<vow>,<any>))

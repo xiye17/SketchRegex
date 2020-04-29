@@ -1,0 +1,17 @@
+// example 
+"tV|$D",-
+"d-R",-
+"i>O",-
+"E&~?",-
+"m",-
+"",-
+"b",-
+"o?",+
+"*p",-
+"k$Cf",-
+"S!",-
+"e_",+
+"cQ&[K",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<any>),<num>))

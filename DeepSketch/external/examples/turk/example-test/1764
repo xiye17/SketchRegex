@@ -1,0 +1,25 @@
+// example 
+"0",-
+"hNxa",+
+"rvIhNS",+
+"fpmAebeD",+
+"w|:",-
+"h`",-
+"1D!S",-
+"hlCUG",+
+"hlCUw",+
+"V",-
+"qN}1",-
+"XgiqTSZ",+
+"hNxM",+
+"wK]",-
+"",-
+"491f-",-
+"XgiqTSr",+
+"fpmAebea",+
+"hK",-
+"\J|n4",-
+"rvIhNk",+
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),4)

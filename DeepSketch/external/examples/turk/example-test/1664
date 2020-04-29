@@ -1,0 +1,15 @@
+// example 
+"",+
+"MVZZ",+
+"5S?m!e9&al",+
+"8\I*"m`2",+
+"l=Q[:8v",+
+"7V",+
+"Y",-
+"9~S",+
+"w_$ZYq!|#",+
+"\4+8oK",+
+""~/^V",+
+
+// ground truth 
+not(or(or(<m0>,<low>),<any>))

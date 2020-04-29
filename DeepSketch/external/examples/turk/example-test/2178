@@ -1,0 +1,25 @@
+// example 
+"G8p",-
+"|Y",-
+"*)",-
+"!}!CB",-
+"!",-
+"pnj!!!i",+
+"a!!v!!cx",+
+"!!yrvr!!!",+
+"!u!u!r!!z!",+
+"",-
+"!w!!fnhcb!w",+
+"}",-
+"!u!u!r!!zw",+
+"|P2n",-
+"pnj!!!!",+
+"!!yrvr!!p",+
+"~Fb",-
+"!w!!fnhcb!!",+
+"!!j!{",-
+"a!!v!!c!",+
+"!g!}",-
+
+// ground truth 
+repeatatleast(or(<m0>,<low>),7)

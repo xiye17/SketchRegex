@@ -1,0 +1,15 @@
+// example 
+"Z-kC",+
+"#o~",+
+"wWPgU",+
+"pJx>'H"fS",+
+">"Q7@a",+
+":$"SrIvl7E",+
+"k",+
+"x"e$TQs.",+
+"C}",+
+"l?x0^7<",+
+"",-
+
+// ground truth 
+repeatatleast(or(and(<num>,<low>),<any>),1)

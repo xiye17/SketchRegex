@@ -1,0 +1,25 @@
+// example 
+"jqV/",-
+"A`8)_",-
+"A9"BL",-
+"VPVAQUTS",+
+"FRU",+
+"",-
+")",-
+"w2",-
+"7sa",-
+"3b",+
+"LVNOY",+
+":",-
+"COUP",+
+"CGMXMG",+
+"WFDAPHM",+
+"'Q",-
+"VYQLDOIRF",+
+"H",+
+"7{2",-
+"(H^R",-
+"SK",+
+
+// ground truth 
+or(concat(<num>,<low>),repeatatleast(<cap>,1))

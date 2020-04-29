@@ -1,0 +1,25 @@
+// example 
+"F",-
+"\",-
+"YYTPP",+
+"AF",+
+"DMO",+
+"rOKe",-
+"CPAGII",+
+"ILUU",+
+"fNS",+
+"Da",-
+"",-
+"aR",+
+"c8|",-
+"eTFQTS",+
+"\S<)4",-
+"D;",-
+"kFFFV",+
+"rOK(",-
+"5U"<n",-
+"gYTQ",+
+"\n-",-
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,1))

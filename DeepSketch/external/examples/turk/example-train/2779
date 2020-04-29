@@ -1,0 +1,14 @@
+// example 
+"",+
+"H$cWvSRxX",+
+"+GCiVz\",+
+"7;%\",+
+"P",+
+"Uq<:0",+
+"nxE",+
+"`r",+
+"+Qy-IBYT",+
+"V[OW3:",+
+
+// ground truth 
+endwith(star(or(<cap>,<num>)))

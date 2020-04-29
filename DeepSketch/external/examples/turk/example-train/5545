@@ -1,0 +1,20 @@
+// example 
+"z+5~+Da[%A=",+
+"c_Z.,NXc",+
+"6=3.P$",+
+"a_C"",-
+"smM",-
+"0M;S8,dh&mv1nY",+
+",P#A(O;P>p",+
+"",-
+"eP",-
+"lIUtl/4@Em:hlX2",+
+":",-
+"mgcc~u8*?",+
+"?j,\2GKz]2cOU",+
+"4gO'g(pYLcVQ",+
+"egLH3",-
+"c)-"]N"",+
+
+// ground truth 
+repeatatleast(or(or(<any>,<m0>),<vow>),6)

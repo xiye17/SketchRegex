@@ -1,0 +1,25 @@
+// example 
+"EO",+
+"I^0e*",+
+"Ey",+
+"AAQh",+
+"I{|,",-
+"4",-
+"IH",-
+"",-
+"ID",-
+"UEh",+
+"I{||",-
+"E\{R~",-
+"UEO",+
+"AA|v",+
+"E\{R(",-
+"w",+
+"M",-
+"}}~",-
+"}}Q",-
+"A",+
+"I^m!`",+
+
+// ground truth 
+repeatatleast(or(contain(<low>),<vow>),1)

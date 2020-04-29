@@ -1,0 +1,14 @@
+// example 
+"",+
+"um",+
+"A7<Uz@",+
+"Zym",+
+"#Nxp",+
+"_Rl=WJE",+
+"3/@{M",+
+"&}R;"X'0w",+
+",=slG+Sc",+
+"]",+
+
+// ground truth 
+contain(star(or(<low>,<num>)))

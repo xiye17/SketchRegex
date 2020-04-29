@@ -1,0 +1,15 @@
+// example 
+"{pCg6tg",+
+"-{+xh",+
+"<v=2\E",+
+"5",+
+"K)YK|b^p",+
+"av",+
+"z`H",+
+"N!!f:F{XQf",+
+"A+O0'Q>(\",+
+"<ud\",+
+"",-
+
+// ground truth 
+contain(or(or(<low>,<let>),<any>))

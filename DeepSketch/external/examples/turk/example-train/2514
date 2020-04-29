@@ -1,0 +1,14 @@
+// example 
+"",+
+"Y",+
+"2.yWs",+
+"aFs6|H",+
+"5@Kg+x&wt",+
+"j+u",+
+"K3mkyq`|",+
+""Chf",+
+"*z[Od3r",+
+"m@",+
+
+// ground truth 
+contain(not(concat(<m0>,<let>)))

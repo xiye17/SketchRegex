@@ -1,0 +1,17 @@
+// example 
+"[",-
+"m!M",-
+"q5",-
+"h!}(",-
+"W!",+
+"",-
+"\<",-
+"jT^~H",-
+"hij\",-
+"^m=Yh",-
+"w!",+
+"mt6",-
+"~",-
+
+// ground truth 
+concat(or(or(<cap>,<vow>),<let>),<m0>)

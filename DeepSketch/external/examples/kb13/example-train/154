@@ -1,0 +1,25 @@
+// example 
+"@*4#L",-
+"!#!@",+
+"@;",-
+"0+!@",-
+"@|j!n#",+
+"0+!j",-
+"@|j!"#",+
+"@!#",+
+"z@#S$!#",+
+"d1#!@",+
+""",-
+"",-
+"z@#S$!@",+
+"4.'",-
+"!@!#",+
+"T",-
+"4.#",-
+"@!",-
+"d1@!#",+
+"#!@",+
+"@*4#!",-
+
+// ground truth 
+or(concat(contain(<m1>),concat(startwith(<m0>),startwith(<m2>))),concat(contain(<m2>),concat(startwith(<m0>),startwith(<m1>))))

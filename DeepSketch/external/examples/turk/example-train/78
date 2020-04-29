@@ -1,0 +1,25 @@
+// example 
+"G",-
+"!b",-
+"|5'M",-
+"ck!b2",+
+"{HT",-
+"c",+
+"x!}",+
+"~A",-
+"uK!L",+
+"",-
+"u!+r",+
+"bSpw!2",+
+"(B%M",-
+"gY|aq",-
+"x!",+
+"xO!",+
+";Ek",-
+"ck%U!",+
+"{",-
+"}#uWv",-
+"bSpw<!",+
+
+// ground truth 
+concat(<low>,star(contain(<m0>)))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"jx",+
+"sI0J",+
+"7:x\",+
+"O",+
+"gA#V6",+
+"(W`nr",+
+"si;",+
+"BD",+
+"w",-
+"~",+
+"~9L",+
+
+// ground truth 
+or(not(<low>),and(<m0>,<vow>))

@@ -1,0 +1,17 @@
+// example 
+"i.=",-
+"SIkS",-
+"",-
+"I"",-
+"a1d",+
+"a1N",+
+"U",-
+"hB]m",-
+"I2",-
+"iH/",-
+"eD@XA",-
+"x",-
+"F.d]Y",-
+
+// ground truth 
+concat(<vow>,concat(<num>,<let>))

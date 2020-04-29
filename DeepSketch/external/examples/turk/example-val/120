@@ -1,0 +1,17 @@
+// example 
+"T[,",-
+"[",-
+"o4",-
+"iS",+
+"*{f$U",-
+"eH",+
+"",-
+"exZ",-
+"g",-
+"e.D;",-
+"oi",-
+"eUgc",-
+"r!*c)",-
+
+// ground truth 
+concat(<vow>,and(<cap>,<let>))

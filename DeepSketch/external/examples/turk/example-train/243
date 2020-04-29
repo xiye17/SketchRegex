@@ -1,0 +1,15 @@
+// example 
+"D!"+8",-
+"Z!5",+
+"h!'",-
+"z!1-",-
+"w",-
+"D!aQ\",-
+"zn7u",-
+"",-
+"p!",-
+"p<",-
+"h!m",-
+
+// ground truth 
+concat(concat(<any>,<m0>),<num>)

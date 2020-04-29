@@ -1,0 +1,26 @@
+// example 
+";Jq=)S",-
+";a,=.J",-
+"tu",+
+"tI",+
+"7Acm",-
+"-Oe",+
+"pIao",+
+"pIaE",+
+"OUIio",+
+"!D",-
+"!H",-
+"OUIii",+
+"",-
+"^j_ZH",-
+"8iIieu",+
+"8iIieI",+
+"vet",-
+"v",+
+"vel",-
+"^Ta$%",-
+"-Oi",+
+"7Aeg",-
+
+// ground truth 
+concat(<any>,star(<vow>))

@@ -1,0 +1,25 @@
+// example 
+"Wt}",-
+"rgbR",-
+"cfp]b",-
+"od",+
+"qd",-
+"a",+
+"!",-
+"Wtl",-
+"qt",-
+"ic|",+
+"uxpS",+
+"",-
+"rgbb",-
+"e",+
+"ctrci",+
+"u.y",+
+"e3",+
+"GhaS",+
+"cfp]l",-
+"ctrcu",+
+"~",-
+
+// ground truth 
+contain(and(and(<vow>,<let>),<low>))

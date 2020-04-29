@@ -1,0 +1,15 @@
+// example 
+"",+
+"F"<//<S)",-
+"1",-
+"_I^>zf",-
+"~@Y[>M<.'0",-
+"n`?",-
+"=i/n&HU",-
+"W!NV",-
+"Q.",-
+"hv3Yg",-
+"}2b]nU'V?",-
+
+// ground truth 
+not(repeatatleast(<any>,1))

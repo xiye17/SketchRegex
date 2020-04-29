@@ -1,0 +1,17 @@
+// example 
+"E",+
+"OvaXy",-
+".",-
+"Q|",-
+"EWREy",-
+"GLs",-
+"AW",-
+",eLL",-
+"",-
+"j",-
+"IWP/",-
+"I?1",-
+"A",+
+
+// ground truth 
+and(and(<any>,<vow>),<cap>)

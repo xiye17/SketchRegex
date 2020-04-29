@@ -1,0 +1,17 @@
+// example 
+"Il",+
+"m!>$%",-
+"IE",+
+"",-
+"O&ig",-
+"Oc;f",-
+"hW",-
+"U",-
+"e5G",-
+"e~&",-
+"hhIg:",-
+"nr",-
+"I",-
+
+// ground truth 
+concat(<vow>,<let>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"7D-",+
+""XK&8",+
+"^c?CA{3pf",+
+"^d",+
+"W^;f",+
+";lw!(,\",+
+"<",+
+"?.}&3ZwV",+
+"]y)qC6",+
+
+// ground truth 
+or(not(<low>),startwith(<let>))

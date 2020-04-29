@@ -1,0 +1,25 @@
+// example 
+"EEe|EWa$ez",+
+"I"h",-
+"hy",-
+"oK",-
+"iRABIhaTE1e8",+
+"ZSA8R",-
+"EEe|EWa$o|",+
+"igEsosopeMA5o~U5oa",+
+"igEsosopeMA5o~U5ie",+
+"",-
+"UlO8ouEca<epI!",+
+"iJa1UBA;uKETi.I#",+
+"iRABIhaTE1Ay",+
+"iJa1UBA;uKETi.aj",+
+"ikdE",-
+"UlO8ouEca<epi3",+
+"U",-
+"ik\:",-
+"z",-
+"I"F",-
+"hxiJ!",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),5)

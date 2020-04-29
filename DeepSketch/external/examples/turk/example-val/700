@@ -1,0 +1,25 @@
+// example 
+"Up",-
+"|r|-",+
+"q1?oK",+
+"UA",-
+"_1q>s",+
+"jHsXk",-
+"`",+
+"e",-
+"UMiL",-
+"",+
+"{~5",+
+"mBQ",-
+"mBd",-
+"_N",+
+"#w7h",+
+">X=",+
+"~Q",+
+"A",-
+"jHsXS",-
+"UMip",-
+"|",+
+
+// ground truth 
+not(repeatatleast(<let>,1))

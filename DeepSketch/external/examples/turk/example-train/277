@@ -1,0 +1,25 @@
+// example 
+"J#w.P",-
+"0Hzmz",-
+"InisuoIdiger",+
+"2u",-
+"ahImevaiamUminAeuy",+
+"O\&",-
+"InisuoIdigak",+
+"AzafovAcIsIcuqun",+
+"f(",-
+"O|p",-
+"Usoe",-
+"",-
+"ixoxIzOtIqexiv",+
+"ahImevaiamUminAeAr",+
+"i",-
+"T",-
+"Us%|",-
+"AuomAbuaIx",+
+"ixoxIzOtIqexOw",+
+"AuomAbuaAt",+
+"AzafovAcIsIcuqog",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),5)

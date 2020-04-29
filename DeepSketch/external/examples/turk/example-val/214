@@ -1,0 +1,25 @@
+// example 
+"4R9Z7O",+
+"'+",-
+"7K",+
+"4C0B5Z7K6C8A",+
+"7P#%",-
+"8mzfz",-
+"9X1C",+
+"8N8J0P0C6F0M5N4Y6G5B",+
+"9L9M3S1W8R2Z9A",+
+"6H4C4D2Y",+
+"",-
+"8>y\A",-
+"'",-
+"1O8",-
+"8S6U8V6S5V",+
+"7G6G4L7H7K0O9X8P0I",+
+"]t",-
+"1t]",-
+"7@<q",-
+"6J5M2R0J2C5L0Z8Q",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),1)

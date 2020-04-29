@@ -1,0 +1,17 @@
+// example 
+"O<-",-
+"s",-
+"EN",+
+"E6",+
+"kbkvV",-
+"e=`p",-
+"u>",-
+"",-
+"pO",-
+"u<r4@",-
+"bCx0",-
+"M",-
+"OxP",-
+
+// ground truth 
+concat(<vow>,or(<cap>,<num>))

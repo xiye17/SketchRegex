@@ -1,0 +1,25 @@
+// example 
+"q",+
+"1v(",+
+"J]mHa",+
+"\H",+
+"8#Cv",+
+"g+c",+
+"HEVDBBC",-
+"W",+
+"UAXQQHGLM",-
+"CRQUTPOOGZE",-
+"",+
+"VZZA",-
+"-(",+
+"JNO0L",+
+"ALJ",-
+"BXZWFO",-
+"LAQNF",-
+"dA:\",+
+"WF",-
+"XIUHVJMD",-
+"HVNOGXKGAT",-
+
+// ground truth 
+not(repeatatleast(<cap>,2))

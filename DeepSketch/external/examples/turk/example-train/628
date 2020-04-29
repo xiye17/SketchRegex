@@ -1,0 +1,17 @@
+// example 
+"Z",+
+"|>EKo",+
+"^4pD",+
+"y!M",-
+"=W&V)",+
+"H!aM",+
+"mYm",+
+"",+
+"GG",+
+"w",+
+"G!",+
+"J!T",-
+"m!n",+
+
+// ground truth 
+not(concat(concat(<let>,<m0>),<cap>))

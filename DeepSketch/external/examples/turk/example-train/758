@@ -1,0 +1,25 @@
+// example 
+"!g!!",+
+"\",-
+"GMx",+
+"a_",-
+"!!Q!Y",+
+"x|P",-
+"!g!g",+
+"",-
+"{NR",-
+"KT!uiJ",+
+"{m`}D",-
+"a&",-
+"v~l&",-
+"!!Q!z",+
+"KT!ui!",+
+"'%Z/f",-
+"!!",+
+"y",-
+"GMH",+
+"!b",+
+"vWA_",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),2)

@@ -1,0 +1,25 @@
+// example 
+"Gh{3T",-
+"ufOaOiOw",+
+"amUuOwInAd",+
+"n-UNR",-
+"l0eS",-
+"iuib",+
+"iuAk",+
+"",-
+"UkOaAkozEhAb",+
+"ijaoAg",+
+"ijaoUv",+
+"HS",-
+"ufOaOioe",+
+"amUuOwInEe",+
+"A",-
+"(~",-
+"Yg*y",-
+"M",-
+"UkOaAkozEhOa",+
+"AyH",-
+"AyD",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),2)

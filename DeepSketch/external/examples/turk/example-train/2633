@@ -1,0 +1,21 @@
+// example 
+"'"1g7[_4",+
+"7GNr1'?{ITbLT",+
+"r",-
+"6X$",-
+"zEO5H`i7*",+
+"4*[$,*R-hAH?PMlX",+
+"",-
+"S7>i",-
+"qicWY",-
+"Ha^(Uk",-
+"q}hG"6$DCi",+
+"=k.wZ7jJ,!c",+
+"s|1{&~g/s5_*B2",+
+"t.1VrJ%=PBB7",+
+"HtXgvXP",+
+",y",-
+"$Q9r'b:e]uCaK]\",+
+
+// ground truth 
+contain(repeatatleast(or(<any>,<m0>),7))

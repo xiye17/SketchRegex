@@ -1,0 +1,25 @@
+// example 
+"IOI",+
+"AuiH",+
+"eOAZWp",-
+"r",+
+"wc'",-
+"iAOeE",+
+"iAOeO",+
+"/i",-
+"EB",+
+"",-
+"bu2",-
+"j3H0:",-
+"es"C9",-
+"eOAb70",-
+"O",+
+"IOE",+
+"IEgw",-
+"Ej",+
+"Auip",+
+"ST",-
+"IE8s",-
+
+// ground truth 
+concat(star(<vow>),<any>)

@@ -1,0 +1,25 @@
+// example 
+"rl8zlw67",+
+"mcpi6w8",+
+"mcpi6wz",+
+"e911arpfp0",+
+"gu1jxpcxync",+
+"831ysf8ho",+
+"gu1jxpcxyn6",+
+"{R",-
+"+",-
+"rl8zlw6g",+
+"831ysf8h2",+
+"IH,K`",-
+"",-
+"GV`",-
+"|",-
+"#XeZN",-
+"j|^f",-
+"{58I",-
+"e911arpfpu",+
+"{@C",-
+",=",-
+
+// ground truth 
+repeatatleast(or(<num>,<low>),7)

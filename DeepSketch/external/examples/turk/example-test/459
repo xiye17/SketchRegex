@@ -1,0 +1,25 @@
+// example 
+"mBn",+
+"dT",+
+"n]Gr",-
+"o",+
+"C^",-
+"nKDlH",+
+"nKDlt",+
+"dp",+
+"!",-
+"uzQt",+
+"^",-
+"",-
+"n}XY",-
+"6D[",-
+"uzQU",+
+"H",+
+"tH\",-
+"mBX",+
+"AR]YV",-
+"ARJ}$",-
+"C/",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),1)

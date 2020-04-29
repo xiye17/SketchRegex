@@ -1,0 +1,16 @@
+// example 
+"RRM",-
+"UQ",-
+"RN{",-
+"'<M3",-
+"'Tzx",-
+"&F&Z*",-
+"EI",+
+"Ua",-
+"w",-
+"&E&,a",-
+"",-
+"EE",+
+
+// ground truth 
+concat(<any>,and(<cap>,<vow>))

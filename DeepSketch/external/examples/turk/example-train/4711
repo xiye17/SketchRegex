@@ -1,0 +1,25 @@
+// example 
+"unIe",+
+"OL",-
+"U",+
+"VUYlA",+
+"CrgGh",-
+"(",-
+"uo",+
+"VUYlE",+
+"",-
+"icC",-
+"UIfk",-
+"7?e",+
+"uu",+
+"O",+
+"6",-
+"icn",-
+"7?a",+
+"unII",+
+"O^",-
+"UIfr",-
+"CrgGN",-
+
+// ground truth 
+concat(not(<num>),<vow>)

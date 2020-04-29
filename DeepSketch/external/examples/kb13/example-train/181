@@ -1,0 +1,25 @@
+// example 
+"Ee",+
+"EO",+
+"lAE",+
+"UbQBiS",+
+"UbQBIo",+
+"p",-
+"GFF",-
+"A_qi",-
+"lAu",+
+"A_q]",-
+"DiXhu",+
+"",-
+"do",-
+"DiXha",+
+"h",-
+"uDSO",+
+"GF%",-
+"SLjVf",-
+"dS",-
+"SLjVi",-
+"uDSu",+
+
+// ground truth 
+contain(and(repeatatleast(<let>,1),repeat(contain(<vow>),2)))

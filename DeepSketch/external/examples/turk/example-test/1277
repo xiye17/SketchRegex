@@ -1,0 +1,24 @@
+// example 
+"s",+
+"~ee/2",-
+"3",-
+"s\a",+
+"{Zsq",-
+"c!ue(EB",+
+"AY",-
+"Hy}",-
+"wn",+
+"bob`y",+
+"",+
+"}",-
+"le7Z",+
+"un6@8oYff",+
+"tbxY00[i",+
+"|8I",-
+"{F",-
+"i]k89E",+
+"_&qa",-
+"`J%IY",-
+
+// ground truth 
+star(startwith(<low>))

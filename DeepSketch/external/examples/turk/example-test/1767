@@ -1,0 +1,16 @@
+// example 
+"Q",-
+"(MZ)5",-
+"h!c",-
+"h|U",-
+"=!",+
+"H8",-
+"pTJr",-
+"(!0'Y",-
+"//FN\G",-
+"",-
+"p!-L",-
+"/!FB@(",-
+
+// ground truth 
+concat(or(<any>,<vow>),<m0>)

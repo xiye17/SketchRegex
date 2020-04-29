@@ -1,0 +1,25 @@
+// example 
+"oZj!u",-
+"HM",-
+"I!|!",+
+"UQM:!!",+
+"i!1",-
+"UM!r!",+
+"cX",-
+"e",-
+"E!-~",-
+"",-
+"UM!!!",+
+"A}!",+
+"UQM:b!",+
+"O",-
+"A!",+
+"I!!!",+
+"oZj`'",-
+"i*3",-
+"o!",+
+"A!!",+
+"fY4~",-
+
+// ground truth 
+and(startwith(<vow>),endwith(<m0>))

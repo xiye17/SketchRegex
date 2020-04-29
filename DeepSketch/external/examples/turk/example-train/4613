@@ -1,0 +1,17 @@
+// example 
+"wJ^I",-
+"c_",-
+"}50bp",-
+"",-
+"f",-
+"ikM"",-
+"oC",+
+"YT",+
+"]:",-
+"x=8",-
+"pe9",-
+"B",-
+"a?h[=",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<cap>),<any>)

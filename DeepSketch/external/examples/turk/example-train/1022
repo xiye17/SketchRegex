@@ -1,0 +1,17 @@
+// example 
+"ld",+
+"o",-
+"snwK",+
+"o!_",+
+"hP[!7",+
+"e",-
+"",+
+"ioU",+
+"7q#T",+
+"u#",+
+"h",+
+"iZTeH",+
+"}",+
+
+// ground truth 
+repeatatleast(or(not(<vow>),<cap>),1)

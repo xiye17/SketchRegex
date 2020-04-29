@@ -1,0 +1,25 @@
+// example 
+"<'?|",-
+"FlG{v",-
+")n",-
+"FlG{{",-
+"Swma=7x",+
+"\}koEP",+
+"",-
+"wuyc!",+
+")%",-
+"Ryr|cSBq",+
+"'[_",-
+"OqTA",+
+"SwmN78I",+
+"wuyNa",+
+"Ryr|cSBX",+
+"\}koEi",+
+"OqTf",+
+"B",-
+"'[n",-
+"~",-
+"<'?-",-
+
+// ground truth 
+contain(repeatatleast(<let>,4))

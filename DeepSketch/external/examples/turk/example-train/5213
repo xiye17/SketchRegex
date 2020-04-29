@@ -1,0 +1,14 @@
+// example 
+"",+
+"N,F0RqS![",+
+"4eok`Bmp",+
+"<ju!r",+
+"ScN8",+
+"W",+
+"LCrfTx",+
+"(9n",+
+""su;fzr",+
+"r5",+
+
+// ground truth 
+startwith(or(<cap>,star(<m0>)))

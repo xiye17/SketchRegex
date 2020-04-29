@@ -1,0 +1,17 @@
+// example 
+"aN67",-
+"a!e(",-
+"I!o3G",-
+"+n",-
+"[3w3C",-
+"",-
+"O!O",-
+"|",-
+"a!",+
+"Vt",-
+"O@r",-
+"X!",+
+"J",-
+
+// ground truth 
+concat(or(<let>,<vow>),<m0>)

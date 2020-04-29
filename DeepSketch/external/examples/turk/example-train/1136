@@ -1,0 +1,15 @@
+// example 
+"<)^",+
+""K&#7",+
+"t~",+
+"hwZ46*,F\",+
+"l",+
+"=$&Z",+
+"S(j\bH",+
+"?5qSTMPC",+
+"Qh#7a`:0k3",+
+""t{|Ek}",+
+"",-
+
+// ground truth 
+contain(or(or(<let>,<cap>),<any>))

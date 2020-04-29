@@ -1,0 +1,15 @@
+// example 
+"\rE8M`\a",+
+"$tJ0FLMTCs",+
+"]_Q",+
+"1>tL0",+
+"KH",+
+")/HNXL|>m",+
+"moGXXr",+
+"aif0U&c",+
+"(kxa",+
+"C",+
+"",-
+
+// ground truth 
+contain(or(or(<vow>,<any>),<m0>))

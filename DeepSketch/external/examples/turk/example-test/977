@@ -1,0 +1,20 @@
+// example 
+"gAgGdTvQoQeP",+
+"?\",-
+"5y$@",-
+"{%J",-
+"~s3-",-
+"",-
+"ySmAtUiBrRkIdAqHdU",+
+"aTmNsRrBbPzFuV",+
+"sOkPeXgWaCrRwKuGaCrQ",+
+":10zY",-
+"uDzYvMbSpZwSfWnS",+
+"m,",-
+"{",-
+"bX~",-
+"~y/~"",-
+"E",-
+
+// ground truth 
+repeatatleast(concat(<low>,<cap>),6)

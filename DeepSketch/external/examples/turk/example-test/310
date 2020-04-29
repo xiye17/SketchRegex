@@ -1,0 +1,25 @@
+// example 
+"~16",-
+"E<",-
+"2",+
+"H,K7",-
+"+?Sm",-
+"5p&0B",+
+"_",-
+"1?/@",+
+"",-
+"dwQ",+
+"*Y",-
+"HMv",-
+"5#",+
+"aT%(@",+
+"|",-
+"d",+
+"k:",+
+"J~T@P",-
+"i(OE",+
+"-I_Q)",-
+"5|B",+
+
+// ground truth 
+startwith(repeatatleast(or(<low>,<num>),1))

@@ -1,0 +1,20 @@
+// example 
+"ko",+
+"[`-6>k!!;",-
+"y7sF')h?[D",-
+"(b<)X63I$gi'",-
+"^1*'Feqy">A.Q[",-
+"VoB}",+
+"(yl6}H;q<$z"hpf",-
+"",+
+"yRD^LN",-
+"sb/N`m`I@dF",-
+"B1*",+
+"Bykq(olo[H9D_",-
+",KIYx",+
+"k?W5X9=",-
+"l'ZTA4."",-
+"A",+
+
+// ground truth 
+not(repeatatleast(<any>,6))

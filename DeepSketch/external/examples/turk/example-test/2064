@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(startwith(<m0>),repeatatleast(<cap>,6))

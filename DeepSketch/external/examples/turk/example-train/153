@@ -1,0 +1,17 @@
+// example 
+"!I",+
+"!QVn",-
+"q",-
+"!P",-
+"!\:",-
+"!",-
+"!O",+
+"!M",-
+"",-
+"!B'lG",-
+"!LEcc",-
+"!O[",-
+""PS-",-
+
+// ground truth 
+concat(<m0>,and(and(<cap>,<let>),<vow>))

@@ -1,0 +1,25 @@
+// example 
+"rs",-
+"hhoJ",-
+"ZuusJ",-
+"que",+
+"naEa",+
+"grijU",+
+"o",+
+"n",-
+"rF",-
+"xwB",-
+"oE",+
+"naEE",+
+"oo",+
+"d",-
+"Zuus?",-
+"",-
+"xwJ",-
+"e",+
+"hhop",-
+"grijO",+
+"quu",+
+
+// ground truth 
+or(<cap>,endwith(<vow>))

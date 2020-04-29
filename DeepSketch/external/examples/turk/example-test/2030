@@ -1,0 +1,25 @@
+// example 
+"!@a=n"kYpe",+
+"!3",-
+"!{G_",-
+"!@Er3{:k{",+
+"BU",-
+"!@lR4X",+
+"!4HI",-
+"!cqP^",-
+"!@?'wrAteV6",+
+"!",-
+"",-
+"!@fB.VV:",+
+"$",-
+"!@",+
+"!@AK",+
+"-K7",-
+"!"=",-
+"!@`",+
+"!/`i%",-
+"!@Hv)",+
+"!@EV(DR",+
+
+// ground truth 
+startwith(repeatatleast(concat(<m0>,<m1>),1))

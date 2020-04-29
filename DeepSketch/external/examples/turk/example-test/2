@@ -1,0 +1,17 @@
+// example 
+"o8",-
+"J"o",-
+"q",-
+"e:E}",-
+"lr/yE",-
+"fv",-
+"ov@O",-
+"",-
+"e",+
+"h",-
+"i",+
+"cCTHP",-
+"hCw",-
+
+// ground truth 
+and(and(<vow>,<any>),<low>)

@@ -1,0 +1,25 @@
+// example 
+"sK,i",-
+"!^[kD4",+
+"j!>3N5",+
+"B\_o;6zN-",-
+"J@LyzX",-
+"w8!",+
+"k",-
+"!",+
+"w!)",+
+"h)_!",+
+"d?Lav",-
+"",-
+"($oZEj{",-
+"[!",+
+"`%k!h",+
+"!<",+
+"`%k_!",+
+"o_UR}hS%",-
+"h)!c",+
+"=1$",-
+"&}",-
+
+// ground truth 
+contain(concat(star(<let>),concat(<m0>,star(<let>))))

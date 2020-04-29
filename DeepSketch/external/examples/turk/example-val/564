@@ -1,0 +1,16 @@
+// example 
+"#R9t",-
+"JHO",-
+"3A",-
+"3q",-
+"KOk",+
+"O",-
+"vW8;\",-
+"vUrmI",-
+"Kej",+
+"Jp8",-
+"#Kwp",-
+"",-
+
+// ground truth 
+concat(concat(<any>,<vow>),<low>)

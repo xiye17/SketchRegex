@@ -1,0 +1,25 @@
+// example 
+"YbIgpP",+
+"[^kWAMVt",+
+"_p",-
+"|\OL",-
+"|\Os",-
+"{x#kVEXEr",+
+"3{.",-
+"_\",-
+"|it!rEYmVh",+
+"",-
+"&",-
+"MkgCZE`",+
+"{x#kVEXEM",+
+"0VH}_",-
+"YbIgpa",+
+"3{Z",-
+"[^kWAMVK",+
+"x",-
+"MkgCZa8",+
+"|it!rEYmVL",+
+"0VH}~",-
+
+// ground truth 
+contain(repeatatleast(or(<vow>,<let>),6))

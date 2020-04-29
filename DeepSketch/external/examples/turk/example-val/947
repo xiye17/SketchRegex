@@ -1,0 +1,16 @@
+// example 
+"R?Li",-
+"nw",-
+"&K",-
+":pF",-
+"@",-
+"l",-
+"He",+
+"AIr.(",-
+"bI\",-
+"b/XZ",-
+"",-
+"7^MLw",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<m0>),<m0>))

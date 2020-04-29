@@ -1,0 +1,17 @@
+// example 
+"!VS",+
+"!s",-
+"!p|}X",-
+"!",-
+"!}",-
+"d",-
+"",-
+"!lG",+
+"!p.zp",-
+"!M;D",-
+"!MH'",-
+"![E",-
+"!*B",-
+
+// ground truth 
+concat(concat(<m0>,<let>),<cap>)

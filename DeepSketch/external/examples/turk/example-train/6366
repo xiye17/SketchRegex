@@ -1,0 +1,15 @@
+// example 
+"dZ{|KyE+",+
+"Q",+
+"[$u3_M",+
+"k3T",+
+"[_",+
+"#iZ$",+
+"a-V[s(n_@b",+
+"O0b6^*x",+
+"DdR6'[qsN",+
+"zK4Y^",+
+"",-
+
+// ground truth 
+repeatatleast(or(startwith(<m0>),<any>),1)

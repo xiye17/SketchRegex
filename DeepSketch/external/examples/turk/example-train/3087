@@ -1,0 +1,25 @@
+// example 
+"ycffz",+
+"q~",-
+"f7JI",-
+"p{:",-
+"~6{",-
+"b{"8w",-
+"B!i:n",-
+"zbxbvbgvnto",+
+"qxbugdfk",+
+"twdtkm",+
+"e",-
+"",-
+"meqjpbglcu",+
+"}",-
+"mbgshxe",+
+"q-",-
+"}M8p",-
+"bcpwfnzfw",+
+"no",+
+"zoo",+
+"ydde",+
+
+// ground truth 
+and(repeatatleast(<low>,1),not(<let>))

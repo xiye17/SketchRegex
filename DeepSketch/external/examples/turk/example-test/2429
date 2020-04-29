@@ -1,0 +1,25 @@
+// example 
+"qO",+
+"mHt1",+
+"fOf|M&",+
+"yDR~p_Pj]d",+
+"es?l",-
+"g|",-
+"e1dX",-
+"rZBK*W6oI",+
+"bDGAv",+
+"eO1"2>+",+
+"",-
+"jRB8;^|R",+
+"k^c,&",-
+"k:nc9",-
+"ebk",-
+"pL}",+
+"vW67MAn?c}^",+
+">",-
+"{",-
+"g/",-
+"90/",-
+
+// ground truth 
+startwith(concat(<low>,<cap>))

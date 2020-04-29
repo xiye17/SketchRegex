@@ -1,0 +1,25 @@
+// example 
+"Z",+
+"Kr",+
+"bysB",+
+"bysn",+
+"1",-
+"KS^",-
+"KG",+
+"L_6wB",-
+"yZX",+
+"qsB!O",+
+"KS}",-
+"b",+
+"^",-
+"{b",-
+",V",-
+"",+
+"^8wm",-
+"yZu",+
+"aM|H",-
+"Lo"2<",-
+"qsB!r",+
+
+// ground truth 
+star(or(concat(<cap>,<m0>),<let>))

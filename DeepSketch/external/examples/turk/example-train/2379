@@ -1,0 +1,25 @@
+// example 
+"G",-
+"[h",-
+"b(Rek",-
+":2",-
+"PIhaeUcuFEua",+
+"AuWicOFumIUUHoIARE",+
+"MIZt",-
+"zOXegEZEKAOiUooIFiUu",+
+"zOXegEZEKAOiUooIFiUA",+
+"",-
+"NEH",-
+"}",-
+"AuWicOFumIUUHoIARa",+
+"PIhaeUcuFEuA",+
+"GuOElUoekIDauEuu",+
+"XoXugAEeJeSuLa",+
+"XoXugAEeJeSuLo",+
+"NE^",-
+"^{wa&",-
+"MIZP",-
+"GuOElUoekIDauEui",+
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),6)

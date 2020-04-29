@@ -1,0 +1,25 @@
+// example 
+"P4$J^Z",+
+"A6ESC|nN",+
+"{~wE)",-
+"T3P(*%F",+
+"T1Tb",+
+"K3",+
+"H83%}5i202w",+
+"V);'I",-
+"Z35C}0;Ej",+
+""",-
+"S90=D",+
+"",-
+"bB2+",-
+"!Qih",-
+"0-",-
+"Y(h",-
+"O7b&f)2,Nd",+
+"w",-
+"K3S",+
+"Yjy",-
+"]z",-
+
+// ground truth 
+startwith(concat(<cap>,<num>))

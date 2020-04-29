@@ -1,0 +1,26 @@
+// example 
+"}g",-
+"[",-
+"xNQ"MJLW",+
+",}Mc",-
+"}$",-
+"",-
+"+WVXNJQ",+
+"x|UOBCRO",+
+"K+kR{FUFM",+
+"gHRV0Fa3ZJ]",+
+"f_%qYSPROG",+
+"K+kR/EAQD",+
+"f_%TA1LNZM",+
+"9O=",-
+"]CRHBGM",+
+"9O}",-
+"MEZVJO",+
+":ZFNa",-
+"L",-
+":ZFN4",-
+",}M:",-
+"gHRV0Fa3fZI",+
+
+// ground truth 
+repeatatleast(endwith(contain(<cap>)),6)

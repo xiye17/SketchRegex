@@ -1,0 +1,14 @@
+// example 
+"",+
+"d6DXA",+
+"S",+
+"r^",+
+";M-0IgK{*",+
+"Dbs",+
+"%(-jgo!",+
+"ybIPbx_8",+
+"6rX]",+
+"U5sW'"",+
+
+// ground truth 
+contain(not(concat(<m0>,<m1>)))

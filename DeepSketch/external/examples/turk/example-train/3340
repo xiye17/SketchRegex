@@ -1,0 +1,25 @@
+// example 
+"UHY",-
+"iqbvzmkokkd5",+
+"4",-
+"vmdqidlqx3",+
+"pnjtuevn0",+
+"uvpzikypmigi8",+
+"",-
+"|\\",-
+"wjfq9",+
+"vUF|x",-
+"fijghwz1",+
+"[4",-
+"xc|!",-
+"c|",-
+"gisevqkwsyqrs1",+
+"&Asai",-
+"srydmy1",+
+"dwvzl2",+
+"dhsuloarys7",+
+"{",-
+"\Xn!",-
+
+// ground truth 
+concat(repeatatleast(<low>,4),<num>)

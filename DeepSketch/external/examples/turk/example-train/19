@@ -1,0 +1,25 @@
+// example 
+"Eypo",+
+"TIv",+
+"e<8e_",-
+"b[/",-
+"["",-
+"",-
+"WhP'",-
+"EypF",+
+"\s$",-
+"TB",+
+"WhP^",-
+"es}7_",-
+"DifynT",+
+"wbwvL",+
+"wbwvy",+
+"TIN",+
+"}N",-
+"L",-
+"{",-
+"Ti",+
+"Difynz",+
+
+// ground truth 
+repeatatleast(or(<let>,<vow>),2)

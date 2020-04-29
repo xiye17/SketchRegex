@@ -1,0 +1,17 @@
+// example 
+"Gfi`A",+
+"G",+
+"e+Fu",+
+"Gart",+
+"X",+
+"^!F",+
+"sk",+
+"",+
+"OY",+
+"A",-
+"M"a8S",+
+"MB#",+
+"E",-
+
+// ground truth 
+not(or(<vow>,<num>))

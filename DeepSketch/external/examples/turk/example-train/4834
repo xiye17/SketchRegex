@@ -1,0 +1,17 @@
+// example 
+"0m}b*",-
+"!",-
+"",-
+"5rt",-
+"HeXH",-
+"5T{",-
+"!U",+
+"Oh`z)",-
+"@",-
+"?l",-
+"ze",-
+"-2gA",-
+"!e",+
+
+// ground truth 
+concat(or(or(<m0>,<num>),<m1>),<vow>)

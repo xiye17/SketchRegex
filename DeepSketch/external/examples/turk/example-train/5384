@@ -1,0 +1,21 @@
+// example 
+"tx",-
+"]r#0j",-
+"K{gnp=/0o,mg#:",+
+"XQXk7%~^QF,",+
+"X`ImFwWYg6",+
+"]k@dkPL",+
+"dx8&ZdES3K$ls",+
+"",-
+"$",-
+"NxL#",-
+"n{1jw^BR'",+
+"$7H!y;D+#(.f",+
+"qaobQqko`$(ZA%/",+
+"$tAq%,",-
+"uoK{_[~&y"?(?vc\",+
+"J*"",-
+"uB`Qq`LZ",+
+
+// ground truth 
+repeatatleast(or(<any>,or(or(<num>,<low>),<let>)),7)

@@ -1,0 +1,17 @@
+// example 
+"zav",-
+"|tjZg",-
+"[l",-
+"aI",+
+"{j,",-
+"XJu(",-
+"e",-
+"",-
+"`",-
+"}giK",-
+"{>",-
+"ai",+
+"zT'*^",-
+
+// ground truth 
+concat(<low>,or(<num>,<vow>))

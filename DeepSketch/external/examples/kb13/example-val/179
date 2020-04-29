@@ -1,0 +1,25 @@
+// example 
+"'!ht",-
+"!c{I",+
+"[",-
+"'!hw",-
+"!ML",-
+"dAqO!E",+
+"!P",-
+"!\dH~",-
+"!",-
+"!D",-
+"!E",+
+"!bo",+
+"",-
+"-O^!u",+
+"!ba",+
+"dAqO!I",+
+"!Mj",-
+"!c{E",+
+"-O^!o",+
+"!\dHs",-
+"!e",+
+
+// ground truth 
+concat(contain(<m0>),startwith(<vow>))

@@ -1,0 +1,23 @@
+// example 
+"u6w0h2a3f1j8h9k4",+
+"if!`e",-
+"j3j7s2m5j4",+
+"6M",-
+"f7r5q9",+
+"d",-
+"u2a3v8s6i1w9z3s6h6",+
+"",-
+"~M-",-
+"}",-
+"y3l7l1q5",+
+"o8}U",-
+"m3o8k0z2e1r4t2y9z7p5",+
+"k8",-
+"p6p6z5y4q0d8",+
+"i)Ine",-
+"W@1",-
+"{B!+",-
+"t2w2o7y7x0k9p7",+
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),3)

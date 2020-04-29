@@ -1,0 +1,24 @@
+// example 
+"Y",+
+"w%F",-
+"m4S}k",-
+"!w",+
+"t",-
+"AY",+
+"Z!i",+
+"p(",-
+"!{",-
+""",-
+"",+
+"TGg",-
+"L!k!k",+
+"j:{X",-
+"L!kES",+
+"!kZS",+
+"ZZC",+
+"(),a",-
+"'.X5s",-
+"!k!b",+
+
+// ground truth 
+star(or(concat(<m0>,<low>),<cap>))

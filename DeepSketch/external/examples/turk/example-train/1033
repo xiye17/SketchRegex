@@ -1,0 +1,26 @@
+// example 
+"jx",+
+")qSfKW",+
+"HgOv",+
+"f]",-
+"~DN]5",-
+""?Amrv",-
+"[}Ws",-
+"_PsAm",+
+"[;?f",-
+"pb}",-
+"HgOL",+
+"f2",-
+"~DN{3",-
+"",-
+"jR",+
+"MTm",+
+""^Y.TW",-
+"pb^",-
+")qSfKq",+
+"z",+
+"MTA",+
+"_PsAS",+
+
+// ground truth 
+concat(<any>,star(<let>))

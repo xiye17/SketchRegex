@@ -1,0 +1,25 @@
+// example 
+"UQ_",+
+"[",+
+"eXxdG",+
+"J7",+
+"q|f",-
+"|s",-
+"l",+
+";8Fc",-
+"J\",+
+"HbN!",+
+"",-
+"~fF<m",-
+"/3i=y",-
+"l1Kh}1",-
+"eXxd|",+
+"\X",-
+"q9_",-
+"UQg",+
+"[b(qz.",-
+"{b>D",-
+"HbN{",+
+
+// ground truth 
+concat(star(<let>),<any>)

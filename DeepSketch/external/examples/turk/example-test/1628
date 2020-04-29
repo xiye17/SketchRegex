@@ -1,0 +1,17 @@
+// example 
+"vaT=",-
+"#e|@O",-
+"t",-
+"0!",-
+"A_H%A",-
+"",-
+"&",-
+"2!H",+
+"(2]",-
+",zbk",-
+"2!y",+
+"I(n",-
+"0m",-
+
+// ground truth 
+concat(concat(<num>,<m0>),<let>)

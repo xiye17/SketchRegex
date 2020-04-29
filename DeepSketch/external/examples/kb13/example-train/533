@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(repeatrange(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),0,4),repeatatleast(contain(and(repeatatleast(<let>,1),contain(<m0>))),1))

@@ -1,0 +1,17 @@
+// example 
+"Kt",-
+"Y8",+
+"CAmEh",-
+"YO",+
+"S0*3",-
+"*",-
+"",-
+"VY%",-
+"N",-
+"K+",-
+"SJtY",-
+"Vi^",-
+"$Ri*[",-
+
+// ground truth 
+concat(<cap>,or(<num>,<vow>))

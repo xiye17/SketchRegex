@@ -1,0 +1,25 @@
+// example 
+"!7!",-
+"#$2v@!@",+
+"&")@!#",+
+"#@R!@",+
+"-#@!",-
+"@!#",+
+"!70",-
+"#",-
+"",-
+"E@!#",+
+"#@R!#",+
+"C+",-
+"-#@V",-
+"&")#!@",+
+"C@",-
+"@",-
+"@!~pf",-
+"@!~p!",-
+"E#!@",+
+"#!@",+
+"#$2v@!#",+
+
+// ground truth 
+contain(or(concat(startwith(<m1>),concat(startwith(<m0>),<m2>)),concat(startwith(<m2>),concat(startwith(<m0>),<m1>))))

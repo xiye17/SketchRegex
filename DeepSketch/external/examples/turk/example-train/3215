@@ -1,0 +1,24 @@
+// example 
+"q{",-
+"XTaeWu5GyRVh",+
+"Y",-
+"yhjR",+
+"Z:{76",-
+"ZSO[i",-
+"9Y&`",-
+"lfQvpn",+
+"}sLOqJ[o@C",+
+"q4",-
+"QDf",-
+"XTaeWu5GyRVQ",+
+"",-
+"Qug",-
+"9Y&|",-
+")ZjiArsK",+
+"yhjs",+
+")ZjiArss",+
+"lfQvpE",+
+"}sLOqJ[o@c",+
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),2)

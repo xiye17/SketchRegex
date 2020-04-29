@@ -1,0 +1,15 @@
+// example 
+"",+
+"*#w@fR",-
+"]:+#{,EKnq",-
+"*kt)",-
+"ls(v/",-
+"T!-",-
+"4",-
+"sc",-
+"a<2tROT2|",-
+"~ZjZ9-{_",-
+"x5NA(nh",-
+
+// ground truth 
+not(startwith(<any>))

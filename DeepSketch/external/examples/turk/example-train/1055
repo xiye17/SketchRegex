@@ -1,0 +1,20 @@
+// example 
+"078{~zQ",+
+"S$_tO",-
+"Z~?N(!pR",+
+":Bt"0\t^A",+
+"bd"J1&",+
+"Io@dRWN3U16]",+
+"5m-,Ldn6bH",+
+"O]]E_p]m1w:J^l~",+
+"5w*ij:1PJfe>~",+
+"-",-
+"",-
+"*|c\",-
+"WkY",-
+"c'",-
+"mc|1RyS5/E|{2,",+
+"3Z(?hMGf<zE",+
+
+// ground truth 
+repeatatleast(or(<low>,<any>),6)

@@ -1,0 +1,17 @@
+// example 
+"Bj",+
+"g_4",-
+"zl",-
+"VqN",-
+"!",-
+"",-
+"88",-
+"!@",+
+"0zrgl",-
+"|R6F)",-
+"C",-
+"!@s^",-
+"!|EG",-
+
+// ground truth 
+or(concat(<m0>,<m1>),concat(<cap>,<any>))

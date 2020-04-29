@@ -1,0 +1,26 @@
+// example 
+"9T^",-
+"t/Km",+
+"R$$Z}",-
+"o",-
+"9g",-
+"^Qk",+
+"B!q^Qz",+
+"R$$Z4",-
+"-",-
+"9TP",-
+">;S^",-
+"eZ}Uo",+
+"",-
+"tvFo",+
+"!rE~%Fw",+
+"Yo",+
+"eZmAE",+
+">Ne",+
+"B!q)Vh",+
+">;S|",-
+"9F",-
+"!rE~GsM",+
+
+// ground truth 
+contain(concat(<cap>,<low>))

@@ -1,0 +1,22 @@
+// example 
+"AiKwXmXpKhWvRfKo",+
+"BtFuShPfVy",+
+";/~4",-
+"AnFiQdGeEoEyGo",+
+"8n",-
+"Hf#)",-
+"sy",-
+"",-
+"F|pz1",-
+"&",-
+"SnZaIkTfQqLq",+
+"f",-
+"lz#",-
+"T9w",-
+"FGsE:",-
+"LkBjDnCzHrYeCaHxDc",+
+"UlUnMzQi",+
+"DzJaZtOkUdRyDzYyPgJi",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),4)

@@ -1,0 +1,25 @@
+// example 
+"T/`<",-
+"[",-
+"Txbwqlcabudkokt",+
+"Jmjvljy",+
+"Vawngtzspfb",+
+"!",-
+"yk'K'",-
+"",-
+"Nb",-
+"Y/{C=",-
+"Vozizgeqkvsqho",+
+"Ovxdfspnh",+
+"Gjjpmwizdb",+
+"Qn*",-
+"Vmsboalj",+
+"Shhypt",+
+"Bvrxddukorhdh",+
+"Batwwvlojkhk",+
+"N|",-
+"Qno",-
+"'5.e",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<low>,5))

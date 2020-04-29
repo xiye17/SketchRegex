@@ -1,0 +1,14 @@
+// example 
+"",+
+"ZUO%",+
+"Y\=0G(6q-",+
+"{ID<>#I",+
+"'L5<EB",+
+"B",+
+"dKYZ4",+
+"szw",+
+"p!cF`TVW",+
+".l",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<cap>))

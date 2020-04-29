@@ -1,0 +1,15 @@
+// example 
+"B:zh$",-
+"Bg[*",-
+"B%<|",-
+"BD]w^",-
+"U",-
+"1"",-
+"1y",-
+"W;<",-
+"WK1",-
+"8V!",+
+"",-
+
+// ground truth 
+concat(concat(<any>,<cap>),<m0>)

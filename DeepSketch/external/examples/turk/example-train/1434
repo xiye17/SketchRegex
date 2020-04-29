@@ -1,0 +1,26 @@
+// example 
+"ZP3",+
+"F",+
+"Fn0|",+
+"VB!^V<",+
+"]b<",-
+"Ol",-
+"sc>j*",-
+"",-
+"$x.{",-
+"Z{",+
+"KuEB:",+
+"8",-
+"o*gb",-
+"V|e-BS",+
+"y",-
+"F<Tg",+
+"@tO",-
+"K{5qD",+
+"Z"",+
+"ZeG",+
+"OV",-
+"%.NoH",-
+
+// ground truth 
+concat(<cap>,not(<let>))

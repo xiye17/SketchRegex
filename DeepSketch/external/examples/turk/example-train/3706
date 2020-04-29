@@ -1,0 +1,25 @@
+// example 
+"Ee",+
+"Bop",-
+"LT",-
+",'",-
+"--2F",-
+"Bo#Vi",+
+"EI",+
+"Bo#VA",+
+"Eei",+
+"UUiE",+
+"",-
+"UUiI",+
+"i",-
+"s}2tF",-
+"JLmmiu",+
+"S",-
+"`}kg",-
+"EeI",+
+"JLmmii",+
+"Bo;",-
+"5Q%\n",-
+
+// ground truth 
+concat(<cap>,endwith(<vow>))

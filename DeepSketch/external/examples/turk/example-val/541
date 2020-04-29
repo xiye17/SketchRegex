@@ -1,0 +1,25 @@
+// example 
+"a<A_",+
+";UGLV",+
+"rgf",-
+"ztT{b",-
+"nO",+
+"#",-
+"",-
+"CchR",-
+"laM",+
+"na",+
+"CchZ",-
+"cB",-
+"rgr",-
+"liz",+
+";cQOI",+
+"I",+
+"J",-
+"eRhl",+
+"ztT{g",-
+"cm",-
+"A",+
+
+// ground truth 
+endwith(contain(<vow>))

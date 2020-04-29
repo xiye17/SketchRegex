@@ -1,0 +1,25 @@
+// example 
+"UF",-
+"AaiuEAz",+
+"aaEUOoAi",+
+"u",-
+"IuUeiEAag",+
+"uIEiOuAuoe",+
+"IuUeiEAaX",+
+"UeUuio",+
+"Ua",-
+"Eq:*;",-
+"[H`",-
+"jc(",-
+"bKSfY",-
+"",-
+"oXt{",-
+"ogQR",-
+"aaEUOoAK",+
+"AaiuEAW",+
+"U",-
+"uIEiOuAuoH",+
+"UeUuiP",+
+
+// ground truth 
+concat(repeatatleast(<vow>,5),or(<let>,<m0>))

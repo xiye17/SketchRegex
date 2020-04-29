@@ -1,0 +1,25 @@
+// example 
+"O\+",-
+"!J",+
+"mqrULi",+
+"]",-
+"!r]",+
+"rTaCgmv",+
+"!bH5pi%",+
+"!thJ",+
+"!x^,/",+
+"!",+
+"",-
+"HV",-
+"U",-
+"O*k",-
+"mqrULN",+
+"H=",-
+"^QWq",-
+"fbeuS",+
+"RW_7k",-
+"+V,B",-
+"RW)nM",-
+
+// ground truth 
+or(startwith(<m0>),repeatatleast(<let>,5))

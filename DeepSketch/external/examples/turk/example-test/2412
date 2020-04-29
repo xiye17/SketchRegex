@@ -1,0 +1,15 @@
+// example 
+"OB",+
+"r&>3",+
+"M4-QtmI~",+
+"^&w%%9#{M",+
+"Q%B5-q\",+
+"{YMti^",+
+":-d.&",+
+"9-,",+
+"\",+
+"",-
+"q?[OOU/muV",+
+
+// ground truth 
+repeatatleast(or(endwith(<num>),<any>),1)

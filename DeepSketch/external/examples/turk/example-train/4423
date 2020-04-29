@@ -1,0 +1,17 @@
+// example 
+"oRU15",-
+"5v",-
+"o",+
+"a",+
+"q:-",-
+"",-
+"D]@!",-
+"P",-
+"iy",-
+"l`Ne|",-
+"IIv#",-
+"u{R",-
+"{",-
+
+// ground truth 
+and(and(<any>,<let>),<vow>)

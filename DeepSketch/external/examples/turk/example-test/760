@@ -1,0 +1,24 @@
+// example 
+"XDN",+
+"RPEVEK",+
+"SFF>s",-
+"PIACQIJ",+
+"LRFTNDNZ",+
+"]3B",-
+"23t\",-
+"-",-
+"L$",-
+"ODPZ",+
+"FSPUE",+
+"",+
+"61",+
+"2xDJ",-
+"|",-
+"SF<^8",-
+"]}%",-
+"H",+
+"UF",+
+"L<",-
+
+// ground truth 
+or(concat(<any>,<num>),star(<cap>))

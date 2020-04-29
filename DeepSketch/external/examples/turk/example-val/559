@@ -1,0 +1,17 @@
+// example 
+"OK][-",+
+"8m",+
+"Wr!",+
+"qIi;(",+
+"_C",+
+"WZ",-
+"AE4b",+
+"k@",-
+"#",+
+"",+
+""(0",+
+"A",+
+"^d]P",+
+
+// ground truth 
+not(concat(<let>,<any>))

@@ -1,0 +1,17 @@
+// example 
+"1i",+
+"0Slp",-
+"4e}",-
+"/",-
+"*)",-
+"",-
+"6D",-
+"0Ol]",-
+"4FM&k",-
+"d<F",-
+"7",-
+"4_cV2",-
+"1A",+
+
+// ground truth 
+concat(<num>,and(<any>,<vow>))

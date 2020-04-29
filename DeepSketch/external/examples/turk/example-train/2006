@@ -1,0 +1,25 @@
+// example 
+"LtA!",+
+"hu!*!!!",+
+"Lt!!",+
+"tyra",-
+"Qj)!!!N!",+
+"f6",-
+"hu!*!e!",+
+"Va!:!!",+
+"ty!e",-
+"e*zrq",-
+"",-
+"Va!:;!",+
+"Wf5A!",+
+"qp/",-
+"i",-
+"e{:\f",-
+"Wf5!!",+
+"Qj)!!!!!",+
+"f{",-
+"qH]",-
+"0n!",+
+
+// ground truth 
+concat(concat(<any>,<low>),endwith(<m0>))

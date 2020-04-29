@@ -1,0 +1,15 @@
+// example 
+"g",-
+"ZOS",-
+"Z@)",-
+"x#",-
+"xz",-
+"i@"1",-
+"K@]TI",-
+"i/&F",-
+"$@",+
+"",-
+"K2&-q",-
+
+// ground truth 
+concat(or(or(<cap>,<any>),<m0>),<m1>)

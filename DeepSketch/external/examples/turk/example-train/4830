@@ -1,0 +1,15 @@
+// example 
+"'4~hP^;=",+
+"-K9",+
+"a/|GpnFuh",+
+"1",+
+"[vQ8",+
+"2uBIMS",+
+"$T",+
+"z{*az+F",+
+"ltMa|j2@sR",+
+"5PL,\",+
+"",-
+
+// ground truth 
+startwith(or(or(or(<any>,<vow>),<cap>),<num>))

@@ -1,0 +1,25 @@
+// example 
+"/",-
+"z9ew",+
+"sh7",+
+"L2T74",+
+"McuPt4C",+
+"x_=#A",-
+"]t`",-
+"z9eR",+
+"shf",+
+"x{o%w",-
+"10qv4R",+
+"",-
+"<=",-
+">JHr",-
+"|",-
+"o)h:",-
+"McuPt4a",+
+"v8^",-
+"L2T7d",+
+"~+",-
+"10qv4i",+
+
+// ground truth 
+repeatatleast(or(<num>,<let>),3)

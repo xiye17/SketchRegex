@@ -1,0 +1,25 @@
+// example 
+"bl;t=I",+
+"|\'"",-
+"i"9R",+
+"EG",+
+"cR",+
+"V4,Yg",+
+"*w97f",-
+"aaE",+
+"",-
+"a",-
+"ia",-
+"V4,5S",+
+"%m.",-
+"_-SA",-
+"bl;Zgd",+
+"iIC8",+
+"i%",-
+"aSB",+
+"P2""c",-
+"{",-
+"}YL",-
+
+// ground truth 
+concat(<let>,contain(<cap>))

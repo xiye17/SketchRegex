@@ -1,0 +1,16 @@
+// example 
+"RUck",-
+"(A!",+
+"zX_",-
+"zue",-
+"(u!",+
+"%aYy$",-
+"KU",-
+"KV",-
+"d",-
+"",-
+"%a!i[",-
+"RksT",-
+
+// ground truth 
+concat(concat(<any>,<vow>),<m0>)

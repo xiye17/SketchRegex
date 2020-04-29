@@ -1,0 +1,25 @@
+// example 
+"mG",+
+"~YZ",+
+"]r3",-
+"CA~^}",-
+"PE",+
+"]r]",-
+"6T@tB",+
+"St",-
+"C|\}",-
+"_",-
+"&'NI",+
+"6T@FR",+
+"&'eE",+
+"",-
+"_~`DUL",+
+"CA~^7",-
+"~hG",+
+"R",-
+"S^",-
+"C|\]",-
+"_~`DrS",+
+
+// ground truth 
+concat(endwith(<let>),<cap>)

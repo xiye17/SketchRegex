@@ -1,0 +1,25 @@
+// example 
+"Hl'3",-
+"7t}t@a",-
+"b\>!",+
+"&}c9x&$z",-
+"_n1!<5",+
+"$!",+
+"",-
+"LX/",-
+"OP!\nHy",+
+"O!D~)`m",+
+"b!{.",+
+"4Y[<SC>",-
+"pq!",+
+".[I!'",+
+"_n!C}i",+
+"_-YG^dGo>",-
+"w",-
+"N'x88",-
+"p!e",+
+".[!e-",+
+"_v",-
+
+// ground truth 
+contain(concat(<any>,repeatatleast(<m0>,1)))

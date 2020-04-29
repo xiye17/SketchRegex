@@ -1,0 +1,25 @@
+// example 
+"b}|}"",-
+"S_C",-
+"_?|wErJbvW",+
+"geSvFld",+
+"S_m",-
+",}~[GVmxbSs",+
+",#",-
+"_?|wErJbvf",+
+"\6_/",-
+"",-
+"geSvFlR",+
+"|",-
+"}=FiKZEVG",+
+"!fcnkNiR",+
+"b}|}q",-
+"!fcnkNif",+
+",I",-
+"A",-
+"}=FiKZEVe",+
+",}~[GVmxbSF",+
+"\6_P",-
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),7)

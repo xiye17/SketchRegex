@@ -1,0 +1,14 @@
+// example 
+"",+
+"1zWYu",+
+"![(b",+
+"bTX>sSYT",+
+"'Y=mJPi",+
+"g2g=3nkzF",+
+"Rz",+
+"VeF",+
+"bv:XH{",+
+"~",+
+
+// ground truth 
+not(and(<let>,concat(<m0>,<m1>)))

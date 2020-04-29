@@ -1,0 +1,17 @@
+// example 
+"E(77",+
+"r'1B}",+
+"a",+
+"yn",+
+"U5",-
+"D'v4",+
+"De",+
+"",+
+"u7",-
+"U4x",+
+"x",+
+"j(9Bu",+
+"U<h",+
+
+// ground truth 
+not(concat(<vow>,<num>))

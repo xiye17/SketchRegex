@@ -1,0 +1,15 @@
+// example 
+"=?JeiN5:j-",+
+"V,5`Lt2h",+
+"L",+
+"%_I<1-2",+
+"CW",+
+"K[>[r",+
+"V"CKl'",+
+"aU!dt9T+{",+
+"k%|j",+
+"b:l",+
+"",-
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),1)

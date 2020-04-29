@@ -1,0 +1,25 @@
+// example 
+"ORTJkPDiLiE",+
+"ORTJkPDiLMO",+
+"az]{",-
+"XhJaUBJ",+
+"Y[8nG",-
+"pUH",-
+"3",-
+"bddTdupBA",+
+"pRkThVGJWU",+
+"XhJaUjP",+
+"ebxBqcaR",+
+"p>u",-
+"",-
+"pRkThVGJnE",+
+"j",-
+"YY=hB",-
+"ebxBqcLH",+
+"bddTdupfO",+
+"a~dV",-
+"~^",-
+")[",-
+
+// ground truth 
+concat(repeatatleast(<let>,6),<cap>)

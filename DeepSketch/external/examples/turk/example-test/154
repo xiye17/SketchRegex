@@ -1,0 +1,17 @@
+// example 
+"qI!",+
+"LJ!",+
+"_",-
+"_\",-
+"",-
+"}",-
+"GcB",-
+"VS!D",-
+"~nXII",-
+"f3l1R",-
+"2?",-
+"'*=b",-
+"GJ,",-
+
+// ground truth 
+concat(concat(<let>,<cap>),<m0>)

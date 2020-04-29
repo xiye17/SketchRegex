@@ -1,0 +1,17 @@
+// example 
+"{d",-
+"j&z",-
+"[",-
+"E7",-
+"J!'a",-
+"F!",+
+"JLW"",-
+"",-
+"]VQs0",-
+"j![",-
+"R!O,.",-
+"H",-
+"m!",+
+
+// ground truth 
+and(not(<num>),concat(<let>,<m0>))

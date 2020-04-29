@@ -1,0 +1,16 @@
+// example 
+"",+
+"lfo",+
+"|oea",+
+"@G",+
+"n",+
+"@B",+
+"Ga'(Y",+
+"GeO4l",+
+"ju",-
+"|rZY",+
+"lak",+
+"je",-
+
+// ground truth 
+not(concat(<any>,<vow>))

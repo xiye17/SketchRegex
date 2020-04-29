@@ -1,0 +1,17 @@
+// example 
+"u'iR>",-
+"d4+95",-
+"7w",-
+"Anlm",-
+"aD",+
+"OQg",-
+"*",-
+"",-
+"c",-
+"]3",-
+"Gsb",-
+"G/#_",-
+"uJ",+
+
+// ground truth 
+concat(<vow>,or(<cap>,<any>))

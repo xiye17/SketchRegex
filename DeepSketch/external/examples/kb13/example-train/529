@@ -1,0 +1,26 @@
+// example 
+"f!!X",+
+"t(!yS)!",+
+"q~",-
+"@!H",-
+"O!u5",-
+"!!a",+
+"!!FGX",+
+"t!([?",-
+"!",-
+"!!Z;Po",+
+"!dZV!",+
+"!_ig",-
+"",-
+"tYyK!",-
+"!S",-
+"!gHJ!^",+
+"@",-
+"!!",+
+"f!;!",+
+"t(!y!cH",+
+"!\!",+
+"@U!",-
+
+// ground truth 
+contain(repeatatleast(contain(<m0>),2))

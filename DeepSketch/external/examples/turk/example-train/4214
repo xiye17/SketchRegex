@@ -1,0 +1,25 @@
+// example 
+"!UUtEEE",+
+"IIEO!U!mO",+
+"OM",-
+"!0<<,",-
+"!FDiE",-
+"IIEO!U!m!",+
+"k!U!UUIgOE",+
+"OrOOEUOaAEA",+
+"",-
+"!UUtEEO",+
+"OD",-
+"jO{|",-
+"EIOOj!!O",+
+"k!U!UUIgOO",+
+"O",-
+"{Tju",-
+"EIOOj!!A",+
+"OrOOEUOaAEU",+
+"A",-
+"$YE",-
+"A[{",-
+
+// ground truth 
+repeatatleast(or(<m0>,or(or(<vow>,<low>),<m0>)),7)

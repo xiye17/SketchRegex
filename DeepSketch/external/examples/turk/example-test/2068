@@ -1,0 +1,25 @@
+// example 
+"!I",+
+"!GA",+
+"!_",-
+"AW]!",-
+"!bGCA",+
+"!",-
+"!R",-
+"0i!I",+
+"!bGCI",+
+"!AAT}",-
+"&^!U5a",+
+"",-
+"!AATH",-
+"!EM",-
+"!Ga",+
+"!EG",-
+"!U",+
+"0i!o",+
+"AW].",-
+"&^!U5E",+
+"E",-
+
+// ground truth 
+concat(contain(<m0>),or(<vow>,<low>))

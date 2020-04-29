@@ -1,0 +1,14 @@
+// example 
+"",+
+"gr",+
+"lE/Y-I{Z)",+
+"PLL<&|",+
+"??Gu8",+
+"[;/XAkQ",+
+"hAtx",+
+"0R95tlMd",+
+"0&5",+
+"<",+
+
+// ground truth 
+not(and(and(<m0>,<cap>),<num>))

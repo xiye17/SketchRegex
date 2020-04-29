@@ -1,0 +1,15 @@
+// example 
+"%",-
+"wf",-
+"G6Qp",-
+"5X",+
+"GHq!",-
+"Onl",-
+"$BET.",-
+"w4",-
+"OQT",-
+"",-
+"$j|zu",-
+
+// ground truth 
+concat(or(or(<any>,<vow>),<m0>),<cap>)

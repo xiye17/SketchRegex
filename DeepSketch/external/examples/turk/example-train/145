@@ -1,0 +1,25 @@
+// example 
+"9ro0x",+
+"6nc|<SX0&",+
+"2o:_r<Y",+
+"3",-
+"2"",-
+"dLXk3",-
+"7k3-.P",+
+"2}",-
+"V",-
+"7vdU",+
+"5{J",-
+"",-
+"0}7A",-
+"6yt;(lxU|D",+
+"3g<}ZJ/@",+
+"9t",+
+"1bE",+
+"0DOa",-
+")",vp",-
+"3zedyBY=2%[",+
+"5E@",-
+
+// ground truth 
+startwith(concat(<num>,<low>))

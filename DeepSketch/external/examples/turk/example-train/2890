@@ -1,0 +1,16 @@
+// example 
+"}D9dP[",-
+"Asq",-
+"}!w3qW",-
+"+!p]",-
+"+f5y",-
+"p",-
+"ax",-
+"A!4",-
+"X!",+
+"%%f(;",-
+"%!@zs",-
+"",-
+
+// ground truth 
+concat(or(or(<let>,<any>),<vow>),<m0>)

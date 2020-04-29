@@ -1,0 +1,25 @@
+// example 
+"Y/9",-
+":O_*c%",-
+"EOGnb",-
+"EOG2B",-
+"KG",+
+"1",+
+"II,",+
+"",-
+"Hc<pz8",-
+"PSFN",+
+"YvB",-
+"K%",+
+"R",+
+"PSF;",+
+"MNHEN",+
+"BI:@",-
+",q",-
+"IIY",+
+"MNHE;",+
+"s/io",-
+"m%",-
+
+// ground truth 
+concat(star(<cap>),<any>)

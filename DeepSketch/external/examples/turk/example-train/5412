@@ -1,0 +1,25 @@
+// example 
+"1uG",-
+"6`BlLo",+
+"j</P{",-
+"6Mo",+
+"0t",-
+"3",-
+"5:uHU",+
+".[r&",-
+"9zhI",+
+"6MI",+
+"7e",+
+"5:uHO",+
+""",-
+"guqs",-
+"1uq",-
+"",-
+"9zhO",+
+"7i",+
+"6`BlLI",+
+"0c",-
+"0OO~M",-
+
+// ground truth 
+concat(repeatatleast(startwith(<num>),1),<vow>)

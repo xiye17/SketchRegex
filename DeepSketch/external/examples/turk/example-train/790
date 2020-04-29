@@ -1,0 +1,25 @@
+// example 
+"IE5",+
+"Ie2",+
+"eCqeq",-
+"o",-
+"eCqel",-
+"u}o[E9",+
+"O0",+
+"uje",-
+"(",-
+"iB}N",-
+"",-
+"IaE7",+
+"Ui",-
+"u}o[u1",+
+"Iaa7",+
+"buea3",+
+"uj{",-
+"iB}h",-
+"A6",+
+"bueI1",+
+"UN",-
+
+// ground truth 
+concat(endwith(<vow>),repeatatleast(<num>,1))

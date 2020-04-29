@@ -1,0 +1,20 @@
+// example 
+"x-nrb'jMg8s>c>",+
+"daayjBu(l.fCsGlYvD",+
+"pd<PQ",-
+"c]c"i>jtrrf~",+
+"a~b{psw?a8w/kQuA",+
+"5",-
+"pdztn",-
+"",-
+"AR",-
+"=Lv",-
+"v6r|kDeDeWyPi)mRluaW",+
+"~UG",-
+"x",-
+"|k",-
+"|]dL",-
+"sr~L",-
+
+// ground truth 
+repeatatleast(concat(<low>,<any>),6)

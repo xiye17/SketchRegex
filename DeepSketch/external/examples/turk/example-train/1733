@@ -1,0 +1,15 @@
+// example 
+"",+
+"u2cl&#",-
+"P",-
+",cBK6=/",-
+"Sy.+C1b&@",-
+"kmBaMy4kx8",-
+"Fc",-
+"[cf",-
+"`3fb",-
+"n+\^D",-
+";gE@+|?T",-
+
+// ground truth 
+not(or(<m0>,contain(<any>)))

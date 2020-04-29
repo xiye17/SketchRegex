@@ -1,0 +1,25 @@
+// example 
+"!|F}o",-
+"/_[p",-
+"D~`G*MA",+
+">ODCx",+
+"o&v%pj",+
+"/_[E",-
+"",-
+">ODCW",+
+"D~`G*Mz",+
+"|",-
+"wR",-
+"h]m",-
+"h]Z",-
+"!|F}{",-
+"qw8}}}Sb",+
+"BOLN",+
+"w|",-
+"o&v%pT",+
+"qw8}}}SI",+
+"BOLv",+
+"D",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),4)

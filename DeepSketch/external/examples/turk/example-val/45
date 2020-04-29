@@ -1,0 +1,25 @@
+// example 
+"3KslA$b6.",+
+"[",-
+"SB~",-
+"v6HHs",-
+"7oj",+
+"Ar~+",-
+",]",-
+"0eR<ai",+
+"",-
+"&",-
+"1z/15}X",+
+"8aHak!)xkg",+
+"8",+
+"3Qrp{",+
+"9VTR",+
+"*rj",-
+"&q7-q",-
+"4&",+
+";z",-
+"0+}I:uv]",+
+"%E2y",-
+
+// ground truth 
+repeatatleast(startwith(<num>),1)

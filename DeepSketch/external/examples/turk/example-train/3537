@@ -1,0 +1,17 @@
+// example 
+"KG",+
+"|`f",-
+"k5zK",-
+"",-
+"kA",+
+"T",-
+"k]U9",-
+"`];",-
+"l3c3O",-
+"ldL[B",-
+"Xi",-
+"X&",-
+"~",-
+
+// ground truth 
+concat(or(<low>,<let>),<cap>)

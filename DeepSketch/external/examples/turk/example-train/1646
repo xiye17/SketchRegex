@@ -1,0 +1,25 @@
+// example 
+"M(VHo\;",+
+"Dn)9Ffgn",+
+"XRXDL*|=<C",+
+"^4$Y",-
+"V=#*",+
+"G@",+
+"IHY'pO",+
+"",-
+"*%i",-
+"L5Q",+
+"+u",-
+">jQO",-
+"S",+
+"kQ",-
+"D`lly",+
+"hz`",-
+"?",-
+"x",-
+"dEpm.",-
+"22NBn",-
+"Rs:>;:O`s",+
+
+// ground truth 
+startwith(or(and(<num>,<m0>),<cap>))

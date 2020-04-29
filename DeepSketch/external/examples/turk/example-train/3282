@@ -1,0 +1,17 @@
+// example 
+"v`M}+",+
+"sf",+
+"`KM",+
+"2~lJp",+
+"",+
+"<^O",+
+"OY",+
+"^rwO",+
+"x",-
+"~'Nb",+
+"H",-
+"@",+
+"|",+
+
+// ground truth 
+not(or(or(<m0>,<low>),<cap>))

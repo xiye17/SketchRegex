@@ -1,0 +1,26 @@
+// example 
+"FjY.Vp",+
+"\",-
+"F|X",+
+"<woaN",-
+"!)5TX",+
+"!)tEU",+
+"Fj,dZF",+
+"U#p+",-
+",",-
+"U#p`",-
+")l,",-
+"uEL",+
+"E<V?",+
+"",-
+"|f",-
+"E<]V",+
+")li",-
+"QD",+
+"D{7==8X",+
+"|*",-
+"<woa$",-
+"D{7==J/",+
+
+// ground truth 
+repeatatleast(contain(<cap>),2)

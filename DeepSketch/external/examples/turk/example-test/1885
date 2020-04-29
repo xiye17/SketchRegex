@@ -1,0 +1,15 @@
+// example 
+"7u8",+
+"uf5K",-
+"Fq^2j",-
+"!",-
+"F}K~q",-
+"",-
+"\}",-
+"\"",-
+"u;[L",-
+"jtJ",-
+"jt,",-
+
+// ground truth 
+concat(concat(<any>,<low>),<num>)

@@ -1,0 +1,22 @@
+// example 
+"RT*Xx",-
+"S!L!K!G!",+
+"B;",-
+"X!S!U!W!N!W!J!R!T!Y!",+
+"uZv^",-
+">%55",-
+"k~",-
+"&G>rr",-
+"",-
+"#[r",-
+"U!C!M!K!Q!M!E!A!N!",+
+"X!P!F!Q!F!M!",+
+"N!U!N!Z!P!",+
+"X!H!S!W!S!T!M!K!",+
+"H-6",-
+"y",-
+"M",-
+"H!I!S!C!B!U!W!",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<m0>),4)

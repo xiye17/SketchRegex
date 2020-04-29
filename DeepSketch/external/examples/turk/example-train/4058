@@ -1,0 +1,16 @@
+// example 
+"kK<n",-
+""a",-
+"}F,",-
+"$);6-",-
+"A\",-
+"5",-
+".{.",-
+"9JYMn",-
+"8D",+
+"H",-
+"",-
+"3RG'",-
+
+// ground truth 
+concat(<num>,or(or(<cap>,<any>),<vow>))

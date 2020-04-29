@@ -1,0 +1,25 @@
+// example 
+"b]uJ",-
+"[",-
+"Z!!",-
+"Ib!!xN",+
+"isPl!!!",+
+"@Ht9",-
+"Uy%65",-
+"lkgvZ!Az!!",+
+"!^",-
+"Uyf`q",-
+"zYdCEawvS",+
+"!",-
+"!nO!RwoZ",+
+"zYdCEawv!",+
+"lkgvZ!Az!G",+
+"",-
+"!nO!Rwos",+
+"!@",-
+"Ib!!xk",+
+"Z{/",-
+"isPl!!z",+
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),6)

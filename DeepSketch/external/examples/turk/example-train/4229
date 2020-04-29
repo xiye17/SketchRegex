@@ -1,0 +1,15 @@
+// example 
+"|",-
+"$%",-
+"3@",+
+"|yS",-
+"yDis",-
+"Jx&^"",-
+"|<.",-
+"y@8r",-
+"$x",-
+"J@:c[",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<m0>),<cap>),<m1>)

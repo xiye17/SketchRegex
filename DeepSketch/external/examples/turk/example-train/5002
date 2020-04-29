@@ -1,0 +1,17 @@
+// example 
+"UJJ",-
+"/)x",-
+"6PD4*",-
+"X|",-
+",Q",-
+"-",-
+"5e|3",-
+"4Oc",+
+"",-
+"7",-
+"S;b`",-
+"6Dap!",-
+"4Ab",+
+
+// ground truth 
+concat(concat(<num>,<vow>),<low>)

@@ -1,0 +1,21 @@
+// example 
+"K<[N^OKX~,",+
+"%jKA|c]J&.e9",+
+">s"p)rKL",+
+"#",-
+"",-
+"~BeOqkDTi",+
+"#}k?2}2hH{Q",+
+"}$Je6q)j@lQ3:",+
+"x_",-
+"-|f7",-
+"ZN$8M??",+
+"\EHDQ:'hk"*xz(ph",+
+"*%\",-
+"Gd=R_",-
+"-NZ&}x4d/5?xI!g",+
+"-Xjxm=",-
+"2rP'Gbr@GZkJR\",+
+
+// ground truth 
+repeatatleast(endwith(<any>),7)

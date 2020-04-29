@@ -1,0 +1,24 @@
+// example 
+"tJ",-
+"%RHb",-
+"Vo*Eg",+
+"QU]/",+
+"Di",+
+"(yBHh",-
+"RBT",-
+"Da",+
+"",-
+"6SE",+
+"u\Cu#c",+
+"VIWS~",+
+"QdFi",+
+"%RHM",-
+"x",-
+"u\CE'&",+
+"(yBHT",-
+"6SO",+
+"tn",-
+"RBh",-
+
+// ground truth 
+contain(endwith(concat(<any>,<vow>)))

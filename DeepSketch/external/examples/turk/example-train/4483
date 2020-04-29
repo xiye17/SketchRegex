@@ -1,0 +1,15 @@
+// example 
+"2?",+
+"M"JE",+
+"6!C",+
+"iI~o.b",+
+"h",+
+"XwN!M5q",+
+"z,kZ:>w0WD",+
+"Ssh'Q:@J",+
+"0$(!`",+
+"r%%9^/FL]",+
+"",-
+
+// ground truth 
+startwith(or(<any>,<low>))

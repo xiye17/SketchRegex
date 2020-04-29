@@ -1,0 +1,25 @@
+// example 
+"SpW",+
+"IVPKHSNR",-
+"Au",+
+"CBRZAD",-
+"TOM~b",+
+"+,'?",+
+"l!X?",+
+"CI",-
+"FGJHRRN",-
+"GZJKMNYSBA",-
+"",+
+"PBNRBDKBF",-
+":",+
+"5{QxV",+
+"OHHRG",-
+"S!|",+
+"U",-
+"A5",+
+"OOE",-
+"x",+
+"YFKI",-
+
+// ground truth 
+not(repeatatleast(<cap>,1))

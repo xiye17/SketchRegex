@@ -1,0 +1,26 @@
+// example 
+"|/",-
+"JXg6",-
+"yr",+
+"-Kk]p",+
+"-K}ig",+
+"p8|dZ>",+
+"bX`5"Cj",+
+"BG.Xs",-
+"ex"",+
+"Loj",+
+"",-
+"}",-
+"|{",-
+"e^~",-
+"}}kf",+
+"BG.X}",-
+"p8nNZH",+
+"bX`5"~n",+
+"J",-
+"e^,",-
+"JXg|",-
+"}lg>",+
+
+// ground truth 
+repeatatleast(contain(<low>),2)

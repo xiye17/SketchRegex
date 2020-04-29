@@ -1,0 +1,21 @@
+// example 
+"HBZ"ZOmqIL}.F",-
+"5\",+
+"J*&",+
+"U",+
+"fe}=-=|:g8x+",-
+"Mn_'QPMC<",-
+"Y*eu=y",+
+"wnhP_3wEX("OS~",-
+"",+
+"Y*9J_xv;'@|27)&",-
+"&M0?",+
+";*$.<",+
+"Y\#NgQNEznK",-
+"B//;U[0v-mK$fx-\",-
+"`&eF+>F_",-
+"NfVPU<v'4A",-
+"XlvCPK[",-
+
+// ground truth 
+not(repeatatleast(<any>,7))

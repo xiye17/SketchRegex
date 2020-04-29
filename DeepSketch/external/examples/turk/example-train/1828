@@ -1,0 +1,14 @@
+// example 
+"",+
+"bE&J~",+
+"t^+6",+
+"g@V|k^7y",+
+"@^",+
+"3Y"MOx<dt",+
+"N",+
+"y(Vz*{~",+
+"#T0",+
+"K\8-N$",+
+
+// ground truth 
+not(and(and(<cap>,<num>),<any>))

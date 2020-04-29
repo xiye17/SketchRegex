@@ -1,0 +1,25 @@
+// example 
+"\",-
+"h_",-
+"-e:=",-
+"h5",-
+"gy}",-
+"gPmdxhek",+
+"ejaRrEeYjN",+
+"`IdVf",-
+"wRmUzE",+
+"eihlyvnQlNev",+
+"eihlyvnQlNeJ",+
+"wRmUzx",+
+"ibniugkcoytael",+
+"",-
+"}",-
+"vZ&Y",-
+"?g-",-
+"gPmdxheG",+
+"ibniugkcoytaeD",+
+"{Vkz(",-
+"ejaRrEeYjy",+
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),3)

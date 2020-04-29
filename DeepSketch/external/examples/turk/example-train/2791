@@ -1,0 +1,20 @@
+// example 
+"K)-|^<|i|",+
+"mgM)?",-
+"$DtC1H@ojU96y",+
+"4",-
+",i4bzWGMV\:Y",+
+"/3Gjmb/rJku4@*",+
+"6X8{",-
+"_RbN4}",+
+"@>+<Auq~",+
+"",-
+"RP",-
+"?uC6>rq",+
+")}t")eMwu>",+
+"2+4",-
+"h,p/L/<&G-,sI"+",+
+"X`SeP)%@!N%",+
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),6)

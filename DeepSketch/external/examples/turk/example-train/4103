@@ -1,0 +1,15 @@
+// example 
+"-",+
+"/gx_.Ji",+
+"U%;Kne<|",+
+";-Ep$eWj&",+
+"H:",+
+"5A(",+
+"rwDl",+
+"3G7zZ\",+
+"oeT?=",+
+"",-
+"/e35Pdf=0j",+
+
+// ground truth 
+contain(endwith(or(<any>,<low>)))

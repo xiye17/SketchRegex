@@ -1,0 +1,17 @@
+// example 
+"(L-",-
+"Bo",+
+"rdY#",-
+"",-
+"Bi",+
+"`CZ",-
+"|",-
+"r>!S",-
+"is",-
+"/3V^V",-
+"`)_pW",-
+"B",-
+"ih",-
+
+// ground truth 
+concat(<let>,or(<vow>,<cap>))

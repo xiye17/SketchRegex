@@ -1,0 +1,26 @@
+// example 
+"z@-h3!C",+
+"iO!",-
+"Ele3",-
+"iOQ",-
+"(t!"",+
+"!+.",+
+"F!",-
+"!",-
+"(!em",+
+"",-
+"j_4~{",-
+"#!Y",+
+"'",-
+"9v!U!w",+
+"F:",-
+"!M@hM",+
+"!a",+
+"j_4~!",-
+"Z,S!L",+
+"z@-!]k:",+
+"Ele!",-
+"9v(#!(",+
+
+// ground truth 
+contain(concat(repeatatleast(<m0>,1),<any>))

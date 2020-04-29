@@ -1,0 +1,25 @@
+// example 
+"[",-
+"CY8u2r",+
+"g=",-
+"ty?",-
+"a09Cbm90",+
+"S\M/",-
+"Oq2*L",-
+"2s8C5",+
+"a09Cbm9i",+
+"",-
+"vBYk2eQKc",+
+"`B",-
+"6ESxg0t",+
+"6ESxg08",+
+"{A.$:",-
+"CY8u27",+
+"vBYk2eQK3",+
+"ty#",-
+"2s8CU",+
+"B",-
+"S=-~",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),5)

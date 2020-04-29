@@ -1,0 +1,14 @@
+// example 
+"",+
+"%P|q+",+
+"|kW!3=`(I",+
+"0",+
+"s_}R",+
+"0sU=b/",+
+":A"2Vr~$",+
+"fydj`?P",+
+"M(K",+
+"S-",+
+
+// ground truth 
+not(and(and(<cap>,<m0>),<m1>))

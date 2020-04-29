@@ -1,0 +1,16 @@
+// example 
+"\",-
+"+MF",-
+"!tfb",-
+"5r",+
+"-X",-
+"SsD(",-
+"5",-
+"F*h",-
+"\,",-
+"|E:!B",-
+"!3cfw",-
+"",-
+
+// ground truth 
+or(concat(<num>,<any>),and(<m0>,<m1>))

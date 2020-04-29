@@ -1,0 +1,15 @@
+// example 
+"G",+
+"2]",+
+"l2P{",+
+"5[g}P3",+
+"Gj;fPXK@!\",+
+"xt7J(",+
+"5k@.ikE",+
+"",-
+"Uh<",+
+"zGYu+qav",+
+"mCO'Kt|k6",+
+
+// ground truth 
+endwith(or(<any>,<m0>))

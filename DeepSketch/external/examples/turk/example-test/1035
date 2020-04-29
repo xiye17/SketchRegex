@@ -1,0 +1,25 @@
+// example 
+"!EFe",+
+"![Ff",-
+"!aIbI",+
+"+",-
+"!",-
+"",-
+"!I:",-
+"!i",+
+"!OUeUA",+
+"!m",-
+"!OUeUi",+
+"!aIbA",+
+"!eqH}",-
+"!OI",+
+"!eqHc",-
+"!Oa",+
+"!EFa",+
+"Vo",-
+"![FB",-
+"!Ih",-
+"!e",+
+
+// ground truth 
+concat(<m0>,endwith(<vow>))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"GlV",-
+"O",+
+"^#hHY",-
+"]/;gp7",-
+"V!|'|rNhs",-
+"t]C\",-
+";$M`'R)o",-
+"]t[?)']",-
+";SYeovS+zgJ",-
+"u6",-
+"EI/=P5Q)U:",-
+
+// ground truth 
+not(repeatatleast(startwith(<any>),2))

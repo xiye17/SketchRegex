@@ -1,0 +1,23 @@
+// example 
+"|s&ftq}p\xYx",+
+"ftApVk,v|nlnRgis",+
+"KhXuxt{a8kIsgm[bNr",+
+"$3",-
+"tPL",-
+"$m",-
+"Dc6q:g\c",+
+"",-
+"dt#j",+
+"BjR{",-
+"Ab5m#oot;hvlRd/aRpYn",+
+"tve",-
+"h",-
+"tj,uf",-
+"tj,~u",-
+"dmKksqpg@n9y=a",+
+"|qowHb",+
+"3h5vMj9zYt",+
+"BjR\",-
+
+// ground truth 
+repeatatleast(concat(<any>,<low>),2)

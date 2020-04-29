@@ -1,0 +1,25 @@
+// example 
+"DNG",-
+"i&HD",+
+"fma",+
+"A6=u)",+
+"GD",-
+"},",-
+"R]xP=",-
+"d",-
+"",-
+"Asi",+
+"@['<",-
+"^Uy8q",-
+"U)L/\",+
+"S*-",-
+"AnAZ",+
+"u",+
+"I",+
+"j=",+
+"BS:t",-
+"as",+
+"B",-
+
+// ground truth 
+startwith(or(concat(<low>,<any>),<vow>))

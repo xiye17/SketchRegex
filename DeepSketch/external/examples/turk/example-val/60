@@ -1,0 +1,25 @@
+// example 
+"ntbuoi1",+
+"qpsksxtc$iM{EFV",+
+"x~",-
+"~j,;",-
+"h{Ov",-
+"rmfrtz$=q`.",+
+"djyhywDom+",+
+"rqzcgwCSBvo|",+
+"(",-
+"",-
+"a",-
+"uubgtq",+
+"v}T`?",-
+"ydxvbzL9$;g$B",+
+"}J4",-
+"uhxgfoGTp@w;j_",+
+"vL.>d",-
+"fbecns<o[",+
+"xo",-
+"lbmfldZ.",+
+"-F+",-
+
+// ground truth 
+startwith(repeatatleast(<low>,6))

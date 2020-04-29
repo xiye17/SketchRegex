@@ -1,0 +1,14 @@
+// example 
+"",+
+"<j",+
+"A+v~@r]H",+
+"Q",+
+"P3(",+
+"$SL&g",+
+"6jv{Dxu`g",+
+"#{|Xkf",+
+"?!@B",+
+"Bv*Y}]K",+
+
+// ground truth 
+contain(not(repeatatleast(<m0>,1)))

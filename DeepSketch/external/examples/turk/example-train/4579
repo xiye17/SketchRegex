@@ -1,0 +1,17 @@
+// example 
+"Fx|S",-
+"4o!",+
+"4",-
+"34d",-
+"t5Nw$",-
+"7h",-
+"",-
+")n-.f",-
+"!3LV",-
+"7R",-
+"jkE",-
+"L",-
+"4e!",+
+
+// ground truth 
+concat(concat(<num>,<vow>),<m0>)

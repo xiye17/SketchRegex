@@ -1,0 +1,16 @@
+// example 
+"KH'",-
+"@Df&,l",-
+"N",-
+"?!x6",-
+"1!42`",-
+"T!",+
+"?8!M",-
+"@!p7p+",-
+"K!W",-
+"1O(pg",-
+"Bh",-
+"",-
+
+// ground truth 
+concat(or(or(<num>,<any>),<cap>),<m0>)

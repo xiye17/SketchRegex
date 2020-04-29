@@ -1,0 +1,25 @@
+// example 
+"d2ild",-
+"toS",+
+"toi",+
+"qbgc",-
+"*",-
+"qbg-",-
+"ot",-
+"ue",+
+"",+
+"ua",+
+"o*",-
+"i",+
+"iu_a",+
+"d2il[",-
+"Cmm",-
+"Cmb",-
+"y",-
+"H",+
+"iu_L",+
+"sogio",+
+"sogiu",+
+
+// ground truth 
+star(endwith(or(<cap>,<vow>)))

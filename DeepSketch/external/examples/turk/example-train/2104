@@ -1,0 +1,25 @@
+// example 
+"0",-
+"~m8fcf",+
+"y~z",-
+"W{-D",-
+"l",-
+"{|s;x",-
+"",-
+"~|fI",+
+"q}Gig",+
+"~m8fc}",+
+"K?",-
+"y~-",-
+"Stk",+
+"W{-}",-
+"{|s;O",-
+"~|fr",+
+"Ki",-
+"St{",+
+"r+",+
+"q}Gi|",+
+"rs",+
+
+// ground truth 
+concat(endwith(<low>),<any>)

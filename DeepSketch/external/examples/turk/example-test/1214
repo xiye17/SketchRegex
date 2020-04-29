@@ -1,0 +1,17 @@
+// example 
+"cJ",-
+"ve",+
+""U`jx",-
+"5",-
+"{6!;b",-
+"Hw>y",-
+"",-
+"iHT",-
+"a",-
+"vo",+
+"iAP",-
+"HU/G",-
+"cg",-
+
+// ground truth 
+concat(or(<low>,<let>),<vow>)

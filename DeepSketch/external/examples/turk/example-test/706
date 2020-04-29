@@ -1,0 +1,24 @@
+// example 
+"gPZNGLWZRJE",+
+"`QROGYAM",+
+"eUCTCUHEN",+
+"6IKLEQUGXWIOGSAF",+
+"3",-
+"@PAG",-
+"A[",-
+"AD",-
+":[A<w",-
+"",-
+":>Yc"",-
+",BTQOKCCSG",+
+")IFKPXHYROOLJ",+
+"@ZXWWNLAOLKXTZEQS",+
+"yK8",-
+"hDRAYOPWSOWGFF",+
+"*JRQFPGAQPDO",+
+"yKN",-
+"@TPUTPVTIWLJYXF",+
+"@P^a",-
+
+// ground truth 
+concat(<any>,repeatatleast(<cap>,7))

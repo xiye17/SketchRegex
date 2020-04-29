@@ -1,0 +1,25 @@
+// example 
+"E",+
+"!,k%",+
+"JM",-
+"ES",+
+"HG!",+
+"{Ucu-",+
+"{AG["",+
+"HGO",+
+"",-
+""/_d",+
+"R",-
+"I",+
+"BG{",-
+"[K-[K",-
+"}WTF",-
+"J}",-
+"BGG",-
+"[K-[G",-
+"FE",+
+"~",-
+"}WT~",-
+
+// ground truth 
+contain(or(or(<m0>,<vow>),<low>))

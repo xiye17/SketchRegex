@@ -1,0 +1,15 @@
+// example 
+"",+
+"G'",+
+"!nw",+
+"@gA!i",+
+"!w",+
+"!&C;e",+
+"ilv",+
+"!",-
+"GN['",+
+"b",+
+"!9D!",+
+
+// ground truth 
+not(or(<m0>,and(<m1>,<let>)))

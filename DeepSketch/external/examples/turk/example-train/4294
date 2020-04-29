@@ -1,0 +1,17 @@
+// example 
+"3LE2",-
+"IG",-
+"IJ",-
+"HR7`a",-
+"",-
+"Fa",+
+"'",-
+"aO"",-
+"h",-
+"HuyFS",-
+"-BF",-
+"xBis",-
+"FE",+
+
+// ground truth 
+concat(<cap>,or(<m0>,<vow>))

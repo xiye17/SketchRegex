@@ -1,0 +1,14 @@
+// example 
+"",+
+"|$sY`'6",+
+"f",+
+"&U",+
+"BK23Up",+
+"M)>s(",+
+"yYiEM74#",+
+"`3C[",+
+"v\O1)W)C$",+
+"[vN",+
+
+// ground truth 
+not(and(repeatatleast(<vow>,1),<m0>))

@@ -1,0 +1,15 @@
+// example 
+"DB9Uc(aIFp",+
+"]naDeiWN2",+
+"3",+
+"z[,*",+
+""WU",+
+"[#S8uVp",+
+"h..0HdmZ",+
+"HMI+#",+
+"C.",+
+"fzFnZ[",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<m0>),<let>))

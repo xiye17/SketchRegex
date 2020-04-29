@@ -1,0 +1,17 @@
+// example 
+"G",-
+"[",-
+"=GCF",-
+"Mo",+
+"Jb",-
+"",-
+"QI9",-
+"Q!s",-
+"~-C6",-
+"\O",-
+"Ao*8"",-
+"MO",+
+"AOEqz",-
+
+// ground truth 
+concat(<let>,or(<vow>,<m0>))

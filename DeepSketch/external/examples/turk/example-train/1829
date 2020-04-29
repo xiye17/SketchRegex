@@ -1,0 +1,17 @@
+// example 
+":1'>",-
+"-`",-
+"}IL",-
+"",-
+"&",-
+"ff",-
+">_."l",-
+"O7Fu",-
+"O",-
+"XXA",+
+"XXe",+
+">+'",-
+"}\)$,",-
+
+// ground truth 
+concat(concat(<let>,<cap>),<vow>)

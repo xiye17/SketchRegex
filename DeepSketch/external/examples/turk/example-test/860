@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(or(<m0>,<num>),<vow>)

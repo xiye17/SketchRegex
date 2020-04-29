@@ -1,0 +1,25 @@
+// example 
+"r",-
+"u58538",+
+"As",-
+"UI+2",+
+"e=6",+
+"FD0",-
+"gHwiR",-
+"lQL",-
+"eP>V",-
+"",-
+"u585.6",+
+"UIS9",+
+"eP>&",-
+"A)1W%",-
+"O,L89",+
+"U",-
+"HS",-
+"e+0",+
+"i0",+
+"O,L%0",+
+"a5",+
+
+// ground truth 
+concat(startwith(<vow>),<num>)

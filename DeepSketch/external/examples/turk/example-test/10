@@ -1,0 +1,23 @@
+// example 
+"Z",+
+"8Y",-
+"[K=",-
+":6jh<",+
+"mA",+
+"U&",+
+"\Qn^",-
+"qEh",+
+"IV=",+
+"QIGl",+
+"",-
+"$",-
+"e",+
+"~O?k",-
+"mOyOR",+
+")^Q",-
+"`+",-
+"b9r_",+
+"{",-
+
+// ground truth 
+or(startwith(<let>),repeatatleast(<any>,5))

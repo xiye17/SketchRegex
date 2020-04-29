@@ -1,0 +1,25 @@
+// example 
+"EDN",+
+"Auqn",+
+"Hiw",-
+"a_",-
+"uX5t{_",+
+")pfv]",-
+"m",-
+"AWz;",+
+"",-
+"e-D",-
+"8[XR",-
+"uyp\-",+
+"udFA(*",+
+"U|Aq",-
+"Uy",+
+"a|",-
+"EaY",+
+"j~|&X",-
+"UR",+
+"uXkD/",+
+"E",-
+
+// ground truth 
+startwith(concat(<vow>,<let>))

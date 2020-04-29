@@ -1,0 +1,25 @@
+// example 
+"rw/",-
+"PC",-
+"I\!a",+
+"PF",-
+"LD?PH",-
+"9ATN?",+
+"PSK$",-
+"LD?P{",-
+"MDA",+
+"",-
+"rwK",-
+"MI~",+
+"S",-
+"I",+
+"Iq3A~",+
+"K",-
+"OU",+
+"`U",+
+"OTNv",+
+"PSKF",-
+"A",+
+
+// ground truth 
+contain(and(and(<cap>,<vow>),<any>))

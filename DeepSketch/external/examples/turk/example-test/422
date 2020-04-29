@@ -1,0 +1,25 @@
+// example 
+"Dz!MNRF",+
+"!!!JV",+
+"t^U=",-
+"~174q",-
+"!!",-
+"!!aatP",+
+"!!{",-
+"^",-
+"+\d-f",-
+"",-
+"!@",-
+"#_F",-
+"O",-
+"!!!J!",+
+"AOBx!bVJl",+
+"!!!anj!a",+
+"Dz!MNR!",+
+"!!aat!",+
+"!!!anj!!",+
+"AOBx!bVJ!",+
+"~JLZ",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),5)

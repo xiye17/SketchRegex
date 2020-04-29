@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(repeatatleast(<num>,2),endwith(<m0>))

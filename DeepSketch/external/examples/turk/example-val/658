@@ -1,0 +1,25 @@
+// example 
+"[",-
+"zB",-
+"1;",-
+"a}Ik",+
+"I/h",+
+"O{o~t",+
+"Uwj4",-
+"",-
+"AWs~~",-
+"AWs~^",-
+"iw",+
+"ay",+
+"E}yc}k",+
+"O",-
+"K*o0",-
+"O{ohk",+
+"E}yclt",+
+"I}r",+
+"f3~",-
+"BEN",-
+"a}}a",+
+
+// ground truth 
+concat(startwith(<vow>),repeatatleast(<low>,1))

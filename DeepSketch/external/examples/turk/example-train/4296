@@ -1,0 +1,25 @@
+// example 
+"Eb1!",+
+"i*",-
+"E!",+
+"dLy]L",-
+"uC!",+
+"EMs"!",+
+"i!h9{!",+
+"npBF",-
+"sfx@,",-
+"",-
+"b",-
+"i!h9!!",+
+"o@-",-
+"Eb!!",+
+"o!?",-
+"a!",+
+"u!!",+
+"A",-
+"G$",-
+"Az!G",-
+"EMs!!",+
+
+// ground truth 
+concat(startwith(<vow>),<m0>)

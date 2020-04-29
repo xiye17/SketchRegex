@@ -1,0 +1,17 @@
+// example 
+"1U",+
+"*_r",-
+"5",-
+",",-
+"",-
+"OgK:(",-
+"9C",-
+"1r",+
+"6Gv:",-
+"6Uzw",-
+"9J",-
+"%JM"&",-
+"RIA",-
+
+// ground truth 
+concat(<num>,or(or(<m0>,<vow>),<low>))

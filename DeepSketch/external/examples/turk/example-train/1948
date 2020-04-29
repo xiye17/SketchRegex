@@ -1,0 +1,15 @@
+// example 
+"",+
+"S1e1R",+
+".",+
+"!=",+
+"!9CN",+
+"f$",+
+"!?Z",+
+"i)p",+
+"^yC:",+
+"!e]>D",+
+"!",-
+
+// ground truth 
+or(endwith(<num>),not(<m0>))

@@ -1,0 +1,25 @@
+// example 
+"r",-
+"UoiaE",+
+"2B*3Q",-
+"DIhaaOe",+
+"UoiaA",+
+"DUqIoUEo",+
+"gFuuAO",+
+"JHIO",-
+"mUaPUOEAe",+
+"NS",-
+"te>",-
+"_",-
+"gFuuAA",+
+"",-
+"JHIF",-
+"mUaPUOEAu",+
+"teb",-
+"DIhaaOA",+
+"\7$a8",-
+"DUqIoUEI",+
+"Nu",-
+
+// ground truth 
+concat(<let>,endwith(repeatatleast(<vow>,4)))

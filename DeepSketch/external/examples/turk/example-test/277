@@ -1,0 +1,25 @@
+// example 
+"oOUUEoI",+
+"aeeIIiIU",+
+"as-X\",-
+"UEuOU",+
+"uI!@eU",+
+"jO/rm",-
+"UEuOI",+
+"",-
+"BWL",-
+"aIiU",+
+"UgrL",-
+"UeRB",-
+"oOUUEoU",+
+"uI!@eO",+
+"aIiu",+
+"J",-
+"!@!",-
+"aeeIIiIE",+
+"I",-
+"au",-
+"ao",-
+
+// ground truth 
+repeatatleast(or(concat(<m0>,<m1>),<vow>),4)

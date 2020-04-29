@@ -1,0 +1,25 @@
+// example 
+"h4II",+
+"y($~5}Ap",+
+"_~\",-
+".",-
+".]",-
+"wP]S",-
+"y($~5}AW",+
+"_~)",-
+"D;R7b",+
+"",-
+";+*1puS",+
+"h4Ik",+
+"}8vL:",-
+"}8vL|",-
+"L:0|ht",+
+"L:0|hF",+
+"D;R7C",+
+".(",-
+";+*1puk",+
+"v",-
+"wP]"",-
+
+// ground truth 
+and(repeat(contain(concat(<let>,star(<let>))),3),contain(<num>))

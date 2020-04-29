@@ -1,0 +1,26 @@
+// example 
+"T9",+
+"75",+
+"BW2@3Y",+
+"\B",-
+"@8ZV",+
+"!FG<",-
+"",-
+"YU7",+
+"=",-
+"XQ)4H",+
+"S",+
+"Y?5",+
+"!.+l",-
+".3e?n",-
+"@8Z7",+
+"XQ<2Y",+
+"y",-
+"u2y",-
+"u2>",-
+"\"",-
+".g+SG",-
+"BW2d1C",+
+
+// ground truth 
+repeatatleast(or(concat(<any>,<num>),<cap>),1)

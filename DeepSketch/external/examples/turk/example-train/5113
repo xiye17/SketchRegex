@@ -1,0 +1,16 @@
+// example 
+"{w",+
+"_z{VD"57",+
+"b1Mm",+
+"ZMLtMNZ",+
+".;Hm*rZ@0",+
+"A",-
+"x=vYj6!||t'",+
+"zuXN>l)1vR",+
+"pyE",+
+"+r9xXi",+
+"",-
+"J5\fn",+
+
+// ground truth 
+repeatatleast(endwith(<any>),2)

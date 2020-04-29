@@ -1,0 +1,25 @@
+// example 
+"eaieP",+
+"Diio",+
+"oe",-
+"pVaPoa",+
+"hufnBuii",+
+"\voep",-
+"",-
+"Bea}",-
+"pVaPoo",+
+"|",-
+"Diia",+
+"i",-
+"a_o",-
+"\voea",-
+"eaieo",+
+"hufnBuie",+
+"hThiaae",+
+"hThiaai",+
+"a_\",-
+"Beab",-
+"o[",-
+
+// ground truth 
+endwith(repeatatleast(or(<vow>,<cap>),4))

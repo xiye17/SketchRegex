@@ -1,0 +1,26 @@
+// example 
+"$YDG*",-
+"SA<.",+
+"wyLM",-
+"U@Y|=2",+
+"+H",-
+"W8*",+
+"dv?/)",-
+"Poa#a",+
+"y{H",-
+"F_",+
+"=$z",-
+"4rr@",-
+"",-
+"U{Ep[+",+
+"i",-
+"F7",+
+"O",+
+"6",-
+"dF",-
+"Po|/O",+
+"WeK",+
+"SAik",+
+
+// ground truth 
+concat(<cap>,not(concat(<let>,<low>)))

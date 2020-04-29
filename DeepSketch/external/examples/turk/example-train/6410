@@ -1,0 +1,17 @@
+// example 
+"ON",+
+"Fr[Z[",-
+"ER",+
+"JJ6",-
+"",-
+"AqO/",-
+"Di",-
+"A+E/",-
+"O",-
+"N]g}H",-
+"Rg",-
+"C",-
+"F"L",-
+
+// ground truth 
+and(star(<cap>),concat(<vow>,<any>))

@@ -1,0 +1,17 @@
+// example 
+"D",+
+"1",-
+"kV'y",-
+"tK)",-
+"8y[tJ",-
+"",-
+"}",-
+"e52N5",-
+"|j,"",-
+"0-",-
+"[<%",-
+"z",+
+"K[",-
+
+// ground truth 
+and(startwith(<any>),<let>)

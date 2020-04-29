@@ -1,0 +1,26 @@
+// example 
+"!`;",+
+"!OLzc",+
+"!u$=",+
+"!iEa",-
+"!iOiA",-
+"!uOLN+",+
+"!",+
+"!uBu",+
+"!uOj3P",+
+"^",-
+"!eO",-
+"vJko",-
+"",-
+")cTKX",-
+"!EAuuu",-
+"!OSuG",+
+"P%",-
+"!EAuuA",-
+"!qM",+
+"!eA",-
+"!0",+
+"!e",+
+
+// ground truth 
+concat(<m0>,not(repeatatleast(<vow>,2)))

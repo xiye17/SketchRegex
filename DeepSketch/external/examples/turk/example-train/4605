@@ -1,0 +1,25 @@
+// example 
+"taarpgrha",-
+"hexnvo",-
+"e|",+
+"v}8PV",+
+"rccbmrxg",-
+"b-m}",+
+"ecjq",-
+"tadbkamkxcvqt",-
+"pzmrm",-
+"ohhjrds",-
+"",+
+"lhgkjcbbtr",-
+"k|E",+
+"~*",+
+"i",+
+"_2<",+
+"etzecjpeduc",-
+"b~!O",+
+"}:W)(",+
+"ekblkkqukfdy",-
+"}",+
+
+// ground truth 
+not(repeatatleast(<low>,4))

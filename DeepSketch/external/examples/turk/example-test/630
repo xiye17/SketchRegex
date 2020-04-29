@@ -1,0 +1,18 @@
+// example 
+"Nl",-
+"56a(y",-
+"}3_%",-
+"|1Z8+1<1'9C0v1M0N7",+
+"N8\9,5b3V0z447",+
+"N+",-
+"CPj",-
+"56a2Y",-
+"",-
+"f",-
+"D4<7A7R3T6*9_2y4",+
+"C3_",-
+""8O082(6=2G7-0s0I624",+
+"},S9",-
+
+// ground truth 
+repeatatleast(concat(<any>,<num>),7)

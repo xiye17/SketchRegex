@@ -1,0 +1,16 @@
+// example 
+")R!Z",-
+"Q+Oh",-
+"8yuFW",-
+"T{{1+",-
+"|t&",-
+"j3",-
+"W",+
+"K)",-
+""",-
+"d",-
+"",-
+"VH#",-
+
+// ground truth 
+and(endwith(<cap>),<let>)

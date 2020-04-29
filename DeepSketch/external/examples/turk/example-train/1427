@@ -1,0 +1,17 @@
+// example 
+"tw",-
+"|\4&h",+
+"UV9z",+
+"T",+
+"l}B",+
+"_",+
+"Uf(@",+
+"/B^S7",+
+"",+
+"K:",+
+"K~",+
+"Rg",-
+"ljh",+
+
+// ground truth 
+not(concat(<let>,<low>))

@@ -1,0 +1,18 @@
+// examples
+"test!",+
+"testing !@",+
+"test@",+
+"test!Now!",+
+"test@here@",+
+"now!once@",+
+"plese!",+
+"forking",-
+"threads",-
+"",-
+"don't have any",-
+"no more",-
+"34324f#$@",-
+"core$%008",-
+
+// ground truth 
+concat(<low>,contain(repeatatleast(or(<m0>,<m1>),1)))

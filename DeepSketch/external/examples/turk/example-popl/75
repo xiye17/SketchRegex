@@ -1,0 +1,18 @@
+// examples
+"ab",+
+"a,",+
+"eb",+
+"e,",+
+"aeiou",+
+"a,e",+
+"eeeeeee",+
+"reeeeeee",-
+"",-
+"hHllH",-
+",,,",-
+"yyy!",-
+"y",-
+"no",-
+
+// ground truth 
+concat(<vow>,contain(<any>))

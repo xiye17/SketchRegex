@@ -1,0 +1,25 @@
+// example 
+"EqwmhcTtt7",+
+"EqwmhcTtA6",+
+"t",-
+"pFB7",-
+"5",-
+"rRcdeDCYmA5",+
+"",-
+"+v",-
+"gLExVoiBnlx3",+
+"rRcdeDCYmq2",+
+"\5?s-",-
+"Ajvtfui8",+
+"pFBt",-
+"AjvtfuU8",+
+"|F9",-
+"dAaNbDvM7",+
+"gLExVoiBnlE6",+
+"dAaNbDvs8",+
+"_4",-
+"]Iw",-
+"|z8"5",-
+
+// ground truth 
+concat(repeatatleast(<let>,7),<num>)

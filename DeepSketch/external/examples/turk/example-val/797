@@ -1,0 +1,16 @@
+// example 
+"o%4O",-
+"(,{WW",-
+"*1",-
+"`%",-
+"0!r",-
+"DW",+
+"A=rF",-
+"w",-
+"e*}~Y",-
+"e)Q",-
+"",-
+"'",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<low>),<m0>))

@@ -1,0 +1,23 @@
+// example 
+"Lj^",-
+"FkLnZcNUGtUTHRKNXAAo",+
+"3",-
+"t",-
+"WOXpFdAmLrCrWQ",+
+"WOXpFdAmLrCrWo",+
+"H}O8",-
+"CtA}R",-
+"",-
+"WCWRYaBlFQSvFVNRPz",+
+"Lj>",-
+"z|xx",-
+"7S+WT",-
+"WQRWPATOYVMdONMX",+
+"WQRWPATOYVMdONMq",+
+"WCWRYaBlFQSvFVNRPT",+
+"FkLnZcNUGtUTHRKNXAAS",+
+"Np",-
+"/S",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),7)

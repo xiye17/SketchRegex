@@ -1,0 +1,16 @@
+// example 
+"qV"pQ8Q",+
+"e,Wdm",+
+"-\lV<,BvQ]M",+
+"_k",+
+"X`lE,\",+
+"pb~",+
+"O"'\v@466",+
+"<SbQAz@S#6",+
+"e",-
+"sC8I",+
+"",-
+"uq$tS,l|",+
+
+// ground truth 
+contain(repeatatleast(endwith(<any>),2))

@@ -1,0 +1,25 @@
+// example 
+"KTRrRnGrUL",+
+"50",-
+"GkToPFXhQAKgEGEC",+
+"PB",-
+"6f6[",-
+"MTWuAaByDkWLUlLYVY",+
+"TcCGZDMBTsQkRW",+
+"HiBF",-
+"VQG5z",-
+"DYGBLjWsJwDa",+
+"",-
+")",-
+"}",-
+"GkToPFXhQAKgEGEf",+
+"g!\",-
+"TcCGZDMBTsQkRh",+
+"8Ap",-
+"KTRrRnGrUs",+
+"DYGBLjWsJwDI",+
+"MTWuAaByDkWLUlLYVc",+
+"VQ,}5",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),5)

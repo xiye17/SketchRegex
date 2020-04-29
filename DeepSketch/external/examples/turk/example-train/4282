@@ -1,0 +1,15 @@
+// example 
+";@+`",-
+"=a",-
+"8OPuOI`tF",-
+"F",+
+"i[2s}",-
+"fFl.Xz<e",-
+"yPaAyfQFwE",-
+"$t;",-
+"&3jT^TE",-
+"/;~zA/",-
+"",-
+
+// ground truth 
+or(or(<num>,<let>),<any>)

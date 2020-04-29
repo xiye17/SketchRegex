@@ -1,0 +1,25 @@
+// example 
+"eeDy",-
+"Ye4",+
+"XMe:U7",+
+"o",-
+"$u",-
+"$n",-
+"o0",+
+"oMuU2",+
+"edu",-
+"O9",+
+"",-
+"c",-
+"doI0",+
+"9EuBi",-
+"9EuB'",-
+"Ya7",+
+"XMe:e9",+
+"doU7",+
+"edd",-
+"eeDf",-
+"oMuE6",+
+
+// ground truth 
+contain(concat(<vow>,<num>))

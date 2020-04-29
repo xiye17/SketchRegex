@@ -1,0 +1,25 @@
+// example 
+"F"3a:",-
+"OiQ",-
+"IooooAOu",+
+"oeaA",+
+"AeiEuU",+
+"o",-
+"",-
+"IooooAOa",+
+"a",-
+"AAEp",-
+"AeiEua",+
+"iIiaUiO",+
+"EeueO",+
+"IK",-
+"pN\L'",-
+"AAEB",-
+"IQ",-
+"iIiaUii",+
+"oeai",+
+"S*y",-
+"EeueI",+
+
+// ground truth 
+repeatatleast(<vow>,4)

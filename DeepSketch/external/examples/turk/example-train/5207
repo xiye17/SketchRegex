@@ -1,0 +1,22 @@
+// example 
+"Y0D5E3Z7T0",+
+"n",-
+"GP?U",-
+"Q41",-
+"6ody",-
+"",-
+"W3W2L3K0Y1Q7I3M5F3",+
+"%",-
+"A8P6Y0P5I6L1V6K9",+
+"Z9E1D1U5Y7K2S6W2W6K6",+
+"YeCNS",-
+"F0Z8S2K1",+
+"@I",-
+"~SJ",-
+"K3Y0O2G8C5R0",+
+"A8L8T0U1E4Y5R1",+
+"vi",-
+"Y2E#:",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),4)

@@ -1,0 +1,19 @@
+// example 
+":Hx",-
+"HyZ#8UkI:*t",+
+"3F,u#cJ#5q|%>x",+
+"TTzM'Tg",+
+"fv",-
+"",-
+"!Qy)X",+
+"FJIgr2U"2W",+
+"<",-
+"{cIf",-
+"G/U}h{IL",+
+"rM(:}4+y!-*Ri",+
+"QS]B<JP-8",+
+"En~zoaL3X$Tn",+
+"kP#4bw",+
+
+// ground truth 
+repeatatleast(endwith(<any>),5)

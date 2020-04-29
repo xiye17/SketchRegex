@@ -1,0 +1,16 @@
+// example 
+"C!=1",-
+"rK",-
+"T!",+
+"IRI5"y",-
+">cV@o",-
+"I!#<Wz",-
+"n!%",-
+"nJa",-
+"l",-
+"Cg|5",-
+">!<d_",-
+"",-
+
+// ground truth 
+concat(or(or(<cap>,<any>),<low>),<m0>)

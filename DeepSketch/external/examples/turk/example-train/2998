@@ -1,0 +1,25 @@
+// example 
+"]",-
+"3|EP",-
+"Y~M;",-
+"jBAqhTme!",+
+"QSwUqXuAb!",+
+"RVvTcqr!",+
+"jBAqhTmT!",+
+"RVvTcqJ!",+
+"0OS|Z",-
+"]f",-
+"V3O~d",-
+"",-
+"YnDCL!",+
+"YnDCb!",+
+"QSwUqXuAU!",+
+"VeiJMO!",+
+"VeiJMg!",+
+"}/]",-
+"{",-
+"WE",-
+"a95",-
+
+// ground truth 
+concat(repeatatleast(<let>,5),<m0>)

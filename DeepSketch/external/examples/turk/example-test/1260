@@ -1,0 +1,24 @@
+// example 
+"6GuIoA",+
+"]g=u",+
+"/OU",+
+"uEFKd",-
+"@rgZ",-
+"/k",-
+"",-
+"3a",+
+"tOb",-
+"3O",+
+"/H",-
+"tOK",-
+"]g=e",+
+"vdWeo",+
+"@rgF",-
+"vdWea",+
+"z",-
+"uEFKv",-
+"/OE",+
+"6GuIoa",+
+
+// ground truth 
+endwith(concat(<any>,<vow>))

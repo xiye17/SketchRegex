@@ -1,0 +1,25 @@
+// example 
+"K("^",+
+"I8/:(;",+
+"GI[d$Uzd[=W",+
+"u",-
+"K1",+
+"y]",-
+"Ga2%lNNU",+
+"Z+2I<IzwN",+
+"qmX9=",-
+"H454>dz",+
+"52zhh",-
+"",-
+";a'",-
+"os<.",-
+"Xn>",+
+"@5,'",-
+"&9",-
+"OaG#[",+
+"X(~+v'f@c7",+
+"H",-
+"cL>",-
+
+// ground truth 
+concat(<cap>,contain(<any>))

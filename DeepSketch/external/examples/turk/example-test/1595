@@ -1,0 +1,15 @@
+// example 
+"",+
+"CL",+
+"!=t[",+
+"!C]",+
+"Ow8[",+
+"!Ez*Q",+
+"!",-
+"!%",+
+"'@8EF",+
+"8W8",+
+"z",+
+
+// ground truth 
+repeatatleast(or(not(<m0>),<m1>),6)

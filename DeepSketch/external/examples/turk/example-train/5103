@@ -1,0 +1,15 @@
+// example 
+"f",+
+"[63e",+
+"jy?u0",+
+"&D[].e?",+
+"(iq}1o=k*Y",+
+"(>F$Vu'Nv",+
+"Kds|A5",+
+"U1_",+
+"un",+
+"",-
+"U1'Y#g.6",+
+
+// ground truth 
+or(endwith(<any>),contain(<cap>))

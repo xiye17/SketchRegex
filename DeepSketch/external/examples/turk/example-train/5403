@@ -1,0 +1,26 @@
+// example 
+"Mjq(@7",+
+"QMgT",-
+"3G=q6",-
+"@Pscuz",+
+"=*",-
+"QMg#",-
+"x@",+
+"hn8c@",+
+"hn@Ie",+
+""",-
+"@R"",+
+"",-
+"b",-
+"<@h",+
+"W@AW",+
+"=~",-
+"W8E@",+
+"3G=qP",-
+"/Ho",-
+"@",+
+"@O",+
+"/H6",-
+
+// ground truth 
+concat(star(<m0>),contain(<m1>))

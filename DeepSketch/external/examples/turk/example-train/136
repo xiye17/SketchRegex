@@ -1,0 +1,17 @@
+// example 
+"#`6",-
+"!w",-
+"!r/",-
+"!",-
+"!izy",-
+"",-
+"!Eew7",-
+"!i",+
+"7",-
+"!;",-
+"!U",+
+"!t@)C",-
+"!OMt",-
+
+// ground truth 
+and(concat(<m0>,<let>),endwith(<vow>))

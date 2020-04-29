@@ -1,0 +1,25 @@
+// example 
+"oQOTv",-
+"W{?",-
+"ITaU",-
+"iMATUSULaOAReBAMuE",+
+"E!",-
+"o?e4^",-
+"ITan",-
+"iHeJuIoViROZAL",+
+"k",-
+"aAeMAGiPuQ",+
+"",-
+"aAeMAGiPAT",+
+"g2",-
+"i",-
+"O>'",-
+"AGiZADuAUUUMeDaS",+
+"eIATOVuSaKEU",+
+"AGiZADuAUUUMeDAH",+
+"eIATOVuSaKaZ",+
+"iMATUSULaOAReBAMiH",+
+"iHeJuIoViROZIQ",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),5)

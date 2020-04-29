@@ -1,0 +1,25 @@
+// example 
+"E!",+
+"TxpM",-
+"5",-
+"Io",-
+"mALeG",-
+"Iu!",+
+"iue!",+
+"mALeO",-
+"",-
+"b",-
+"otPFe!",+
+"otPFo!",+
+"FeEI!",+
+"A!",+
+"I4",-
+"Txpi",-
+"Io!",+
+"iuu!",+
+"bda",-
+"bde",-
+"FeEa!",+
+
+// ground truth 
+repeatatleast(endwith(concat(<vow>,<m0>)),1)

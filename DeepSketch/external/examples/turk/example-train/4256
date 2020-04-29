@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"aU!",+
+"aI!",+
+"AUdo!",+
+"BaauE!",+
+"oIulr",-
+"AUda!",+
+"lDU",-
+"oUdk",-
+"",-
+"a",-
+"oIulu",-
+"iOA!",+
+"?9",-
+"lDe",-
+"iOo!",+
+"oUdA",-
+"Baau!s",+
+"i!",+
+"B",-
+"?q",-
+
+// ground truth 
+contain(concat(<vow>,<m0>))

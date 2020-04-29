@@ -1,0 +1,25 @@
+// example 
+"BEPOjalUeOjuhO",+
+"lEwIti",+
+"AeeurUqaIU",+
+"^1m{",-
+"VepEWUUIZuko",+
+"lEwItE",+
+"TuYACobi",+
+"{@#",-
+"",-
+"Zg,",-
+"BEPOjalUeOjuho",+
+"Om",-
+"<AK^6",-
+"AeeurUqaIO",+
+"R",-
+"PM~E'",-
+"OI",-
+"Id>6",-
+"VepEWUUIZukE",+
+"x",-
+"TuYACobE",+
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),3)

@@ -1,0 +1,15 @@
+// example 
+"",+
+"!|GD$",-
+"P5j\lM",-
+"=",-
+"N!@0",-
+"gw]",-
+"\:JyB11",-
+""h",-
+"GIE>k]]J",-
+"&hLf*-65;I",-
+"F+O1~b}QL",-
+
+// ground truth 
+star(and(and(<cap>,<m0>),<m1>))

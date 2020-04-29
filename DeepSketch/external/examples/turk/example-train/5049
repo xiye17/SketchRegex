@@ -1,0 +1,17 @@
+// example 
+"!Q`E2",-
+"!]",-
+"!In",+
+"4",-
+"!u",-
+"!xK<f",-
+"!",-
+"Mx!",-
+"",-
+"!|i",-
+"!IP",+
+"!j0P",-
+":>x\",-
+
+// ground truth 
+concat(<m0>,concat(<vow>,<let>))

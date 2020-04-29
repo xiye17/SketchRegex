@@ -1,0 +1,16 @@
+// example 
+"(!9(#",-
+"mA-]sW",-
+"m!]qbE",-
+"H~i",-
+"6!e,",-
+"2!",+
+"T",-
+"6;MC",-
+"H!H",-
+"(5"vK",-
+"",-
+"*Y",-
+
+// ground truth 
+concat(or(or(<m1>,<any>),<let>),<m0>)

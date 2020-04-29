@@ -1,0 +1,17 @@
+// example 
+"oF-",-
+"r-",-
+"u\",+
+"AvvYX",-
+"k",-
+"i7F"",-
+"e",-
+"",-
+"Fk(su",-
+"e\",+
+""S",-
+"g7rL",-
+"clK",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<any>),<cap>))

@@ -1,0 +1,17 @@
+// example 
+"F",+
+"N'",+
+"",+
+"W:+",+
+"U",-
+"Hw-",+
+"EFx_",+
+"_n\]u",+
+"<",+
+"ch",+
+"Er4cs",+
+"yWLR",+
+"E",-
+
+// ground truth 
+not(or(or(<vow>,<m0>),<low>))

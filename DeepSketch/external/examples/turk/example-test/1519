@@ -1,0 +1,25 @@
+// example 
+"OWm",+
+"MVZe",+
+"]",-
+"P~y",-
+"p\4(C",-
+"49",-
+"oT~'",-
+"gL",+
+"OWE",+
+"oTL3",-
+"",-
+"/Y"mI",-
+"RtDpp",+
+"d",+
+"f~",-
+"gu",+
+"S",+
+"RtDpS",+
+"PL|",-
+">",-
+"MVZS",+
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),1)

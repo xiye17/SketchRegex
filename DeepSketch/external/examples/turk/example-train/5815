@@ -1,0 +1,14 @@
+// example 
+"",+
+"8XG",+
+"2H9O-p",+
+":",+
+"E[",+
+"Sk\%)n)|",+
+":+DLA",+
+"22#~",+
+">'l<jtd=-",+
+"?P,~`'W",+
+
+// ground truth 
+star(endwith(or(<m0>,<any>)))

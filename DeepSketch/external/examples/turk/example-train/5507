@@ -1,0 +1,14 @@
+// example 
+"",+
+";~Km.",+
+"'Ve",+
+"9%ne",+
+">z@W<^.&",+
+"4{[#EoZ",+
+"u76|`GH&d",+
+"&mkF0U",+
+"x",+
+"V*",+
+
+// ground truth 
+not(and(and(<m0>,<any>),<cap>))

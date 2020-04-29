@@ -1,0 +1,25 @@
+// example 
+"F",-
+"H^T!",-
+"!b",-
+"I!bgeuUI",+
+"!BLiaIA",+
+"!Of",-
+""!OOue",+
+"!gAOa",-
+"!EUoO",+
+"!",-
+"H^T{",-
+"[j2X!AEIO",+
+"",-
+"!O\",-
+"!BLiaIa",+
+"!m",-
+"!gAOA",-
+""!OOuo",+
+"I!bgeuUA",+
+"!EUoe",+
+"[j2X!AEIi",+
+
+// ground truth 
+concat(contain(<m0>),repeatatleast(<vow>,4))

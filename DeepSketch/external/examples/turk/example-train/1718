@@ -1,0 +1,25 @@
+// example 
+"l=",-
+"TN[c",-
+"O`",+
+"U(A",+
+"U",+
+"p(2KG",-
+"I]]k",+
+"",-
+"cL+_",-
+"UKO",+
+"g",-
+"!E2",-
+"a{d#f",+
+"IWHL",+
+"O*",+
+"kc|",-
+"u",+
+"L",-
+"B29IG",-
+"tu",-
+"aTXzX",+
+
+// ground truth 
+concat(<vow>,not(<cap>))

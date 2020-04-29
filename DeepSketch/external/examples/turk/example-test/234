@@ -1,0 +1,14 @@
+// example 
+"",+
+".",+
+"we",+
+"qpK",+
+"2&2:@7D",+
+"pqk-e",+
+"!&'o}C%;",+
+"I^zqd(",+
+"r6F[",+
+"i_sgm2RK3",+
+
+// ground truth 
+star(or(endwith(<any>),<vow>))

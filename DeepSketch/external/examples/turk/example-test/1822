@@ -1,0 +1,21 @@
+// example 
+"f9/EFDdSF>r",+
+"nDf'5;",-
+"}ol;t">^?&80",+
+"L4/",-
+"]l-@7+5GW",+
+"_rTI<Mvj",+
+"",-
+"IieE_A>kHIzRxjN",+
+"N",-
+"1&cTu",-
+"fwsup|izr.X"5",+
+"9b3w\hvP_"L4UVQ*",+
+"4qn=91B",+
+"h]G3s9De%pcXVd",+
+"mmbaj4EbkS",+
+"Z_"[",-
+"QQ",-
+
+// ground truth 
+repeatatleast(contain(<any>),7)

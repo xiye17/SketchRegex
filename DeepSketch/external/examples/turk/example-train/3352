@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"uOga!",+
+"gU!",+
+"o",-
+"te",-
+"tG",-
+"gu!",+
+"oNah",-
+"jAI!",+
+"`neKA!",+
+"GrfD/",-
+"",-
+"jAE!",+
+"u!",+
+"U",-
+"n]D",-
+"`neKE!",+
+"uOgO!",+
+"GrfDP",-
+"oNaX",-
+"n]o",-
+
+// ground truth 
+concat(endwith(<vow>),<m0>)

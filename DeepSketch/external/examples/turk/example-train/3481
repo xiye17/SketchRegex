@@ -1,0 +1,17 @@
+// example 
+"!-nb/y",-
+"89CW'+d^V7",-
+"30",+
+"^,fX",-
+"",+
+"L\;%7{8uH.@",-
+"!C%8I[bdkW`G",-
+"d(MS+",-
+"f@X",-
+"rKtAeA-T&",-
+"tl"VG;d",-
+"L4Xt6;I,",-
+"A",+
+
+// ground truth 
+not(repeatatleast(<any>,3))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"[",-
+"Fj_]a3_$",-
+"WQvV$",-
+"J{U2Un&_I^",-
+"W7",-
+"Go:iF]",-
+"y!g0",-
+">@Q",-
+"Yb=8_>S5h",-
+"}s}J3@R",-
+
+// ground truth 
+star(contain(and(<m0>,<m1>)))

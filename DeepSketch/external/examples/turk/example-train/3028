@@ -1,0 +1,17 @@
+// example 
+""Q!!",+
+"S^K",+
+"Ut",+
+"P1@BMm",+
+"U*",+
+"",-
+"o1U?{",+
+"o\(^$",+
+"v",+
+"")UP",+
+"S)%",+
+"PrH0Ge",+
+"N8",-
+
+// ground truth 
+concat(<any>,not(<num>))

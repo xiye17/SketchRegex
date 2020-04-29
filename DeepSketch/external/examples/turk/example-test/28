@@ -1,0 +1,14 @@
+// example 
+"",+
+"YN<U",+
+"Fs#PR/T}C",+
+"[~fq\",+
+".<o4irU",+
+"a",+
+"U(",+
+"{~i",+
+"X6%?x7",+
+":+yXBS|n",+
+
+// ground truth 
+not(and(and(<num>,<let>),<any>))

@@ -1,0 +1,25 @@
+// example 
+"kHd8t",+
+"|o",+
+"nrmp",+
+"sfe&[",-
+"re%i",-
+"nrmc",+
+"",-
+"yFQ",-
+"rOSj",-
+"e",+
+"kHd8f",+
+"h",+
+"LCc",+
+"U",-
+"yFA",-
+"dG",-
+"LCa",+
+"A",-
+"|a",+
+"dP",-
+"ALc]c",-
+
+// ground truth 
+concat(not(contain(<vow>)),<low>)

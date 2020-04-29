@@ -1,0 +1,25 @@
+// example 
+"kBWuwoP",-
+"}b",+
+"qaQIdXpA",-
+"^5Qr",+
+"pHnzcO",-
+"iJI",+
+"^LY!/",+
+"",+
+"8",+
+"6U8c",+
+"DmbvzvCgq",-
+"fHtez",-
+"kBWuwoo",-
+"DmbvzvCgI",-
+"t$",+
+"qaQIdXpp",-
+"i>F",+
+"p^nC[",+
+"pHnzco",-
+"fHteV",-
+"{",+
+
+// ground truth 
+not(repeatatleast(<let>,5))

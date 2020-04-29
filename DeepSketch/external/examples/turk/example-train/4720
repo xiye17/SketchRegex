@@ -1,0 +1,15 @@
+// example 
+"",+
+"qZ",+
+"Z*M^J",+
+"h&\rU?m5h'",+
+"Sr;.(I",+
+".ShxLZ3R)",+
+"":%",+
+"Jc(VpE)k",+
+"m#6]",+
+"`",-
+"kwFC1[4",+
+
+// ground truth 
+not(or(or(<m0>,<cap>),<any>))

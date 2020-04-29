@@ -1,0 +1,18 @@
+// example 
+"/NFVm7L1vh_",+
+"^S^#]q&c/g'>O",+
+"H)Q7W2i",+
+"V^?8\[TE5",+
+"'m+set,d\C",+
+"DA>+MA4ze\^N",+
+"p1Fl~y",+
+"<H]",-
+"h1",-
+"",-
+"b",-
+"l_Qfo",+
+"Y:YEHnOK",+
+"Jmw%",+
+
+// ground truth 
+repeatatleast(contain(<any>),4)

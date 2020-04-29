@@ -1,0 +1,17 @@
+// example 
+"-"",-
+"mbl",-
+";f",-
+"*",-
+"X",-
+"",-
+"2a>",-
+"3ghW",-
+"puFUc",-
+"(7NfI",-
+"3_&3",-
+"4i",+
+"4a",+
+
+// ground truth 
+concat(<num>,or(<vow>,<cap>))

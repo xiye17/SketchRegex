@@ -1,0 +1,25 @@
+// example 
+"ZaHEFeCIVADENUKESu",+
+"ZaHEFeCIVADENUKESI",+
+"[",-
+"OAMoHuXiQI",+
+"nwgh{",-
+"UAJoWiWoHAMAXOLo",+
+"WAt",-
+"OAMoHuXiQo",+
+"He",-
+"DEQEFOAuGOUA",+
+"",-
+"9X}",-
+"UH32",-
+"DEQEFOAuGOUO",+
+"UAJoWiWoHAMAXOLO",+
+"HOQIMIAaKEMeGo",+
+"x7",-
+"=`\wH",-
+"HOQIMIAaKEMeGI",+
+"C",-
+"UKp2",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),5)

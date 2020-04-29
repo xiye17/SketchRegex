@@ -1,0 +1,25 @@
+// example 
+"[",-
+"b6"m",-
+"N1r8k1C2k0n8W5",+
+"b6]<",-
+"@VT!Z",-
+"C1z6a0",+
+"M$y",-
+"MOK",-
+"N1r8k1C2k0n8m2",+
+"V",-
+"F1v9T0f9",+
+"v8B7l8z3b4p0",+
+"",-
+"F1v9T0B3",+
+"m4Y4t4Z5q3",+
+"C1z6P2",+
+"m4Y4t4Z5L2",+
+"}5K\'",-
+",:",-
+"|i",-
+"v8B7l8z3b4I6",+
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),3)

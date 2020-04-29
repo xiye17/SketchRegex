@@ -1,0 +1,25 @@
+// example 
+"F_",-
+"n}V]",-
+"EIAuxbvk",+
+"}xB",-
+"OkhEILa",+
+"p",-
+"Fc|6,",-
+"TuwqJ",+
+"EIAuxbvC",+
+"jDKNEi",+
+"",-
+"vuyDEcuiP",+
+"}",-
+"Fc])=",-
+"Tuwqx",+
+"OkhEILG",+
+"vuyDEcuiz",+
+"F;",-
+"Xl{",-
+"jDKNEC",+
+"nK}'",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),5)

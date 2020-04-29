@@ -1,0 +1,15 @@
+// example 
+"",+
+"!@v_",+
+"G",+
+"(e",+
+"!3\",+
+"!CR9z",+
+")lpy",+
+"!M",+
+"!",-
+"f$r",+
+"8nXF>",+
+
+// ground truth 
+or(contain(<low>),not(<m0>))

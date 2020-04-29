@@ -1,0 +1,25 @@
+// example 
+"\1%",-
+"HA<$s",-
+"iX",+
+"djY",+
+"`12u}",-
+"",-
+"`",-
+">!v8",-
+"w&",-
+"hivr",+
+"lAwpl",+
+"lAwpA",+
+"it",+
+"w|",-
+"K",+
+"<;:",-
+"t",+
+"]3d~",-
+"hivV",+
+"djh",+
+"~",-
+
+// ground truth 
+repeatatleast(and(<let>,<any>),1)

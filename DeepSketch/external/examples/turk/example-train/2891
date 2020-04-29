@@ -1,0 +1,17 @@
+// example 
+"ON",+
+"[",-
+"t",-
+"]Ox",-
+"Q+b",-
+"",-
+"Nh@!I",-
+"^p]{",-
+"i^",-
+"jD",+
+"B6O6",-
+"i)",-
+"NIf|^",-
+
+// ground truth 
+concat(or(or(<vow>,<low>),<let>),<cap>)

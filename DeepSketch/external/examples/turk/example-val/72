@@ -1,0 +1,26 @@
+// example 
+"(8!=SiRNILQGT",+
+"rViM!",-
+"&!CIZOBSTE",+
+"!(M",-
+"!PAPMLFX",+
+"rViM%",-
+"f!oN$BHRGGPY",+
+"!()",-
+"!",-
+"^3!A",-
+"!M",-
+"",-
+"B!DJKNTGD",+
+"(8!=SFRBVGNKX",+
+"!6EKJJSRY",+
+"#b!ZNNUAOFD",+
+"#b\!XYFNHPO",+
+"^3!=",-
+"A",-
+"!9",-
+"f!oNYPYTIDZK",+
+"&,!WGGNUMI",+
+
+// ground truth 
+concat(contain(<m0>),repeatatleast(<cap>,7))

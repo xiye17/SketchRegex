@@ -1,0 +1,25 @@
+// example 
+"eISAu",+
+"DE",-
+"rpou",-
+"DD",-
+"Oo.",-
+"rpoE",-
+"(cEEnO&!",+
+"JOhoA!p",+
+"!",-
+",",-
+"nDeWE",-
+"",-
+"JOhoAMU",+
+"(cEEnOOz",+
+"OoO",-
+"eISAi",+
+"OeEU",+
+"nDeWO",-
+"BcE!II",+
+"BcE!IO",+
+"OeEI",+
+
+// ground truth 
+repeatatleast(contain(or(<m0>,<vow>)),4)

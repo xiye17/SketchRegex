@@ -1,0 +1,25 @@
+// example 
+"IAInOAU",+
+"UE",-
+"TN\",-
+"}5p_",-
+"T}e6s",-
+"OIAEOE",+
+"",-
+"OIAEOA",+
+"IAOEmAUEk",+
+"AOOhUIAO",+
+"IAInOAs",+
+"IAOEmAUEA",+
+"U~",-
+"OOUIU",+
+"OOUIA",+
+"AOOhUIAU",+
+"I",-
+"}/Z",-
+"E{)$",-
+"`$:'3",-
+"~",-
+
+// ground truth 
+repeatatleast(or(and(<cap>,<vow>),<low>),5)

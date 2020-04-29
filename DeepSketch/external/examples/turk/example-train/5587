@@ -1,0 +1,16 @@
+// example 
+",U",+
+"bFY",-
+"zB",-
+"z4",-
+",A",+
+"n",-
+"MZ]$",-
+"wxoK_",-
+"bs(",-
+"wGG3i",-
+"",-
+"Mufq",-
+
+// ground truth 
+concat(or(or(<any>,<m0>),<m1>),<vow>)

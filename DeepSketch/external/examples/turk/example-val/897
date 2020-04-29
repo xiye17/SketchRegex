@@ -1,0 +1,15 @@
+// example 
+"",+
+"%",-
+"KF4w1",-
+"YUQFC"QV/<",-
+""DzS",-
+":;FR6Rk",-
+"Rotj[D6Fz",-
+""-9i]6",-
+"zD",-
+"hK)qCuRX",-
+"1)!",-
+
+// ground truth 
+not(repeatatleast(<any>,1))

@@ -1,0 +1,25 @@
+// example 
+"Q}",+
+"`##a8",+
+"HlAfJVno",-
+"3WlhS",+
+"HlAfJVn|",-
+"Qmirsb",-
+"",+
+"eUB~",-
+"Qmirs`",-
+"CT4Q",+
+"CT[<",+
+"bsTl)",-
+"g|r",+
+"u",+
+"QX",+
+"MhDlXqe",-
+"[th",+
+"bsTlT",-
+"eUB5",-
+"MhDlXq+",-
+"A",+
+
+// ground truth 
+not(concat(repeatatleast(<let>,3),<any>))

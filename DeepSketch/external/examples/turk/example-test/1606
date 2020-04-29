@@ -1,0 +1,26 @@
+// example 
+"T~|",-
+"Wnp",+
+"R{mk",+
+"N)",-
+"O~V`|",-
+"Xn",+
+"R{~e",+
+"T~7",-
+"E@|(u",+
+"",-
+"WPtf|}c",+
+"M|p}hz",+
+"WBx",+
+"O~V`@",-
+"M|p}Eo",+
+"7",-
+"N~",-
+"WPtf|gn",+
+"X3||",-
+"E@||r",+
+"X3|E",-
+"H",-
+
+// ground truth 
+concat(<cap>,endwith(<low>))

@@ -1,0 +1,25 @@
+// example 
+"aeAu",+
+"EIiscFO",+
+"aulOksbi",+
+"F",-
+"UD",-
+"EoAh}",-
+"U]",-
+"mrO",-
+"aeAa",+
+"EIiscFA",+
+"",-
+"c",-
+"uVA",-
+"eUAUI4",+
+"OeVUe",+
+"M6Q|",-
+"/Ddv",-
+"aulOAnYX",+
+"OeVUU",+
+"EoAhf",-
+"eUAAyd",+
+
+// ground truth 
+repeatatleast(startwith(<vow>),4)

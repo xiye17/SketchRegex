@@ -1,0 +1,25 @@
+// example 
+"|kTA",-
+"TP",+
+"ZTIKUEKOKDBFPU",+
+"NJLAXJUABJYX",+
+"",-
+"}{@y&",-
+"h",-
+"tX",+
+"VVTSCCVDKKW",+
+"NEQJTRBNNUKOJ",+
+"`){a",-
+"FWJDUCB",+
+"]M",-
+"~#",-
+"MVANZRBIR",+
+"M",-
+"XX=",-
+"WIQJDQSVPT",+
+"Cz;T;",-
+"Xb"",-
+"PQVEHEHP",+
+
+// ground truth 
+or(repeatatleast(<cap>,7),concat(<let>,<any>))

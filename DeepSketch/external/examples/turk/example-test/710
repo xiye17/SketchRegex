@@ -1,0 +1,25 @@
+// example 
+"BW{Gf",+
+">(f",+
+"IYas!",-
+"!EIZ",+
+"\z-",+
+"A!",-
+"T|",+
+"V",+
+"IYaT!",-
+"[h"o",+
+"",+
+"Qv!",-
+"QM!",-
+"Unn!",-
+"T^",+
+"BW\j4",+
+"UnN!",-
+"q!",-
+"HRRoK!",-
+"|",+
+"HRRom!",-
+
+// ground truth 
+not(concat(repeatatleast(<let>,1),<m0>))

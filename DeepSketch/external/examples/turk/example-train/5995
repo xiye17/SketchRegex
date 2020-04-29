@@ -1,0 +1,25 @@
+// example 
+"G",-
+"muI",+
+"u}uFu",+
+"cUt",-
+"mGaSD",-
+"hu",+
+"U",+
+"eUio",+
+"fb",-
+"E@0(",-
+"",-
+"K&]",-
+"h",-
+"RW<o",-
+"i",+
+"hO",+
+"muU",+
+"eUiU",+
+"u}uFO",+
+"mGaSj",-
+"fN",-
+
+// ground truth 
+concat(star(startwith(<low>)),<vow>)

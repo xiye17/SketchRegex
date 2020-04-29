@@ -1,0 +1,25 @@
+// example 
+"UPlo",+
+"GOU",+
+"E?",+
+"DR<",-
+"!",+
+"~SAAa",+
+"LV",-
+"",-
+"`",-
+"DRD",-
+"DEjf",+
+"A%",+
+"~SxgT",+
+"pTB",+
+"T~HD",-
+"JCTBT",-
+"JCTB]",-
+"L|",-
+"T~HP",-
+"A",+
+"~",-
+
+// ground truth 
+contain(or(or(<vow>,<low>),<m0>))

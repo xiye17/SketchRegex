@@ -1,0 +1,25 @@
+// example 
+"D",+
+"?=]\o",+
+"s",+
+"O{",-
+"a*o",-
+"={K",+
+"UJ%V",-
+"a{;}Q",-
+"b:wo",+
+"gRk2S",+
+"",+
+"u7",-
+"i8@P",-
+"O",-
+"I4.",-
+"U",-
+"uU[a`",-
+"N3~v",+
+"gn",+
+"`_x",+
+"zc",+
+
+// ground truth 
+not(startwith(<vow>))

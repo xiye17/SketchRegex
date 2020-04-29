@@ -1,0 +1,25 @@
+// example 
+"{hW",-
+"?|TN9",+
+"B>",-
+"W6",+
+"}rnO2!",+
+"?|T6P",+
+"X",-
+"#",-
+"",+
+"w9",+
+"Ba",-
+"VrU|",-
+"\E'{K",-
+",W1",+
+"o>o4",+
+"VrUi",-
+",v5",+
+"\E'{}",-
+"o>J2",+
+"}rnOs7",+
+"{h{",-
+
+// ground truth 
+star(contain(concat(<let>,<num>)))

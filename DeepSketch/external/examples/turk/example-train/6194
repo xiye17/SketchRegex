@@ -1,0 +1,26 @@
+// example 
+"A]7zbH",+
+"Hy",-
+"a1",-
+"h<ifC",-
+"FY",+
+"Nmc",+
+"XRy6f",+
+"",-
+"c",-
+"F}",+
+"XazuS",+
+"w*&",-
+"D{lD",+
+"A{}cFe",+
+"Q",+
+"NT.",+
+"@",-
+"!GOu",-
+"}b/a",-
+"%0B$4",-
+"DgYW",+
+"+m4",-
+
+// ground truth 
+concat(<cap>,not(<low>))

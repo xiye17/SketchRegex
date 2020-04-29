@@ -1,0 +1,16 @@
+// example 
+"",+
+"D",+
+"/",+
+"M]t",+
+"@|C2",+
+"_jfL",+
+"@,Hg]",+
+"m0",+
+"@",-
+"@$J",+
+"7A",+
+"Gh(b,",+
+
+// ground truth 
+repeatatleast(or(<m0>,not(<m1>)),7)

@@ -1,0 +1,25 @@
+// example 
+"8KB3",+
+"P653N964",+
+"6E6R48",+
+"8P:",-
+"ArkdJ",-
+"+eC/",-
+"87A60",+
+"",-
+"&",-
+"P653N96A",+
+"Q",-
+"1WJ77L6",+
+"8>v",-
+"1WJ77LP",+
+"8KBQ",+
+"6E6R4N",+
+"gk",-
+"ow$H",-
+"BQ",-
+"AW/>K",-
+"87A6P",+
+
+// ground truth 
+repeatatleast(or(<num>,<cap>),4)

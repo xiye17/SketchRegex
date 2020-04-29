@@ -1,0 +1,17 @@
+// example 
+"E~",-
+"O9!1G",-
+"[",-
+"~u^H1",-
+"",-
+"\W~]",-
+"$QkH",-
+"Uf6",-
+"E5",-
+"mW",+
+"OP",+
+"{",-
+"ULO",-
+
+// ground truth 
+concat(or(<vow>,<let>),<cap>)

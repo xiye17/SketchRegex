@@ -1,0 +1,25 @@
+// example 
+"Z",+
+"jz@A",+
+"gXXVi",+
+"/L}om",-
+"!!!",+
+"k",+
+"\Wo0",-
+"!jk",-
+"@|#f",-
+"",-
+"!!!Ta",-
+"|",-
+"P~",+
+"Q3m",+
+"7",-
+"':@",-
+"!!!!",+
+"!!",+
+"JCve>",+
+"~Y",-
+"!o",-
+
+// ground truth 
+or(repeatatleast(<m0>,1),startwith(<let>))

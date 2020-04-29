@@ -1,0 +1,18 @@
+// example 
+"|<dy",+
+"g8w?\st^b1?x",+
+"Wpe9lLx7",+
+"|L",-
+"nx1y*{_Amq<",+
+"`y$tIk%%DUc|^",+
+"",-
+"hXL",-
+"H&=]Z%(",+
+"Q",-
+"Y.d,h!`xg",+
+""z%!;",+
+".M&cObD>Ka",+
+"g?dv+t",+
+
+// ground truth 
+contain(repeat(<any>,4))

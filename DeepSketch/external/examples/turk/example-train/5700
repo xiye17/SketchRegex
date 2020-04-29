@@ -1,0 +1,17 @@
+// example 
+"LDS",+
+"C<\",-
+"4",-
+"",-
+"LTn+K",-
+"JD",-
+"LT{aw",-
+"V5^$",-
+"+Q7",-
+"LDx",+
+"y",-
+";z",-
+"V5zC",-
+
+// ground truth 
+concat(concat(<cap>,<any>),<let>)

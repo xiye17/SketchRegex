@@ -1,0 +1,18 @@
+// examples
+"a",+
+"A",+
+"1",+
+"@",+
+"e",+
+"I",+
+"0",+
+"aa",-
+"Ae",-
+"!as",-
+"",-
+"r3",-
+"Lkd",-
+"s3d",-
+
+// ground truth 
+or(or(<vow>,<low>),<any>)

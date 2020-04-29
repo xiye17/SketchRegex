@@ -1,0 +1,16 @@
+// example 
+"p!.",-
+"~QWG:",-
+"z!",+
+"Uc",-
+"p/H",-
+"L!n=",-
+"~!0_m",-
+"@h^3q!",-
+"",-
+"B",-
+"Lm&W",-
+"@!F^Cm",-
+
+// ground truth 
+concat(or(<any>,<let>),<m0>)

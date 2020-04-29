@@ -1,0 +1,14 @@
+// example 
+"",+
+""[_h",+
+"Mb",+
+"hDw4iQ.Q@",+
+"A<PV%gz#",+
+"Bs7=&",+
+"+AQ7#"\",+
+"b",+
+"s%ZsA`",+
+"eog",+
+
+// ground truth 
+repeatatleast(contain(not(<vow>)),4)

@@ -1,0 +1,15 @@
+// example 
+"z}5T",-
+"3",-
+";t9se",-
+"SaI",+
+";tWEa",-
+"Q3[",-
+"2|",-
+"Ql=",-
+"zHPq",-
+"23",-
+"",-
+
+// ground truth 
+concat(concat(<any>,<low>),<cap>)

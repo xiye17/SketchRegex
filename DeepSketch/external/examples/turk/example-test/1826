@@ -1,0 +1,17 @@
+// example 
+"4zE",+
+"8{G7",-
+"4",-
+"RVt",-
+"8we(",-
+"",-
+"0Q",-
+"4zO",+
+"8jc",-
+"j",-
+";I",-
+"4yHY>",-
+"4ynZC",-
+
+// ground truth 
+concat(concat(<num>,<low>),<vow>)

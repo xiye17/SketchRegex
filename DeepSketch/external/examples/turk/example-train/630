@@ -1,0 +1,25 @@
+// example 
+",>",+
+"v9",-
+"mqpuwfqg1",-
+"-",+
+"imjon0",-
+"3",-
+"p}xr",+
+"aa8",-
+"yyvcud2",-
+"qnysahn4",-
+"",+
+"/).",+
+".B}Ju",+
+"6\Mn$",+
+"rlfmcgmlm8",-
+"iwme7",-
+"6/",+
+"p!:z",+
+"|Hb",+
+"dxz7",-
+"{",+
+
+// ground truth 
+not(concat(star(<low>),<num>))

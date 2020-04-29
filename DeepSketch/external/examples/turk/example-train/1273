@@ -1,0 +1,17 @@
+// example 
+"U,5E",-
+"u;B'!",-
+"u4",+
+"",-
+"a",-
+"gt]",-
+"U2}G",-
+"O",-
+"u/,",-
+"uH",+
+"t#&sQ",-
+"sV",-
+":!",-
+
+// ground truth 
+concat(<vow>,or(<let>,<num>))

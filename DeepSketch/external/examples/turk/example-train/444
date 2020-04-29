@@ -1,0 +1,22 @@
+// example 
+"F",-
+"|O3UHnraw{U0A@U*E",+
+"{Hm",-
+"|O3UHnraw{U0A@U*A",+
+"GU",-
+"{wZ",-
+"AuEU",-
+"De?o6IKefLa+No0ipqa",+
+"",-
+"gukbI*LI<rA?TpupOEmo",+
+"'I>&IfJakUwigfowa.",+
+"AuEO",-
+"De?o6IKefLa+No0[OL6",+
+"gukbI*LI<rA?TpupOEmU",+
+"EaG\Y",-
+"Go",-
+"EaG\a",-
+"'I>&IfJakUwigfowXI",+
+
+// ground truth 
+repeatatleast(startwith(concat(<any>,<vow>)),7)

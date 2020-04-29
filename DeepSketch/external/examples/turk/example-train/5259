@@ -1,0 +1,25 @@
+// example 
+"iceeuyuiUoUzisiqUeaj",+
+"iceeuyuiUoUzisiqUeIf",+
+"ukIxAfExAuUwEhUaId",+
+"VT",-
+"eyiuElidIyUhud",+
+"P<k1B",-
+"AhogerErutaw",+
+"IlEwOrIsUwOgIjeg",+
+"P9(",-
+"b_{Mo",-
+"eyiuElidIyUhOr",+
+"U`s5",-
+"e",-
+"U}5^",-
+"",-
+"a",-
+"IlEwOrIsUwOgIjir",+
+"Asg",-
+"C3",-
+"AhogerErutot",+
+"ukIxAfExAuUwEhUaEr",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),6)

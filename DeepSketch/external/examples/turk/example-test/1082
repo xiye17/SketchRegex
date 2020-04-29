@@ -1,0 +1,14 @@
+// example 
+"",+
+"1v_",+
+":"MyYl",+
+"Q",+
+"5h'#{",+
+")/}5&tGn",+
+"KPjvX1=",+
+"r*$u",+
+"~>",+
+"m)"04H;8v",+
+
+// ground truth 
+not(and(and(<cap>,<num>),<low>))

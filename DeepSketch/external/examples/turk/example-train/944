@@ -1,0 +1,25 @@
+// example 
+"]",-
+"i}d",+
+"O:L^",-
+"o",+
+"E_a^h",+
+"i\xx",+
+"i}L",+
+"",-
+"`;",-
+"o}{",-
+"O:L;",-
+"ok",+
+"i\xG",+
+"Q)r8l",-
+"g6L@A",-
+"I",+
+"J",-
+"oQ",+
+"x*",-
+"E_a^E",+
+"o}^",-
+
+// ground truth 
+and(endwith(<let>),startwith(<vow>))

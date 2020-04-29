@@ -1,0 +1,25 @@
+// example 
+"eiirdey",+
+"acuckerwcm",+
+"oixvygx",+
+"Iyayiwqwr",+
+"ij}mF",-
+"nnZ",-
+"iexckn",+
+"",-
+"aX",-
+"b",-
+"~$,/",-
+"Uloczbxiqm",+
+"Eajulnpv",+
+"R!w",-
+"oropwfoh",+
+"B|",-
+"A",-
+"ij!S2",-
+"uhkcgbnjk",+
+";F7}",-
+"Uczvwn",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<low>,5))

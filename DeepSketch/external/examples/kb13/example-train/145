@@ -1,0 +1,25 @@
+// example 
+"eoAXU",+
+"OOI",+
+"KCE",-
+"U",+
+"i}",-
+"GTz",-
+"iYuo",+
+"",-
+"EE",+
+"b",-
+"Eo",+
+"eoAXa",+
+"zOU~",-
+"OOi",+
+"nE",-
+"VF%lA",-
+"iYuE",+
+"M",-
+"g'bzd",-
+"P_ty",-
+"A",+
+
+// ground truth 
+concat(<vow>,optional(endwith(<vow>)))

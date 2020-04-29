@@ -1,0 +1,14 @@
+// example 
+"",+
+"GK-y",+
+"i>)_k(!",+
+"v3`u>hL@",+
+"h",+
+"X:thv1",+
+"eK$.{z5j7",+
+"5Q)",+
+"sK",+
+"XM\W.",+
+
+// ground truth 
+endwith(star(concat(<any>,<num>)))

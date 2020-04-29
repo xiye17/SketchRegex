@@ -1,0 +1,16 @@
+// example 
+"BI",+
+"%OZ-",-
+"j@^ak",-
+"pg",-
+"!i;",-
+"!Ys",-
+"t",-
+"pl",-
+"%egL",-
+"Bo",+
+"jIpkh",-
+"",-
+
+// ground truth 
+concat(<any>,or(or(<m1>,<vow>),<m0>))

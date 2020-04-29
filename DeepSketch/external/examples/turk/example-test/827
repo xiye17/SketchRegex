@@ -1,0 +1,24 @@
+// example 
+"LQ8",-
+"LB%",-
+"^oY,H",-
+"^oeuX",-
+"l",-
+"{IeUaoiE",+
+"weiiie",+
+"\UUO",-
+"",-
+"XIaIAiouA",+
+"weiiiA",+
+"XIaIAiouU",+
+"&D",-
+"\UUs",-
+"%AIUu",+
+"2uouioi",+
+"{IeUaoie",+
+"%AIUA",+
+"2uouioa",+
+"&E",-
+
+// ground truth 
+concat(<any>,repeatatleast(<vow>,4))

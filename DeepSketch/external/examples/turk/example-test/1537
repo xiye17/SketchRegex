@@ -1,0 +1,25 @@
+// example 
+"wZT89U-",+
+"qGqdCeN5I",+
+"hS|",+
+"uY",+
+"~r",-
+"v*=",-
+"~wa6",-
+"brE#z",-
+"",-
+"T%(!",-
+"}",-
+"b9~DH",-
+"S",-
+"oFvjR",+
+"nBH6",+
+"rNCCJ$o8",+
+"gFT(m;",+
+"Y{",-
+"}(B",-
+"kK^s}sg`;'",+
+"tVL&W_%?'~m",+
+
+// ground truth 
+concat(<low>,startwith(<cap>))

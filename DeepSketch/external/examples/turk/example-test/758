@@ -1,0 +1,14 @@
+// example 
+"",+
+"&'T\ZAG",+
+"z@C",+
+"A7r?z(Gl",+
+"t)rC?E",+
+"<.\UiBCrT",+
+"m#",+
+"[bM8",+
+"v9t=>",+
+"{",+
+
+// ground truth 
+or(star(<any>),concat(<m0>,<let>))

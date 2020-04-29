@@ -1,0 +1,19 @@
+// example 
+",H00je+a_",+
+"KrOb^QWZ13Ncg'",+
+"d81B>Zo[yY9Q",+
+"B451Prk",+
+")KoS?C4%*/|"F",+
+"7!",-
+"",-
+".$$U9r!b",+
+"]zS6H2Z@(<",+
+"X*k%iv",+
+"S",-
+"d5.Y?",+
+"WBCS",-
+"g$\y3z[*#zH",+
+"I"@",-
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),5)

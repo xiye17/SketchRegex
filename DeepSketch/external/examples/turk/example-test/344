@@ -1,0 +1,17 @@
+// example 
+"e0&U",+
+"jVuA&",+
+"u",-
+"b]@s",+
+"a]B",+
+"]",+
+"a",-
+"",+
+"|R",+
+"iR2j%",+
+"a}",+
+"v",+
+"hOY",+
+
+// ground truth 
+not(or(<vow>,<cap>))

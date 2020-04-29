@@ -1,0 +1,14 @@
+// example 
+"",+
+"g!K,E+L^",+
+"5Vs34",+
+"d(",+
+",!Z^LNA",+
+"yfDtk)",+
+"{H]0",+
+"bH;",+
+"]",+
+"CBJ=fbJWV",+
+
+// ground truth 
+not(and(and(<low>,<num>),<any>))

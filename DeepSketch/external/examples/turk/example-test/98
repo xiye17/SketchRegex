@@ -1,0 +1,25 @@
+// example 
+"OmP%",+
+"G",-
+"(6%H",-
+"`O",+
+"C[FvU",+
+"ML",-
+"aHD",-
+"aHP",-
+"K6A",+
+"MHYFS",-
+"K6I",+
+"AWpB",+
+"MB",-
+"",-
+"MHYFJ",-
+"C[FvI",+
+"O",+
+"`E",+
+"S",-
+"(6%B",-
+"A",+
+
+// ground truth 
+contain(and(or(or(<cap>,<num>),<m0>),<vow>))

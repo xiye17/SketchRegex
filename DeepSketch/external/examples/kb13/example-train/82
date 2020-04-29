@@ -1,0 +1,25 @@
+// example 
+"{n7bK",+
+"r]",+
+"od",-
+"o",-
+"m",+
+"Fqdk",+
+"a",-
+"O8",-
+"Drfu",-
+"",+
+"}Tt",+
+"cPco[",-
+"8",+
+"U6(",-
+"Drfi",-
+"}Tz",+
+"rk",+
+"FqdC",+
+"{n7bZ",+
+"ci~\'",-
+"A/K",-
+
+// ground truth 
+not(contain(<vow>))

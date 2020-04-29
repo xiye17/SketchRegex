@@ -1,0 +1,14 @@
+// example 
+"",+
+"3dw@0",+
+"8C#-\p",+
+"P",+
+"#+2@",+
+"IF",+
+"`bA}g#:",+
+"zD>E)==@",+
+"wb{53/)CW",+
+"T9/",+
+
+// ground truth 
+contain(star(<cap>))

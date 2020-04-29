@@ -1,0 +1,25 @@
+// example 
+"vz/,",-
+"ryk~",+
+"veqdg",+
+"'yG@@s",-
+"veqd+",+
+"v}R1&5",-
+"S%QV7",-
+"o|",+
+"ol{",+
+"+r",-
+"v@wH",-
+"ol;",+
+"",-
+"}(",-
+"^",+
+"rykw",+
+"d",+
+"oj",+
+"}#n",-
+"Z:=",-
+"||r?8",-
+
+// ground truth 
+concat(star(<low>),<any>)

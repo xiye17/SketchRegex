@@ -1,0 +1,25 @@
+// example 
+"lTDDVA",+
+"dOOMFESO",+
+"|_A",-
+"aLMZMRIEQXNV",+
+"pG",-
+"q",-
+"oYQDOWYZKVMWYP",+
+"uFNOPYMDGSGVC",+
+"",-
+"jXYMVUFFAEPESGN",+
+"uCFXOTT",+
+"/%k",-
+"hRRILTXCET",+
+"60S)",-
+"rZAO&",-
+"@",-
+"fCTAYYWUJ",+
+"uDFBHCQGOUI",+
+"ps",-
+"|]B@",-
+"rZAOR",-
+
+// ground truth 
+concat(<low>,repeatatleast(<cap>,5))

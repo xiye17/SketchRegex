@@ -1,0 +1,15 @@
+// example 
+"}$6",-
+">,",-
+"[F7#w",-
+"!T",-
+"Sr0u",-
+"o",-
+"!",+
+"!{H",-
+"",-
+"!8#[",-
+"!@_MJ",-
+
+// ground truth 
+concat(not(startwith(<any>)),<m0>)

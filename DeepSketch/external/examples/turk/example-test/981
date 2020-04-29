@@ -1,0 +1,17 @@
+// example 
+"EJr",-
+"O$",-
+"i7G5Z",-
+"u",-
+"C*WI",-
+"o0",+
+"E7z",-
+"",-
+"f",-
+"OA",-
+"xRoc",-
+"boH[:",-
+"o!",+
+
+// ground truth 
+concat(<vow>,or(<num>,<m0>))

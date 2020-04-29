@@ -1,0 +1,25 @@
+// example 
+"E",+
+"`3Z",+
+"#tfr*",-
+"s}",-
+"\97",-
+"~L",+
+"`pU",+
+"s9",-
+"#tfrc",-
+"",-
+"}",-
+"$",-
+"g",+
+"Z0QQ",+
+"|hb,",-
+"\L",+
+"6mHT|",+
+"_eVw",+
+"6m%#F",+
+"|hbt",-
+"\9e",-
+
+// ground truth 
+repeatatleast(or(contain(<cap>),<low>),1)

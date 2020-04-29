@@ -1,0 +1,25 @@
+// example 
+"rvncwvnjb",+
+"G",-
+"jx",-
+"qjszwqjj",+
+"bd?",-
+"qwbsepwubaP",+
+"b|e",-
+"nscpxeG",+
+"",-
+"yfahvqdqua",+
+"c|5z",-
+"cKgS",-
+"bJur#",-
+"~g={{",-
+"nscpxen",+
+"qwbsepwubaq",+
+"yfahvqdquT",+
+"qjszwqjJ",+
+"rvncwvnjG",+
+"j~",-
+"{",-
+
+// ground truth 
+concat(repeatatleast(<low>,6),<let>)

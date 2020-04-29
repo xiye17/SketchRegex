@@ -1,0 +1,18 @@
+// examples
+"ABCD!",+
+"BCDF!",+
+"BCDFF!",+
+"ABCDE!!",+
+"PPPP!12",+
+"QQQQQ!!1",+
+"QQQQ!abc",+
+"",-
+" ",-
+"a",-
+"ABCD",-
+"b",-
+"AB",-
+"ABC",-
+
+// ground truth 
+concat(repeatatleast(<cap>,4),contain(<m0>))

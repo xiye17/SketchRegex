@@ -1,0 +1,25 @@
+// example 
+"F",-
+"E6",+
+"lcF",-
+"U",+
+"`iY5b",+
+"ZCBPj",-
+"hiE",+
+"G\5j",-
+"",-
+"AM",+
+"`yOR-",+
+"D$",-
+"ZCBP\",-
+"T",-
+"IlqF",+
+"E;>6",+
+"lcf",-
+"hu_",+
+"DH",-
+"I",+
+"G\5T",-
+
+// ground truth 
+contain(concat(star(<let>),concat(<vow>,star(<let>))))

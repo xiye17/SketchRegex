@@ -1,0 +1,25 @@
+// example 
+"!V^.D",+
+"wT@",-
+"cc",-
+"FEbn",-
+"fK|;^rA",+
+"suBzbR",+
+"G{ZX(",-
+"(",-
+"",-
+"suBzYI",+
+"wTa",-
+"fK|;^1Y",+
+"!V^aO",+
+"o|~W",+
+"c(",-
+"G{ZX|",-
+"+LH",+
+"+hT",+
+"FEb@",-
+"SF",+
+"o|"J",+
+
+// ground truth 
+concat(startwith(<any>),and(<let>,<cap>))

@@ -1,0 +1,17 @@
+// example 
+"\",-
+"HoCj",+
+"~lJ9&7<`",+
+"ee",-
+"_ld!0Myw6a",+
+"XU}",+
+"u3HbJEf~pc}G",+
+"t>~fu=h",+
+"",-
+"C0YKq",+
+"N<1"%9",+
+"Af#/z2pY+2t",+
+"d8Ebd:P!;",+
+
+// ground truth 
+repeatatleast(or(and(<m0>,<let>),<any>),3)

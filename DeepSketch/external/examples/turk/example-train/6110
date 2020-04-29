@@ -1,0 +1,26 @@
+// example 
+"Reue",+
+""T(",-
+"RF",-
+"QiE~]",-
+"OEIiiE",+
+"DOoUI",+
+"Yien",-
+"NO",+
+"Reuu",+
+""",-
+"UuE",+
+"DOoUU",+
+"",-
+"OEIiiU",+
+"Na",+
+"h",-
+"R|",-
+"Vu^",-
+"UuU",+
+"YieB",-
+"I",+
+"4M)1E",-
+
+// ground truth 
+concat(<cap>,star(<vow>))

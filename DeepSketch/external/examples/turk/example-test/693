@@ -1,0 +1,14 @@
+// example 
+"",+
+"&r-Vk2i",+
+"K_S",+
+"3H-7",+
+"(jns5T}[V",+
+"7fCW*'",+
+"y{",+
+"A.e=`",+
+"0\~:U#$C",+
+"'",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<any>))

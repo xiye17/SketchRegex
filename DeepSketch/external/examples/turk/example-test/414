@@ -1,0 +1,25 @@
+// example 
+"!i!I!a!U!I",+
+"!E!u!U!o!U!I!O",+
+"!O!U!o",+
+"!O!U!E",+
+"!I(WK",-
+"n",-
+"!a!f",-
+"!I!A!U!A",+
+"!",-
+"!ou",-
+"!a!o",-
+"!i!I!a!U!o",+
+"",-
+"!a!O!u!i!i!e",+
+"!E!u!U!o!U!I!o",+
+"!I!A!U!I",+
+"!e",-
+"!a!O!u!i!i!u",+
+"!o!",-
+"!i",-
+"!I!rj",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),3)

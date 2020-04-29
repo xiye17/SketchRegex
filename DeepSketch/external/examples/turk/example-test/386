@@ -1,0 +1,25 @@
+// example 
+"Oz{Q6;",+
+"Z}m,mlwtA",+
+"Y",+
+"/",-
+"cw",-
+"F}O",+
+"]\06C",-
+"K`8.5|lS",+
+"I#a^?",+
+"5d*(",-
+"1e",+
+"",-
+"T+HxrhO",+
+"ra$",-
+"5p;/",-
+"c%",-
+"1O",+
+"y",-
+"WMTR",+
+"rM)",-
+"]=d{F",-
+
+// ground truth 
+or(concat(<any>,<vow>),startwith(<cap>))

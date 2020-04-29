@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(repeatatleast(<vow>,6),or(<let>,<low>))

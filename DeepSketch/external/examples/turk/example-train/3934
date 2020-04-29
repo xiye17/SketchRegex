@@ -1,0 +1,17 @@
+// example 
+"Ya;V",-
+"TuX",-
+"dnD",-
+"",-
+";",-
+"wg",-
+"BJm~1",-
+"YE",+
+"y",-
+"QN",-
+"BBg$7",-
+"YA",+
+"YTe|",-
+
+// ground truth 
+concat(<cap>,or(or(<vow>,<m0>),<m1>))

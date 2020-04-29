@@ -1,0 +1,26 @@
+// example 
+"ecNuwTb",+
+"kEPSgXut",+
+"!Wy;-",+
+"u",-
+"!?'i;U",+
+"!xhe",+
+"TYrPiA",+
+"d_R}",-
+"!",+
+"ecNuwTJ",+
+"!w3",+
+"",-
+"F(",-
+"3@i8c",-
+"!T",+
+"}",-
+"F~",-
+"{/P",-
+"+_B",-
+"}_4[A",-
+"kEPSgXuB",+
+":8Rj",-
+
+// ground truth 
+or(repeatatleast(<let>,6),startwith(<m0>))

@@ -1,0 +1,25 @@
+// example 
+"VHI",+
+"Th`DI",+
+"Th`Du",+
+"&}x",-
+"^M",-
+"5",-
+"~'Za",+
+"&};",-
+"~'Zu",+
+"XA",+
+"^8",-
+"wUcx",-
+"",-
+"Vv_0B",-
+"2McEui",+
+"Vv_0z",-
+"VI5",+
+"T",-
+"wUcX",-
+"2McEOS",+
+"Xa",+
+
+// ground truth 
+contain(concat(<cap>,<vow>))

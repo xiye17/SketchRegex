@@ -1,0 +1,25 @@
+// example 
+"UHBR",-
+"Z",+
+"D7!|",+
+"Q{",+
+"Q5",+
+"ZOTKD",-
+"UQO",-
+"AIRN",-
+"c",+
+"EM",-
+"HBRNL",-
+"Ehy",+
+"OBS",-
+"",+
+"DV`o",+
+"MA",-
+"o3w",+
+"IdgHV",+
+"O",-
+"I<(-s",+
+"I",-
+
+// ground truth 
+not(or(<vow>,repeatatleast(<cap>,2)))

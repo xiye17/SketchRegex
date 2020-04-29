@@ -1,0 +1,26 @@
+// example 
+",,sM0",+
+"}.b*",-
+"G",+
+"'=+'#",-
+"}N",+
+"2",-
+"k",-
+",,FuH",+
+"@~O",+
+"'=+'[",-
+"@Wv",+
+"",-
+"=-0V",+
+"BN>h}g",+
+"^8u/XG",+
+"q.",-
+"}.bw",-
+"Z2",+
+"=-~B",+
+"qa",-
+"ck+",-
+"ckj",-
+
+// ground truth 
+contain(repeatatleast(endwith(<cap>),1))

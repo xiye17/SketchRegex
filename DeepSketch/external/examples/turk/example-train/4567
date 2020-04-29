@@ -1,0 +1,17 @@
+// example 
+"{s6",-
+"M3}q",-
+"~O",-
+"`fi}",-
+"\9",-
+"",-
+")Kw+c",-
+"<",-
+"PO\",-
+"TvS,4",-
+"M+",+
+"z$",+
+"~",-
+
+// ground truth 
+concat(or(or(<vow>,<low>),<let>),<any>)

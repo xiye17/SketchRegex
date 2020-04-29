@@ -1,0 +1,25 @@
+// example 
+"A(g:",+
+"D\",-
+"o(mfo",+
+"t",-
+"utJ",+
+"Th}wg",-
+"pCTi;",-
+"DAH",-
+"v\8C",-
+"O/",+
+"l"",-
+"",-
+"c",-
+"e%O",+
+"UDXO;",+
+"e",+
+"FVC",-
+"Uh)a",+
+"u",+
+"J`;O",-
+"UI",+
+
+// ground truth 
+or(startwith(<vow>),<m0>)

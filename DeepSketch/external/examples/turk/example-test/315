@@ -1,0 +1,14 @@
+// example 
+"",+
+"5|",+
+"G",+
+"!v]q",+
+"GA~",+
+"H8Y=qNZ",+
+"mu`M"",+
+"24Sl-8",+
+"xi*>_"eZv",+
+"?Uh6'gjp",+
+
+// ground truth 
+endwith(star(concat(<m0>,<num>)))

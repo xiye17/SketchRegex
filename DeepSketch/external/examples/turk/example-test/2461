@@ -1,0 +1,14 @@
+// example 
+"",+
+"E.",+
+":M+P-S}'|",+
+"5H\2$n",+
+"f>p!j",+
+"N.KS9}K2",+
+"D)oqXrK",+
+"X'Z",+
+"(",+
+"z9[b",+
+
+// ground truth 
+not(and(and(<let>,<num>),<m0>))

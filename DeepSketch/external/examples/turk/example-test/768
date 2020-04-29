@@ -1,0 +1,25 @@
+// example 
+"pEeAZ",-
+"aUzOeumolEuemi",+
+"uuketojEbarUruvu",+
+"aUzOeumolEuemE",+
+"cEpudaneoi",+
+"sUcaforIxojE",+
+"",-
+"|mi",-
+"f",-
+"|",-
+"GI",-
+"iAxOtapObolAsIsuiA",+
+"cEpudaneoI",+
+"sUcaforIxoji",+
+"lAb",-
+"{7To",-
+"pEeh'",-
+"iAxOtapObolAsIsuio",+
+"Z4h6",-
+"uuketojEbarUruvi",+
+"wO",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),5)

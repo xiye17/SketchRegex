@@ -1,0 +1,14 @@
+// example 
+"",+
+"gX6YG",+
+"b3q",+
+"0glNr-A",+
+"U",+
+"1g*vx~BZ\",+
+"ct_f",+
+"4-1Mhp2,",+
+"&`",+
+"+iV\&4",+
+
+// ground truth 
+not(concat(<m0>,and(<m1>,<vow>)))

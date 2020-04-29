@@ -1,0 +1,25 @@
+// example 
+"E{`Wh\K|P",+
+"k_[YvSd",+
+"C_M~_",-
+"K^|@GQNr",+
+"'q",-
+"HGbS",-
+"T[tBiz",+
+""",-
+"}tS)}",-
+"E{`Wh\K|v",+
+"",-
+"~S+",-
+"[=(",-
+"LmPpw",+
+"T[tBiI",+
+"k_[YvSE",+
+"[4",-
+"HGb@",-
+"LmPpO",+
+"K^|@GQNR",+
+"B",-
+
+// ground truth 
+repeatatleast(startwith(or(<cap>,<let>)),5)

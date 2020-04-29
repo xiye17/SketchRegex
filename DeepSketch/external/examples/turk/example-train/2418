@@ -1,0 +1,14 @@
+// example 
+"",+
+"_wJy?4""",+
+"I/\)=yEyw",+
+"2S^",+
+"w",+
+"o.[s",+
+"3I",+
+"LP{OR",+
+"`.z[WF",+
+"F$*w[)Z",+
+
+// ground truth 
+not(and(and(<cap>,<m0>),<any>))

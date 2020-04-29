@@ -1,0 +1,25 @@
+// example 
+"P"PS",-
+""A",+
+"d!$RE",+
+""U",+
+"OWY",+
+"MCS",-
+"NSG4N",-
+"NSG4G",-
+"",-
+"c",-
+"A&D",+
+"dAZz\",+
+"T",-
+"MCr",-
+"*5LE",+
+"O",+
+"9m",-
+"I",+
+"P"PN",-
+"9<",-
+"*5LU",+
+
+// ground truth 
+contain(and(<cap>,<vow>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"~d{{bPA1",+
+",ItA#~",+
+"tZ.Ad=X",+
+"K9q",+
+"W$rW9",+
+"Tf-QtPto=",+
+"LC",+
+""",+
+"(GfV",+
+
+// ground truth 
+endwith(or(star(<num>),<vow>))

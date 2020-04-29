@@ -1,0 +1,15 @@
+// example 
+"]%Hps;<MvU",+
+"~X|'a'",+
+"Q",+
+""kZc|B:2=",+
+"7dre3$4",+
+"n:+",+
+"'tPP",+
+"Q9`hi",+
+"",-
+"8\",+
+"1'XvW|Oc",+
+
+// ground truth 
+startwith(or(or(<m0>,<any>),<m1>))

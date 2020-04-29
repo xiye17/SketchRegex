@@ -1,0 +1,17 @@
+// example 
+"0",-
+"1lHc<",-
+"8U",+
+"o",-
+"4w",-
+"xVy",-
+"K@Ei",-
+"8E",+
+"1e6."",-
+"",-
+"+W.",-
+"4p",-
+"7IX_",-
+
+// ground truth 
+concat(<num>,or(<m0>,<vow>))

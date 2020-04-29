@@ -1,0 +1,25 @@
+// example 
+"jc",-
+"sAa",+
+"cUG",-
+"[",-
+"iNLr",-
+"fRO~dI",+
+"xA",+
+"",-
+"xI",+
+"g",-
+"rUW-!",-
+"iIeU",+
+"mAOCO",+
+"X^",-
+"$iw",-
+"|bD\z",-
+"mAOCu",+
+"fRO~du",+
+"iNLz",-
+"iIee",+
+"sAi",+
+
+// ground truth 
+concat(repeatatleast(<low>,1),endwith(<vow>))

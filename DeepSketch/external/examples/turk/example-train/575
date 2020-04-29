@@ -1,0 +1,25 @@
+// example 
+"]",-
+"`8E",-
+"3kuu",+
+"`8]",-
+"{CEEf",-
+"qIu",+
+"{CEEN",-
+"Qm",-
+"3kue",+
+"#SAq",-
+"",-
+"eA",+
+"eU",+
+"~_|Ei",+
+"N",-
+"#SAb",-
+"qIE",+
+"{=RJNO",+
+"QK",-
+"~_|EU",+
+"{=RJNU",+
+
+// ground truth 
+concat(contain(<let>),endwith(<vow>))

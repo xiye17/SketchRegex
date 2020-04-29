@@ -1,0 +1,25 @@
+// example 
+"qmxndi",+
+"xmub!",+
+"c!!{",-
+"!!",-
+"xmu!r",+
+"v|-",-
+"!|n!t>l!",+
+"!|",-
+"!cV{~",-
+"!cV{H",-
+"",-
+"t!ot",+
+"!|n!t>lm",+
+"|",-
+"D_$",-
+"t!o!",+
+"qmxnd!",+
+"c!!_",-
+"x",-
+"!F!!~!u",+
+"!F!!!?Y",+
+
+// ground truth 
+repeatatleast(or(startwith(<m0>),<low>),4)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"u]TF1",+
+"m%{&D4",+
+"Ke",+
+"py@",+
+"c}VSWuBu",+
+"4",+
+"w;Q'@{`(c",+
+"3j_?C{k",+
+"EO,\",+
+
+// ground truth 
+not(and(and(<m0>,<vow>),<m1>))

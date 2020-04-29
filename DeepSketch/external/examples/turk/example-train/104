@@ -1,0 +1,16 @@
+// example 
+"'0~%YXMKu",+
+"+(\&.",+
+"TE2#=olW9.C",+
+"E/",+
+"{V2",+
+"+JKp4eyt",+
+"*vRuS0o",+
+"J",-
+"^=,eO.",+
+"Gm`gjP]z_p",+
+"bqv]",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),2)

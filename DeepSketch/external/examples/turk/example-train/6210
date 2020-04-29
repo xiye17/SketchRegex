@@ -1,0 +1,25 @@
+// example 
+"joIKV27E",+
+"2aAefpb695",+
+"94l=",-
+"7jXz6PG",+
+"]nE",-
+"ZKP89fz3r",+
+"ZKP89fz30",+
+"qJ2ssvP6jKM",+
+"}{T5",-
+"",-
+"2@",-
+"2X",-
+"rcE/{",-
+"7jXz6Pc",+
+"2aAefpb69G",+
+"J",-
+"joIKV27t",+
+"z",-
+"qJ2ssvP6jK0",+
+"N|c",-
+"r~HZ{",-
+
+// ground truth 
+repeatatleast(or(<num>,<let>),7)

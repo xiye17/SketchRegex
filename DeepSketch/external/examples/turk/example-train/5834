@@ -1,0 +1,14 @@
+// example 
+"",+
+"*C+$B",+
+"fpB",+
+",RSeK4",+
+"W)Wu",+
+"p$",+
+"4",+
+"/%}/d6_>",+
+"=@27bZ5",+
+"}6`)?/U1v",+
+
+// ground truth 
+star(or(<m0>,endwith(<any>)))

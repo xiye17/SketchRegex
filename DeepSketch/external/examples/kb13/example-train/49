@@ -1,0 +1,16 @@
+// example 
+"6k#5|`"-GPo",+
+"aKCe4A}",+
+"$,",+
+"9_Ay65V|",+
+"\#U>",+
+"9GkYiC",+
+"(Cf",+
+"{gVG(",+
+"])vY57~J$i",+
+"",-
+"K8`~tbpM#",+
+"a",-
+
+// ground truth 
+contain(repeatatleast(<any>,2))

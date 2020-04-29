@@ -1,0 +1,17 @@
+// example 
+":Fci#",-
+"EOp",+
+"G:",-
+"q7_W",-
+"p",-
+"v4(!",-
+"",-
+"A_S",-
+"I7",-
+"?#<",-
+"Uqn",+
+"OA})g",-
+"C",-
+
+// ground truth 
+concat(concat(<vow>,<any>),<low>)

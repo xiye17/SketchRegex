@@ -1,0 +1,25 @@
+// example 
+"s",+
+"u!{.[",+
+"Oa",+
+"v`mb",-
+"tWdG",+
+"y|^4h",-
+"!",+
+"#",-
+"#K",-
+"",-
+"`",-
+"i}P",-
+"\lU'",-
+"sMm",+
+"ue!Y{",+
+"[m",-
+"tWdl",+
+"\X_",-
+"sMH",+
+"!"",+
+"{uqg_",-
+
+// ground truth 
+repeatatleast(or(<let>,startwith(<m0>)),1)

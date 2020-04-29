@@ -1,0 +1,17 @@
+// example 
+"\",-
+"b>",+
+"S'",-
+"OAy&G",-
+"Ihn",-
+"Du",-
+"",-
+"Ezou",-
+"qTDM",-
+"BC8L.",-
+"3}U",-
+"M",-
+"Ac",+
+
+// ground truth 
+concat(or(<vow>,<low>),<any>)

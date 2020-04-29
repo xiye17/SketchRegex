@@ -1,0 +1,25 @@
+// example 
+"}<",-
+"b(?P",+
+"|=;Bj",-
+"n@l",+
+"!",-
+"o[@a$qe2>:>",+
+"g{-%%rq",+
+"",-
+"9!",-
+"F:z",-
+"w#",+
+"|*q",-
+"|s~)",-
+"wc9U?",+
+"y7L`_A",+
+"-32@^",-
+"eE/U;bT8",+
+"f4ScttlWc9",+
+"y",-
+"KDS!",-
+"r;@d/mP+.",+
+
+// ground truth 
+and(not(<let>),startwith(<low>))

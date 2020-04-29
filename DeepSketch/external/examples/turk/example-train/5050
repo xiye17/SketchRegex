@@ -1,0 +1,17 @@
+// example 
+"!UkN^",-
+"!|z@",-
+"!",-
+"!C",-
+"!A",+
+"vL",-
+"!E",+
+"",-
+"Cm&1=",-
+"g",-
+"!Dd",-
+"!+>s",-
+"!LD",-
+
+// ground truth 
+concat(<m0>,or(or(<low>,<vow>),<num>))

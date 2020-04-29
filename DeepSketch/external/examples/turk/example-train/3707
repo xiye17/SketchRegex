@@ -1,0 +1,16 @@
+// example 
+"q3)s",-
+";Rxwl",-
+"]",-
+""c",-
+"R_&",-
+"q}",-
+"MW*'",-
+"v;zPu",-
+"R_H",-
+"L25",+
+"",-
+"B",-
+
+// ground truth 
+concat(concat(<cap>,<any>),<num>)

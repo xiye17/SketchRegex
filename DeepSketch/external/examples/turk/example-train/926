@@ -1,0 +1,25 @@
+// example 
+"dXHy!",+
+"QiO!",+
+"t!",+
+")T`a",-
+"xS!",+
+"_",-
+"[^",-
+"MBTFB!",+
+"",-
+"xn!",+
+"6F",-
+"{Yh)s",-
+"Npl",-
+"MBTFk!",+
+"B!",+
+"7",-
+"Qir!",+
+"dXHV!",+
+"Np{",-
+"^0ii",-
+"!5Tp<",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),<m0>)

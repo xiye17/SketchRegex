@@ -1,0 +1,26 @@
+// example 
+"Nb/ug^C",+
+"Bj@x",-
+">`caH",-
+"JuY",+
+"B_Q/(;",+
+"Y",-
+"Bj@9",-
+"XjAr",+
+"_",-
+"Ns^Uy",+
+"",-
+"Ns^~V",+
+"K{",-
+"F&i",-
+"qr:F^",-
+"F&@",-
+"-[",-
+"B_^2U=",+
+"JF$",+
+"Xj'I",+
+"Nb/U_W-",+
+"YB",+
+
+// ground truth 
+repeatatleast(startwith(<cap>),2)

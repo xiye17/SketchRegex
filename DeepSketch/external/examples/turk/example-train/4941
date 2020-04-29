@@ -1,0 +1,17 @@
+// example 
+"59C",-
+"kdod",-
+"|'i",-
+"W5",+
+"|HY<g",-
+"\L",-
+"",-
+"k:kx",-
+"7m",-
+"v",-
+"WI",+
+"{",-
+",O=$3",-
+
+// ground truth 
+concat(<let>,or(or(<vow>,<m0>),<num>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"p}4",+
+"}uOHo#",+
+"/QKyCu|",+
+"iW)k(G50",+
+"@!_b4XrFR",+
+"f$G-y",+
+"w",+
+"N;",+
+"Ph$h",+
+
+// ground truth 
+not(and(<vow>,<num>))

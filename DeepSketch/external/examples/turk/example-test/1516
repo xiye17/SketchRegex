@@ -1,0 +1,24 @@
+// example 
+"7JcT",-
+"!q!v!i!q!w!e!f!b!t",+
+"!q",+
+"n",-
+"!h!g!t!q!w!o!w",+
+"!",-
+"!Q",-
+"!}",-
+"!l!h",+
+"!r!k!x!s!o!j",+
+"!3xY",-
+"",+
+"!e!p!g",+
+"!g!{X",-
+"!}a",-
+"!t!n!d!m",+
+"0&}",-
+"!|[Ir",-
+"!x!j!r!e!n",+
+"!l!c!r!k!i!e!f!e",+
+
+// ground truth 
+star(concat(<m0>,<low>))

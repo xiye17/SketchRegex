@@ -1,0 +1,17 @@
+// example 
+"U}a",-
+"U*,H",-
+"AF",+
+"W",-
+"SSqwp",-
+"DC=#",-
+"",-
+"'6",-
+"Az",+
+"U",-
+"HeH",-
+"}|",-
+"Fn<<`",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<vow>),<let>)

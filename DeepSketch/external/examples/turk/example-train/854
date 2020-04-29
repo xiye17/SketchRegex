@@ -1,0 +1,25 @@
+// example 
+":Op|I",+
+":"bp",-
+"]8wN",+
+";kkO(S",+
+""'4Bp6F",+
+":"b=",-
+"&hO_kRydU",+
+"",-
+";kkO`Z",+
+""xC!7h",-
+":OpMB",+
+""'4BpvF",+
+"gjK",-
+"=",-
+"V3x;<",-
+"Yo",-
+"&hO_kRyTK",+
+""xC!78",-
+":7JjO4'K",+
+"V3x;{",-
+":7JjO4MC",+
+
+// ground truth 
+concat(repeatatleast(<any>,3),<cap>)

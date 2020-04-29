@@ -1,0 +1,25 @@
+// example 
+"B+",-
+"x{",+
+"bgc~",+
+"bcylT",+
+"c~?}F",-
+"Uqj3|",-
+"ln}",+
+"",-
+"c",-
+"~@",-
+"x]",+
+"{5-#",-
+"xkbanZ",+
+"lnu",+
+"bgce",+
+"bcyls",+
+"xkbanq",+
+"9<d",-
+"#CM2",-
+"w|B",-
+"~",-
+
+// ground truth 
+concat(repeatatleast(<low>,1),or(<num>,<any>))

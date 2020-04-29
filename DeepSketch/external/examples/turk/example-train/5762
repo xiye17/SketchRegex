@@ -1,0 +1,16 @@
+// example 
+"",+
+"iUBc",+
+"qmU",+
+"G^p]",+
+"o&NF)",+
+"5",+
+"}zmYw",+
+"w",-
+"Lv",+
+"~x",+
+"|",+
+"?)b",+
+
+// ground truth 
+or(not(<low>),and(and(<cap>,<m0>),<num>))

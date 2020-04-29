@@ -1,0 +1,24 @@
+// example 
+"r1",-
+"KR%5",-
+"TS.MaK",+
+"INhUPO+S",+
+"}N:C@O\K2I<AiE$U",+
+"}F"YiG?LmZzTAX*X3Y",+
+"jOC"~",-
+"jOCl#",-
+"9Y;OfL=BIXPF)ChWJD)M",+
+"-Jt",-
+"(WTN",+
+"",-
+"-gF",-
+"DL",+
+"K]XO",-
+"yCYCvLED^TrQ",+
+"7GnY4I5GBZ0UhH",+
+"rl",-
+"WTDA.YSLcR",+
+"E",-
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),1)

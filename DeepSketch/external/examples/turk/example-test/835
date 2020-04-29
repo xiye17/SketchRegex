@@ -1,0 +1,25 @@
+// example 
+"!Y\rE",+
+"!~zN",-
+"T\{]ef!",+
+"L[|",-
+"|FU\",-
+"V",-
+"!Y\r!",+
+"WK'z!!%D",+
+"",-
+"[`",-
+"J)^!xg",+
+"WK'z9!Qg",+
+"L[W",-
+"!!!c",+
+"!!!!",+
+"%m",-
+"T\{]efU",+
+"d9{Hd",-
+"{",-
+"J)^!xC",+
+"d9{H\",-
+
+// ground truth 
+repeatatleast(startwith(or(<m0>,<let>)),4)

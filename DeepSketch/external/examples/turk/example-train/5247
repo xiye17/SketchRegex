@@ -1,0 +1,26 @@
+// example 
+"r",-
+"F",+
+"dz>T",+
+"8c^Q,",-
+"dZ",+
+"gkw2",-
+"*",-
+"gkwa",-
+"`IL",+
+"H.Hd&J",+
+"I/)",-
+"%5v=U",+
+"",-
+"`vU",+
+"b6",-
+"%5vhO",+
+"dzuQ",+
+"bv",-
+"I/[",-
+"H.HdCA",+
+"5G",+
+"8c^Q{",-
+
+// ground truth 
+endwith(repeatatleast(<cap>,1))

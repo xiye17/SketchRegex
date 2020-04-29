@@ -1,0 +1,15 @@
+// example 
+"",+
+"Ms?y7W",+
+"z<`~kD)!",+
+"a7ZuA",+
+"F@(XFm.B:6",+
+"X}g^",+
+"]f",+
+"Ml_w>q`",+
+">*Bd=0*w?",+
+"zh>",+
+"z",-
+
+// ground truth 
+not(or(or(<cap>,<any>),<vow>))

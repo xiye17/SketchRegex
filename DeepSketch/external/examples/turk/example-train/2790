@@ -1,0 +1,17 @@
+// example 
+"i0VX>",-
+"s0",-
+"k6;",-
+"n7M",+
+"",-
+"sr",-
+"x&0B",-
+"}",-
+"P",-
+"|?$",-
+"i0sE[",-
+"X}a$",-
+"n7n",+
+
+// ground truth 
+concat(<low>,concat(<num>,<let>))

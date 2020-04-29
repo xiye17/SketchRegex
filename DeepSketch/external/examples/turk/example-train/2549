@@ -1,0 +1,25 @@
+// example 
+"`_L5?MAk",+
+"{y",-
+"{R",-
+"\hINa",+
+"}}_",-
+"t}m|",-
+"6O^|Sgg",+
+"[u+`~",-
+"",-
+"Wlvw",+
+"`_L5?MAJ",+
+"}",-
+"[u+`W",-
+"\hINW",+
+"t}m3",-
+"\LY\Wz",+
+"}}|",-
+"\LY\WS",+
+"6O^|SgV",+
+"H",-
+"WlvY",+
+
+// ground truth 
+repeatatleast(contain(endwith(<let>)),4)

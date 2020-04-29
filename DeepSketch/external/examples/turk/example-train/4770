@@ -1,0 +1,25 @@
+// example 
+"eOuDU!",-
+"uuO",+
+"uug",+
+"l",+
+"HvxA!",-
+"a",+
+"OrO!",-
+"tEeDE",+
+"a!",-
+"ue!",-
+"tEeDK",+
+"",+
+"Hvxe!",-
+"OA",+
+"aEEp",+
+"i!",-
+"aEEo",+
+"eOuDe!",-
+"OE",+
+"Ore!",-
+"uU!",-
+
+// ground truth 
+not(endwith(concat(<vow>,<m0>)))

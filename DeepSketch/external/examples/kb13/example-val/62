@@ -1,0 +1,25 @@
+// example 
+"G!}CK",+
+"/86&W++",-
+">!mp/c",+
+"2}zBXF",-
+"FFZ,N<Cy",-
+"GU",-
+"HGWp",-
+"!<NR",+
+"Su~!",+
+")<s",-
+"!",+
+"!lGVT,",+
+"!x1C!",+
+"",-
+"/2!",+
+"!Q",+
+"9",-
+"+%`Ot",-
+"B!",+
+"!)k",+
+"OAv\.(@#K",-
+
+// ground truth 
+contain(concat(star(<let>),<m0>))

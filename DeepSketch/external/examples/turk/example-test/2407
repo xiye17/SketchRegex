@@ -1,0 +1,17 @@
+// example 
+"[p;tG",-
+"@Up",-
+"?B",-
+"bp",+
+"+j!,",-
+"",-
+"}",-
+"}2^",-
+"n|9G",-
+"I",-
+"]B",-
+"Nr",+
+"qvf|6",-
+
+// ground truth 
+concat(or(or(<cap>,<vow>),<let>),<low>)

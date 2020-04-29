@@ -1,0 +1,15 @@
+// example 
+"",+
+"df1#OX7",+
+"b?Tzw![DcD",+
+")nC",+
+"Kp-[",+
+"<",-
+"yw",+
+"K#1Sb+~a",+
+"%^#&a",+
+"!KVx4>l}`",+
+"yw?<7a",+
+
+// ground truth 
+not(or(<any>,<low>))

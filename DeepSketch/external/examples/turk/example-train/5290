@@ -1,0 +1,17 @@
+// example 
+"o",-
+"P,",-
+"F4",+
+"F!",+
+"(Y\!",-
+"",-
+"A3(",-
+"<",-
+"Pm",-
+"A~(",-
+"-7lg{",-
+"BVjv}",-
+"zX$T",-
+
+// ground truth 
+concat(<cap>,or(<num>,<m0>))

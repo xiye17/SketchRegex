@@ -1,0 +1,14 @@
+// example 
+"",+
+";",+
+"-AqQ",+
+"T*.'xx%",+
+"@<",+
+"95-",+
+"\d=}q&'+",+
+"b3yW]u5'R",+
+"'9w8x",+
+"#x4a#`",+
+
+// ground truth 
+not(and(and(<num>,<low>),<m0>))

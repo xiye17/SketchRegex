@@ -1,0 +1,25 @@
+// example 
+"[",-
+"XOHeeuSN",+
+"XOHLP9F@",+
+"kpV",-
+"~:",-
+"]u+li",-
+"6M",-
+"nDye6",+
+"iwjvE_",+
+"AkA\",-
+"",-
+"}",-
+"kT`\=",-
+"HoPC6wv",+
+"-r{",-
+"nDyCK",+
+"iwjV_b",+
+"PLCC",+
+"HoPnk5%",+
+"PLCz",+
+"AkA<",-
+
+// ground truth 
+startwith(repeatatleast(<let>,4))

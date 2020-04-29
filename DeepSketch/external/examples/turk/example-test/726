@@ -1,0 +1,17 @@
+// example 
+"o!\",-
+"gW!",-
+"g-&YT",-
+"d=",-
+"oztUg",-
+"rZ:3",-
+"",-
+"g",-
+"i",-
+"jtwW",-
+"i!",+
+"e0",-
+"o!",+
+
+// ground truth 
+concat(and(<low>,<vow>),<m0>)

@@ -1,0 +1,17 @@
+// example 
+"kY",+
+"\vL",-
+"bx@P",-
+"g'08`",-
+"bEAE",-
+"(",-
+"|2-",-
+"^",-
+"",-
+"RM",+
+"r~",-
+".e",-
+"5y^q}",-
+
+// ground truth 
+concat(and(<any>,<let>),<cap>)

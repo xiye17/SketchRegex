@@ -1,0 +1,25 @@
+// example 
+"AGgH5!",+
+"u",-
+"o",-
+"[#|#7",-
+"o{",-
+"Aq$.=)",+
+"uf3",+
+"",-
+"uFk",+
+"o7iV",+
+"EU;io",+
+"O~|",-
+"ac",+
+"Uw",+
+"op2_",+
+"o|R+",-
+"O~T",-
+"o|R}",-
+"R?emi",-
+"EUl2s",+
+"o`",-
+
+// ground truth 
+concat(<vow>,contain(<low>))

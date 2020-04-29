@@ -1,0 +1,25 @@
+// example 
+"]2i8",-
+"|-J",-
+"~VB0u",-
+"_R",-
+"Zh{",+
+"",-
+"`",-
+"D+",+
+"{-",-
+""<UF\",-
+"{I[o",-
+"G&7E",+
+"msP",+
+"ba48j",+
+"8",-
+"sCyD",+
+"Q",+
+"+b:",-
+"pj",+
+"PWbTE",+
+"y",+
+
+// ground truth 
+concat(<let>,contain(not(<low>)))

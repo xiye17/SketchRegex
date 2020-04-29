@@ -1,0 +1,25 @@
+// example 
+"e4a",-
+"o0^in",-
+"i9u1A7u4o4",+
+"e4a8I4",+
+"gW",-
+"e4a8u5",+
+"a"",-
+"elh",-
+"O9",+
+"",-
+"U4q#",-
+"kMFg",-
+"f",-
+"A7a6",+
+"A9",+
+"A7O9",+
+"i9u1A7u4A2",+
+"o0dki",-
+"e4E5o7U2",+
+"e4E5o7O0",+
+"D",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),1)

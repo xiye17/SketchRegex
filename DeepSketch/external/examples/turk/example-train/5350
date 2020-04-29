@@ -1,0 +1,15 @@
+// example 
+"",+
+"t}\",+
+"F[AM",+
+"B:|Tn@b+",+
+":6~$d6[Hg",+
+"`A&/*e@YY~",+
+"=",-
+")}",+
+"xpoFQ",+
+"~xrBUYA",+
+"T|(%&v",+
+
+// ground truth 
+not(or(or(<cap>,<vow>),<any>))

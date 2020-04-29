@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"@4MCbgb",+
+"o5",-
+"n",-
+"i!I",-
+"@s<da^d=7",+
+"",-
+"u!IV",-
+"EW",-
+"L{q{q",-
+"A!",+
+"@lgP#`",+
+"A",-
+"@(N~",+
+"@DhLf",+
+"@~,",+
+"Sx:*",-
+"@S8?:OuI",+
+"i/x",-
+"j'NW+",-
+"@",+
+
+// ground truth 
+or(concat(<vow>,<m0>),startwith(<m1>))

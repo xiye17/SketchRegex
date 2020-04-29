@@ -1,0 +1,17 @@
+// example 
+"A{k",-
+"O{",+
+"rMXR9",-
+"q",-
+"C.]#",-
+"",-
+"B0",-
+"j=j",-
+"%",-
+"oB",+
+"v^",-
+"d0uUl",-
+">=2,",-
+
+// ground truth 
+concat(<vow>,or(<any>,<let>))

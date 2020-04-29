@@ -1,0 +1,20 @@
+// example 
+"@i2*jv!5C>M",+
+"Lw5#;V",+
+""Dh:_W4Rz\y.",+
+"",-
+"0BD{86/=",+
+"gPF[",-
+"h?!}C#AUk<",+
+"xx6Ljcea3OnfK=n",+
+"7",-
+"5A",-
+"t:c+E",-
+"?5xCVS'TdZ2>JF",+
+":Sy.uC#:lM}*l",+
+"OA[",-
+"'`)30*7Lt",+
+"V=FkT^B",+
+
+// ground truth 
+repeatatleast(endwith(<any>),6)

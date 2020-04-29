@@ -1,0 +1,17 @@
+// example 
+"H|2D.",-
+"yma",+
+"9(7,#",-
+"^",-
+"",-
+"C~J9",-
+"]I",-
+"H99",-
+"[Lm",-
+"u_",-
+"S",-
+"C]jF",-
+"ymA",+
+
+// ground truth 
+concat(concat(<let>,<low>),<vow>)

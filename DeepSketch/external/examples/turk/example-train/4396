@@ -1,0 +1,25 @@
+// example 
+"TiaoMi",+
+"$cEuuaoi",+
+"u^SotaugVi",+
+"_|Yo",-
+"!"1Piaiiu",+
+"n",-
+"yDuuuae",+
+"@\]c(",-
+"$cEuuaoB",+
+"u^SotaugVu",+
+"cOo",-
+"@\]cl",-
+"",-
+"cO6",-
+"a=",-
+"i",-
+"_|Yi",-
+"yDuuuaJ",+
+"ae",-
+"!"1PiaiiE",+
+"TiaoMo",+
+
+// ground truth 
+repeatatleast(or(contain(<cap>),<vow>),6)

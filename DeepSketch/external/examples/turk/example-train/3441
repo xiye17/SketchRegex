@@ -1,0 +1,25 @@
+// example 
+"ju",+
+"nwq[",-
+"a",+
+"ji",+
+"nwqq",-
+"bj|",-
+"",-
+"||",-
+"P",-
+"|g",-
+"e",+
+"hr_m(",-
+"j",-
+"biH",+
+"|bdo",+
+"{geD(",+
+"hr_mm",-
+"bjj",-
+"{i$X|",+
+"eIe5",+
+"bse",+
+
+// ground truth 
+contain(and(and(<low>,<let>),<vow>))

@@ -1,0 +1,26 @@
+// example 
+"6}Tr",+
+"7=ak~",-
+"9e#b|b",+
+"#8",-
+"qTG|",-
+",",-
+"7vt",+
+"3a\|v",+
+"6|",-
+"",-
+"7{p",+
+"1QIer'g",+
+"1QIerrn",+
+"6p",+
+"9e#bqw",+
+"!_80",-
+"6",-
+"7=ak!",-
+"3a\Ie",+
+"6}{z",+
+"3hZ",-
+"QRe",-
+
+// ground truth 
+concat(<num>,endwith(<low>))

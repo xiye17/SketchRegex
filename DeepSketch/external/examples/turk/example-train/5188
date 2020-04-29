@@ -1,0 +1,24 @@
+// example 
+"LgYO",+
+"KwJ!icB(",+
+"Mxu]Xeti_",+
+"]",-
+"G{",-
+"MUUZQ",-
+"M~}`r",-
+"6l$",-
+"HE1B",-
+"EpITalzSX3",+
+"gxi",-
+"",+
+"Dx",+
+"H|Av",-
+"Hf0",+
+"9",-
+"]M",-
+"Du!FI",+
+"Xj#x&j",+
+"Zl`.6xF",+
+
+// ground truth 
+star(startwith(concat(<cap>,<low>)))

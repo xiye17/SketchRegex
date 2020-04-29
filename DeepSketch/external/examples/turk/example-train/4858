@@ -1,0 +1,17 @@
+// example 
+"N%#y",-
+"K3t",+
+"u[",-
+"eE^V",-
+"90@/(",-
+"X1|",-
+"X1>",-
+"",-
+"w=&?0",-
+"K3U",+
+"%m",-
+"z",-
+"H",-
+
+// ground truth 
+concat(concat(<cap>,<num>),<let>)

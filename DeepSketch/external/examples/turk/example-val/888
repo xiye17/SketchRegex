@@ -1,0 +1,25 @@
+// example 
+"{#}:",-
+"F",+
+"*&8o",-
+"+"];s",-
+"e?T{",+
+"Cpe",+
+"pp"",+
+"6Sv",-
+"lB-iM",+
+"",-
+"`",-
+"%",-
+"_N",-
+"a}",+
+"}QwF7",-
+"G}Lq",+
+"w",+
+"Zh",+
+"~/",-
+"PSrk}",+
+"~ls",-
+
+// ground truth 
+concat(startwith(<let>),not(<low>))

@@ -1,0 +1,17 @@
+// example 
+"!@al",-
+"!t",-
+"v!bW",-
+"J(L",-
+"!+%pk",-
+"!",-
+"",-
+"!@",-
+"j",-
+"!dR",-
+"!@O",+
+"!@U",+
+"w_%KO",-
+
+// ground truth 
+concat(concat(<m0>,<m1>),<vow>)

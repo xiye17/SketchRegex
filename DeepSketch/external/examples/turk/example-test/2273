@@ -1,0 +1,14 @@
+// example 
+"",+
+"[",+
+"7\Ec<*",+
+"_Iz9ZLmc",+
+"('{b",+
+"FpC",+
+"a<foE",+
+"5cb$(t!",+
+"X\OWnJ,BU",+
+".Q",+
+
+// ground truth 
+not(and(<cap>,<m0>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"$zjel98",+
+"2k#",+
+"RhU,",+
+"3t`OPgTm",+
+"oGe<'&}./",+
+")Mc21D",+
+"wG8uR",+
+"C",+
+">4",+
+
+// ground truth 
+endwith(star(concat(<cap>,<low>)))

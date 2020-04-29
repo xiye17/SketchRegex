@@ -1,0 +1,18 @@
+// example 
+"b:&,'$)0",+
+"ZM3igf'CB%",+
+"!R",-
+"}!bZ#pd",+
+"4A2!nui9NX.",+
+";+C",-
+"e",-
+"",-
+"Z)89",+
+"`~5o8[`{i<L?",+
+"p/~s%",+
+"rN[9#gsu>",+
+"W9XVj9gg'9OC0",+
+"_kKp#-",+
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),4)

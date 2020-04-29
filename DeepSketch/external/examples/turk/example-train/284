@@ -1,0 +1,25 @@
+// example 
+"U.AFaO",+
+"_B",-
+"uld",-
+"OxEGUuE;",+
+"ehE9I!UcaN",+
+"b%",-
+"e&eg",+
+"G<,8",-
+"~O#p",-
+"e&as",+
+"OxEGUuo}",+
+"ehE9I!Uce=",+
+"U.AFUQ",+
+"",-
+"|",-
+"h",-
+"oXb*m",-
+"o'",+
+"oXs>G",-
+"ulH",-
+"i%",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),1)

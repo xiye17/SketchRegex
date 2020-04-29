@@ -1,0 +1,17 @@
+// example 
+"y6",-
+"o$X",-
+"u",-
+"o1;",-
+"o0",+
+"?VGhU",-
+"!",-
+"aBp^",-
+"a4c#",-
+"n?B:"",-
+"",-
+"3.",-
+"i4",+
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<vow>),<num>)

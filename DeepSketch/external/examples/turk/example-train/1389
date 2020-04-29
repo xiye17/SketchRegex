@@ -1,0 +1,25 @@
+// example 
+"I7]",-
+"En[@{",-
+"a<Xtx\~ax",+
+"g#",-
+"i~`^?XLUEE",+
+"U\eoaWru",+
+"Q;V?",-
+"awVpVK",+
+"En[@E",-
+"gGf{",-
+"a<Xtx\~aM",+
+"d",-
+"U|SMgdw",+
+"",-
+"D"",-
+"awVpVu",+
+"U\eoaWrR",+
+"i~`^?XLUEk",+
+"U|SMgdR",+
+"H",-
+"I7{",-
+
+// ground truth 
+concat(<vow>,repeatatleast(endwith(<let>),5))

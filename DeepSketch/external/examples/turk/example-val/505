@@ -1,0 +1,24 @@
+// example 
+"6h",-
+"*bwgji",+
+"Ivuzsxdsb",+
+"~~@n",-
+"t~Yc~",-
+"6{",-
+"!yyjvzodnso",+
+"d",-
+"Cdoohzz",+
+"dblenvwmkatcx",+
+"",-
+"tn4.j",-
+"n~`",-
+"Ssmzwthlyv",+
+";eehjlfzemisip",+
+";avaqtwrwkyi",+
+"~[r;",-
+"!jmkmbxj",+
+"n4X",-
+"%scccugyroberdl",+
+
+// ground truth 
+concat(<any>,repeatatleast(<low>,5))

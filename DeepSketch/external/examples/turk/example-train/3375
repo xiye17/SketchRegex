@@ -1,0 +1,17 @@
+// example 
+"aP6",-
+"]z10",-
+"g<wr8",-
+"aFX",+
+"",-
+"Kz",-
+"<",-
+"G=<#",-
+"v\",-
+"M",-
+"aPl",-
+"VN~I'",-
+"I1B",+
+
+// ground truth 
+concat(concat(<vow>,<any>),<cap>)

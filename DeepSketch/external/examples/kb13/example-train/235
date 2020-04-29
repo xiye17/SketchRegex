@@ -1,0 +1,25 @@
+// example 
+"yqmzu",+
+"EOjY@BO",+
+"P1O^AMJO",+
+"OFll",+
+"B/",-
+"yqmR,",+
+"*",-
+"G|^J",-
+"{lR",-
+"{l^",-
+"YN8}}",-
+"[SyiU9",+
+"",-
+"[Syirj",+
+"EOju1kr",+
+"YN8}l",-
+"P1O^AMJn",+
+"BZ",-
+"OFlP",+
+"{",-
+"G|^[",-
+
+// ground truth 
+contain(repeat(<let>,4))

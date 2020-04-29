@@ -1,0 +1,24 @@
+// example 
+"e!d!c!d!v!l!m!l!z!",+
+"t!Sr",-
+"n",-
+"b!gH8",-
+"xK",-
+"}[(",-
+"a!e!y!n!d!z!p!d!",+
+"",+
+"n!z!o!w!",+
+"rF#",-
+"h!z!d!h!t!e!",+
+"d!l!n!u!r!m!y!",+
+"w!",+
+"[G")",-
+"b!GTj",-
+"m!v!i!",+
+"a!r!o!w!b!",+
+"|!",-
+"{",-
+"n!j!",+
+
+// ground truth 
+star(concat(<low>,<m0>))

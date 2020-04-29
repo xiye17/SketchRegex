@@ -1,0 +1,15 @@
+// example 
+"",+
+"9@B",+
+"!X7",+
+"4",+
+"!R*=j",+
+"dG",+
+"!",-
+"!&",+
+"kloT1",+
+"!vfU",+
+"CK~l",+
+
+// ground truth 
+repeatatleast(not(<m0>),2)

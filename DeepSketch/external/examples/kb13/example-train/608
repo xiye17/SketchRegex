@@ -1,0 +1,25 @@
+// example 
+"\",-
+"}ieNO",+
+"[>\**",-
+"CPR",+
+"}iejS",+
+"",-
+"|T^H",-
+"g",-
+"\~",-
+"|T^s",-
+"[>\*{",-
+"N}i",-
+"daEJ",+
+"U]BZP0y",+
+"]_iSeP",+
+"dai_",+
+"]_iSC?",+
+"CPx",+
+"U]BZtp1",+
+"\_",-
+"N}}",-
+
+// ground truth 
+contain(repeat(<let>,3))

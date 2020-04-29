@@ -1,0 +1,17 @@
+// example 
+"IX",+
+"G",-
+".",-
+"Ex.~",-
+"Ou",-
+"",-
+"Rkynr",-
+"AB+FS",-
+"O/",-
+"O&]",-
+"E@^z",-
+"OzS",-
+"bN",+
+
+// ground truth 
+concat(or(or(<low>,<m0>),<vow>),<cap>)

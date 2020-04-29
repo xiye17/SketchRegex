@@ -1,0 +1,15 @@
+// example 
+"0(vK",-
+"##",-
+"T}AX!",-
+".V'/'kc",-
+"G[J%~u~6",-
+"ghZb;=uRV",-
+"ilA-2^,3gX",-
+"6@2VM'",-
+"wbO",-
+"&",+
+"",-
+
+// ground truth 
+or(or(<let>,<any>),<num>)

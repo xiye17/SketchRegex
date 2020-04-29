@@ -1,0 +1,20 @@
+// example 
+"LH$qKKcpO",+
+"'}9`"U@Aw:D",+
+"O>Q&4",-
+"_NOg\!lG0e",+
+"=[v(tGJ_@/yP",+
+"^",-
+"+@IVqK",+
+"",-
+"vQ"6=44P",+
+"w=;+",-
+"_Jdi}zI",+
+"C>o",-
+"SAL4\:hH-*Pg6r",+
+"jTG!JJa"A-"VS*+",+
+"@J",-
+"V%60Yxv91k@KL",+
+
+// ground truth 
+repeatatleast(startwith(<any>),6)

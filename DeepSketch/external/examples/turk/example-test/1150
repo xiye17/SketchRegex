@@ -1,0 +1,26 @@
+// example 
+"IQ!",+
+"Jt9r",-
+"r|eB!",+
+"O!|qq{{",+
+"OS"{(G!",+
+"!Q,$M",-
+"-",-
+"Jt9N",-
+"RFL!",+
+"r|7I!",+
+"",-
+"P!",+
+"O",-
+"VX",-
+"[DP(V!",+
+"RF!'",+
+"!Q,$b",-
+"[DP!V-",+
+"Va",-
+"I!!",+
+"X2r",-
+"X28",-
+
+// ground truth 
+contain(concat(<cap>,<m0>))

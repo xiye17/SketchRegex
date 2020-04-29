@@ -1,0 +1,16 @@
+// example 
+"(9u",+
+"J4o]",-
+"(9i",+
+"pB",-
+"Y",-
+"ekv0,",-
+"J$Om",-
+"p%",-
+"e&qwl",-
+"*,=",-
+"",-
+"*XN",-
+
+// ground truth 
+concat(<any>,concat(<num>,<vow>))

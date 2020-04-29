@@ -1,0 +1,25 @@
+// example 
+"SVHEEo",+
+"u",-
+"r`",-
+"XdIVHGARS",+
+"rI",-
+"xlViTewE",+
+"fJQqkOf",+
+"xlViTews",+
+"MLs",-
+"C^qkW",-
+"",-
+"XdIVHGARp",+
+"MTLfazvmXN",+
+"|",-
+"}23U",-
+"q7_6",-
+"MTLfazvmXw",+
+"^[l5/",-
+"SVHEER",+
+"fJQqkOW",+
+"ML\",-
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),6)

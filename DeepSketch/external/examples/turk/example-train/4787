@@ -1,0 +1,14 @@
+// example 
+"",+
+"[",+
+"cS1mN"$/\",+
+"Gw@",+
+",6waY",+
+"bWAh",+
+"C[<dy/",+
+"^?`^.$*P",+
+"ZZ",+
+"<![?aAB",+
+
+// ground truth 
+repeatatleast(contain(not(<low>)),2)

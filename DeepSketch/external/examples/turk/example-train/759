@@ -1,0 +1,25 @@
+// example 
+"TrMwJW!",+
+"InAbpuU!",+
+"Q+*",-
+"`BLQ",-
+"V",-
+"i{",-
+"iC",-
+"QwR!",+
+"MQmFI!",+
+"",-
+"c",-
+"FEAx!",+
+"|>NQ",-
+"TrMwJl!",+
+"75s[~",-
+"{&o-W",-
+"QiX",-
+"Qwo!",+
+"MQmFf!",+
+"InAbpuq!",+
+"FEAZ!",+
+
+// ground truth 
+concat(repeatatleast(<let>,3),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"]",-
+"r.X",-
+"#T",-
+"a",+
+"PAFB",+
+"",-
+"IDNCy",+
+"b",-
+"rR",-
+"KP2]N",-
+"GJ~N",-
+"Ic",+
+"DTI",+
+"E(wJ,",+
+"K[9;n",-
+"*@,",-
+"EjJH",+
+"}t{N",-
+"u",+
+"FM",+
+"OpY",+
+
+// ground truth 
+or(repeatatleast(<cap>,1),startwith(<vow>))

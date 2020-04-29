@@ -1,0 +1,14 @@
+// example 
+"",+
+")z",+
+"ixAUoW",+
+"U2~'",+
+"6",+
+"%imK%:,",+
+"V2ro-Q%xE",+
+"PPfU+M6|",+
+"pT\",+
+"~LNj>",+
+
+// ground truth 
+star(or(endwith(<any>),<num>))

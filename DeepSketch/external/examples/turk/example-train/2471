@@ -1,0 +1,26 @@
+// example 
+"EeoE1",+
+"q+1P9",-
+"u",-
+"OiEEO8",+
+"Euie",-
+"OiEEa5",+
+"a{*",-
+"B-",-
+"",-
+"a",-
+"UIE3",+
+"7",+
+"i1",+
+"EeoA0",+
+"a4b",-
+"OI4",+
+"UIo0",+
+"EuiI",-
+"Oi9I?",-
+"OO7",+
+"-P",-
+"a3",+
+
+// ground truth 
+concat(star(<vow>),<num>)

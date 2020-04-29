@@ -1,0 +1,24 @@
+// example 
+"FZU",+
+"FISXQHR",+
+"VNEI",+
+"h]",-
+"!Nn",-
+"ENISZ",+
+"!'F:7",-
+"!",-
+"MQHNEM",+
+"",+
+"RFYUEDPP",+
+"H&E^",-
+"d|K<F",-
+"JF",+
+"S",+
+"z-[",-
+"!%",+
+"!DC]",-
+"~",-
+"9z",-
+
+// ground truth 
+or(star(<cap>),concat(<m0>,<any>))

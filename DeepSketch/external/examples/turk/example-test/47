@@ -1,0 +1,19 @@
+// example 
+"=!B!V!_!r!f!",+
+"TTSS",-
+"b!y!.!D!-!E!5!{!h!",+
+"_!q!q!Q!C!(!g!2!",+
+"t",-
+"T!U!",-
+"W!",-
+"W*",-
+"",-
+"q!E!r!C!K!E!a!^!g![!",+
+"9az",-
+"X!B?d",-
+"X!B!?",-
+"4!k!E!z!P!c!Y!",+
+"9!g",-
+
+// ground truth 
+repeatatleast(concat(<any>,<m0>),6)

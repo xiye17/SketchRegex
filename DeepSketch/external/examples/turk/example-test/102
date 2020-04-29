@@ -1,0 +1,17 @@
+// example 
+"7f~6*",-
+"{qE",-
+"5",-
+"0o!",+
+"5O!J",-
+"0I!",+
+"",-
+"!Z$",-
+"5H+l",-
+""9",-
+"7zAp*",-
+"VZ",-
+"x",-
+
+// ground truth 
+concat(<num>,concat(<vow>,<m0>))

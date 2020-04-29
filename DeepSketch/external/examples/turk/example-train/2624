@@ -1,0 +1,25 @@
+// example 
+"3nX"X",-
+"1",-
+"4AK",+
+"2Nj_V(",+
+".G",-
+"/]9E$",-
+"1N8%VP&B",+
+"9X=7",+
+"aY",-
+"",-
+"1C`#!S|",+
+"8fZ",-
+"1Su_WO-yvh",+
+"7P",+
+"1h4C",-
+"8TYO5]7",2x",+
+"?",-
+"0Y8^C",+
+"8/b",-
+"1?gB",-
+"2IBuPnkEl",+
+
+// ground truth 
+startwith(concat(<num>,<cap>))

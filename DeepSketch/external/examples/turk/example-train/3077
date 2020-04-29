@@ -1,0 +1,18 @@
+// example 
+"d",-
+"",-
+"{c",-
+"u/sd.m%",+
+"rS$'n\Y>>",+
+"d$5R",+
+"NdKfYD",+
+"BcGT9WCdVT",+
+"6Y>",-
+"El,T.",+
+"v/F:dxP*l]gm",+
+"$_UEqm!Ogh!",+
+"`KB5E9Xd",+
+"e;Tw?6pcJLa~,",+
+
+// ground truth 
+repeatatleast(or(<low>,<any>),4)

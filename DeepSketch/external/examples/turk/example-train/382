@@ -1,0 +1,24 @@
+// example 
+"A5R7R2W9Q7S7",+
+"E9G3D9D2C3U1C8",+
+"T8X0X0Y6J1N9P4L3N9",+
+"J'T|Q",-
+"J4Al:",-
+"Q2I6C1H0A9Z4Z1Z9",+
+"(bZG",-
+"d",-
+"J3O0B4D1",+
+"W,",-
+"blw",-
+"",+
+"<",-
+"T5M2B0",+
+"V4",+
+"K2L8",+
+"WF",-
+"Q9T9L9H5W5",+
+"gO^n",-
+"&Z1",-
+
+// ground truth 
+star(concat(<cap>,<num>))

@@ -1,0 +1,25 @@
+// example 
+"n3c",-
+"\o",+
+"uHT0",+
+"bu:",+
+"tc",-
+"tgv0",-
+"ih`z",+
+"l",-
+"djzR}",-
+"\u",+
+"",-
+"g",-
+"tgvg",-
+"jiLzT",+
+"i",+
+"t)",-
+"jukNk",+
+"u",+
+"n3s",-
+"be?",+
+"djzRd",-
+
+// ground truth 
+contain(and(and(<low>,<vow>),<any>))

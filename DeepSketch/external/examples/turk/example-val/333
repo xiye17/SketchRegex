@@ -1,0 +1,25 @@
+// example 
+"0aNEUeY",+
+"0aNEUAR",+
+"epLoeOND",+
+"I<a",-
+"cRIiH",-
+"l",-
+"hmho",-
+"LToaoP",+
+"",-
+"hmhs",-
+"epLoeOeY",+
+"LToaeV",+
+"uOoN",+
+"HU",-
+"cRIi^",-
+"A",-
+"uOeF",+
+"I<J",-
+"joieP",+
+"HI",-
+"joiiA",+
+
+// ground truth 
+contain(concat(repeatatleast(<vow>,3),<cap>))

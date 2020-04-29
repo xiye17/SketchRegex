@@ -1,0 +1,16 @@
+// example 
+"HW",-
+"q^x"H^",-
+"P!",+
+"]6j?",-
+"B!""@",-
+"am7",-
+"a!N",-
+"]!R=",-
+"q!{vsh",-
+"",-
+"BOKR.",-
+"D",-
+
+// ground truth 
+concat(or(or(<cap>,<num>),<any>),<m0>)

@@ -1,0 +1,16 @@
+// example 
+"",+
+"jxk=0=Q",-
+"Gmes\M\#",-
+"d",+
+"`gQ5X;",-
+"CU4'S5IyHZe",-
+"IC"Z~:*dN",-
+"5CnNr",-
+"_,`G",-
+"l6_$c2Fh#A",-
+"?b'",-
+"ih",-
+
+// ground truth 
+not(repeatatleast(endwith(<any>),2))

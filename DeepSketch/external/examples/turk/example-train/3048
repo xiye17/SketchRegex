@@ -1,0 +1,25 @@
+// example 
+"\",-
+"E",+
+"a0",+
+"e80L$",-
+"j8+!",-
+"8~V9[",-
+"L&|u2KTA",+
+">J",-
+"T2\gDy",+
+"N.[.",+
+"Ll4_z",+
+"MoL27S*",+
+"",-
+"b",-
+"`;c",-
+"W2;h'C]h*",+
+"~yP",-
+"jEG\",-
+"I]",+
+"S}E",+
+"]z",-
+
+// ground truth 
+or(startwith(<cap>),concat(<low>,<num>))

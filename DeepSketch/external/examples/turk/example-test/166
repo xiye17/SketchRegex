@@ -1,0 +1,17 @@
+// example 
+"bR",+
+"|E}",-
+"u[",-
+"Fy_\b",-
+"'s",-
+"|~N'",-
+"ZE",+
+"'F+J",-
+"",-
+")",-
+"\HN",-
+"|",-
+"F(swu",-
+
+// ground truth 
+concat(or(<let>,<low>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"E",+
+"n*",-
+"t",-
+"UTn%L",+
+"FW8<M",-
+"5'd",-
+"ey:",+
+"EF@",+
+"",-
+"b",-
+"0;",-
+"J[P1",-
+"i",+
+"OD",+
+"e'Bcu",+
+"e]",+
+"SlA_/",-
+"B"t7",-
+"I14g",+
+"UKNg",+
+"Sr>",-
+
+// ground truth 
+concat(<vow>,contain(star(<cap>)))

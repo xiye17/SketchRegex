@@ -1,0 +1,26 @@
+// example 
+"Rm{|",-
+"V|",-
+"Aaz",+
+"OX3{{",-
+"X!~c",+
+"\7",-
+"k",-
+"X{/}b",+
+"A"7x%}l",+
+"",-
+"A~u",+
+"N",-
+"X!Nz",+
+"RgfZ>o",+
+"J)7",-
+"kYznO",-
+"Lz",+
+"RgfZmq",+
+"A"7x%zp",+
+"J){",-
+"Rm{Y",-
+"X{/xm",+
+
+// ground truth 
+concat(startwith(<cap>),<low>)

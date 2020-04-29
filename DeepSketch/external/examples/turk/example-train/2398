@@ -1,0 +1,24 @@
+// example 
+"=use$O&i9e",+
+"}EyU2",-
+">e7ujOsIxO@a0o",+
+">e7ujOsIxO@a0O",+
+"KiAAqORaPuYEcIBI",+
+"'unI",-
+"",-
+"'unA",-
+"%",-
+"[ejITaya",+
+"pO",-
+"Bef",-
+"[ejITayu",+
+"KiAAqORaPuYEcIBa",+
+"ve)E'U%uUe>i",+
+"ve)E'U%uUe>A",+
+"pt",-
+"BO6",-
+"}Qt3j",-
+"=use$O&i9U",+
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),4)

@@ -1,0 +1,25 @@
+// example 
+"{yn",+
+"}j`{g",-
+"tz",+
+"~tGo",+
+"|~}{",-
+"tN",+
+"Zj@",-
+"|~}o",-
+"n]",-
+"",+
+"t`zSC",+
+"~tr<",+
+"t`zn@",+
+"{yO",+
+"Rm@>px",+
+"w",-
+"Zj`",-
+"Rm@>pH",+
+"}j`{}",-
+"~",-
+"n{",-
+
+// ground truth 
+star(contain(concat(<low>,<let>)))

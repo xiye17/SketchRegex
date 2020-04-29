@@ -1,0 +1,26 @@
+// example 
+"OjJEr`P!!",+
+"r",-
+"DcHXn{)g",-
+"#\G$$U!!!!",+
+"<jJFF!eS!!!",+
+"w_",-
+"vj,+p!!",+
+"U9nB.*",-
+"{E.?",-
+"<jJFF!eS!v!",+
+"",-
+"i>A/m$W",-
+"0~PE^!",+
+"2):z4!!!",+
+"i>A/m!&",-
+"vj,+pk!",+
+"Q,?",-
+"OjJEr`P]!",+
+"2):z4!)!",+
+".50Wd",-
+"#\G$$U!!l!",+
+"DcHXn{!$",-
+
+// ground truth 
+concat(repeatatleast(<any>,5),<m0>)

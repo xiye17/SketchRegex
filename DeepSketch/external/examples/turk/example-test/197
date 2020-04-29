@@ -1,0 +1,21 @@
+// example 
+"/$",-
+"W",-
+"VhRaSeIkOx",+
+"RdRiNmMuIfVrBmQqTdBe",+
+"#",-
+"",-
+"AeNlEjZsDjFzYbMn",+
+"NiMhXePmOtAi",+
+"KnHgWiPbKdGuBo",+
+"GpKfZcWqCxDiUzWmEg",+
+"Dd3BF",-
+"zn;",-
+"=f=O",-
+"Ay",-
+"G{x",-
+"D|HiP",-
+"l<=-",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),5)

@@ -1,0 +1,25 @@
+// example 
+"PUs7",+
+"[",-
+"aq}1*",-
+"VgODoqY'Gzy(",+
+"W:{(",-
+"Q+y",-
+"VsE]YczD",+
+"VgODoqY'GzO^",+
+"axG.cr",+
+"",-
+"VsE]YcI>",+
+"mlugKrCFNx",+
+"{sV",-
+"W::(",-
+"aqRr4",-
+"w=",-
+"PUSK",+
+"[w",-
+"axG.Qn",+
+"mlugKrCFav",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),2)

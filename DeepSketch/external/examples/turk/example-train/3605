@@ -1,0 +1,19 @@
+// example 
+"Dj8Q1afz_J]1]w",+
+"Y&E[Yf]I|Vkd",+
+"n(,;5",+
+"@,",-
+"i|@hIcJ`Su",+
+"UJ70I^#!9SHOd",+
+")rbt",-
+"3OrA~?i;",+
+"",-
+"(%nD/+",+
+"%",-
+"560X`UgUa<'",+
+"6&}",-
+"{Qp4&V(",+
+"7C&W^$jc*",+
+
+// ground truth 
+startwith(repeatatleast(<any>,5))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"(qbG:",+
+"lp#5",+
+"?vC",+
+"LtDf",+
+"ej)xk",+
+"u'L",+
+"9$",+
+""",+
+"C.",+
+"|",+
+"D",-
+
+// ground truth 
+repeatatleast(not(<cap>),6)

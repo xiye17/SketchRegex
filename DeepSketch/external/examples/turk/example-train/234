@@ -1,0 +1,17 @@
+// example 
+"]i#8.{H",+
+"o",-
+"7|Z<&B",+
+"5.",-
+"",-
+"h#=",+
+"P9J*etO0m",+
+"qKA!n3Kw$Y|@",+
+"<td<r",+
+":-_+{wlIEwi",+
+"R\p,\3!i",+
+"|,1cG,h6En",+
+"pRkm",+
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),3)

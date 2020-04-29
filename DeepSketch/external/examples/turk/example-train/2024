@@ -1,0 +1,26 @@
+// example 
+"Mo!",+
+"!!d",-
+"iT",-
+"h!!!",+
+"ojOD",-
+"!VX",-
+"y'$!!",+
+"CqM56",-
+"!",+
+"l!",+
+"",-
+"[!",+
+"M!!",+
+"QG!J!!",+
+"f",-
+"CqM!=",-
+"i",-
+"y'$s!",+
+"QG!J`!",+
+"UXmW",-
+"qU",-
+"h!o!",+
+
+// ground truth 
+concat(not(startwith(<vow>)),<m0>)

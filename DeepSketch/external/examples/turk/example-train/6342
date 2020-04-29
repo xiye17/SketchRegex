@@ -1,0 +1,25 @@
+// example 
+"%fd",-
+"dezncuckutrmz",+
+"t",-
+"kgaljnjfjyhqzsq",+
+"nhxfrwby",+
+"trctehqpka",+
+"!JXf",-
+"zxjtuy",+
+"kknphwavq",+
+"0^lYi",-
+"",-
+"}",-
+"~V(",-
+"kyqplip",+
+"gweenipemndhgg",+
+"sxvplhyyscvl",+
+"{>",-
+"zh",-
+"cqrgsxtxsvh",+
+"|S}.",-
+"{,B!<",-
+
+// ground truth 
+repeatatleast(or(and(and(<m0>,<num>),<m1>),<low>),6)

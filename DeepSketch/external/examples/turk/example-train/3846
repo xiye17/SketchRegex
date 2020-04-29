@@ -1,0 +1,15 @@
+// example 
+"7@J/b",-
+"U@",+
+":S",-
+"tFL8",-
+"7**IU",-
+"6",-
+"DYd",-
+"t'm`",-
+":6",-
+"",-
+"D0}",-
+
+// ground truth 
+concat(or(or(<any>,<vow>),<m0>),<m1>)

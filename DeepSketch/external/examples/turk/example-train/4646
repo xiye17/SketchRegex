@@ -1,0 +1,18 @@
+// example 
+"u+",+
+"s",-
+"Q{",-
+"U_MYm",-
+"2",+
+"a1wN",-
+"+'qp",-
+"u*Mm/",-
+"",-
+"i",-
+"UEQ",-
+"E4",+
+"me",-
+"I9{",-
+
+// ground truth 
+or(concat(<vow>,<any>),<num>)

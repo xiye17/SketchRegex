@@ -1,0 +1,25 @@
+// example 
+"KRLx",+
+"^.,2Z",-
+"KRLJ",+
+"o",-
+"O]Q",-
+"iItMU",+
+"NQ",+
+"iItMd",+
+"",-
+"*!CGJq",+
+";2",-
+"WZh",+
+";J",-
+"^.,24",-
+"*!CGJG",+
+"-Z\Y",-
+"No",+
+"WZE",+
+"O]%",-
+"D",-
+"-Z\(",-
+
+// ground truth 
+endwith(concat(<cap>,<let>))

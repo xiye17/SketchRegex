@@ -1,0 +1,26 @@
+// example 
+"c]6=|",+
+"[",+
+"{*U0?"",-
+"bxd7inU",-
+"e~c:",+
+"*BWw=f",-
+"7y8-<U0",-
+"|mt(*|1{k@",-
+"~VgKydBcd",-
+"f87",+
+"",+
+"v!J!L?yt$<",-
+"hI\Qp2&{",-
+"Zu;v0",+
+"y:",+
+"Q`",+
+"dI2$deg$w",-
+"v",-
+"|`FQm:>M",-
+"*E4F",+
+"{Rj",+
+"|",+
+
+// ground truth 
+not(or(repeatatleast(<any>,6),<low>))

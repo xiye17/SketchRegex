@@ -1,0 +1,17 @@
+// example 
+"A(`Wb",-
+"aC",+
+"A*(",-
+"m",-
+"AHU",-
+"",-
+"iu",-
+"oZ\i",-
+"w",-
+"AWA4_",-
+"IZ",+
+"i'",-
+"o}6P",-
+
+// ground truth 
+concat(<vow>,<cap>)

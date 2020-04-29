@@ -1,0 +1,17 @@
+// example 
+"A[U",+
+"Z",+
+"Ea#pv",+
+"U)",+
+"",+
+"L",+
+"a#7Y",+
+"OpKI",+
+"U",-
+"IWh!+",+
+"s[6",+
+"D|",+
+"I",-
+
+// ground truth 
+not(and(<any>,<vow>))

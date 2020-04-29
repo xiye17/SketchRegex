@@ -1,0 +1,25 @@
+// example 
+"G",-
+"Y`<_jWEj",+
+"i~]ND|zAb",+
+"FHb\mD",+
+"i~]ND|z!M",+
+"<q#",-
+"h_Z)",-
+"_",-
+"j\@DT",-
+"",-
+"~}",-
+"N9E\tVW",+
+"j\@D]",-
+"dmSiQ",+
+"Y`<_jWEG",+
+"dmSil",+
+"]&6Q",-
+"FHb\mt",+
+"N9E\tVt",+
+"z/",-
+"~Li",-
+
+// ground truth 
+repeatatleast(startwith(<let>),5)

@@ -1,0 +1,17 @@
+// example 
+"At",-
+"N~2J",+
+"A_",+
+"0",+
+"AD",-
+"e_4",+
+"v$JW:",+
+"E_<^k",+
+"eCY",+
+"",+
+"A~",+
+"O",+
+"AR+w",+
+
+// ground truth 
+not(concat(<vow>,<let>))

@@ -1,0 +1,15 @@
+// example 
+""0IS,5",+
+"*tg5",+
+"LoI}1",+
+"ag*+eA8=U",+
+"k",+
+"\A",+
+"B@ZCw5$0g|",+
+"<fQ'4Kv",+
+"LQ_6NO^|",+
+"IiX",+
+"",-
+
+// ground truth 
+or(endwith(<any>),concat(<let>,<cap>))

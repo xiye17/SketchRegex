@@ -1,0 +1,26 @@
+// example 
+"53YEVW",+
+"+\*q?3SETX",+
+"T$5@6",-
+""#6YICW",+
+"2",-
+"/4;7XEBF",+
+"/4)7NIQS",+
+")?/.8KAVV",+
+"YL#",-
+""2BLIFn",+
+")?/S5MJBX",+
+"U+",-
+"",-
+"Ul",-
+"G##y",-
+"%",-
+"T$5@n",-
+"YLH",-
+"G##4",-
+"5ZXUHN",+
+"+\*q%9SQJU",+
+"3XEGQ",+
+
+// ground truth 
+contain(concat(<num>,repeatatleast(<cap>,4)))

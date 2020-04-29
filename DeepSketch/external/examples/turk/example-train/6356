@@ -1,0 +1,14 @@
+// example 
+"",+
+"q$.0sD",+
+"4s`S",+
+"e{oMe$u",+
+"2E\8gz#SE",+
+"t$=*;",+
+"%@{@?m9S",+
+"1,1",+
+"Nu",+
+"{",+
+
+// ground truth 
+contain(not(repeatatleast(<let>,1)))

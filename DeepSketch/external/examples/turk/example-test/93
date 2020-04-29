@@ -1,0 +1,25 @@
+// example 
+"'ZJg",-
+"ee",-
+"CsU",-
+"upUEaOoAuF",+
+"aioiUIEn",+
+"CsM",-
+"aioiUIoR",+
+"eH",-
+"upUEaOoAO>",+
+"e",-
+"^",-
+"",-
+"AIEeeUeC{",+
+"aFOuoIaeO'-",+
+"aFOuoIaeA|V",+
+"AIEeeUAub",+
+"aiiOuiE",+
+"IPCEO",-
+"aiiOuiA",+
+"'ZJo",-
+"IPCEU",-
+
+// ground truth 
+contain(repeatatleast(<vow>,7))

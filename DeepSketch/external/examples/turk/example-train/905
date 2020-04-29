@@ -1,0 +1,25 @@
+// example 
+"3",+
+"4FK",+
+"2PIPRNGQGQ",+
+"5EFWV",+
+"A1l",-
+""",-
+"8N$3",-
+"9NFEVSR",+
+"",-
+"6YMU",+
+"84sP",-
+"4V",+
+"8XFQPU",+
+"3KGCDSHZ",+
+",C8L?",-
+"1,7%,",-
+"45",-
+"6WRXVDUWA",+
+"4i",-
+"B",-
+"6b[",-
+
+// ground truth 
+concat(<num>,star(<cap>))

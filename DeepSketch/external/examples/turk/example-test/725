@@ -1,0 +1,25 @@
+// example 
+"x*K",+
+"%BH",+
+"Ur",-
+"1/,?;",+
+"PmHgJkHiYmKyQgCaWgWl",-
+"|\VVT",+
+"52_R",+
+"MuYgTnPqZqYxAo",-
+"$",+
+":v",+
+"",+
+"LoSzUq",-
+"S~C^",+
+"JsGe",-
+"SnMeWpRqExKf",-
+"GnScVwCaZjNaEzBlVy",-
+"A|",+
+"B",+
+"VsNoDqMy",-
+"VrFiSmVbUaFsKmRs",-
+"QqSdMzMrBi",-
+
+// ground truth 
+not(repeatatleast(concat(<cap>,<low>),1))

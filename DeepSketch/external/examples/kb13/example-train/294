@@ -1,0 +1,15 @@
+// example 
+"",+
+"U4[je4bw",-
+"f",-
+"aCQkPg!1b",-
+"fx/0@}L",-
+"*9",-
+"/DE?",-
+"H(a|:",-
+"Tn]|P`",-
+"Jo$>ucOi9h",-
+"R#b",-
+
+// ground truth 
+repeatrange(concat(star(notcc(<let>)),concat(and(repeatatleast(<let>,1),and(repeatatleast(<let>,4),contain(<m0>))),star(notcc(<let>)))),0,5)

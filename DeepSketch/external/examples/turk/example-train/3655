@@ -1,0 +1,25 @@
+// example 
+"\",-
+"XVHMR",+
+"Y",+
+"n",+
+"##Wg",-
+"F!",+
+"HMN",+
+"Fc",+
+"",-
+"P:",-
+"5F(sN",-
+"z?W[h",-
+"o{l",-
+"o`+",-
+"P~",-
+"BXbC",+
+"HMn",+
+"XVHMl",+
+"BXbv",+
+"{",-
+"|miW",-
+
+// ground truth 
+or(concat(<cap>,<m0>),repeatatleast(<let>,1))

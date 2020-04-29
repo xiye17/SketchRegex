@@ -1,0 +1,17 @@
+// example 
+"~[JT?",-
+"pU",+
+"XH{tF",-
+"",-
+"~\?w",-
+";|_0",-
+"|",-
+"lt",-
+"lAi",-
+"j",-
+"*K",-
+"lo<",-
+"pu",+
+
+// ground truth 
+concat(<low>,or(or(<vow>,<m0>),<m1>))

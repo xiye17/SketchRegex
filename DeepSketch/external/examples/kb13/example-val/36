@@ -1,0 +1,25 @@
+// example 
+"YdGU",+
+"|v.{m",-
+"{N_Qny",+
+"jv}P%{|T",+
+"[NCtZ",+
+"W(k4V(j",+
+"S%",-
+"jv}P%{i6",+
+"|v.{O",-
+"",-
+"{N_QnS",+
+"}",-
+"%Mu",-
+"[NCtj",+
+"3p3<",-
+"S",-
+"3p3|",-
+"W(k4V(U",+
+"YdGg",+
+"SS",-
+"%M}",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),4)

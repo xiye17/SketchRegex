@@ -1,0 +1,17 @@
+// example 
+"C`",+
+"n",+
+"p<G",+
+"s8.|",+
+"e",-
+"j[sf6",+
+"",+
+"g",+
+";sdG",+
+"i",-
+"iAk@X",+
+"uuU",+
+")U",+
+
+// ground truth 
+not(or(or(<num>,<vow>),<cap>))

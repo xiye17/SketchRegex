@@ -1,0 +1,17 @@
+// example 
+"{W%q",-
+"gU",+
+"|aOSL",-
+"7d",-
+"",-
+"~!7",-
+"3D`",-
+"],eB<",-
+"x",-
+"gi",+
+"{",-
+"|,",-
+"4r%K",-
+
+// ground truth 
+concat(<low>,and(<vow>,<any>))

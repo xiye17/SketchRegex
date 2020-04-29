@@ -1,0 +1,25 @@
+// example 
+"u}M}",+
+"o)F[1",+
+"d1@g",-
+"o?:",+
+"m",-
+"sI']T",-
+"e.V",+
+"a""k",+
+"q<wi",-
+"j"w",-
+"",-
+"}",-
+"e",+
+"OV~=P",+
+"e1",+
+"l$\f+",-
+"u",+
+"as",+
+"bR",-
+"n{",-
+"hRt",-
+
+// ground truth 
+startwith(or(<vow>,<cap>))

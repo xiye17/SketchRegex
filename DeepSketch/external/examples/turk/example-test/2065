@@ -1,0 +1,14 @@
+// example 
+"",+
+"Qrc[",+
+"v'6!q",+
+"dKL",+
+"FQCUQ#%[K",+
+"`j|%?[J",+
+"F/OzV,#F",+
+"a",+
+"1a",+
+"('|c>}",+
+
+// ground truth 
+or(endwith(<any>),not(<num>))

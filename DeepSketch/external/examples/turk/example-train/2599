@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"!REuO",+
+"o",+
+"!QUI",+
+"q",-
+"k",-
+"cXkK",-
+"",-
+"jb",-
+"!la",+
+"!eF",-
+"\o)r@",-
+"[F",-
+"!lI",+
+"!REuI",+
+"i@ag",-
+"!o",+
+"!QUA",+
+"u",+
+"m+U(5",-
+"!ej",-
+
+// ground truth 
+concat(star(startwith(<m0>)),<vow>)

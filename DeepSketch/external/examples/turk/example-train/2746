@@ -1,0 +1,25 @@
+// example 
+"Dunq4H",+
+"e3QJ",+
+"'1A)!",-
+"e3&Q",+
+"}q~zy",-
+"VM",+
+"},(",-
+"^",-
+"WL(EQ",+
+"",-
+"WL(iM",+
+"[jRa",-
+"WoB`",-
+"m@I",+
+"mDX",+
+"DunqDL",+
+"^EV",-
+"hO",+
+"}N",-
+"R/",-
+"{",-
+
+// ground truth 
+concat(startwith(repeatatleast(<let>,1)),<cap>)

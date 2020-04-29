@@ -1,0 +1,16 @@
+// example 
+"5<",-
+"8",+
+"'lj",-
+"*t@Sv",-
+"@$>[Y",-
+",",-
+"3Jq",-
+"zuD3",-
+"w",-
+"",-
+"/EOs",-
+"$E",-
+
+// ground truth 
+and(endwith(<any>),<num>)

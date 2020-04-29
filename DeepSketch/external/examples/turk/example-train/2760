@@ -1,0 +1,25 @@
+// example 
+"\",-
+"8U_bE03N"",+
+")G",-
+"6}P7uH-N6i",+
+"4APaL?1",+
+"dyc[T",-
+"6'qAGv`M",+
+".WMO",-
+"7~d",+
+"9Oc;XE",+
+"",-
+"=C-",-
+"?E}-",-
+""b_",-
+"%",-
+"@Z",-
+"6",+
+"0`",+
+"*Y0"8",-
+"0:sVv",+
+"3Z6w",+
+
+// ground truth 
+and(contain(<any>),startwith(<num>))

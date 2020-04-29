@@ -1,0 +1,19 @@
+// example 
+"6p5p7v1g3s2d2x2y2q",+
+"0",-
+"r",-
+"5z2h5g1k6y1y2o7v4h3e",+
+"4{",-
+"[k8J5",-
+""aKU2",-
+"4Zx",-
+"7p2o7v6k8l8h8z",+
+"",-
+"'*rS",-
+"S!U",-
+"8g0u6h0v3q7g4r6h",+
+"0.s2",-
+"4e",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),7)

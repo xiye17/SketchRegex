@@ -1,0 +1,15 @@
+// example 
+"[q",+
+"paT",-
+"@oI~",-
+"hR",-
+"@],Z",-
+"O~>xG",-
+"h}",-
+"p}C",-
+"Ovs@x",-
+"{",-
+"",-
+
+// ground truth 
+concat(or(or(<any>,<m0>),<m1>),<low>)

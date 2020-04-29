@@ -1,0 +1,24 @@
+// example 
+"!#',0Q0oh0",+
+"!qYxK=NVJ8N",+
+"!4Fwj?QhS",+
+"!g<",+
+"!t",+
+"y!sr",-
+"4$mS*",-
+"!",-
+"k->={a+",-
+"!qF>c`!",+
+"",-
+"y_$-AN",-
+"w1",-
+"!!$j?g",+
+"`/`",-
+"!3knu",+
+"!;{\",+
+"!_&OH%-G",+
+"A\>6xAoL",-
+"D",-
+
+// ground truth 
+concat(<m0>,endwith(<any>))

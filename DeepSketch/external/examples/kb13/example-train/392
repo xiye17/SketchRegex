@@ -1,0 +1,25 @@
+// example 
+"or}UHWNl",+
+"<5",-
+"~|{^",-
+"vXbTQ",+
+"0|;!eTukf",+
+"or}UHWNC",+
+"0|;!eTukK",+
+"?pgG}",-
+"K\khIBg",+
+"~|{s",-
+"FIy",-
+"",-
+"K\khIBX",+
+"FID",-
+"<S",-
+"^ZVHKF",+
+"vXbTm",+
+"?pgGt",-
+"v",-
+"^ZVHKt",+
+"~",-
+
+// ground truth 
+contain(repeat(<let>,5))

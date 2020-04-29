@@ -1,0 +1,17 @@
+// example 
+"h'TUU",-
+"emT",+
+"ega",-
+"iT",-
+"K-8^o",-
+"@8",-
+"",-
+"u#D?",-
+"i",-
+"eg-",-
+"cz80",-
+"O.O",+
+"D",-
+
+// ground truth 
+concat(concat(<vow>,<any>),<cap>)

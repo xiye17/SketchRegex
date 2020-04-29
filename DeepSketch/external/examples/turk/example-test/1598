@@ -1,0 +1,25 @@
+// example 
+"<^r!e8",+
+"!6",-
+"!DiEo",-
+"!EsA7",+
+"!",-
+"?!i3",+
+"",-
+"9M8",-
+"?!E1",+
+"!Ese8",+
+"A3~^!i8",+
+"!i9",+
+"<^r!U5",+
+"!DiEL",-
+"A3~^!I5",+
+"!ELJ",-
+"!E4",+
+"!o",-
+"C",-
+"9M!",-
+"!ELR",-
+
+// ground truth 
+concat(contain(<m0>),concat(<vow>,<num>))

@@ -1,0 +1,19 @@
+// example 
+"Sbi",-
+"/~",-
+"/@",-
+"2RiFxYbT4OyB",+
+""HaI<IfVjB;HDW1V",+
+"%$op",-
+"",-
+"%CIF",-
+"{UmLCIoPHW2R5FZL:IgT",+
+"S#X",-
+"rJeYkVSAcV+N=W",+
+"R-aIq",-
+"/AnM:PEVNKpE8U=F7A",+
+"?",-
+"RIEAK",-
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),6)

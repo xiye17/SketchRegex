@@ -1,0 +1,22 @@
+// example 
+"NIkKXO1poL&A?hOb",+
+"Kq'bOvAa'o;L@P",+
+"5",-
+"ze#Fm",-
+"ueBZhe7q1u+N~M1t<Y",+
+"",-
+"Kq'bOvAa'o;L@c",+
+"\4L$",-
+"XD?GMn9YxWod!L[YeUeG",+
+"BI1",-
+"XD?GMn9YxWod!L[YeUeb",+
+"ueBZhe7q1u+N~M1t<m",+
+"4_",-
+"4h",-
+"Bho",-
+"\}qn",-
+"ze#~[",-
+"NIkKXO1poL&A?hON",+
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),7)

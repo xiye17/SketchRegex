@@ -1,0 +1,25 @@
+// example 
+"`2{P",-
+"J*qmEs(",+
+"t",-
+"1o@",-
+"4i5.",-
+"HSD",+
+"FGs/",+
+"T"r&O#",+
+"M^'Xh>|e5",+
+"B|jCX')HYise",+
+"(",-
+"",-
+"NkYv\$II,}\",+
+"MT",-
+"e,",-
+"L7@FJ",+
+"C_"N%TD%",+
+"+"['#",-
+"YSP-wv1[NU",+
+"mMY&t",-
+"[Nw",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,2))

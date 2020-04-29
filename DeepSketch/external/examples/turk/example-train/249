@@ -1,0 +1,20 @@
+// example 
+"@ou",-
+"LxQ1",-
+"m!i!r!i!a!o!h!g!f!i!",+
+"qN51P",-
+"w!k!x!w!l!h!n!",+
+":@",-
+"KL^d#",-
+"r.#",-
+"g!l!d!r!j!m!j!s!",+
+"~*^$",-
+"",-
+"{o",-
+"z!t!o!h!j!e!l!s!n!",+
+"d!g!d!m!o!f!",+
+"L",-
+"{",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),6)

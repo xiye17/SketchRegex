@@ -1,0 +1,17 @@
+// example 
+"ccRa",-
+"K^W",-
+"vz",-
+":0",-
+".sVN",-
+"zt54,",-
+"d",-
+"#",-
+"",-
+"y?9",-
+"zT8`4",-
+"go",+
+"ge",+
+
+// ground truth 
+concat(<low>,or(<vow>,<cap>))

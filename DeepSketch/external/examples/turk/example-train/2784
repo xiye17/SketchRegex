@@ -1,0 +1,17 @@
+// example 
+"uiOAo5o9i4a0",+
+"uiOAo5o9i4O9",+
+"tQ",-
+"G<V'",-
+"mcw_o",-
+"",-
+"G<V]",-
+"oLu",-
+"tA",-
+"U",-
+"E",-
+"oLW",-
+"mcw_V",-
+
+// ground truth 
+endwith(repeatatleast(concat(<vow>,<num>),4))

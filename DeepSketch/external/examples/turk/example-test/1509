@@ -1,0 +1,25 @@
+// example 
+"gFOEUI",+
+"tBAkz",-
+"gjCH",-
+"@$",-
+"{7",-
+"bOUtO",+
+"|0')#",-
+"bEEO",+
+"fi",+
+"",-
+"hRa",+
+"bOUti",+
+"gFOEUo",+
+"OvYP",-
+"v",-
+"hRi",+
+"rms",-
+"N!0",-
+"fI",+
+"bEEe",+
+"D",-
+
+// ground truth 
+concat(<low>,endwith(<vow>))

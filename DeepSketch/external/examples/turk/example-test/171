@@ -1,0 +1,25 @@
+// example 
+"U%I",+
+"lErv",+
+""C",-
+"Wvi",-
+"wO^7Bf",+
+"eO",+
+"wA]'_?",+
+"",-
+"U^v7;",+
+"|",-
+"j",-
+"tLfJA",-
+"wE;",+
+""E",-
+"I[",+
+"WvQ",-
+"yrKd",-
+"yrKg",-
+"tLfJo",-
+"lAGV",+
+"KoUn6",+
+
+// ground truth 
+contain(concat(<vow>,<any>))

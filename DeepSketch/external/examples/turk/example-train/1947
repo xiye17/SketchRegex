@@ -1,0 +1,25 @@
+// example 
+"ieUA\",-
+"Cbe",+
+"EMAu",+
+"p",-
+"jh",-
+"azeOU",+
+"EMAa",+
+"|RCG",-
+"Cbu",+
+"",-
+"jC",-
+"azeOA",+
+"i",+
+"uvj",-
+"Pi",+
+"K",-
+"uvC",-
+"A",+
+"Po",+
+"|RCh",-
+"ieUAb",-
+
+// ground truth 
+concat(not(<m0>),<vow>)

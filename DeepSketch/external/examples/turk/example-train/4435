@@ -1,0 +1,25 @@
+// example 
+"XDIQNDTMT9",+
+"DLUXFTXCEUMXI3",+
+"+:UM",-
+"MKF",-
+"ds8s",-
+"`Q9Io",-
+"QAYFBUHDIAJ7",+
+"YYZKMI2",+
+"",-
+"QFIBXQUM6",+
+"HFHEEBAWAS0",+
+"DAKNMLRQCBORHO7",+
+"i",-
+"9",-
+"1w",-
+"U;",-
+"MK,",-
+"XGNPZGX0",+
+"<aS/1",-
+"TSWBX3",+
+"XRQXPEBIWMAO6",+
+
+// ground truth 
+concat(repeatatleast(<cap>,5),<num>)

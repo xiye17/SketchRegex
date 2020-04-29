@@ -1,0 +1,17 @@
+// example 
+"o7@m",-
+"!1",+
+"e9",+
+"e",-
+"o(j_",-
+"e!~3[",-
+"",-
+"bp",-
+"eW~/r",-
+"v90",-
+"i",-
+"qhD",-
+"4'",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<cap>),<num>)

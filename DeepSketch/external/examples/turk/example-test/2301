@@ -1,0 +1,25 @@
+// example 
+"`?1",-
+"[+^p",-
+"`&7lm",-
+"deW",+
+"STuB",+
+"46",-
+"cfA)i",+
+"uf",+
+"~U7y",-
+"",-
+"}.uL2",-
+"C>yKl",+
+"f",-
+"[Y",-
+"}I~",-
+"V.^",+
+"t9"t",+
+"QQ}4D'",+
+"v88$]C",+
+"{",-
+"T,",+
+
+// ground truth 
+concat(<let>,contain(<any>))

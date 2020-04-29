@@ -1,0 +1,25 @@
+// example 
+"G",-
+"ii",+
+"oc",-
+"eOo",+
+"a",+
+"iO",+
+"oH",-
+"D1Oh",-
+"",-
+"U]jJ!",-
+"JTEA",+
+"Q",-
+"eOi",+
+"udocu",+
+"i",+
+"U]jJG",-
+"A}N",-
+"JTEi",+
+"A}F",-
+"udoca",+
+"D1ON",-
+
+// ground truth 
+concat(not(<cap>),<vow>)

@@ -1,0 +1,17 @@
+// example 
+"fr",+
+"{<",-
+"\K",-
+"p",-
+"W",-
+"p~~3"",-
+"_CN\",-
+"",-
+"elo",-
+"%^oj",-
+"Ck",+
+"3OfNH",-
+"[~%",-
+
+// ground truth 
+concat(or(<cap>,<let>),<low>)

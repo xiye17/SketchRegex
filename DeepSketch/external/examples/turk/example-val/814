@@ -1,0 +1,17 @@
+// example 
+"o4",+
+"B)",-
+"nYT",-
+"X",-
+"u2",+
+"",-
+"J;RC\",-
+"SkvQS",-
+"W(",-
+"A<FD",-
+"b2A",-
+"A%{@",-
+"H",-
+
+// ground truth 
+concat(and(<any>,<vow>),<num>)

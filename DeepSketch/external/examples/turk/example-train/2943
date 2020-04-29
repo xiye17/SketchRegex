@@ -1,0 +1,25 @@
+// example 
+"LR!>",+
+"!v",+
+"!hPc@",+
+"3",-
+"ku!",+
+"IN-bko",-
+"!",+
+"{!0a8",+
+"V!tq&W",+
+"!EV<H@",+
+"",-
+"\Pz",-
+"pZ",-
+"IZgi",-
+"rgZTt|Ww",-
+"K.[l>-S\r",-
+"L!I_",+
+"m(Q'O",-
+"k![",+
+"i!",+
+"aGu6B{)",-
+
+// ground truth 
+or(contain(<m0>),and(<m1>,<let>))

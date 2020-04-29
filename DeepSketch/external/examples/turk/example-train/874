@@ -1,0 +1,17 @@
+// example 
+"fc4r",+
+"p",+
+"h&m",+
+"c#<",+
+"",+
+"i`",+
+"a-Z?",+
+"bag_E",+
+"O",-
+"J",+
+"A",-
+"a%A$A",+
+"gc",+
+
+// ground truth 
+not(or(and(<any>,<vow>),<m0>))

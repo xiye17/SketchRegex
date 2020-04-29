@@ -1,0 +1,19 @@
+// example 
+"!uE",-
+"!m!|Z",-
+"!w!e!b!i!t!u!d!a",+
+"!v",-
+"!a!s!f!b!n!r!b",+
+"!f!f!h!v!j!m!b!z!f",+
+"!",-
+"!j!u!k!i!c!k!e!n!s!d",+
+"q\6",-
+"",-
+"!?",-
+"!NGz",-
+"!}?oW",-
+">",-
+"!r!s",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<low>),7)

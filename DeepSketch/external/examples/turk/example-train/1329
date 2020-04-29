@@ -1,0 +1,25 @@
+// example 
+"gogwdsqcap",+
+"limhqs",+
+"s",+
+"qyh",+
+"upaxm",+
+"iyui{",-
+"|]6g",-
+"xz",+
+"iyuiU",-
+"",-
+"e1v",-
+"r~",-
+"wilvyqn",+
+"ET{",-
+"kyodsvsk",+
+"U",-
+"a-[G",-
+"pbvn",+
+"r4",-
+"tlrdskjbc",+
+"{",-
+
+// ground truth 
+repeatatleast(or(and(<cap>,<m0>),<low>),1)

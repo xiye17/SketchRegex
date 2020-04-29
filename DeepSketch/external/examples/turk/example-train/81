@@ -1,0 +1,25 @@
+// example 
+"!t!",+
+"s",-
+"D!f",-
+"Dwb",-
+"M_",-
+"<!HqL",-
+"<!H!F",-
+"c!",+
+"!aq$",-
+"!",+
+"!A",+
+"!H",-
+"",-
+"!G!",+
+"!Eui!",+
+"!B>!",+
+"!i`!!A",+
+"!agh",-
+"!i`!!u",+
+"!B!E",+
+"!Euia",+
+
+// ground truth 
+concat(endwith(<m0>),star(<vow>))

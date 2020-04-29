@@ -1,0 +1,17 @@
+// example 
+"[$",-
+"0A3&",-
+"!",-
+"!O",+
+"l+A7v",-
+"!E",+
+"",-
+"`",-
+"hj",-
+"5Cb",-
+"lGC&k",-
+"5Y7",-
+"0I.9",-
+
+// ground truth 
+concat(or(or(<num>,<low>),<m0>),<vow>)

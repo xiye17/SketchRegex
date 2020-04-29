@@ -1,0 +1,25 @@
+// example 
+"xkkt",+
+"e}!w",-
+"2~[:N",-
+"xkk0",+
+"X70F12",+
+"DV",+
+"Ds",+
+"e^Fc",-
+"X70F1I",+
+"V",-
+",",-
+"`L/",-
+"eV53M",+
+"#wz",-
+"pB3",+
+"",-
+"'8",-
+"pBx",+
+"2x\1E",-
+"eV53h",+
+"K^",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),2)

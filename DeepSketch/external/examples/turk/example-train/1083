@@ -1,0 +1,25 @@
+// example 
+"cXPAZXSEOINK",+
+"yMIZQUQMMRCWG",+
+"fC",-
+"xYACDEPZAE",+
+"Jnp>V",-
+"qMEQBULU",+
+"H_",-
+"",-
+"u7k",-
+"rHTFONUATJTYDV",+
+"bXJUBPXYJBMSIIQ",+
+"|J]L",-
+"gDPCPNRAK",+
+"xBTGUHQZIOU",+
+"vKHWALO",+
+"lVZXPOWVUXDANWAM",+
+"uyc",-
+"}a5*q",-
+"w",-
+"E",-
+"x21Z",-
+
+// ground truth 
+concat(<low>,repeatatleast(<cap>,6))

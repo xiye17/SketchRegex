@@ -1,0 +1,26 @@
+// example 
+"E~N6j",-
+"L(ZY",+
+"*\GRhHe",+
+"t?rXCS",+
+"=1P",-
+""",-
+"7[KHB=OC",+
+"",-
+"bp",-
+"b7",-
+"t?*IMM",+
+"7[KH^]`O",+
+"A(%F",-
+"WXP",+
+"h",-
+"54AIQ",+
+"5ML"T",+
+"=1#",-
+"A(%@",-
+"E~N6,",-
+"LsXF",+
+"*\GRh[E",+
+
+// ground truth 
+repeatatleast(contain(endwith(<cap>)),3)

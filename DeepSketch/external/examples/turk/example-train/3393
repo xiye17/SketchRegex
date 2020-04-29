@@ -1,0 +1,26 @@
+// example 
+"Ikgi|d",+
+"L|Nk",+
+"\HE",-
+"Rv",+
+"]mDH",-
+"N(f",+
+"[l",-
+"~?G)Y",-
+"oo",+
+"d/",-
+"",-
+"`",-
+"Ikgi_d",+
+"Nqc",+
+"d",+
+"Qs8~",-
+"L|qp",+
+"u{m|y",+
+"%e9JT",-
+"na6",-
+">",-
+"u{muv",+
+
+// ground truth 
+and(endwith(<low>),startwith(<let>))

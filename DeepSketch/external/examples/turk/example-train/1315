@@ -1,0 +1,18 @@
+// example 
+"r",-
+"a||",-
+"a|P",-
+"~jq!",-
+"Y\",-
+"!~dv!{T{t!|w!h!e!p!",+
+"",-
+"|",-
+"~{x!a!e!k!j!c!",+
+"Y~",-
+"}~}u*",-
+"!~dv!{T{}z!b!t!j!h!",+
+"~jqm",-
+"}~}uc",-
+
+// ground truth 
+repeatatleast(contain(concat(<low>,<m0>)),6)

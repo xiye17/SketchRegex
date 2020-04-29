@@ -1,0 +1,17 @@
+// example 
+"}zfa}",-
+"G",-
+"0pX",-
+"D"G4",-
+"DF5s",-
+"q",-
+"Y1T",+
+"k6A",+
+"",-
+"B1",-
+"|?f",-
+"B!",-
+"!<&A3",-
+
+// ground truth 
+concat(concat(<let>,<num>),<cap>)

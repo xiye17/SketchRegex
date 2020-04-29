@@ -1,0 +1,25 @@
+// example 
+"AUa!",+
+"Za@Si!",+
+"rlIi",-
+"$k[nPu!",+
+"gl}TR",-
+"^",-
+"",-
+"Fa!",+
+"rlIY",-
+"$k[nPi!",+
+"gl}Tb",-
+"RoN",-
+"Fu!",+
+"AUU!",+
+"Ro3",-
+"cEIu!",+
+"t/",-
+"cEIo!",+
+"Za@Sa!",+
+"I",-
+"tt",-
+
+// ground truth 
+contain(concat(concat(<cap>,<vow>),<m0>))

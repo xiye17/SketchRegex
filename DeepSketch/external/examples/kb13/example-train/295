@@ -1,0 +1,25 @@
+// example 
+"UC",-
+"AM{|{",-
+"lDivCUi",+
+"`bv1",-
+"lDivCc;",+
+"t{EXjCwK",+
+"'%q",-
+"qEtLmn",+
+"~[2HBbbsX",+
+"",-
+"P",-
+"`bvv",-
+"U}",-
+"qEtLmH",+
+"AM{|`",-
+"'%`",-
+"~[2HBbbsk",+
+"~~=[LnhcMS",+
+"~~=[LnhcMo",+
+"t{EXjCwh",+
+"{",-
+
+// ground truth 
+contain(repeatatleast(<let>,6))

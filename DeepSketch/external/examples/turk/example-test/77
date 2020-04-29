@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"!EL[Ae",+
+"!Mkp",-
+"!gHeU",+
+"!UDe",+
+",i",-
+"!qh",-
+"!",-
+"!qD",-
+"F-S|f",-
+"![e",+
+"",-
+"!L",-
+"!UDu",+
+"!bjeB",-
+"!Mk{",-
+"h",-
+"!EL[AA",+
+"![o",+
+"!gHeO",+
+"!a",+
+
+// ground truth 
+concat(startwith(<m0>),<vow>)

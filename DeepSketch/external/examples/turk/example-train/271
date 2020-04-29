@@ -1,0 +1,25 @@
+// example 
+"ec",+
+"iEue",+
+"\",-
+"AOIOU",+
+"oEUoAA",+
+"A[",-
+"lz;",-
+"aeAR[",-
+"aIo",+
+"",-
+"aIk",+
+"iy(",-
+"eD",+
+"oEUoAO",+
+"iEuE",+
+"A~",-
+"AOIOf",+
+"a/n=k",-
+"uoks",-
+"H",-
+"uofd",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),<let>)

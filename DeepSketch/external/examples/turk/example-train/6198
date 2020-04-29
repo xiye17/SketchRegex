@@ -1,0 +1,21 @@
+// example 
+"Qti",-
+"j`7?^#p-y#",+
+"%8",-
+"vmV93J",-
+"\&9@>-0JT:ct|T:",+
+"!",-
+"!"'az="",+
+"n5^e0",-
+"r%./N<(-l|h@i_z/",+
+"",-
+"^;b-"&d'p",+
+"^hoixEClsrI@"",+
+":l"\Yc@aRHwV",+
+">iS<hZ&GF~m",+
+"J<~CrM935!3.Y8",+
+"qjse",-
+"$mFMc]4+",+
+
+// ground truth 
+and(repeatatleast(<any>,7),not(<low>))

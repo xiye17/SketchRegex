@@ -1,0 +1,17 @@
+// example 
+"fQLQ",-
+"ks",-
+"fI6",-
+"",-
+"a",-
+"i4",+
+"e.",-
+"j",-
+"~2Ce2",-
+"q6D",-
+"e8W=",-
+"a2",+
+"^X>^}",-
+
+// ground truth 
+concat(or(<vow>,<cap>),<num>)

@@ -1,0 +1,25 @@
+// example 
+"JJ(",-
+"_E",-
+"$=[",-
+"zWHX",+
+"_`M3",-
+"GkSN",-
+"HGOVO",+
+"",-
+"dHH",+
+"}",-
+"TU",+
+"WBJUKC",+
+"yQOTI",+
+"HODV",+
+"gEGMPL",+
+"SFC",+
+"lA",+
+"B",-
+"4d",-
+"_q(eQ",-
+"#Zzj{",-
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,1))

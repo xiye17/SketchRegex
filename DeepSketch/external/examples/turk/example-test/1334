@@ -1,0 +1,17 @@
+// example 
+"Tw",-
+"aZ0",+
+"d",-
+"e{Z9Y",-
+"",-
+"'",-
+"r|S_",-
+"{kH",-
+"ac2",+
+"el}iv",-
+"\kR",-
+";5YT",-
+"}J",-
+
+// ground truth 
+concat(concat(<low>,<let>),<num>)

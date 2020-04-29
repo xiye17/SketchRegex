@@ -1,0 +1,17 @@
+// example 
+"F",-
+"]",-
+"be",-
+"i!<1d",-
+"",-
+"mbzg",-
+"9",+
+"U{L",-
+"Rh[m`",-
+"I",+
+"DLu",-
+"A0",-
+"a:?6",-
+
+// ground truth 
+or(or(<vow>,<m0>),<num>)

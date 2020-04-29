@@ -1,0 +1,17 @@
+// example 
+"g5!",+
+"Z",-
+"~Ib=?",-
+"",-
+"U7!",+
+"<",-
+"~:w",-
+"h&xG",-
+"{I",-
+"hw_M",-
+"q$j",-
+"_>",-
+"^;f=/",-
+
+// ground truth 
+concat(concat(<let>,<num>),<m0>)

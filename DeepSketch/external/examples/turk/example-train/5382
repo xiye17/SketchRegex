@@ -1,0 +1,16 @@
+// example 
+"|q",-
+"$",-
+"zJ;>t",-
+"(fJ.Z",-
+"*PL8",-
+"tG",-
+"{!S",-
+"f+p",-
+"s`[!",-
+"y",+
+"",-
+"~",-
+
+// ground truth 
+and(and(<low>,<any>),<let>)

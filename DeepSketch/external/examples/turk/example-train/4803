@@ -1,0 +1,25 @@
+// example 
+"a-!+Ik",+
+"o&gn!",+
+"a!#hl0",+
+"l};",-
+"a5e"N",-
+"Ol)q",-
+"lPZC",-
+"bP2.m",-
+"oQg!",+
+"oQ!)",+
+"",-
+"RAb",-
+"P",-
+"i",-
+"O!;",+
+"o&g!G",+
+"dG",-
+"ak",-
+"i!",+
+"o!",+
+"O;!",+
+
+// ground truth 
+concat(<vow>,contain(<m0>))

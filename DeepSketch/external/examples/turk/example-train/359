@@ -1,0 +1,25 @@
+// example 
+"C6;/M",+
+"Wshy",-
+"Pmmfo",-
+"F",+
+"Eoosxfcz",-
+"Sdeyebxay",-
+"H{ee",+
+"Quklsbkfpdg",-
+"\<k",+
+"Jxq",-
+"Sjinee",-
+"Qsiyuohhrs",-
+"Veucqqqjkofj",-
+"",+
+"Jeyeeli",-
+"6",+
+""Q^\",+
+"CecYO",+
+"tf",+
+"-Bo",+
+"1K",+
+
+// ground truth 
+not(concat(<cap>,repeatatleast(<low>,2)))

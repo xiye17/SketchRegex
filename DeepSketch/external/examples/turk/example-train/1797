@@ -1,0 +1,17 @@
+// example 
+"g+~o",-
+"?Qz]9",-
+"s",-
+"$S2g",-
+"x>,",-
+"-",-
+"",-
+"7)",-
+"0zI",-
+"}7",-
+"xCc+V",-
+"Bwo",+
+"Bwe",+
+
+// ground truth 
+concat(<cap>,concat(<low>,<vow>))

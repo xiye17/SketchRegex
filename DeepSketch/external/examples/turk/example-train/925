@@ -1,0 +1,25 @@
+// example 
+"YNKilPQm",-
+"msOHZAhtsvv",-
+"SHc~>",+
+"quUSiVUKma",-
+"YNKilPQU",-
+"DJFqkrLNC",-
+".U",+
+"x\8",+
+"%",+
+"xoxVQbe",-
+"",+
+"_ZW;",+
+"SHcgj",+
+"quUSiVUKmV",-
+"1l0",+
+"|C4[",+
+"_p",+
+"msOHZAhtsvG",-
+"}",+
+"DJFqkrLNl",-
+"xoxVQbH",-
+
+// ground truth 
+not(repeatatleast(<let>,7))

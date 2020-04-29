@@ -1,0 +1,17 @@
+// example 
+"G",-
+"e5",+
+"v<",-
+"or",-
+"",-
+"!9>5r",-
+"vtjJ",-
+"h]b#",-
+"EHI",-
+"I1",+
+"!{mXI",-
+"M",-
+"E5W",-
+
+// ground truth 
+concat(or(or(<m0>,<m1>),<vow>),<num>)

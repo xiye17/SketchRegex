@@ -1,0 +1,25 @@
+// example 
+"cAROie",+
+"AIvo",-
+"aua",+
+"cAROi!",+
+"OjI!",+
+"EgRiE",-
+"",-
+"EgRi`",-
+"OjIt",+
+"U",-
+"Ay",+
+"Qa",-
+"QD",-
+"ngOOo",+
+"oI}",-
+"Aa",+
+"oID",-
+"z",-
+"AIvr",-
+"ngOOx",+
+"auz",+
+
+// ground truth 
+concat(endwith(<vow>),or(or(<m0>,<low>),<m1>))

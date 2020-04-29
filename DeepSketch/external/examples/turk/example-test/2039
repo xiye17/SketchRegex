@@ -1,0 +1,26 @@
+// example 
+"DOjto",-
+"ofA!",+
+"!_\bA!",+
+"|u@",-
+"!_\bE!",+
+"YPKf",-
+"!",+
+"Y!",+
+"ofI!",+
+"^oqX!",+
+"",-
+"DOjtO",-
+"^oqa!",+
+"$",-
+"S!",+
+"O",-
+"Cz!",+
+"|uu",-
+"uJ",-
+"YPKO",-
+"uT",-
+"CO!",+
+
+// ground truth 
+endwith(or(<m0>,repeatatleast(<vow>,4)))

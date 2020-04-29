@@ -1,0 +1,25 @@
+// example 
+"wq",+
+"l,VFy",+
+"wW",+
+"l,VFR",+
+"a^[8^H",+
+"vr|",-
+"W|N;",-
+"t_\E",+
+"",-
+"vGv",+
+"f",-
+"~Fk`|",-
+"t-",-
+"R",-
+"t}",-
+"a^[8^i",+
+"vGZ",+
+"t_\p",+
+"/g]",-
+"~>9{",-
+"G)Pz(",-
+
+// ground truth 
+concat(<low>,endwith(<let>))

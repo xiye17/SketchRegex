@@ -1,0 +1,14 @@
+// example 
+"",+
+""xJ@",+
+"}E(r$0vQ",+
+"V6",+
+"0t9",+
+"-vqH{-",+
+"`",+
+"@;jF<^nn`",+
+"Q-OOY",+
+"zrv^#(.",+
+
+// ground truth 
+not(and(and(<any>,<m0>),<cap>))

@@ -1,0 +1,24 @@
+// example 
+"!5Q;&&",+
+"JdUV)>C%",-
+"V-N"Y",-
+"!SHGU=C",+
+"?USN{TS62",-
+"q",-
+"!2Ny",+
+"NRWR",-
+"!",+
+"!m+jnQpjy",+
+"",-
+"!K!X<o,r",+
+"mmA",-
+"=Bk4kS",-
+"!Y",+
+"!O]w5Uy'*^",+
+"!*p",+
+"!_$N%",+
+"yK",-
+"GgOxCV>",-
+
+// ground truth 
+concat(<m0>,contain(not(<let>)))

@@ -1,0 +1,25 @@
+// example 
+"[",-
+"^!["",-
+"KYB",-
+"rPmO~",-
+"xSvJpY",+
+"rP`7S",-
+"pIWKENNWfR",+
+"sk9A",-
+"",-
+"RUkWsChY",+
+"b",-
+"xRFNOXwBaHYCyK",+
+"xRFNOXwBaHYCWJ",+
+"FGuBnLQEwGNT",+
+"FGuBnLQEwGnN",+
+"KY~",-
+"xSvJRH",+
+"RUkWsCZK",+
+"l>",-
+"pIWKENNWTN",+
+"lC",-
+
+// ground truth 
+repeatatleast(concat(<let>,<cap>),3)

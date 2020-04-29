@@ -1,0 +1,25 @@
+// example 
+"weioeoqarU",+
+"CiwIvusEbiwu",+
+"KU}",-
+"KUg",-
+"NaNiGoSIVOzEDOYo",+
+"to&z",-
+"woyUDaguGObinAWoji",+
+"zUReAuKeHIbInO",+
+"weioeoqaro",+
+"",-
+"c",-
+"TO",-
+"BIua[",-
+"CiwIvusEbiwU",+
+"$",-
+"zUReAuKeHIbInu",+
+"NaNiGoSIVOzEDOYU",+
+"to\W",-
+"BIua<",-
+"woyUDaguGObinAWojE",+
+"Tg",-
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),5)

@@ -1,0 +1,25 @@
+// example 
+"aAf",+
+"UaOu",-
+"Uo",-
+"^_",+
+"uitH",+
+"UaOO",-
+"\",+
+"",-
+"UueOI",-
+"GI<).",+
+"UuE",-
+"aAF",+
+"m\Bvq",+
+"}1",+
+"ug)C",+
+"UI",-
+"H",+
+"I",-
+"Uui",-
+"UueOa",-
+"E",-
+
+// ground truth 
+not(or(<low>,star(<vow>)))

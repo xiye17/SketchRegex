@@ -1,0 +1,20 @@
+// example 
+"Z!Mub",-
+"4<",-
+"I!MQ",-
+"B!B!K!T!P!J!D!D!",+
+">n!",-
+",",-
+"F!C!G!M!N!P!K!Y!R!H!",+
+"\E",-
+"Z!M!^",-
+"",-
+"a",-
+"E!W!D!F!A!L!",+
+"V!H!Q!H!E!I!G!",+
+"I!#$",-
+"F!Z!Z!Z!P!T!L!J!V!",+
+"sYz",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<m0>),6)

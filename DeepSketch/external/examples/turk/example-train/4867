@@ -1,0 +1,15 @@
+// example 
+"&i",+
+"k{9",+
+"NB6>R.G}>",+
+"!.'`W,m",+
+"X_R#OYiUN-",+
+"bktk",+
+"uUeKN",+
+"f9*}4k",+
+"#9Pi6@[3",+
+"!",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<num>),<any>))

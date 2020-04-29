@@ -1,0 +1,25 @@
+// example 
+"s",-
+"~V@nZ",-
+"jy",+
+"kzantj",+
+"jK",+
+"ugwohmkNbb",+
+"N*",-
+"v\&G",-
+"kzantO",+
+"xNsQ",+
+"6_bP*",-
+"",+
+"v.C0",-
+"ugwohmkNbX",+
+"l'3",-
+"ybkEnYdC",+
+"z{",-
+"xNsc",+
+"ybkEnYds",+
+"lft",-
+"{",-
+
+// ground truth 
+star(concat(<low>,<let>))

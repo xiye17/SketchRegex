@@ -1,0 +1,15 @@
+// example 
+"",+
+"$,Bf5",+
+"AZey",+
+"!Yr",+
+"ou{",+
+"!-NB2",+
+"!C",+
+"!",-
+"B",+
+"!4K-",+
+"%@",+
+
+// ground truth 
+or(not(<m0>),repeatatleast(<low>,6))

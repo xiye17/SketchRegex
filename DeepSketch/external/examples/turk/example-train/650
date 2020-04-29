@@ -1,0 +1,17 @@
+// example 
+"fGU",-
+"`Aao",-
+"2",-
+"z[",-
+"zU",-
+"}oF4n",-
+"",-
+"fb,",-
+"zuT",+
+"}",-
+"dKo3",-
+"^wYs.",-
+"zoh",+
+
+// ground truth 
+concat(<low>,concat(<vow>,<any>))

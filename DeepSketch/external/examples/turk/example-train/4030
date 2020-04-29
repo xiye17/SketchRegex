@@ -1,0 +1,15 @@
+// example 
+"C5",+
+"&eX>!=2",+
+"0TY;-H<Yf",+
+"qKaV",+
+"P2ioXE*{E}",+
+"k",+
+"1,#~zt",+
+"|cx6a",+
+"-S,Z0);^",+
+"",-
+"h,;",+
+
+// ground truth 
+endwith(or(<cap>,<any>))

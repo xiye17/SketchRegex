@@ -1,0 +1,17 @@
+// example 
+">e@",-
+"P]",-
+"G\e0",-
+",",-
+"\t}",-
+"",-
+"`",-
+"Dd",+
+"P{",-
+"\Z]dc",-
+"Gd5;",-
+"/M"-(",-
+"DQ",+
+
+// ground truth 
+concat(<let>,or(<cap>,<low>))

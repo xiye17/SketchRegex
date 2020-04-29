@@ -1,0 +1,14 @@
+// example 
+"",+
+"knU^$K+",+
+"bu",+
+"m",+
+""`=X",+
+"&$4k?",+
+"r)F",+
+"Z{+I<HgD",+
+"rcnf\Obpx",+
+"[+l6Te",+
+
+// ground truth 
+not(and(and(<low>,<m0>),<m1>))

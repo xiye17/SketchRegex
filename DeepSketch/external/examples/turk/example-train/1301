@@ -1,0 +1,24 @@
+// example 
+"!*BVdCFo",+
+"2($7x",-
+"!f{BSt[",+
+"F*Jy$4Mu",-
+"CF",-
+"!",+
+"/_:/Ar",-
+"!>-q",+
+"!JWc3",+
+"",-
+"&R9h+F6W\",-
+"!?Q",+
+"!@=:.mR-4",+
+"KM0o",-
+"!-",+
+"#cw",-
+"u*(%@<_",-
+"I",-
+"!kYvSn*Q@A",+
+"!02jP(",+
+
+// ground truth 
+concat(startwith(<m0>),star(<m1>))

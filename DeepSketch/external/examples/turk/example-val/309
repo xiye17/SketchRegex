@@ -1,0 +1,26 @@
+// example 
+"ms",+
+"~3vp",+
+"}f",+
+"|q|/g",+
+"Y",-
+"QnD}mz",+
+"~3{f",+
+"QnD}3p",+
+"",-
+"{j]",-
+"}",-
+"~h\Y[",-
+"ym{T",-
+"ym{|",-
+"j",+
+"b{i",+
+"WX",-
+"b`b",+
+"W|",-
+"{j|",-
+"~h\Y{",-
+"|q|hv",+
+
+// ground truth 
+endwith(repeatatleast(<low>,1))

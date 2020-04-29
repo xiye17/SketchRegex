@@ -1,0 +1,25 @@
+// example 
+"/",-
+"zHKGJRVHEJOM",+
+"vDFSh",-
+"nXUYSFEVB",+
+"Cx",-
+"HSMDTDIOG",+
+"C#8G",-
+"MNQOVBUC",+
+"QLMBSCUNIP",+
+"",-
+"CVT5",-
+"S;G",-
+"UGXCNPYGGOAR",+
+"CZ",-
+"SmV",-
+"YQMEUUAHZZR",+
+"rNJOLVMWDH",+
+"eRFVKJJDZKM",+
+"M",-
+"\y#G0",-
+"sPJDLUBM",+
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,7))

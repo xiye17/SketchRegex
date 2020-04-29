@@ -1,0 +1,17 @@
+// example 
+"G",+
+"Sf]",+
+"IYE>|",+
+"q|{Tk",+
+"Gw+3",+
+"",+
+"An#",+
+"Dv",+
+"R",+
+"O",-
+"IS",+
+"I",-
+"Ib@e",+
+
+// ground truth 
+not(and(and(<vow>,<let>),<cap>))

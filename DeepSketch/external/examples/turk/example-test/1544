@@ -1,0 +1,14 @@
+// example 
+"",+
+"IKlzt>pF",+
+"S",+
+"H}UE>(o",+
+".'x~W",+
+"2Ed-",+
+"o!!",+
+"Hy",+
+"{5JD\;q);",+
+"M(9(h}",+
+
+// ground truth 
+not(and(concat(<any>,<m0>),<m0>))

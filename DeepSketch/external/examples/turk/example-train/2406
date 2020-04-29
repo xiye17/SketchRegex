@@ -1,0 +1,25 @@
+// example 
+"-x<",-
+"-x|",-
+"&2T",+
+"s1xfQ",+
+"O%kC`H",+
+"",-
+"n%&h6D6",+
+"W7`ic",-
+"&E)",+
+"n%&h6vA",+
+"x\-v",-
+"s1x3J",+
+"79",-
+"~W",+
+"O%k`pK",+
+"y",-
+"x\-/",-
+"=`Kq",+
+"7z",-
+"W7`i4",-
+"=`(T",+
+
+// ground truth 
+contain(concat(<any>,<cap>))

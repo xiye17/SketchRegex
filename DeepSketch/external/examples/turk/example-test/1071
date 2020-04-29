@@ -1,0 +1,16 @@
+// example 
+"Q!1",-
+"~/bd",-
+"9f",-
+"tR#L9",-
+"XYl(",-
+"twy",-
+"Q!",+
+"Y!V;G",-
+"Hq",-
+"(",-
+"",-
+"B",-
+
+// ground truth 
+and(concat(<let>,<m0>),concat(<cap>,<any>))

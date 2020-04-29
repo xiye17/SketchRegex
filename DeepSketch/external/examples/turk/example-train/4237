@@ -1,0 +1,17 @@
+// example 
+"EfjM",-
+"A0'n"",-
+"E",+
+"S6;Wj",-
+"",-
+")",-
+"D,",-
+"Q",-
+"RY:",-
+"G@M",-
+"E.",-
+"A",+
+"DUV8",-
+
+// ground truth 
+and(and(<vow>,<let>),<cap>)

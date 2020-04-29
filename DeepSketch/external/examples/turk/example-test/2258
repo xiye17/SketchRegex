@@ -1,0 +1,25 @@
+// example 
+"KPBhFJHlPAy-",+
+"R-aJY",-
+"KnVqSus^knB%wmMXs3",+
+"&w",-
+"D@",-
+"R-~*E",-
+"Ovb<DAT/U:mFLB",+
+"g^F1ysu0aGTTgCF"",+
+"g^F1ysu0aGTTgCog",+
+"j+FFM*isg5kNA(O;f1js",+
+"",-
+"Ovb<DAT/U:mFpm",+
+"KPBhFJHlPAM"",+
+"aJ`",-
+"@",-
+"kq}Q",-
+"I",-
+"kq`n",-
+"aJk",-
+"KnVqSus^knB%wmMXOh",+
+"j+FFM*isg5kNA(O;f1YX",+
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),6)

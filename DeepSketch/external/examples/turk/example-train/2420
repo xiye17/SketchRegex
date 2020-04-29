@@ -1,0 +1,17 @@
+// example 
+"AFy",-
+"E%)8",-
+"U`",-
+"X",-
+"UT>BR",-
+"",-
+"U#",-
+"E1",+
+"I2",+
+"Bg[L/",-
+"A9B",-
+"B",-
+"E2]i",-
+
+// ground truth 
+concat(and(and(<cap>,<any>),<vow>),<num>)

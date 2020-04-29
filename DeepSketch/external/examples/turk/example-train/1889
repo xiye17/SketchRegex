@@ -1,0 +1,25 @@
+// example 
+"WP}|w",+
+"ff.:ET",+
+"f}|mTa",+
+"|BI!",-
+"g)c",+
+"D~}",-
+"WP}qV",+
+"p",-
+"|tce\",-
+",Zk9",-
+"|A",-
+"Xx",+
+"d{|Q4",-
+"h0",-
+"",-
+"fz",+
+"T",-
+"c|:l",+
+"c||l",+
+"D~I",-
+"gw'",+
+
+// ground truth 
+concat(<let>,repeatatleast(contain(<low>),1))

@@ -1,0 +1,24 @@
+// example 
+"0uYI:UuUFu",+
+"8OVo,u.ICouO7a}E-A",+
+"`eHU(eio4UXu",+
+"jo@h",-
+"(g`",-
+"jo@t",-
+"8OVo,u.ICouO7a}E-U",+
+"\G0{\",-
+"fOZOuu[I]I-e@A?i",+
+"`eHU(eio4UXA",+
+"",-
+"kE",-
+"(H^",-
+"|",-
+"oe)ElEZOCIUOta",+
+"oe)ElEZOCIUOtE",+
+"fOZOuu[I]I-e@A?o",+
+"0uYI:UuUFU",+
+"\Pf|Z",-
+"kl",-
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),5)

@@ -1,0 +1,16 @@
+// example 
+"/",-
+"Q!",+
+"YnDv",-
+"_sr|Q",-
+"W",-
+"8!c",-
+"Y!!M",-
+"#F>zY",-
+"[B-",-
+"",-
+"bs",-
+"!L",-
+
+// ground truth 
+concat(and(<cap>,<any>),<m0>)

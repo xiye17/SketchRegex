@@ -1,0 +1,25 @@
+// example 
+"IumPE",+
+"0}Q",-
+"|Z~RKBlY",+
+"xTakt>",+
+"xTakK*",+
+"y]",-
+"|Z~RKBlg",+
+"e",-
+"~:wM",-
+"",-
+"`",-
+"0};",-
+"[P_nh",-
+"|_)WxtGNn",+
+"B_JXCuR",+
+"B_JXCuo",+
+"IumPw",+
+"~:w|",-
+"[P_nN",-
+"y}",-
+"|_)WxtGo_",+
+
+// ground truth 
+contain(repeatatleast(<let>,5))

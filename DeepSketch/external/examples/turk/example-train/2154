@@ -1,0 +1,25 @@
+// example 
+"JqUiOAGZVP",+
+"VcXwRMBEBTHT",+
+"IeLZFP",+
+"E^?",-
+"OoPbTvSc",+
+"){!5]",-
+"XWBxOsPyWrFLYQ",+
+"IeLZFd",+
+"JqUiOAGZVw",+
+"Li",-
+"0OS",-
+"OoPbTvSB",+
+"",-
+"xLA,",-
+"rR",-
+"LX_<B",-
+"Oks7",-
+"J",-
+"VcXwRMBEBTHn",+
+"XWBxOsPyWrFLYa",+
+"{",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),3)

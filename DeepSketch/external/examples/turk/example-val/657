@@ -1,0 +1,25 @@
+// example 
+"l}",-
+"n\]MV",-
+"WVvzbq",+
+"Ox",+
+"d"<ns",+
+"\ZB",-
+"]3hJ",-
+"RDw",+
+"n\]M\",-
+"~gRb",+
+"",-
+"Rlj",+
+"l[",-
+"]3h|",-
+"WVvzWr",+
+"d"<Pg",+
+"~gqk",+
+"\Z}",-
+"av",+
+"K",-
+"{",-
+
+// ground truth 
+concat(endwith(<let>),<low>)

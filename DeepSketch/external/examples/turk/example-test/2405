@@ -1,0 +1,17 @@
+// example 
+"!a",-
+"FhRJa",-
+"FUPd`",-
+"q",-
+"#L$",-
+"ho",+
+"he",+
+"",-
+"ZA:6",-
+"}VK",-
+"ZOo.",-
+"yH",-
+"~",-
+
+// ground truth 
+concat(or(<let>,<cap>),<vow>)

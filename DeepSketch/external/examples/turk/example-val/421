@@ -1,0 +1,25 @@
+// example 
+"hdX6",+
+"\",-
+"{yVm",-
+"gkmGTH3",+
+"PgY",-
+"*",-
+"hdi4",+
+"WDcs4",+
+"WDcM6",+
+"",-
+"iVVShIt3",+
+"AT",-
+"YwQ_",-
+"gkmGTn2",+
+"A~",-
+"zC$N+",-
+"iVVShIF4",+
+"Wfmqc5",+
+"WfmqH5",+
+"Pg|",-
+"zC`aw",-
+
+// ground truth 
+concat(repeatatleast(<let>,3),<num>)

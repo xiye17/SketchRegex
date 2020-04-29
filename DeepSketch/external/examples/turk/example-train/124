@@ -1,0 +1,17 @@
+// example 
+"`%",-
+"q!",+
+"UY",-
+"R!",+
+"z!a;f",-
+"^",-
+"",-
+"~BC0",-
+"z7E\c",-
+"|",-
+"Cz/",-
+"C!w",-
+"$6cb",-
+
+// ground truth 
+concat(or(or(<cap>,<low>),<m1>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"0",-
+"Q<",-
+"AKU851FR9",+
+"-o7p",-
+"9LJ<2",-
+"9W9GM61",+
+"AKU851FRL",+
+"OR451VNDPC",+
+"YY11TT25",+
+"D844V6Q0WI3",+
+"",-
+";",-
+"D844V6Q0WIT",+
+"Y5h",-
+"QC",-
+"D<ID",-
+"YY11TT2B",+
+"Y5?",-
+"9W9GM6R",+
+"OR451VNDP7",+
+"9LJ,=",-
+
+// ground truth 
+repeatatleast(or(<num>,<cap>),7)

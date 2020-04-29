@@ -1,0 +1,25 @@
+// example 
+"PNJaz['APnOHdgyeX",+
+"ou}{pAXKD.QGyilNnoxn",+
+"lXrvhgqCyPIBjNF",+
+"{W`CytoVujNKmsknrj",+
+"ou}{pAXKD.QGyilNnoxZ",+
+"~}~[",-
+"b_-`VEJXinfIrtNCqad",+
+"*",-
+"~}~D",-
+"}}=~Z",-
+"PNJaz['APnOHdgyev",+
+"}}=~\",-
+"",-
+"b",-
+"{W`CytoVujNKmsknrF",+
+"lXrvhgqCyPIBjNy",+
+"|=",-
+":}5",-
+":}s",-
+"b_-`VEJXinfIrtNCqaN",+
+"|_",-
+
+// ground truth 
+repeat(contain(repeat(<let>,5)),3)

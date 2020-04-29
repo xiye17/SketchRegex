@@ -1,0 +1,19 @@
+// example 
+"h+}}&9",+
+"nDL0",-
+"1<;&n{fTPS!0v",+
+"S-MyA*K",+
+"KdqBQ;aR"tb",+
+"",-
+"$",-
+"1`",-
+"y=BQ<gIb=",+
+"+'HBX*/W<f",+
+"sl40%`m2j_PP",+
+"1M`kX~ce^8[kNo",+
+"JrcPow~k",+
+")2>",-
+"'m_ZD",+
+
+// ground truth 
+repeatatleast(or(<any>,<num>),5)

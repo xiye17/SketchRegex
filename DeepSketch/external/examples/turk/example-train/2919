@@ -1,0 +1,25 @@
+// example 
+"a2",-
+"Rv",-
+"e4A6i6O1i4",+
+"A5A8a1U3u8u5u7o7",+
+"i5u9u0I0E8u3o0",+
+"E+r<",-
+"A5A8a1U3u8u5u7U1",+
+"e3a4e9O8",+
+"e4A6i6O1a0",+
+"i5u9u0I0E8u3u2",+
+"",-
+"A%|X!",-
+"O0o0u0U4O1A2",+
+"a",-
+"me[",-
+"e3a4e9A6",+
+"h;@",-
+"E4O0",-
+"J",-
+"O0o0u0U4O1O5",+
+"d{6?T",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),4)

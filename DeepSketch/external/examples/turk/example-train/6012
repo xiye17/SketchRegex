@@ -1,0 +1,15 @@
+// example 
+"",+
+"I$UF~U,zX2",+
+"7fz+VP(vD",+
+"5&l",+
+"=CfxVor=",+
+"RIJ&Zo",+
+"kC2s",+
+"SKr\P",+
+"iC",+
+"c",-
+"l}Rbl<*",+
+
+// ground truth 
+not(or(or(<let>,<any>),<low>))

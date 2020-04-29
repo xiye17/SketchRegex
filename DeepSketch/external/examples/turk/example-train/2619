@@ -1,0 +1,16 @@
+// example 
+":",-
+"p!iHc)",-
+"p+Ia./",-
+"48",-
+"@!p",-
+"a!\Z[",-
+"H!",+
+"x!28",-
+"@z9",-
+"xFxP",-
+"",-
+"aF+z8",-
+
+// ground truth 
+concat(or(or(<vow>,<any>),<let>),<m0>)

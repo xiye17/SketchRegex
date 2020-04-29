@@ -1,0 +1,26 @@
+// example 
+"TfL",+
+"*zOOJ",+
+"dGms",+
+"!q",+
+"Tfc",+
+"td@pj^",-
+"",-
+"rhAM~",-
+"td}l`N",-
+"!T",+
+"m\zR",-
+"i",+
+"hYTFJc",+
+"rhA|4",-
+"g\H",-
+"q`",-
+"*zOOm",+
+"dGmP",+
+"q!",-
+"m1$J",-
+"gm}",-
+"hYTFJW",+
+
+// ground truth 
+concat(<any>,star(<let>))

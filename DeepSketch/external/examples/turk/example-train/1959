@@ -1,0 +1,16 @@
+// example 
+"Vs=",-
+"E!",+
+"<",-
+"J`",-
+"E&r0",-
+"A",-
+"V!+",-
+"En}#&",-
+"E!0vF",-
+"",-
+"/1",-
+"cq"J",-
+
+// ground truth 
+or(concat(<cap>,<m0>),and(<m1>,<let>))

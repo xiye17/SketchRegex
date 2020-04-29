@@ -1,0 +1,21 @@
+// example 
+"xU[u5%W#<r*$}Xqw",+
+"|QzFZP",-
+"pVhWtDMlG39u[q",+
+"p\E#HNa|}VTY",+
+"@]W:m",-
+""G1[yd3g3}_1s",+
+"?[vK",-
+":T<",-
+"d",-
+"",-
+"&(~-tWbfTz",+
+"ujFd435C",+
+"aWc1mNLaZFc",+
+"WZ.#[mX(nzWQ"L&",+
+"!1",-
+"u1+[0_4-4",+
+"J!vDkVE",+
+
+// ground truth 
+repeatatleast(or(<any>,<vow>),7)

@@ -1,0 +1,25 @@
+// example 
+"k^fu0JPv;~m",+
+"y#EKLEHH",+
+"}[niqHPgp",+
+"[<",-
+"i{~",-
+"L_{}Kukbdf",+
+"y#EKLEHr",+
+"yVrfmXl",+
+"[^",-
+"^",-
+"",-
+"yVrfmXC",+
+"}",-
+"k^fu0JPvu0R",+
+"5Y(a",-
+"5Y(^",-
+"L_{}KukbdA",+
+"9^{f/",-
+"9^{fk",-
+"i{p",-
+"}[niqHPgX",+
+
+// ground truth 
+repeatatleast(contain(endwith(<let>)),7)

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"{d~",-
+"{dR",-
+"]eM{Lvu",+
+"EiEc&",+
+"VYM",+
+"~`ZMPY",+
+"Eis`m",+
+"VYd",+
+"_",-
+"]eM{LvH",+
+"3hkK",+
+"~`ZMgC",+
+"",-
+"GH",-
+"#}K]",-
+"^AJ}]",-
+"3hks",+
+"^AJ}-",-
+"Gh",-
+"#}K}",-
+
+// ground truth 
+contain(repeat(<let>,3))

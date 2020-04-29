@@ -1,0 +1,17 @@
+// example 
+"i@",+
+"yvKj",-
+"o",-
+"io",-
+"u@",+
+"n{@w",-
+"OpF",-
+"",-
+"O3r",-
+"0#k;&",-
+"i9",-
+"ZlBOf",-
+"C",-
+
+// ground truth 
+concat(or(or(<num>,<m0>),<vow>),<m1>)

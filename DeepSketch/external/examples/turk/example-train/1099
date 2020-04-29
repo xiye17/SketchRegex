@@ -1,0 +1,16 @@
+// example 
+"",+
+"?Vj",+
+",13#E",+
+"7",+
+"@-;d",+
+"fUJ",+
+"P!Zp",+
+";A",+
+"lc",+
+"\",+
+"zaGmR",+
+"L!",-
+
+// ground truth 
+not(concat(<cap>,<m0>))

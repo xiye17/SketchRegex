@@ -1,0 +1,25 @@
+// example 
+"MaMBeaioBo",+
+"o",-
+"eeo!eiueu",+
+"uos",-
+"MaMBeaioBu",+
+"a]MD"",-
+"i!ioooo",+
+"uUuHai",+
+"",-
+"ab!A",-
+"ad<9'",-
+"a",-
+"i!iooou",+
+"3c",-
+"aeaeioaO",+
+"uUuHao",+
+"eeo!eiueY",+
+"^h",-
+"uob",-
+"ct)n",-
+"aeaeioau",+
+
+// ground truth 
+repeatatleast(or(or(<vow>,<cap>),<m0>),6)

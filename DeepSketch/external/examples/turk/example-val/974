@@ -1,0 +1,15 @@
+// example 
+"!?G",-
+"BK",-
+"!*",-
+"!oNf",-
+"e7x",-
+"aFZqw",-
+"f9.Z",-
+"!,rmJ",-
+"!",+
+"d",-
+"",-
+
+// ground truth 
+or(<m0>,and(<m1>,<let>))

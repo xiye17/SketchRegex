@@ -1,0 +1,14 @@
+// example 
+"",+
+"3(dNy!-Y",+
+"83]JrGq<Y",+
+"Q*:>fw",+
+"3h#Zu",+
+"vP",+
+"x{I",+
+"~hy7f:.",+
+"z",+
+"=l.)",+
+
+// ground truth 
+not(and(and(<vow>,<m0>),<num>))

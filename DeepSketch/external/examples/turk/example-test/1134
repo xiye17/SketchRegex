@@ -1,0 +1,25 @@
+// example 
+"ZiZSKL!",+
+"H~1([",-
+"cL",-
+"yTYlLlH!",+
+"n",-
+"2yC",-
+"N@`",-
+"qvdsYWgh!",+
+"niuezKBYaZ!",+
+"~x%x",-
+"ZiZSKi!",+
+"",-
+"niuezKBYac!",+
+"P",-
+"Q@pz",-
+"_O",-
+"sOIapEcsK!",+
+"qvdsYWgA!",+
+"_`7e9",-
+"yTYlLld!",+
+"sOIapEcse!",+
+
+// ground truth 
+concat(repeatatleast(<let>,6),<m0>)

@@ -1,0 +1,15 @@
+// example 
+"wq",+
+"u'4DP7#>",+
+"lIZ;D|",+
+"=RQS]N6",+
+"Dlq=|.I,@X",+
+"HEgpG{7-v",+
+"`",+
+"6-o;g",+
+"*oe",+
+"O5Q)",+
+"",-
+
+// ground truth 
+endwith(or(<any>,<cap>))

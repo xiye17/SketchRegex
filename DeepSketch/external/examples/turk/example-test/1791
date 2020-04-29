@@ -1,0 +1,25 @@
+// example 
+"iOij^",+
+"uhW",+
+"ooAue",-
+"Ds7~",+
+"u",-
+"ubu",+
+"",-
+"a",-
+"EoO",-
+"Ooui",-
+"Eo",-
+"OouO",-
+"EoI",-
+"P",+
+"Li'F",+
+"Eu",-
+"J",+
+"p~",+
+"ooAuI",-
+"ibkBC",+
+"'\",+
+
+// ground truth 
+not(star(<vow>))

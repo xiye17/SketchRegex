@@ -1,0 +1,26 @@
+// example 
+"|.v}h",-
+"uheaqcd",+
+"+Iymqxwkp",+
+"eu&ycsbrjt",+
+"b~",-
+"{8'F~unzbkov",+
+"{'bu",-
+"{8'F0dxitqwg",+
+"{'b?",-
+"N}{hgzszdig",+
+"",-
+"Hdm",-
+"N}{|txqesus",+
+"|atdeayc",+
+"bN",-
+"w",-
+"+onexvwwn",+
+"euepyvprdv",+
+"Vdzihejr",+
+"{",-
+"Hd$",-
+"|.v}|",-
+
+// ground truth 
+endwith(repeatatleast(<low>,7))

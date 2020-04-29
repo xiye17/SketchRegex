@@ -1,0 +1,18 @@
+// examples
+"Ak",+
+"ak",+
+"aaaa",+
+"aaaaaa",+
+"aaaaaaaa",+
+"aaaaaaaaaa",+
+"azaaaaaaaaaa",+
+"$",-
+"@#",-
+"%%$#$",-
+"@#$@#",-
+"%a",-
+"%adsf",-
+"#AAAAAA",-
+
+// ground truth 
+concat(or(<cap>,<low>),contain(<any>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"=B_6?JE|7t",+
+"&E;",+
+"c:iYmUl)S",+
+"(v2VKG",+
+"I>d{",+
+"G7HON",+
+"u6TU_I5",+
+"L038>YkO",+
+"3<",+
+"_",-
+
+// ground truth 
+not(or(<num>,or(or(<m0>,<cap>),<any>)))

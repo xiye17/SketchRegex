@@ -1,0 +1,14 @@
+// example 
+"",+
+"YI"Pu3",+
+"%\%/",+
+"}R",+
+"`<x=\e;",+
+"t]E#%r}w",+
+"I",+
+"@:8Jh",+
+"SwM",+
+"',j#+]YV1",+
+
+// ground truth 
+endwith(or(star(<let>),<vow>))

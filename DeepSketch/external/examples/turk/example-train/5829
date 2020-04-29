@@ -1,0 +1,16 @@
+// example 
+"g",-
+"["d",-
+"O",-
+"-a",-
+"{W",-
+"k!8}",-
+"s!",+
+"~rp",-
+"iAYL"",-
+"|u:!w",-
+"",-
+"kMSR",-
+
+// ground truth 
+and(not(<cap>),concat(<low>,<m0>))

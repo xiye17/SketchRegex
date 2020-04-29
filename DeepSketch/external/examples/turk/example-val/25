@@ -1,0 +1,17 @@
+// example 
+"e+rG",-
+"~v",-
+"Pk@JO",-
+"5to",+
+"!",-
+"5ti",+
+"",-
+"7`",-
+"22A\",-
+"y",-
+"&Uf$T",-
+"1WJ",-
+"1WD",-
+
+// ground truth 
+concat(<num>,concat(<any>,<vow>))

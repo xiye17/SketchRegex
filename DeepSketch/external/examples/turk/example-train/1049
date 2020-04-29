@@ -1,0 +1,17 @@
+// example 
+"!L/_",-
+"!LR",+
+"u",-
+"!",-
+"!@/",-
+"",-
+"!Lv",+
+"8~WeV",-
+"~'B",-
+"!Y",-
+"!LUy",-
+"!-",-
+"!gl/X",-
+
+// ground truth 
+concat(<m0>,concat(<cap>,<let>))

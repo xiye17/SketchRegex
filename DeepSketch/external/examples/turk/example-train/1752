@@ -1,0 +1,25 @@
+// example 
+"a7_7",-
+"]+v",+
+",",+
+"mD()h",-
+"}%U.",+
+"{\",+
+"Hg",+
+"iY5h3ZnR",-
+"",+
+"{No",+
+"f",-
+"bYW~;f",-
+"em%W\{yl4",-
+"ar.'Lk$`y;",-
+"{r4EJ",+
+"^OQ'9",+
+"c<",-
+"txJ",-
+"de8MA]X",-
+"$St$",+
+"{",+
+
+// ground truth 
+not(startwith(<low>))

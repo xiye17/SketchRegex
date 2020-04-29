@@ -1,0 +1,17 @@
+// example 
+"L}d",-
+"E!p",-
+"j&",-
+"d1L8c",-
+"",-
+"U!",+
+"|Uk+@",-
+"A*",-
+"A!",+
+"gk:x",-
+"A",-
+"F:C$",-
+"I",-
+
+// ground truth 
+concat(and(and(<let>,<any>),<vow>),<m0>)

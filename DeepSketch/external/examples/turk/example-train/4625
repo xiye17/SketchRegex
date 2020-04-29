@@ -1,0 +1,25 @@
+// example 
+"YiZO",+
+"Ta",+
+"d^mVf",-
+"OW\",-
+"sc'YI",+
+"OWF",-
+"]EO",+
+"",-
+"[Fo{Ya",+
+"To",+
+"d^mVY",-
+"YiZI",+
+"_fur",-
+"pL",-
+"[Fo{YE",+
+"sc'YE",+
+"]EA",+
+"M",-
+"p4",-
+"{",-
+"_fuF",-
+
+// ground truth 
+endwith(concat(<cap>,<vow>))

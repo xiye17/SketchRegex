@@ -1,0 +1,18 @@
+// examples
+"aaA",+
+"a!B",+
+"b;G",+
+"k2$M",+
+"u,3N",+
+"p4A5N",+
+"asS",+
+"Asq",-
+"b;8",-
+"c`a",-
+"z!'",-
+"zZz",-
+"Zz<",-
+"`kk",-
+
+// ground truth 
+concat(concat(<low>,contain(<any>)),contain(<cap>))

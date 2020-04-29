@@ -1,0 +1,15 @@
+// example 
+"_-v.u$",+
+"O8Fy`(a",+
+"G6r2;zzk%.",+
+"AxWf",+
+"e",+
+"w|%&>M#'^",+
+"<j-%:M.;",+
+"koF",+
+"ak",+
+"|\DLS",+
+"",-
+
+// ground truth 
+contain(or(<any>,concat(<let>,<num>)))

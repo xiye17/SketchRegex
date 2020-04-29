@@ -1,0 +1,25 @@
+// example 
+"RuIooaEe",+
+"RuIooaEO",+
+"\{"",-
+"MueE",-
+"XS",-
+"GiieiIuII",+
+"BUEIaEEEoe",+
+"",-
+"GiieiIuIA",+
+"f",-
+"7_5(Z",-
+"Pieeiio",+
+"PieeiiI",+
+"^Wm1",-
+"BUEIaEEEoE",+
+"}f+t}",-
+"wEIAeOIuaUa",+
+"I",-
+"{e/",-
+"wEIAeOIuaUe",+
+"Xg",-
+
+// ground truth 
+concat(<let>,repeatatleast(<vow>,6))

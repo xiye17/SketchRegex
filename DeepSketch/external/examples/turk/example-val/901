@@ -1,0 +1,25 @@
+// example 
+"EEoiie!",+
+":fs",-
+"u",-
+"eaA!",+
+"Oh",-
+"AooEa!",+
+"Eiuo!",+
+"eaa!",+
+"_",-
+"`s",-
+"",-
+"AooEi!",+
+"EEoiiU!",+
+"Og-P",-
+"EiuA!",+
+"IoPfd",-
+"EiuOoOu!",+
+"T0F",-
+"Iod3{",-
+"OCP,",-
+"EiuOoOI!",+
+
+// ground truth 
+concat(repeatatleast(<vow>,3),<m0>)

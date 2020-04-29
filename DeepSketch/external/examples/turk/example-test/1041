@@ -1,0 +1,25 @@
+// example 
+"uyW!",+
+"Fp",-
+"9e?a!",+
+"4",-
+"1!",+
+"!",+
+"?G!f}N",+
+"!%@",+
+"9e?!E",+
+"<QiE",-
+"",-
+"F{)",-
+"F9Mubd[v",-
+"UM!",+
+"\'P-uM",-
+"t:6U:MD",-
+"_$k4TSOm4",-
+"?Gh"Y!",+
+"!0",+
+"uy!P",+
+"HfIw*",-
+
+// ground truth 
+contain(concat(<m0>,star(<any>)))

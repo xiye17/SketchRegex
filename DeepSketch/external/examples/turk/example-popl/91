@@ -1,0 +1,18 @@
+// examples
+"DFGHJKJHGFD",+
+"OIUYTRE",+
+"LKJHGFDS",+
+"ZXCVBNM",+
+"SDFGHJK",+
+"POIUYTRE",+
+"WEDFGH",+
+"sdfghjk",-
+"oiuytre",-
+"cvbnm",-
+"ytrdcvbnjk",-
+"gkhgfghjkl.u,ymt",-
+"uhgyftcvbnm",-
+"",-
+
+// ground truth 
+repeatatleast(<cap>,6)

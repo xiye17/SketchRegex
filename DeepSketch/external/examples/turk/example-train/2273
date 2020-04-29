@@ -1,0 +1,25 @@
+// example 
+"0;~uC/Yjr2",+
+":G",-
+"5Q{9|(x",+
+"4{y1NBHo-",+
+"bJQn",-
+"|{hRvzQ!",+
+"}|{}",-
+"4{}yeau@%",+
+"",-
+"c",-
+"}",-
+"0;o;-fux;K",+
+"C~}",-
+"C~Q",-
+"5pG[Wm!",+
+"Bx.W~",-
+"xo",-
+"BZieM",-
+"{mb"]*",+
+"|{}|~$}o",+
+"{{tbsk",+
+
+// ground truth 
+and(contain(<low>),repeatatleast(<any>,6))

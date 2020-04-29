@@ -1,0 +1,25 @@
+// example 
+"r",-
+"~3",-
+"wscyy",+
+"fawcywoxt",+
+"dfe",+
+",i6",-
+"hmpnvk",+
+"dkkpegdu",+
+"lryo",+
+"",-
+")",-
+"|b3",-
+"qpgcxgv",+
+"raamdbheups",+
+"\N",-
+"~(LZV",-
+"z>.m",-
+"zzI4",-
+"oxawryxvvado",+
+"nlwxsonndp",+
+"x%_?"",-
+
+// ground truth 
+repeatatleast(and(<any>,<low>),3)

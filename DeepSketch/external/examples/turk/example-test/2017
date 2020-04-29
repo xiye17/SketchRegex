@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+concat(repeatatleast(<m0>,6),and(<m1>,<m2>))

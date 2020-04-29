@@ -1,0 +1,16 @@
+// example 
+"",+
+"Zy",+
+""BQ",+
+"R",+
+"yPCu",+
+"=#={v",+
+"=Gx30",+
+"ZE",+
+"qA!",-
+"qe!",-
+""{1",+
+"yO!C",+
+
+// ground truth 
+not(concat(concat(<any>,<vow>),<m0>))

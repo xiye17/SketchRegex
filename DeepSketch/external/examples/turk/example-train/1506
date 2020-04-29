@@ -1,0 +1,25 @@
+// example 
+"r",-
+"]O9}H",-
+"R!",-
+"i!w!s!L!S!A!y!",+
+"]Mc;",-
+"i!w!s!L!S!A!T!",+
+"RO",-
+"_",-
+"f!o!M!u!B!p!I!a!",+
+"",-
+""P|",-
+"|XIxl",-
+"W!j!v!W!c!h!u!j!w!",+
+"f!o!M!u!B!p!I!Y!",+
+"W!S!C!S!c!I!D!D!I!a!",+
+"~zU",-
+"{t0Z",-
+"W!j!v!W!c!h!u!j!O!",+
+"e!w!K!V!o!C!",+
+"W!S!C!S!c!I!D!D!I!D!",+
+"e!w!K!V!o!t!",+
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),6)

@@ -1,0 +1,25 @@
+// example 
+"]}#k",+
+"`"_^",-
+"]8r`P",-
+"p_",+
+"~n|",+
+"U^K",-
+"pT",+
+"",-
+"#a~$]",+
+"~nm",+
+"}",-
+"f",+
+"<",-
+"U^e",-
+"N",+
+"[3",-
+"]8r`r",-
+"`"_/",-
+"]}#H",+
+"#a~${",+
+"[}",-
+
+// ground truth 
+concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>))))

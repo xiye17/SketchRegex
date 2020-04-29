@@ -1,0 +1,17 @@
+// example 
+"Y",-
+"yo",+
+"vK&Zo",-
+"~A",-
+"ya",+
+"kI<",-
+"",-
+"!J",-
+"kOr",-
+"}",-
+"~Irs",-
+"vxK98",-
+"by^w",-
+
+// ground truth 
+concat(or(<low>,<m0>),<vow>)

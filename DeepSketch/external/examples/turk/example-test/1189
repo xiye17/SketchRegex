@@ -1,0 +1,25 @@
+// example 
+"u3E4I1o8U5E1e5",+
+"A2i",-
+"I4U5I9i3E2U1U3a9",+
+"a0I4O2O4O0O4E7O9u6",+
+"X2AHf",-
+"U1O8U0o9i3A0",+
+"I4U5I9i3E2U1U3U2",+
+"A-y",-
+"X",-
+"",-
+"E8i6O2U2U5",+
+"NW",-
+"}",-
+"q_=JT",-
+"E8i6O2U2u1",+
+"mh",-
+"U1O8U0o9i3E0",+
+"a0I4O2O4O0O4E7O9o9",+
+"U5ue",-
+"U5u-",-
+"u3E4I1o8U5E1i9",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),5)

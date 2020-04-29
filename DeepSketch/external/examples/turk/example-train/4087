@@ -1,0 +1,21 @@
+// example 
+"5X4L3H7D5K",+
+"99",-
+"0A2J2C0Z2F9W0K7J",+
+"0U7P8F0K6S4R5H5C7T1A",+
+"[w-",-
+"1N1O8J4L9Y5K",+
+"",-
+"U|_W6",-
+".&IPo",-
+"|",-
+"2F8W8J6P0G5R1U",+
+"#ZwO",-
+"7",-
+"&R",-
+"0Q3",-
+"zP3&",-
+"8C8X5K0M9M5V5X7G3N",+
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),5)

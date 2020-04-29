@@ -1,0 +1,26 @@
+// example 
+"$.",-
+"UgI",-
+"%7`~",+
+"t",-
+"1A>yZ7",+
+"!(jye",-
+"+P%x8G",+
+"/oO.",-
+"Zp6",+
+"*",-
+"%s3O",+
+"!(jy!",-
+"+4",+
+"[9{jq",+
+"Z*2",+
+"",-
+"Ug"",-
+"[e4a'",+
+"/oOY",-
+"$<",-
+"9",+
+"9k",+
+
+// ground truth 
+contain(repeatatleast(endwith(<num>),1))

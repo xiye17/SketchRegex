@@ -1,0 +1,17 @@
+// example 
+"xU",+
+"Ey",-
+"",-
+"`",-
+"}yy}",-
+":",-
+"E1",-
+"sMQ%",-
+"3(A",-
+"}fErr",-
+"NYE",-
+"0O)Xn",-
+"WL",+
+
+// ground truth 
+concat(<let>,<cap>)

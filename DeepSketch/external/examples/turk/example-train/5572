@@ -1,0 +1,25 @@
+// example 
+"hB"",-
+"bw&-dhXYz",+
+"V1l4{j|",-
+"qg",-
+":70"':U|",-
+":70"':U\",-
+"1okAE6`s",+
+"FK,;z^O?\r",+
+"",-
+"14s98*T",+
+"FJ$G#I",-
+"cVz4Gg,\4yL",+
+"bw&-dhXYV",+
+"FK,;z^O?\G",+
+"WGs_k",-
+"1okAE6`Q",+
+"cVz4Gg,\4yb",+
+"V1l4{j5",-
+"v",-
+"C_Km",-
+"14s98*o",+
+
+// ground truth 
+concat(repeatatleast(<any>,6),<let>)

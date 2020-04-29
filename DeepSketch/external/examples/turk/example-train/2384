@@ -1,0 +1,14 @@
+// example 
+"",+
+"$8",+
+"n9nX4M:",+
+"P",+
+"-2#-`Vm%",+
+"Z!g",+
+"?AJz",+
+"hK-OO'",+
+"73kKm",+
+"9nw&0o/+e",+
+
+// ground truth 
+not(and(and(<num>,<vow>),<m0>))

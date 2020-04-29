@@ -1,0 +1,25 @@
+// example 
+"yogwdfee",-
+"{G&wk",+
+"wby~",+
+"rqcz",-
+">`",+
+"prtopwm",-
+"pta",-
+"dt",-
+"fwhnsklvl",-
+"~w",+
+"~5_s",+
+"a",-
+"nvrzp",-
+"snmejt",-
+"",+
+"}",-
+"giN",+
+"Z}iYp",+
+"[9cX+}",+
+"gi{",+
+"|K8%{{",+
+
+// ground truth 
+not(or(repeatatleast(<low>,1),<any>))

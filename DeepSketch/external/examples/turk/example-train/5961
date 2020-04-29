@@ -1,0 +1,16 @@
+// example 
+"Z!",+
+"xMg5",-
+")(]4V",-
+"IU",-
+"9|6J",-
+"U",-
+"1#",-
+"HA-",-
+"H!%",-
+"x",-
+"jIcZo",-
+"",-
+
+// ground truth 
+concat(and(<let>,<cap>),<m0>)

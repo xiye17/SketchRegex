@@ -1,0 +1,25 @@
+// example 
+"!^",-
+"^~UTpQS@",+
+"KL!",-
+"<`|!",-
+"'cNU`H",+
+"!",-
+"!A~NZr",-
+"w!%}r"",-
+"K!S",-
+"Ozsl]",+
+"",+
+"<!9f",-
+"%?!j^",-
+"?XkE%.MYq",+
+"X!",-
+"ExfX>sz",+
+"5",+
+"%?b'!",-
+"DxT",+
+"o7.|",+
+"YB",+
+
+// ground truth 
+not(contain(endwith(<m0>)))

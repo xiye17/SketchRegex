@@ -1,0 +1,25 @@
+// example 
+"_yfNP",+
+"lt1",-
+"MSr^#f",+
+"bIHA",+
+"8(Goerw",+
+"",-
+"*mJZ!",-
+"bIHl",+
+"}H}{",-
+"8(GoerP",+
+"{%L|vvUI",+
+"6",-
+"MSr^~w",+
+"*mJZ}",-
+"_yfNl",+
+"}H}w",-
+"{%L|vvUu",+
+"{",-
+"l?",-
+"lB",-
+"ltW",-
+
+// ground truth 
+repeatatleast(or(<let>,endwith(<low>)),4)

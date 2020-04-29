@@ -1,0 +1,16 @@
+// example 
+"e!",+
+"P!k",-
+"uH@ty",-
+"F6",-
+"PO2",-
+"Fl",-
+"u^H?v",-
+"H",-
+")!7[",-
+"",-
+")(]K",-
+"eK",+
+
+// ground truth 
+concat(<any>,or(<m0>,<cap>))

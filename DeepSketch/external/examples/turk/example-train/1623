@@ -1,0 +1,25 @@
+// example 
+"[",-
+"\#I",-
+"{w",-
+"LxbrEYGyO",+
+"GDbZVyocyTUE",+
+"GDbZVyocyTqQ",+
+"+",-
+"LxbrEYGNR",+
+"",-
+"vrek",-
+"G`e4a",-
+"nwErpUOfEJO",+
+"vre<",-
+"xhCraBsU",+
+"T[|",-
+"q,",-
+"xhCraBJB",+
+"nwErpUOfEcQ",+
+"G0]>}",-
+"URZrxnrzAI",+
+"URZrxnrztH",+
+
+// ground truth 
+concat(repeatatleast(<let>,7),<cap>)

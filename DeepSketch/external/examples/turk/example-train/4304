@@ -1,0 +1,25 @@
+// example 
+"p",+
+"|0t",-
+"kx|tg|",+
+"0V",-
+"c5jVnJ4`",+
+"",-
+"}.1bA",-
+"p'Wd3",+
+"xD6EQFt",+
+"i_",+
+"P",-
+"kgk",+
+"qpA_k?2cD",+
+"<*A",-
+"|Ac_",-
+"j8UC",+
+"tqhQq)pk$@",+
+"~-",-
+",sIp",-
+"?P5?n",-
+"~",-
+
+// ground truth 
+and(startwith(<low>),contain(<let>))

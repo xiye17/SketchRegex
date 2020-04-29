@@ -1,0 +1,17 @@
+// example 
+"E>",-
+"EV",-
+"O|f",-
+"E@",+
+"<R;7",-
+"YHu.",-
+"Is.E6",-
+"",-
+"O@",+
+"U",-
+"I@.<M",-
+"O/:",-
+"L",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<vow>),<m1>)

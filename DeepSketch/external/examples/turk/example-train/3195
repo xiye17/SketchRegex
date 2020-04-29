@@ -1,0 +1,25 @@
+// example 
+"XeVz0",+
+"_#/t",-
+"}T",-
+",",-
+"k4\)",+
+"J8a",+
+"_",-
+"b$y",+
+"V@iT",+
+"",-
+"7(",-
+"/X8",-
+"'6OR",-
+"e",+
+"^';eM",-
+"|66",-
+"v)RpZ",+
+"kT",+
+"I",+
+"QR",+
+"}/5#_",-
+
+// ground truth 
+repeatatleast(startwith(<let>),1)

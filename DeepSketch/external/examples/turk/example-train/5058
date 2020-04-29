@@ -1,0 +1,25 @@
+// example 
+"EuM",+
+"D",+
+"UIIAEkAIwA",-
+"J`3.",+
+"IIIIUUEUAjE",-
+"OE_hD",+
+"IEIxIcI",-
+"AO",+
+"IEIxIcE",-
+"UIIAEkAIwU",-
+"OE9Q9",+
+"IIIIUUEUAjU",-
+"",+
+"AU",+
+"0(Z",+
+"UAAAOAIA",-
+"UAAAOAIm",-
+"DS8(",+
+"IExUIojOO",-
+"A",+
+"IExUIojOI",-
+
+// ground truth 
+not(repeatatleast(or(<vow>,<low>),7))

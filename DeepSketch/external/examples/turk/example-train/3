@@ -1,0 +1,19 @@
+// example 
+"k.fZQ/(#"gVYE[",+
+"Qx'\@",+
+"!4",-
+"ZHq4M=gUx",+
+"-PA@%LFR@X",+
+"pq<g{k_uZ2nq",+
+"_",-
+"+SH<",-
+"",-
+"fBiPYMi",+
+"I6jU.WJOfl8L)",+
+">R0Tz@-]",+
+").3VLd$N6]x",+
+"TKeUuT",+
+"+Xt",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),5)

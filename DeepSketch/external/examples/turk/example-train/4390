@@ -1,0 +1,24 @@
+// example 
+"!3p<XU9",+
+"m<LV",-
+"!>b",+
+"Aj{ELO",-
+"!f|E",+
+"!h-n]xTBU$",+
+"!$uIedm^{J(",+
+"nQ"",-
+"g9^zFJCS",-
+"!D",+
+"!",-
+"Edh1o",-
+"!,v"gf",+
+"e",-
+"",-
+"ckS]Oau",-
+"!|fz'>1s",+
+"!^:e!`r<1",+
+"~,",-
+"!+hlB",+
+
+// ground truth 
+concat(<m0>,endwith(<any>))

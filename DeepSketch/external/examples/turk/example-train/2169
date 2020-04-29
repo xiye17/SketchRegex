@@ -1,0 +1,17 @@
+// example 
+"\'g",+
+"6Gwm\",+
+"Fq",-
+"3",+
+"Z{4c",+
+"pa",-
+"",+
+"r(",+
+"r~",+
+"Z>2m",+
+"J",+
+"^y(:a",+
+"1*|",+
+
+// ground truth 
+not(concat(<let>,<low>))

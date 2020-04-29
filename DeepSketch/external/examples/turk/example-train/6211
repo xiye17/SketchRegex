@@ -1,0 +1,17 @@
+// example 
+"Bn6",+
+"~JyA}",-
+"_E%oW",-
+"N%",-
+"",-
+"`",-
+"ft`z",-
+"hj9",+
+"U",-
+"Nd",-
+"ft3{",-
+"B7i",-
+"B|C",-
+
+// ground truth 
+concat(<let>,concat(<low>,<num>))

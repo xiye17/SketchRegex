@@ -1,0 +1,17 @@
+// example 
+"c#"",+
+"@]uU",+
+"{d"E46m^%",+
+"_",-
+"",-
+"P\&Jha{${=T:",+
+"z5cm29",+
+"<8[v5%J",+
+"g_d)<MS=",+
+"YA?m{l)~+=",+
+"]N",-
+"ocU+)",+
+"9);?/7{`{cg",+
+
+// ground truth 
+concat(not(<let>),repeatatleast(<any>,3))

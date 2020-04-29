@@ -1,0 +1,25 @@
+// example 
+"fy^A",-
+"meaZ",+
+"JetRu",-
+"UteuoT",+
+"xAP",+
+"meoR",+
+"UteuuG",+
+"",-
+"uL",+
+"UM",+
+"P",-
+"bu",-
+"uajuB",+
+"Ia`",-
+"bD",-
+"uajUW",+
+"Ia<",-
+"J",-
+"fy^_",-
+"JetRh",-
+"xuP",+
+
+// ground truth 
+repeatatleast(contain(concat(<vow>,<cap>)),1)

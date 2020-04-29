@@ -1,0 +1,15 @@
+// example 
+"!*"_",-
+"$",-
+"!S",-
+"0K6Y",-
+"dE",-
+"!NTI5",-
+"bc[?'",-
+"!Tu",-
+"VIG",-
+"!",+
+"",-
+
+// ground truth 
+and(endwith(<m0>),<any>)

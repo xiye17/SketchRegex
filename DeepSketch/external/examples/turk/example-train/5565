@@ -1,0 +1,25 @@
+// example 
+"c`",-
+"|,m@",-
+"}+eK3",-
+"B_8",-
+"Rw",+
+"b[:#-",-
+"KBCV",+
+"BM0",-
+"RW",+
+"OwRXyn",+
+"qkh",+
+"",-
+"JoGKN",+
+"P",-
+"|",-
+"]c5=",-
+"c~",-
+"qkS",+
+"OwRXyD",+
+"KBCf",+
+"JoGKf",+
+
+// ground truth 
+or(repeatatleast(<let>,2),concat(<m0>,<m1>))

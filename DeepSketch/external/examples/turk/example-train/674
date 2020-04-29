@@ -1,0 +1,17 @@
+// example 
+"I6!",+
+"[",-
+"E8",-
+"o+}<&",-
+"D'+",-
+"oOi^C",-
+"uW4.",-
+"",-
+"d<5",-
+"R",-
+"E(",-
+"U1!",+
+"u$oT",-
+
+// ground truth 
+concat(<vow>,concat(<num>,<m0>))

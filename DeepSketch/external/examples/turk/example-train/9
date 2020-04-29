@@ -1,0 +1,25 @@
+// example 
+"J+v",+
+"D)~W{w",+
+"D)~W-f",+
+"={R",-
+"7E|}Gs|",+
+"VA~|",-
+"(_kK",+
+"={}",-
+"K}fWH",+
+"",-
+"sn",+
+"7EtR6&|",+
+"VA~L",-
+"I}A||",-
+"I}A|!",-
+"B{",-
+"BD",-
+"I",-
+"K}}Pk",+
+"Jwe",+
+"(_Nu",+
+
+// ground truth 
+repeatatleast(contain(concat(<any>,<low>)),1)

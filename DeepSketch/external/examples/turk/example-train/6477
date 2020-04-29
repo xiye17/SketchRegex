@@ -1,0 +1,25 @@
+// example 
+"oe",+
+"aGE",+
+"aH",-
+"Qq@",-
+"iolU",+
+"d",-
+"aY",-
+"4I<z",-
+"",-
+"'",-
+"aGi",+
+"Auae@",-
+"e",+
+"Auaeh",-
+"ouIKO",+
+"ouIKi",+
+"u",+
+"oO",+
+"iola",+
+"QqJ",-
+"4I<(",-
+
+// ground truth 
+endwith(or(<vow>,<num>))

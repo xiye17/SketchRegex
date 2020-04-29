@@ -1,0 +1,25 @@
+// example 
+"Tc",-
+"urAnOgeEoveKEU",+
+"Hn1}D",-
+"urAnOgeEoveKEg",+
+"UfoMiHAk",+
+"EHUUuEaQOBOAImuh",+
+"AUiOAjiAEseF",+
+"EHUUuEaQOBOAImuT",+
+"m",-
+"Awe",-
+"",-
+"OSUpOQEcua",+
+"}t",-
+"}0YA_",-
+"AwA",-
+"AUiOAjiAEsev",+
+"O",-
+"OSUpOQEcuF",+
+"E-yB",-
+"E{i(",-
+"UfoMiHAG",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),4)

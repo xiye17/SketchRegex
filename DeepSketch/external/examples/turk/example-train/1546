@@ -1,0 +1,25 @@
+// example 
+"`z",+
+"z_e}",-
+":{j4}",-
+""A",-
+"gB-sg",+
+"!{{",-
+"H*r",+
+"gB-{i",+
+"!{`",-
+"L~NY}h",+
+"SkDl",+
+"",-
+"Sket",+
+"P",-
+":{j4H",-
+"L~NYnt",+
+"H}z",+
+""~",-
+"I%~~i3l",+
+"I%~~i{j",+
+"z_eT",-
+
+// ground truth 
+concat(endwith(<any>),repeatatleast(<low>,1))

@@ -1,0 +1,25 @@
+// example 
+"!at",+
+"!_",-
+"!aCcJq",+
+"!Fe]",-
+"!",-
+"#v"",-
+"!O",+
+"!7PRK",-
+"!LYUs",+
+"",-
+"!aV",+
+"!LYUQ",+
+"!N|",-
+"!aCcJJ",+
+"!NZg",+
+"U",-
+"~P",-
+"O=%vX",-
+">)cK",-
+"!n",+
+"!NZV",+
+
+// ground truth 
+concat(<m0>,repeatatleast(<let>,1))

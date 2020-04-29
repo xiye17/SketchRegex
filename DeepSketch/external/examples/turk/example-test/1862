@@ -1,0 +1,14 @@
+// example 
+"",+
+"Hcbt",+
+"15e9+TrBr",+
+"&?'",+
+"{6'%>",+
+"OT?_=:`",+
+"G$",+
+"IEEwi'",+
+"m(MinpFB",+
+"_",+
+
+// ground truth 
+not(and(and(<m0>,<let>),<num>))

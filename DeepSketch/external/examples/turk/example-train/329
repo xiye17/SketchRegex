@@ -1,0 +1,17 @@
+// example 
+"!zo",+
+"*T&p",-
+"!rH",-
+"!",-
+"",-
+"!r?",-
+"!c|e",-
+"!pAHP",-
+"!zi",+
+"w",-
+"vt",-
+"!pBZ%",-
+"!n",-
+
+// ground truth 
+concat(<m0>,concat(<low>,<vow>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"6!V(>psF",+
+"`@f",+
+">un9",+
+"9g",+
+")ldXl",+
+"!`_6j`",+
+"+VT:F<^`*",+
+"$",+
+"kVM(OK-",+
+
+// ground truth 
+startwith(or(star(<any>),<m0>))

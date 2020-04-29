@@ -1,0 +1,14 @@
+// example 
+"",+
+"FD<V~JA",+
+"B=6{|",+
+")",+
+"wBw~",+
+"UL+n)5^7",+
+"e/",+
+"SV,",+
+"g'eYt?",+
+"5+fIudW?k",+
+
+// ground truth 
+contain(star(or(<any>,<m0>)))

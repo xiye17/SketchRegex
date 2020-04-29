@@ -1,0 +1,25 @@
+// example 
+"!cL",-
+"!YZi",-
+"C!",+
+"Ml}nm",-
+"ZSQ!",+
+"!",+
+"MZYMQLQGQ!",+
+"",-
+":",-
+"VG",-
+"h",-
+"''K",-
+"MXZKN!",+
+"MGCMINH!",+
+"ABGNACTL!",+
+"FJJIQI!",+
+"HW!",+
+"XMPO!",+
+"fnF!",-
+"M'AKg",-
+"V,",-
+
+// ground truth 
+concat(star(<cap>),<m0>)

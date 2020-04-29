@@ -1,0 +1,17 @@
+// example 
+"=lR",-
+"lN",-
+"PhU\",-
+"}a",+
+"l",-
+"Pa>@",-
+"BhVup",-
+"",-
+"Bomda",-
+"|",-
+"}o",+
+"l3",-
+"=eM",-
+
+// ground truth 
+and(concat(<any>,<vow>),contain(<low>))

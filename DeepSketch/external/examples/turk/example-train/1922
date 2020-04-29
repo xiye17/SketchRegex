@@ -1,0 +1,14 @@
+// example 
+"",+
+"Wr1\",+
+"R&1tP[}",+
+"V#",+
+"h^8",+
+"Pj.lP",+
+"I%6LsS",+
+"m",+
+"n+HduzA#",+
+"^OqvgtV?U",+
+
+// ground truth 
+not(and(and(<let>,<low>),<num>))

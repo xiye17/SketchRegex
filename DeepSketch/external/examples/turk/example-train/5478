@@ -1,0 +1,19 @@
+// example 
+"nPR&4bN4ke",+
+"krb)+.Dh+W~CG",+
+"U{2["d=(0",+
+";Y}",-
+"<sAR",-
+"",-
+"UVD2G+H@fB^",+
+"i")iYVrY",+
+"eqL[[bB"c2j)sO",+
+";",-
+"?E(M8",+
+"<'",-
+"3e7h]SV",+
+"43;Ul?]x5@VS",+
+"nEj@ul",+
+
+// ground truth 
+repeatatleast(or(<low>,<any>),5)

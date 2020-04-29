@@ -1,0 +1,25 @@
+// example 
+"AE",+
+"ETAe",+
+"Z",-
+"TBIOU",+
+"D@",-
+"DX",-
+"u~\",-
+"EeW",-
+"a",+
+"TBIOA",+
+"",-
+"YEu",+
+"b",-
+"#*v!",-
+"YEE",+
+"ETAi",+
+"nb~5+",-
+"lbs`",-
+"'9RzK",-
+"A",+
+"Ai",+
+
+// ground truth 
+concat(star(<cap>),<vow>)

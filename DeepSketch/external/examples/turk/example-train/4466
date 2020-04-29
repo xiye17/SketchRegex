@@ -1,0 +1,16 @@
+// example 
+";C<J",-
+"oV",-
+"0u",+
+"QN;",-
+"!:1",-
+"6",-
+"0o0QL",-
+"/>To",-
+"0{YPL",-
+"",-
+"#E",-
+"'",-
+
+// ground truth 
+and(not(<any>),concat(<num>,<low>))

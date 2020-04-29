@@ -1,0 +1,17 @@
+// example 
+"p4HE}J",+
+"~}LSTmJU!",+
+"s",-
+"T[B",+
+"*VO.z}MAC;",+
+"~O",-
+"",-
+"De9)Kanz",+
+"'b1l{%K",+
+"w'_I2B_Z%os",+
+"anvO1",+
+"!"\{",+
+"'xk773t1+W@h",+
+
+// ground truth 
+repeatatleast(startwith(or(<cap>,<any>)),3)

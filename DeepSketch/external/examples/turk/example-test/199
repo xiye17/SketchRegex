@@ -1,0 +1,26 @@
+// example 
+"iD5fG",+
+"M2q<",+
+"i=@iO",+
+"k\",-
+"h=i5]",-
+"q",-
+"bBg8#t",+
+"h=i5(",-
+"z=a1",-
+"_*v",-
+"",-
+"z=ar",-
+"%",-
+"k#",-
+"_*+",-
+"K",+
+"nB",+
+"3yL",+
+"b{q#TB",+
+"tiD.",+
+"F>W",+
+"<T",+
+
+// ground truth 
+contain(and(<any>,<cap>))

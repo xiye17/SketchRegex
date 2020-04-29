@@ -1,0 +1,16 @@
+// example 
+"F",-
+"Gmd?",-
+">>p]r",-
+"71",-
+"r]>",-
+"_h",-
+"+Xz4",-
+"Ch+",-
+"mWf%'",-
+"!",-
+"Ky",+
+"",-
+
+// ground truth 
+concat(<cap>,or(or(<m0>,<vow>),<any>))

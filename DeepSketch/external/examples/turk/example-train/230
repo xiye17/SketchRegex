@@ -1,0 +1,19 @@
+// example 
+"4o{{&pd1r",+
+"Jej5IYL]8EH4E",+
+"j"|k=)X|-^n?5B",+
+"fB",-
+"Q9Y",-
+"",-
+"z?s:W/",+
+"t"%,N\w4zI5X",+
+"2fq{+T9,?~",+
+"{",-
+"<PE;5",+
+"$}7n%]MkY/{",+
+"jXU#m\R",+
+"6Q6n`.PU",+
+"v.%8",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),5)

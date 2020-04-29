@@ -1,0 +1,25 @@
+// example 
+"/<",-
+"dU",+
+"P|H",-
+"7fE",+
+"/~",-
+"~~xi",+
+"de",+
+"xaayI",+
+"{||{}",-
+"{||{y",-
+"",-
+"e`{~",-
+"7fU",+
+"g",-
+"~~xe",+
+"xaayU",+
+"e`{h",-
+"F}fOOi",+
+"{",-
+"P|q",-
+"F}fOOo",+
+
+// ground truth 
+concat(endwith(<low>),repeatatleast(<vow>,1))

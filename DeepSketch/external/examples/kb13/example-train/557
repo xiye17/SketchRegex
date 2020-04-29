@@ -1,0 +1,25 @@
+// example 
+"6!_z",-
+"#@;p!",+
+"@)",-
+"!",-
+"!Yy((",-
+"@|X!",+
+"!H@tB@",+
+"",-
+"Cd<",-
+"@|m!",+
+"!H#b7@",+
+"6!_@",-
+"!E`L<&@",+
+"!D@",+
+"#@;R!",+
+"@",-
+"!Yy(L",-
+"@Y",-
+"Cd!",-
+"!n@",+
+"!E`L<v@",+
+
+// ground truth 
+or(concat(contain(<m0>),concat(startwith(repeatatleast(<let>,1)),startwith(<m1>))),concat(contain(<m1>),concat(startwith(repeatatleast(<let>,1)),startwith(<m0>))))

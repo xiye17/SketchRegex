@@ -1,0 +1,14 @@
+// example 
+"",+
+"L1",+
+"79s'",+
+"?[MF$N%*",+
+"S{]uC1T(.",+
+"}atjd",+
+">fG.MgP",+
+"+|\",+
+"DY7#}J",+
+"z",+
+
+// ground truth 
+not(and(and(and(<num>,<m0>),<low>),<m1>))

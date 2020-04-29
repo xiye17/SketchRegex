@@ -1,0 +1,17 @@
+// example 
+"E",+
+"dpK",-
+"O4S.]",-
+"iO",-
+"",-
+".p}JW",-
+"h",-
+"S4F",-
+"Dd)+",-
+"S=B/",-
+"O",+
+"B",-
+"yK",-
+
+// ground truth 
+and(and(<vow>,<let>),<any>)

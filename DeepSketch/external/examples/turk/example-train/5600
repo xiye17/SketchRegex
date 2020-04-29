@@ -1,0 +1,15 @@
+// example 
+"",+
+":q",+
+"!UR",+
+"!G`+u",+
+"?|[",+
+"ftD[",+
+"!/TD",+
+"%BNTQ",+
+"!",-
+"X",+
+"!*",+
+
+// ground truth 
+or(repeatatleast(<cap>,1),not(<m0>))

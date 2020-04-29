@@ -1,0 +1,15 @@
+// example 
+"l0l$UO",+
+"%P.-pai"96",+
+"79zQ",+
+",zF6'{5",+
+"T",+
+"SUT3b^"$",+
+"h$",+
+"wn_N\",+
+"RH]",+
+"3Bl=y%K!_",+
+"",-
+
+// ground truth 
+repeatatleast(contain(or(<let>,<any>)),1)

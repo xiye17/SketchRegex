@@ -1,0 +1,15 @@
+// example 
+"",+
+"9)y.4+2",+
+"VJI~/d",+
+"Y[/|R",+
+"/",-
+"NYC",+
+"p>&t",+
+"~MNNMDp2",+
+"Oq;Jo7GcI",+
+"hB",+
+"zG!d)4=_f,",+
+
+// ground truth 
+not(or(or(<any>,<vow>),<cap>))

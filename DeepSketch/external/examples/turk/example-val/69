@@ -1,0 +1,17 @@
+// example 
+""xS1T",-
+"A^OR",-
+"5!i",+
+"hb5",-
+"5!o",+
+",F/",-
+"",-
+"T",-
+"Za)>~",-
+"7",-
+"*LZ!",-
+"#2",-
+":_",-
+
+// ground truth 
+concat(<num>,concat(<m0>,<vow>))

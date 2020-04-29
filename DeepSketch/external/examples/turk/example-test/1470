@@ -1,0 +1,26 @@
+// example 
+"!!!XREV",+
+"!v&!y",-
+"#!'!!IYTF",+
+"!0!",-
+"!c!PYILU",+
+"!",-
+"!0X",-
+"!PYVL",+
+"",-
+"p!",-
+"!c!!BWQA",+
+"i!!!QYSMRY",+
+"#!'!SJNON",+
+"i!!!Q!YLOM",+
+"pM",-
+"!WCIWL",+
+"!n!M",-
+"!!LABO",+
+"J",-
+"!v&!.",-
+"!!HCZCM",+
+"!n!!",-
+
+// ground truth 
+concat(endwith(<m0>),repeatatleast(<cap>,4))

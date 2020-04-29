@@ -1,0 +1,15 @@
+// example 
+"Nj",+
+"d,aqXcq",+
+"KVheHY",+
+";mD:",+
+"=Q!kvg-E",+
+"pb.?q`Xz;+",+
+"X",+
+",F%4GH\%p",+
+"",-
+"ab}",+
+"i0+m1",+
+
+// ground truth 
+repeatatleast(endwith(<any>),1)

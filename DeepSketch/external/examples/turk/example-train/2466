@@ -1,0 +1,25 @@
+// example 
+"CKPBKTMT",+
+"/",-
+"FDpVPW",+
+"/g4u[",-
+"UJB",-
+"^Ul",-
+""Vc_",-
+"^4[y",-
+"FDpVtE",+
+"",-
+"kQWG",+
+"{Y",-
+"kQyY",+
+"URgRMDIJbXIC",+
+"URgRMDIJbXiH",+
+"CKPBKTpY",+
+"uIpYaDwXsC",+
+"M",-
+"uIpYaDwXQC",+
+"?j",-
+"_!kg1",-
+
+// ground truth 
+repeatatleast(concat(<let>,<cap>),2)

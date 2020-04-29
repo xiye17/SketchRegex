@@ -1,0 +1,25 @@
+// example 
+"SIWOXk",+
+"q*3",-
+"z.4oO",-
+"F[",-
+"VWKi",+
+":|uz0",-
+"F!",+
+"Fe",+
+"VWK!",+
+"",-
+"SJZJ!",+
+"SIWOX!",+
+"F|",-
+"9",-
+"4KE5",-
+"M|m",-
+"GJ!",+
+"SJZJd",+
+"I",-
+"tFZN",-
+"GJa",+
+
+// ground truth 
+concat(repeatatleast(<cap>,1),or(<m0>,<low>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"jMK5q",+
+"!:",+
+"![P",+
+"Ds",+
+"v",+
+"!ya&",+
+"!",-
+"kWk*",+
+"4BZ",+
+"!g-$'",+
+
+// ground truth 
+or(not(<m0>),and(and(<low>,<cap>),<m1>))

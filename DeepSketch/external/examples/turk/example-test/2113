@@ -1,0 +1,15 @@
+// example 
+"kgkF",-
+"Oc",-
+"dIh@R",-
+"'{)",-
+"diVRX",-
+"$V",+
+"-",-
+"kYut",-
+"O5",-
+"",-
+"'IU",-
+
+// ground truth 
+concat(or(<any>,<low>),<cap>)

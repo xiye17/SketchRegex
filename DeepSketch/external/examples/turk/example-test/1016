@@ -1,0 +1,16 @@
+// example 
+"r",+
+"~mw|",-
+"~[Z?4",-
+"ZHJpa",-
+"R",-
+"{i",-
+"O+/c",-
+"e)",-
+"@9I",-
+"",-
+"|vN",-
+"~",-
+
+// ground truth 
+and(startwith(<low>),or(<m0>,<any>))

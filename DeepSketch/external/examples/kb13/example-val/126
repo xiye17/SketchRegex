@@ -1,0 +1,25 @@
+// example 
+"^L2XECSIBPZl",+
+"{{]",-
+"]",-
+"|6UH|",-
+"zQXwwrUCir",+
+"},Z{",-
+"`aVuNyaTPCZ",+
+"^L2XECSIBPZA",+
+"X{>FTWSakLsS2",+
+"X{>FTWSakLsbN",+
+"{i",-
+"L7}20jCXAndkAt",+
+"",-
+"|6UHs",-
+"|",-
+"},ZA",-
+"{[",-
+"zQXwwrUCOI",+
+"`aVuNyaTPo:",+
+"L7}20jCXAndkAP",+
+"{{A",-
+
+// ground truth 
+contain(repeatatleast(<let>,9))

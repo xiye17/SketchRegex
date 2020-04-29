@@ -1,0 +1,25 @@
+// example 
+"$zR|ju0",+
+"mcP|",-
+"uI/$56",+
+"F/{uE",-
+"$pu^4",+
+"}qi3",+
+"mcPh",-
+"]~}",-
+"1c",-
+"d",-
+"",-
+"uI/$u7",+
+"|",-
+"wE5",+
+"1Y",-
+"wi6",+
+"$zR|jI4",+
+"F/{uI",-
+"}qO0",+
+"$pu$6",+
+"]~q",-
+
+// ground truth 
+concat(contain(concat(<low>,<vow>)),<num>)

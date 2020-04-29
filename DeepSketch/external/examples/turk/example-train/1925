@@ -1,0 +1,17 @@
+// example 
+"{8",-
+"s",-
+"quO0",-
+"dA",+
+"}f<",-
+"Q-",-
+"])}D",-
+"",-
+"xO&",-
+"u&Xp,",-
+"7",-
+"dI",+
+"uCZ4w",-
+
+// ground truth 
+concat(<low>,or(or(<num>,<vow>),<m0>))

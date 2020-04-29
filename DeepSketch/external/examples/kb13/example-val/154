@@ -1,0 +1,25 @@
+// example 
+"A!`iC",+
+"A!`i[",+
+"u",-
+"p|x",-
+"vR}y",-
+"!L+",+
+"p|\",-
+"GS`e)!",+
+"nX",-
+"",-
+"n`",-
+"T!u[",+
+"z!",+
+"Wz_eB",-
+"T!uG",+
+"GS`e}!",+
+"P!",+
+"vR}Y",-
+"6",-
+"Wz_e[",-
+"!LB",+
+
+// ground truth 
+and(repeatrange(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),0,5),contain(concat(<m0>,star(<let>))))

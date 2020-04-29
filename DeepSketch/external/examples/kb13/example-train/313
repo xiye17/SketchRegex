@@ -1,0 +1,25 @@
+// example 
+"c(@tW",+
+"Vo_]du_",+
+"WEm",+
+"Vo_]_4I",+
+".",-
+"S^I",-
+"~ItM",+
+"~r"E\",-
+"",-
+"5|~|",-
+"c(@tc",+
+"~Itr",+
+"=\[NPk",+
+">^",-
+"=\[NPX",+
+"~r"E|",-
+"WEM",+
+"{",-
+">V",-
+"S^^",-
+"5|~^",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),3)

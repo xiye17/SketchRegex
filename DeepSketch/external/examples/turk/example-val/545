@@ -1,0 +1,25 @@
+// example 
+"H&2fCx",-
+"@!",+
+"2",-
+".^hvPZn1r",-
+"$UC;",-
+"!M",+
+"!",+
+"",-
+"66I$F",-
+"!uh0",+
+"mD@RX[fI",-
+"!kdbFg",+
+"F$I!>",+
+".Qdn@!",+
+"}i!",+
+"\r!>",+
+"-E",-
+"#vpca%0",-
+"}!w",+
+"F$!'|",+
+"x&A",-
+
+// ground truth 
+contain(and(not(<let>),<m0>))

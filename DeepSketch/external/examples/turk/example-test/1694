@@ -1,0 +1,26 @@
+// example 
+"}}kx`",-
+"KdL",+
+"zS",+
+"|N.",-
+"1zWfY",+
+"~pU",+
+"(R",-
+"Cjn~vK",+
+"~svi]lW",+
+"e",-
+"I}iI",+
+"",-
+"|Nt",-
+"}ss^",-
+"IfrC",+
+"CjnmrZ",+
+"1z?eW",+
+"~svi*fQ",+
+"H",-
+"(v",-
+"}}kx2",-
+"}ss|",-
+
+// ground truth 
+concat(endwith(<low>),<cap>)

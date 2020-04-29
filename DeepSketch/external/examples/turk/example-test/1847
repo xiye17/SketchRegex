@@ -1,0 +1,25 @@
+// example 
+"\",-
+"~w",-
+"vq}",-
+"kNSTtk",+
+".",-
+"T[X]C;I'Jd",+
+"T[X]C;I'b&",+
+"WmUiw#lk",+
+"8\@81",-
+"}Qjv^",-
+"]f",-
+"z%JK",+
+"kNSTUF",+
+"Ul",+
+"",+
+"WmUiw#Q_",+
+"z%u.",+
+"vq`",-
+"P"5F",-
+"jU",+
+"P"~p",-
+
+// ground truth 
+star(concat(<let>,<any>))

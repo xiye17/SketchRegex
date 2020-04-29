@@ -1,0 +1,16 @@
+// example 
+"",+
+"6i",+
+"-AT.",+
+"1#j",+
+"}rlk",+
+"R",-
+"Sc)=U",+
+"`_W",+
+"b",+
+")X}rj",+
+"~x",+
+"@",+
+
+// ground truth 
+or(not(<cap>),repeatatleast(<vow>,5))

@@ -1,0 +1,17 @@
+// example 
+"qat{",-
+"kK",-
+"R.k",-
+"",-
+"ymZ!B",-
+"_e{"",-
+"i:YFY",-
+"O",-
+"A@",+
+"y;",-
+"'+N",-
+"A3",+
+"D",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<num>),<m1>))

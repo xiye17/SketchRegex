@@ -1,0 +1,26 @@
+// example 
+"SiU",+
+"z[F@G",+
+"$G)",-
+"_p",-
+"z[FSO",+
+"AK:B",+
+"QO3/*",-
+"AK~Y",+
+"xNM%TRF",+
+"(",-
+"zt,<",-
+"",-
+"SSK",+
+"QO3/a",-
+"$Gu",-
+"zt,F",-
+"5/`P;J",+
+"5/`PhX",+
+"L",-
+"KZ",+
+"xNM%TeY",+
+"_<",-
+
+// ground truth 
+repeatatleast(endwith(<cap>),2)

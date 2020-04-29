@@ -1,0 +1,25 @@
+// example 
+"F",-
+"]",-
+"AUFu2",+
+"q*eF",-
+"aEIae2",+
+"Ir",-
+"UAcGI",-
+"E7",+
+"ieu",-
+"ieI",-
+"U0",+
+"GA2",+
+"EOA8",+
+"",-
+"q*ev",-
+"UAcGU",-
+"EOu1",+
+"AUFa2",+
+"aEIao0",+
+"GU2",+
+"Ia",-
+
+// ground truth 
+endwith(concat(<vow>,<num>))

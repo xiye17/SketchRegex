@@ -1,0 +1,25 @@
+// example 
+"9W8E",+
+"6=",-
+"6U6e6g4p",+
+"9m2",-
+"$9o_",-
+"/N;H7",-
+"nIJT@",-
+"9W8j",+
+"*",-
+"3i",+
+"",-
+"0n3r8p",+
+"8w7t8g2o0D",+
+"6^",-
+"9me",-
+"m^cf",-
+"0n3r8W",+
+"6U6e6g4I",+
+"x",-
+"8w7t8g2o0j",+
+"3F",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),1)

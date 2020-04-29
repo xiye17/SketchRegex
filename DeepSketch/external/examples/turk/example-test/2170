@@ -1,0 +1,25 @@
+// example 
+"D&{",-
+"\u)QXo",+
+"C<s",+
+"\u)Qpu",+
+"q}{x",+
+"H}}tp",+
+"GR",-
+"D&'",-
+"G|",-
+"C{q",+
+"Qo",+
+"",-
+"AAeB",-
+"H}}|a",+
+"iv}CT",-
+"kf",+
+"iv}C|",-
+"7",-
+"q}2s",+
+"AAei",-
+"E",-
+
+// ground truth 
+concat(not(star(<vow>)),<low>)

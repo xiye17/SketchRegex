@@ -1,0 +1,24 @@
+// example 
+";d",+
+"3",-
+"dwljhb",+
+"MIUe",+
+"^vT",+
+"dwljhU",+
+"s|",-
+";Y",+
+""[L",-
+"",-
+"?=FFu",-
+"s4",-
+"nh{,",-
+"MIUA",+
+":mXWM",+
+":mXWw",+
+""{%",-
+"?YcB~",-
+"nh3h",-
+"^vb",+
+
+// ground truth 
+concat(<any>,repeatatleast(<let>,1))

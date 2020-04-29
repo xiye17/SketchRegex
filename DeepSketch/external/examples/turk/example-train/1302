@@ -1,0 +1,25 @@
+// example 
+"cZ/",-
+"toGU",+
+"!4",-
+"hIQ",+
+"|R5T",-
+"~9",-
+"FAEc<",-
+"ue",+
+"",-
+"yaQVYH",+
+"}",-
+"ua",+
+"hET",+
+"yOCDEK",+
+"aoWDD",+
+"cBv",-
+"&s.$",-
+"tiBS",+
+"@",-
+"lkrIf",-
+"auAOS",+
+
+// ground truth 
+concat(concat(<low>,<vow>),star(<cap>))

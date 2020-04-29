@@ -1,0 +1,25 @@
+// example 
+"ojVX",+
+"m!U}",-
+"O~",-
+"maS<",-
+"ZWN",+
+"5",-
+"aIF5%",-
+"aIF}4",-
+"Wjpgm",+
+"",-
+"xn[",-
+"e",+
+"vE",+
+"O0",-
+"ZWh",+
+"B",+
+"ojVa",+
+"vk",+
+"WjpgO",+
+"~",-
+"xn{",-
+
+// ground truth 
+and(not(<num>),repeatatleast(<let>,1))

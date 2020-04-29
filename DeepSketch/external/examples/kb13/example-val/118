@@ -1,0 +1,25 @@
+// example 
+"vz[Dd",-
+"Ha",+
+"rTu",+
+"uep+V",+
+"Hu",+
+"RR*",-
+"FWBq",-
+"a",+
+"l",-
+"rTe",+
+"DAs!",+
+"oT^V*",+
+"",-
+"vz[DD",-
+"FWBM",-
+"i",+
+"Cg",-
+"RR~",-
+"J",-
+"C4",-
+"DXI]",+
+
+// ground truth 
+contain(concat(star(<let>),<vow>))

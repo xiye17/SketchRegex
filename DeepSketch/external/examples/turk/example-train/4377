@@ -1,0 +1,17 @@
+// example 
+"E",+
+"Y",-
+"O{",+
+"BPh#",+
+"YP",+
+"U",+
+"E1"70",+
+"",+
+"Q",-
+"H_W@",+
+"Xsd",+
+"Xi3CS",+
+"SJD",+
+
+// ground truth 
+repeatatleast(or(<vow>,not(<cap>)),1)

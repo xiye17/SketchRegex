@@ -1,0 +1,16 @@
+// example 
+"mT",-
+"(b;",-
+"G!d",+
+"/:",-
+"owuf",-
+"O",-
+"Z)G",-
+"^jW:)",-
+"w",-
+".zlb",-
+"",-
+"POTd5",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<any>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"S0|0D",+
+"^FRp",+
+"wK.4@%[",+
+".GU",+
+"kGbl<0",+
+"D_zME!]K8",+
+"wLIL9#5Z",+
+"x",+
+"w0",+
+
+// ground truth 
+not(and(and(<low>,<num>),<m0>))

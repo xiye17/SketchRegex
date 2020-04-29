@@ -1,0 +1,25 @@
+// example 
+"1o\0W<",+
+"8foy",+
+"s",-
+"7~bHe",+
+".",-
+"0u",+
+"6V",-
+"9Co",+
+"7~bIZ",+
+"&CM",-
+"8Eh}",+
+"",-
+";b;P",-
+"#d3{",-
+"8}zt\",-
+"1lF",-
+"8}zt;",-
+"1A3HsJ",+
+"9Ci",+
+"0e",+
+"6$",-
+
+// ground truth 
+and(startwith(<num>),contain(<vow>))

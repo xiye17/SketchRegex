@@ -1,0 +1,25 @@
+// example 
+"R|2LK",-
+"ZMTfpUu5",+
+"NmAMGclaN1",+
+"lsGKaSRMFD8",+
+"Bq_U",-
+"HnThEemX0",+
+"n",-
+"HnThEemf3",+
+"jMMvKp5",+
+"",-
+"}",-
+"Tn",-
+"NmAMGclax4",+
+"ZMTfpUA0",+
+"lsGKaSRMFv8",+
+"}98%l",-
+"jMMvKK9",+
+"T2",-
+"7vX",-
+"[Pl",-
+"B^ql",-
+
+// ground truth 
+concat(repeatatleast(<let>,6),<num>)

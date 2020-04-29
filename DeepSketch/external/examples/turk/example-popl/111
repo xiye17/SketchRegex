@@ -1,0 +1,18 @@
+// examples
+"",+
+"aa",+
+"#D",+
+"&B",+
+"2d",+
+"H&",+
+"R",+
+"aaa",-
+"123",-
+"&HG",-
+"###",-
+"#hn",-
+"a and b",-
+"a b c",-
+
+// ground truth 
+not(repeatatleast(<any>,3))

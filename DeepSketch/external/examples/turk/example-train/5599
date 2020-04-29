@@ -1,0 +1,15 @@
+// example 
+"!?[",+
+":9k/",+
+"Yu8?-r",+
+"#|y5QT1N",+
+"bBK:SsD",+
+"iv%lS",+
+"oR1A(vap9J",+
+"&",+
+"fDuwe/#d{",+
+"",-
+"~y",+
+
+// ground truth 
+repeatatleast(or(<m0>,<any>),1)

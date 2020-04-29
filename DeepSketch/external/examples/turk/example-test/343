@@ -1,0 +1,18 @@
+// example 
+"]",-
+"9a>:",-
+"",-
+"|pe",-
+"S!",+
+"[$0wH",-
+"fN1!",-
+"{u",-
+"I",+
+">",-
+"uc?`K",-
+"x",+
+"`S",-
+"$YE",-
+
+// ground truth 
+or(concat(<cap>,<m0>),and(<let>,<any>))

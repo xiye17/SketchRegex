@@ -1,0 +1,25 @@
+// example 
+"qwNfCgtzgzBhsv",+
+"emQyIzcamtUzmePkgcsy",+
+"4",-
+"OQ0<9",-
+"Y|?Y",-
+"nbVkHzlymzpy",+
+"_",-
+"EH",-
+"",-
+"exnwoaNkPaiywyitvy",+
+"emQyIzcamtUzmePkgcYi",+
+"_VkW%",-
+"qwNfCgtzgzBhBp",+
+"El",-
+"nbVkHzlymzSk",+
+"AbAzWjerbtXxwpdg",+
+"exnwoaNkPaiywyitYu",+
+"YH-I",-
+"%l'",-
+"`A<",-
+"AbAzWjerbtXxwpDm",+
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),6)

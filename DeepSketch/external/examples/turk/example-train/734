@@ -1,0 +1,17 @@
+// example 
+"r1",-
+"D-dp",-
+"oN",-
+"",-
+"I@",+
+"xyPu",-
+"!@",+
+"A@Fc)",-
+"O",-
+"I",-
+"E<t",-
+"ADbHL",-
+"E\u",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<vow>),<m1>)

@@ -1,0 +1,26 @@
+// example 
+"aO#icI",+
+"0^wE",-
+".{qOo(",-
+"VEjIUE(I",+
+"aaDQP",-
+""i",+
+"~IbaMI/o1A",+
+"",+
+"zb",-
+"VEjIUE(O",+
+"$",-
+"aO#icU",+
+"Wf>",-
+"aaDn^",-
+"z2",-
+"~IbaMI/o1U",+
+"0ofz",-
+".sXK1s",-
+"@u%a",+
+"WEJ",-
+""E",+
+"@u%e",+
+
+// ground truth 
+star(concat(<any>,<vow>))

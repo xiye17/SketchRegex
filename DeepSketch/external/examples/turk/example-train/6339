@@ -1,0 +1,25 @@
+// example 
+"}[`uhNX",+
+"e:y<l",-
+"?Fq{2a4B",+
+"e:y<,",-
+"m}?sK",+
+"<&|B",+
+"}[`Y*u}",+
+"\u#",-
+"o(5!",-
+"o(5k",-
+"8?",-
+"R|Yx}^",+
+"#h_Hm[",+
+"",-
+"Yi3xku=_",+
+"W7hVU",+
+"Uq}",-
+"v",-
+"?",-
+"JK",-
+"<Zs7",+
+
+// ground truth 
+and(repeatatleast(<any>,4),contain(<cap>))

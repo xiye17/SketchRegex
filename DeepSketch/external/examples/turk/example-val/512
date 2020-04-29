@@ -1,0 +1,17 @@
+// example 
+"#_}",-
+"1!F!",-
+"1!u",+
+"",-
+"b",-
+"#D",-
+"9!O}d",-
+"_Et_",-
+"7",-
+"dH-",-
+"1!e",+
+"vo",-
+"'E;R7",-
+
+// ground truth 
+concat(concat(<num>,<m0>),<vow>)

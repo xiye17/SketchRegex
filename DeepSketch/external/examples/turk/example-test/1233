@@ -1,0 +1,17 @@
+// example 
+"F",+
+"v|",-
+"*",-
+"|x",-
+"}rU",-
+"{0+-",-
+"",-
+"_xuhb",-
+"xpNI",-
+"g",+
+"svr",-
+"@bA5a",-
+"~",-
+
+// ground truth 
+or(or(<let>,<low>),<cap>)

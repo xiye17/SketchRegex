@@ -1,0 +1,24 @@
+// example 
+"3q4{h",-
+"3|;"|",-
+"1&",-
+"3f7t8k5q5z6a5t",+
+"n",-
+"1|",-
+"+>u4",-
+"3}j",-
+"!",-
+"JxqR",-
+"6w8f8h",+
+"1s1x0b4n1x4r0y9t5c",+
+"1h5s3z8g0c",+
+"",+
+"7g9f",+
+"2p3d0v9c",+
+"8d",+
+"3?8",-
+"2l7n1i7y9y0q",+
+"4k0u5g4e4n4q2j8d",+
+
+// ground truth 
+star(concat(<num>,<low>))

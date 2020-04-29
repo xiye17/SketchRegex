@@ -1,0 +1,18 @@
+// examples
+"aa",+
+"bb",+
+"cc",+
+"de",+
+"ef",+
+"ge",+
+"ze",+
+"Aa",-
+"AA",-
+"CC",-
+"DD",-
+"",-
+"E;",-
+"!;",-
+
+// ground truth 
+concat(<low>,contain(contain(<let>)))

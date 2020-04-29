@@ -1,0 +1,16 @@
+// example 
+"5jc",-
+"|"",-
+"5j.",-
+":qG{",-
+"*.xW{",-
+"8",-
+"<v847",-
+"(t",-
+"!",-
+"1>S",+
+"",-
+"$8>U",-
+
+// ground truth 
+concat(<num>,concat(<any>,<cap>))

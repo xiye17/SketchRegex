@@ -1,0 +1,25 @@
+// example 
+"!9d",+
+"@!",+
+"q",-
+"H!T3",+
+"8!D]M",+
+"L@!@%M",+
+"06V2m<>^.",-
+"J;P^]NH",-
+"!",+
+"!F",+
+"!635;g",+
+"!atB",+
+"",-
+"_%cH_",-
+"!=4|w",+
+"4]w",-
+"OE",-
+""VfN",-
+"9UOWjD",-
+"Phe%Z*g7",-
+"5j!",+
+
+// ground truth 
+contain(concat(star(<let>),concat(<m0>,star(<let>))))

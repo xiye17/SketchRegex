@@ -1,0 +1,17 @@
+// example 
+"AG[",-
+"qU!",+
+"apPv{",-
+"qi!",+
+"Ca!X",-
+"",-
+"`",-
+"ahgu\",-
+"Cavl",-
+"S$",-
+"ADO",-
+"{",-
+"SO",-
+
+// ground truth 
+concat(<let>,concat(<vow>,<m0>))

@@ -1,0 +1,20 @@
+// example 
+"fcSFLA:uz}Pz-",+
+"&qJK",-
+"w5B~gg(8}jF",+
+"!",-
+"",-
+")tlt$f",+
+"J42nw``rtV!h",+
+"lD}",-
+"Q9/Eu=M",+
+"fK",-
+"~.w&vz*=CV}YhJ",+
+"a7^_{",-
+"##@=`<r<F",+
+"-1a|W1A]",+
+"b^w_$=L`m+",+
+"v{RcTQpDp*f030j",+
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),6)

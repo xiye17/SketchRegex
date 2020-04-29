@@ -1,0 +1,25 @@
+// example 
+"/"N",-
+"6o5o6a0i1a3E",+
+"3o0I7U1U3U9e7a",+
+"X",-
+"7h",-
+"0A3",-
+"",-
+"7a",-
+"3o0I7U1U3U9e7e",+
+"8E6o1o1I7a",+
+"$",-
+"8O2A0A",+
+"4o3o3A4I",+
+"4o3o3A4e",+
+"!AAT",-
+"y|1V-",-
+"8E6o1o1I7i",+
+"C_P8",-
+"0s|qU",-
+"8O2A0I",+
+"6o5o6a0i1a3U",+
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),3)

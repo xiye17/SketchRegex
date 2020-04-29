@@ -1,0 +1,25 @@
+// example 
+"]",-
+"Kte",+
+"lcb#",-
+"WLzx",+
+"eKerHZJ",+
+"GzGHW",+
+"zF",-
+"jPLAwb",+
+"",-
+"yy?",-
+"lc4;",-
+"WLzI",+
+"KtK",+
+"|wC<}",-
+">HZwg",-
+"GzGHv",+
+"yy}",-
+"z^",-
+"jPLAwA",+
+"eKerHZq",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<let>,<vow>),3)

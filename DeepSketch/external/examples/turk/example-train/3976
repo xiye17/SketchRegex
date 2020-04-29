@@ -1,0 +1,17 @@
+// example 
+"P/",-
+"Gi",-
+"cU6#",-
+"O}",+
+"g<Ec,",-
+"",-
+"a",-
+"HRK",-
+"AT",+
+"i",-
+"UZOIN",-
+"IC?r",-
+"B{(",-
+
+// ground truth 
+concat(and(<let>,<vow>),<any>)

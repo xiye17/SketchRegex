@@ -1,0 +1,18 @@
+// example 
+";|a~",-
+"O~",-
+"io",+
+"oF&YC",-
+"!4!",-
+"!",+
+"",-
+"ht98p",-
+"uw",+
+"i",-
+"OE",-
+"S",-
+"BgId",-
+"E^:",-
+
+// ground truth 
+or(concat(<vow>,<low>),<m0>)

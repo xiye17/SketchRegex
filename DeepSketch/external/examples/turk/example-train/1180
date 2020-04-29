@@ -1,0 +1,17 @@
+// example 
+"Lz@ZS",+
+"u!,",+
+"p:mHN",+
+"!",-
+"^",+
+"",+
+"f8",+
+"om",+
+"i",-
+"j7G",+
+"F+B!",+
+"w",+
+"p~:m",+
+
+// ground truth 
+not(or(or(<m0>,<cap>),<vow>))

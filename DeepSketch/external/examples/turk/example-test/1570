@@ -1,0 +1,15 @@
+// example 
+"o;H'{",+
+"=>H${Y",+
+"WZ",+
+"kEP",+
+"*P9~mit",+
+"#[d-70Yt6",+
+"y7wX",+
+"T",+
+"1pJG`DkE",+
+"",-
+"y-mA@gfj$<",+
+
+// ground truth 
+contain(or(or(or(<cap>,<let>),<any>),<m0>))

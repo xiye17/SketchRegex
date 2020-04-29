@@ -1,0 +1,25 @@
+// example 
+"{Qa",+
+"j,`"|",-
+"a}}r",+
+"^d]",-
+"!",-
+"^d3",-
+"",-
+"h_\`",-
+"}",-
+"xZ",+
+"a}}S",+
+"j,`"1",-
+"}J\\8I",+
+"]IRD9",+
+"}J\\8n",+
+"xl",+
+"{QQ",+
+"3}",-
+"]IRDi",+
+"3K",-
+"h_\}",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),2)

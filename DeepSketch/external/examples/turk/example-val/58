@@ -1,0 +1,25 @@
+// example 
+"DAg/",-
+"ZmmMMBN",+
+"Bcl",-
+"ZmmMMBt",+
+"HgGTOV",+
+"HgGTOg",+
+"jZHycwInx",+
+"^",-
+"eL",-
+"",-
+"kTMsp",+
+"jZHycwInB",+
+"kTMsH",+
+"%",-
+"DAgP",-
+"Bc"",-
+"gHGAvyaA",+
+"gHGAvyay",+
+"yp[;L",-
+"eg",-
+"y{=}B",-
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),5)

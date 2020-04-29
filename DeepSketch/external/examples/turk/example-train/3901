@@ -1,0 +1,17 @@
+// example 
+"m",+
+"gODl",+
+"pO$a)",+
+"!",+
+"e",-
+"a<'",+
+"",+
+"i",-
+"?K{",+
+">T",+
+"!4'S",+
+"og^c,",+
+"Th",+
+
+// ground truth 
+not(or(or(<vow>,<cap>),<num>))

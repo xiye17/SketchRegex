@@ -1,0 +1,25 @@
+// example 
+"LT+L",-
+"6O",+
+"7QY6M",-
+"#2~t",-
+"'EM",-
+"8iU}L",+
+"",-
+"6A",+
+"'",-
+"7AT",+
+"2EuQcb",+
+"5cG",-
+"6",-
+"7EM",+
+"3aU~",+
+"2Ut=a&",+
+"N-da}",-
+"8oId-",+
+"*?",-
+"KY",-
+"3ef[",+
+
+// ground truth 
+startwith(concat(<num>,<vow>))

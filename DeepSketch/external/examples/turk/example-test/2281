@@ -1,0 +1,24 @@
+// example 
+".Lo",-
+"Y5N1T0A1X8I6N1V0X8Y1",+
+"L1M5F8E8H3A7",+
+"D2O1Z5U3N7T5D4F0O8",+
+"C5T8H5",+
+"A4Z1D0E9E2N9B4",+
+"",-
+"P1oa",-
+"}H7c",-
+"S3W0W8Z7F1B9E6P2",+
+"9",-
+"K1Y4U5D2",+
+"U",-
+"e?",-
+"A6T9",+
+"R0A0W1A7H6",+
+"EkX#$",-
+"E1Y_H",-
+"UH",-
+"AhC",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),2)

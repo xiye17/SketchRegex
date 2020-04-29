@@ -1,0 +1,15 @@
+// example 
+"*cY%bXi",+
+"c=",+
+"!B5",+
+"gla*wS",+
+"#LH1.",+
+"X0p"",+
+"hZ^#252%H=",+
+"<",+
+"1m)KJv3Ko",+
+"",-
+"Pcqwxgv{",+
+
+// ground truth 
+or(contain(<any>),<vow>)

@@ -1,0 +1,15 @@
+// example 
+"^??;o",+
+"a:&'6eYph",+
+"P<",+
+"Hy[_-3Q",+
+"i",+
+"63UVBa.b}W",+
+"u#E",+
+"%\AhDD}-",+
+"S|De4j",+
+"",-
+",RR*",+
+
+// ground truth 
+or(concat(<m0>,<m1>),contain(<any>))

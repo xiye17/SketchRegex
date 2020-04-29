@@ -1,0 +1,25 @@
+// example 
+"imaw",+
+"G\4",-
+"ahozn",+
+"LQfdGK",+
+"F5",-
+"DqxyogIl",+
+"+",-
+"",-
+"W49N-",-
+"imaA",+
+"xCFfEvx",+
+"}",-
+"~yhhm",-
+"^Bn",-
+"xCFfEvM",+
+"LQfdGo",+
+"bX|^",-
+"DqxyogIH",+
+"F{",-
+"bX1v",-
+"ahozM",+
+
+// ground truth 
+repeatatleast(or(<let>,<vow>),4)

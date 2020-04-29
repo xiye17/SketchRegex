@@ -1,0 +1,25 @@
+// example 
+"=g+k",-
+"Y!|@X",+
+"I![_6^R",+
+"O!]|!",-
+"A!K",+
+"O!]|[",-
+"",-
+"-F;",-
+"Y!|@f",+
+"G!a"F<",+
+"G!N(jW",+
+"^0Y",-
+"A!m",+
+"R",-
+"H!sQ",+
+"H!"q",+
+"z",-
+"au",-
+"I![_6^k",+
+"p/PT",-
+"A3",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),contain(<let>))

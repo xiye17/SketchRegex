@@ -1,0 +1,14 @@
+// example 
+"",+
+"4{",+
+"bfPH",+
+"0DEk^C",+
+"TN6rZ",+
+"7dwC`gyQW",+
+"at@#:&zm",+
+"x",+
+"$Nq",+
+"FN$Xkcu",+
+
+// ground truth 
+contain(or(star(<vow>),<low>))

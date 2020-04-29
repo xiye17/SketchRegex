@@ -1,0 +1,26 @@
+// example 
+"!~u",+
+"!jzmk",+
+"5",-
+"!|",-
+"!"|~ba",+
+"!r}|",-
+"!",-
+"!Rjv",+
+"!kk{~Ah",+
+"!jY,!",-
+"",-
+"!p$",-
+"!qs",+
+"!p}",-
+"!r}+",-
+"!"|~$y",+
+"!jY,|",-
+"!B",-
+"!R{i",+
+"!kk{~fd",+
+"!b",+
+"!jz>p",+
+
+// ground truth 
+concat(startwith(<m0>),repeatatleast(<low>,1))

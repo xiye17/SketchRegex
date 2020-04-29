@@ -1,0 +1,15 @@
+// example 
+"xhc*vuCb$",+
+"r{7X*",+
+",",+
+"y=-",+
+"}WXE9Glk",+
+"3o__F69$2u",+
+"Q-bd^*9",+
+"";PMlk",+
+"",-
+"WF",+
+"i+^V",+
+
+// ground truth 
+startwith(or(concat(<m0>,<m1>),<any>))

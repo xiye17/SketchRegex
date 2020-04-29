@@ -1,0 +1,16 @@
+// example 
+"",+
+".n",+
+"eL1t",+
+"/",+
+"5>\|/",+
+",?S",+
+"F3!",-
+"\G>",+
+"^E",+
+"?[lH",+
+"L&QMk",+
+"_",+
+
+// ground truth 
+not(concat(concat(<cap>,<num>),<m0>))

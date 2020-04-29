@@ -1,0 +1,24 @@
+// example 
+"/O",+
+"lou",+
+"UaeHa",+
+"wFN",-
+"wFj",-
+"loe",+
+"UaeHO",+
+"<SaU",+
+"qGQTNI",+
+"/i",+
+"",-
+"<SaE",+
+"1t",-
+"1^",-
+"oQIj",-
+"oQIr",-
+"*ausf",-
+"I",-
+"qGQTNe",+
+"*ausn",-
+
+// ground truth 
+concat(<any>,endwith(<vow>))

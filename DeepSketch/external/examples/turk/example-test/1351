@@ -1,0 +1,15 @@
+// example 
+"",+
+"4PqG39k.#$",+
+"|^=H8_,",+
+"-QTYwd",+
+"-{",+
+"A(}!@",+
+"77k",+
+"Ud0]",+
+"y2P"X#nd",+
+"K9`h%"F.W",+
+"~",-
+
+// ground truth 
+not(or(or(<num>,<any>),<cap>))

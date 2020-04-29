@@ -1,0 +1,17 @@
+// example 
+"E!Hc",-
+"EdOg",-
+"Sb5",-
+"udv/y",-
+"",-
+"`",-
+"I!{",+
+"E!$",+
+"gs",-
+"h=F",-
+"D%",-
+"A",-
+"u!G$x",-
+
+// ground truth 
+concat(<vow>,concat(<m0>,<any>))

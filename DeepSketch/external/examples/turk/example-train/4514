@@ -1,0 +1,15 @@
+// example 
+"",+
+"!]EH",+
+"C9Ygb",+
+"ES3#",+
+"!ZS",+
+"`",+
+"!j}=H",+
+"!D",+
+"E_",+
+"HQ5",+
+"!",-
+
+// ground truth 
+or(not(<m0>),repeatatleast(<vow>,1))

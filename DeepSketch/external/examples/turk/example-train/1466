@@ -1,0 +1,25 @@
+// example 
+"3g\0g",-
+""l",-
+"^O",-
+"]`S0",-
+"W~O",+
+"[qK",-
+"}Iuz6",-
+"l[S]",+
+"W",+
+"",-
+")ZG/",-
+"e",+
+"8",-
+"U6",+
+"l,-`2",+
+"x:/",+
+"Q>Dk",+
+"Bwmyl",+
+"{",-
+",=q",-
+"bQ",+
+
+// ground truth 
+startwith(or(repeatatleast(<cap>,1),<low>))

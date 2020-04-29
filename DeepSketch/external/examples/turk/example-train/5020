@@ -1,0 +1,25 @@
+// example 
+"WEU",+
+"fGU",-
+"Do",+
+"DEIEea",+
+"WuAo",+
+"DoIIO",+
+"",-
+"XHM",-
+"UeW|8",-
+"WEa",+
+"UnN'(",-
+"Du",+
+"jp",-
+"d+nc",-
+"-vH0",-
+"J",-
+"DoIIo",+
+"WuAE",+
+"?5",-
+"DEIEeo",+
+"~",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<vow>,1))

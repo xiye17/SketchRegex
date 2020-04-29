@@ -1,0 +1,15 @@
+// example 
+"",+
+"I0V#XtWRZ",+
+"OKv!4?z",+
+"Lu;[",+
+"zrWs4$)^",+
+"38W",+
+"%[5Qza+B4[",+
+"]D",+
+"$Pt-6",+
+"$!N(T.",+
+"B",-
+
+// ground truth 
+not(or(or(<num>,<low>),<any>))

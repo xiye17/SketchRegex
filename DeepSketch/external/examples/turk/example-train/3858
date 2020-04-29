@@ -1,0 +1,25 @@
+// example 
+"MDo",+
+"AT3(W",+
+"jkG",-
+"o",+
+"RdhT",-
+"|Vmvc",-
+"!",+
+"U>4p",+
+"",-
+"b",-
+">r",-
+"MDO",+
+">.",-
+"N",-
+"du",+
+"uf\C",+
+"Rdhk",-
+"|VmvB",-
+"dI",+
+"jks",-
+"e-7^x",+
+
+// ground truth 
+contain(or(<vow>,<m0>))

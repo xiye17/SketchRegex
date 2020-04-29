@@ -1,0 +1,16 @@
+// example 
+"",+
+"jP`",+
+"-6",+
+"AkI-F",+
+"-",+
+"fA7D",+
+"";T,",+
+"#I}R^",+
+"u@",+
+"Ap/",+
+"I",-
+"}",+
+
+// ground truth 
+not(and(<let>,<cap>))

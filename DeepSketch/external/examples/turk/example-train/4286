@@ -1,0 +1,17 @@
+// example 
+"M}&",-
+"MkH",-
+"Vx",+
+"H|Sgq",-
+"",-
+"bm",+
+"a",-
+"^=",-
+"H_]W6",-
+"\ufw",-
+"{L6j",-
+"{",-
+"@O",-
+
+// ground truth 
+concat(or(<vow>,<let>),<low>)

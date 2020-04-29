@@ -1,0 +1,15 @@
+// example 
+"\EmL",+
+"\ir",+
+"4w",+
+"2.SNK9",+
+"dY*Q<Sh",+
+"9/d0_yC3",+
+"NYB1+LWth",+
+"J",+
+"c`3)nD~<(&",+
+"p"=r(",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<num>),1)

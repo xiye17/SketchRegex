@@ -1,0 +1,25 @@
+// example 
+"Z",+
+"DHSLQTHVG",-
+"imq",+
+"!WU1",+
+"!0\",+
+"EOBGKSFI",-
+"a",+
+"XQWTGWLOHZ",-
+"!",-
+"Zqdzj",+
+"Z)j*(",+
+"",+
+"QTK",-
+"YOECRDR",-
+"OPEXOC",-
+"!<",+
+"whh5",+
+"BYNEODXNVXO",-
+"EBPW",-
+"EXDFN",-
+"[J",+
+
+// ground truth 
+not(or(repeatatleast(<cap>,3),<m0>))

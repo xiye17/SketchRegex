@@ -1,0 +1,25 @@
+// example 
+"p",+
+"TeT",-
+"{O",-
+"BE?/d",-
+"u",-
+"c]vHr",+
+"c]vH8",+
+"oEOo",-
+"{e",-
+"TtA",-
+"",+
+"BAayY",-
+"Vk4",+
+"yNj'",+
+"5",+
+"lw",+
+"A",-
+"avW#",-
+"Vk`",+
+"lC",+
+"yNjq",+
+
+// ground truth 
+not(endwith(contain(<vow>)))

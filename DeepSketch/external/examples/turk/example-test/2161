@@ -1,0 +1,17 @@
+// example 
+"O!",+
+"<=d",-
+"A!8",-
+"R`",-
+"T6sU",-
+"FJ<q",-
+"",-
+"U$5pd",-
+"U!",+
+"U",-
+"I",-
+"U!rlQ",-
+"DM",-
+
+// ground truth 
+concat(and(and(<cap>,<vow>),<let>),<m0>)

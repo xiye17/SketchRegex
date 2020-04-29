@@ -1,0 +1,18 @@
+// examples
+"abc",+
+"aeiou",+
+"bcd",+
+"123",+
+"a12",+
+"!!!",+
+"abc123",+
+"",-
+" ",-
+"1",-
+"a",-
+"b",-
+"A",-
+"12",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),3)

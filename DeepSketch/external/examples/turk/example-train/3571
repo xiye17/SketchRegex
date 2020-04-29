@@ -1,0 +1,17 @@
+// example 
+"-w/",-
+"1v)J",-
+"1kA=0",-
+"3q",-
+"3?",-
+""Yy?",-
+"V",-
+"!",-
+"1Q[g2",-
+"",-
+"3u",+
+"H/R",-
+"3I",+
+
+// ground truth 
+concat(and(<any>,<num>),<vow>)

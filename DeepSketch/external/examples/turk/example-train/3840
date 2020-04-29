@@ -1,0 +1,25 @@
+// example 
+"un",-
+"aeeEaU!",+
+"uuIeoEeEAe!",+
+"ut",-
+"EIeiIuEA!",+
+"e",-
+"eoO",-
+"",-
+"uuIeoEeEAI!",+
+"eo~",-
+"EIeiIuEi!",+
+"O",-
+"uor{",-
+"ufQ9",-
+"Ri,mu",-
+"?a8g[",-
+"UiaAouoio!",+
+"oioEoEo!",+
+"aeeEao!",+
+"oioEoEu!",+
+"UiaAouoii!",+
+
+// ground truth 
+concat(repeatatleast(<vow>,6),<m0>)

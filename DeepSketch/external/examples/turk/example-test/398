@@ -1,0 +1,24 @@
+// example 
+"xAoI",+
+"~eF",-
+"_OuK",-
+"xAoa",+
+"jIaoa",+
+"_Ouc",-
+":I",+
+"9IoiRI",+
+"6S",-
+"fIi",+
+"jIaoi",+
+":A",+
+"fIo",+
+"",-
+"~eB",-
+"$",-
+"9IoiRA",+
+"2MHcK",-
+"6+",-
+"2MHcq",-
+
+// ground truth 
+concat(endwith(<any>),<vow>)

@@ -1,0 +1,15 @@
+// example 
+"cb5y",-
+".",+
+"+E+M4",-
+">zI<I3",-
+"Khd~1Vk",-
+"KJ",-
+"L465?Vt$b%",-
+"?Cv+GIQ_",-
+"$zU,F8gLA",-
+"",-
+"[K_",-
+
+// ground truth 
+or(or(<low>,<num>),<any>)

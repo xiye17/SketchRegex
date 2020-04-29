@@ -1,0 +1,25 @@
+// example 
+"\",-
+"x=",-
+"Kp",+
+"pk",+
+"rzKm",+
+"x{",-
+"RkKxPp",+
+"ufmgTgUh",+
+"HE9k",-
+"RkKxzw",+
+"ufmgTgwz",+
+"",-
+"Vk^!7",-
+"cbsiRjexxa",+
+":",-
+"H}NJ",-
+"VUl%`",-
+"{t~",-
+"cbsiRjexPb",+
+"rzyl",+
+"F|%",-
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),1)

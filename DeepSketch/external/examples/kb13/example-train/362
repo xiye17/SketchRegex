@@ -1,0 +1,25 @@
+// example 
+"RV$TZb<Ic",-
+"w,xEA",-
+"=(!",+
+"(7",-
+"+b=*",-
+"!SJw"",+
+"=!4",+
+"!",+
+"-N!h",+
+"",-
+"<i0G!,",+
+"-Nl!",+
+"<)]eme",-
+"eSbu9/.w",-
+"n!fw8",+
+"B!",+
+"!}BclP",+
+"N[NJBGZ",-
+"C",-
+"!f",+
+"UK4",-
+
+// ground truth 
+contain(concat(<m0>,star(<let>)))

@@ -1,0 +1,25 @@
+// example 
+"bwkfc",+
+"\",-
+"nm~",-
+"ocoR",+
+"ocog",+
+":2r4",-
+"iT",+
+"uiz",+
+"V",+
+"|M",-
+"c",+
+"",-
+"nJ%",-
+"bwkfC",+
+"Q!u&",-
+"uiB",+
+"a(",-
+"'<X4X",-
+"\j0=%",-
+"ig",+
+">",-
+
+// ground truth 
+concat(star(<low>),<let>)

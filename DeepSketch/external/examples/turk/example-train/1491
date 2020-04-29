@@ -1,0 +1,17 @@
+// example 
+"wp",+
+"}T6@n",+
+"k7yQ3",+
+"mSv",+
+"_Lo%",+
+"W",-
+"M6",+
+"e",-
+""",+
+"",+
+"bCg3",+
+"}bV",+
+"~",+
+
+// ground truth 
+not(or(or(<let>,<low>),<cap>))

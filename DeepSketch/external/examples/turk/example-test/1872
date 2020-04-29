@@ -1,0 +1,17 @@
+// example 
+":h`",-
+"p[v[",-
+"d",-
+"x|aR4",-
+"#",-
+"pg*3",-
+"dh",+
+"",-
+"Dd",+
+"[)@",-
+"r~",-
+"0'",-
+"]:H-H",-
+
+// ground truth 
+concat(or(<let>,<vow>),<low>)

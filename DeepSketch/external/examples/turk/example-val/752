@@ -1,0 +1,16 @@
+// example 
+"qP",-
+"|",-
+"9",-
+"m`!1",-
+"}FxP",-
+"{dv",-
+"1T52O",-
+"s]4",-
+"|m*#3",-
+"",-
+"aR!",+
+"~%",-
+
+// ground truth 
+concat(and(<low>,<let>),concat(<any>,<m0>))

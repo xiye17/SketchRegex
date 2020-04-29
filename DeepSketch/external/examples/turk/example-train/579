@@ -1,0 +1,20 @@
+// example 
+"xS",-
+"T`5(",-
+"4k~[_h#&RXQ",+
+"&B7lYA>3ff!M",+
+"cP{<~Jd>F7g1rEY",+
+"Tf..;C",+
+"}U%iJuWG",+
+"",-
+"w>J",-
+"o+<h#hyj6c@}<",+
+"U",-
+"D}--m",-
+"S4h8Cm,jC",+
+"CgDfKmL9HL",+
+"3Q;0>U7",+
+"uO+B9@Hh6cU;C-",+
+
+// ground truth 
+repeatatleast(contain(<any>),6)

@@ -1,0 +1,17 @@
+// example 
+"1",-
+"aB5",-
+"C]-B",-
+"Ov",+
+"",-
+"I}",-
+"aaE",-
+"ODK!|",-
+"mfr-",-
+"IQ",-
+"aj",+
+"I",-
+"Ox!;+",-
+
+// ground truth 
+concat(and(<let>,<vow>),<low>)

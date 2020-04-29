@@ -1,0 +1,15 @@
+// example 
+"`[6]sBq",+
+"K=m",+
+"eFFKL",+
+"N",+
+"wY",+
+"w#V&U^",+
+">f&;",+
+"ymR/Sp?Y",+
+"&2Y#K=-Wp",+
+"aaw%vwN3b{",+
+"",-
+
+// ground truth 
+repeatatleast(or(<low>,<any>),1)

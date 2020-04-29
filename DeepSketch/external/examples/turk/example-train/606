@@ -1,0 +1,25 @@
+// example 
+"|iil",-
+"/c",-
+"S!Y",+
+"V",-
+"U!I^3m",+
+"U!(eQ6P",+
+"",-
+"U!",+
+"|",-
+"UGhgL",-
+"w:",-
+"V!53K/V?E(",+
+"V!w%7El_",+
+"1B9T",-
+"U!v_",+
+"K!khD",+
+"[==",-
+"Bp]",-
+"X!Q\>m;d*",+
+"K!m#(y>3u}L",+
+"]mchX",-
+
+// ground truth 
+concat(<cap>,startwith(<m0>))

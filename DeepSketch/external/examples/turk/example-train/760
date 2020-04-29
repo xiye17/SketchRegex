@@ -1,0 +1,19 @@
+// example 
+"e!",+
+"E!",+
+":pn",-
+"~r",-
+"o7X&.",-
+"c",+
+"",-
+"o!_vx",-
+"`q",-
+"S",-
+"Po=",-
+"u",+
+"J",-
+"'D;A",-
+"rFjT",-
+
+// ground truth 
+or(concat(<vow>,<m0>),<low>)

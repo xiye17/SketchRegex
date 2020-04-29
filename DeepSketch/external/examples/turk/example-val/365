@@ -1,0 +1,16 @@
+// example 
+"X!@",+
+"ez",-
+"-j>",-
+"I!@C",-
+"&!bFr",-
+"k",-
+"glnS"",-
+"9a",-
+"",-
+"I1n_",-
+"&",-
+"hf5",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<m1>)

@@ -1,0 +1,25 @@
+// example 
+"}~$",-
+"|4CUB",-
+"aBs",+
+"2*[~",-
+"K~V^",-
+"aBJ",+
+"x|",-
+"0w",-
+"m",+
+"ys",+
+"vxYm",+
+"[AL",-
+"",-
+"`",-
+"ZUFuG",+
+"vxYP",+
+":",-
+"M",+
+"`v(jz",-
+"ZUFuw",+
+"yK",+
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),1)

@@ -1,0 +1,25 @@
+// example 
+"uiczbaw",+
+"h`",-
+"~hyzr",-
+"ymybbzrs",+
+"fcdly",+
+"",-
+"hc",+
+"zoosebuji",+
+"Q",-
+"pak",+
+"rucduo",+
+"i",+
+"vm~",-
+"a;rO",-
+"tajl",+
+"h{",-
+"LJMc)",-
+"vmO",-
+"'2_g",-
+"yunjmrexwc",+
+"~",-
+
+// ground truth 
+and(startwith(<let>),repeatatleast(<low>,1))

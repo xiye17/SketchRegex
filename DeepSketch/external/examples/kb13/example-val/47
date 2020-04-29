@@ -1,0 +1,25 @@
+// example 
+"j^[-J\Qzx",+
+"j^[-J\QzL",+
+"ENPEE",+
+"[cODRx",+
+"i'^7vYTI",+
+"n",-
+"Rkm",-
+"x~r;IFb",+
+"RkQ",-
+",/0:`",-
+"i'^7vYTk",+
+"X",-
+"",-
+"~m~<",-
+"x~r;IFF",+
+"~m~|",-
+"[cODRU",+
+"P~",-
+"P@",-
+",/0:z",-
+"ENPEv",+
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),5)

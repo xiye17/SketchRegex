@@ -1,0 +1,15 @@
+// example 
+"D([f",-
+"-3:jZ",-
+"9zVl9R32x1",-
+"1p4S1lk",-
+"RF.o-9s:D",-
+"E|-",-
+"4W",-
+"&5wGmv87",-
+"x",+
+"~~QLy+",-
+"",-
+
+// ground truth 
+or(or(<any>,<m0>),<low>)

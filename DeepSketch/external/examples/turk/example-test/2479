@@ -1,0 +1,20 @@
+// example 
+"'kB*)){"2"]/",+
+"x~",-
+"X=L}LK@v^Z",+
+"a!2ok}\P",+
+".s}d`?a",+
+"X",-
+"",-
+"E=fO#B",+
+"5@.%Oqsq^Ip",+
+"npMT",-
+"R^p%dQ$hC",+
+"?e(_^gX"JP6wa",+
+"m{Taee\$?5@4BV",+
+"8ftLxsx.yz|'Ln<",+
+"iZK",-
+"lc$_?",-
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),6)

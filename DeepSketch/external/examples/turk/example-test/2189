@@ -1,0 +1,24 @@
+// example 
+"kdQxn!",+
+"fq",+
+"QXj~a",+
+"Qen#=",+
+"Z?wE",-
+"kW.*|G",+
+"k~",-
+"",-
+"#Y%",+
+"d5Y",-
+"d`x",-
+":I!!",+
+"#fN",+
+""\b#|",-
+"J",-
+":u=i",+
+"Z|C|",-
+"fJ",+
+"k(",-
+""/$4[",-
+
+// ground truth 
+startwith(concat(<any>,<let>))

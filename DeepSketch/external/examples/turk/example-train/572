@@ -1,0 +1,15 @@
+// example 
+"y`\y&",+
+":$Fu6f%E",+
+"9",+
+"~I=",+
+"(NC'+aPih/",+
+"QNk/Y"",+
+"3|ja",+
+"",-
+"eL",+
+"Oe&>c[a",+
+"*ZJtm{-8`",+
+
+// ground truth 
+contain(or(or(<vow>,<any>),<let>))

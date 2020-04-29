@@ -1,0 +1,18 @@
+// examples
+"A0",+
+"A00",+
+"A1",+
+"AA1",+
+"AAA000",+
+"AAA100",+
+"AA999",+
+"",-
+"a",-
+"0",-
+"a0",-
+"aa0",-
+"aa00",-
+"aaa000",-
+
+// ground truth 
+concat(<cap>,contain(<num>))

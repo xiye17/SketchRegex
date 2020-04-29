@@ -1,0 +1,25 @@
+// example 
+"KE",+
+"s",-
+"JsQqA",+
+"UoE",+
+"JSOrVO",+
+"MITi",+
+"~lc+T",-
+"BelZ",-
+"heN",-
+"BelR",-
+"",-
+"\@",-
+"KO",+
+"=",-
+"+;8+|",-
+"Uoa",+
+"JSOrVo",+
+"MITO",+
+"hed",-
+",1",-
+"JsQqe",+
+
+// ground truth 
+concat(<let>,endwith(<vow>))

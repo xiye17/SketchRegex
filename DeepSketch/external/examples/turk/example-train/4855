@@ -1,0 +1,25 @@
+// example 
+"m}27,",-
+"u$}qY",+
+"zLn",+
+"[",-
+"zLV",+
+"P{Je",+
+"~|sMD(",+
+"m}27Q",-
+"u$}qp",+
+"~|sMkm",+
+"",-
+"?EY2",-
+"V~i",-
+"P{JA",+
+"j",-
+"{.!4fBV",+
+"{.!4fBl",+
+"hz",-
+"?EY}",-
+"h|",-
+"V~[",-
+
+// ground truth 
+repeatatleast(contain(<let>),3)

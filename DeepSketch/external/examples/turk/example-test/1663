@@ -1,0 +1,17 @@
+// example 
+"+]C",+
+"*=Hk",+
+"Ws",-
+"m",+
+"Y_",+
+"",+
+"D[H",+
+"D[_1`",+
+"Dp<Fe",+
+"WL",-
+"C",+
+"Y~",+
+"E[,:",+
+
+// ground truth 
+not(concat(and(<cap>,<any>),<let>))

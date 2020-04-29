@@ -1,0 +1,25 @@
+// example 
+"HpN",-
+"D",+
+"yy",-
+"HZ$",-
+"q",-
+"+",-
+"I0&@",-
+"LSNVLDIYO",+
+"",-
+"W$b33",-
+"DIBVYVZ",+
+"LTMOXTQYKQ",+
+"IYF/",-
+"XOQXUH",+
+".>",-
+"WRJLi",-
+"TPXF",+
+"GBKFZ",+
+"UE",+
+"IKS",+
+"MJFVXXIH",+
+
+// ground truth 
+and(endwith(<any>),star(<cap>))

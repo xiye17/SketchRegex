@@ -1,0 +1,15 @@
+// example 
+"",+
+"c(DC?W2^",-
+"zv?b]",-
+"3/R=",-
+"L&&",-
+"N1$U9sq(Q=",-
+"PX"#-v",-
+"t\",-
+"t`.KNhn*4",-
+"XfkR">F",-
+"~",-
+
+// ground truth 
+not(startwith(<any>))

@@ -1,0 +1,15 @@
+// example 
+"4`D6?dn<h",+
+"KnN:XtY",+
+"S",+
+"vi:)",+
+"ypO",+
+"7-",+
+"1veZ8&b>u3",+
+"]Dh08)#D",+
+"7A093",+
+"~B7sQE",+
+"",-
+
+// ground truth 
+endwith(contain(<any>))

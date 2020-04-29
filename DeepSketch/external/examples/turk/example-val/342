@@ -1,0 +1,15 @@
+// example 
+"",+
+"aZm'",-
+";0-Wr^"s",-
+"|'\!uxM",-
+"1pXkz|2r@j",-
+"7",-
+"?%Ntsy",-
+"91T",-
+"kF",-
+"N:]]|1HG=",-
+"@u<hr",-
+
+// ground truth 
+not(contain(or(<vow>,<any>)))

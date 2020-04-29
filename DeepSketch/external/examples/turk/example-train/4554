@@ -1,0 +1,17 @@
+// example 
+"a>g",-
+"oQr3;",-
+"a~9",-
+"OAq",+
+"",-
+"Ot",-
+"g",-
+"7"X.",-
+"o{|sy",-
+"T",-
+"Osig",-
+"O]",-
+"Obq",+
+
+// ground truth 
+concat(concat(<vow>,<let>),<any>)

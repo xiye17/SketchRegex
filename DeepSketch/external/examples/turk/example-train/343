@@ -1,0 +1,16 @@
+// example 
+"9Z16X{1",+
+"RntC_9.}O",+
+"!U@ZBb.VYtT",+
+"v#",+
+";ob/V",+
+"7",-
+"B)J",+
+"_'&i",+
+"yi8)_#``",+
+"CaMkGf",+
+"''_EIwM<L7",+
+"",-
+
+// ground truth 
+repeatatleast(or(<let>,<any>),2)

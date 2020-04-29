@@ -1,0 +1,26 @@
+// example 
+"AI",-
+"&,tF",-
+"'GM)\C!",+
+"E*M!",+
+"SMGI!",+
+"O!*",+
+"#",-
+"",-
+"(LB'G!",+
+"2xjd$",-
+"i",-
+"eEA",-
+"2xjdN",-
+"SMG!"",+
+"&,ta",-
+"(LB!{Y",+
+"E!zq",+
+"'G!Z{`\",+
+"A0",-
+"$Z!",+
+"I!",+
+"eE:",-
+
+// ground truth 
+contain(concat(<cap>,<m0>))

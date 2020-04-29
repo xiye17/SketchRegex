@@ -1,0 +1,25 @@
+// example 
+"RKmWmQaUYOfFiA",+
+"oCLTsDsRCXnQ",+
+"RNlQNMVHMFZBuWMN",+
+"$3",-
+"}?u:",-
+"RNlQNMVHMFZBuWmP",+
+"+",-
+"l",-
+"[)4",-
+"`dX8",-
+"EGUJpAxW",+
+"eXnDLYgAuT",+
+"EGUJpACL",+
+"oCLTsDsRCXLW",+
+"eXnDLYgAOT",+
+"",-
+"T`9oJ",-
+"T/qP$",-
+"s8h",-
+"FL",-
+"RKmWmQaUYOfFCU",+
+
+// ground truth 
+repeatatleast(concat(<let>,<cap>),4)

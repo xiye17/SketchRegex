@@ -1,0 +1,17 @@
+// example 
+"_0mG}",+
+"0KA",+
+"c",+
+"!GPr",+
+"^",+
+"6rLxA",+
+"a",-
+"",+
+"zT5",+
+"i",-
+"bZ",+
+"hs./",+
+"!Z",+
+
+// ground truth 
+not(or(or(<m0>,<vow>),<cap>))

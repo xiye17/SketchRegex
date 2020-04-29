@@ -1,0 +1,17 @@
+// example 
+"H-p",-
+"e!H",+
+"piX$",-
+"A!C",+
+"",-
+"o!:",-
+"U",-
+"ol",-
+"PekhN",-
+"cB%,w",-
+"b,"0",-
+"D",-
+"o!",-
+
+// ground truth 
+concat(concat(<vow>,<m0>),<cap>)

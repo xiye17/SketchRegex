@@ -1,0 +1,25 @@
+// example 
+"X6Hj/",-
+"aa"",-
+"%U",-
+"%k",-
+"7x>b",-
+"lGGux",+
+"#SwjBe",+
+"aaC",-
+"#SwjBa",+
+"",-
+"7x>5",-
+"Xu",+
+"lGGO[",+
+">sFU",+
+"AOr",+
+"AIP",+
+">sFi",+
+"6",-
+"X6Hjw",-
+"{",-
+"Xa",+
+
+// ground truth 
+contain(concat(<cap>,<vow>))

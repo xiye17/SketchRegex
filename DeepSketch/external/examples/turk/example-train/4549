@@ -1,0 +1,14 @@
+// example 
+"",+
+"JI|ju",+
+"<`X3bN",+
+"ZCP[",+
+"[fDj{f,",+
+"H",+
+"P]y0+D<D",+
+"?L+]E<CvR",+
+"0J",+
+"%=W",+
+
+// ground truth 
+not(and(and(<num>,<let>),<low>))

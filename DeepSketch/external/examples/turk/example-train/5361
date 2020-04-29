@@ -1,0 +1,17 @@
+// example 
+"Ca",+
+"\",-
+"BbzF",-
+"hh*",-
+"@(",-
+"}O",-
+"]~<~0",-
+"0],>R",-
+"",-
+"}j_f",-
+"Co",+
+"K",-
+"hm#",-
+
+// ground truth 
+concat(<let>,or(<cap>,<vow>))

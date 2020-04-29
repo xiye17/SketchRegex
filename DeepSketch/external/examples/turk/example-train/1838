@@ -1,0 +1,25 @@
+// example 
+"K-",-
+"uy@",+
+"L/BI?",-
+"q",-
+"u%lJ",+
+"pc8g",-
+"EAh1",+
+"uV|JD",+
+"",-
+"K'B`",-
+"H_D",-
+"a<",+
+"j",-
+"_PuRq",-
+"O",+
+"I",+
+"o9!<9",+
+"o"",+
+"G'",-
+"K/Y",-
+"A*n",+
+
+// ground truth 
+repeatatleast(startwith(<vow>),1)

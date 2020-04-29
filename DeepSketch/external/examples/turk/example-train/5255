@@ -1,0 +1,25 @@
+// example 
+"\",-
+"q",+
+"qia",+
+"Vz",+
+"~vt",-
+"P[Jv",-
+"BKAiZ",+
+"P%Ff",-
+"s<)^S",-
+"",+
+"Gctd",+
+"|",-
+"BKAig",+
+"L",+
+"VW",+
+"~S",-
+"Q_",-
+",2+",-
+"qiO",+
+"GctR",+
+"{N_No",-
+
+// ground truth 
+star(or(or(<let>,<low>),<vow>))

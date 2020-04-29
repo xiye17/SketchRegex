@@ -1,0 +1,25 @@
+// example 
+"DIGLf!",+
+"G$C",-
+"fS!",+
+"caCt",+
+"DIGLfj",+
+"y+"k",-
+"^",-
+"",-
+"J!",+
+"ya_x",-
+"Jl",+
+"caC!",+
+"G!^",-
+"BcOB!",+
+"w",-
+"]F",-
+"fSy",+
+"}?",-
+"-/l;%",-
+"[8]f-",-
+"BcOBb",+
+
+// ground truth 
+concat(repeatatleast(<let>,1),or(<low>,<m0>))

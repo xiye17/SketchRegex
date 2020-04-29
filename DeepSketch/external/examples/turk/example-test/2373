@@ -1,0 +1,26 @@
+// example 
+"O{{vz!",+
+"{@yb",-
+"u!w!",+
+"8mA/by!",+
+"O{{#w!",+
+"8mA/|z!",+
+"{@y|",-
+"{$f",-
+">sW|L",-
+"t!Cv!",+
+"{$&",-
+">sW||",-
+"",-
+"a",-
+"~}",-
+"{t!",+
+"t!lo!",+
+"uve!",+
+"g!",+
+"{",-
+"~c",-
+"1m!",+
+
+// ground truth 
+concat(endwith(repeatatleast(<low>,1)),<m0>)

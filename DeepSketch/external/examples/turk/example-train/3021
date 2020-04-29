@@ -1,0 +1,16 @@
+// example 
+"]",-
+"nt]n",-
+"#D,j|",-
+",(",-
+"$Pv9",-
+"Ew",-
+"L6",+
+"A",-
+"'"s",-
+"uD(/7",-
+"",-
+"wLU",-
+
+// ground truth 
+concat(and(<any>,<cap>),<num>)

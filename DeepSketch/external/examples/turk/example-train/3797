@@ -1,0 +1,14 @@
+// example 
+"",+
+"Zs~*M1",+
+"k}#(1l:",+
+"PbK",+
+"Q?",+
+"l",+
+"Z,Msr",+
+"~`(,",+
+"=$Ph"-Km",+
+"?Moo|ZEH'",+
+
+// ground truth 
+startwith(star(concat(<let>,<num>)))

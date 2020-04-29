@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+repeat(contain(and(endwith(<m0>),repeatatleast(<let>,1))),5)

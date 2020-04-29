@@ -1,0 +1,17 @@
+// example 
+"/",-
+".Z",-
+"%G<`",-
+"",-
+"J!",+
+"}[",-
+"!p{lt",-
+"hG-bv",-
+"B_RX",-
+"R!7",-
+"J@",+
+"RXF",-
+"E",-
+
+// ground truth 
+concat(<cap>,or(or(<m1>,<m0>),<m2>))

@@ -1,0 +1,25 @@
+// example 
+"!xs!!",+
+"s>",-
+"!xs!f",+
+"t!}",-
+"sorw!!",+
+"srekm!!!!",+
+"!H}DF",-
+"srekm!!!g",+
+"pwew!gr",+
+"",-
+"|",-
+"j",-
+"sorw!u",+
+"m!!c!!!c",+
+"pwew!g!",+
+"!c!!",-
+"s!",-
+"0D.}:",-
+"m!!c!!!!",+
+"}C6",-
+"!c!+",-
+
+// ground truth 
+repeatatleast(or(<low>,<m0>),5)

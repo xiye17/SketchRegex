@@ -1,0 +1,25 @@
+// example 
+"\",-
+"m9K0",+
+"w0J0s8I4S0",+
+"c!",-
+"5"}J7",-
+"`#I",-
+"w0J0s8I4m8",+
+"P0C2J1k4G8I3",+
+"",-
+"r2c8c8n5",+
+"r2c8c8D6",+
+"|WVz",-
+"m9t3",+
+"-WK:",-
+"Qg*",-
+"P0C2J1k4G8j2",+
+"w7V5l4",+
+"{;;Y[",-
+"{",-
+"0j",-
+"w7V5U6",+
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),2)

@@ -1,0 +1,16 @@
+// example 
+"2",-
+"Se*",-
+"CcmV",-
+"KU8]*",-
+"CGng",-
+"KA;~O",-
+"@U",+
+"#F",-
+"SK>",-
+"@o",+
+"",-
+"#c",-
+
+// ground truth 
+concat(<any>,and(<let>,<vow>))

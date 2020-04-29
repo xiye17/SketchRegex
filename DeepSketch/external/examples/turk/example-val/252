@@ -1,0 +1,25 @@
+// example 
+"!gtg!!dUoib",+
+"d|9",-
+"[",-
+"WWwX!oZ",+
+"3",-
+"!!\VS",-
+"!gtg!!dUoiS",+
+"WWwX!oe",+
+"f!LjDT!!y!",+
+"G!!HrKv!",+
+"",-
+"f!LjDT!!ya",+
+"Rj",-
+"!!M!!!Vfb",+
+"?*W",-
+"p}u:",-
+"!!M!!!Vf!",+
+"p['B",-
+"G!!HrKvC",+
+"7F",-
+"!!H[~",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),7)

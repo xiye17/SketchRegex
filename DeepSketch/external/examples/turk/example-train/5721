@@ -1,0 +1,15 @@
+// example 
+"D,",+
+"m<ev<=A%",+
+";ZM"",+
+"N",+
+".>Rat&7:b`",+
+"T*C4&}ey7",+
+"Lx3xM]{",+
+"+f8",+
+"GR/8?[",+
+"",-
+"*ZdPD",+
+
+// ground truth 
+contain(or(<any>,<vow>))

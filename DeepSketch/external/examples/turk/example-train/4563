@@ -1,0 +1,25 @@
+// example 
+"I0A",+
+"G",-
+"o4xdv",+
+"Gu85a",-
+"U9g$z%",+
+"WZ0/",-
+"i26",+
+"I75Q",+
+";GWL",-
+"e[i",-
+"",-
+"u6",+
+"HX",-
+"A9",+
+"O0YMQt",+
+"O8P2",+
+"El",-
+"u6c1;",+
+"J",-
+"e-j",-
+"y/4_A",-
+
+// ground truth 
+startwith(concat(<vow>,<num>))

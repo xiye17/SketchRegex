@@ -1,0 +1,15 @@
+// example 
+"",+
+"*$",+
+"!d8HD",+
+"!41",+
+"a`0E",+
+":",+
+"("FaH",+
+"!|y7",+
+"!",-
+"!A",+
+"5C&",+
+
+// ground truth 
+or(repeatatleast(<any>,2),not(<m0>))

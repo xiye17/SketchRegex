@@ -1,0 +1,18 @@
+// examples
+"BCDAa",+
+"Ds",+
+"Q23d",+
+"Eg2",+
+"FdFVs",+
+"RE2d4",+
+"Cr2",+
+"a",-
+"cc",-
+"1Aw",-
+"fQf",-
+"2A3",-
+"LLL",-
+"K89",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),contain(<low>))

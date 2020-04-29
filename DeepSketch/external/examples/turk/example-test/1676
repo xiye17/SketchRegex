@@ -1,0 +1,17 @@
+// example 
+"Uaj",-
+"nW",-
+"aI9f",-
+"AfRVs",-
+"/1'",-
+"Uh",+
+"",-
+"a$",+
+"^j",-
+"$p@c^",-
+"x",-
+"ED{>",-
+"E",-
+
+// ground truth 
+concat(<vow>,or(or(<let>,<m0>),<any>))

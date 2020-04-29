@@ -1,0 +1,14 @@
+// example 
+"",+
+"1dA(",+
+"4Pn~l^",+
+"kcC",+
+"ngr#,a\n*",+
+"YNH=lT,,",+
+"BJ+>K"G",+
+"bmXo0",+
+"&w",+
+"\",+
+
+// ground truth 
+not(and(and(<m0>,<cap>),<m1>))

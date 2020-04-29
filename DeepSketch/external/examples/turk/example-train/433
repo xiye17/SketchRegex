@@ -1,0 +1,25 @@
+// example 
+"RgCQ",-
+"BT",-
+"DA",+
+"GPE",+
+"^U?,@",+
+"Bp",-
+"GPA",+
+""",-
+"d}N",-
+"",-
+"P",-
+"d}Q",-
+"RgCD",-
+"O",+
+"K;O9",+
+"C1R}N",-
+"I",+
+"DE",+
+"K;XI",+
+"^A9V6",+
+"C1R}F",-
+
+// ground truth 
+contain(and(and(<let>,<cap>),<vow>))

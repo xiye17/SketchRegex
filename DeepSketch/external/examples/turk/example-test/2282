@@ -1,0 +1,14 @@
+// example 
+"",+
+"slI;gw]3w",+
+"8",+
+"-[x<g'",+
+"g2",+
+"W(5=",+
+"{%"",+
+"Ffw/E5O",+
+"xT*U!PE"",+
+"bVX='",+
+
+// ground truth 
+not(and(star(<num>),<vow>))

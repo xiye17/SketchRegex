@@ -1,0 +1,25 @@
+// example 
+"Xl3",+
+"HHOH",-
+"$D_q",+
+"\",+
+"",+
+"dHdT",+
+")8<uE",+
+"GGTCNZMPV",-
+""SR",+
+"INJ",-
+"JLRYNH",-
+"ANOQUCJA",-
+"OZJIDQJQAK",-
+"VUt!d",+
+"GPDKB",-
+"5",+
+"V5",+
+"YQ",-
+"K",-
+"FCKODAH",-
+"Vg",+
+
+// ground truth 
+not(repeatatleast(<cap>,1))

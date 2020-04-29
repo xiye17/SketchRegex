@@ -1,0 +1,25 @@
+// example 
+"]AJW",-
+"*>d",-
+"U?v!",+
+"T!",+
+"{BKd5",-
+"zm!h;/",+
+"M:tv!",+
+"U?!%",+
+"iS!",+
+"n!",+
+"",-
+"CL",-
+"{Z",-
+"x|w",-
+"i!<",+
+"M!<W=",+
+"I~-[7",-
+"i",-
+"zm@{!k",+
+"R",-
+"O=IV",-
+
+// ground truth 
+and(startwith(<let>),contain(<m0>))

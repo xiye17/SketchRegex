@@ -1,0 +1,16 @@
+// example 
+"(o:h",-
+"aP",-
+"j",-
+"Be^",-
+"(\qo",-
+"dA",+
+"FiAx?",-
+"BaB",-
+"do",+
+"aZ",-
+"Ff"%7",-
+"",-
+
+// ground truth 
+concat(<any>,or(<vow>,<m0>))

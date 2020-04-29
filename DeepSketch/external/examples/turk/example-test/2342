@@ -1,0 +1,25 @@
+// example 
+"qP",+
+"]ceQ",+
+"yWkwMU",+
+"[",-
+"a|ji",-
+";0r:/",-
+"3il}Y",+
+"vx:",-
+"1:",-
+"1h",-
+"",-
+"a|j&",-
+"]c)X",+
+"vxz",-
+"W:f/P",+
+";0r:f",-
+"y,*Q(E",+
+"O\",+
+"{Y5",+
+"{3C",+
+"B",-
+
+// ground truth 
+and(not(<let>),contain(<cap>))

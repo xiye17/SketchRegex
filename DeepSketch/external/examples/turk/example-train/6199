@@ -1,0 +1,16 @@
+// example 
+"=u",+
+"/Akdr",-
+"=i",+
+"D^]",-
+"oh2h",-
+"oAS"",-
+"w",-
+"DP1",-
+"Xh",-
+"",-
+"Xb",-
+"/^f|_",-
+
+// ground truth 
+concat(or(<m0>,<any>),<vow>)

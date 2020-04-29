@@ -1,0 +1,15 @@
+// example 
+"@Kjh",+
+"\b|+#')R",+
+"L^cCb<,",+
+">_X/*IaYg:",+
+"lk",+
+"6PE",+
+"<<Ai6i",+
+"q(y@N",+
+"e~&%cu011",+
+"",-
+"A",+
+
+// ground truth 
+endwith(or(<cap>,<any>))

@@ -1,0 +1,18 @@
+// examples
+"lalala",+
+"kekeke",+
+"oooooo",+
+"sososo",+
+"kukuku",+
+"fifififififififififif",+
+"what is happening right now will this work",+
+"kkkkkk",-
+"fofo",-
+"fffooo",-
+"kckckc",-
+"kukuk",-
+"888888",-
+"############",-
+
+// ground truth 
+repeatatleast(concat(<let>,contain(<vow>)),3)

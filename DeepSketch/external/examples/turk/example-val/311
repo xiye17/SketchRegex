@@ -1,0 +1,17 @@
+// example 
+"sT",-
+"wrf",-
+"oI",+
+"!a3,`",-
+"s|",-
+"oo",+
+"_",-
+"wv/",-
+"!n87",-
+"",-
+"{n0lg",-
+"U",-
+"!qj#",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<low>),<vow>)

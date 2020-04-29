@@ -1,0 +1,14 @@
+// example 
+"",+
+"~C}OT[",+
+"?.",+
+"(B[",+
+"k}xYO",+
+"Z/(A|Ll",+
+"kDOu",+
+"-aYO./U\",+
+"[Z*KtJ6R\",+
+"{",+
+
+// ground truth 
+not(contain(and(and(<let>,<m0>),<m1>)))

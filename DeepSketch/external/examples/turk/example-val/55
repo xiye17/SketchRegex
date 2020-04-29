@@ -1,0 +1,25 @@
+// example 
+"IQ2BC",+
+"lre'",+
+"RI$S7",+
+"bg",-
+"hu",+
+"GGsR",-
+"2",+
+"BGg",-
+"lriM",+
+"BHxGn",-
+"k",-
+"h!",+
+"(BI",+
+"bm",-
+"",-
+"BG,",-
+"BHxGt",-
+"h",-
+"GGsn",-
+"I7v",+
+"u",+
+
+// ground truth 
+contain(or(or(<vow>,<num>),<m0>))

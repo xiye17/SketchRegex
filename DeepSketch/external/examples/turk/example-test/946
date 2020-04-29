@@ -1,0 +1,25 @@
+// example 
+"PaWRUi",+
+"LO",+
+");PVo",+
+"^%AO",+
+"^%Ai",+
+"Mr",-
+"POHr",-
+"e",-
+"",-
+"NCoGN",-
+"Q",-
+"/SA",+
+"Ml",-
+"/SU",+
+"NCoGB",-
+"POH@",-
+"4[C",-
+");PVU",+
+"4[r",-
+"PaWRUe",+
+"Lu",+
+
+// ground truth 
+endwith(concat(<cap>,<vow>))

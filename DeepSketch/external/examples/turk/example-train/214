@@ -1,0 +1,16 @@
+// example 
+"Pn@",-
+"W3",-
+"9",-
+"Wq",-
+"U",-
+"P%`",-
+"Y7!",+
+"O{$A",-
+"O-d`",-
+"",-
+"|XlmM",-
+"R\WaN",-
+
+// ground truth 
+concat(<cap>,concat(<num>,<m0>))

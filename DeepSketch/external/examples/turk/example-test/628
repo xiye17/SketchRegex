@@ -1,0 +1,14 @@
+// example 
+"",+
+"~X~pg",+
+"L",+
+"@I>",+
+"7x*G",+
+"b,{!&%l",+
+"o1",+
+"/VjO|/'o",+
+"^dW[dP",+
+"')ML]6ac}",+
+
+// ground truth 
+contain(not(concat(<m0>,<m1>)))

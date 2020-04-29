@@ -1,0 +1,16 @@
+// example 
+"1",-
+"Pc",+
+"+O|(k-l_=",+
+"l,ho(0R",+
+"?8#\",+
+"1lL#v",+
+"EIEC&3",+
+":7h",+
+"BFivXqfVu3C",+
+"~@7Kn.n=8T",+
+"",-
+"/]UlgZO<",+
+
+// ground truth 
+or(repeatatleast(<any>,2),and(<m0>,<low>))

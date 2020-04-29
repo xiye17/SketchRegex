@@ -1,0 +1,26 @@
+// example 
+"D~wqJs",+
+"[",-
+"BJo",+
+"UF+",-
+"jTj",+
+"4",-
+"+H",-
+"dNye~",-
+"D~w3Xc",+
+"Yd",+
+"V{Zo",+
+"",-
+"dNyeH",-
+"{juFf",+
+"{j(Cx",+
+"UF_",-
+"6DnW",-
+"E}^F`Zz",+
+"V+Sf",+
+"+"",-
+"E}^FMXw",+
+"6Dn%",-
+
+// ground truth 
+endwith(concat(<cap>,<low>))

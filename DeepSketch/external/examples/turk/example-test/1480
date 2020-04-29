@@ -1,0 +1,15 @@
+// example 
+"",+
+"L,p",+
+"@,'XKx",+
+"vuD!D{R%b$",+
+"jy",+
+"k\ya.",+
+"@OG7",+
+"Q4MS~!Qj",+
+"3"(v\b!",+
+"#",-
+"&QGuig{>v",+
+
+// ground truth 
+not(or(or(<any>,<m0>),<num>))

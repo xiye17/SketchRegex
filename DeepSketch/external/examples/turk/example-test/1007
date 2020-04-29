@@ -1,0 +1,25 @@
+// example 
+"Lgzierszpii",+
+"Wqpiztihakau",+
+".",-
+"|B=",-
+"alrslrfmox",+
+"AC",-
+"l",-
+"Cpqrtrbd",+
+"fGs",-
+"vgprbfbcsmxv",+
+"",-
+"rEc(V",-
+"ulxqvgwriab",+
+"Kgdnvuiqrs",+
+"A{",-
+"rmw5~",-
+"Mxbtnzkfj",+
+"gr~]",-
+"vpjeldthx",+
+"hrkmmmav",+
+"grn}",-
+
+// ground truth 
+concat(<let>,repeatatleast(<low>,7))

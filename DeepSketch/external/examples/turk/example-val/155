@@ -1,0 +1,25 @@
+// example 
+"H$<yq",+
+"$/",-
+"y~y",-
+"H!1Co",+
+"H!(S",+
+"n`ihh",-
+"W",+
+"F`=",+
+"#",-
+"",-
+"wDRY",-
+"WQ",+
+"Q!Y=Ke",+
+"<0b6Y",-
+"B!",-
+"QU_8ps",+
+"w",-
+"F!_",+
+""sF",-
+"HW^i",+
+"/$2l",-
+
+// ground truth 
+concat(<cap>,not(<m0>))

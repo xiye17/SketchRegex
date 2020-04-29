@@ -1,0 +1,17 @@
+// example 
+"Fl!",+
+"RJs*",-
+"tYnct",-
+"",-
+"c",-
+"0JNeO",-
+"FlX",+
+";",-
+"1G#",-
+"Rs!<",-
+"(G",-
+"jTL",-
+"_w",-
+
+// ground truth 
+concat(concat(<cap>,<low>),or(<m0>,<let>))

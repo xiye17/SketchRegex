@@ -1,0 +1,25 @@
+// example 
+"HHOFKYL",-
+"BUPKBTIEEWFAUM",-
+"MEIEWXVYXRSS",-
+"BX",+
+"BSG2",+
+"X7f",+
+"X^s",+
+"SQLPGXQVNH",-
+"W",+
+"CAJMINUTIKWJO",-
+"GGBXLW",-
+"B*",+
+"LTLIMQVIQ",-
+"",+
+"RDZWILMBJYU",-
+"OMJIR",-
+"6",+
+"FVIEDNKA",-
+"YV,@S",+
+"BSGD",+
+"Ye.GH",+
+
+// ground truth 
+not(repeatatleast(<cap>,5))

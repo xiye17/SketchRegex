@@ -1,0 +1,25 @@
+// example 
+"7_",+
+"0HH0",+
+"6YC]Gqu/=",+
+"/z",-
+"ldhHC",-
+""",-
+"9h^/]k=C",+
+"1>U8]$CQ'z7",+
+"",-
+"LZ",-
+".EO",-
+"3+uF@nTNuH",+
+"=(2t",-
+"(R=|w",-
+"JBa",-
+"$8?#",-
+"5d9",+
+"2U4Xv",+
+"8>OCgq",+
+">",-
+"2=WVwHP",+
+
+// ground truth 
+concat(<num>,endwith(<any>))

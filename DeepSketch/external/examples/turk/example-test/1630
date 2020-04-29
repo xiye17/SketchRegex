@@ -1,0 +1,18 @@
+// example 
+"s",-
+";o3"(Skv",+
+"vMD=]a;a?'J",+
+"]"#T^",+
+"@Wqd($D1j",+
+"OA7L}Cs",+
+"lHOA",+
+"QH2eTFai]jTg",+
+"",-
+"PNO]i:<RzV",+
+"TGf",-
+"Q`",-
+"e:S@n/h_8RJ4*",+
+"3*/x%O",+
+
+// ground truth 
+contain(repeatatleast(or(<m0>,<any>),4))

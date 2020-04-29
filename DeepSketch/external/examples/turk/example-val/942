@@ -1,0 +1,25 @@
+// example 
+"s",-
+"GJY1",-
+"CWZRCHWVj",+
+"r_gK",-
+"wD}",-
+"GRIAw",+
+"zr9}I",-
+"",-
+"IRGSZAQFNQy",+
+"&K6En",-
+"E]",-
+"Ze",+
+"YGSNPTz",+
+"PRWAGQPOQb",+
+"!d!",-
+"8",-
+"+e",-
+"FPa",+
+"WJGPMNOz",+
+"TBBMKg",+
+"JDCn",+
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<low>)

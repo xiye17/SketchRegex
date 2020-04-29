@@ -1,0 +1,25 @@
+// example 
+"LmApAh",+
+"[eopr",-
+"~_#",-
+"luunMMxvlm",+
+"#-Y",-
+"LmApma",+
+"|23~[",-
+"GtpTayag",+
+"luunMMxvNs",+
+"^",-
+"",-
+"W{B2",-
+"\&",-
+"W=.O",-
+"P",-
+"ahJYJDyom",+
+"ahJYJDyHr",+
+"bokEbha",+
+"GtpTayPw",+
+"=>",-
+"bokEbFg",+
+
+// ground truth 
+concat(repeatatleast(<let>,5),<low>)

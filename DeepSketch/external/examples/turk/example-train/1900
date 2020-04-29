@@ -1,0 +1,17 @@
+// example 
+"i#N",-
+"lyOF",-
+"h^",-
+"o2",+
+"mx",-
+"",-
+"c",-
+"!%"<",-
+"u5",+
+"i85",-
+"fs3JG",-
+"cZTGH",-
+"D",-
+
+// ground truth 
+concat(and(<low>,<vow>),<num>)

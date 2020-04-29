@@ -1,0 +1,18 @@
+// example 
+"1q&Zsv",-
+"Fd`en-:S%5Ih",-
+"ZV(YH$1#(Q?@v",-
+"qE$'@",-
+"Y/Qmfk+Bh)",-
+"%C",+
+"%b*rD1en",-
+"P;\f4@Z!PAy",-
+"o1kYmFb",-
+"",+
+"gRs",+
+"kONG",-
+"'e\g{zTYd",-
+"A",+
+
+// ground truth 
+not(repeatatleast(<any>,4))

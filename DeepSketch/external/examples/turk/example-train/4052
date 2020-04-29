@@ -1,0 +1,17 @@
+// example 
+"e7",+
+"cx",-
+"rQ@{",-
+"S+",-
+"XGAZ",-
+"Gs[",-
+"e",-
+"",-
+"eK",+
+"&",-
+"IFoPY",-
+"I~VB7",-
+"8]K",-
+
+// ground truth 
+concat(<vow>,or(<num>,<let>))

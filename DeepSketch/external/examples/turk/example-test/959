@@ -1,0 +1,25 @@
+// example 
+"!CN",+
+"!XDMTLXIY",+
+"!]o",-
+"nZ",-
+"!COA",+
+"!",-
+"!UGPBDI",+
+"!YCHYTICGSDC",+
+"",-
+"!@,c",-
+"!TUOV",+
+"!ZRVOGQO",+
+"!KINMHXWTJT",+
+"!ZJGHYGRYT",+
+"!n);x",-
+"!9`?t",-
+"!IDy",-
+"!UIBVH",+
+"!>X",-
+"{",-
+"!j",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<cap>,2))

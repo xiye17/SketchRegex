@@ -1,0 +1,17 @@
+// example 
+"G",-
+"<G&[",-
+"QTH'?",-
+"1#",+
+"Mr",-
+"",-
+"Mi",+
+"QF$:h",-
+"<Mf",-
+"8",-
+"MX",-
+"k,dx",-
+"z5W",-
+
+// ground truth 
+or(concat(<cap>,<vow>),concat(<num>,<any>))

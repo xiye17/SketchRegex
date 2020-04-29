@@ -1,0 +1,14 @@
+// example 
+"",+
+"':^+`3",+
+"l1C4Y",+
+"AreLmx"I",+
+"$)_mPZ:!#",+
+"jWS}xrk",+
+"j;",+
+"z42",+
+"~",+
+"f,gC",+
+
+// ground truth 
+not(and(and(<cap>,<low>),<num>))

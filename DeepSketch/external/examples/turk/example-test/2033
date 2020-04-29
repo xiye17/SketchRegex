@@ -1,0 +1,25 @@
+// example 
+"}Tl'",-
+">|",-
+"I-",+
+">^e",+
+"o",+
+"!",-
+"KsD",-
+">^u",+
+"_",-
+">q",-
+"",-
+"DZfA",+
+"DZfU",+
+"Ksl",-
+"rC@B%",-
+"a@",+
+"DJQFA",+
+"I",+
+"}Tlf",-
+"DJeM-",+
+"rC@B[",-
+
+// ground truth 
+or(contain(<vow>),repeatatleast(<m0>,5))

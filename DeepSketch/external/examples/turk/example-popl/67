@@ -1,0 +1,18 @@
+// examples
+"!a!a!a!a",+
+"!f@32!c!fj23!kfls!wor!",+
+"!cc!dkw!map!fo234!0ri2op!pfAA!fla",+
+"!c!1!@!A!Z!",+
+"!ff!23A!ffC!ga!f!",+
+"!CC!ff23!ppr1!f!q!",+
+"!A!ccf!pw3!o!dd!g!",+
+"!f",-
+"!1F!C!fSdf",-
+"dfh2123@@",-
+"!rj!aowe!CC",-
+"!!",-
+"",-
+"!C!!fj!",-
+
+// ground truth 
+repeatatleast(concat(<m0>,contain(<any>)),4)

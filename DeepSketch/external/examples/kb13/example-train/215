@@ -1,0 +1,25 @@
+// example 
+"^\~",-
+"p|(b",-
+"`5-i\ZtBQ",+
+"|k(`fUjX",+
+"9h",-
+"`5-i\ZtBz",+
+"3XsWGB",+
+"|k(`fUjc",+
+"p}i^`",-
+"}V`SbDO",+
+"",-
+"`",-
+"kXMPL",+
+"a",-
+"3XsWGi",+
+"p}i^}",-
+"^\_",-
+"9J",-
+"p|([",-
+"kXMPi",+
+"}V`SbDk",+
+
+// ground truth 
+repeatatleast(contain(and(repeatatleast(<let>,1),repeatrange(<let>,0,5))),5)

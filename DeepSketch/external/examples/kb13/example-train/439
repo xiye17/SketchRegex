@@ -1,0 +1,17 @@
+// example 
+"!r_}",-
+"]",-
+"!\L",-
+"!*{%u",-
+"!",-
+"",-
+"COjsKJ4!NysJRlKaqqZc",+
+"]M",-
+"!r_W",-
+"COjsKJ4!NysJRlKaqqZO",+
+"!\/",-
+"]|",-
+"!*{%K",-
+
+// ground truth 
+and(contain(<m0>),repeatatleast(contain(repeatatleast(<let>,6)),3))

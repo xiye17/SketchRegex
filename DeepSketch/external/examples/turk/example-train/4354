@@ -1,0 +1,14 @@
+// example 
+"",+
+"a)cy",+
+"7nv<,Hl_",+
+"^Xuu(Dd",+
+"Ixf@)",+
+"h=3\1j",+
+"B_x",+
+"/DY0sN"55",+
+"#",+
+"3)",+
+
+// ground truth 
+contain(star(or(<num>,<let>)))

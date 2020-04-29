@@ -1,0 +1,17 @@
+// example 
+"Mo8",-
+"U:.ao",-
+"F<Z;",-
+"qa?)C",-
+"$d2",-
+"",-
+"U!",+
+"IM",-
+"A!",+
+"A",-
+"C",-
+"R]/d",-
+"QO",-
+
+// ground truth 
+concat(and(<cap>,<vow>),<m0>)

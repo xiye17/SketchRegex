@@ -1,0 +1,17 @@
+// example 
+"UMl_nq:4",+
+"icZOu",+
+"rthM",+
+"f;.-UDmR2t&)",+
+"w-F=h^",+
+"",-
+"Xs{s-0,",+
+"Z'O",+
+"JX",-
+"-'Sm!]_#Zs",+
+"jl@ErccX'&L",+
+"J",-
+"d1}!b@76L",+
+
+// ground truth 
+repeatatleast(or(<any>,<vow>),3)

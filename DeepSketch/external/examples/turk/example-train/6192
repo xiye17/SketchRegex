@@ -1,0 +1,14 @@
+// example 
+"",+
+"xAE~L",+
+"Z",+
+"_*MJz3dD",+
+"^Zn",+
+"jE6E",+
+"<NN6eM",+
+"`_",+
+"|N+g&.Ze=",+
+"*suVajV",+
+
+// ground truth 
+contain(or(<cap>,star(<let>)))

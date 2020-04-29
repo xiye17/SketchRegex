@@ -1,0 +1,26 @@
+// example 
+"c~~t{",-
+"Z*`y_msgec",+
+"w{p",-
+":<l|;qs}gah",+
+"'}",-
+"vcoryv",+
+"'9",-
+"&koiaep",+
+":<l|;qQhmhx",+
+"",-
+"xoWGckxr",+
+"t|z}",-
+"i",-
+"ib~lsns",+
+"C@f}brskz",+
+"9",-
+"C@~dkuana",+
+"c~~tv",-
+"Z*`|yvsezr",+
+"t|zB",-
+"w{\",-
+"xoW}equz",+
+
+// ground truth 
+repeatatleast(contain(<low>),6)

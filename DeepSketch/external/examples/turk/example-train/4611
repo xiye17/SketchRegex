@@ -1,0 +1,24 @@
+// example 
+"]Uq"]-Tp",-
+"!+qfkVR$",+
+"4",-
+"=3?KD%$",-
+",6A9tv",-
+"!8k6r~E/X",+
+"!,]",+
+"!",+
+"!~",+
+"![y-xpo",+
+"",-
+"U/",-
+"ep?@MB=\W",-
+"!c^s/Yujzs",+
+"!V]:_",+
+"!e{|",+
+"aru",-
+"!M$rqK",+
+"sVK@",-
+"~:<P,",-
+
+// ground truth 
+concat(startwith(<m0>),star(<low>))

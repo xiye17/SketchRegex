@@ -1,0 +1,25 @@
+// example 
+"OeuOu",+
+"oAEB",+
+"GWK",-
+"f(%q#",-
+"u",-
+"oAEo",+
+"iEioAc",+
+"OuK/t",-
+"uIj]",-
+"iEioAu",+
+"",-
+"eo",+
+"eU",+
+"OuI",+
+"O",-
+"Au{",-
+"OuE",+
+"uI_]",-
+"C1",-
+"OeuOq",+
+"a9",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),or(or(<cap>,<m0>),<let>))

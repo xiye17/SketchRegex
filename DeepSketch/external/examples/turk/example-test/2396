@@ -1,0 +1,25 @@
+// example 
+"o5",+
+"z,n}g",-
+"RrcB",-
+"U",+
+"!",+
+"a%Ko",+
+"(",-
+"",-
+"NY",-
+"mfx",-
+"eS-|",+
+"`_uU]",+
+"TX!",+
+"mfP",-
+"`_?oF",+
+"RrcS",-
+"lu",+
+"TXI",+
+"N3",-
+"{",-
+"z,n}b",-
+
+// ground truth 
+endwith(contain(or(or(<vow>,<m0>),<m1>)))

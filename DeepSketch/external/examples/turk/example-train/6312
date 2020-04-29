@@ -1,0 +1,25 @@
+// example 
+"Z-",-
+"J}#|`",-
+"\|HIi",+
+"Z[",-
+"G5a",+
+"I}kS",+
+"{.{",-
+"J}#|7",-
+"\|HID",+
+"S}I^",-
+"I}kx",+
+"_",-
+"TN",+
+"",-
+"G5K",+
+"e",+
+"Tp",+
+"{.`",-
+"N",+
+"S}I{",-
+"~",-
+
+// ground truth 
+endwith(repeatatleast(<let>,1))

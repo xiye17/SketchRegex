@@ -1,0 +1,25 @@
+// example 
+"uQ`gN",+
+"hmdc",-
+"3",-
+"`l?",-
+"q",-
+"a",+
+"hhsdh",-
+"<nI",+
+"9!!g",+
+"`lm",-
+"",-
+"e,",+
+"_crib",+
+"?~",-
+"<!I",+
+"hhsdc",-
+"hmdl",-
+"e2_c",+
+"u",+
+"a2",+
+"?r",-
+
+// ground truth 
+contain(or(or(<cap>,<m0>),<vow>))

@@ -1,0 +1,17 @@
+// example 
+"btP*",-
+"dm5>5",-
+"$Y",-
+"l",-
+"oE",-
+"e",-
+"",-
+"fq,f",-
+"e!X",-
+"e"2",-
+"i!",+
+"o!",+
+"p@WSy",-
+
+// ground truth 
+concat(and(and(<let>,<low>),<vow>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"f{{",-
+"ftqzb",-
+"liw(",+
+"o",+
+"l,e",+
+"l,o",+
+"k",-
+"tx1d",-
+"mu",+
+""k",-
+"",-
+""c",-
+"ftqzp",-
+"i",+
+"aJH1",+
+"go>,u",+
+"f{t",-
+"x",-
+"i]",+
+"tx1=",-
+"gejqJ",+
+
+// ground truth 
+contain(and(<vow>,<low>))

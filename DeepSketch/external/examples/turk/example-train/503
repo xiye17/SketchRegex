@@ -1,0 +1,18 @@
+// example 
+"l$-",+
+"GGaI}*9^JW;",-
+"{v",+
+"1~!{O",-
+"|]\vzQ",-
+"Z~N6bp1",-
+"8[653_$GATGVe",-
+"",+
+"6&W:8={dV:A6",-
+"mmVQfDm!4",-
+">~>$v[>I",-
+"t",+
+"fDX!B1V:Rp",-
+"P^8{",-
+
+// ground truth 
+not(contain(repeatatleast(<any>,4)))

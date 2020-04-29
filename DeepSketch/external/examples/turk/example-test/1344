@@ -1,0 +1,16 @@
+// example 
+"",+
+"70`",+
+"Y",-
+"7-?DH",+
+"5",+
+"TeM",+
+"\g+{",+
+"WL",+
+"NX~X",+
+"8'",+
+"jPO`2",+
+"]",+
+
+// ground truth 
+or(concat(<vow>,<low>),not(<cap>))

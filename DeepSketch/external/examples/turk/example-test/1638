@@ -1,0 +1,20 @@
+// example 
+"B(",-
+"FK=>{h<m",+
+"O.7AH<4HpF?",+
+"'YKjlm,/!~",+
+"3a\AI",-
+";R/cEVx",+
+"",-
+"]VY",-
+"Z@t(7)_eYT6|Fjx",+
+"m`A'=Q{BzsukI&",+
+"/E6b/|(v#",+
+"%cR""oI>`01lq",+
+"~3;M",-
+"M",-
+"UqPeWF)S3y|K",+
+"z`TD'.",+
+
+// ground truth 
+repeatatleast(or(<let>,<any>),6)

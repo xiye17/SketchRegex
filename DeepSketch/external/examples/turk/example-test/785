@@ -1,0 +1,25 @@
+// example 
+"Uo",+
+"E2v{|",-
+"E|",-
+"e[]_a",+
+"e[]_J",+
+"Ata]wA",+
+"E"",-
+"u{a\",-
+"UX",+
+"G(M",-
+"uJ^L",+
+"u{a~",-
+"Ata]wr",+
+"I|y",+
+"",-
+"a",-
+"x-Q",-
+"m'&-g",-
+"uJ^l",+
+"B",-
+"I|X",+
+
+// ground truth 
+concat(<vow>,endwith(<let>))

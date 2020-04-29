@@ -1,0 +1,15 @@
+// example 
+"k`i",-
+"jo0=`8D",-
+"QAg]E|..nX",-
+"1",+
+"/@",-
+"|=mf1\d,h",-
+"ye>y<d",-
+"')oz%",-
+"7BxH",-
+"#r$hb~4@",-
+"",-
+
+// ground truth 
+or(or(<any>,<cap>),<low>)

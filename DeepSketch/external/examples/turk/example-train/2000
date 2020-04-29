@@ -1,0 +1,25 @@
+// example 
+"C!g!l!Y!",+
+"9^4",-
+"_`",-
+"C!g!l!u!",+
+"",-
+"w!S!m!",+
+"z!*a",-
+"q!V!T!W!v!",+
+"AA",-
+"|c'",-
+"I!X!",+
+"}rQOb",-
+"_r*?:",-
+"K!",+
+"w!S!H!",+
+"o!",+
+"q!V!T!W!F!",+
+"H",-
+"{",-
+"z]zy",-
+"I!o!",+
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),1)

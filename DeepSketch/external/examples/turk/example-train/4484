@@ -1,0 +1,25 @@
+// example 
+"s",-
+"CrPFaUSB",+
+"apwOuLgsry",+
+"egqZAJWO2",+
+"CrPFaUSy",+
+"",-
+"arJ{"",-
+"egqZAJWOA",+
+"<b,",-
+"Wj",-
+"apwOuLgsr_",+
+"VFeGF|",+
+"Bjryxy*",+
+"L\vT",-
+"\!",-
+"arJ_{",-
+"Bjryxyy",+
+"?",-
+"K]}",-
+"LL_Q",-
+"VFeGF5",+
+
+// ground truth 
+concat(repeatatleast(<let>,5),<any>)

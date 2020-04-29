@@ -1,0 +1,15 @@
+// example 
+"Q8(Q)",-
+"QY\&Z",-
+"tz",-
+"t#",-
+"+lbv",-
+"nC",+
+"+E*g",-
+"duT",-
+"",-
+"&",-
+"d$j",-
+
+// ground truth 
+concat(or(<num>,<any>),<cap>)

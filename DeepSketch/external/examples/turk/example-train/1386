@@ -1,0 +1,19 @@
+// example 
+"+*KkB-4J",+
+"2V0lW"n<#ZH-5",+
+"v<",-
+"l(*M0#A",+
+"il7H8f|q)HvH;4",+
+"[ehiMi<B@)",+
+"a:\KU",+
+"",-
+"}J}0",-
+"=",-
+":k$YK2\FF",+
+"+,`Uku5|l]vB",+
+"I$s",-
+"]`K}&!",+
+"G&/sv"HYU">",+
+
+// ground truth 
+repeatatleast(contain(or(or(<any>,<num>),<m0>)),5)

@@ -1,0 +1,17 @@
+// example 
+"Ks",-
+"ZO%",-
+"QO1",+
+"ZOK",-
+"KD",-
+"",-
+"N",-
+"I|5q",-
+"Qt5",+
+";bfs^",-
+"Q_a2L",-
+">",-
+"Id&a",-
+
+// ground truth 
+concat(concat(<cap>,<let>),<num>)

@@ -1,0 +1,16 @@
+// example 
+"0V,",+
+"H*",-
+"%>",-
+"N|Ib",-
+"![8$H",-
+"aOp",-
+"7v3",-
+"5n74r",-
+"_",-
+"",-
+")",-
+"3/~P",-
+
+// ground truth 
+concat(concat(<num>,<cap>),<any>)

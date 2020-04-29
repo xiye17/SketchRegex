@@ -1,0 +1,25 @@
+// example 
+"PZ",+
+"\",-
+",I|",-
+"EA?v",+
+"l-b",+
+"}`0Rn",+
+"EA?E",+
+"B~",-
+"B%",-
+"l",+
+"l-G",+
+"I{N`:",-
+"!",-
+",I7",-
+"",-
+"}`0RL",+
+"Px",+
+"R",+
+"I{N`\",-
+"P^\~",-
+"P^\?",-
+
+// ground truth 
+endwith(or(repeatatleast(<vow>,1),<let>))

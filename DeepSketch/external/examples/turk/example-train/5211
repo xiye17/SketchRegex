@@ -1,0 +1,25 @@
+// example 
+"gRKr",+
+"lOQKGnr",+
+"lOQKGnF",+
+"eXVixw",+
+"pkrBalPs",+
+"n",-
+"8~L",-
+"eXVixK",+
+"gr@3",-
+"",-
+"+s",-
+"}",-
+"pkrBalPU",+
+"Xa",-
+"g\Xe",-
+"Qn-#6",-
+"gRKS",+
+"DRfUt",+
+"DRfUC",+
+"`Ij",-
+"Q`Taq",-
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),4)

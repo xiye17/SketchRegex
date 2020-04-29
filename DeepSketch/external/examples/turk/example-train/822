@@ -1,0 +1,25 @@
+// example 
+"dP\0",-
+"F4ew",+
+"]",-
+"g}%*w",+
+";j",+
+"g}%*J",+
+"^m}''",-
+"+",-
+";M",+
+"b{",-
+"ek[",-
+"^m}']",-
+"",-
+"K[d",+
+"b3",-
+"K[Q",+
+"dP\~",-
+"F4eF",+
+"J",+
+"ek-",-
+"x",+
+
+// ground truth 
+concat(startwith(star(<low>)),<let>)

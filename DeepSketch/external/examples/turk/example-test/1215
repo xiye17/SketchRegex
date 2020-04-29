@@ -1,0 +1,15 @@
+// example 
+"dwL",+
+"2!",+
+"x,1!b",+
+"Y/AP",+
+"mqCeCPmt!",+
+"~xH$n#{",+
+"bj>{$W>L",+
+"44b1n7",+
+"af_q&GaG;R",+
+"X",+
+"",-
+
+// ground truth 
+contain(or(or(<cap>,<m0>),<any>))

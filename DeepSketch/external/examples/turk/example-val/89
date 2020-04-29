@@ -1,0 +1,18 @@
+// example 
+"v/>'_EUN:",+
+"1(",-
+"ls'",-
+"Y",-
+"xT4.kq-EO~T",+
+"_+x)JBBp{<",+
+"QyEOeJ<:wi,-",+
+"",-
+""t@^",+
+"V-i+^",+
+")07fst",+
+"/oOw4m|",+
+"z[jv}V(C<j97c",+
+"l*7,f&kg",+
+
+// ground truth 
+repeatatleast(or(contain(<any>),<m0>),4)

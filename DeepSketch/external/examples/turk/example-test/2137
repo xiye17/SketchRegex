@@ -1,0 +1,17 @@
+// example 
+"aA",+
+""0",-
+"ILZiJ",-
+"d",-
+"I2Hdk",-
+"IC",+
+"e",-
+"",-
+"eI}Z",-
+"C(",-
+"C*A",-
+"e?3N",-
+"E\s",-
+
+// ground truth 
+concat(or(or(<m1>,<m0>),<vow>),<cap>)

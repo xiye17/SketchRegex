@@ -1,0 +1,25 @@
+// example 
+"{ax7T",+
+"o",+
+"g.q",-
+"dMa(",+
+"dmoT",+
+"g.g",-
+"",-
+"em",+
+"_d",-
+"{i}j~",+
+"_{",-
+"h",-
+"i",+
+"^e5",+
+"x^3>",-
+"x^3w",-
+"hc]p]",-
+"hc]p{",-
+"^Pb",+
+"z",-
+"qQ",+
+
+// ground truth 
+contain(or(<cap>,<vow>))

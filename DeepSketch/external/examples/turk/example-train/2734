@@ -1,0 +1,25 @@
+// example 
+"e|",+
+"8F&",+
+"tF~mu",+
+"ipZF",-
+"*\~&",+
+"V",-
+"edu",-
+"Yd",-
+"^",+
+"edA",-
+"akZxZ",-
+"",+
+"YX",-
+"_H:",+
+"t^d5"",+
+"j",-
+"ipZo",-
+"~$",+
+"|",+
+"}k9g",+
+"akZxv",-
+
+// ground truth 
+not(repeatatleast(<let>,1))

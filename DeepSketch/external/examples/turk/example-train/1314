@@ -1,0 +1,17 @@
+// example 
+"Avwd&",-
+"c[",-
+"oF",+
+"W",-
+"bz|]T",-
+"",-
+"a",-
+"\Tt",-
+"y+m",-
+"W8-`",-
+"o!",+
+"!RNQ",-
+"em",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<cap>),<num>))

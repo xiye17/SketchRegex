@@ -1,0 +1,25 @@
+// example 
+"E",+
+"D\",-
+"}JE_<",+
+"D}B.",-
+"W",-
+"{j",+
+"[,F}C",-
+"",-
+"{A",+
+"[,F}Q",-
+"{)]",-
+"f",+
+"}ASHT",+
+"{)G",-
+"D}BB",-
+"NME",+
+"GG7A",+
+"NMO",+
+"GG7I",+
+"B",-
+"DM",-
+
+// ground truth 
+contain(or(or(<m0>,<low>),<vow>))

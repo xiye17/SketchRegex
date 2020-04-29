@@ -1,0 +1,17 @@
+// example 
+".",-
+"]L)",-
+"ZiBJ",-
+"%);a\",-
+""{)",-
+"<|",-
+"LU",+
+"oV)bD",-
+"",-
+"y",-
+"Rg",-
+"ZuN@",-
+"Lu",+
+
+// ground truth 
+concat(<cap>,or(<vow>,<num>))

@@ -1,0 +1,25 @@
+// example 
+"k4y5j2W6K3J0",+
+"FV6",-
+"h+yj",-
+"k4y5j2W6K3j3",+
+"g2b9P9l4K7u2Y1R0",+
+"L6s9A5L4u0y0Y0F8S9",+
+"L6s9A5L4u0y0Y0F8u8",+
+"",-
+"A8X#Y",-
+"X4",-
+"g2b9P9l4K7u2Y1z9",+
+"h68L",-
+"A8XBG",-
+"E6K4t0b3V7",+
+"Xy",-
+"E6K4t0b3g5",+
+"F9}",-
+"T6U8y8W0h5o9S5",+
+"z",-
+"{",-
+"T6U8y8W0h5o9s7",+
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),5)

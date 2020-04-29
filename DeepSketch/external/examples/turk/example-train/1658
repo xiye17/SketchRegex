@@ -1,0 +1,15 @@
+// example 
+"",+
+"6{Pm+'",-
+"1",-
+",':z5`C_",-
+"=^d",-
+"e>^|C#;d%",-
+"2)[Q",-
+"<vznW",-
+"EIMpK*`skC",-
+"12",-
+"Xa^c3vu",-
+
+// ground truth 
+not(contain(or(<num>,<any>)))

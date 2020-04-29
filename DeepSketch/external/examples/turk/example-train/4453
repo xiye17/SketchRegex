@@ -1,0 +1,26 @@
+// example 
+"1",-
+"P{g!",+
+"{~^~}",-
+"Es!",+
+"|a!n!",+
+"~\}",-
+"~F",-
+"~\i",-
+"",-
+"p{SZ",-
+"~~",-
+"j",-
+"p{Sl",-
+"|are!",+
+"E~l!i!",+
+"P^c!",+
+"g!",+
+"|k~F8s!",+
+"E~ljh!",+
+"|k~Fzk!",+
+"jy!",+
+"{~^~h",-
+
+// ground truth 
+endwith(repeatatleast(concat(<low>,<m0>),1))

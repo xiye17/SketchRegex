@@ -1,0 +1,15 @@
+// example 
+"a$7k",-
+"pNw,_",-
+"=",-
+"k^/",-
+"p6gus",-
+"4`",-
+"a0qg",-
+"H9",+
+"4'",-
+"",-
+"k2h",-
+
+// ground truth 
+concat(or(<vow>,<any>),<num>)

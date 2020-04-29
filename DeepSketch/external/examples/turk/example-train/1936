@@ -1,0 +1,17 @@
+// example 
+"w`__A",-
+"]",-
+"xU",+
+"u",-
+"vABB",-
+"wP,K(",-
+"xO",+
+"",-
+"vO#$",-
+";#I",-
+"np",-
+"nF",-
+"oQl",-
+
+// ground truth 
+concat(<low>,<vow>)

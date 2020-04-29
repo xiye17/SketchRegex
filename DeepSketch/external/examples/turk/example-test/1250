@@ -1,0 +1,24 @@
+// example 
+"\E",+
+"(fgDT",-
+"n",-
+"xba",+
+"JDWCgO",+
+"q6c",-
+"(fgDg",-
+"\u",+
+"JDWCgE",+
+"9CGna",+
+",Y",-
+"",-
+"9:Df",-
+",F",-
+"aEOW",+
+"aod?",+
+"q6Q",-
+"xbU",+
+"9CGnE",+
+"9:DH",-
+
+// ground truth 
+concat(startwith(<any>),contain(<vow>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"GKF)f",+
+"m",+
+"]W|/Nu",+
+"pK1tt\gx",+
+"./O",+
+"6sP.<MU2&",+
+"7;",+
+";O]1",+
+"Hk#&UUn",+
+
+// ground truth 
+contain(not(or(or(<m0>,<vow>),<cap>)))

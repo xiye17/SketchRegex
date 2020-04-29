@@ -1,0 +1,25 @@
+// example 
+"G",+
+"{!r4",+
+"edsQmKua",-
+"HGRW",+
+"onlNmCtvaV",-
+"kv",-
+"ptilqE",-
+"",-
+"w|",+
+"x{Hhk",+
+"ptilqa",-
+"edsQmKuQ",-
+"5U@",+
+"kM",-
+"x_]pC",+
+"d8R",+
+"uqpW",-
+"u",+
+"%)",+
+"uqpk",-
+"onlNmCtvae",-
+
+// ground truth 
+not(star(concat(<low>,<let>)))

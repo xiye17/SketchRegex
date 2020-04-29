@@ -1,0 +1,14 @@
+// example 
+"",+
+"b<",+
+"E:q",+
+"MU=@&^",+
+"$EIJIIO",+
+"=jco{",+
+"*>=#,nUl",+
+"Gf0ZpyXpU",+
+"#[\L",+
+"~",+
+
+// ground truth 
+not(and(<low>,<m0>))

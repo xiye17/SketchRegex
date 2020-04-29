@@ -1,0 +1,15 @@
+// example 
+"!S",+
+"2th{J",-
+"u",-
+"!)R]",-
+"?%Y",-
+"!/e",-
+"!",-
+"xq",-
+"",-
+"!~/n#",-
+"4G^q",-
+
+// ground truth 
+concat(<m0>,or(<let>,<any>))

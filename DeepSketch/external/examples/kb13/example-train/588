@@ -1,0 +1,25 @@
+// example 
+"7H-1>gnT",-
+":At!",+
+"1;",-
+"ry.wldO",-
+"L!",+
+"*",-
+"!",+
+"3L!-dE",+
+"Z%_",-
+"!OOX",+
+"",-
+"AX(vlI",-
+"{A1,/1ppA",-
+"lPC&",-
+"4')Qm",-
+"3!yQW(",+
+"x4!",+
+"x!g",+
+"!e",+
+":9%!Z",+
+"!dn#N",+
+
+// ground truth 
+contain(concat(star(<let>),concat(<m0>,star(<let>))))

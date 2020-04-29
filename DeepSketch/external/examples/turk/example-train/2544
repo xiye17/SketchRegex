@@ -1,0 +1,25 @@
+// example 
+"LdWrCO",+
+"XPcIfdYA",+
+"VMYFMKpJhp",+
+">dJB",-
+"Y",-
+"pcTQSPYqf",+
+",VO",-
+"_:(",-
+"ZczUvAk",+
+"",-
+"LdWrCr",+
+"}",-
+"K}",-
+"K'",-
+"HK[qM",-
+"XPcIfdYv",+
+"pcTQSPYqS",+
+"[TGF",-
+"VMYFMKpJhZ",+
+"HKI7S",-
+"ZczUvAQ",+
+
+// ground truth 
+repeatatleast(or(<let>,<low>),6)

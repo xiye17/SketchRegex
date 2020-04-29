@@ -1,0 +1,25 @@
+// example 
+"PA",+
+"33'!",-
+"^kLTo",+
+"VIUa",+
+"Vd,",-
+"",-
+"'B",-
+"7)Ai0",-
+"Vdc",-
+"^kLTU",+
+"7)AiY",-
+"iWe",+
+"#`#pHa",+
+"iWA",+
+"VIUI",+
+"33'b",-
+"#`#pHu",+
+"Pu",+
+"x",-
+"C",-
+"'"",-
+
+// ground truth 
+concat(endwith(<cap>),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"^olL",-
+"z_w|]iw",-
+"^olu",-
+"z_w|]iF",-
+"`~|",+
+"\{",+
+"d\A#|w",-
+"}]p6;",+
+"[~FGH",-
+"{lW[",+
+"",+
+"sIQ",-
+"{lW)",+
+"[~FGs",-
+"d\A#|J",-
+"w",+
+"`~]",+
+"sIc",-
+"}]p6X",+
+"\]",+
+"A",+
+
+// ground truth 
+not(repeatatleast(endwith(<let>),3))

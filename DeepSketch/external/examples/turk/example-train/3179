@@ -1,0 +1,26 @@
+// example 
+"ZjQXv!Jb",+
+"MbZXT",+
+"DSt",-
+"ZjQXv!"V",+
+"W",-
+"LBZR",+
+"k",-
+"MSuQM",+
+"TpJY(E",+
+"",-
+"iB;Qc",-
+"XxE3XhVJ^",+
+"N6",-
+"4\",-
+"S)<E!RM",+
+"XxE3Xhf[L",+
+"DSO",-
+"S)<EbUX",+
+"TphTJK",+
+"3zGx",-
+"lYab",-
+"?1&4S",-
+
+// ground truth 
+repeatatleast(startwith(<cap>),4)

@@ -1,0 +1,15 @@
+// example 
+"_P)",+
+"u<H9",+
+"-'",+
+"wc?5B(b",+
+"^9?obB:i]",+
+"RF$63n]OBg",+
+"<sVa3",+
+"O5jnSlag",+
+"9F}n+T",+
+"",-
+"^",+
+
+// ground truth 
+or(contain(<any>),concat(<m0>,<num>))

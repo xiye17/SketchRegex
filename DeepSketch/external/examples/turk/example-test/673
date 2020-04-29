@@ -1,0 +1,24 @@
+// example 
+"5o|8",-
+"!E",-
+"|F7~O*",-
+"!h*a",+
+"!",+
+"!@c/GIe",+
+"!3GTa",+
+"",-
+"!Ie}bj:x|",+
+"p|",-
+"c]Fv^7@5",-
+"!pRj6EnuCN",+
+"!pM",+
+"9",-
+"8aA",-
+"!l2[@2",+
+"gSI]4`C",-
+"!"AX`qP=Q1*",+
+"QdqN4",-
+"!L3@n0Tp",+
+
+// ground truth 
+concat(<m0>,not(<any>))

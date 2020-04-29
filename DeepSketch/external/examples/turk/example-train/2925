@@ -1,0 +1,16 @@
+// example 
+"",+
+"g/C",+
+"LIZN",+
+"?#",+
+"}_)v",+
+"{>",+
+"y",+
+"Wcr",+
+"|V]%;",+
+"ld",-
+"{",+
+"mtwk5",+
+
+// ground truth 
+not(concat(<low>,or(or(<m0>,<cap>),<any>)))

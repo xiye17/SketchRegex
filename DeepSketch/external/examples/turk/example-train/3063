@@ -1,0 +1,25 @@
+// example 
+"fni",+
+"ucoehA",+
+"o",-
+"c/z",-
+"c{8",-
+"tvFV+",-
+"",-
+"'",-
+"bnoxove",+
+"a}",-
+"fnE",+
+"nppE",+
+"bnoxova",+
+"e|ZG",-
+"tvBV9",-
+"|G&G",-
+"aw",-
+"nppO",+
+"syebe",+
+"ucoehI",+
+"syeba",+
+
+// ground truth 
+concat(repeatatleast(<low>,2),<vow>)

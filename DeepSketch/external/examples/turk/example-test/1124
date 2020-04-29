@@ -1,0 +1,25 @@
+// example 
+"Lqt}",-
+"Fo",+
+"t",-
+"Tfd",-
+"bca$a",+
+"ubG",+
+"rL",-
+"TfR",-
+"A#;",+
+"rZ",-
+"a5<m",+
+"",-
+"Fa",+
+"e",+
+"~fuZ",+
+"T",-
+"i",+
+"E77Zn",+
+"HRcb(",-
+"HRcbG",-
+"LqtJ",-
+
+// ground truth 
+contain(endwith(<vow>))

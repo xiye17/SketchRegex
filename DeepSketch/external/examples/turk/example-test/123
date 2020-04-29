@@ -1,0 +1,15 @@
+// example 
+"ImN",+
+"g8i;Xwx",+
+"Y\4<S?+$wZ",+
+"2xO"",+
+"B\!,"",+
+"4/dn4O",+
+"`YA]<0de",+
+"lGZ>,~HMz",+
+"",-
+"$",+
+"4'",+
+
+// ground truth 
+contain(or(or(<low>,<vow>),<any>))

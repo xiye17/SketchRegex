@@ -1,0 +1,24 @@
+// example 
+"dA",-
+"a!e!v!u!",+
+"Cd",-
+"s!:=",-
+"O~&i_",-
+"*",-
+"e!s!a!b!j!w!z!",+
+"f!G",-
+"a!v!d!t!f!h!x!d!",+
+"~JzYU",-
+"",+
+"x!y!",+
+"t!z!l!t!w!q!p!e!g!",+
+"{[n+",-
+"a!i!l!p!r!",+
+"g!h!z!i!j!z!",+
+"g!",+
+"{",-
+"{}{",-
+"u!u!g!",+
+
+// ground truth 
+star(concat(<low>,<m0>))

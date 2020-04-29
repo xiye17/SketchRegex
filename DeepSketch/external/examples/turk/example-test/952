@@ -1,0 +1,26 @@
+// example 
+"!]B&L1Q",+
+"]",-
+"!yb",-
+"!{=RFI",+
+"!)?$%",-
+"!",-
+"7H?Y",-
+"!]B&L\U",+
+"!y.",-
+"!E",+
+"",-
+"!X7.F",+
+"!AA",+
+"!{=R&A",+
+"!"H",+
+",q",-
+"!<J@",-
+"!_kK",+
+"!X7XZ",+
+"!d",-
+"UE,6g",-
+"!_XC",+
+
+// ground truth 
+concat(startwith(<m0>),repeatatleast(<cap>,1))

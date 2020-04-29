@@ -1,0 +1,24 @@
+// example 
+"bC-",+
+"u",-
+"rvnsczw",-
+"|j1cL",+
+"mrj",-
+"",-
+"U|U",+
+"xalprvpne",-
+"l"_7",+
+"{m",+
+";E",+
+"ls}W",+
+"ci",-
+"6",+
+"tlqe",-
+"jrmskemx",-
+"2t;[)",+
+"zrunpi",-
+"cxbgn",-
+"|",+
+
+// ground truth 
+contain(not(star(<low>)))

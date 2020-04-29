@@ -1,0 +1,24 @@
+// example 
+"-I8o<o!i.u",+
+"-I8o<o!i.I",+
+"Io",+
+"KO!Uo",-
+"5aJu",+
+"4i9eRE",+
+"FULM",-
+"Iu",+
+"",-
+"4i9eRU",+
+"8x",-
+"FULg",-
+"`nu",-
+"5aJI",+
+"8R",-
+"K44>Q",-
+"BO\a#A3o",+
+"BO\a#A3i",+
+"C",-
+"`_y",-
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),1)

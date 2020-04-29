@@ -1,0 +1,25 @@
+// example 
+"EkAvTTh",+
+"IL{}",-
+"gfYktjuDz",+
+"~;NwC",-
+"XrnTTven",+
+"gfYktjukx",+
+"XrnTTvTk",+
+"qJdibt",+
+"[o:",-
+"YRGbb",+
+"^",-
+"YRGCv",+
+"EkAvTge",+
+"",-
+"I':",-
+"I|ih",-
+"qJdiBa",+
+">'*79",-
+"hK",-
+"E",-
+"_;",-
+
+// ground truth 
+concat(repeatatleast(<let>,4),<low>)

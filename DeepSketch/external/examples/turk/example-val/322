@@ -1,0 +1,25 @@
+// example 
+"E",+
+"Vz8b",-
+"t",-
+""+P",-
+"dX`TF",-
+""+f",-
+"sr",-
+"",+
+"g",-
+"dX`Tj",-
+"ueOV",+
+"go",+
+"EOw",+
+"A.U",+
+"Vz82",-
+"g!",+
+"JuY/D",+
+"s"",-
+"JJxO#",+
+"oTkn",+
+"@",+
+
+// ground truth 
+star(contain(or(or(<vow>,<m0>),<m1>)))

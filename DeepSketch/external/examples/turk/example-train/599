@@ -1,0 +1,25 @@
+// example 
+"VGTIssu",+
+"[",-
+"y{l`u\JkOT",+
+"J*_D_}gUssU",+
+"DiSlA[sk",+
+"x]r^C",-
+"Yi[D",-
+"Gz",-
+"Yi[{",-
+"",-
+"GE",-
+"J*_D_}gUssd",+
+"y{l`u\JkOv",+
+"N",-
+"Mh-",-
+"O&j]RpFjp",+
+"Mh\",-
+"DiSlA[sS",+
+"VGTIssV",+
+"x]r^`",-
+"O&j]RpFjA",+
+
+// ground truth 
+repeatatleast(startwith(<let>),7)

@@ -1,0 +1,25 @@
+// example 
+"3?A",-
+"RJAVXMWA9",+
+"G",-
+"DLK0",+
+"Q*",-
+"Qd",-
+"EE1",+
+"\&l+;",-
+"NBHUCSS5",+
+"U0",+
+"MESDTZLENU4",+
+"W7C",-
+"ELVN9",+
+"",-
+"Q?~$",-
+"FTQPQ3",+
+"h",-
+"BSZKMY6",+
+"T.]'d",-
+"THCCHRUSO0",+
+"Q-h`",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<num>)

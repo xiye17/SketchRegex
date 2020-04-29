@@ -1,0 +1,15 @@
+// example 
+"J/",-
+"rj3+Z",-
+"76vl",-
+"l",-
+"KT}",-
+"FX",+
+"Ju",-
+"7a#U",-
+"Kn,",-
+"r8g^r",-
+"",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<any>),<cap>)

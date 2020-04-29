@@ -1,0 +1,25 @@
+// example 
+"!+:HmgHGO",+
+"KZ{,tiaFaO",+
+"Sl+;R",-
+"0R4knTt",-
+"f@@#[b_i",+
+"229(.Ume\so",+
+";nJjqa",-
+"!+:HmgHGI",+
+"t7jNM}a",+
+"229(.Ume\sE",+
+"",-
+"KZ{,tiaFaE",+
+"K~|YOmkN",-
+"0R4knT}",-
+"t7jNM}E",+
+"f@@#[b_I",+
+"K~|YOmkg",-
+"I",-
+">P",-
+"++4B",-
+"GFn",-
+
+// ground truth 
+concat(repeatatleast(<any>,6),<vow>)

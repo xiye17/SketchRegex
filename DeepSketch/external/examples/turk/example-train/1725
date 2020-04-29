@@ -1,0 +1,14 @@
+// example 
+"",+
+"XW3HwJ72",+
+"o5hG\",+
+"KQ'>!i'",+
+"?T",+
+"T5*Kq5h14",+
+"X+L-",+
+"KKY<tz",+
+"slV",+
+"$",+
+
+// ground truth 
+star(or(contain(<vow>),<any>))

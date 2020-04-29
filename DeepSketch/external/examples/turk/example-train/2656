@@ -1,0 +1,17 @@
+// example 
+"V#",-
+"PE",+
+"jU4k2",-
+"",-
+"7(",-
+"\.0,",-
+"'p-{)",-
+"i",-
+"P!",+
+"/iF",-
+"A",-
+"yq|",-
+"5XoF",-
+
+// ground truth 
+concat(<cap>,or(or(<m0>,<m1>),<vow>))

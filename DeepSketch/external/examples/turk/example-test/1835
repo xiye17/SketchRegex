@@ -1,0 +1,17 @@
+// example 
+"OkY",-
+"T^@W",-
+"Kk",+
+"d",-
+"(",-
+"",-
+"Y(",-
+"Xj7ps",-
+"KK",+
+"Y~",-
+"OQ8",-
+"Twg`",-
+"joBbf",-
+
+// ground truth 
+concat(<cap>,and(<any>,<let>))

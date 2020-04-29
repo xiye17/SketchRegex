@@ -1,0 +1,25 @@
+// example 
+"[",-
+"[8",-
+"i}z",-
+"mNo",+
+".?j|",-
+"r}IxD",+
+"",-
+"<Y\}kMu",+
+"r}Ixi",+
+"a\rkFx",+
+"}",-
+">PzM",+
+"a\rknq",+
+"[Z",-
+"i}[",-
+"_\f~[",-
+">Pza",+
+"<Y\}kMH",+
+".?jw",-
+"mND",+
+"_\f~5",-
+
+// ground truth 
+contain(repeat(<let>,3))

@@ -1,0 +1,24 @@
+// example 
+"~R0"",+
+"6\Ck/",+
+"ng",+
+"4D8U",-
+"68?i`",+
+"3S8Q3A8T7D2M",-
+"0H6Y9W6H2K2D9I2U",-
+")pmr",+
+"9Z8G6I0B5N",-
+".4E",+
+"6A",-
+"7A0R0L2V",-
+"",-
+"#",+
+"^-g",+
+"12",+
+"h",+
+"4Y6M1C9T2Y3E3H",-
+"1A9B8J",-
+"7C9Q3L9Z9Z1T9J0V0L",-
+
+// ground truth 
+not(star(concat(<num>,<cap>)))

@@ -1,0 +1,26 @@
+// example 
+"Up",-
+"h(A=",+
+"l+J)?",+
+"eG",+
+"lT'T"",+
+"Is+sf",-
+"v)E5R5",+
+"",-
+"U2$",-
+";",-
+"|2L<",-
+"h(_X",+
+"I]`}",-
+"dfZ",+
+"v)wp7Q",+
+"dIV",+
+"ol",-
+"|)g",-
+"n/n8moA",+
+"lz7x4",-
+"{",-
+"n/n8RNx",+
+
+// ground truth 
+concat(<low>,contain(<cap>))

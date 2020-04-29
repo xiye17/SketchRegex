@@ -1,0 +1,24 @@
+// example 
+"!u3$",-
+"!#S",+
+"!u3y",-
+"!DE=E",+
+"!",+
+"",-
+"!V]ENF",+
+"NW",-
+"!T",+
+"!wS",+
+"!>QG",+
+"U",-
+"!-,",-
+"tQ6",-
+"!>hP",+
+"!YH_j",-
+"!&",-
+"!V]E0W",+
+"!YH_"",-
+"!DEBL",+
+
+// ground truth 
+concat(<m0>,star(endwith(<cap>)))

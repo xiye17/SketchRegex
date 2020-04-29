@@ -1,0 +1,25 @@
+// example 
+"TZLKTZL",+
+"XBFJTNRQQ",+
+"G",+
+"EKLCB",+
+"@fv",-
+"Jel=",-
+"EG",+
+"(",-
+"",-
+"KEL",+
+"JCQ^",-
+"<",-
+"=a<",-
+"U`f!J",-
+"JEIOSLKM",+
+"@M",-
+"x6",-
+"HJHLQH",+
+"YZKW",+
+"U*^|c",-
+"@",+
+
+// ground truth 
+or(repeatatleast(<cap>,1),or(or(<num>,<m0>),<m1>))

@@ -1,0 +1,25 @@
+// example 
+"h5",-
+"XUYB",+
+"h[",-
+"}XRIT",+
+"BALVHQSO",+
+"%",+
+"",-
+"LXeG",-
+"=EJbnt",-
+"mS",+
+"I0c8'",-
+"cDXVOAF",+
+"tY\",-
+"nIPLDZ",+
+"^PJLILEPC",+
+"*JBLADGIUE",+
+"=EJ>@?",-
+"Ip&mc",-
+":NV",+
+"tY,",-
+"LXE#",-
+
+// ground truth 
+concat(<any>,star(<cap>))

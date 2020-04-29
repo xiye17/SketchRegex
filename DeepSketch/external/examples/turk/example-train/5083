@@ -1,0 +1,17 @@
+// example 
+"D@",+
+"n",-
+"!",-
+"Zv",-
+"}/sO",-
+"x@2",-
+"",-
+"{p",-
+"E@X`7",-
+"!@",+
+"E#{ho",-
+"`n4c",-
+"~BG",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<let>),<m1>)

@@ -1,0 +1,15 @@
+// example 
+"",+
+"g/",+
+"!|7vn",+
+"ooYm",+
+"O",+
+"n}b",+
+"kO2HW",+
+"!",-
+"!K",+
+"!3*",+
+"!NX#",+
+
+// ground truth 
+not(or(<m0>,and(<m1>,<m2>)))

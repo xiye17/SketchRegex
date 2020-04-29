@@ -1,0 +1,25 @@
+// example 
+"Jio@I",-
+"Ar",+
+"u",-
+"o",-
+"Oaf",+
+"AV",+
+"Oa6",+
+"OKe",-
+"^",+
+"",+
+"OKa",-
+"iQHH",+
+"d",+
+"iQHJ",+
+"Jio@U",-
+"RHZFz",+
+"gtXA",-
+"uI",-
+"gtXo",-
+"uO",-
+"RHZFQ",+
+
+// ground truth 
+not(endwith(repeatatleast(<vow>,1)))

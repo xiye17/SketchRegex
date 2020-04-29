@@ -1,0 +1,25 @@
+// example 
+"6*M",-
+"Ry",+
+"DfK",+
+"JEah",+
+"RW",+
+"\xgU",-
+"JCviJJ",+
+"JCviJv",+
+"JEaA",+
+"_",-
+"aRnfh",+
+"",-
+"25uhb",-
+"|?4p?",-
+"9",-
+"aRnfW",+
+"|8",-
+"D4q~",-
+"Dfo",+
+"{lo",-
+"L}",-
+
+// ground truth 
+repeatatleast(or(<low>,<let>),2)

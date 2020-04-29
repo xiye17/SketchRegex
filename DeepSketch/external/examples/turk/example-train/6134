@@ -1,0 +1,25 @@
+// example 
+"dZSo",-
+"H!Ku5)k",+
+"|Zs",-
+"h!4Z",+
+"s!>e^",+
+"W!sL%",+
+")%,m",-
+"`=",-
+".~i5F",-
+"",-
+"F!G",+
+"n!DV"sZ",+
+"8",-
+"THZ",-
+"R!|9",+
+"W!q9mZ",+
+"o!y",+
+"f!,Rm\",+
+"w",-
+"`9ZJy",-
+"$C",-
+
+// ground truth 
+concat(concat(<let>,<m0>),repeatatleast(<any>,1))

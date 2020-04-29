@@ -1,0 +1,16 @@
+// example 
+"r",-
+"H~n+",-
+"Ab<",-
+"4",-
+"H4]g",-
+"&wcm,",-
+"A|s",-
+"q=QW~",-
+"M~",-
+"o{",-
+"",-
+"Nq",+
+
+// ground truth 
+concat(<cap>,<low>)

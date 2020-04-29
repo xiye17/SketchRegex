@@ -1,0 +1,19 @@
+// example 
+"7M7B9C2Z5D1K1I9X0C1D",+
+"PAK",-
+"{~!Y",-
+"5xm`",-
+"5N6D6I6A0A4L7R",+
+"9M7O0G6V0F7W4X2Y1T",+
+"8N5X9C7N5U8Z8O6N",+
+"3l",-
+"SR-Ly",-
+"",-
+"&",-
+"iM",-
+"7Xx",-
+"7",-
+"*:v{X",-
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),7)

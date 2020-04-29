@@ -1,0 +1,25 @@
+// example 
+"iETFTXTebOa",+
+"n",-
+"`K",-
+"G_q",-
+"COQunLo",+
+"G~t",-
+"JJlZoVohzE",+
+"V[+=",-
+"COQunLi",+
+"iETFTXTebOU",+
+"",-
+"_0@>",-
+"}0",-
+"JJlZoVohzI",+
+"zW].s",-
+"bjkYGyCku",+
+"z\V\L",-
+"@",-
+"PuykdmEa",+
+"bjkYGyCkO",+
+"PuykdmEe",+
+
+// ground truth 
+concat(repeatatleast(<let>,6),<vow>)

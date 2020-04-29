@@ -1,0 +1,25 @@
+// example 
+"}9/A=",-
+"7ek",+
+",N>H",-
+"1ccqj",+
+"1mkeocvgwj",+
+"8{",-
+"#ZJxP",-
+"",-
+"&^|",-
+"P",-
+"$",-
+"8",+
+"0z",+
+"0vzeuid",+
+"7}^",-
+"8xth",+
+"4zvfdm",+
+"8kjwphsi",+
+"3ingutjho",+
+"h;/`",-
+"8^",-
+
+// ground truth 
+concat(<num>,star(<low>))

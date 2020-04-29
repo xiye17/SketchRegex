@@ -1,0 +1,25 @@
+// example 
+"0",-
+"3H7A0I6K1N6V5A8J4U",+
+"50",-
+"4O0M",+
+"W4\OB",-
+"|#`",-
+"5D6N1L3F9T0R",+
+"9D#",-
+"",-
+"5f",-
+"8V4A2C",+
+"7=T)",-
+"6J9N3R6P1Q",+
+"9C7Z9I5R4A5H6S0P",+
+"$",-
+"4V|tp",-
+"1Y",+
+"3A4N5B3B",+
+"3H5Y0W8D9M6Z8F",+
+"8N3S9X9G5H7L7C7T8E2S",+
+"7k>L",-
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),1)

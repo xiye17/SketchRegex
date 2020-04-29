@@ -1,0 +1,25 @@
+// example 
+"LTYZSMVWYSALXPUA!",+
+"VGwYv",-
+"KWQXJYRVDW!",+
+"RWMGQCWTHOS!",+
+"EYMDPID!",+
+"GTNLYQZI!",+
+"QVNMPHDMCSBPYOW!",+
+"`Wl6g",-
+"Oj",-
+"JCNQGSHAL!",+
+"e",-
+"DSCEQJVIPUNVI!",+
+"",-
+"'!E`",-
+"TTTNMBCRYFRTZV!",+
+"j|w%",-
+"O0",-
+"XETWSGKPQXPR!",+
+"I",-
+"#,H",-
+"bCH",-
+
+// ground truth 
+concat(repeatatleast(<cap>,7),<m0>)

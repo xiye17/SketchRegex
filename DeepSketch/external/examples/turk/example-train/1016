@@ -1,0 +1,25 @@
+// example 
+"iAH",-
+"yy",-
+"t",-
+"auoO",+
+"AEiIa",+
+"F!",+
+"uiI",+
+"AUAo]",-
+"AUAob",-
+"",+
+"o,",-
+"AEiIe",+
+"iAf",-
+"i",+
+"auoI",+
+"Iae.",-
+"uii",+
+"Iar`",-
+"B",-
+"A",+
+"~!",+
+
+// ground truth 
+or(concat(<any>,<m0>),star(<vow>))

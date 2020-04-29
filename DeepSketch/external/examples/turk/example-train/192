@@ -1,0 +1,25 @@
+// example 
+"ea",+
+"SoI",+
+"o",+
+"JAai",+
+"SoE",+
+"ooAbd",-
+"I$T",-
+"obiCe",+
+"eO",+
+"obiCi",+
+"",-
+"\p>K",-
+"aR",-
+"e",+
+"I$M",-
+"JAau",+
+"ooAbC",-
+"y",-
+"J",-
+"an",-
+"\p>q",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),1)

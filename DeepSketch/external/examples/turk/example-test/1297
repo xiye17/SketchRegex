@@ -1,0 +1,25 @@
+// example 
+"^f5.",-
+"},q",-
+"qf_N[uXe\y",+
+"qf_N[uXe\!",+
+"!u",-
+"AHQ\4}.!xNq",+
+"!{",-
+"!!!!E!|zQ",+
+"!RiBL!!",+
+"!!!!E!|z!",+
+"#",-
+"",-
+"}",-
+"}<|t",-
+"i|z!!rBw",+
+"`4(VO",-
+"!RiBL!d",+
+"AHQ\4}.!xNS",+
+"i|z!!rBU",+
+"]Gv",-
+",~_+,",-
+
+// ground truth 
+repeatatleast(or(startwith(<let>),<m0>),7)

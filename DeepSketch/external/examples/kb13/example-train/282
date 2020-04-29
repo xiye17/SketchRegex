@@ -1,0 +1,25 @@
+// example 
+"mC|",+
+"FG",+
+"}oPs|}",+
+"!^",-
+"_J^L",+
+"mC`",+
+"l2}|",-
+"J~{<.",-
+"53}",-
+"D\$^K",+
+"!R",-
+"D\$^z",+
+"Fe",+
+"}oPs|M",+
+"^",-
+"",-
+"f",-
+"l2}_",-
+"_J^e",+
+"53V",-
+"J~{<~",-
+
+// ground truth 
+repeat(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),2)

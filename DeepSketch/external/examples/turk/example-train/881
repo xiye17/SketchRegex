@@ -1,0 +1,14 @@
+// example 
+"",+
+"vvup4",+
+"~YW",+
+"4w",+
+"pD?F5-L~",+
+":x\t",+
+"o",+
+"L&Lr,T8",+
+";30-dKM9Y",+
+"qzy9>o",+
+
+// ground truth 
+repeatatleast(contain(not(<m0>)),6)

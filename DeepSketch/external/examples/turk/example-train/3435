@@ -1,0 +1,17 @@
+// example 
+"iKeD",-
+"od~eD",-
+"a#E",-
+"a`",+
+"l",-
+"",-
+"c",-
+"bu",-
+"afUl",-
+"gtNn+",-
+"uR5",-
+"x6",-
+"ef",+
+
+// ground truth 
+concat(and(<vow>,<low>),<any>)

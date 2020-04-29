@@ -1,0 +1,15 @@
+// example 
+"8NT",+
+"?>i~$j4n/X",+
+"K'>#Gffz'",+
+"XY]fg,&7",+
+"31wE,",+
+"4",+
+".i",+
+"l~y/",+
+"BFTYod",+
+"AgibQeM",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<any>),<let>))

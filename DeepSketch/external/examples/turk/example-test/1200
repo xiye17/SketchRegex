@@ -1,0 +1,17 @@
+// example 
+"E!",+
+"E!1A",-
+"oQ!",-
+"L`$1<",-
+"",-
+"QgC",-
+"%",-
+"E5vz",-
+"NL",-
+"A!",+
+"UU",-
+"B3wk3",-
+"I",-
+
+// ground truth 
+concat(and(<vow>,<cap>),<m0>)

@@ -1,0 +1,23 @@
+// example 
+"0u",-
+"4S7Y3S2V2Y7J2D0T",+
+"3R1Q5C0P6N9X5N0P8Z6U",+
+"0N0U6B3S",+
+"+",-
+"3$;",-
+"4+7<",-
+"",-
+"8A4D1T",+
+"*N-sS",-
+"9N7I2K6J8R0I7Y",+
+"Z=si5",-
+"7",-
+"0"",-
+"2O9R4O5G1K",+
+"5I7U1L7T9Q9H",+
+"*4GO",-
+"8K4K5Q1D7E2U6Y1G6C",+
+"3E2",-
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),3)

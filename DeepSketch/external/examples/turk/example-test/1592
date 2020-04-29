@@ -1,0 +1,25 @@
+// example 
+"!dfy",-
+"n",-
+"!~gli",+
+"!",-
+"!dTDJ",-
+"!O",+
+"!U6",+
+"!EC",+
+"!HfFSA",+
+"",-
+"!VM",-
+"!a,Ta",+
+"!U",+
+"a>57",-
+"xf|",-
+"!HfFu!",+
+"(F",-
+"!,",-
+"!eN@",+
+"!Yfu",+
+"!dTDm",-
+
+// ground truth 
+concat(startwith(<m0>),contain(<vow>))

@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+endwith(and(<m0>,<m1>))

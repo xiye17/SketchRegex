@@ -1,0 +1,15 @@
+// example 
+"",+
+"t1h|",+
+"!7",+
+"?>.c&",+
+"!nh",+
+"!ght",+
+"!",-
+"W",+
+"!K[=.",+
+";8",+
+"OG+",+
+
+// ground truth 
+not(or(and(and(<num>,<low>),<any>),<m0>))

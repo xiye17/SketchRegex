@@ -1,0 +1,25 @@
+// example 
+"IWARPBHjBGMhQlJg",+
+"!4",-
+"O95a~",-
+"XFHwVyTE",+
+"tZ->"",-
+"WGAKKjOnPS",+
+"",-
+"b",-
+"QGQVXnQdEJIfRJ",+
+"a|",-
+"ZhIbHCCpIeSb",+
+"IWARPBHjBGMhQlJI",+
+"ET5",-
+"WGAKKjOnPi",+
+"QGQVXnQdEJIfRz",+
+"7",-
+"Nubj",-
+"XFHwVyTh",+
+"N|n,",-
+"ETJ",-
+"ZhIbHCCpIeSQ",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),4)

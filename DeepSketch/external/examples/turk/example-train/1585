@@ -1,0 +1,17 @@
+// example 
+"s",-
+"3",-
+"i8g",-
+"ip_*s",-
+"",-
+"w%",-
+"AT",+
+"y|rs",-
+"M*oL",-
+"Az",+
+"hxVMU",-
+"u^",-
+"Tp+",-
+
+// ground truth 
+concat(<vow>,or(<m0>,<let>))

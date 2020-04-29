@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"!oe",+
+"5P!Re",+
+";!fo",+
+"!{",-
+"!",-
+"5P!Ri",+
+"",-
+"!Bp",-
+"!iev",-
+"!oo",+
+";!fu",+
+"!i",+
+"T",-
+"!Bf",-
+"(!iuE",-
+"Ge6&!e",+
+"!ief",-
+"Ge6&!o",+
+"(!iup",-
+"!h",-
+
+// ground truth 
+concat(contain(<m0>),and(and(<vow>,<low>),<let>))

@@ -1,0 +1,24 @@
+// example 
+"zL24",+
+"Z",-
+"F4",-
+"Ft",-
+"KD|:&0/N",+
+"\!:",-
+"uS6nOWi",+
+"",-
+"Z{b%",-
+"NE'j~S#&I*",+
+"bP8L}(p0H?0",+
+"\aO",-
+"Z']q",-
+"t!RPQ",-
+"\F&",+
+"^P",+
+"tpgD1",-
+"aZe+\",+
+"bV#r<u",+
+"YRA6T%;0"",+
+
+// ground truth 
+startwith(concat(<any>,<cap>))

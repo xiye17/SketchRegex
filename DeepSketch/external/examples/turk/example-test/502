@@ -1,0 +1,17 @@
+// example 
+"7!oCZ",-
+"6!o",+
+"2&R-",-
+"5!b",-
+"$O0K&",-
+"",-
+"&",-
+"W&",-
+"5o>",-
+"'FHS",-
+".1",-
+"B",-
+"6!i",+
+
+// ground truth 
+concat(concat(<num>,<m0>),and(<low>,<vow>))

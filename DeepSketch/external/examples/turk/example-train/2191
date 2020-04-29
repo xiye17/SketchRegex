@@ -1,0 +1,17 @@
+// example 
+"8fKH",-
+"'O;s6",-
+"!",+
+"Mx",+
+"",-
+")",-
+"ZE",-
+"Z~",-
+"5~7",-
+"gG4O}",-
+"N!zm",-
+"B",-
+"t{+",-
+
+// ground truth 
+or(concat(<cap>,<low>),<m0>)

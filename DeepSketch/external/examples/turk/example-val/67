@@ -1,0 +1,25 @@
+// example 
+"hxdutuy[=j",+
+"wt",-
+"|b?",-
+"vnopgjgXo{y",+
+"3",-
+"aidbyjz",+
+"pvbqoxva_",+
+"zfdoktfV",+
+"kkkpphoP2`x(MW",+
+"3m+}x",-
+"w.",-
+"",-
+"frmfwaljq&Cey",+
+"}",-
+"}!>@",-
+"sveouiq|bjAwoAW",+
+"}*LEt",-
+"S7Yy",-
+"deorzsngKPSw",+
+"-O4",-
+"bvsipnyeTXu-O!ze",+
+
+// ground truth 
+startwith(repeatatleast(<low>,7))

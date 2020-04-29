@@ -1,0 +1,14 @@
+// example 
+"",+
+"-",+
+"\E",+
+"OT9",+
+",t"L",+
+">E`Pm",+
+"_^ZJY!",+
+"oJ~Pdllq",+
+"6*;&~6_pB",+
+"~sZv&;9",+
+
+// ground truth 
+star(contain(or(<any>,<low>)))

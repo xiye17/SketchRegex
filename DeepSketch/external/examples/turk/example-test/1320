@@ -1,0 +1,24 @@
+// example 
+"iY~t",+
+"2dBN8U(wNv",+
+"dJA",-
+"d~6",-
+"{RB_",-
+"Hb",+
+"",-
+"uU6psycr",+
+"ijLuyD",+
+"HW",+
+"uU6psycC",+
+"h",-
+"{}\D",-
+"2dBN8U(wNB",+
+"ijLuyu",+
+"S|",-
+"S[",-
+"2`_$#",-
+"iY~Z",+
+"2}0Ef",-
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),1)

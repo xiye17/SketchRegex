@@ -1,0 +1,26 @@
+// example 
+"S]x~.",-
+"*N",+
+"!J;$)M",+
+"vr6",-
+"vry",-
+"|p",-
+"D;w+",-
+"AI)H",+
+"AIoF",+
+"-",-
+"D;wk",-
+"QiEpD",+
+"",-
+"ZjD",+
+"mP",+
+"ZDP",+
+"O",+
+"v",-
+"QiEEG",+
+"!J;$IF",+
+"S]x~~",-
+"|&",-
+
+// ground truth 
+endwith(<cap>)

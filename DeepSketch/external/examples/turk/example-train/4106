@@ -1,0 +1,24 @@
+// example 
+"!-OPVN",+
+"=1Q4S",-
+"!ozjcQG",+
+"2",-
+"o`+T_8w",-
+"*%kV",-
+"!'-D$o$ch",+
+"!",+
+"!JT8Xxop",+
+"8rg-!U#*",-
+"",-
+"zs:;Y'(<9",-
+"Fl'PVc",-
+"!R=",+
+"!v1.W",+
+"!cjR",+
+"UI",-
+"!!",+
+"!aWS:x`gW_",+
+"[]C",-
+
+// ground truth 
+and(startwith(<m0>),not(<m1>))

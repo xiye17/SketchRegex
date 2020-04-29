@@ -1,0 +1,16 @@
+// example 
+"9",-
+"i,>z%",-
+""X1^",-
+"+B",-
+"-3p",-
+"5!Kf",-
+"7!",+
+"",-
+"/%!t*",-
+"E",-
+"0m",-
+"7'k",-
+
+// ground truth 
+and(concat(<num>,<any>),contain(<m0>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"P7k",+
+"M!Gu!9DNzp",+
+"h#cQx",+
+"|h",+
+""C#(|p^",+
+"NzgvHuhX7",+
+"Ez>DkJvE",+
+"EB*7",+
+""",-
+"y$7((S",+
+
+// ground truth 
+not(or(or(<cap>,<low>),<any>))

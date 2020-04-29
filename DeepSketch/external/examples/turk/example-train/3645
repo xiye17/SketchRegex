@@ -1,0 +1,14 @@
+// example 
+"",+
+"\1s1!V_",+
+"d7wJ7",+
+"#O",+
+"v+Z5=>",+
+"g-$vXe9w",+
+"'",+
+"c.BH",+
+"c'V-+yG`7",+
+"4&p",+
+
+// ground truth 
+contain(not(and(<num>,<m0>)))

@@ -1,0 +1,25 @@
+// example 
+"IA",+
+"UF",-
+"b.OU",+
+"GMFWS",-
+"EDO",+
+"U",+
+"",-
+"'",-
+"Q",-
+"ATED",-
+"II",+
+"b.OO",+
+"|CD",-
+"KjP|U",+
+"|CG",-
+"KjP|I",+
+"EDU",+
+"UT",-
+"GMFWH",-
+"ATE\",-
+"A",+
+
+// ground truth 
+endwith(or(<vow>,<low>))

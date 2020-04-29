@@ -1,0 +1,25 @@
+// example 
+"[",-
+"|]$a",-
+"aL",-
+"u~WaC",-
+"rPhrgrrPlJ",+
+"giaotSymsgtipKyV",+
+"}kN;^",-
+"bLlQetvSdkqWfh",+
+":e{a",-
+"",-
+"#ax",-
+"rPhrgrrPlx",+
+"bLlQetvSdkqWfC",+
+"x\K",-
+"i",-
+"}/",-
+"ofpqihekfIvvzNshkR",+
+"oyygnzaafTfu",+
+"giaotSymsgtipKyy",+
+"oyygnzaafTfE",+
+"ofpqihekfIvvzNshkh",+
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),5)

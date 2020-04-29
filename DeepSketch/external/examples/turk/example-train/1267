@@ -1,0 +1,25 @@
+// example 
+"q{",+
+"gq,",+
+"u",-
+"Q3M",-
+"0",+
+"i8S`",-
+"uhfu*",-
+"oF",-
+"Nk0Dt",-
+"b.",+
+"b(fi",+
+"fhuX",+
+"",+
+"t@{w?",+
+"g",+
+"N",-
+"a:=h",-
+"e?",-
+"_*^",+
+"drG7E",+
+"o}_",-
+
+// ground truth 
+not(startwith(or(<cap>,<vow>)))

@@ -1,0 +1,17 @@
+// example 
+"0Q%Zj",-
+"6O",+
+"2~7r",-
+"",-
+"'",-
+"2z%G",-
+"uM",-
+"6t",+
+"T",-
+"lxD",-
+".Qg",-
+"-R",-
+"0=b30",-
+
+// ground truth 
+concat(<num>,or(<low>,<let>))

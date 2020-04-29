@@ -1,0 +1,26 @@
+// example 
+"M!z;`",+
+".Co9_",-
+"Kya5!D",+
+"E}",-
+"n>iP",-
+"~Vc",-
+"n",-
+"r-",-
+"-96]",-
+"U!.",+
+"SQf",-
+"D!pN",+
+"U6!",+
+"q6n~:",-
+"DK!I",+
+"",-
+"Ky!m0_",+
+"SxFO!F_",+
+"N!",+
+"O",-
+"SxF!rIA",+
+"MdX!w",+
+
+// ground truth 
+concat(<cap>,endwith(contain(<m0>)))

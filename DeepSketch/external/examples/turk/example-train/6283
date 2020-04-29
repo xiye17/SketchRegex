@@ -1,0 +1,14 @@
+// example 
+"",+
+"S!n#>d",+
+"E",+
+"uu",+
+"[C3I",+
+"I1}S">7AO",+
+"QVqJpyK",+
+"w$_R}",+
+"Fk]",+
+"~WA6a?|9",+
+
+// ground truth 
+not(and(and(<any>,<m0>),<num>))

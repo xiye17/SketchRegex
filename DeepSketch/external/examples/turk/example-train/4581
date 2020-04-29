@@ -1,0 +1,16 @@
+// example 
+"8",-
+"/)k1{",-
+"!;",-
+"!x{",-
+"w]",-
+"n~F",-
+"Y&EL",-
+"[JLc",-
+"JS",+
+"",-
+"B",-
+"g8?!.",-
+
+// ground truth 
+concat(<cap>,or(<any>,<num>))

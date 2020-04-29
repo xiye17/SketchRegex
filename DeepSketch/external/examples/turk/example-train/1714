@@ -1,0 +1,25 @@
+// example 
+"uwl",+
+"O{2Po",+
+"Ud[`?",+
+"G",-
+"aRR6",+
+"e;cr",+
+"Oh",+
+"AW$",+
+"",-
+"g",-
+"bV@",-
+"e",+
+"`n",-
+"3%F",-
+"D)LDS",-
+"g7",-
+"et",+
+"u",+
+"h|b0",-
+"jD73n",-
+"D~oI",-
+
+// ground truth 
+or(repeatatleast(<m0>,5),startwith(<vow>))

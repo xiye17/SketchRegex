@@ -1,0 +1,25 @@
+// example 
+"F",-
+"h!y!z!v!",+
+"N!~",-
+"K!O!",+
+"O!Y!k!I!t!",+
+"Fb",-
+"=Ej",-
+"b!Vq",-
+"z!v!W!",+
+"O!U!Z",-
+"J!",+
+"",+
+"z!v!f!",+
+"O!Y!k!I!U!",+
+"h",-
+"h!y!z!A!",+
+"s!",+
+"O!U*I",-
+"K!n!",+
+"b!3r",-
+"~`",-
+
+// ground truth 
+star(concat(<let>,<m0>))

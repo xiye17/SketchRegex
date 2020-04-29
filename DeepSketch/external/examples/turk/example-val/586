@@ -1,0 +1,15 @@
+// example 
+"!?$",-
+"ks%x",-
+"{FL2n",-
+"ds",-
+"!!",+
+"!",-
+"k",-
+"!B/DQ",-
+"dOe",-
+"",-
+"!PZP",-
+
+// ground truth 
+concat(<m0>,or(or(<m1>,<vow>),<any>))

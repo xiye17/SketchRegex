@@ -1,0 +1,17 @@
+// example 
+"c|p]",-
+"EVY",-
+"E-J",-
+"",-
+"f",-
+"i3",-
+"IVovA",-
+"g`",-
+"O",-
+"IpwmX",-
+"UK",+
+"kBXk",-
+"uM",+
+
+// ground truth 
+concat(<vow>,and(and(<any>,<cap>),<let>))

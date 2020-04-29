@@ -1,0 +1,25 @@
+// example 
+"\",-
+"pdmw^",-
+"o",+
+">a",+
+"_po",+
+"a",+
+"o=agR",+
+"\^n",-
+"",-
+"_pu",+
+"fj",-
+"ff",-
+"\^~",-
+"qcqp",-
+"qcqj",-
+"hkoY",+
+"b!nkQ",+
+"z",-
+">N",+
+"hk!,",+
+"pdmwm",-
+
+// ground truth 
+contain(or(or(<m0>,<vow>),<cap>))

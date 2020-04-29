@@ -1,0 +1,15 @@
+// example 
+"|q~?fXx",+
+"5-",+
+"s{Zvh9$XE`",+
+".uJ",+
+"`,QC",+
+"U"p?$i",+
+"(6:BTB_i",+
+"T",+
+"_wi"[h.BW",+
+"",-
+"o1"8Y",+
+
+// ground truth 
+contain(or(or(<num>,<any>),<low>))

@@ -1,0 +1,15 @@
+// example 
+"!m",-
+"C:;",-
+">'",-
+"!q.P",-
+"U8]nu",-
+"{4\3",-
+"!",+
+"!,@",-
+"",-
+"!:vp*",-
+"D",-
+
+// ground truth 
+concat(<m0>,not(endwith(<any>)))

@@ -1,0 +1,25 @@
+// example 
+"uF%%{",+
+"N$%u",-
+"oF[9",+
+"IxOSj",+
+"Un%",+
+"N]X",-
+"F4:?",-
+"Dk`Dh",-
+"a",+
+"I~",+
+"oA2",+
+"O=",+
+"O`#)",+
+"PX",-
+"",-
+"}",-
+"jX",-
+"h",-
+"NN[1N",-
+"hq!",-
+"A",+
+
+// ground truth 
+concat(<vow>,star(or(<m0>,<any>)))

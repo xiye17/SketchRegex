@@ -1,0 +1,16 @@
+// example 
+"",+
+"T+",+
+")8",+
+"*;P1",+
+"/-N",+
+"ogH,3",+
+"T_M",+
+"UwqC",+
+"M",-
+"=",+
+"NBj(*",+
+"|",+
+
+// ground truth 
+not(and(<any>,startwith(<cap>)))

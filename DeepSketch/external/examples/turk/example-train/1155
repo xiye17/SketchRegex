@@ -1,0 +1,14 @@
+// example 
+"",+
+"=V",+
+"nG#LG-WVt",+
+">@2=.",+
+"h6K$A}vb",+
+"^Nt",+
+"Bj,l",+
+"FD|9W7",+
+"D1QSV94",+
+">",+
+
+// ground truth 
+contain(star(or(<num>,<m0>)))

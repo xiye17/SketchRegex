@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+repeatatleast(contain(and(<let>,<m0>)),6)

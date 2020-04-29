@@ -1,0 +1,17 @@
+// example 
+"i9r%n",-
+"ct7:",-
+"i{I-F",-
+"!}",-
+"X}h",-
+"u~2=",-
+"",-
+"a",-
+"!k",+
+"]2",-
+"Xg,",-
+"ih",+
+"H",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<cap>),<low>)

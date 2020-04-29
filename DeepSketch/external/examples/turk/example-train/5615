@@ -1,0 +1,25 @@
+// example 
+"l]E>J",-
+"5",-
+"jAFFXHN",+
+"[0#h_",-
+"D%8U",-
+"uVONG",+
+"",-
+"`",-
+"xF",-
+"wju",-
+"UXUTYEVUB",+
+"wVMLVX",+
+"hRSUAHXJK",+
+"Djx@",-
+"IFOLLSLS",+
+"8#",-
+"TBIWRFP",+
+"CIGXJ",+
+"WJMRNH",+
+"3|o",-
+"oJALQGCT",+
+
+// ground truth 
+concat(<let>,repeatatleast(<cap>,4))

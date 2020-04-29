@@ -1,0 +1,24 @@
+// example 
+"!Y-\",+
+"!}(uiFN~Ay+",+
+"!!Ue.K",+
+"!i38sM%",+
+"QoeI(zC",-
+"2aB",-
+"!",-
+"!nV"4",+
+"",-
+"NX",-
+"!K-2l1^f",+
+"!+5(y^}s/RKC",+
+"!m",-
+"Vau3Ya",-
+"!Qe3fK<E<#",+
+"o$\S",-
+"!L_wO,J-Y",+
+"!g9",+
+"w",-
+"jPzo\",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<any>,2))

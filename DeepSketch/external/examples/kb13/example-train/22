@@ -1,0 +1,25 @@
+// example 
+"{N",-
+"T4^_F",-
+""}u",-
+"_vqOrI]",+
+"iL{-gJkWt",+
+"iL{-gJkWY",+
+"!}?J",-
+"{3",-
+"wfcZy",+
+"[iVWMl(_",+
+""}V",-
+""",-
+"\YCnga",+
+"",-
+"|",-
+"T4^_~",-
+"wfcZW",+
+"\YCngC",+
+"_vqOro3",+
+"!}?n",-
+"[iVWMQs%",+
+
+// ground truth 
+contain(repeatatleast(<let>,5))

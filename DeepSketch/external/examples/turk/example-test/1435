@@ -1,0 +1,26 @@
+// example 
+"LnQzHn1P",+
+"LnQzHn1y",+
+"m]H"8",-
+"$E]kkg~d\A",+
+"$E]kkg~d\u",+
+""",-
+"f{W",-
+";[",-
+"",+
+""L",+
+"'Gk}Mp",-
+"0T/JLJ",+
+"(\fV",-
+"msC[-",-
+""z",+
+"Bz^z",+
+";|",-
+"f2e",-
+"(Yh'",-
+"Bz^E",+
+"'Gk^D(",-
+"0T/JLu",+
+
+// ground truth 
+star(concat(<any>,<let>))

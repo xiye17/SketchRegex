@@ -1,0 +1,17 @@
+// example 
+"4I\",+
+"PI!7D",-
+"2u",-
+"u\y`",-
+"6MJ",-
+"4e~",+
+"",-
+"f",-
+"6",-
+"&eh",-
+"2g",-
+"4gSF",-
+""SZw&",-
+
+// ground truth 
+concat(concat(<num>,<vow>),<any>)

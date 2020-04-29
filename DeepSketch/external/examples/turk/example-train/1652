@@ -1,0 +1,17 @@
+// example 
+"Mg%Q",+
+"fH_",+
+"fu",-
+"f_@",+
+"we4l-",+
+"fA",-
+"{'Mr",+
+"_",+
+"",+
+"x]",+
+"j",+
+"xw",+
+"JiIAw",+
+
+// ground truth 
+not(concat(<low>,<vow>))

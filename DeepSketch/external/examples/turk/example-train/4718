@@ -1,0 +1,15 @@
+// example 
+"!T",+
+"rd!ED",-
+"074q",-
+"!cs*",-
+"!P%|w",-
+"!",-
+"X",-
+"!X%",-
+"M;1",-
+"",-
+"V.",-
+
+// ground truth 
+or(concat(<m0>,<any>),and(<m1>,<num>))

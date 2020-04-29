@@ -1,0 +1,15 @@
+// example 
+"!ge]",-
+"i",-
+"!S",-
+"!s,",-
+"wo7*H",-
+"!3fh+",-
+"xsl",-
+"p4$+",-
+"!",+
+".s",-
+"",-
+
+// ground truth 
+and(repeatatleast(<m0>,1),or(<any>,<m1>))

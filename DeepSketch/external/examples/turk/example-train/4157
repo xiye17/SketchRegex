@@ -1,0 +1,15 @@
+// example 
+"+]",-
+"!,-wC",-
+"!k",+
+"!eH",-
+"!`"|",-
+"!",-
+";Ngnb",-
+"",-
+"/'j",-
+"'",-
+"-qVA",-
+
+// ground truth 
+concat(<m0>,or(<any>,<vow>))

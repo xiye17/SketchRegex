@@ -1,0 +1,17 @@
+// example 
+"Ejdv",-
+"o",+
+"A~N",-
+"m",-
+"",-
+"Q",-
+"zc",-
+"Gv",-
+"uLaN",-
+"e",+
+"1+l$u",-
+"zd-",-
+"aegHF",-
+
+// ground truth 
+and(<vow>,or(or(<m0>,<m1>),<let>))

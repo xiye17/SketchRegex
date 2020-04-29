@@ -1,0 +1,15 @@
+// example 
+"=",-
+"fl$",-
+"76",-
+"5;5Hy",-
+"7q",-
+"5llV8",-
+",V",+
+"",-
+"fZ=",-
+"p7"e",-
+"ppjy",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<m1>),<cap>)

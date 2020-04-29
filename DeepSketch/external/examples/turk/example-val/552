@@ -1,0 +1,25 @@
+// example 
+"aR=",-
+"LvX?",-
+"/",-
+"NkHM/yG",+
+"bTW",+
+"LvXe",-
+"+\('0N",+
+"+\('VE",+
+"",-
+"Zvk.P",+
+"ZvkoZ",+
+"bzE",+
+"l~UUp",-
+"NkHM/SI",+
+"EcMZ",+
+"'O",+
+"Ec3S",+
+"aRf",-
+"*z",-
+"*9",-
+"l~UU)",-
+
+// ground truth 
+concat(<any>,endwith(<cap>))

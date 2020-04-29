@@ -1,0 +1,18 @@
+// examples
+"a!l",+
+"A!d",+
+"e123!ghjk",+
+"E!567Lk",+
+"i!0j",+
+"I!!5g",+
+"O!LKJo",+
+"s!h",-
+"S!cd",-
+"a!L",-
+"al",-
+"a45ghy",-
+"E@567jk",-
+"Q234!f3r",-
+
+// ground truth 
+and(concat(<vow>,contain(<m0>)),endwith(<low>))

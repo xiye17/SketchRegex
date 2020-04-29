@@ -1,0 +1,24 @@
+// example 
+"RR?tX",-
+"[",-
+"NCDe",-
+"Rnd+*",-
+"GUsE*AmasosO?O",+
+"ce6o<e'uiioACESE",+
+"`@",-
+"ci|UYOoEGI8E",+
+"0uiuOU9AsOKOJO<U{uTU",+
+"NTZx",-
+"",-
+"ci|UYOoEGI8u",+
+"ce6o<e'uiioACESu",+
+"@K!",-
+"`U",-
+"@qv",-
+"GUsE*AmasosO?A",+
+"0uiuOU9AsOKOJO<U{uTA",+
+"su#a}onO+EGouuzuUa",+
+"su#a}onO+EGouuzuUe",+
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),6)

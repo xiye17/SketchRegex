@@ -1,0 +1,25 @@
+// example 
+"sat",-
+"dUAOUUuuoie",+
+"cUuaIEOUaUAi",+
+"}'X%",-
+"~1",-
+"raOUeOioUU",+
+"w`@@O",-
+"dUAOUUuuoiO",+
+"cioioEAU",+
+"}s]Wg",-
+"",-
+"b",-
+"}",-
+"raOUeOioUI",+
+"fEUUIiOuE",+
+"}cp",-
+"fEUUIiOuu",+
+"cioioEAI",+
+"%th3",-
+"cUuaIEOUaUAe",+
+"Vi",-
+
+// ground truth 
+concat(<low>,repeatatleast(<vow>,7))

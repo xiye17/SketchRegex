@@ -1,0 +1,16 @@
+// example 
+">$e<5",-
+"y'n",-
+"hk``",-
+"4",-
+"Q)[@t",-
+"m",-
+"e=",-
+"BCi",-
+"X",+
+"",-
+",&[e",-
+"SO",-
+
+// ground truth 
+and(and(<let>,<any>),<cap>)

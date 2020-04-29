@@ -1,0 +1,26 @@
+// example 
+"L!FKIGME",+
+"!4XTXDPXF",+
+"!^ZJo",-
+"!|p)QKFHUJH",+
+"!",-
+"!^ZJT",-
+"y!i",-
+"G!I?sPBNZWGB",+
+"(",-
+"!|p)=IQBWYU",+
+"y|!WQOYXED",+
+"",-
+"!qTGQFJG",+
+"y|!1FHURDX",+
+"U#d8",-
+"G!I?s9MFXSKZ",+
+"U#d!",-
+"!SPCBBT",+
+"!4!KZVQWV",+
+")\",-
+")!",-
+"y!S",-
+
+// ground truth 
+concat(contain(<m0>),repeatatleast(<cap>,6))

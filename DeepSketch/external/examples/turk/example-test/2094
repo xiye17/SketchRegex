@@ -1,0 +1,25 @@
+// example 
+":mG",+
+"WYea",-
+"|r",+
+"w^~iB",+
+"U",+
+"wUd6'",+
+"WYeQ",-
+"ywGFvzk",-
+"Qu%",+
+"_",+
+"",+
+"8)Y:",+
+"HmiyOu",-
+"aQyxc",-
+"|)9L",+
+"Fsa",-
+"HmiyOC",-
+"i!",+
+"FsZ",-
+"ywGFvzD",-
+"aQyxP",-
+
+// ground truth 
+not(repeatatleast(<let>,3))

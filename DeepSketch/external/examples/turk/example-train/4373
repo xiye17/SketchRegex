@@ -1,0 +1,25 @@
+// example 
+"E!x!F!",+
+"\",-
+"h!",-
+"b!q!L!t!T!B!",+
+"G!~",-
+"P!R!K!x!U!H!d!",+
+"y!k!V!J!",+
+"E!x!i!",+
+"",-
+"h/",-
+"Oz3S",-
+"O!k]",-
+"P!R!K!x!U!H!F!",+
+"g!\}{",-
+"G~@",-
+"g!.,r",-
+"y!k!V!z!",+
+"b!q!L!t!T!a!",+
+"P!a!o!F!M!",+
+"P!a!o!F!k!",+
+"{",-
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),3)

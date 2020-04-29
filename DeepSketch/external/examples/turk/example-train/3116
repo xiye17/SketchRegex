@@ -1,0 +1,25 @@
+// example 
+"/",+
+"T31",+
+"f!{jUy",-
+"{v",+
+"h!",-
+"C!",-
+"j!YBX",-
+"`",+
+"E!=]",-
+"y!mC",-
+"|5C",+
+"",+
+"U!-be6",-
+":-lW",+
+"K`WMZ",+
+"`_",+
+"ek9E",+
+"e!y",-
+"R!K",-
+"f+zVP",+
+"A!fbE",-
+
+// ground truth 
+not(startwith(concat(<let>,<m0>)))

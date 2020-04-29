@@ -1,0 +1,26 @@
+// example 
+"[",+
+"aHZb!",-
+"cqfUH!",-
+"kz!",-
+"kG!",-
+"Sd)2(",+
+"R!",-
+"nyh!",-
+"!",-
+"aHZG!",-
+"",+
+"cqfUg!",-
+"4",+
+"S}",+
+"kfy",+
+"S2y3i",+
+"~c",+
+"!uO!",+
+"q!",-
+"_5RH",+
+"nyM!",-
+"k?j",+
+
+// ground truth 
+not(concat(star(<let>),<m0>))

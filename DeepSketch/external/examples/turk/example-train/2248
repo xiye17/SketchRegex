@@ -1,0 +1,15 @@
+// example 
+"{)#$O4y\",-
+"i",+
+"PVL,",-
+"o$}Hc",-
+">v~IP'",-
+"*7CbQAA",-
+"p@*q0Gv]KA",-
+"oX@",-
+"",-
+"[_",-
+">|}1m-i!:",-
+
+// ground truth 
+or(or(<low>,<any>),<let>)

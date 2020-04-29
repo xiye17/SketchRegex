@@ -1,0 +1,15 @@
+// example 
+"",+
+"FdNz2*b5",+
+"r/@=",+
+"tF-uInJp(",+
+"jF|t3s",+
+"Psk/#",+
+"yO",+
+"sX&Wx(a",+
+"`gXo(j,rDf",+
+"(",-
+"<nm",+
+
+// ground truth 
+not(or(or(<any>,<m0>),<m1>))

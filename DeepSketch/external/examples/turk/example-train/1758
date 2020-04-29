@@ -1,0 +1,17 @@
+// example 
+"#,HN",-
+"4R",-
+"}c8~",-
+"-HSAH",-
+"hu",+
+"#ic",-
+"ha",+
+"",-
+"cI{",-
+"|w@@E",-
+"j",-
+"?",-
+"4h",-
+
+// ground truth 
+concat(or(<num>,<low>),<vow>)

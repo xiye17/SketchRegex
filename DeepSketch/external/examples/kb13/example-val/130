@@ -1,0 +1,26 @@
+// example 
+"~;dz-",-
+"!g)",+
+"!Nt-~",+
+"Sb}",-
+"C!",+
+",-",-
+"J!7",+
+"Smz!",+
+"a|HW",-
+"!",+
+"l!",+
+"d",-
+"ovwQ!",+
+"",-
+"Sbx",-
+"svTp!v",+
+"|",-
+"z`",-
+"Ka_"v",-
+"sv!ZVI",+
+"SmL!",+
+"a)kz",-
+
+// ground truth 
+startwith(concat(star(<let>),concat(<m0>,star(<let>))))

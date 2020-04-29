@@ -1,0 +1,26 @@
+// example 
+"J?JVL",+
+"I4(C",+
+"QLR)8",-
+"<C",+
+"RWF",+
+"D#J^",-
+"?XJEFN",+
+"l-",-
+"",-
+"D#J-",-
+"a",-
+"?XJE5T",+
+"QLR)]",-
+"OE",+
+"6",-
+"J?JjK",+
+"K",+
+"lv",-
+"I4DD",+
+"HO&",-
+"R2G",+
+"HOf",-
+
+// ground truth 
+concat(contain(star(<m0>)),<cap>)

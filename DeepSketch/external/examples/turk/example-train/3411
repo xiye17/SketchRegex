@@ -1,0 +1,16 @@
+// example 
+"!)",-
+"Z",-
+"!ew1U",-
+"!U",+
+"!",-
+"}Y",-
+"!l{",-
+"!<H>",-
+"!'l9n",-
+")Y^",-
+"!Wp#",-
+"",-
+
+// ground truth 
+and(concat(<any>,<cap>),concat(<m0>,<let>))

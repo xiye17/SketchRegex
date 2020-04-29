@@ -1,0 +1,15 @@
+// example 
+")dYSu))'",+
+"F",+
+"+b:",+
+"DfaA[[",+
+"~<PB|",+
+">G",+
+"yUN(",+
+"QK?(gT*",+
+"aK?&gRYr/",+
+"*yz}k4%xM$",+
+"",-
+
+// ground truth 
+concat(endwith(<any>),star(<let>))

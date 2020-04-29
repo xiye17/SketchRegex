@@ -1,0 +1,15 @@
+// example 
+">#,in",-
+"P",-
+"v@",+
+"i<",-
+"u@o!",-
+"uQ&a",-
+"iR",-
+"Z@R",-
+"",-
+"Zyd",-
+">@%6B",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<cap>),<m1>)

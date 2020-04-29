@@ -1,0 +1,25 @@
+// example 
+"ChVUTG",+
+"\",-
+"3u?",-
+"CPLqJzQ",+
+"\}u;",-
+"~$_(",-
+"}X",-
+"LQylowjAn",+
+"]5Dgg",-
+"",-
+"sIfofduqGW",+
+"|",-
+"sIfofduqGk",+
+"XsDcHLPO",+
+"2O-vd",-
+"XsDcHLPh",+
+"CPLqJzj",+
+"I[F",-
+"s[",-
+"ChVUTd",+
+"LQylowjAU",+
+
+// ground truth 
+and(repeatatleast(<let>,6),contain(<cap>))

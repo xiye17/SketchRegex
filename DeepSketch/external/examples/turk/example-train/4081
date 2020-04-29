@@ -1,0 +1,16 @@
+// example 
+":)[",-
+"D{k",-
+"Nt22",-
+"!B",-
+"|<4C",-
+"L{`Jd",-
+"Fz!",+
+"w",-
+"#K:\m",-
+"Z*",-
+"",-
+"B",-
+
+// ground truth 
+concat(<cap>,concat(<low>,<m0>))

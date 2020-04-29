@@ -1,0 +1,15 @@
+// example 
+"dau8,mu",+
+",D;0&f5V",+
+"/G.$[B=!+",+
+"nip;=>|O7S",+
+"D1",+
+"n+I?",+
+"r:{[Q",+
+"B23",+
+"=",+
+"at{e2F",+
+"",-
+
+// ground truth 
+startwith(or(<any>,<let>))

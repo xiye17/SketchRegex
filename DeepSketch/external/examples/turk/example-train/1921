@@ -1,0 +1,17 @@
+// example 
+"s>;me",-
+"}g",-
+"!5",-
+"",-
+"c",-
+"SEZ.",-
+"s!"Bb",-
+"ZN6",-
+"p!",+
+"}",-
+"pK",+
+"}l3,",-
+"~Cb",-
+
+// ground truth 
+concat(<low>,or(<cap>,<m0>))

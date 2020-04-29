@@ -1,0 +1,16 @@
+// example 
+"",+
+"{lq0#",+
+"m^f",+
+"h",-
+"fh%/k",+
+"h6",+
+"X{",+
+"H^lF",+
+"{iE.",+
+"%",+
+"|{%",+
+"{",+
+
+// ground truth 
+not(and(contain(<low>),<let>))

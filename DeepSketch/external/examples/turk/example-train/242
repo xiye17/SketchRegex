@@ -1,0 +1,26 @@
+// example 
+"]3$h:",-
+"E8Jp_mEIU",+
+"qT&/FJ<:YD",+
+"!f[",-
+"V,VDBK",+
+"o+%A",-
+"qT&/FJ<oMP",+
+"",-
+"!f6",-
+"7`",-
+"E8Jp_N5GD",+
+"3\D8QUYX",+
+"3\cRIUVK",+
+"_J1MXFC",+
+"<",-
+"]3$hq",-
+"T",-
+"7S",-
+"o+%*",-
+"_JNoXVH",+
+"VJ|DWC",+
+"VLELD",+
+
+// ground truth 
+repeatatleast(endwith(<cap>),5)

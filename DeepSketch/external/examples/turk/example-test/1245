@@ -1,0 +1,17 @@
+// example 
+"Iwn",-
+"Ur",+
+"m4UsO",-
+"",-
+"UN",+
+"I!Q",-
+"Na",-
+"A~",-
+"k{bf",-
+"w",-
+"k^/z",-
+"C",-
+"m\W|i",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<vow>),<let>)

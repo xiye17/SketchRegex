@@ -1,0 +1,25 @@
+// example 
+"EXI",+
+"Lan",-
+"fxra",+
+"CgaV",-
+"Y",-
+"U",+
+"LaG",-
+"EXe",+
+"pgCEJ",-
+"Qo",+
+"eUEuu",+
+"eUEuA",+
+"",-
+"fxrA",+
+"Qu",+
+"Bc",-
+"B{",-
+"u",+
+"Cgay",-
+"pgCEp",-
+"D",-
+
+// ground truth 
+concat(star(<let>),<vow>)

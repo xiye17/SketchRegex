@@ -1,0 +1,25 @@
+// example 
+"XRmoae!",+
+"WfyP!",+
+"j{",-
+"qUWYWkCM!",+
+"j;",-
+"qUWYWkCa!",+
+"i`S",-
+"/.{.",-
+"i~:",-
+"iME_m",-
+"Wfyx!",+
+"",-
+"i~HkH",-
+"|",-
+"OCczM!",+
+"OCczo!",+
+"plwxpqa!",+
+"plwxpqM!",+
+"U",-
+"~qF~",-
+"XRmoaG!",+
+
+// ground truth 
+concat(repeatatleast(<let>,4),<m0>)

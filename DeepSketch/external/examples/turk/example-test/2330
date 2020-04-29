@@ -1,0 +1,25 @@
+// example 
+"HZ!",+
+"IJD!",+
+"=?",-
+"XqNH",-
+"Z",-
+"&V!6",-
+"Yq;",-
+"LMSv!",+
+"e|",-
+"PXTZCg!",+
+"-",-
+"",-
+"}5TdM",-
+"BYXIm!",+
+"*Lw",-
+"Q@_@B",-
+"Hs!",+
+"LMSV!",+
+"BYXIN!",+
+"IJl!",+
+"PXTZCW!",+
+
+// ground truth 
+concat(repeatatleast(<cap>,1),concat(<let>,<m0>))

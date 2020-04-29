@@ -1,0 +1,25 @@
+// example 
+"b![]]",-
+"g#",-
+"!g[!XuI!",+
+"I[D8!\iVXG",+
+"",-
+"[Y{!",-
+"~!!SBcv",+
+"b![](",-
+"Q",-
+"[Y{_",-
+":",-
+"t9!",-
+"AHYL!!",+
+"AHYL!y",+
+"I[D8!\iVX!",+
+"~!!SBcK",+
+"g[",-
+"!g[!Xu|!",+
+"t9(",-
+"];!^!!!!c",+
+"];!^!!!!!",+
+
+// ground truth 
+repeatatleast(or(contain(<m0>),<let>),6)

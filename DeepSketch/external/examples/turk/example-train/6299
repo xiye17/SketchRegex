@@ -1,0 +1,25 @@
+// example 
+"s",-
+"bi",+
+"be",+
+"o",+
+"cv|",-
+"xe$0%",+
+"k",-
+"2~pu",+
+"",-
+"fg",-
+"tcly",-
+"ktvyO",-
+"Jda",+
+"i",+
+"e6}-~",+
+"tclh",-
+"2~pa",+
+"fS",-
+"JeH",+
+"cvn",-
+"ktvyp",-
+
+// ground truth 
+contain(and(<low>,<vow>))

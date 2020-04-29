@@ -1,0 +1,15 @@
+// example 
+"1",-
+"!k",-
+"!]xg",-
+"E7",-
+"!Wr",-
+"[GG<",-
+"!",+
+"!`<4\",-
+"",-
+"'JQ",-
+"cymWn",-
+
+// ground truth 
+and(<m0>,star(<any>))

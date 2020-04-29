@@ -1,0 +1,18 @@
+// examples
+"it!",+
+"fjkdal;f!dsfasf",+
+"dafsj!sdajkl;fj!sdf",+
+"a!!!!",+
+"lines containing the string "!" with a letter before it",+
+"ok??ok!!",+
+"pikachu!!",+
+"!!!",-
+"?%!",-
+"?",-
+"afdkls;?",-
+"",-
+"!!ak",-
+"--!--",-
+
+// ground truth 
+concat(<let>,contain(contain(<m0>)))

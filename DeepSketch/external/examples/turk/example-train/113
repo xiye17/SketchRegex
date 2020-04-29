@@ -1,0 +1,25 @@
+// example 
+"\1",-
+"tEB",+
+"!Th",-
+"csJPh",-
+"CPjk",-
+"U",+
+"sofg",+
+"nMuAc",+
+"csJPT",-
+"nMFus",+
+"",-
+"CPjY",-
+"CI",+
+"Q",-
+"!Tq",-
+"sgAx",+
+"O",+
+"M",-
+"\Z",-
+"Ce",+
+"i!T",+
+
+// ground truth 
+contain(startwith(<vow>))

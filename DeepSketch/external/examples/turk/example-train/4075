@@ -1,0 +1,25 @@
+// example 
+"uUAK|WigE",+
+"dI^",-
+"AALEee",+
+"GX",-
+"uUAK|Wigu",+
+"q",-
+"u)OoHu`o",+
+"ON^AAeo",+
+"",-
+"Bi+",-
+"N",-
+"iWC@z",-
+"IaUUa",+
+"AALEeA",+
+"oChD",-
+"oCh.",-
+"u)OoHu`e",+
+"@K",-
+"iWC@i",-
+"IaUUu",+
+"ON^AAeO",+
+
+// ground truth 
+repeatatleast(startwith(<vow>),5)

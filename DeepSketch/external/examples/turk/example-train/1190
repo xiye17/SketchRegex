@@ -1,0 +1,17 @@
+// example 
+"{|l",+
+"mI",+
+"lr9W",+
+"Fq~9<",+
+"T01",+
+"",+
+"e",+
+"X7",+
+"I5",-
+"|wGc",+
+"gw2@]",+
+"C",+
+"A1",-
+
+// ground truth 
+not(concat(<vow>,<num>))

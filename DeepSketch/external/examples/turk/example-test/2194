@@ -1,0 +1,15 @@
+// example 
+"",+
+"CPkKCK`c/",-
+"$4_hZpUBfZ",-
+"s&Icc/`",-
+"~N",-
+"g`(i]x",-
+"L",-
+"DA?",-
+"ZQ6n",-
+"B71=k",-
+"Y|D=Z'7I",-
+
+// ground truth 
+not(or(endwith(<any>),<m0>))

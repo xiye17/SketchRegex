@@ -1,0 +1,25 @@
+// example 
+"OeUo\",-
+"aUF`",-
+"b\E",+
+"8oP",-
+"m",-
+"Do}u",+
+"b\O",+
+"",-
+"Pe",+
+"OaCee",+
+"P",-
+"{D",-
+"8ow",-
+"Pa",+
+"Do}E",+
+"{T",-
+"OeUoK",-
+"I",+
+"aUFm",-
+"OaCeI",+
+"A",+
+
+// ground truth 
+concat(contain(not(<m0>)),<vow>)

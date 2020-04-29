@@ -1,0 +1,25 @@
+// example 
+"2",-
+"tu_",+
+"Z5F",-
+"eV\H",+
+"{b",-
+"",-
+"bm",+
+"Fp5{",-
+"}",-
+"}bd",-
+"tL'",+
+"n6O.",-
+"bZ",+
+"zqXgQ~",+
+"vh1|#",+
+"vS:^!",+
+"t}",-
+"b|%iB",-
+"~/<jZ",-
+"eu7b",+
+"zLC@##",+
+
+// ground truth 
+startwith(concat(<low>,<let>))

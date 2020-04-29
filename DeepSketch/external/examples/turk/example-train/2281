@@ -1,0 +1,26 @@
+// example 
+"S~is",-
+"i`O%z",-
+"~u",+
+"Shpx",-
+"oc",-
+"a>o",-
+"pQ|c{",+
+"}}Qq{q",-
+"i`Oyb",-
+"}}Q~ji",-
+"}=p>k}z",-
+"",+
+"i\|",+
+"}=p>kuf",-
+"Jfz}",+
+"~*",+
+"axk",-
+"i\@",+
+"w",+
+"Jfz&",+
+"pQ|cR",+
+"|",+
+
+// ground truth 
+not(repeatatleast(endwith(<low>),2))

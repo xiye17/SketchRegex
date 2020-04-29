@@ -1,0 +1,18 @@
+// examples
+"!",+
+"! is ok",+
+"char !",+
+"!!",+
+"## !",+
+"789 !",+
+"! 234",+
+"",-
+"char",-
+"number 1",-
+"456",-
+"special 12",-
+"special ##",-
+"invalid@ before",-
+
+// ground truth 
+concat(star(<any>),contain(<m0>))

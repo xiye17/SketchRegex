@@ -1,0 +1,16 @@
+// example 
+"l|Jus@",+
+"}9",+
+"a2H|k9cI/ob",+
+"l"DA",+
+"U",-
+",P(viWD%,(",+
+"nnM;vvW",+
+"!Z;L^wUR}",+
+"]b\",+
+"qIxHg",+
+"Z>W:)4s4",+
+"",-
+
+// ground truth 
+contain(repeatatleast(<any>,2))

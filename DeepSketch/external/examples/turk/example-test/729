@@ -1,0 +1,25 @@
+// example 
+"\",-
+"NA",+
+"tH{[~",-
+"u>",-
+"#&>",-
+"{wWV",+
+"-",-
+"\Wy(U",+
+"",-
+"tH{[[",-
+"~PA\",-
+"~_Z",+
+"i",+
+"{wWb",+
+"u`",-
+"#&`",-
+"~PA}",-
+"I",+
+"~_j",+
+"\Wy(h",+
+"Nq",+
+
+// ground truth 
+or(repeatatleast(<any>,6),endwith(<let>))

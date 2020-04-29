@@ -1,0 +1,17 @@
+// example 
+"o:3[",+
+"Aku1",+
+"dob(H",+
+"DJq2J",+
+"e",-
+"",+
+"ub",+
+";",+
+"i",-
+"e}X",+
+"kO",+
+"i1H",+
+"t",+
+
+// ground truth 
+not(<vow>)

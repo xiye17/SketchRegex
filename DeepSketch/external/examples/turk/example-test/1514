@@ -1,0 +1,26 @@
+// example 
+"Tbnkg",+
+"~le{*dctd",+
+"{2[",-
+"u",-
+"01U~~",-
+".v6a",-
+".v6|",-
+"A~{kllv",+
+"b{",-
+"01U~*",-
+"",-
+"A~jymun",+
+":~dysf",+
+"~{R|tbvf",+
+"bI",-
+"zlxy",+
+"N",-
+"~le{sfzii",+
+"itmae",+
+"~{R6utoc",+
+":taere",+
+"{2h",-
+
+// ground truth 
+endwith(repeatatleast(<low>,4))

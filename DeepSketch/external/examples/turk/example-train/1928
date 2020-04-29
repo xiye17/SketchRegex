@@ -1,0 +1,23 @@
+// example 
+"e|VvI",-
+"OBoWEQaXiPiauK",+
+"agaWIXenERuVOTAZ",+
+"F4;",-
+"",-
+"iUX",-
+"IcicujEuIWEEevuMoP",+
+"a",-
+"c.*Y",-
+"agaWIXenERuVOTAf",+
+"O",-
+"OBoWEQaXiPiaul",+
+"EBIxouieImuXoNiraMUD",+
+"e\$K.",-
+"IcicujEuIWEEevuMol",+
+"EBIxouieImuXoNiraMUr",+
+"8Z",-
+"kw6)",-
+"I_",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),7)

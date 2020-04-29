@@ -1,0 +1,17 @@
+// example 
+"e7",+
+"bS",-
+"k2",-
+"Pt#C",-
+"",-
+"u.s}d",-
+"BIY1",-
+"i8",+
+"u5jRc",-
+"I!V",-
+"M",-
+"I@T",-
+"E",-
+
+// ground truth 
+concat(and(and(<vow>,<let>),<any>),<num>)

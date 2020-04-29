@@ -1,0 +1,15 @@
+// example 
+"",+
+"rG",-
+"sUc",-
+"ubPv0h",-
+"vgl8A9^",-
+""hL5A*fdM",-
+"U1qY~w(3S:",-
+"C",-
+"vM'Z",-
+"Srq4/",-
+"\w!ary$p",-
+
+// ground truth 
+not(contain(or(or(<cap>,<m0>),<any>)))

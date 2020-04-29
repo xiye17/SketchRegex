@@ -1,0 +1,17 @@
+// example 
+"Nm",-
+"!'-",-
+".",-
+"X|In",-
+"1@1iI",-
+";h",-
+"!",-
+"",-
+"M@",+
+"X?cM",-
+"1hZJ[",-
+"7@",+
+"kLw",-
+
+// ground truth 
+concat(or(or(<num>,<cap>),<m0>),<m1>)

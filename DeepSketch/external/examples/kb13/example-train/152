@@ -1,0 +1,25 @@
+// example 
+"OecLj",-
+"nEUNxiK",+
+"nEUNxdO",+
+"iEL",-
+"OefD",-
+"OefM",-
+"AAE",+
+"uq",-
+"fAao",+
+"",-
+"qqKAoO",+
+"h",-
+"OecLK",-
+"O-EAe",+
+"O-E<I",+
+"AAU",+
+"u`",-
+"qqKAoI",+
+"fAaU",+
+"I",-
+"iEW",-
+
+// ground truth 
+repeat(contain(concat(<vow>,star(<let>))),3)

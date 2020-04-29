@@ -1,0 +1,25 @@
+// example 
+"HNUI)",+
+"I4f6",+
+"HGJJ",-
+"ZJ{",-
+",DHT{",-
+"F"m",+
+"-",-
+"",-
+"HNFN!",+
+"ZJ_",-
+",DHT5",-
+"O",+
+"AU8K",+
+"F"A",+
+"QI",+
+"{~",-
+"HGJ\",-
+"{J",-
+"A",+
+"QO",+
+"D",-
+
+// ground truth 
+contain(or(or(<low>,<vow>),<m0>))

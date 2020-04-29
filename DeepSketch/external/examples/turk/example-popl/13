@@ -1,0 +1,18 @@
+// examples
+"ba",+
+"1ba",+
+"!ba",+
+"Aba",+
+"AB",+
+"Ab",+
+"aB",+
+"",-
+" ",-
+"1",-
+"!",-
+"a",-
+"B",-
+"   ",-
+
+// ground truth 
+concat(<any>,contain(<let>))

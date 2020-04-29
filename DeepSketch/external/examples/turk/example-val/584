@@ -1,0 +1,17 @@
+// example 
+"Bv!k",-
+"Jc!",+
+"dDc",-
+"X",-
+"yq!",+
+"BvvY",-
+"",-
+"[[",-
+"pht2}",-
+"d{d",-
+"ph!2K",-
+"6",-
+"|k",-
+
+// ground truth 
+concat(concat(<let>,<low>),<m0>)

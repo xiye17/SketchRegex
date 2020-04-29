@@ -1,0 +1,26 @@
+// example 
+"|mdregoe",+
+"~|eaxgfir",+
+"h}TeX{khart",+
+"nq}{",-
+"Rhbsxhju",+
+"~Kjlniibv",+
+"nq}6",-
+"{9",-
+">}{|lwow{xct",+
+"c~ix~",-
+"",-
+"}",-
+"Y{n",-
+">}{|lw{bwpbm",+
+"j",-
+"}{Tyigppsl",+
+"rocqjdt",+
+"h}TeX(teclm",+
+"c~ix/",-
+"Y{}",-
+"}{{lcskygs",+
+"{~",-
+
+// ground truth 
+repeatatleast(endwith(<low>),7)

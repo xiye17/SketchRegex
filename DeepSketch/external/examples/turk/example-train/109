@@ -1,0 +1,26 @@
+// example 
+"\",-
+"D",+
+"u_=11",-
+"EihoB",+
+"lqLBFL",+
+"v0l7",-
+"v{-H",-
+"o]A",-
+"qYPC",+
+"lqLBvF",+
+"qYnJ",+
+"cXA",+
+"",-
+"c",-
+"nK",+
+"chU",+
+"EihXF",+
+"o|Q",-
+"`(",-
+"~Ev#7",-
+"MQ",+
+"4d",-
+
+// ground truth 
+concat(star(<let>),<cap>)

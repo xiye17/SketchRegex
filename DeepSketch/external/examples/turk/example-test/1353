@@ -1,0 +1,17 @@
+// example 
+"O5!"o",-
+"l<",-
+"o",-
+"CO9",-
+"OH2OO",-
+"o7!T",-
+"",-
+"o7yE",-
+"O0!",+
+"i9",-
+"v",-
+"a0!",+
+"u8/",-
+
+// ground truth 
+concat(concat(<vow>,<num>),<m0>)

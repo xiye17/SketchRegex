@@ -1,0 +1,14 @@
+// example 
+"",+
+"-%CMz[H!",+
+"}<",+
+"N9zE2D].@",+
+";Ql",+
+"6'MA",+
+"H",+
+"fMJ4!jM",+
+"]G9F(",+
+"[4[^\?",+
+
+// ground truth 
+endwith(star(concat(<low>,<m0>)))

@@ -1,0 +1,24 @@
+// example 
+"7Td",+
+"LOUJ",+
+"7Tj",+
+"LOUk",+
+"eQ",+
+"vIi",-
+"eJ",+
+"\E",-
+"4{DUi",-
+"",+
+"lUvoh",+
+"oEhgoo",-
+"vIa",-
+"MEOu",-
+"lUvoS",+
+"\e",-
+"MEOo",-
+"oEhgou",-
+"|",+
+"4{DUI",-
+
+// ground truth 
+not(concat(endwith(<any>),<vow>))

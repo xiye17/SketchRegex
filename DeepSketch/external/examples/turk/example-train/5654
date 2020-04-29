@@ -1,0 +1,24 @@
+// example 
+"l5w2",-
+"w!Tw",+
+"n!T",+
+"&t,",-
+"!s",-
+"y!9-~",-
+"!",-
+"fc",+
+"",+
+"~4|L",-
+"!W",+
+"wl!R",+
+"FT",-
+"!Rf",+
+"!Nc!Y",+
+"mv|",-
+"y!lxi",-
+"t",+
+"!Nclu",+
+"D",-
+
+// ground truth 
+star(or(concat(<m0>,<cap>),<low>))

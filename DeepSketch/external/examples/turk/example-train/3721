@@ -1,0 +1,25 @@
+// example 
+"Go-,}",+
+"E",+
+"Ra*",+
+"rD#C\",-
+"T)S]",-
+"ca",+
+"o",+
+"!\:Gt",+
+"CgbI",+
+"REX",+
+"W",-
+"Cgbo",+
+"",-
+"wF~",-
+"f",-
+"wFF",-
+"rD#CR",-
+"C]",-
+"ce",+
+"T)Ss",-
+"Cf",-
+
+// ground truth 
+contain(or(<vow>,<m0>))

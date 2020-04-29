@@ -1,0 +1,25 @@
+// example 
+"aVWCV",+
+"jAdeJe",+
+"~H",-
+""1",-
+"oSJpHNH",+
+"MT_",-
+"aVWCj",+
+"^",-
+"MT,",-
+"",-
+"WRXnafyTK",+
+"}%Hp",-
+"]l}0",-
+"WRXnafyTu",+
+"L}2<%",-
+"KyMfHWqH",+
+"KyMfHWqt",+
+"LWw{2",-
+"oSJpHNc",+
+"jAdeJY",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),5)

@@ -1,0 +1,25 @@
+// example 
+"e.),5*k",+
+"rzug*<RT[<it}?",+
+"wZy^ggKX",+
+";\`}e",-
+"ny@(l=ym)w+",+
+"p^baR,N$5<",+
+"qn"{;L&S/qdo'",+
+"{643",-
+"qeGN",-
+"zt(#L[",+
+"kL&",-
+"oJ92IE9?Q",+
+"",-
+"fm>c%{|RAFJ&",+
+"~es~W",-
+"";",-
+"}$}",-
+"y",-
+"a?+oX",+
+"L",-
+"dT",-
+
+// ground truth 
+concat(<low>,repeatatleast(<any>,4))

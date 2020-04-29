@@ -1,0 +1,17 @@
+// example 
+"5Z",+
+"zY",+
+"n.",-
+"Tpz",-
+"a1V",-
+"y(!a",-
+"yK7+",-
+"[d+i+",-
+"",-
+"&",-
+"}",-
+"~txrp",-
+"nx",-
+
+// ground truth 
+concat(or(<low>,<num>),<cap>)

@@ -1,0 +1,15 @@
+// example 
+"c"GtQp>f",+
+"WohF"GjG,",+
+"zD&sOj4_]5",+
+"!G6j6%",+
+"o",+
+","iF",+
+"QPg60",+
+"tyx4:.*",+
+"Iu",+
+"",-
+"`ym",+
+
+// ground truth 
+contain(or(or(<let>,<any>),<m0>))

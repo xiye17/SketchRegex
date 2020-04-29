@@ -1,0 +1,25 @@
+// example 
+"58)LhINc",+
+"93/[$(Y>o,",+
+"'ya",-
+"3",-
+"(`hY"",-
+"41A.",+
+"27xr}",+
+"60,Agc",+
+"59?",+
+"7'G2",-
+"mJ5Iz",-
+"",-
+"k$",-
+"8O",-
+"96hTc$r",+
+"U",-
+"N(|",-
+"77",+
+"7vj0",-
+"28!U-wH,n",+
+"45KswSbFEL(",+
+
+// ground truth 
+startwith(repeatatleast(<num>,2))

@@ -1,0 +1,26 @@
+// example 
+"wr",-
+"2AiUU",+
+"3D",-
+"9EUa",+
+"3",+
+"9EUI",+
+"8IO",+
+"+",-
+"s_L",-
+"",-
+"3Pwf",-
+"8Ii",+
+"9E",+
+"%>N",-
+"3UBo",-
+"3IIoia",+
+"9i",+
+"3IIoio",+
+"9cH(y",-
+"9DsB{",-
+"B",-
+"2AiUu",+
+
+// ground truth 
+concat(<num>,star(<vow>))

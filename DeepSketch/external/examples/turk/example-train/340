@@ -1,0 +1,15 @@
+// example 
+"",+
+";B]",-
+"@?RYS2PttM",-
+"(HNmw",-
+"aV5sL4'B<",-
+"K",-
+";)g=",-
+"zQ4cEV'",-
+"fm",-
+"D]}~aZ~;",-
+"wj\GPT",-
+
+// ground truth 
+star(contain(and(and(<m0>,<low>),<m1>)))

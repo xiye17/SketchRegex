@@ -1,0 +1,16 @@
+// example 
+"r5zn",-
+"C8",+
+"xLP",-
+"?!7c/",-
+"1o",-
+";aB1",-
+"R5O2M",-
+"kL",-
+"+'+",-
+"H",-
+"",-
+")",-
+
+// ground truth 
+concat(<cap>,<num>)

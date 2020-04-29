@@ -1,0 +1,25 @@
+// example 
+"^YrX",-
+".",-
+"$(d",-
+"(`sl",-
+"\.qyR",-
+"eG}I,",+
+"}LiX-",-
+"^",-
+"]oS",-
+"Y&",+
+"",-
+"Bw]",+
+"d",+
+"XYMZj",+
+"hBR",+
+"J;f_",+
+"{=",-
+"I",+
+"x<"Y",+
+"%*",-
+"i%",+
+
+// ground truth 
+startwith(repeatatleast(<let>,1))

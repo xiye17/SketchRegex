@@ -1,0 +1,25 @@
+// example 
+"E{",-
+"FTWzYZZmGH",+
+"8xYd",-
+"Wm",+
+"WY",+
+"bNd",-
+"QBOG",+
+"T_}",-
+"",-
+"DRQJTO",+
+":",-
+"QBOz",+
+"E]",-
+"zf{2!",-
+"SgAZOBDh",+
+"FTWzYZZmGz",+
+"SgAZOBDK",+
+"DRQJTs",+
+"{",-
+"J}+.",-
+"<K@@|",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<let>),1)

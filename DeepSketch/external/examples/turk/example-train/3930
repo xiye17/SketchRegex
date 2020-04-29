@@ -1,0 +1,17 @@
+// example 
+"]?Wy>",-
+"{Q",-
+"!w",+
+"z{+B",-
+"Ts'",-
+"",-
+"{6KW",-
+"(5',m",-
+"i",-
+"<",-
+"_J",-
+"er",+
+"T|H",-
+
+// ground truth 
+concat(or(or(<let>,<m0>),<m1>),<low>)

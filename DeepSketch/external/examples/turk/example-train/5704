@@ -1,0 +1,25 @@
+// example 
+"eC2YjOq|;W",+
+"d[<",+
+"V",-
+"2.A#8",-
+"3r2",-
+"~E=WQ",-
+""_",-
+";c}^",-
+"|/T",-
+"vrq*:N7",+
+"",-
+"hOx?2Q",+
+"l.",+
+"|",-
+"q,;{'B4H"",+
+"}0",-
+"k7IP@Vj%",+
+"~ZtW",-
+"bZ)/",+
+"w",+
+"f.Pi|",+
+
+// ground truth 
+startwith(repeatatleast(<low>,1))

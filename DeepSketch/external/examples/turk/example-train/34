@@ -1,0 +1,25 @@
+// example 
+"3A",+
+"!Yf1i",+
+"m;2PEu",+
+"5b",-
+":RE",-
+"3!!",+
+"3e",+
+"%2ei",+
+"",-
+"T0P}L",-
+"3!U",+
+"&",-
+"5h",-
+"p3UH",-
+":R&",-
+"!Yf1I",+
+"T0P}k",-
+"m;2PEO",+
+"p3UM",-
+"%2eE",+
+"H",-
+
+// ground truth 
+concat(contain(<num>),or(<m0>,<vow>))

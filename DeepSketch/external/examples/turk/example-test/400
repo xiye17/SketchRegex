@@ -1,0 +1,17 @@
+// example 
+"AE",+
+"SZ",-
+"O{Bh",-
+"St>#.",-
+"AA",+
+"Zik",-
+"",-
+"g",-
+"O",-
+"ZN)",-
+"SAgH9",-
+"SH",-
+"(v#E",-
+
+// ground truth 
+concat(<cap>,<vow>)

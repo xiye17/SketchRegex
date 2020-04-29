@@ -1,0 +1,25 @@
+// example 
+"Jz",+
+"[|",-
+"D",+
+"JO",+
+"\_Z{S",-
+"[~{",-
+"\_Z{}",-
+"_{|~",-
+"c",+
+"R]v",+
+"",-
+"{Ds8",+
+"[`",-
+"$",-
+"rMNG",+
+"X6jRI",+
+"RRy",+
+"X6}Jc",+
+"_{|U",-
+"[~]",-
+"{",-
+
+// ground truth 
+repeatatleast(or(contain(<low>),<cap>),1)

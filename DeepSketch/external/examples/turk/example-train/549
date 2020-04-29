@@ -1,0 +1,17 @@
+// example 
+"gQ",+
+"&]d",-
+"8#D*",-
+"1",-
+"O"~",-
+"8ZNr",-
+"HL",+
+"Y/",-
+"Ku}F*",-
+"",-
+"KYmAt",-
+"*p",-
+"B",-
+
+// ground truth 
+concat(or(<let>,<num>),<cap>)

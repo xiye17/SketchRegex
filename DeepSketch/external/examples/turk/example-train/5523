@@ -1,0 +1,17 @@
+// example 
+"E}CRC",-
+"Z",-
+"U",+
+"!g?qK",-
+"!",+
+"",-
+"pUWm",-
+"UQ",-
+"R",-
+"F9",-
+"Ilbj",-
+"o'p",-
+"^g)",-
+
+// ground truth 
+and(startwith(<any>),or(<vow>,<m0>))

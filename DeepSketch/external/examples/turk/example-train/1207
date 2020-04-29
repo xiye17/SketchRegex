@@ -1,0 +1,26 @@
+// example 
+"I~o",+
+"B|}n",+
+"B|yP",+
+"h4pzP",-
+"n",-
+"M0",-
+"M|",-
+"P}H|}{z",+
+"K{|t=",+
+"Z({",-
+"KzQw,",+
+"P}h}ka5",+
+"",-
+"R=$}",-
+"Z(\",-
+"Gd",+
+"AY{f)g",+
+"A",-
+"R=$2",-
+""+co_",-
+"AhXbn>",+
+"I?d",+
+
+// ground truth 
+concat(repeatatleast(<cap>,1),contain(<low>))

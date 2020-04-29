@@ -1,0 +1,15 @@
+// example 
+"e",+
+"buu",+
+"dx",+
+"[,&+n",+
+"-(K9D;qPY",+
+"=&\6",+
+"[=yB\Dh-",+
+"b!+>AX8D$O",+
+"F6"A0i",+
+"/};upSx",+
+"",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),1)

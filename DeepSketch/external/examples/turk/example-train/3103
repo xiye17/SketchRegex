@@ -1,0 +1,15 @@
+// example 
+"s}{t",+
+"-j`\=\3",+
+"8V7X4",+
+""mv",+
+"'n:m([>~",+
+"-QSrpXZ!LF",+
+"+x",+
+"y",+
+"5XzhtDWzw",+
+"=My]!T",+
+"",-
+
+// ground truth 
+contain(or(or(<num>,<any>),<m0>))

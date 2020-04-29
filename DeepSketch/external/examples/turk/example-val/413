@@ -1,0 +1,26 @@
+// example 
+"VIJCUYGVX",+
+"]",-
+"l:",-
+"=}@9IVSGZAY",+
+"PG,",-
+"K5WU",-
+"V@MTESJCW",+
+"aU.CY",-
+"1:4HBWMNOX",+
+"",-
+"tTTIFHCV",+
+"1:gRHJLMHC",+
+"PZpG%OLDVGLV",+
+"lH",-
+"PGw",-
+"aU.C~",-
+"KPWOHEG",+
+"WFZFORMC",+
+"R",-
+"PZpGnFANDRCJ",+
+"K5Wx",-
+"=}@LCUXOIFO",+
+
+// ground truth 
+endwith(repeatatleast(<cap>,7))

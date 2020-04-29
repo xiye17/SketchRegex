@@ -1,0 +1,25 @@
+// example 
+"WA!",+
+"DOBHQEP!",+
+"V?",-
+"!",+
+"!F7!",-
+"",-
+"%",-
+"%jVg",-
+"VJV!",+
+"WXWGI!",+
+"l"6",-
+"P!",+
+"YB6",-
+"LAXZPD!",+
+"))"!5",-
+"MHNP!",+
+"!Z}mR",-
+"CBCQNUISB!",+
+"ts",-
+"MZZQQQRW!",+
+"E",-
+
+// ground truth 
+concat(star(<cap>),<m0>)

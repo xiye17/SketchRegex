@@ -1,0 +1,19 @@
+// example 
+";{02@P(md!?4]Q",+
+";2x<",-
+"5!qC/dV:Y\kD>",+
+"7Mf[<v",+
+"a*HEi]fAq",+
+"=9LgUKsp:.",+
+"",-
+"=uk~n",+
+"0{stv0G;",+
+":",-
+"`EJ",-
+"sJO`@`Snv:;",+
+":2u;TQ[fdBZJ",+
+"Z2",-
+"^>56]<4",+
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),5)

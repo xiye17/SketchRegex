@@ -1,0 +1,15 @@
+// example 
+"",+
+"t0$[",+
+"]B&ls",+
+"Ef4",+
+"]c!,P",+
+")`",+
+"EQ)",+
+"ti6`",+
+"KD",-
+">",+
+"):",+
+
+// ground truth 
+not(concat(<any>,<cap>))

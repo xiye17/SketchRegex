@@ -1,0 +1,24 @@
+// example 
+"AeDh=wE",+
+"}u3qgprwhaA",+
+"AeDh=wa",+
+""+8'",-
+""%",-
+"!}&",-
+"6oPzjbUy}jCzi",+
+"",-
+"c",-
+"0yPxOhodi",+
+"%p%m5ogoHmXmYci",+
+""wd}",-
+"0yPxOhodu",+
+"%p%m5ogoHmXmYce",+
+"!\#",-
+""|",-
+"f~<Wy",-
+"}u3qgprwhau",+
+"6oPzjbUy}jCzI",+
+"fQf!"",-
+
+// ground truth 
+concat(repeatatleast(concat(<any>,<low>),3),<vow>)

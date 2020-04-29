@@ -1,0 +1,20 @@
+// example 
+"3^2",-
+"_r;^",-
+"Y",-
+"g!0]^!QZ_w^",+
+"tU8yb&Lf\c",+
+"fs*K&El!8^7K",+
+"",-
+"0{[SMmN:;fp=XHA",+
+"}e04*|",+
+",J",-
+"<cLFp",-
+"*q)|-{h7",+
+"+\cr?A#ooJ2vm",+
+"J$sXVcSIbc~+L{",+
+"u$w:\@]HP",+
+"m\D92U2",+
+
+// ground truth 
+endwith(repeatatleast(<any>,6))

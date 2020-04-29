@@ -1,0 +1,14 @@
+// example 
+"",+
+"p",+
+"d)6",+
+"Xqf|Bn",+
+"})PKm)N",+
+"$lo/",+
+"(s",+
+"p{2fe",+
+"KgOB_R&E",+
+"$>09_p<*T",+
+
+// ground truth 
+not(and(or(<vow>,<low>),<num>))

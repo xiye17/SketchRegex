@@ -1,0 +1,14 @@
+// example 
+"",+
+"vDXc?`T",+
+"+dK3{",+
+"7",+
+".8j]",+
+"FP$",+
+"}6",+
+"Z5-o''",+
+"3Qgy'w\S",+
+"sa*o|49{A",+
+
+// ground truth 
+startwith(star(concat(<any>,<low>)))

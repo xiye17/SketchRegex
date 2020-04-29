@@ -1,0 +1,25 @@
+// example 
+"s",-
+"`sm",+
+"-?IR",+
+"M|",-
+"pR",+
+"~z|`JI",+
+"\p{",-
+"&}~OJ",+
+"",-
+"{d]~,",-
+"}",-
+"-?Im",+
+"{d]~^",-
+"&}~Oh",+
+"\p]",-
+"~z|Gtf",+
+"pw",+
+"M^",-
+"J7{@",-
+"`sY",+
+"J7{~",-
+
+// ground truth 
+repeatatleast(contain(or(<let>,<vow>)),2)

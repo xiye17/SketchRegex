@@ -1,0 +1,25 @@
+// example 
+"\Qe",-
+"keq",+
+"u~AB",-
+"[",-
+"XR",+
+"]CV4",-
+"lII^G",-
+"VnMJO",+
+"",-
+"n\",-
+"mR-",-
+"e",+
+"keP",+
+"Xr",+
+"Q",+
+"kGFK",+
+"kGFa",+
+"l}[8*",-
+"{",-
+"VnMJl",+
+"n}",-
+
+// ground truth 
+repeatatleast(<let>,1)

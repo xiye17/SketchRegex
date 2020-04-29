@@ -1,0 +1,26 @@
+// example 
+"MH!",+
+"?"xxN!",+
+"mAQ",-
+"#Va{",-
+"*",-
+"W!",+
+"mA`",-
+"Y=<H.",-
+"",-
+"gOEF!",+
+"\u!P!U!",+
+"gO!N!",+
+"Nc",-
+"#VaF",-
+"+J!",+
+"NI",-
+"]wR!",+
+"]#Z!",+
+"Y=<HF",-
+"?"x)Y!",+
+"H",-
+"\u!PdW!",+
+
+// ground truth 
+endwith(concat(<cap>,<m0>))

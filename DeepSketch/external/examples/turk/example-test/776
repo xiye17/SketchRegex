@@ -1,0 +1,16 @@
+// example 
+"k4q",-
+"m&ZPo",-
+"}X",-
+"cE`",+
+"#'",-
+"hXcw",-
+"M",-
+"kv8",-
+"hzG{",-
+"mCI%S",-
+"",-
+"c",-
+
+// ground truth 
+concat(<low>,concat(<cap>,<any>))

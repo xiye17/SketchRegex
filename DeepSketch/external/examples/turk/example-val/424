@@ -1,0 +1,17 @@
+// example 
+"\",-
+""a-b",-
+"Gc)!k",-
+"",-
+"^3b",-
+"hx6CW",-
+"BDB",-
+"ll",+
+"66",-
+"[n",-
+"UpLq",-
+"x",-
+"QR",+
+
+// ground truth 
+concat(or(<let>,<vow>),<any>)

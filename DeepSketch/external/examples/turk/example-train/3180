@@ -1,0 +1,15 @@
+// example 
+"",+
+"bt",-
+"mAb",-
+"h",-
+"*xr#Xy|~6N",-
+"q_-)D^p",-
+"<%,$9q",-
+"#Y&,-",-
+"Q&c>eEZnO",-
+"*SyP",-
+"h-|weoW~",-
+
+// ground truth 
+not(contain(or(<any>,<m0>)))

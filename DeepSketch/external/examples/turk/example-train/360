@@ -1,0 +1,25 @@
+// example 
+"iFfefO",+
+"o}f",-
+"cxxMJUE",+
+"DCeU",+
+"xpU",+
+"_",-
+"iLX~@",-
+"",-
+"}",-
+"`yl?",-
+"|z",-
+"xpE",+
+"DCeA",+
+"]Ge",-
+"XJAoi",+
+"^\",-
+"],WoU",-
+"cxxMJUe",+
+"4xz>",-
+"XJAoa",+
+"iFfefA",+
+
+// ground truth 
+concat(repeatatleast(<let>,2),<vow>)

@@ -1,0 +1,15 @@
+// example 
+"{X",+
+"b(iT&",-
+"R/gF",-
+"02V",-
+"R~)&",-
+"xy",-
+"@",-
+"0Z|",-
+"x7",-
+"baU#W",-
+"",-
+
+// ground truth 
+concat(or(or(<low>,<m0>),<any>),<cap>)

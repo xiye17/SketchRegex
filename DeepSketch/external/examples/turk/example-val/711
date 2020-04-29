@@ -1,0 +1,15 @@
+// example 
+"",+
+"z[OmDG`",+
+"uWQbrw6HQ",+
+"1?u",+
+"t",-
+"d,eTc%DB"P",+
+"6eUv",+
+",7akBjF)",+
+"xE%_1C",+
+"8\",+
+"KdEV)",+
+
+// ground truth 
+not(or(or(<any>,<let>),<cap>))

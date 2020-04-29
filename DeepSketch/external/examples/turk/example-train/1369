@@ -1,0 +1,15 @@
+// example 
+"d",+
+"iK>z",+
+"~^_<4SpP$s",+
+"g{\0$?",+
+"PE",+
+"#{?W8",+
+"jYK",+
+"vKKAA?"I",+
+"YE/VVU3n9",+
+"fg2JR!x",+
+"",-
+
+// ground truth 
+contain(or(or(<num>,<any>),<let>))

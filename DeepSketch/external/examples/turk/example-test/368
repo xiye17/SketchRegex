@@ -1,0 +1,25 @@
+// example 
+"!E2E3i9U9",+
+"!O3i9u7a8E2",+
+"!n|;3",-
+"Ie#d",-
+"!P",-
+"!u%Q",-
+"!O2",+
+"!",+
+"(",-
+"!xT",-
+"",-
+"!U",-
+"!O3i9u7a8a2",+
+"P,x",-
+"!i2I9",+
+"!E2E3i9A6",+
+"!E4i8O1",+
+"!HK$\",-
+"!A8",+
+"!i2u2",+
+"!E4i8E6",+
+
+// ground truth 
+concat(<m0>,star(concat(<vow>,<num>)))

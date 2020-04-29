@@ -1,0 +1,14 @@
+// example 
+"",+
+"b&`",+
+"j",+
+",*fA",+
+"lnP!P,ZEd",+
+"o@R2n!",+
+"F3[ht!N",+
+"Bmd;re2U",+
+"!a.nh",+
+"SN",+
+
+// ground truth 
+not(and(<m0>,star(<m1>)))

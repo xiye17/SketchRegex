@@ -1,0 +1,25 @@
+// example 
+"[|",-
+"KASEQaMoNo",+
+"QiEAQaBOSOJiJe",+
+"DOWOZa",+
+"AA+i+",-
+"MIPaSuYuQeLE",+
+"",-
+"Pu}G",-
+"DOWOZU",+
+"QiEAQaBOSOJiJI",+
+"AABqR",-
+"PuEF",-
+"FiKeHAVU",+
+"KASEQaMoNI",+
+"FiKeHAVI",+
+"WIy",-
+"MIPaSuYuQeLa",+
+"YI",-
+",uN",-
+"B",-
+"~",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),3)

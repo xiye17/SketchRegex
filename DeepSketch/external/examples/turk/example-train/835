@@ -1,0 +1,25 @@
+// example 
+"Adw\",-
+"#yG",-
+"joQilvazpnggod",+
+"ZEAmT",-
+"Z}(&2",-
+"UfJmQp",+
+"MgMzgoRj",+
+"|?",-
+"UfJmre",+
+"JwxbIrcipo",+
+"joQilvazpnggIx",+
+"",-
+"|",-
+"pwYzafApLkIy",+
+"JwxbIrciSw",+
+"Adwj",-
+"MgMzgodm",+
+"~Bj",-
+"pwYzafApLkui",+
+"I",-
+"J}",-
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),3)

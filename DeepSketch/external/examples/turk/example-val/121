@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(star(<low>),or(<cap>,<m0>))

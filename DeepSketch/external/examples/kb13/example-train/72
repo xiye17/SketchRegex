@@ -1,0 +1,25 @@
+// example 
+"Xk",-
+"[1q~8",-
+"J!_ITxxuV",+
+"X=",-
+"gq.",-
+"W",-
+"_",-
+"BffmTcK",+
+"",-
+"^QKZkmwQ",+
+"J!_ITxxux",+
+"|#)OdIwyMS",+
+"|#)OdIwyMi",+
+"[1q~D",-
+"BffmTcd",+
+"i~hc[H~>LoW",+
+"gq~",-
+"|y|w",-
+"i~hc[H~>Loj",+
+"^QKZkmwo",+
+"|y|2",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),7)

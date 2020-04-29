@@ -1,0 +1,15 @@
+// example 
+"=a|@6(a@",+
+"R@{,+Nn+p",+
+"STC",+
+"#r",+
+"izG<x",+
+"J",+
+"._&_6/%67.",+
+"h<fkIM",+
+"V6s'h9I",+
+"",-
+"gqKu",+
+
+// ground truth 
+contain(or(or(<num>,<vow>),<any>))

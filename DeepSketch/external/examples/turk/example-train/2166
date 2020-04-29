@@ -1,0 +1,25 @@
+// example 
+"KKaM",+
+"Cqp'",-
+"PouODX",+
+"[yg",-
+"KKal",+
+"",-
+"quYIv",+
+"U{",-
+"WVt",+
+"jesTYEi",+
+"Cqp^",-
+"83\",-
+"jesTYEV",+
+"z",-
+"!,",-
+"jXz?a",-
+"quYIU",+
+"PouODh",+
+"WVJ",+
+"E",-
+"jXzC$",-
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),3)

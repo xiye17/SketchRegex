@@ -1,0 +1,15 @@
+// example 
+"g5d",-
+"E{",-
+"S6FM;_%MoR",-
+"^<%8]'j",-
+"U8Gu",-
+"(lpVT}",-
+"b",+
+"",-
+"~AK]SXmO",-
+"/maE?vy+m",-
+"ev%l:",-
+
+// ground truth 
+or(or(<any>,<let>),<cap>)

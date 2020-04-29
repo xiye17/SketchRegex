@@ -1,0 +1,25 @@
+// example 
+"F",-
+"]",-
+"Fvc",+
+"B}Y2",-
+"~mkT",-
+"LGqpk",+
+"vR",-
+"^9",-
+"arVkvx",+
+"",-
+"_Ok",-
+"JhQItMr",+
+"PBAN",+
+"FvC",+
+"JhQItMC",+
+"JTg`h",-
+"PBAs",+
+"N?<",-
+"arVkvX",+
+"LGqpD",+
+"J2$P)",-
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),3)

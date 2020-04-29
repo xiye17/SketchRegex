@@ -1,0 +1,15 @@
+// example 
+"1:>",+
+"F",+
+"K`Nb",+
+"kN9u,",+
+"R9fj|6t",+
+"aeSQy*d"}1",+
+"Y0",+
+"E1m\MetuY",+
+"LRST~C",+
+"",-
+"LeUiW#nb",+
+
+// ground truth 
+contain(endwith(repeatatleast(<any>,1)))

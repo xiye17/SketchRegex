@@ -1,0 +1,24 @@
+// example 
+"E{",-
+"AKL",+
+"y0^",-
+"v0Ui5",+
+"Aw9",+
+"Ir$Oq",-
+"+",-
+"w4",+
+"v0UDY",+
+"s0m1",+
+"^",-
+"",+
+"I%L&O",-
+"Q",+
+"s0VN",+
+"~+.4",-
+"}.q",-
+"0pzu",-
+"UK",+
+"E+",-
+
+// ground truth 
+star(or(concat(<low>,<num>),<cap>))

@@ -1,0 +1,17 @@
+// example 
+"NA",+
+"9d",-
+"3",-
+"NE",+
+"VsB",-
+"YXrRB",-
+"",-
+"@SC",-
+"6br+",-
+"O",-
+"}k+g3",-
+"k4@n",-
+"dS",-
+
+// ground truth 
+concat(and(<let>,<cap>),<vow>)

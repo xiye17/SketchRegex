@@ -1,0 +1,15 @@
+// example 
+"",+
+"F#L",+
+"aXyF",+
+"Fu",+
+"Nvb(.\;$s",+
+"loc:FMYY(F",+
+"Njn:cb2#",+
+"^.s$*",+
+"v",-
+"V%2NW2%",+
+"Ki_$I{",+
+
+// ground truth 
+not(or(or(<cap>,<m0>),<any>))

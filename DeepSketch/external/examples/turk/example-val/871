@@ -1,0 +1,17 @@
+// example 
+"E",+
+"u!l,u",+
+"cH",+
+"u.pgK",+
+"",+
+"u!",-
+"u!_~",+
+"i!",-
+"JG1",+
+"eB^",+
+"uG1+",+
+"z",+
+"gf",+
+
+// ground truth 
+not(concat(<vow>,<m0>))

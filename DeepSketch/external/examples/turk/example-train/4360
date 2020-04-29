@@ -1,0 +1,24 @@
+// example 
+"oBaVQ",+
+"_P!@FP",+
+"[|EuW",-
+"od~w)",+
+"_i2xJ8",+
+"rK",+
+"Dmp",+
+"rk_e",+
+"",-
+"7_",-
+"7%",-
+"(_n*",-
+"5~r",-
+"[[x]>",-
+"5@w",-
+"rT)P",+
+"rx",+
+"({Zr",-
+"I",-
+"DOE",+
+
+// ground truth 
+startwith(concat(<any>,<let>))

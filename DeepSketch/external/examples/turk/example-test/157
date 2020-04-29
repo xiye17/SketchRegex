@@ -1,0 +1,16 @@
+// example 
+"3RQ@c5*b",+
+"G",-
+"uZWM8\`B6qM",+
+"Cnkp9_o",+
+"he&fQ(!CE",+
+"E?bog",+
+"4)_J\@",+
+"^~#XV@7u;t",+
+"C[",+
+"{$<`",+
+""e:",+
+"",-
+
+// ground truth 
+repeatatleast(startwith(<any>),2)

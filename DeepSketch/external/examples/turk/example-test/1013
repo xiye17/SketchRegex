@@ -1,0 +1,25 @@
+// example 
+"Rw",+
+"7|u",+
+"0",+
+"o}",-
+"-mt6X",-
+"+w",+
+"$8|",-
+"",-
+"{y1d",+
+"n.x/",-
+"|",-
+"$85",-
+"{y14",+
+"j",+
+"73b",+
+"n.xN",-
+"NU2kw",+
+"-mt6|",-
+"NU2k9",+
+"B",-
+"o\",-
+
+// ground truth 
+repeatatleast(or(<num>,endwith(<low>)),1)

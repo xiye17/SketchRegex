@@ -1,0 +1,15 @@
+// example 
+"",+
+"p!",+
+"L#i",+
+"Nj)j",+
+"p",+
+"L3/",+
+"P}8W+",+
+"P5wZn",+
+"]7",-
+"N8oX",+
+"pV",+
+
+// ground truth 
+not(concat(<any>,<num>))

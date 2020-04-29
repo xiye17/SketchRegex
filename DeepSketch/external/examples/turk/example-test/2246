@@ -1,0 +1,14 @@
+// example 
+"",+
+"g",+
+"B:=0-$",+
+"'G^:w@o",+
+"6oJZ~*!bE",+
+"F^>X",+
+"\x}+T",+
+"hH\",+
+"j6`e%8WW",+
+"#C",+
+
+// ground truth 
+not(and(<cap>,concat(<num>,<m0>)))

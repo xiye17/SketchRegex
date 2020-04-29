@@ -1,0 +1,17 @@
+// example 
+"!ezhk",-
+"!a3",+
+"!u+",-
+"Nv$&8",-
+"Wo",-
+"!",-
+"!O2",+
+"",-
+")O'",-
+"!rwI",-
+"!q",-
+"L",-
+"!uEm",-
+
+// ground truth 
+concat(concat(<m0>,<vow>),<num>)

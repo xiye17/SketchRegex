@@ -1,0 +1,17 @@
+// example 
+"!{nK",-
+"r=Oha",-
+"!\",-
+"x.N",-
+"!",-
+"!s0",+
+"!}Ig[",-
+"",-
+"!`vX",-
+"P",-
+"!N3",+
+"!Q!",-
+"uV",-
+
+// ground truth 
+concat(concat(<m0>,<let>),<num>)

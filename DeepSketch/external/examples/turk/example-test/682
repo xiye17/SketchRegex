@@ -1,0 +1,25 @@
+// example 
+".Ti",+
+"po#@UE",+
+"Dfu",-
+"8,",-
+"ZiyIP",-
+"ZiyIk",-
+"Oa",+
+"po#@UA",+
+"8F",-
+"X",-
+"?SbAu",+
+".TU",+
+"#",-
+"",-
+"TEiy",-
+"TEiL",-
+"FnKo",+
+"Df8",-
+"OU",+
+"?SbAU",+
+"FnKa",+
+
+// ground truth 
+concat(endwith(<cap>),<vow>)

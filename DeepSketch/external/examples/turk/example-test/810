@@ -1,0 +1,25 @@
+// example 
+"G",-
+"h}_",-
+"RL!",+
+"C!",+
+"R!r",+
+"Z!>`t<",+
+"z~!oI",+
+"or",-
+"Wq$!",+
+"^",-
+"Wq!z",+
+"",-
+"^}!"%",-
+"pQ{Ti",-
+"Zg!qhP",+
+"$A)u",-
+"a!",+
+"JIxF",-
+"z~%n!",+
+"`H",-
+"GmX",-
+
+// ground truth 
+concat(<let>,contain(<m0>))

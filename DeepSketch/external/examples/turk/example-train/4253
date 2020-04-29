@@ -1,0 +1,25 @@
+// example 
+"IW",+
+"O1M",+
+"k\<\x",+
+"cyIz$q",+
+"y`",-
+"x8\|}",-
+"~@r",-
+"Q,~?",-
+"k\x|[",+
+"y2",-
+"",-
+"Ic",+
+"j",-
+"Q,~{",-
+"O",-
+"BWER",+
+"O1g",+
+"4IBRF",-
+"cG9==0",+
+"`&M",-
+"B=3y",+
+
+// ground truth 
+repeatatleast(startwith(<let>),2)

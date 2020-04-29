@@ -1,0 +1,17 @@
+// example 
+"A<\V/",+
+"B4}x",+
+"oKVt8",+
+"e",-
+"~>",+
+"",+
+"O`%",+
+"eiZ",+
+"hH5J",+
+"S",+
+"5",+
+"QV",+
+"E",-
+
+// ground truth 
+not(and(<vow>,<any>))

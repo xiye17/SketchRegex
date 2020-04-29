@@ -1,0 +1,25 @@
+// example 
+"F}}PE",+
+"1",-
+"{Lp;cK",+
+"\uZ",+
+"CO",+
+"F}}pF",+
+"Q^P^~",-
+"",-
+"zb",-
+"sy-",-
+"\HT",+
+"pH",+
+"'|XH",+
+"z\",-
+"@zx|",-
+"'|mI",+
+"{Lp;WR",+
+"K",-
+"sy|",-
+"Q^P^U",-
+"@zxw",-
+
+// ground truth 
+repeatatleast(contain(concat(<let>,<cap>)),1)

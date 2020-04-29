@@ -1,0 +1,25 @@
+// example 
+"`xl",-
+"p",+
+"x+Bi",-
+"VOTCDZ",+
+"}OGG",-
+")3",-
+"SDOTKIW",+
+"^",-
+"",-
+"BO4Nb",-
+"TKQYAFCUF",+
+"ZNUDPXCM",+
+"L",+
+"8<w",-
+"7",-
+"}B",-
+"XYF",+
+"BAFQ",+
+"RHHQK",+
+"YA",+
+"BOPMv",-
+
+// ground truth 
+or(repeatatleast(<cap>,1),<low>)

@@ -1,0 +1,15 @@
+// example 
+"Q1Gnk0qi",+
+"p",+
+"TG]<:%",+
+"2dFCZ",+
+".t)",+
+"-8*a_p2",+
+"H2#)g(/:w<",+
+"R=["$l;f?",+
+"p.-h",+
+"o7",+
+"",-
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),1)

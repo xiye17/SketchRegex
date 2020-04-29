@@ -1,0 +1,25 @@
+// example 
+"PUYECeOoZI",+
+"PUYECeOoZa",+
+"YI-",-
+"WIQoCE",+
+"TA5\[",-
+"MoEuAoBO",+
+"XO",+
+"UiFA",+
+"",-
+"SoKF",-
+"UiFU",+
+"MoEuAoBA",+
+"Es",-
+"SoKB",-
+"Xe",+
+"E6",-
+"x",-
+"[v^3T",-
+"WIQoCo",+
+"YIX",-
+"D",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),1)

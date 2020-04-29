@@ -1,0 +1,16 @@
+// example 
+"u,",+
+"LICA",+
+"RB",-
+"v",+
+"YfC@b",+
+"+y",+
+"qs7",+
+"!",+
+"I3$",+
+"+>e?",+
+"7VpC|",+
+"",-
+
+// ground truth 
+concat(not(<cap>),<any>)

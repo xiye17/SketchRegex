@@ -1,0 +1,17 @@
+// example 
+"trz",+
+"uYL`L",+
+"iFGQ3",+
+"e",-
+"{w$",+
+"a",-
+"",+
+"o*",+
+"g",+
+"fA11",+
+"f6",+
+"y",+
+"ymm]",+
+
+// ground truth 
+not(and(startwith(<vow>),<low>))

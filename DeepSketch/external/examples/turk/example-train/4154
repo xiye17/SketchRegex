@@ -1,0 +1,25 @@
+// example 
+"Bk",+
+"]",-
+"{[qpG",+
+"[)zP",+
+"Z{@",-
+"",-
+"K@",-
+"P`vn]",-
+"[)zx",+
+"~'H{",-
+"~'H#",-
+"Z{]",-
+"by%qcl",+
+"{Dx",+
+"{[qpw",+
+"by%qcQ",+
+"BF",+
+"P`vn|",-
+"{",-
+"K^",-
+"{DA",+
+
+// ground truth 
+endwith(repeatatleast(<let>,2))

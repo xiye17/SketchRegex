@@ -1,0 +1,17 @@
+// example 
+"Av",+
+"m>nx",-
+"!",-
+"eR",+
+"xE",-
+"",-
+"a",-
+"f;",-
+"eEC&K",-
+";!q",-
+"ouWe%",-
+"*K5J",-
+"AYA",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<any>)

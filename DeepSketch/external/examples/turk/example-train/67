@@ -1,0 +1,26 @@
+// example 
+""{4V",+
+"p({%r",-
+"J(H:W",+
+"J(HWD",+
+"s",-
+"$.-/",-
+"N~HZW\",-
+"Um~PX?/G",+
+"6k:K-U",+
+";<8",-
+""{AT",+
+"$.-^",-
+"",-
+";<[",-
+"N~HZW>",-
+"I:",-
+"p({%<",-
+"6k:KJQ",+
+"lHOBu\I",+
+"Um~PX?xC",+
+"lHOBuXL",+
+"22L",+
+
+// ground truth 
+concat(repeatatleast(<any>,2),<cap>)

@@ -1,0 +1,16 @@
+// example 
+"hPs",+
+"|",-
+"~*#&",-
+"c)(=",-
+"nu",-
+"~&5Xd",-
+"z+OkA",-
+"{}o",-
+"n~f",-
+"~f",-
+"#",-
+"",-
+
+// ground truth 
+concat(concat(<low>,<cap>),<any>)

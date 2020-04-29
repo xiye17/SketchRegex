@@ -1,0 +1,25 @@
+// example 
+"A>KxgJ",+
+"`-{zfzra",+
+"j{vtj[}e3",+
+"{!c|!",-
+"n",-
+"[Gw",-
+"j{vtj[}9x",+
+"{!c|[",-
+"A>Kxge",+
+"]d",-
+"`-{zfzrG",+
+"wgqlN",+
+"I3|kZrv",+
+"",-
+"Y~_o",-
+"]]",-
+"[GT",-
+"I3|kZrG",+
+"Y~_}",-
+"wgqlc",+
+"{",-
+
+// ground truth 
+repeatatleast(contain(repeatrange(<let>,1,3)),5)

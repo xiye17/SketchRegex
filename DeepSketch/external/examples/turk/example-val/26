@@ -1,0 +1,25 @@
+// example 
+"]",-
+"4}",-
+"7Hc8uT",+
+"ACaQ1R914d",+
+"8DQvCgT",+
+"3J2jkvWQ",+
+"7HiAsiKtU",+
+"|sQ",-
+"",-
+"d1R3r",-
+"7Hc8u4",+
+"|",-
+"]>]",-
+"RH!F",-
+"3J2jkvW9",+
+"ACaQ1R914G",+
+"R@XH",-
+"8DQvCg8",+
+"d1R\'",-
+"7HiAsiKt5",+
+"4'",-
+
+// ground truth 
+repeatatleast(or(<num>,<let>),6)

@@ -1,0 +1,26 @@
+// example 
+"~I",-
+"ZrpbYvnS",+
+"pJSihX",+
+"uKKGRwPIt",+
+"gr~",-
+"KkXuPHk",+
+"J|Ob",-
+"KkXuPHH",+
+"],IfO",-
+"fprcCSlzWa",+
+"",-
+"_U6P",-
+"ZrpbYvnv",+
+"uKKGRwPIV",+
+"pJSihb",+
+"fprcCSlzWK",+
+"~},@?",-
+"J",+
+"ei",-
+"w",-
+"{",-
+"grS",-
+
+// ground truth 
+or(repeatatleast(<let>,6),<cap>)

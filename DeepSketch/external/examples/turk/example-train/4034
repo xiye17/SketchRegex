@@ -1,0 +1,14 @@
+// example 
+"",+
+"-",+
+"WRfCCL$&",+
+"S'0",+
+"RvV6Dad",+
+"xy",+
+"u"4T",+
+"9!V@H-<_n",+
+"yY,YS",+
+"}j%kh~",+
+
+// ground truth 
+startwith(or(not(<m0>),<m1>))

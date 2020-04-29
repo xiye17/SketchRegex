@@ -1,0 +1,17 @@
+// example 
+"}R",-
+"I!2",+
+"3",-
+"",-
+"Q",-
+"F!36",-
+"|{Y7q",-
+"e!2",+
+"_2",-
+"Fc`t",-
+"z!1MZ",-
+"nP,",-
+"n!"",-
+
+// ground truth 
+concat(concat(<let>,<m0>),<num>)

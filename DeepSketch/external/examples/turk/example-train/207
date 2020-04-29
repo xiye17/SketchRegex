@@ -1,0 +1,16 @@
+// example 
+";s_H",-
+"g\wl",-
+"p1U",+
+"w6j",-
+"!{u",-
+""[",-
+"l",-
+"xe",-
+"",-
+"l.#n:",-
+"~",-
+"}2xIf",-
+
+// ground truth 
+concat(concat(<low>,<num>),<cap>)

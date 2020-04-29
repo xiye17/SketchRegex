@@ -1,0 +1,25 @@
+// example 
+"EPe",-
+"oUo",+
+"Eer",-
+"Uieo",+
+"Ou",+
+"'",+
+"oUI",+
+"",-
+"EG",-
+"uIUEe",+
+"p9b(",-
+"o?aCv",-
+"U;m7O9",-
+"OE",+
+"Uv|cTn",-
+"i",+
+"UieO",+
+"efiw",-
+"`IjcV",-
+"Nq",-
+"uIUEI",+
+
+// ground truth 
+or(repeatatleast(<vow>,1),or(or(<num>,<m0>),<any>))

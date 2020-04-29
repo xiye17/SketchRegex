@@ -1,0 +1,25 @@
+// example 
+"7UiOi",+
+"iUueIU",+
+"j:$X",-
+"aUUE",+
+"fP(C",-
+"AN",-
+"EM$",-
+"7UiOO",+
+"OI0I4U0",+
+"aUUU",+
+"",-
+"IoauAI56",+
+"OI0I4Ue",+
+"U",-
+"IoauAI5O",+
+"Es:",-
+"Ae",-
+"iUueI9",+
+"L",-
+"oIDCa",-
+"oI/`X",-
+
+// ground truth 
+repeatatleast(or(<num>,<vow>),4)

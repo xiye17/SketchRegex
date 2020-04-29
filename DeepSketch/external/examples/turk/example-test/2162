@@ -1,0 +1,16 @@
+// example 
+"e!",+
+"%",-
+"a`",-
+"tK1",-
+"t!y",-
+"o|cg",-
+"o!(o",-
+"V!G9kN",-
+"lP(G+",-
+"",-
+"l!~0)",-
+"V)++^C",-
+
+// ground truth 
+concat(or(or(<any>,<num>),<cap>),<m0>)

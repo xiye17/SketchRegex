@@ -1,0 +1,25 @@
+// example 
+"!I",+
+"kZL!A",+
+"`Ou\",-
+"*(",-
+"kZL!i",+
+"]!Ij",+
+"!",-
+"!O",+
+"`Ou!",-
+"!r!",-
+"",-
+"*!",-
+"Cx'!O{",+
+"Cx'!o<",+
+"!h!r%",-
+"!rg",-
+"!h!r!",-
+"!UV",+
+"!i1",+
+"M",-
+"]!EL",+
+
+// ground truth 
+repeatatleast(contain(concat(<m0>,<vow>)),1)

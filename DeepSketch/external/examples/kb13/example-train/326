@@ -1,0 +1,25 @@
+// example 
+"!L@",-
+"2+@D",-
+"K!)@g~@",+
+"!",-
+"#+@!zaw\@",+
+"",-
+"$",-
+"!@",-
+"!33@@H",+
+"%5<@]dO!",+
+"#+@!zaw\!",+
+"2+@!",-
+"pQ@.!",-
+"!g@b@",+
+"!g,?@",+
+"!=",-
+"K!)@g3@",+
+"!Lr",-
+"%5<@]d!!",+
+"pQ@.A",-
+"!33@W@",+
+
+// ground truth 
+or(concat(contain(<m0>),concat(startwith(repeat(<any>,3)),startwith(<m1>))),concat(contain(<m1>),concat(startwith(repeat(<any>,3)),startwith(<m0>))))

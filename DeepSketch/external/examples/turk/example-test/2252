@@ -1,0 +1,25 @@
+// example 
+"IC]",+
+"B|CHM",-
+"E",+
+"G",-
+"~O[",-
+"D4sn",-
+"c6=}",-
+"U",+
+"aV",+
+"EVZZT",+
+"",+
+"I39C",+
+"Os6{",+
+"P@",-
+"X/",-
+"a]l",+
+"u>Bv<",+
+"d`VvF",-
+"E^",+
+"v",-
+"lGP",-
+
+// ground truth 
+star(startwith(or(<m0>,<vow>)))

@@ -1,0 +1,25 @@
+// example 
+"i.W",+
+"s]rl",-
+"eB6?G",+
+"o",+
+"hw",-
+"hp",-
+"iF8}",+
+"gC",+
+"d",-
+"g)^",-
+"",-
+"yz^+n",-
+"lfQi",+
+"iitIy",+
+"s]r5",-
+"j",-
+"Q",+
+"o"3",+
+"yz^+'",-
+"g)?",-
+"ge",+
+
+// ground truth 
+contain(or(or(<cap>,<vow>),<m0>))

@@ -1,0 +1,26 @@
+// example 
+"!{aQ",+
+"!#0iBN",+
+"!{*E",+
+"!Ay",-
+"!y",-
+"W!W}P",+
+"!#0irD",+
+"W!WIX",+
+"!",-
+"!!}!",-
+"!%1=9",-
+"X!S",+
+"!%1=v",-
+"!K",+
+"!kI",+
+"!!}`",-
+"",-
+"f",-
+"aG#!PgZ",+
+"!A<",-
+"aG#!P#W",+
+"!0",-
+
+// ground truth 
+concat(contain(<m0>),repeatatleast(<cap>,1))

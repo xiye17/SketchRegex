@@ -1,0 +1,25 @@
+// example 
+"BYoh",+
+"aMigw",+
+"LO",+
+""p",-
+"jVM`",-
+"a",+
+"|dRdY",-
+"]BG",-
+"BYA`",+
+"-",-
+""j",-
+"",-
+"]BD",-
+".iP}n",+
+"jVMj",-
+"LE",+
+"VMe",+
+"O",+
+"|dRdN",-
+"VMU",+
+"~",-
+
+// ground truth 
+endwith(startwith(<vow>))

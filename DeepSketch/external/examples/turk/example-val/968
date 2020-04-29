@@ -1,0 +1,25 @@
+// example 
+"PPOT",+
+"cqkyz",+
+"zML",+
+"PPOn",+
+"INydEnm",+
+"C[^",-
+"tzHA|",-
+"7!",-
+"fh^-",-
+"",-
+"f]3F",-
+"=",-
+"U",-
+"zMt",+
+"UOVAKh",+
+"~d",-
+"UOVAKA",+
+"INydEnZ",+
+"cqkyQ",+
+"tz9G6",-
+"C|m",-
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),3)

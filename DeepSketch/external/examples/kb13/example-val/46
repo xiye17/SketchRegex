@@ -1,0 +1,25 @@
+// example 
+"[Q3",-
+"[",-
+"L0AC",+
+"|^Wi4G",+
+"^]_At5R",+
+"l",-
+"^|",-
+"6kw0G",+
+"]K(|",-
+"",-
+"|^Wi4z",+
+"]K(7",-
+"[QR",-
+"|v-~ia1E",+
+"|v-~ia1s",+
+"^\",-
+"sy"(-",-
+"sy"(6",-
+"L0Ai",+
+"^]_At5p",+
+"6kw0f",+
+
+// ground truth 
+concat(star(notcc(<let>)),concat(concat(repeatatleast(<let>,1),concat(and(contain(repeatatleast(<let>,1)),contain(<num>)),repeatatleast(<let>,1))),star(notcc(<let>))))

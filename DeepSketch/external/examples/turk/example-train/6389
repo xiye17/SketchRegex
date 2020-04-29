@@ -1,0 +1,23 @@
+// example 
+"\",-
+"$b~",-
+"LuzoPOeOyIbiAUBo",+
+"A]",-
+"{`CD$",-
+"zPyk!",-
+"kOneDIREGiLapuDUso",+
+"piKibiXaeiGeLO",+
+"vOYuZuLiEicEVepOOiNi",+
+"",-
+"\'.",-
+"g",-
+"vOYuZuLiEicEVepOOiNu",+
+"LuzoPOeOyIbiAUBI",+
+"iuXI",-
+"piKibiXaeiGeLA",+
+"kOneDIREGiLapuDUsa",+
+"iu@a",-
+"Ak",-
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),7)

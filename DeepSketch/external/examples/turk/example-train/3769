@@ -1,0 +1,17 @@
+// example 
+"Ha",+
+"l",-
+"ums=",-
+"uMj?",-
+"",-
+"`",-
+"0)N3Q",-
+"~E2/~",-
+"-W",-
+"\g",-
+"Hi",+
+"8/`",-
+"`hS",-
+
+// ground truth 
+concat(<let>,and(<vow>,<low>))

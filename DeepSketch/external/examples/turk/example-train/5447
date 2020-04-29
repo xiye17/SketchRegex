@@ -1,0 +1,25 @@
+// example 
+"!b",-
+"!f!U!L!Y!o!v!S",+
+"!A!O!e!w!I!H!M!i",+
+"!T!",-
+"!"",-
+"!e!F!W!B!B!c!Y!H!H!C",+
+"!182",-
+"!t!o!S!N!K!G",+
+"!",-
+"HE(]",-
+"!A!O!e!w!I!H!M!Y",+
+"LRDBe",-
+"!e!F!W!B!B!c!Y!H!H!j",+
+"",-
+"!f!U!L!Y!o!v!x",+
+"!V!i!g!X!E!l!s!E!j",+
+"!V!i!g!X!E!l!s!E!S",+
+"!t!o!S!N!K!s",+
+"M",-
+"![L",-
+"!{~xf",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<let>),6)

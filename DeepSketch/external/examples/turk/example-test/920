@@ -1,0 +1,17 @@
+// example 
+"_?",+
+":$p",+
+"i!l6]",+
+"rJ{V",+
+"",+
+"i_",+
+"}ScO",+
+"xF",-
+"j",+
+"~P5",+
+"iVS9w",+
+"xc",-
+"{",+
+
+// ground truth 
+not(concat(<low>,<let>))

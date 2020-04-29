@@ -1,0 +1,25 @@
+// example 
+"p{YvYodI",+
+"0",-
+"L0PRK)",+
+"GQ",-
+"hHLmKHs{j8QY",+
+"p{YvYoEi",+
+"[H$",-
+"rFK"OYNdh@E<J#",+
+"",-
+"^<",-
+"o(]]",-
+"S\ohB\o6Z+",+
+"}3;DA",-
+"S\ohB\o6j}",+
+"hHLmKHs{j8et",+
+"Is|4,",-
+"L0PRr8",+
+"v",-
+"rFK"OYNdh@E<cp",+
+"L5u",-
+"}]'d",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),3)

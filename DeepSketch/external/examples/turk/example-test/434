@@ -1,0 +1,17 @@
+// example 
+"UC",+
+"a,",-
+"o8'RK",-
+"e'5&",-
+"ozTu6",-
+"M#W",-
+"e",-
+"lO?t",-
+"",-
+"i",-
+"inb",-
+"IZ",+
+"vi",-
+
+// ground truth 
+concat(and(and(<let>,<vow>),<any>),<cap>)

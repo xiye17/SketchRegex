@@ -1,0 +1,14 @@
+// example 
+"",+
+"cCc",+
+"bg`$",+
+"&me{ep",+
+"cVl}WnA",+
+".gCl?",+
+"6",+
+"Qa",+
+"g3Meo:KaX",+
+"K:4Vr[*(",+
+
+// ground truth 
+not(and(star(<m0>),<let>))

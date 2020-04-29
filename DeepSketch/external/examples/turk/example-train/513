@@ -1,0 +1,16 @@
+// example 
+"%",-
+"}",-
+"5|E",-
+"Uh:d",-
+"+7pc",-
+"1xW",+
+"5j;",-
+"6<(.$",-
+"&X",-
+"6{dW@",-
+"",-
+"m#",-
+
+// ground truth 
+concat(<num>,concat(<low>,<cap>))

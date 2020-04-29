@@ -1,0 +1,14 @@
+// example 
+"",+
+"oyo@&DY1P",+
+"G10D",+
+"nDr{b`m",+
+"_$N~Y",+
+"X,F}-w",+
+"Ys[pdPE.",+
+"cc",+
+"zA)",+
+"A",+
+
+// ground truth 
+or(star(<any>),not(<num>))

@@ -1,0 +1,25 @@
+// example 
+"iPY",+
+"iA",-
+"o",-
+"oq)y",+
+"eiIOu",-
+"oAio",-
+"D^",+
+"ui6X\",+
+"c",+
+"",+
+"wz",+
+"o~/S",+
+"eiIOU",-
+"is7",+
+"k)Mkk",+
+"H",+
+"OuA",-
+"oAiO",-
+"I",-
+"ie",-
+"Ouu",-
+
+// ground truth 
+not(repeatatleast(<vow>,1))

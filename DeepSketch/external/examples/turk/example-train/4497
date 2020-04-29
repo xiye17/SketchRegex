@@ -1,0 +1,17 @@
+// example 
+"/i!",-
+"}MM3",-
+"qm`FB",-
+"xpU",+
+"",-
+"}",-
+"}~E",-
+"xpE",+
+"}3",-
+"6",-
+"+8Y}i",-
+"i=EK",-
+"v7",-
+
+// ground truth 
+concat(<low>,concat(<any>,<vow>))

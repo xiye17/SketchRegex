@@ -1,0 +1,26 @@
+// example 
+"pBC",+
+"$aG",+
+"m[Msc",-
+"g"iO",+
+"_"YnN",+
+",_|m",-
+"|A~%UxV",+
+"g[nX",+
+"_"tOZ",+
+"|kl_sY",+
+"|klY)x",+
+"|A~%mH3",+
+"",-
+"|",-
+"o:{",-
+",_|K",-
+"J",-
+"o:1",-
+"m[Ms~",-
+"}L",-
+"mZ",+
+"}{",-
+
+// ground truth 
+contain(repeatatleast(concat(<low>,<cap>),1))

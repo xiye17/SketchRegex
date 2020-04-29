@@ -1,0 +1,16 @@
+// example 
+";",-
+"&BL-^",-
+"6'rb",-
+"[=y"",-
+"%"",-
+"c!q",-
+"*3h",-
+"bT+gi",-
+"7A",+
+"",-
+")",-
+"Ap",-
+
+// ground truth 
+concat(<num>,or(<cap>,<any>))

@@ -1,0 +1,15 @@
+// example 
+"GRFy",-
+"!*&9$",-
+"8k",-
+"MM%",-
+"w",-
+"!",+
+"!zG",-
+"0YEpT",-
+"!K|N",-
+"",-
+"!J",-
+
+// ground truth 
+and(repeatatleast(<m0>,1),or(or(<m1>,<any>),<low>))

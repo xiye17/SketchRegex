@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+endwith(contain(and(<m0>,<num>)))

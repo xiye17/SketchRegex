@@ -1,0 +1,26 @@
+// example 
+"o*y5",+
+"fbQ"1",+
+"F",-
+"uG9",+
+"fb8F7",+
+"w#$1|.:",+
+"u",-
+"x#",-
+"xX",-
+"{5!",-
+"",-
+"(Jx",-
+"#{z'",-
+"dhQ$/",-
+"k5",+
+"w#$F1FE",+
+"c#&6V4",+
+"o7ze",+
+"c#&/4P",+
+"u3K",+
+"dhQ$=",-
+"|Ocs",-
+
+// ground truth 
+concat(<low>,contain(repeatatleast(<num>,1)))

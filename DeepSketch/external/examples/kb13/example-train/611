@@ -1,0 +1,25 @@
+// example 
+"jigmF",-
+"eV6",-
+"-"?",+
+"gYLLm",+
+"u/K",-
+"qpdg",+
+"]&To",-
+"-"L",+
+"a",-
+"",+
+"^k",+
+"]&Ti",-
+"g",+
+"gYLL^",+
+"i",-
+"jEk<n",-
+"^P",+
+""O",-
+"x",+
+"qpdQ",+
+""I",-
+
+// ground truth 
+not(contain(<vow>))

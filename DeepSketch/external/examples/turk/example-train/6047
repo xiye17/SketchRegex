@@ -1,0 +1,17 @@
+// example 
+"s",-
+"a!U",-
+"T-t&",-
+"isP"i",-
+"aAFd>",-
+"",-
+"g",-
+"?f",-
+"i",+
+"mao",-
+"pS?'",-
+"u",+
+"cg",-
+
+// ground truth 
+or(or(<vow>,<cap>),<m0>)

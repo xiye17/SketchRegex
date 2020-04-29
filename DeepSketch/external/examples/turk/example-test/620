@@ -1,0 +1,25 @@
+// example 
+"E",+
+"A}*P",+
+"OK",+
+"Eujhg-",-
+"O{",+
+"Il",-
+"J]1t",+
+"Ek>I5",-
+"A7V",+
+"",+
+"I2(6H",+
+"f",+
+"W}7",+
+"ok",-
+"ofv",-
+"ei5{",-
+"Ukp\",-
+"I~2;$",+
+"UnwQQZ",-
+"ieaAz",-
+"Eh&",-
+
+// ground truth 
+not(startwith(concat(<vow>,<low>)))

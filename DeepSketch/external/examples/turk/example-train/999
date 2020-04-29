@@ -1,0 +1,25 @@
+// example 
+"mG",-
+"GqNNB",-
+"mL",-
+"/bq",-
+"U",+
+"/bg",-
+"e<D",+
+"HrGG",-
+"",-
+"b",-
+"fI1}",+
+"GqNNc",-
+"h",-
+"7",+
+"fHN9",+
+"bE",+
+"HrG<",-
+"uG",+
+"Ak!",+
+"r^f94",+
+"r^fRa",+
+
+// ground truth 
+contain(or(or(<vow>,<m0>),<num>))

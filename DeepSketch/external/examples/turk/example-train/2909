@@ -1,0 +1,14 @@
+// example 
+"",+
+"g0#^",+
+"Sa^,1",+
+"x70Y#t\0",+
+"F",+
+"MLv",+
+"*sS/sz]vd",+
+"#irA+C",+
+"qQ{[c^R",+
+":t",+
+
+// ground truth 
+contain(star(concat(<m0>,<num>)))

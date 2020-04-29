@@ -1,0 +1,25 @@
+// example 
+"F",-
+"g{xix",+
+"Rx",+
+"UIpa8s",+
+"h~`8",-
+"`W`t$",-
+"BQZ",-
+"~fkO8",-
+"C'xa",+
+"W0",-
+"",-
+">(EF",-
+"&",-
+"t{x",+
+"jl",+
+"g{x5r",+
+"C'{s",+
+"UIpawa",+
+"BQ|",-
+"W|",-
+"t+s",+
+
+// ground truth 
+concat(<let>,endwith(<low>))

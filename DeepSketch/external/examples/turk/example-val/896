@@ -1,0 +1,14 @@
+// example 
+"",+
+"Cy[5zn0m",+
+"D",+
+"h{vN",+
+"iNtA\S@+0",+
+"Mg",+
+"mIE0-%d",+
+"l>p",+
+"^X_iD",+
+",@G>4n",+
+
+// ground truth 
+contain(not(or(<let>,<m0>)))

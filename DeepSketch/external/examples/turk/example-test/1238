@@ -1,0 +1,25 @@
+// example 
+"D!d",+
+"ULIq",+
+"oL",+
+"+J",-
+"U",+
+"W",-
+"!Z%U",+
+"&",-
+"",+
+"CZ!F6",+
+"UQ`en",+
+"~=FK",-
+"Z~?}Z",-
+"+~",-
+"O",+
+"DFE",+
+"IQ",+
+"~=F.",-
+"Z~?}1",-
+"GMB",-
+"GM~",-
+
+// ground truth 
+star(contain(or(or(<vow>,<low>),<m0>)))

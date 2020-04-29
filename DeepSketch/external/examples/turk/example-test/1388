@@ -1,0 +1,25 @@
+// example 
+"\qw",-
+"HN",-
+"iIO]Exiqe*Os",+
+"aKl9&",-
+"O0eqO{IT",+
+"A|I#ub",+
+"O0eqO{U5",+
+"",-
+"A|I#O>",+
+"ITaga`abOv",+
+"I1u`a]e)U6UpE#",+
+"iIO]Exiqe*Ei",+
+"O",-
+"jp",-
+"ITaga`abIE",+
+"FO7p",-
+"H",-
+"(y*",-
+"M>r!\",-
+"I1u`a]e)U6Upov",+
+"MQph",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<any>),3)

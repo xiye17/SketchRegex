@@ -1,0 +1,25 @@
+// example 
+"r",-
+"L>\6r",-
+"U}^",-
+"I.hLG?",+
+"E#!\N",+
+"Ew",+
+"e^L/",+
+"o{",-
+"e",-
+"",-
+"EZ",+
+"g]{O",-
+"U}>",-
+"e^bM",+
+"o/",-
+"o^w",+
+"E#!\n",+
+"of\",+
+"I.|<]a",+
+"S-R`(",-
+"s%_y",-
+
+// ground truth 
+concat(<vow>,contain(<let>))

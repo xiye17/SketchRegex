@@ -1,0 +1,25 @@
+// example 
+"JOf",+
+"gdozS{",+
+"{bMOn",+
+"{bMor",+
+"iCIHA",-
+"rAUf",+
+"ur",+
+"oUD",-
+"e",-
+"",-
+"oUF",-
+"gdoPep",+
+"Jue",+
+"eUNT",-
+"UP",-
+"ix",+
+"i",-
+"eUNd",-
+"rAAl",+
+"iCIHn",-
+"UM",-
+
+// ground truth 
+contain(concat(<vow>,<low>))

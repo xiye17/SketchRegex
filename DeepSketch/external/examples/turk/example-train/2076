@@ -1,0 +1,26 @@
+// example 
+"r",-
+"!13Sv",-
+"*e*JYFNQO!!",+
+";;r",-
+"wVUAEUT]!!",+
+"m`QCSZCQ1!s!",+
+"(+#3",-
+"*e*JYFNQO{!",+
+"].PTOHIN!",+
+"(+#x",-
+"]BUICHP!!",+
+"",-
+"OVNYJN!",+
+"!13SD",-
+"HAXEQH*!",+
+"O+",-
+"OT",-
+";;>",-
+"wV4ADZBYT!",+
+">",-
+"HAXEQH!!",+
+"m`QCzHAEPPE!",+
+
+// ground truth 
+concat(contain(repeatatleast(<cap>,6)),<m0>)

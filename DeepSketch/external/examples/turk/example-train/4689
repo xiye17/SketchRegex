@@ -1,0 +1,17 @@
+// example 
+"h2",-
+"sA",-
+"i;8",-
+"iV",+
+"i:C+a",-
+"",-
+"TnD?",-
+"7MC"",-
+"iuy",-
+"if",+
+"ilg+8",-
+"I",-
+"H",-
+
+// ground truth 
+concat(<vow>,<let>)

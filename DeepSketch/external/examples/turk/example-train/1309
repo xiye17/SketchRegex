@@ -1,0 +1,16 @@
+// example 
+"}",-
+"},q",-
+"3",-
+"7VI",-
+"=t/_9",-
+"oq",-
+"7Y",-
+"u!`|",-
+"ueP)",-
+"n!",+
+"",-
+"~4/rh",-
+
+// ground truth 
+and(concat(<low>,<m0>),startwith(<let>))

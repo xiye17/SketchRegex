@@ -1,0 +1,14 @@
+// example 
+"",+
+"MlNX<",+
+"sQO'6N#iq",+
+"i",+
+"39JQ1a",+
+"<cUN'E#M",+
+"gVM$Bn`",+
+"vk(?",+
+"T,",+
+"Tx6",+
+
+// ground truth 
+not(and(concat(<cap>,<let>),<any>))

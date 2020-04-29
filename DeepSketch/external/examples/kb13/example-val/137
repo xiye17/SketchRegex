@@ -1,0 +1,18 @@
+// example 
+"p",+
+"h\WLynj;%hgJ",-
+"ovY}=",-
+"rPFh^o~kq",-
+"3UEcJS2zsA|"^",-
+"WJjLn$"5",-
+"t)7SSIY|[G",-
+"^aK",+
+"",+
+"7LXe&v+",-
+"A2f_V^KDRrM",-
+"`L_/",-
+"2c",+
+"[.0`z%",-
+
+// ground truth 
+not(contain(repeatatleast(<any>,4)))

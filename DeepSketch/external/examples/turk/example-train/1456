@@ -1,0 +1,17 @@
+// example 
+"^M",+
+"RyQum",+
+"mrES",+
+"%Cg3P",+
+"h)>",+
+"",+
+"hfI",+
+"|G=5",+
+"h",+
+"tt",-
+"C",+
+"Zc",-
+"r5",+
+
+// ground truth 
+not(concat(<let>,<low>))

@@ -1,0 +1,25 @@
+// example 
+"NlGojZIEcX",+
+"S1pOZ",-
+"NlGojZIEcj",+
+"5",-
+"SOb~b",-
+"]#",-
+"iIFjFCpj",+
+"",-
+"\-(",-
+"f!",+
+"}!.w",-
+"tDXXplL",+
+"GKIPNATNe",+
+"}7a`",-
+"iIFjFCpT",+
+"{",-
+"\!P",-
+"\!",+
+"tDXXply",+
+"GKIPNATNW",+
+"'$",-
+
+// ground truth 
+or(repeatatleast(<let>,7),concat(<any>,<m0>))

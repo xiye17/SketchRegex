@@ -1,0 +1,25 @@
+// example 
+"aANco5",+
+"!p!WB4Ae",+
+"t!",-
+"RV!",-
+"!!!=\",-
+"RV[",-
+"hUIX",+
+"!",-
+"!p!n_J`$",+
+"",-
+"`",-
+"t@",-
+"bGxdk{Z",+
+"!!-V3",-
+"bGxN&V.",+
+"aAN!fg",+
+"Rpmf@",+
+"/C9%",-
+"hUId",+
+"Rpm!k",+
+"!_k~",-
+
+// ground truth 
+startwith(repeatatleast(or(<let>,<m0>),4))

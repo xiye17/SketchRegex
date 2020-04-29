@@ -1,0 +1,17 @@
+// example 
+"MNc4",-
+"#*w)[",-
+"FH29",-
+"",-
+"c",-
+"u7",+
+"a;#",-
+"E2",+
+"e*",-
+"a(9",-
+"C",-
+"el",-
+"a'n`g",-
+
+// ground truth 
+concat(and(<vow>,<any>),<num>)

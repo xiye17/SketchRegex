@@ -1,0 +1,15 @@
+// example 
+"fZu~",+
+"S(5t,",+
+"Mk",+
+"w1gtp@qS",+
+"S",+
+"V`Apy#A:L",+
+"H@mC#[",+
+"/Ftu9+B",+
+"/RW",+
+"qKB&tjw0)5",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<cap>),<m0>))

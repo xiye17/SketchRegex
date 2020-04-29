@@ -1,0 +1,24 @@
+// example 
+"E",+
+"[",-
+">PxDz",-
+"`*m|-",-
+"dJkAm",+
+"Fup",+
+"_jB{",-
+"dJkAY",+
+"QMoE",+
+"RO",+
+"{e",-
+"",+
+"<'",-
+"#4F4",-
+"V_J",-
+"V,c",-
+"FuE",+
+"QMoj",+
+"Rc",+
+"z",-
+
+// ground truth 
+and(not(<low>),star(<let>))

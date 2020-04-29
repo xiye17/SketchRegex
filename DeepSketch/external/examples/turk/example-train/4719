@@ -1,0 +1,25 @@
+// example 
+"PeNeKINUXOMu",+
+"q",-
+"REAOYiCALOIoLe",+
+"LeKILECiLIZUBOZAKOVi",+
+"UF7",-
+"7ol",-
+"RaAno",-
+"",-
+"seQa",-
+"]5",-
+"Ra-a.",-
+"TuOOXiLaDoCUPuZEEo",+
+"TuOOXiLaDoCUPuZEEi",+
+"S",-
+"PeNeKINUXOMi",+
+"3XPJ",-
+"LUQeOIVeNuXoQUVe",+
+"LeKILECiLIZUBOZAKOVU",+
+"%e",-
+"REAOYiCALOIoLU",+
+"LUQeOIVeNuXoQUVa",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<vow>),6)

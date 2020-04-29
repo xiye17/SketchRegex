@@ -1,0 +1,16 @@
+// example 
+"nuW?;",-
+"}^",-
+"iK",+
+"}LY",-
+"=",-
+"im[c",-
+"Jiw",-
+"?*",-
+"\:E<m",-
+"l",-
+"~-p7",-
+"",-
+
+// ground truth 
+concat(and(<let>,<low>),<any>)

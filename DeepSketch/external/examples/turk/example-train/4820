@@ -1,0 +1,26 @@
+// example 
+"YRYZFJL",-
+"L\1y^",+
+"vy5]",+
+"Gu^|~lRGBCUC",-
+"Gu^|~GXiDXSE",-
+"Y+4DgFNyLHG",-
+"Y[",+
+">:",+
+"-$~'S",+
+"",+
+"P]SLHPFE",-
+"d",+
+"UzS~SXOLD",-
+"9",+
+"P2QYFUNF",-
+"Y+4Dg]WKRYR",-
+"^mE",+
+"=uw",+
+"Qa3&MCIGAB",-
+"Qa3mOFDMZZ",-
+"/>X0",+
+"Uz<DYFJXT",-
+
+// ground truth 
+not(repeatatleast(startwith(<cap>),7))

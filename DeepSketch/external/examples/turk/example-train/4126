@@ -1,0 +1,24 @@
+// example 
+"S6&",+
+"VCW`",+
+"FUSZNT",-
+"Y",-
+"WY",-
+"JQFBSKH",-
+"D)",+
+"8T7J[",+
+"SESOBGRR",-
+"VCW/",+
+"",-
+"NNW",-
+"SUd",+
+"YDXDUGYJI",-
+"ATVY",-
+"Dv",+
+"MG`y1",+
+"JCDDX",-
+"=",+
+"{",+
+
+// ground truth 
+contain(not(star(<cap>)))

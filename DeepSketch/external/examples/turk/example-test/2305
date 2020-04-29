@@ -1,0 +1,17 @@
+// example 
+"l(t0'",-
+"ZY",+
+";9n",-
+"Nn",-
+"l]Z\W",-
+"",-
+"!Y,",-
+"P",-
+"iK",+
+"8",-
+"\U",-
+"|5*h",-
+"!wbi",-
+
+// ground truth 
+concat(or(or(<let>,<m0>),<low>),<cap>)

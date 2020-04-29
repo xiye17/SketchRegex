@@ -1,0 +1,25 @@
+// example 
+"UY",+
+"B/r",+
+"2Nn4",-
+"F",+
+"{$",-
+",E0",-
+"_cB",-
+"l",+
+"w"1",+
+"l*Jia",+
+"1,",-
+"",-
+"YE$_",+
+"}",-
+"=",-
+"~G@p5",-
+"p:",+
+""*S0e",-
+"||3P",-
+"ceST",+
+"CaYA9",+
+
+// ground truth 
+and(contain(<any>),startwith(<let>))

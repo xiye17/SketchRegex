@@ -1,0 +1,14 @@
+// example 
+"",+
+"WwD2;Zd",+
+"^,uES=Kv",+
+"N.Wk",+
+"{<mA3w",+
+"1u]'P",+
+"YF",+
+"o(Y",+
+"BRWYt{<|p",+
+"+",+
+
+// ground truth 
+not(and(and(<cap>,<m0>),<low>))

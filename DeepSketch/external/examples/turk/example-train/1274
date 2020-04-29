@@ -1,0 +1,26 @@
+// example 
+"D",+
+"BJG8I",+
+"iBT",-
+"UKq^",+
+"o",-
+"2>*",-
+"}=;YJ",-
+"KaX%=W",+
+"~9",-
+"/(}L",-
+"Um_I",+
+"",-
+"'",-
+"Di",-
+"W<",+
+"Xy!",+
+"XAa",+
+"BU+pa",+
+"Kpsq7"",+
+"6Y%<f",-
+"]4:1",-
+"W|",+
+
+// ground truth 
+concat(<cap>,not(<vow>))

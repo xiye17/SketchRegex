@@ -1,0 +1,15 @@
+// example 
+"[",-
+"y@2+w",-
+"Bl_M",-
+"76",-
+"-aG",-
+"B4uJ",-
+"7{",-
+"k@",+
+"y+1rn",-
+"",-
+"-?R",-
+
+// ground truth 
+concat(or(or(<m0>,<any>),<vow>),<m1>)

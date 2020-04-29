@@ -1,0 +1,26 @@
+// example 
+"i@",-
+"q2@",+
+"xU^&",-
+"qv0",+
+"`@1jS",-
+"b#35{PP",+
+"w+3B",+
+"fD-%3",+
+"fD-J1",+
+"{5mv=",-
+"f5",+
+"w+E1",+
+"",-
+"xU^v",-
+"l,G"r5",+
+"Q",-
+"x(i",-
+"b#^)G)4",+
+"{YK",-
+"v",-
+"l,G5NS",+
+"i,",-
+
+// ground truth 
+concat(<low>,contain(<num>))

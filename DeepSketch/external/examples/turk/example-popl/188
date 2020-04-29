@@ -1,0 +1,18 @@
+// examples
+"!!!!!!!",+
+"!!!!!!!!",+
+"aaaaaaaa",+
+"aaaaaaa",+
+"a!e!iou!",+
+"aeiou!!",+
+"AEIOU!ae",+
+"",-
+" ",-
+"a",-
+"1",-
+"!!!!!!",-
+"aeioua",-
+"AEIOU!",-
+
+// ground truth 
+repeatatleast(or(<vow>,<m0>),7)

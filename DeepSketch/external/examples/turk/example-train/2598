@@ -1,0 +1,15 @@
+// example 
+"^WH",-
+"a\&g=",-
+"^-{",-
+""FfI",-
+"S>",-
+"rD",+
+"a"<}w",-
+"S[",-
+"y",-
+""012",-
+"",-
+
+// ground truth 
+concat(or(<low>,<any>),<cap>)

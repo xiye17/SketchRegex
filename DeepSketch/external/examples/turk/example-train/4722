@@ -1,0 +1,25 @@
+// example 
+"s!K",+
+"t!",+
+"A!R",+
+"|Lcs",-
+"l!fV",+
+"H!CQn",+
+"k!9l*",+
+"7Pz",-
+"S:",-
+"G3U",-
+"",-
+"D!",+
+"_c",-
+"j8}=H",-
+"g!dK4t",+
+"U",-
+"Z!uv",+
+"ZWnm[",-
+"^_t~",-
+"E!)!3)",+
+"~",-
+
+// ground truth 
+startwith(concat(<let>,<m0>))

@@ -1,0 +1,17 @@
+// example 
+"bHo/A",+
+"!cO3*i",+
+"l",+
+"!`5",+
+"n0En",+
+"!3'?",+
+"!",+
+"&zBJXv",+
+"",-
+"!L",-
+"/W",+
+"a<p",+
+"!-Kdu",+
+
+// ground truth 
+concat(not(<m0>),<any>)

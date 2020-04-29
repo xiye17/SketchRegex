@@ -1,0 +1,17 @@
+// example 
+"^3NO",-
+"iX",+
+"!c$",-
+"!z",-
+"}V6FN",-
+"!L",+
+"",-
+"|",-
+"!c+}",-
+"9",-
+"PZtzR",-
+"!2",-
+"!&I",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<let>),<cap>)

@@ -1,0 +1,25 @@
+// example 
+"v!y!d!e!e!",+
+"S!}{",-
+"x!k3Y!f!r!K!",+
+"M!mZ!C!P!T!",+
+"M|",-
+"L!|n}W!y!k!y!",+
+"S!}r",-
+"",-
+"Q!1",-
+"x!k3Y!f!r!o!",+
+"v!y!d!e!W!",+
+"A!`{{^O!u!X!X!",+
+"A!`{{^O!u!X!c!",+
+"\Aey`",-
+"M",-
+"M!mZ!C!P!k!",+
+"\V",-
+"L!|n}W!y!k!X!",+
+"Q![",-
+"8f{FW",-
+"~",-
+
+// ground truth 
+repeatatleast(startwith(concat(<let>,<m0>)),5)

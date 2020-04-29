@@ -1,0 +1,25 @@
+// example 
+"e!",+
+"iiT!",+
+"BU!",+
+"{a!I!!",+
+"cE",-
+"cO",-
+"TI.",-
+"BE!",+
+"e",-
+"u!!N",-
+"",-
+"U!",+
+"Hu!-W",-
+"h",-
+"u!47",-
+"e9!!!",+
+"TDE",-
+"ii!!",+
+"{a!IG!",+
+"e9!_!",+
+"Hu!!.",-
+
+// ground truth 
+and(contain(<vow>),endwith(<m0>))

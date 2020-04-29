@@ -1,0 +1,24 @@
+// example 
+"_o",-
+"o&F",-
+"S^`7",-
+"a.MdtjPD",+
+"5|W^lRxVP",+
+"`h`9t",-
+"S^`|",-
+"",-
+"a.MdtjPs",+
+">WGfrn",+
+"AYtSVhZ",+
+"`h`9;",-
+"AYtSVhr",+
+"<|E~kXlQsX",+
+"R",-
+"5|W^lRxVn",+
+"_~",-
+"<|E~kXlQse",+
+"o&_",-
+">WGfrA",+
+
+// ground truth 
+concat(endwith(<any>),repeatatleast(<let>,5))

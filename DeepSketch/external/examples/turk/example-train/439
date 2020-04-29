@@ -1,0 +1,17 @@
+// example 
+"q",+
+"UD",+
+"^UN4",+
+"i2SQ",+
+"ak;",+
+"Mm",+
+"",+
+"uq;pI",+
+"f",+
+"cL3",+
+"U",-
+"K0fnO",+
+"I",-
+
+// ground truth 
+or(not(<vow>),concat(<cap>,<any>))

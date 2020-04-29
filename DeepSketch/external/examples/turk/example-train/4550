@@ -1,0 +1,25 @@
+// example 
+"2u3e5a9i9O",+
+"%j",-
+"0cCX",-
+"2E6O0o1e7i3O",+
+"lO",-
+"2u3e5a9i9e",+
+"9Ke?l",-
+"6a4o1A4A8E2o2A",+
+"7u4e7i0u2U5U6E8E",+
+"-",-
+"",-
+"Oep",-
+"7u4e7i0u2U5U6E8A",+
+",?r",-
+"0{r;",-
+"1o5O8A7A7i1I0E2o5o",+
+"9n/X'",-
+"6a4o1A4A8E2o2O",+
+"1o5O8A7A7i1I0E2o5E",+
+"z",-
+"2E6O0o1e7i3e",+
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),5)

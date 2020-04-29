@@ -1,0 +1,25 @@
+// example 
+"{_J!",+
+"a2?0m",-
+"3BQ.",+
+"mqXR",-
+"U]",-
+"]poTP",+
+"`",+
+"W",-
+"N%O*}",-
+"^!y",+
+"b",-
+"",+
+"8",+
+"mh",-
+"3O",+
+"seY",-
+"PoZ",-
+"~s,re",+
+"}kq",+
+"CFxY",-
+"\X",+
+
+// ground truth 
+not(startwith(<let>))

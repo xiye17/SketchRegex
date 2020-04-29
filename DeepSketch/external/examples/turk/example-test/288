@@ -1,0 +1,25 @@
+// example 
+"Oz^0^z",+
+"P6^r)j~h9H",+
+"x`$Z",-
+"J*l",+
+"\9S>W",-
+"Ps-TU#*s/",+
+"",-
+"4]}D",-
+"H_0]"w\c",+
+"B|U2z%_",+
+"XGvF",+
+"<R",-
+"j",-
+"7",-
+"9&Szx",-
+"Ao&EV",+
+"q)",-
+"R6",+
+"%}j",-
+"p*<",-
+"Oe'-o!rVA@+",+
+
+// ground truth 
+concat(<cap>,endwith(<any>))

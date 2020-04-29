@@ -1,0 +1,25 @@
+// example 
+"!1",+
+"o^gG+",+
+"&k&",-
+"n|k",-
+"oG",+
+"a",+
+"iml",+
+"m",-
+"!",+
+"",-
+"^.q@]",-
+"g",-
+"l\",-
+"^+wU",-
+"nGu+",-
+"14",-
+"YZK7",+
+"a`P",+
+"i~uu",+
+"u@W3`",+
+"kuKy[",-
+
+// ground truth 
+startwith(or(or(or(<m0>,<vow>),<cap>),<m1>))

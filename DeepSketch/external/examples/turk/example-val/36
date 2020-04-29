@@ -1,0 +1,16 @@
+// example 
+"",+
+"hH",+
+"{&7?X",+
+"OldFW",+
+"|i3",+
+"u",-
+"}T\b",+
+":y/0",+
+"V",+
+"7e",+
+"y#0",+
+"|",+
+
+// ground truth 
+or(not(<low>),concat(<m0>,<let>))

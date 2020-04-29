@@ -1,0 +1,25 @@
+// example 
+"IEIMU",-
+"eU^UmMiUE",+
+"HAEooIC",+
+"IEIME",-
+"efpOeuII",+
+"EGd",-
+"eiaP",-
+"AQgSaRAeOM",+
+"e",-
+"iAIIIo",+
+"",-
+"efpOeuIE",+
+"P",-
+"jo",-
+"AQgSaRAeOT",+
+"eiae",-
+"iAIIIU",+
+"eU^UmMiU$",+
+"EGB",-
+"jI",-
+"HAEooIn",+
+
+// ground truth 
+concat(repeatatleast(endwith(<vow>),5),<any>)

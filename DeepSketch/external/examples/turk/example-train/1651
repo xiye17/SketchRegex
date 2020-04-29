@@ -1,0 +1,19 @@
+// example 
+"?D",+
+"9t.g;dl",-
+"Q}|^Z&-w",-
+"n",+
+",=tQ6qfkH",-
+"=uM$UR=iFT(}",-
+"ui-(K",-
+"#)3ch;ep'qE",-
+"(&4",+
+"rlKx",+
+"",+
+":><yuI(<36!s4",-
+"F1E!C;[>8Zs4Ef",-
+"*c>O1Jkser",-
+"n#BMcR",-
+
+// ground truth 
+not(repeatatleast(<any>,5))

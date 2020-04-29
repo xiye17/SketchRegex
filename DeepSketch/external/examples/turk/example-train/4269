@@ -1,0 +1,14 @@
+// example 
+"",+
+"!QH",+
+"8",+
+"f1=-w$W9",+
+"_"es|_w",+
+"FtN!",+
+")@0!\5",+
+"@U",+
+"pKr6T",+
+"ISjwA@~$+",+
+
+// ground truth 
+contain(not(concat(<any>,<low>)))

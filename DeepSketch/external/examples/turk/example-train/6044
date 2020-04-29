@@ -1,0 +1,14 @@
+// example 
+"",+
+"f<IJG{8d]",+
+"7",+
+"-Q\}!",+
+"/C/",+
+"jz[E",+
+"^U~)t2",+
+")~cn?y2^",+
+"@o",+
+")41ZET0",+
+
+// ground truth 
+not(and(and(<m0>,<low>),<let>))

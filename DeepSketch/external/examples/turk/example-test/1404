@@ -1,0 +1,25 @@
+// example 
+"eSg",-
+"r;%t&HJHUy",+
+"[",-
+"%E~ibGAGZ",+
+"xcRATKU",+
+"~-)N#TpGLpJ",+
+":b~{",-
+"%E~ibGAGo",+
+"~-)N#TpGLpt",+
+"xcRATKh",+
+"{deGiRzI",+
+"H_",-
+"",-
+"H&",-
+"v9}=H",-
+"}",-
+"eSD",-
+"{deGiRzr",+
+":b~[",-
+"v9}=-",-
+"r;%t&HJHUG",+
+
+// ground truth 
+repeatatleast(contain(<let>),7)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"N"Su!",+
+"sXv~SyU"",+
+"[",+
+"=qHO",+
+"iL+",+
+"q@",+
+"Aq3$*Y(a]",+
+"$A4Pv#",+
+"Ip,k]J4",+
+
+// ground truth 
+contain(not(and(<m0>,<let>)))

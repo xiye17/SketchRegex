@@ -1,0 +1,15 @@
+// example 
+"",+
+"!B~R",+
+"%,R",+
+"Jm",+
+"k",+
+"!qP%E",+
+"w"Y3",+
+"!",-
+"3O=?A",+
+"!Dm",+
+"!,",+
+
+// ground truth 
+or(not(<m0>),repeatatleast(<num>,1))

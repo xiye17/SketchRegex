@@ -1,0 +1,15 @@
+// example 
+"G/%Pgh*",+
+"Y",+
+"<E",+
+":Wy^o",+
+"W)L",+
+"E6aB!3ZQi",+
+">s)l",+
+"wzKt0s",+
+"",-
+"V1I@yB4Z",+
+"Y:(8X)OOEs",+
+
+// ground truth 
+contain(or(or(<any>,<cap>),<num>))

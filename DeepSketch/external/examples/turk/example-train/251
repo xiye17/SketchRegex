@@ -1,0 +1,25 @@
+// example 
+"S!.)F",+
+"Z!]v",+
+"Dp",-
+"X!6k'nJ6<6",+
+"X",-
+"Jg&",-
+"T!7",+
+"Qqg/",-
+"Y!",+
+"",-
+"'",-
+"Z!3!YJ!RJXY",+
+""PO:B",-
+"A!<X+-kDK",+
+"W!EjQ;p'",+
+"L!eKkb",+
+"q-",-
+"`{ge*",-
+"-Imt",-
+"P!:omCP",+
+"04>",-
+
+// ground truth 
+startwith(concat(<cap>,<m0>))

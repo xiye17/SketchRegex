@@ -1,0 +1,25 @@
+// example 
+"BKAVRm",-
+"fHfWeNwb",-
+"DULXj",-
+"f^",+
+"VQPKDRW",-
+"n^3",+
+"RYWV",+
+"",+
+"rIzHvyDpX",-
+"RYWc",+
+"BKAVRJ",-
+"rIzHvyDpk",-
+"G^,A)",+
+"DULXR",-
+"O",+
+"VQPKDRy",-
+"fHfWeNwL",-
+"5",+
+"n~!",+
+"}z",+
+"Gr]JY",+
+
+// ground truth 
+not(repeatatleast(<let>,5))

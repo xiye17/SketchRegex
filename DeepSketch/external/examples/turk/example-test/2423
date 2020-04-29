@@ -1,0 +1,17 @@
+// example 
+"!/K:",-
+"7oz[",-
+"!gMB'",-
+"Y",-
+"!lm",-
+"d1",-
+"!",-
+"!tU",+
+"",-
+"!K",-
+"!gsp6",-
+"!tE",+
+"!lM",-
+
+// ground truth 
+concat(<m0>,concat(<any>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"FGENEUA\BR6.56+",+
+"MTCPVYXA2rTy",+
+"o",-
+"<b",-
+"ft",-
+"X8gE",-
+"MVCTBEIMru",+
+"QXHFNWF/u&/Eyw",+
+"QJBNPKOn",+
+"CFVSUATdt$s|*",+
+"*",-
+"WOEBYHJ",+
+"",-
+"#,+",-
+"Bx>z5",-
+"AHFACHU`FDt",+
+"EXKWTEI8,js~u`i]",+
+"RLUSENSR4",+
+"X%$",-
+"7xV|o",-
+"XI#o",-
+
+// ground truth 
+startwith(repeatatleast(<cap>,7))

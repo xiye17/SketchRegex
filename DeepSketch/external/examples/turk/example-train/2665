@@ -1,0 +1,24 @@
+// example 
+"nOSEKMEIKB",+
+"yQZKGAJP",+
+"l*",-
+"p]ayO",-
+"p1f9Q",-
+"pCMKTV",+
+"",-
+"c",-
+")KIUCDKJAFVQ",+
+"vB[g",-
+"7VOJCQNUV",+
+"lH",-
+"RWv",-
+"oBUYDKLUPNN",+
+"Ru)",-
+",ZOFL",+
+"v*)H",-
+"[BKF",+
+""FORJCP",+
+"%EH",+
+
+// ground truth 
+concat(<any>,repeatatleast(<cap>,2))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"DX",+
+"E1*~6",+
+"$V8s",+
+""$q",+
+"6",+
+"i",+
+"XUI<",+
+"@",-
+"@7Z",+
+"@0bCM",+
+"';",+
+
+// ground truth 
+or(repeatatleast(<m0>,1),not(<m1>))

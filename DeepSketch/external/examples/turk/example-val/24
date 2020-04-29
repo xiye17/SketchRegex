@@ -1,0 +1,25 @@
+// example 
+"&K",-
+"K9L4t2T9r6",+
+"A5q0U4n7",+
+"J-d",-
+"V9",+
+"q1m4r4",+
+"unWA^",-
+"l",-
+"w3",+
+"i5a7",+
+"i5X0",+
+"",+
+"u*?u_",-
+"A5q0U4F4",+
+"K9L4t2T9J1",+
+"I'O9",-
+"nN",-
+"[l(Y",-
+"J`m",-
+"q1m4E8",+
+"~",-
+
+// ground truth 
+star(concat(<let>,<num>))

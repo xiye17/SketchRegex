@@ -1,0 +1,25 @@
+// example 
+"l%9",+
+"P79{R",+
+"1",-
+"RG",+
+"k",+
+"Ko'A",+
+"|fJ",-
+"W",+
+"~A=;Z",-
+"",-
+"5IoS",-
+"\R",-
+"yi",+
+":%",-
+"uWCtx",+
+"]RS",-
+"sYOe",+
+"By&",+
+"`-Bs",-
+"{",-
+"_]KbC",-
+
+// ground truth 
+startwith(or(concat(<low>,<m0>),<let>))

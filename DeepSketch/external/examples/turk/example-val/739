@@ -1,0 +1,25 @@
+// example 
+"E",+
+"t",-
+"}7U",-
+"oybBs",+
+"l",-
+"a9Qy",+
+"}-",-
+"up",+
+"j(0",-
+"",-
+"o?",+
+"^m;e0",-
+"R*",-
+"IrigN",+
+"Qx**",-
+"i",+
+"ePz",+
+"A@*L",+
+"Jw5y",-
+"IkS",+
+"MhbB/",-
+
+// ground truth 
+concat(startwith(<vow>),not(<any>))

@@ -1,0 +1,17 @@
+// example 
+"6eYs`",-
+"%R",-
+"mK.pQ",-
+"<y",-
+"",-
+"6D2-",-
+"$",-
+"3oP",+
+"0CX",-
+"6",-
+"oBg&",-
+"3ok",+
+"0o1",-
+
+// ground truth 
+concat(<num>,concat(<vow>,<let>))

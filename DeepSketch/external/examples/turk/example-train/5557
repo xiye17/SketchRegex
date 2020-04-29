@@ -1,0 +1,25 @@
+// example 
+"Ze1c7XXFfo",+
+"HP[(fro",+
+")ZMlu",-
+"E!",-
+"]Jk6",-
+"sIF_'",-
+"In'C#!",+
+"G6`zC~^*u/.Cr",+
+"!",-
+"LE^LT",+
+"U[tBK1v@7",+
+"",-
+")y.",-
+"J3:<[Rr&",+
+"m]d",-
+"S*3YcFAkAr7A",+
+"Cp'+Aehde\n",+
+"MW83",-
+"R",-
+"B&ax0@oDRGjTL4",+
+"9F",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,4))

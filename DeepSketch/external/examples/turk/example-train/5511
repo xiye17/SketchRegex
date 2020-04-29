@@ -1,0 +1,16 @@
+// example 
+"{c;c",-
+":n048",-
+"&Gu",+
+"_LH",-
+"{>1x",-
+"_Lb",-
+"&GI",+
+"@U",-
+"",-
+"`",-
+"@p",-
+":WPf#",-
+
+// ground truth 
+concat(<any>,concat(<cap>,<vow>))

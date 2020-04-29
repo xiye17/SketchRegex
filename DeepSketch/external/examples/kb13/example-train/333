@@ -1,0 +1,25 @@
+// example 
+"[",-
+"|~cH+2",+
+"_:8S",+
+"7M",+
+"#9",-
+"6\\5,",-
+"_:r9",+
+"Tn+G",-
+"",-
+"T46:.",+
+"6\\5~",-
+"@p7",+
+"|~cH0%",+
+"7n",+
+"#_",-
+"Tn+$",-
+"@K5",+
+"T46:h",+
+"|}`",-
+"{",-
+"|}$",-
+
+// ground truth 
+and(repeatrange(concat(star(notcc(<num>)),concat(<num>,star(notcc(<num>)))),1,5),contain(<let>))

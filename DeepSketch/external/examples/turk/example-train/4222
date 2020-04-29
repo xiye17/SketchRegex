@@ -1,0 +1,17 @@
+// example 
+"o6",-
+"e[0J<",-
+"ez",+
+"e!6O",-
+"em=g*",-
+".C",-
+"es;v",-
+"i^r",-
+"d",-
+"e",-
+"",-
+"qHa",-
+"eY",+
+
+// ground truth 
+concat(and(<low>,<vow>),<let>)

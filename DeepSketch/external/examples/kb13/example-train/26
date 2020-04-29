@@ -1,0 +1,25 @@
+// example 
+"h|~z",-
+"Avn7B",+
+"xudG",+
+"o",+
+"u[",+
+"d+R",-
+"VbqLd",-
+"D_",-
+"V",-
+"apI",+
+"",-
+"h|~c",-
+"Uiqqp",+
+"VbqLq",-
+"|",-
+"D{",-
+"e",+
+"d+H",-
+"DHA",+
+"xSEW",+
+"jI",+
+
+// ground truth 
+contain(concat(<vow>,star(<let>)))

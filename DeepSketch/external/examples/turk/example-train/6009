@@ -1,0 +1,25 @@
+// example 
+"bVDF",+
+"f1\Z",-
+"sSSJHEHQ",+
+"nGFANEBBZ",+
+"jh",-
+"wPJMI",+
+"e",-
+"",-
+"{|+5.",-
+"tIWIXDH",+
+"fPGNRDJBCVE",+
+"jZ",-
+"f]R;",-
+"qXDTZRYIMZ",+
+"h.K",-
+"}E`",-
+"C",-
+"e0%bX",-
+"uWBFZG",+
+"pLADYLJNNRGE",+
+"yJEWZVWHFGLMJ",+
+
+// ground truth 
+concat(<low>,repeatatleast(<cap>,3))

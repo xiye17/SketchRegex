@@ -1,0 +1,14 @@
+// example 
+"",+
+"fe",+
+"j[6;",+
+"vGd;Uv~*Q",+
+"X*H",+
+"b"+/^",+
+"5Zkr9&",+
+"*",+
+"ITN!(OK3",+
+"'1|G0v5",+
+
+// ground truth 
+not(and(<m0>,endwith(<low>)))

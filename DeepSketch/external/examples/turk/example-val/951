@@ -1,0 +1,17 @@
+// example 
+"eby",-
+"uY1",+
+"u",-
+"aSf%",-
+"e",-
+"",-
+"a[7A",-
+"isK<s",-
+"iKz",+
+"Uz",-
+"iUA^\",-
+"US",-
+"e)*",-
+
+// ground truth 
+concat(concat(<vow>,<cap>),<any>)

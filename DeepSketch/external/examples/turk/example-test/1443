@@ -1,0 +1,15 @@
+// example 
+"6*6",-
+"KH",-
+";$)A",-
+"K/",-
+";PQI",-
+"g@",+
+"K",-
+"kGrgT",-
+"k*.Y[",-
+"",-
+"6@;",-
+
+// ground truth 
+concat(or(or(<low>,<any>),<m0>),<m1>)

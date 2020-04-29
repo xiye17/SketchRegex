@@ -1,0 +1,26 @@
+// example 
+"iyHYGKG",+
+"~b|~:",-
+"i(ZNJXZ",+
+"UKKGAd",+
+"SAdGSJYO",+
+"F+6",-
+".n7SfBNQSS",+
+"^KI}",-
+"[^",-
+"SA+ATEPR",+
+"",-
+"&",-
+".n7SSOPMMW",+
+"uPZYNX",+
+"l3ZUFPRLC",+
+"U",-
+"F+g",-
+"l3ZaXBQFI",+
+"~b|~J",-
+"MIWLV",+
+"[J",-
+"^KI!",-
+
+// ground truth 
+contain(repeatatleast(<cap>,5))

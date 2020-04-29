@@ -1,0 +1,17 @@
+// example 
+"!Us",+
+".",-
+"!Oj",+
+"!",-
+"rmbS",-
+"!O{",-
+"!c5+",-
+"",-
+"!n9",-
+"!e",-
+"!IR#>",-
+"1(;%M",-
+"!g",-
+
+// ground truth 
+concat(concat(<m0>,<vow>),<low>)

@@ -1,0 +1,18 @@
+// examples
+"aj!",+
+"Bad!",+
+"SOMSOM4!ab",+
+"aSS345!67",+
+"sd3Aqw!",+
+"jdSS!",+
+"Saq!",+
+"a",-
+"31f",-
+"sd9",-
+"",-
+"daj8",-
+"sdd3",-
+"sd",-
+
+// ground truth 
+concat(star(<cap>),contain(<m0>))

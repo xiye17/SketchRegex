@@ -1,0 +1,17 @@
+// example 
+"L:H8$",+
+"Y",+
+"G",+
+"!*DB",+
+"Bc",+
+"!",-
+"I)f",+
+"Y!",+
+"|<W",+
+"",+
+"A5],K",+
+"JXmp",+
+"E",-
+
+// ground truth 
+not(or(or(<low>,<vow>),<m0>))

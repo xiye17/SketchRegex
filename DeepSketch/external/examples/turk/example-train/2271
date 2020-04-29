@@ -1,0 +1,15 @@
+// example 
+"[",-
+"#!jS",-
+"AK)WR",-
+"vM&",-
+"!!",+
+"!",-
+"J]",-
+"!Ic",-
+"!EeO^",-
+"",-
+"!%~B",-
+
+// ground truth 
+concat(<m0>,or(or(<any>,<m1>),<m2>))

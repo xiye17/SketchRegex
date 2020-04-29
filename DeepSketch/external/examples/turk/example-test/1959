@@ -1,0 +1,16 @@
+// example 
+"!#.Di",-
+"!T.",-
+"!#XwL",-
+"!E5",+
+"!",-
+"!T>",-
+"_",-
+">Ghn",-
+""(",-
+"!F"D",-
+"",-
+"!J",-
+
+// ground truth 
+concat(<m0>,concat(<any>,<num>))

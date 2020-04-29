@@ -1,0 +1,25 @@
+// example 
+"|.",-
+"s",+
+"zK#4@PUz}",+
+"g,)ubZ>,",+
+":5",-
+"hX",+
+"*",-
+"WCz$",-
+"E{pAj",-
+"r#e+`T}",+
+"",-
+"~#7",-
+"rj[D",+
+"~?/<L",-
+"')y",-
+"c0>",+
+"hfYyh)",+
+"};6R",-
+"wn{{j",+
+"{",-
+"fi{L9}hFq#",+
+
+// ground truth 
+repeatatleast(startwith(<low>),1)

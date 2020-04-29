@@ -1,0 +1,17 @@
+// example 
+"ob",+
+"u",-
+"e}",-
+"ar~E@",-
+"q",-
+"",-
+"oU",+
+"o]q",-
+"o}n",-
+"51sA",-
+"eO*~",-
+"e_",-
+"a,g2$",-
+
+// ground truth 
+concat(and(and(<low>,<vow>),<any>),<let>)

@@ -1,0 +1,25 @@
+// example 
+"d$1(",-
+"euaauauaeo",+
+"j)y",-
+"ui",-
+"l",-
+"oieiDiHe",+
+"aeououooi",+
+"uh",-
+"oieiDiHi",+
+"e{q",-
+"qTDS",-
+"uiiaGaa",+
+"",-
+"a",-
+"aeououooe",+
+"KoaeeP",+
+"Koaeei",+
+"idIxi",-
+"uiiaGau",+
+"euaauauaei",+
+"ihi[p",-
+
+// ground truth 
+repeatatleast(or(<vow>,<cap>),6)

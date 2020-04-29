@@ -1,0 +1,19 @@
+// example 
+"GL~/}{G8#gn",+
+"F",-
+"Q!i",-
+"Q0r5WrB",+
+"|0",-
+"kiSVu<C17w{u,q",+
+"@Q|81d:Ej6`{p",+
+"{;!cpr"$4Z",+
+"sUp~ssf'/BrF",+
+"45;O",-
+"^f'xlD",+
+"",-
+"[Qs)F",+
+"V:/rW[6ph",+
+"QHVder:K",+
+
+// ground truth 
+repeatatleast(or(<num>,<any>),5)

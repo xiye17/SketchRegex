@@ -1,0 +1,25 @@
+// example 
+"R)'",-
+"dayPXTUo",+
+"]9gc",-
+"SU",-
+"[",-
+"tiYrHyNuHEeA",+
+"T~<4",-
+"dayPXTUU",+
+"*",-
+"tnmoLmbUEa",+
+"S-",-
+"",-
+"^Hw3?",-
+"sDcSjuvFi",+
+"oewXQGFNFFi",+
+"tnmoLmbUEO",+
+"tiYrHyNuHEeO",+
+"RK|",-
+"sDcSjuvFa",+
+"{QE}a",-
+"oewXQGFNFFI",+
+
+// ground truth 
+concat(repeatatleast(<let>,7),<vow>)

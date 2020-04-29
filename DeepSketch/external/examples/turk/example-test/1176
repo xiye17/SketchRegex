@@ -1,0 +1,16 @@
+// example 
+"!6",-
+"R6Y",-
+"XP%dT",-
+"!K6>T",-
+"!Z6",+
+"!eD",-
+"+",-
+"!",-
+"!}",-
+"",-
+"!Wh,",-
+"!a-D",-
+
+// ground truth 
+concat(<m0>,concat(<cap>,<num>))

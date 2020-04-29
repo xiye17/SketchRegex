@@ -1,0 +1,25 @@
+// example 
+"F",-
+"p!9L",+
+"CIM=!",+
+"a]",+
+"o",+
+"CIM!h",+
+"Du",-
+"a",+
+"G5&_J",-
+"",-
+"gK58",-
+"Gbg}",-
+"f!",+
+"p]!Z",+
+"{!2",+
+"t(",-
+"ex1",+
+"z",-
+"KRr",-
+"Y\D09",-
+"C44",-
+
+// ground truth 
+or(startwith(<vow>),contain(<m0>))

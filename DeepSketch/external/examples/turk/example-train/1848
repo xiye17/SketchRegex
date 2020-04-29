@@ -1,0 +1,25 @@
+// example 
+"r",-
+"\",-
+"N!C!N!q!S!c!",+
+"i!z!C!i!x!",+
+"R!Q!x!Z!y!L!J!",+
+"(#d",-
+"~+S;w",-
+"NT",-
+"",-
+"Y!S!B!w!",+
+"N!C!N!q!S!Q!",+
+"N!",-
+"rei?",-
+"i!z!C!i!R!",+
+"Y!S!B!M!",+
+"G!c!Q!",+
+"R!Q!x!Z!y!L!x!",+
+"~~$",-
+"r!=@",-
+"G!c!m!",+
+"-tO5W",-
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),3)

@@ -1,0 +1,15 @@
+// example 
+"c8T5",+
+"OZ",+
+"Q",+
+"(_?",+
+"f6aak[$RII",+
+"|2P*Y=HX",+
+"6:^]]^?.|",+
+"C}~!bt",+
+"|iza$",+
+"d}|<XHv",+
+"",-
+
+// ground truth 
+or(endwith(<vow>),startwith(<any>))

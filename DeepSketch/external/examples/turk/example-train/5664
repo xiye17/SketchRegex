@@ -1,0 +1,25 @@
+// example 
+"tM&$]",+
+"tj=r?",+
+"KKEBf;",+
+"Ji",+
+"p];Q",-
+"Yg$_",+
+"KyoTL2",+
+"Tb(",+
+"l_",-
+"",-
+"}",-
+"YOH_",+
+"JD",+
+"[@",-
+"K^$",-
+"TIN",+
+"?",-
+"_-m",-
+"`a:+-",-
+"p~(]",-
+"|9rmV",-
+
+// ground truth 
+startwith(repeatatleast(or(<vow>,<let>),2))

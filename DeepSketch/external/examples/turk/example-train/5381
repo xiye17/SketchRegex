@@ -1,0 +1,25 @@
+// example 
+"'\s",-
+"UJKZBMVBT",+
+",''+",-
+"OK",+
+"p8/",-
+"SVGL.",-
+"CJMVYRFS",+
+"m",-
+"T",+
+"INZXWE",+
+"WZJBHGJ",+
+"",-
+"RNSMM",+
+"VRXYWINDOQ",+
+"PQI",+
+"HEJX",+
+"!>",-
+"mC9KA",-
+"?",-
+"G,",-
+"s|^W",-
+
+// ground truth 
+repeatatleast(<cap>,1)

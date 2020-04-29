@@ -1,0 +1,16 @@
+// example 
+"E!4wq",-
+"E!RU-",-
+"8",-
+"X![n",-
+"W!@",+
+"D!",-
+"P!+",-
+"l",-
+"XTpM",-
+"),k",-
+"",-
+"D-",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<m1>)

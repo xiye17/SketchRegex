@@ -1,0 +1,14 @@
+// example 
+"",+
+"Tz@gV",+
+"+a+tQ5",+
+"*X(",+
+"&%'bGo;j1",+
+"JlJx699k",+
+"rWabY_]",+
+"C",+
+"#_f)",+
+"Q2",+
+
+// ground truth 
+repeatatleast(contain(not(<vow>)),3)

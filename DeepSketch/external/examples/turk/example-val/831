@@ -1,0 +1,19 @@
+// example 
+"5O--n~p84y;V]7",-
+"F",+
+"YWz19&/",-
+"svVvBI)Q",-
+"~/.d&H=H-K",-
+"2(3sO6qs)",-
+".F",+
+"6lcd$^xW$NAW~",-
+">S/",+
+"",+
+":SbX0VmCJco",-
+"Q(q<#w",-
+"[oD#%Fmlm'([",-
+"I<7/",+
+"GaZY~",-
+
+// ground truth 
+not(repeatatleast(<any>,5))

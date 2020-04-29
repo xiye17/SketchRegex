@@ -1,0 +1,25 @@
+// example 
+"?yiJa",-
+"s",-
+"iVNe;",+
+"o",+
+"Gb&",-
+"`r.",-
+"gAUi8",-
+"eB3",+
+"iKhq",+
+"iG",+
+"kH",-
+"",-
+"(\",-
+"Ah-",+
+"dyIL",-
+"ES%w'",+
+"i",+
+"IJ",+
+"CQDm",-
+"U/~4",+
+"~",-
+
+// ground truth 
+startwith(or(<num>,<vow>))

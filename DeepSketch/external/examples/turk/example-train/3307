@@ -1,0 +1,22 @@
+// example 
+"is86n",-
+"2x",-
+"#Xsi",-
+"7b6t9m9a5w9l7v",+
+"m",-
+"2~",-
+"7s2g9m4e3k",+
+""",-
+"",-
+"*h(",-
+"5m3l8a5q",+
+"0y7l7u9b6n6y0x1l4k7a",+
+"dB$",-
+"9b6f7d4f9p4i0v1o",+
+"'Ok]7",-
+"1x8r3z7t2m5f",+
+"3e8l3n3k6l8e4r9t4x",+
+"57o.",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),4)

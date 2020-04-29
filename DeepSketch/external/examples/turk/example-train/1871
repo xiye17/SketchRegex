@@ -1,0 +1,14 @@
+// example 
+"",+
+"+~",+
+"rrY?",+
+"j{6niX^B",+
+"PL2\L'zQ`",+
+"4",+
+"quWV=bP",+
+"nde",+
+"4+_:X:",+
+"p|b]&",+
+
+// ground truth 
+not(and(repeatatleast(<num>,2),<let>))

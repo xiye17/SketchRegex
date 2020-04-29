@@ -1,0 +1,17 @@
+// example 
+"4j}|N",-
+"/Qw",-
+"5m",-
+"7y]J",-
+"#",-
+"",-
+"%.Fg:",-
+"5~",-
+"7ylb",-
+"9",-
+"7rR",+
+"7rf",+
+"Nzc",-
+
+// ground truth 
+concat(<num>,concat(<low>,<let>))

@@ -1,0 +1,25 @@
+// example 
+"Oc",+
+"O{0^",+
+"Y",-
+"DD}t",-
+"gz",-
+"d@",-
+"a",+
+"G\1B",-
+"o,n",+
+"uN2A",+
+"iWxcd",+
+"",-
+"UBm",+
+"}",-
+"Cw%",-
+"eY",+
+"HFX",-
+"u",+
+"}ABO#",-
+"-65V5",-
+"oEZzS",+
+
+// ground truth 
+or(startwith(<vow>),repeatatleast(<any>,6))

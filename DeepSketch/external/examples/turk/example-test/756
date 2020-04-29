@@ -1,0 +1,25 @@
+// example 
+"F",-
+"Yiiop",-
+"}e",+
+"w!P",-
+"k6D~o",+
+"A!I",+
+"a"qu",+
+"",-
+"A!A",+
+"k6D~e",+
+"i)u~",-
+"x2",-
+"Yiiof",-
+"f",-
+"i)u]",-
+"}o",+
+"i",+
+"a"qi",+
+"Kl",-
+"w!8",-
+"A",+
+
+// ground truth 
+concat(not(<let>),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"tQGtwSN",+
+"ooKC",+
+"tQGtwSg",+
+"d?",-
+"ZVPWybOF",+
+"d}<We",-
+"NvtBf",+
+"ooKu",+
+""",-
+"",-
+"|",-
+"]4",-
+"qqXAhG",+
+"ZVPWybOi",+
+"d+O%W",-
+"NvtBF",+
+"qqXAho",+
+"]En",-
+"a6o6",-
+"7]i",-
+"a\\(",-
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),4)

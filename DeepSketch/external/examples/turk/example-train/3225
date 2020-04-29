@@ -1,0 +1,25 @@
+// example 
+"Uo",+
+"i0E",+
+"F",-
+"IrIUt",-
+"UU",+
+"gC{T",-
+"o9K",-
+"o9q",-
+"xzdi",+
+"d",-
+"",-
+"i0u",+
+"xzda",+
+"}CDuE",+
+"IrIUd",-
+"O",+
+"I",+
+"}CDuA",+
+"vh",-
+"Tg",-
+"gC{D",-
+
+// ground truth 
+concat(not(<low>),<vow>)

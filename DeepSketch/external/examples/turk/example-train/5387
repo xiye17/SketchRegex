@@ -1,0 +1,25 @@
+// example 
+"F",-
+"zfXWiFk",+
+"r{b",-
+"[+:\D",-
+"CZbuH",+
+"zfXWiFN",+
+"r`P",-
+"Q`>+",-
+"Q@*W",-
+"d",-
+"`s",-
+"q>H$#",-
+"",-
+"CZbuu",+
+"ohe",+
+"YRBExv",+
+"YRBExK",+
+"=3",-
+"ohT",+
+"NBbM",+
+"NBbz",+
+
+// ground truth 
+repeatatleast(or(<cap>,<let>),3)

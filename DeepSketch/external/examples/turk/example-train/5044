@@ -1,0 +1,25 @@
+// example 
+"iU",+
+"ii",+
+"AEej",-
+"IiO",+
+"ioIeE",+
+"Iii",+
+"q",-
+"UUUi",+
+"",-
+"AEeq",-
+"OEagD",-
+"UUUO",+
+"aP",-
+"e",+
+"8",-
+"ioIee",+
+"UuY",-
+"O",+
+"g+",-
+"OEaQ|",-
+"Uuh",-
+
+// ground truth 
+repeatatleast(or(and(and(<m0>,<num>),<cap>),<vow>),1)

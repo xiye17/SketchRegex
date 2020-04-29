@@ -1,0 +1,14 @@
+// example 
+"",+
+"D",+
+"m/yg",+
+"noORW,m",+
+"}jWtJ^6m+",+
+"d\M|K^",+
+"th%8p",+
+"Re",+
+"6D6",+
+"(H7m'Cbs",+
+
+// ground truth 
+contain(not(and(and(<m0>,<m1>),<m2>)))

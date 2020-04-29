@@ -1,0 +1,14 @@
+// example 
+"",+
+"-'!-0>Q>",+
+"L%",+
+"kKS;%{AKg",+
+"Ttbix",+
+"$JOAD[",+
+"}yS=Z+!",+
+"#->",+
+"qFC*",+
+"#",+
+
+// ground truth 
+not(and(<cap>,<m0>))

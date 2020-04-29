@@ -1,0 +1,25 @@
+// example 
+"cO7K!",+
+"lcpqwc",-
+"lktlarq",-
+"rjfxdvjorkmau",-
+"egkukhite",-
+"jimvosqpclqk",-
+"oyzcn",-
+"c",+
+"abzysoum",-
+"malpcxhkqjyfzu",-
+"o|;#",+
+"",+
+"c~h-r",+
+"{r",+
+"o@w7",+
+"/\",+
+"tditefjtpw",-
+"oVI",+
+"sdhebkjkyvw",-
+"=",+
+"L0X",+
+
+// ground truth 
+not(repeatatleast(<low>,5))

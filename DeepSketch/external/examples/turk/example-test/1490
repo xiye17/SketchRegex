@@ -1,0 +1,25 @@
+// example 
+"pR!",+
+"uynByR!",+
+".",-
+"fJM",-
+"^-h{$",-
+"nccFf!",+
+"~D@7x",-
+"",-
+"t-",-
+"ew!.",-
+"nccFV!",+
+"PPSe!",+
+"7B",-
+"ahH!",+
+"uynByz!",+
+"H",-
+"fJ<",-
+"ahl!",+
+"[1dR",-
+"po!",+
+"PPSP!",+
+
+// ground truth 
+concat(repeatatleast(<let>,2),<m0>)

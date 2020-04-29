@@ -1,0 +1,14 @@
+// example 
+"",+
+"c_",+
+"-",+
+"56'",+
+"..G<",+
+"0B94>R1",+
+";,-LWW)}",+
+"|sX]i",+
+"_G>jMPn>g",+
+"LGSQnd",+
+
+// ground truth 
+startwith(or(not(<m0>),<any>))

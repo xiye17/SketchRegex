@@ -1,0 +1,17 @@
+// example 
+"/",-
+"@a",+
+"@g.5",-
+"!]#",-
+"",-
+"@q",-
+"aFb<L",-
+"@A",+
+"@C",-
+")0o",-
+"@EXv",-
+"abd(S",-
+"~",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<m1>),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"~@tY",-
+"8rS[nhSc",+
+"M]^|aADvw",+
+"<`t",-
+"Aajbvh",+
+"<`]",-
+"]}|BW",-
+"_",-
+"dJ@YcYN",+
+"M]^|aADvQ",+
+"q|{.L]iqwH",+
+"",-
+"]}|B{",-
+"AajbvI",+
+"8rS[nhSC",+
+",G",-
+"q|{.L]iqwb",+
+"M",-
+",{",-
+"~@t~",-
+"dJ@YcYo",+
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),6)

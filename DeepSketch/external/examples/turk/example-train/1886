@@ -1,0 +1,25 @@
+// example 
+"O!",+
+"r",-
+"xtxxL!",+
+"y~Y$W",-
+"ndyatmugC!",+
+"9g""w",-
+"ubR!",+
+"",-
+"=5",-
+"eK!",+
+"mtludyH!",+
+"buhlcvcvyY!",+
+"H03",-
+"Z0&^",-
+"pjtbtD!",+
+"X0",-
+"qrhwcnaL!",+
+"H!7",-
+"glnV!",+
+"Z!|!",-
+"~",-
+
+// ground truth 
+concat(star(<low>),concat(<cap>,<m0>))

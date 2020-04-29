@@ -1,0 +1,16 @@
+// example 
+"HJ",+
+"4{AG",-
+"?@H",-
+"7",-
+"Z0m,",-
+"cGp*r",-
+"FzxnY",-
+"_:",-
+"",-
+"c",-
+"p,y",-
+"8_",-
+
+// ground truth 
+concat(<cap>,or(<num>,<any>))

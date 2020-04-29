@@ -1,0 +1,25 @@
+// example 
+"!MHSLEJPFHOD",+
+"!VNMVUTCGTGJAW",+
+"!7",-
+"!PDFF",-
+"!UJZCMCFGSVSUBI",+
+"!",-
+"!MRRZKBECJMKQ",+
+"!TBPONWKL",+
+"",-
+"`",-
+"!KVXVDENIREIZXDRC",+
+"5g",-
+"!KUIUXTU",+
+"!QGOMZFVGT",+
+"!2[",-
+"!CRJSGTXTNC",+
+"!.9x",-
+"!P$Iu",-
+"!SKTEHMLDKRWOPQY",+
+"^_LI",-
+"@Zs",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<cap>,7))

@@ -1,0 +1,21 @@
+// example 
+"w+g",-
+"_<8LwXCp3V",+
+"AwH%|d4J-<qQVG`",+
+"g?TlN4gYEZQ",+
+"BzxpFnA&}",+
+"gzjR6#cxm#?N\:VE",+
+"bf|-",-
+"",-
+"IxLt-14Y",+
+"fj*CN#PLz(4/ve",+
+"";?Gi&0",+
+"!GN%W5",-
+"X6",-
+".>9~F",-
+"FZLTnfr^hRHbe",+
+"{Cw(v=6u_A]k",+
+"D",-
+
+// ground truth 
+repeatatleast(or(<num>,<any>),7)

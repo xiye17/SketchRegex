@@ -1,0 +1,26 @@
+// example 
+"Nl",+
+"|{q_",-
+"0d~eb",+
+"~q]",-
+"yv",+
+"h}Mj",+
+":Oo{}",-
+"~4",-
+"gm||Iy",+
+":Oo{[",-
+"",-
+"9~w",+
+"&",-
+"~}",-
+"gm||eh",+
+"}",-
+"d",+
+"|{q}",-
+"h}vu",+
+"~q{",-
+"9Tl",+
+"0d~Bv",+
+
+// ground truth 
+endwith(repeatatleast(<low>,1))

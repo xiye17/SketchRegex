@@ -1,0 +1,23 @@
+// example 
+"Y{EWkXpeVrLMwHlOpi",+
+"BKPeYivPAaG?m<c;hEe0",+
+"[h",-
+"v)C",-
+"fv",-
+"fiF%P",-
+"~!/<",-
+"",-
+"w1B?x~c^jlm*W{",+
+"}",-
+"jLuXqWxzL>n>k0JB",+
+"v)'",-
+"#,z7",-
+"w1B?x~c^jlm*aQ",+
+"jLuXqWxzL>n>k0uE",+
+"BKPeYivPAaG?m<c;hEJy",+
+"z",-
+"Y{EWkXpeVrLMwHlOEY",+
+"fiF%<",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),7)

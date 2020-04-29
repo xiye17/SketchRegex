@@ -1,0 +1,25 @@
+// example 
+"E",+
+"G",-
+"s",+
+"RIT",-
+"LP[L",-
+"?U",+
+"\{IOA",+
+"",-
+"lPO",+
+"F\IE",+
+"\{IOx",+
+"LP[C",-
+"lPf",+
+"?x",+
+"F\IU",+
+"UT",-
+"AGUO~",-
+"AGUOL",-
+"RID",-
+"B",-
+"UN",-
+
+// ground truth 
+repeatatleast(endwith(or(<low>,<vow>)),1)

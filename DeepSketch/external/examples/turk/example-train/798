@@ -1,0 +1,17 @@
+// example 
+".",-
+"5s",+
+"T|d%",-
+"6@",-
+"",-
+"6~",-
+"1GiOz",-
+"1&AAb",-
+"<",-
+"5M",+
+"@bq",-
+"FP2",-
+"\Ic9",-
+
+// ground truth 
+concat(or(<cap>,<num>),<let>)

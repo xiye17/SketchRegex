@@ -1,0 +1,14 @@
+// example 
+"",+
+"I{P[L",+
+"M7U;<E",+
+"o",+
+"Q`'z$#_",+
+")g</c7#5",+
+"cJ?n",+
+"L!",+
+"3h\@$U]'{",+
+"Ma/",+
+
+// ground truth 
+not(and(repeatatleast(<cap>,7),<num>))

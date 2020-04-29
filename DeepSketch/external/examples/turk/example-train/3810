@@ -1,0 +1,14 @@
+// example 
+"",+
+"=k",+
+"=0+HWa'",+
+"q>jG_9)M",+
+"j<;",+
+"PazLs",+
+")4SCCq6Ir",+
+"-4j2a]",+
+"u;4+",+
+"$",+
+
+// ground truth 
+or(repeatatleast(<let>,1),not(<low>))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"<>w~zSu0y+^",-
+"u.",-
+"N-tEm",-
+"c{{~EE",-
+"N",+
+"lBc~v\D",-
+"GTk",-
+":SVY",-
+"Q]^9*0-uM",-
+".We!Nm{x",-
+"QS/}o.z3&%",-
+
+// ground truth 
+not(repeatatleast(<any>,2))

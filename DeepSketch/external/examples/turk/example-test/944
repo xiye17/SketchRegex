@@ -1,0 +1,25 @@
+// example 
+"B]a",-
+"IV",+
+"hik(QO",+
+"OKo",+
+"]iD",+
+"Ev&F",+
+"hF&]AV",+
+"",-
+"Hc",-
+"Ha",-
+"B]A",-
+"E.",+
+"p~Tux",+
+"e!rb",+
+"p~TEE",+
+"&dnA",-
+"qLZto",-
+"U",-
+"&dn?",-
+"qLZtU",-
+"A",-
+
+// ground truth 
+contain(concat(<vow>,<any>))

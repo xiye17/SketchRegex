@@ -1,0 +1,14 @@
+// example 
+"",+
+"'>`qPm{",+
+";}C+)f",+
+"S",+
+"z2mwM",+
+"&ga'Tu<6",+
+"9&{v",+
+"($",+
+"t\*",+
+"lP|Fi!TU$",+
+
+// ground truth 
+not(and(and(<vow>,<cap>),<low>))

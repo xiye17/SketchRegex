@@ -1,0 +1,15 @@
+// example 
+"cVq@=CTf0m",+
+"lG",+
+"k",+
+"Y$^",+
+"Sb3%tZ",+
+",Y|h,",+
+"o)T'+vP",+
+"6deea/QX:",+
+"6X)1",+
+"IRxL`QI>",+
+"",-
+
+// ground truth 
+endwith(or(or(<any>,<num>),<low>))

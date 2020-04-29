@@ -1,0 +1,26 @@
+// example 
+"~a'n",-
+"{87T,",-
+"_B",+
+"`$",-
+"g5,S",+
+"`f",-
+"%d)aZ",+
+"!N",+
+"~a'.",-
+"",-
+"%d)NO",+
+"{SJf~I",+
+"#tN",+
+"{SJf?E",+
+"R",+
+"7",-
+"b>{",-
+"#IC",+
+"{87Ti",-
+"g5yK",+
+"{",-
+"b>5",-
+
+// ground truth 
+concat(not(repeatatleast(<low>,4)),<cap>)

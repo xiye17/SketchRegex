@@ -1,0 +1,17 @@
+// example 
+"\",-
+"e%",-
+"i'oh",-
+"Eb"",-
+"gdN",-
+"iC",-
+"",-
+"|",-
+"bT~dN",-
+"e",+
+"{E7CG",-
+"u",+
+"h|6}",-
+
+// ground truth 
+and(and(<let>,<vow>),<low>)

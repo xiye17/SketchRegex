@@ -1,0 +1,25 @@
+// example 
+"r#-sPT?k",+
+"ijH8w0FT&",+
+"Fu",-
+"k&vD%yk.3L",+
+"e0$6;]",+
+"g<+2#",+
+"",-
+"~0>",-
+"~~",-
+"}",-
+"I$x",-
+"vr",+
+"j3e",+
+"ol\b",+
+"vRFbu{qiCHK",+
+"M",-
+"_rU2N",-
+"E/a-",-
+"tQqYg0e",+
+"{nLE",-
+"|z^u$",-
+
+// ground truth 
+concat(<low>,endwith(<any>))

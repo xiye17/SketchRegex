@@ -1,0 +1,14 @@
+// example 
+"",+
+"I~fd",+
+"?0Qs(?",+
+"($2,@>3x{",+
+"l",+
+"WT",+
+".GH8eWP>",+
+"HRpRv",+
+"/2S",+
+"ES`JKX'",+
+
+// ground truth 
+not(and(and(<num>,<low>),<vow>))

@@ -1,0 +1,15 @@
+// example 
+"#y",+
+"m;}2d=u",+
+"g-=G_]x[",+
+"GC$",+
+"`",+
+";h\0",+
+"L=P-,Y8HF",+
+"2sOUx)",+
+"=Qh(i",+
+"",-
+">-7}{lyAQU",+
+
+// ground truth 
+contain(or(or(<m0>,<any>),<m1>))

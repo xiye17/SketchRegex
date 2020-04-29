@@ -1,0 +1,17 @@
+// example 
+"o",-
+"i+r",-
+"i~",-
+"e",-
+"eQ=v(",-
+"",-
+"e{HK",-
+"ix",+
+"i|c",-
+"e=j,",-
+"i/",-
+"ax",+
+"enC4R",-
+
+// ground truth 
+concat(or(<vow>,<cap>),<low>)

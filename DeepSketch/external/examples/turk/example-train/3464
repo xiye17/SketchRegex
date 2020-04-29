@@ -1,0 +1,15 @@
+// example 
+"X)//A!Ocv.",+
+"wVs'1",+
+"{YsUQsAjj",+
+"U-hfUj",+
+"J",+
+"%F`&a6h",+
+"D0:",+
+"u4Pa10}v",+
+"@b",+
+".0d;",+
+"",-
+
+// ground truth 
+or(startwith(<any>),and(and(<num>,<m0>),<let>))

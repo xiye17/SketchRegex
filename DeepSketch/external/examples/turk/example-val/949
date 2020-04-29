@@ -1,0 +1,17 @@
+// example 
+"Ha",+
+"[",-
+"guu",-
+"Y",-
+"HO",+
+"BCgTD",-
+"^|",-
+"&[",-
+"",-
+"gyF",-
+"}04)",-
+"EAs|",-
+"^[g0`",-
+
+// ground truth 
+concat(<let>,or(<vow>,<m0>))

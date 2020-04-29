@@ -1,0 +1,17 @@
+// example 
+"Ob",-
+"H6",-
+"U",+
+",",-
+"v*vU3",-
+"",-
+"U%c#",-
+"O",+
+"h1E",-
+"U++K3",-
+"ISA",-
+"B",-
+"I^No",-
+
+// ground truth 
+and(and(<cap>,<let>),<vow>)

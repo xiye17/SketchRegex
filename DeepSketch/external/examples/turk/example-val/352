@@ -1,0 +1,19 @@
+// example 
+"*ftRE",+
+"!0?hmg%dK^",+
+")n`qgjrYh`W#",+
+"RQ%u)'f|G4S*z=",+
+"",-
+":",-
+"twE",-
+"2FtHsKENnH"",+
+"|ZxP?e,",+
+"/;Wf",-
+"Wh!^-TMn1",+
+"E_vi0fJF+.8Vw",+
+"m\",-
+"N7V$rA",+
+"fRZ#8;|f",+
+
+// ground truth 
+repeatatleast(or(<any>,<low>),5)

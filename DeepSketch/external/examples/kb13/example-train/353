@@ -1,0 +1,19 @@
+// example 
+"aB3",-
+"90T~}}",+
+"c\z!c0G:`",+
+"e.%8`uPw{~>B",+
+"CPDg[6`B<04WI",+
+"6U",-
+"2dI&Gja~P3",+
+"",-
+">$349",+
+"*^hC<PT%",+
+"gUF=j$IWf1{^vo",+
+"7",-
+"G<IQ?/i",+
+"A3tM",-
+">*c+8USaQ}M",+
+
+// ground truth 
+contain(repeat(<any>,5))

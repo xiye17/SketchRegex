@@ -1,0 +1,25 @@
+// example 
+"\1",-
+"cn@",+
+"9370",-
+"r",+
+"~w",-
+"@I6r}",-
+"\.ay",-
+"iT",+
+";o{",-
+"_",-
+"",-
+"fL?FU",+
+"|",-
+"GNg",+
+"]8l^F",-
+"Q^",+
+"{n1",-
+"dN7G",+
+"Z=&R",+
+"A",+
+"Ow9|:",+
+
+// ground truth 
+repeatatleast(startwith(or(<cap>,<low>)),1)

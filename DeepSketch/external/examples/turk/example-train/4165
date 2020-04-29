@@ -1,0 +1,16 @@
+// example 
+"(A",+
+"{d|FT",-
+"(Q",-
+"CuO",-
+"n",-
+"WQEs",-
+"WIhx",-
+"(H",-
+"(E",+
+"{Wa={",-
+"",-
+"Ca$",-
+
+// ground truth 
+concat(or(<any>,<cap>),<vow>)

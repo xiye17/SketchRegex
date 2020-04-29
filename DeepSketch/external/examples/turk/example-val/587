@@ -1,0 +1,25 @@
+// example 
+"Ql<za",-
+"i(D:Af_GO",+
+"N3D<FEP",+
+"!_SX-W",+
+"b^IQ",+
+"T&P:xo2S",+
+"/@?"",-
+"'x/J)6",-
+"",-
+"Ql<z9",-
+"/@?q",-
+"N3D<FnI",+
+"vN1VI",+
+"A",-
+"T&P:xoCA",+
+"'x/J)y",-
+"i(D:Af_lJ",+
+"vN1fY",+
+"!_SXJO",+
+"0m",-
+"Eya",-
+
+// ground truth 
+and(repeatatleast(<any>,4),endwith(<cap>))

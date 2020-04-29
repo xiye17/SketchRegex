@@ -1,0 +1,25 @@
+// example 
+"OOAaB",+
+"Uug",-
+"UOAI",+
+"UOAu",+
+"UE",-
+"udOD",-
+"iAOe1b",+
+"UW",-
+"UpBUu",-
+"",-
+"UuD",-
+"vdOCAuuo",+
+"}",-
+"udOe",-
+"iEII]B;",+
+"U",-
+"OOAue",+
+"iAOE_h",+
+"iEIe=*M",+
+"UpBUg",-
+"vdOCAuuO",+
+
+// ground truth 
+contain(repeatatleast(<vow>,4))

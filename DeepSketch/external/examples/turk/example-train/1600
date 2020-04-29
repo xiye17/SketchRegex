@@ -1,0 +1,16 @@
+// example 
+"$z8",-
+"c3wO",-
+"c!a>",-
+"@!",+
+"$!>",-
+"9duvf",-
+"9!cbu",-
+";!~X?M",-
+"d&",-
+"!",-
+"",-
+";kx|^!",-
+
+// ground truth 
+concat(or(or(<any>,<vow>),<num>),<m0>)

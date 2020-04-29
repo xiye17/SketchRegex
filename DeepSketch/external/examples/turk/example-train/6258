@@ -1,0 +1,25 @@
+// example 
+"ow",+
+"[*W{",-
+"O#",-
+"u",-
+"o^|iq",-
+"iZu",-
+"uSh'",-
+"uIaE",+
+"",-
+"a",-
+"uIay",+
+"iNICacom",+
+"IqUDiz",+
+"IqUDiN",+
+"AmiKuuUsAU",+
+"o;]Wa",-
+"iNICacoQ",+
+"O`",-
+"iZU",-
+"oZ",+
+"AmiKuuUsAf",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),1)

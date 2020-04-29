@@ -1,0 +1,14 @@
+// example 
+"",+
+".",+
+"Jj3GX[2",+
+"87%",+
+"8S@S+V",+
+"5W{Kq",+
+"@"xz:B84",+
+"$xtXfK7zI",+
+"n$",+
+"-[~j",+
+
+// ground truth 
+not(and(and(<m0>,<num>),<let>))

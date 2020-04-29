@@ -1,0 +1,17 @@
+// example 
+">W`u++Ula}",-
+"~BCv/",-
+"#zVfD~",-
+"A]rKhZj?`D4",-
+"hA]",-
+"{&6&9#Q",-
+"",+
+"e:H;",-
+"hkQ1Oqr_,",-
+"GZ",+
+"j9DxB-u2",-
+"rBor62,g5f];",-
+"H",+
+
+// ground truth 
+not(contain(repeatatleast(<any>,3)))

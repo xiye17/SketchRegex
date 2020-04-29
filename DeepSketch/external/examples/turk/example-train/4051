@@ -1,0 +1,14 @@
+// example 
+"",+
+"~<",+
+"bd]V",+
+"S;SC(6]",+
+"n",+
+"EI~<F`rH_",+
+"VS%AR%",+
+"r-M%?",+
+"#?:~bBDD",+
+"gi&",+
+
+// ground truth 
+not(and(and(<cap>,<low>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"eb",+
+"u",-
+"A=z;",+
+"mBG",+
+"I=\\",+
+"",+
+"IUH",+
+"i",-
+"S",+
+"J",+
+"eA@*R",+
+"Q;&;A",+
+"E'",+
+
+// ground truth 
+not(or(<m0>,<vow>))

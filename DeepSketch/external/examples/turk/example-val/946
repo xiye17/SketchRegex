@@ -1,0 +1,26 @@
+// example 
+"PbTa",+
+"Nc{e(2",+
+"9qGr",-
+"?A",+
+"XeF",+
+"oFhdfF",-
+"2bN",-
+"#AdN@",+
+"#e/c{",+
+"2bc",-
+"CcBgh",-
+"Xfu",+
+"{h",-
+"",+
+"9qG~",-
+"CcBg.",-
+"?a",+
+"NoK3^<",+
+"oFhdf{",-
+"L",-
+"{F",-
+"PbI^",+
+
+// ground truth 
+star(contain(concat(<any>,<vow>)))

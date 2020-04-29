@@ -1,0 +1,17 @@
+// example 
+"e%",-
+"e^t",-
+"o1",+
+"U=$)",-
+"",-
+"I2",+
+"e-a",-
+"A",-
+"a9uP/",-
+"aZhFF",-
+"C",-
+"eh",-
+"F$UZ",-
+
+// ground truth 
+concat(<vow>,<num>)

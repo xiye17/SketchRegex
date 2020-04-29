@@ -1,0 +1,14 @@
+// example 
+"",+
+",=&iqfZ",+
+"3SI",+
+",#I8?Q",+
+"a9|~E>|Z^",+
+"c",+
+"7;",+
+"2pw'",+
+"T,^]{gzz",+
+"VeN1^",+
+
+// ground truth 
+endwith(or(not(<m0>),<low>))

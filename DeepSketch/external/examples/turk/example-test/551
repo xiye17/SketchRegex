@@ -1,0 +1,17 @@
+// example 
+"D",+
+"Ux5",+
+"ACb_",+
+"#9",+
+"EB",+
+"",+
+"GT[X",+
+"O",-
+"EnD",+
+"OcaQh",+
+"u-^H}",+
+"y",+
+"E",-
+
+// ground truth 
+not(and(<cap>,<vow>))

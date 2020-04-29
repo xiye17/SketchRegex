@@ -1,0 +1,25 @@
+// example 
+"EO",+
+"I/L",+
+"mD`",-
+"e&",-
+"UzJ?F",+
+"ub@<OC",+
+"ub@<jR",+
+"Op%W",+
+"AW",+
+"uqtwk",-
+"OpqM",+
+"d",-
+"",-
+",j^",-
+"uqtw$",-
+"UzJGQ",+
+"i",-
+"IQT",+
+"aaEg",-
+"eg",-
+"aaE6",-
+
+// ground truth 
+concat(<vow>,endwith(<cap>))

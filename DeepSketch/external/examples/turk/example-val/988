@@ -1,0 +1,15 @@
+// example 
+"i*OkG",-
+"+T",-
+"xt",+
+"iu*I",-
+"+{",-
+"J~d",-
+"i$"8",-
+"",-
+")",-
+"J'@",-
+"i~Q<t",-
+
+// ground truth 
+concat(or(or(<let>,<any>),<m0>),<low>)

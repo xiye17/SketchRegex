@@ -1,0 +1,25 @@
+// example 
+"iaOEI",+
+"VR",+
+"Ut",-
+"iAAa",+
+"iaOEa",+
+"U",+
+"a",+
+"Eie",+
+"uEN",-
+"uCZ",-
+"CI",+
+"iAAU",+
+"",+
+"I_R,",-
+"h",-
+"Eio",+
+"I$GT",-
+"w7WY+",-
+"Uw",-
+"w|"9`",-
+"C",-
+
+// ground truth 
+or(star(<vow>),concat(<let>,<cap>))

@@ -1,0 +1,25 @@
+// example 
+"DA",+
+"7o{",+
+"DU",+
+"GmDO",+
+"JO,'S",+
+"d",-
+"(",-
+"",-
+"t"[k",-
+"hJ}",-
+"hJQ",-
+"e",+
+"FTrnb",-
+"GmDI",+
+",H",-
+",q",-
+"t"[f",-
+"I",+
+"I?P1D",+
+"7Su",+
+"FTrnl",-
+
+// ground truth 
+repeatatleast(contain(or(<m0>,<vow>)),1)

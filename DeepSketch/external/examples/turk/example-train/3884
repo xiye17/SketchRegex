@@ -1,0 +1,26 @@
+// example 
+"n^[",-
+"skUJ",+
+"V!{p",-
+"t`o|}",-
+"vpL",+
+"vT}",+
+"_",-
+"",-
+"}{ulH/",+
+"/jx`}iR",+
+"a",-
+"~~",-
+"~C",-
+"skfN",+
+"Wm1cI",+
+"WmEGq",+
+"n^}",-
+"V!{8",-
+"t`o|g",-
+"zZ",+
+"/jx`bL_",+
+"}{u]dB",+
+
+// ground truth 
+contain(concat(<low>,<cap>))

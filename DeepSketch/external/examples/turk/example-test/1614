@@ -1,0 +1,25 @@
+// example 
+"RLTIKEQ!",+
+"MNBLZDPAJ!",+
+"NZTZTKOA!",+
+"SJNAOCFFNBOTP!",+
+"KUUNTCQXBMF!",+
+"WCGCKNEWSZYB!",+
+"Hf",-
+"UMT",-
+"VNRQEC!",+
+"VBV.",-
+"VMWI!",+
+"",-
+"HDNAG!",+
+"qEMXa",-
+"|",-
+"H+",-
+"U",-
+"UM%",-
+"VBVX",-
+"@rn]~",-
+"SGMLITGZMB!",+
+
+// ground truth 
+concat(repeatatleast(<cap>,4),<m0>)

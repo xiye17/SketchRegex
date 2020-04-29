@@ -1,0 +1,19 @@
+// example 
+"2",-
+"/>@3",-
+"\NB!d%,5MQW",+
+"z)3uu",+
+"#4Qd?ur",+
+"H6Cq<Z8'V^:]`",+
+"",-
+"11",-
+"YU^",-
+"qCOaWnk?",+
+"D,]sn[>i-)1i",+
+"w)#l=B6m}",+
+"AuR}50",+
+"-68*ag')+nnIFp",+
+"N<;>&$D.$=",+
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),5)

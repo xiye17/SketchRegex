@@ -1,0 +1,26 @@
+// example 
+"!ETGEVI",+
+"!*:quZ",+
+"!b",-
+"!mz@",-
+"!mz]",-
+"!xO",+
+"!",-
+"!F",+
+"#",-
+"",-
+"!,-K",+
+"!,vN",+
+"!ETGEoM",+
+"!,G",+
+"!<",-
+"d;S",-
+"!kE/:",-
+"!*:qBP",+
+"!V,",-
+"!kE/z",-
+"!64YY",+
+"!64wY",+
+
+// ground truth 
+concat(startwith(<m0>),<cap>)

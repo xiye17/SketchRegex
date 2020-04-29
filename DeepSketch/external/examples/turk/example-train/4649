@@ -1,0 +1,17 @@
+// example 
+"r",-
+"N)F"",-
+"|ax",-
+"",-
+"Kcub:",-
+"%u>",-
+"R@",+
+"8",-
+"C\",-
+"Ndv&",-
+"K\/Ph",-
+":'",-
+"Rm",+
+
+// ground truth 
+concat(<cap>,or(or(<m0>,<let>),<m1>))

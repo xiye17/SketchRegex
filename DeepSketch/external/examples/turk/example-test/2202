@@ -1,0 +1,24 @@
+// example 
+"=EOu",-
+"eIaIEoeuOuA",+
+"ViouOuiie",+
+"*ouuOAiiua",+
+"}IaOaaUIiiuI",+
+"",-
+"}IaOaaUIiiuE",+
+"ysuuF",-
+"DO",-
+"]oeIOeAa",+
+"<",-
+"yb>O\",-
+"eIaIEoeuOuI",+
+"DI",-
+"RiI",-
+"=EOO",-
+"]oeIOeAO",+
+"RiA",-
+"ViouOuiiU",+
+"*ouuOAiiuE",+
+
+// ground truth 
+concat(<any>,repeatatleast(<vow>,7))

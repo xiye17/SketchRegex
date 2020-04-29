@@ -1,0 +1,25 @@
+// example 
+"dye!L:f",+
+"_~\",-
+"u+NSw!",+
+"j'",-
+"[^pG|",-
+"Uyoe!",+
+"dyeXQ!s",+
+"]A1)qfD!",+
+"j_",-
+"EWd!",+
+"UyoC!",+
+"^",-
+"",-
+"%",-
+"]A1)qfl!",+
+"EWB!",+
+"u+NSQ!",+
+"_~Q",-
+"^}}K",-
+"[^pG!",-
+"^}}z",-
+
+// ground truth 
+contain(concat(repeatatleast(<let>,3),<m0>))

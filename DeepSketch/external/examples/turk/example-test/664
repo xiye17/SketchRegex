@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"E!",+
+"e\)",-
+"vr|{W",-
+"rc",-
+"e!ur*",-
+"je4:",-
+"",-
+"aR",-
+"h",-
+"T",-
+"e!4",-
+"T7hX",-
+
+// ground truth 
+concat(<vow>,<m0>)

@@ -1,0 +1,18 @@
+// examples
+"z!",+
+"zZ",+
+"aZj",+
+"z!gjf",+
+"hCCd",+
+"jWa",+
+"mAeg42",+
+"",-
+"",-
+"!",-
+"!sd",-
+"",-
+"",-
+"",-
+
+// ground truth 
+startwith(or(concat(<low>,contain(<m0>)),<let>))

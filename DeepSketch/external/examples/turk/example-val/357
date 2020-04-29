@@ -1,0 +1,17 @@
+// example 
+"^G",-
+"",-
+"}",-
+"}s",-
+"a%%",-
+"QE",+
+"A>KTh",-
+"|X!",-
+"nG",+
+"0`N.",-
+"=k3YG",-
+"y",-
+"DvSt",-
+
+// ground truth 
+and(not(<m0>),concat(<let>,<any>))

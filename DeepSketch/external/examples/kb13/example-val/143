@@ -1,0 +1,25 @@
+// example 
+"sIlcK",+
+"}}C",-
+"!``DOicc^",+
+"Q(|SxYvZ",+
+"|^AAxBa",+
+"Q(|SxYvq",+
+"X}",-
+"!``DOicS+",+
+"",-
+"6EHfzC",+
+"XG",-
+"%",-
+"6QEV",-
+"sIlcp",+
+"|^AAxBE",+
+"}}!",-
+"6QE|",-
+"6EHfzc",+
+")w_A$",-
+"{",-
+")w_A]",-
+
+// ground truth 
+contain(repeat(<let>,5))

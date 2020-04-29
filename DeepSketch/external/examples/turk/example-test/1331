@@ -1,0 +1,17 @@
+// example 
+"jY(_",-
+"Z1[4",-
+"O!@",+
+"or+",-
+"u!@",+
+"Zb!0>",-
+"",-
+"c",-
+"o!g",-
+"UuW)^",-
+"ib",-
+"i!",-
+"I",-
+
+// ground truth 
+concat(<vow>,concat(<m0>,<m1>))

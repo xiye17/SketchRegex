@@ -1,0 +1,14 @@
+// example 
+"",+
+"bN~",+
+"Oc\/2=kg",+
+"q0",+
+"s@lw",+
+"0Z`!zL3",+
+"r~x"K^/n=",+
+"tBUDp1",+
+"m2WkA",+
+"$",+
+
+// ground truth 
+not(and(and(<cap>,<any>),<low>))

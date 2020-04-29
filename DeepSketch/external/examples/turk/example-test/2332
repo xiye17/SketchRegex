@@ -1,0 +1,17 @@
+// example 
+"o",-
+"ez",+
+"n",-
+"e{p]",-
+"uYq",-
+"AL",-
+"",-
+"Fdn",-
+"eTwS",-
+"hsoWf",-
+"is",+
+"A~",-
+"aJ.ez",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<low>)

@@ -1,0 +1,20 @@
+// example 
+"YfSeUcQqUmFrOmHiBnDn",+
+"9l</",-
+"[19",-
+"",-
+"F6DA/",-
+"?e",-
+"BeHpNaWaCkVt",+
+"_a",-
+"HiYjTyItVhTlMbQeTz",+
+"Kpf#",-
+"OgZsMbBtLeAsCqWi",+
+"',q",-
+"5N=V{",-
+"C",-
+">",-
+"HnJaFhFzLcLkPa",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),6)

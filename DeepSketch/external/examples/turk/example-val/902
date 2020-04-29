@@ -1,0 +1,25 @@
+// example 
+";g",+
+"%FFs",+
+"XHK!",-
+"G",+
+"K$9",+
+"wjkJK",+
+"ARVW!",-
+"K!J",+
+"U;~nH",+
+"",+
+"N!",-
+"_"",+
+"WKOAY!",-
+"i",+
+"PHCCUTPZO!",-
+"ARHPKBVP!",-
+"R"^M",+
+"LR!",-
+"QWATQIK!",-
+"CYDJUBPTMG!",-
+"GBJPQP!",-
+
+// ground truth 
+not(concat(repeatatleast(<cap>,1),<m0>))

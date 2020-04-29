@@ -1,0 +1,15 @@
+// example 
+"!7!",-
+"!5b!",-
+"u@",-
+"L3+",-
+"T$m?l",-
+"l",-
+"!",+
+"!n",-
+"!2*_k",-
+"",-
+"A-r)",-
+
+// ground truth 
+and(repeatatleast(<any>,1),<m0>)

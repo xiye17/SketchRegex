@@ -1,0 +1,16 @@
+// example 
+"",+
+"&G",+
+"\zWVG",+
+"2",-
+"*Tr",+
+"[8jn",+
+"7,8Rw",+
+"Ia|",+
+"/pT@",+
+"t",+
+"JT",+
+"#",+
+
+// ground truth 
+not(or(and(<m0>,<m1>),<num>))

@@ -1,0 +1,16 @@
+// example 
+"",+
+"[9",+
+"u",-
+"wER",+
+"f[>nW",+
+"|Ge",+
+""/n^",+
+"~",+
+""",+
+"tl~5",+
+"zc",+
+"CXrnD",+
+
+// ground truth 
+not(and(and(<low>,<any>),<let>))

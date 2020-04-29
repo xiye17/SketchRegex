@@ -1,0 +1,25 @@
+// example 
+"llO",+
+"sdao",+
+"pE",+
+"tHUaU",+
+"l",-
+"sdaU",+
+"tHUaa",+
+"",-
+"Cjk",-
+"bour",-
+"0q{nN",-
+"Bk",-
+"}",-
+"bouN",-
+"ifsoEa",+
+"pI",+
+"hN",-
+"}PNDF",-
+"ifsoEe",+
+"uq`",-
+"lla",+
+
+// ground truth 
+concat(startwith(<low>),<vow>)

@@ -1,0 +1,25 @@
+// example 
+"JbYeuzUZ",+
+"|6@H.",-
+"H}V4",-
+"H[?s",-
+"OeVMca",+
+"!|",-
+"khr",-
+"JbYeuzUt",+
+"!",-
+"mgnZdbC",+
+"OeVMcT",+
+"",-
+"}",-
+"BqWgFVCuA",+
+"zayMQ",+
+"]"9J%",-
+"zayMv",+
+"i%",-
+"mgnZdbf",+
+"BqWgFVCuq",+
+"k`T",-
+
+// ground truth 
+repeatatleast(or(<let>,<low>),5)

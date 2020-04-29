@@ -1,0 +1,25 @@
+// example 
+"7I",+
+"4E4e4E8O6A8a8O",-
+"ITJ",+
+"6e9A7i9A0E0i3i7u1u",-
+"2a2O5I4U5A3a2e4A",-
+"5u3i9o1i1u0U",-
+"4E4e4E8O6A8a8U",-
+"5u3i9o1i1u0a",-
+"(`FY$",+
+"$",+
+"2U9a1O6e3A",-
+"",+
+"7T",+
+"6k1t",+
+"dz,z",+
+"2U9a1O6e3e",-
+"b>/a[",+
+"P",+
+"2a2O5I4U5A3a2e4I",-
+"6e9A7i9A0E0i3i7u1o",-
+"0O-",+
+
+// ground truth 
+not(repeatatleast(concat(<num>,<vow>),5))

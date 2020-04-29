@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"b?",-
+"3J.1b",-
+"N_ye",-
+"D>~hA",-
+"Mt",-
+"",-
+"laOD",-
+"i",-
+"A!r",-
+"AGO",-
+"I",-
+"I!",+
+
+// ground truth 
+concat(and(<any>,<vow>),<m0>)

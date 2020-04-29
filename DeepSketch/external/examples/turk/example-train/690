@@ -1,0 +1,25 @@
+// example 
+"EKIIiWoAAWIWiO",+
+"oNuQETEKuTeEoPIWuB",+
+"u(_",-
+"f^",-
+"oNuQETEKuTeEoPIWAD",+
+"eEuPUDuNaSuJuXEIALAW",+
+"",-
+"U8\~",-
+"ELESAAiXiBOTOJuZ",+
+"oCUQePOLaJeP",+
+"Cq&&!",-
+"A",-
+"A7",-
+"J",-
+"oCUQePOLaJuT",+
+"ELESAAiXiBOTOJEE",+
+"D&[?",-
+"eEuPUDuNaSuJuXEIALaF",+
+"a^y-3",-
+"p-Z",-
+"EKIIiWoAAWIWeT",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),6)

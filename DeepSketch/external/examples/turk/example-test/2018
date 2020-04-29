@@ -1,0 +1,18 @@
+// example 
+"r4:!?",-
+"G}F",-
+"a",+
+"OUPy",-
+"",-
+"F3hK",-
+"!@",+
+"h",-
+"=&g",-
+"O",+
+"aRmm}",-
+"Ig",-
+"{",-
+"ap",-
+
+// ground truth 
+or(concat(<m0>,<m1>),<vow>)

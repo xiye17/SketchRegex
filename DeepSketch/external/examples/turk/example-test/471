@@ -1,0 +1,15 @@
+// example 
+"hS",+
+"Ad&`!tfH0'",+
+"cIJ",+
+"Uhc1wI",+
+"/q[3A~'",+
+"kUsN&[@7a",+
+"of{K",+
+"K7RkO,?#",+
+"",-
+"#",+
+",;.~m",+
+
+// ground truth 
+contain(or(or(<low>,<any>),<vow>))

@@ -1,0 +1,25 @@
+// example 
+"eH[",-
+"Y",+
+"s",+
+"MHV~",-
+"w`",-
+"xW",+
+"ZGXP",+
+"xy",+
+"GZzfr",+
+"ZGXa",+
+"(",-
+"5(",-
+"",-
+"|",-
+"SaO",+
+"I|K3=",-
+"M.T'",-
+"eH~",-
+"GZzfC",+
+"~*2Y|",-
+"Sau",+
+
+// ground truth 
+repeatatleast(or(concat(<vow>,<cap>),<let>),1)

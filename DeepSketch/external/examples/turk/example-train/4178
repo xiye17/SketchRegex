@@ -1,0 +1,26 @@
+// example 
+"NmQb",-
+"aI'9TL[",+
+"Ea;",-
+"o.&nPX",+
+"0a",-
+"M!XN",+
+"aI'9|SX",+
+"0M",-
+"RX",+
+"gSV",+
+"MU-5",+
+"Eaq",-
+"",-
+":GI",+
+"M&QYh",+
+";",-
+"}",-
+"iK4U4",-
+"M&2MT",+
+"NmQ.",-
+"o.&8JM",+
+"iK4Uh",-
+
+// ground truth 
+contain(repeatatleast(<cap>,2))

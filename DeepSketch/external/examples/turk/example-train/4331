@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(star(<m1>),or(<m0>,<let>))

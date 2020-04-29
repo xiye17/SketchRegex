@@ -1,0 +1,17 @@
+// example 
+"t1:0_",-
+"u&?W",-
+"}~RwP",-
+"u8P",+
+",'sp",-
+"I1j",+
+"",-
+"Q",-
+"b2g",-
+"h",-
+"i0",-
+"EmB",-
+"ic",-
+
+// ground truth 
+concat(concat(<vow>,<num>),<any>)

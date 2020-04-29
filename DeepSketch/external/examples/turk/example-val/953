@@ -1,0 +1,17 @@
+// example 
+"HS6",+
+"@#6b",-
+"R\P",-
+"{dc."",-
+"EH&n",-
+"(",-
+"udS'\",-
+"",-
+"tT",-
+"i",-
+"+}",-
+"oD2",+
+"{OP",-
+
+// ground truth 
+concat(concat(<let>,<cap>),<num>)

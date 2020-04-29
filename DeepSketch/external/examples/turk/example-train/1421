@@ -1,0 +1,20 @@
+// example 
+"QI"OaNoU0HEY*E",+
+"b}",-
+")N("O",-
+"AGvT&D5ZPMcI",+
+"sQ$UST0HSMrJSWOZ",+
+"m",-
+"8KsBXZ=TyYyX(B[C0ATB",+
+"m:k1",-
+"GLWQKD|G;Z",+
+"",-
+"bAz",-
+"bbp",-
+"mo>K",-
+")*]C<",-
+"XQUXXUoDGXnSqP@A>W",+
+"bQ",-
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),5)

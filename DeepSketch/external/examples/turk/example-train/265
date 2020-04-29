@@ -1,0 +1,17 @@
+// example 
+"G",-
+"U=%",-
+"a-",-
+"a",+
+"iZ%_",-
+"T?;",-
+"",-
+"5'",-
+"i",+
+"a*4:",-
+"u^z-f",-
+"i9dl~",-
+"{",-
+
+// ground truth 
+and(startwith(<let>),or(<m0>,<vow>))

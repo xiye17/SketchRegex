@@ -1,0 +1,16 @@
+// example 
+"NDfQr",+
+"rD~Z",+
+"/",-
+""R",+
+"Y:"",+
+"l2KfexJ;vo1",+
+"v%d8@HIh_",+
+"NT>F*H.$",+
+"@/j/f<d",+
+"",-
+"IkE'ST",+
+"JCWY#5.val",+
+
+// ground truth 
+or(repeatatleast(<any>,2),concat(<m0>,<vow>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"'(:ui",+
+"nSe]w1a",+
+"8<ww@pB|`",+
+"0yq!KE",+
+"t",+
+"V_lb",+
+"o=",+
+"dXe",+
+",RPHdW<[",+
+
+// ground truth 
+not(and(repeatatleast(<any>,3),<let>))

@@ -1,0 +1,25 @@
+// example 
+"}B_",-
+"+L",-
+"lMPXZGHQOW",+
+"~2",-
+"sTIDQMHY",+
+"}DX'",-
+"",-
+"cN",+
+"oUUQJJPOSYV",+
+""#3<{",-
+"rXD",+
+"7",-
+"78Bk",-
+"rBWMATU",+
+"p=L",-
+"{:sDN",-
+"wGDIJI",+
+"fFAPR",+
+"sZRWFIOLS",+
+"{",-
+"nZMI",+
+
+// ground truth 
+concat(<low>,repeatatleast(<cap>,1))

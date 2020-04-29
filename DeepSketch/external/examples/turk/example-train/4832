@@ -1,0 +1,15 @@
+// example 
+"",+
+"!NFJ",+
+"M",+
+"!R",+
+"dB",+
+",*C|",+
+"5U8",+
+"!",-
+"!Vq97",+
+"!gi",+
+"#[2>O",+
+
+// ground truth 
+repeatatleast(or(not(<m0>),<low>),5)

@@ -1,0 +1,17 @@
+// example 
+"FDT",-
+"qdnq",-
+"l*Z.j",-
+"o",+
+"q",-
+"a|pe",-
+"a",+
+"",-
+"hOHlO",-
+"j",-
+"a)",-
+"bj+",-
+"~]",-
+
+// ground truth 
+and(and(<any>,<vow>),<low>)

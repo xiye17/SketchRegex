@@ -1,0 +1,25 @@
+// example 
+"Iukr",+
+"uUB6I",+
+"E8Sz,",+
+"F}<",-
+"Oi7",+
+"o",+
+"p",-
+"U",+
+"LN",-
+"e_j",+
+"JXl9(",-
+"I{",+
+"",-
+"q/",-
+"AJsX",+
+"OZ",+
+"Ll,",-
+"Q|zJ",-
+"s]<$Y",-
+"K",-
+"`4!s",-
+
+// ground truth 
+startwith(repeatatleast(<vow>,1))

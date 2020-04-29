@@ -1,0 +1,24 @@
+// example 
+"2W0I3A7X8M3U",+
+"5Z7S6J",+
+"1N7X3Y1W",+
+"2",-
+"1H9M6S8R6M2G3M8Q",+
+"4q3^M",-
+"%20",-
+"",-
+")",-
+"8B",-
+"8c",-
+"0qk{",-
+"6C1L",+
+"I0R",-
+"2C2V1A8R0E8B6W",+
+"4ARHZ",-
+"0KLT",-
+"2E3J9V7M0Y1U7X6B2T",+
+"0E4U9N6H9J2J4E2L7F5D",+
+"4T7U9B8B2P",+
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),2)

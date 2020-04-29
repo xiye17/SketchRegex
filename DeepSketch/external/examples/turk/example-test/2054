@@ -1,0 +1,17 @@
+// example 
+"6j",-
+"MRLY"",-
+"XI5",+
+"q",-
+"MO1i&",-
+"",-
+"Ro!*",-
+";",-
+"Ro{=",-
+"FO+",-
+"Xa5",+
+"Xi",-
+"FOW",-
+
+// ground truth 
+concat(concat(<cap>,<vow>),<num>)

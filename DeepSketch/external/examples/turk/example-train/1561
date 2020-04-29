@@ -1,0 +1,25 @@
+// example 
+"p}qUw",+
+"3g{",-
+"`[ieo",-
+"%BH",+
+"^|UD",+
+"p}qaO",+
+"$-|^qI",+
+"Rp\7",-
+"`[ie=",-
+"3g`",-
+"",-
+"Rp\G",-
+"lE",+
+"QG",+
+"^|pE",+
+"%aV",+
+"$-|^XL",+
+"C",-
+"{}",-
+"{F",-
+"{",-
+
+// ground truth 
+contain(concat(<let>,<cap>))

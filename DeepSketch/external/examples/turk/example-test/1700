@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+contain(and(repeatatleast(<m0>,6),<any>))

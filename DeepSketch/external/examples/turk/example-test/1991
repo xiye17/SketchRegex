@@ -1,0 +1,26 @@
+// example 
+"?@qcdCXCOY",+
+"?@qc=KWHDR",+
+"R7CI",-
+",8[eKNNDX",+
+"IxINPK",+
+"5JEPKS",+
+",8[T=CWFO",+
+"",-
+"L6z`8",-
+"\PjGZQO",+
+"$",-
+"AOIOI",+
+"kM",-
+"]3Q{CIOC",+
+"4GJ",-
+"\PO3OYE",+
+"L6z`G",-
+"kk",-
+"R7Cf",-
+"]3QK!WLA",+
+"{",-
+"4G\",-
+
+// ground truth 
+repeatatleast(contain(<cap>),5)

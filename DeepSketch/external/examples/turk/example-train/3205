@@ -1,0 +1,25 @@
+// example 
+"3}4%V",-
+"4w7A9Q1N0P",+
+"2_3R",-
+"p",-
+"3i",-
+"%i#",-
+"!",-
+"9v8a9g7I2N1y8R2f",+
+"7c3j0S8m2F4x6T",+
+"4w7A9Q1N0i",+
+"",-
+"'#FK",-
+"6v0z1P8i0E6u",+
+"3$1K7",-
+"9v8a9g7I2N1y8R2Z",+
+"6v0z1P8i0E6Y",+
+"3=",-
+"7c3j0S8m2F4x6l",+
+"7f5V2C2T2c9g2t9F0D",+
+"l~|",-
+"7f5V2C2T2c9g2t9F0s",+
+
+// ground truth 
+repeatatleast(concat(<num>,<let>),5)

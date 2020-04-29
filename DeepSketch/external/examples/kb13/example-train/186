@@ -1,0 +1,25 @@
+// example 
+"eoIb>`",+
+"CHiO",-
+"UEL",-
+"ds",-
+"CHiA",-
+"k",-
+"woeu",+
+"jSOue",+
+"",-
+"AUa",+
+"KGGle",-
+"P",-
+"woee",+
+"eo@lAv",+
+"ecOu~[E",+
+"ecOAQ-0",+
+"UEf",-
+"jSOua",+
+"d~",-
+"KGGlQ",-
+"AUE",+
+
+// ground truth 
+repeat(contain(<vow>),3)

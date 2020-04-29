@@ -1,0 +1,25 @@
+// example 
+"r",-
+"\",-
+"{2o/",+
+"bcp",-
+"\p",-
+"mL",+
+"T",+
+"d8Z",+
+"b`i`k",+
+"7[p%",-
+"",-
+"ocf(",+
+"e",+
+"b`hqa",+
+"dzrd#",-
+"mi",+
+"i$#",+
+"bc=",-
+"\d",-
+"7[ps",-
+"dzrdl",-
+
+// ground truth 
+contain(or(<vow>,<cap>))

@@ -1,0 +1,17 @@
+// example 
+".",-
+"RZOI",-
+"M5",+
+"",-
+"C,",-
+"_+$",-
+"sf]1)",-
+"CZ",-
+"k6",+
+"#7b",-
+"}hxDU",-
+"~",-
+":`*,",-
+
+// ground truth 
+concat(or(or(<vow>,<cap>),<low>),<num>)

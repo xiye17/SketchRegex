@@ -1,0 +1,20 @@
+// example 
+"PBsKu)=:(S",+
+"/",-
+")eZFbf5JF,f-R",+
+"{c9'~Felt?NiuB",+
+"?Jz\.",-
+"SqZv9W",+
+"',}y}aLm=D\,bZK",+
+"9vL",-
+"~pZ3g/^X",+
+"M5+.h8};|",+
+"",-
+"N,'MGO+_p-:e",+
+"6H:Q",-
+"vBL{W$U",+
+"cfpx}xV`nCB",+
+"HD",-
+
+// ground truth 
+contain(repeatatleast(<any>,6))

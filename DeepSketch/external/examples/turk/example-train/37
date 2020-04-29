@@ -1,0 +1,15 @@
+// example 
+"Dv:(",+
+"i",+
+"uv",+
+"+A#1=be.",+
+"ei|",+
+"VZ2K!c",+
+".*[Sw.*",+
+"rvp}z1TiO",+
+"_JTRH4R>4f",+
+"",-
+"bpcO2",+
+
+// ground truth 
+or(contain(<low>),repeatatleast(<any>,1))

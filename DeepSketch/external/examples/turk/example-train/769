@@ -1,0 +1,16 @@
+// example 
+"r",-
+"~@c,J",-
+"o9(Z*",-
+".Y",-
+"q6d|",-
+"ca",-
+"qk"1",-
+"#",-
+"",-
+"<LQ",-
+"eL",+
+"{Ag",-
+
+// ground truth 
+and(repeatatleast(<let>,2),concat(<low>,<cap>))

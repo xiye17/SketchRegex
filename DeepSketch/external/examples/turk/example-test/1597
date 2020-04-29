@@ -1,0 +1,17 @@
+// example 
+"i9Qc0",-
+"!ejN5",-
+"!b",-
+"\u",-
+"!Ow",+
+"!",-
+"k",-
+"",-
+"!A|*",-
+"!ag",+
+"!U}",-
+"!@?r",-
+"by&",-
+
+// ground truth 
+concat(<m0>,concat(<vow>,<low>))

@@ -1,0 +1,15 @@
+// example 
+"LI~",+
+"<1=S#D@i",+
+")jy^",+
+"^+1Uk",+
+"#k2c{:",+
+"HhN:IZ<&pb",+
+"(",+
+"8}Z4&=O",+
+"!YjCYm0[[",+
+"i}",+
+"",-
+
+// ground truth 
+concat(repeatatleast(<any>,1),not(<m0>))

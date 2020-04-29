@@ -1,0 +1,21 @@
+// example 
+"Z",+
+"LbJ",+
+"#R",-
+"%gY",-
+"o",+
+"}CL`",+
+"~4",-
+"Sd",+
+""",-
+"",-
+"hW",+
+"2's1_",+
+"JGu7=",+
+"g6H",+
+"~oS",-
+"*I'W",+
+"~",-
+
+// ground truth 
+startwith(or(<let>,repeatatleast(<any>,4)))

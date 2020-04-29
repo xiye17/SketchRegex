@@ -1,0 +1,24 @@
+// example 
+"!A!V!Z!H!L!P!M",+
+"!Y!F!E!K!K!R!C!D!G",+
+".x.",-
+"!B!P!M",+
+"!BOId",-
+"!T!W!U!O",+
+"!O!P!E!K!D",+
+"!3^K",-
+"!",-
+"!N",+
+"!nf%",-
+"4IW"~",-
+"!X!O",+
+"",+
+"7",-
+"!%s",-
+"!r",-
+"!F!C!H!P!T!H!N!M",+
+"!L!R!X!E!P!D",+
+"!-",-
+
+// ground truth 
+star(concat(<m0>,<cap>))

@@ -1,0 +1,25 @@
+// example 
+"#!;^",+
+"!AdDxF",+
+"Vp7;",-
+":vd"(h",-
+"3",-
+";Yc\<y-",-
+"b!IP"",+
+"!",+
+"Jc",-
+"",-
+"bPe$QIfal",-
+"Z!",+
+""!H",+
+"!EdP",+
+"v!X)^$",+
+"!9",+
+"^t\",-
+"0iO+S",-
+""c!",+
+"!GbJh",+
+"qO%I:|k8",-
+
+// ground truth 
+contain(concat(star(<let>),<m0>))

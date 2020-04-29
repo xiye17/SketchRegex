@@ -1,0 +1,17 @@
+// example 
+"Quw",+
+"t",-
+"X{!I-",-
+"QWf",+
+"Qn",-
+"",-
+"!mXQ",-
+"X]xzl",-
+"$",-
+"0{",-
+"hFXt",-
+"7;/",-
+"wPS",-
+
+// ground truth 
+concat(concat(<cap>,<let>),<low>)

@@ -1,0 +1,25 @@
+// example 
+"!`",+
+"!T8-",+
+":k|!&",+
+"!v*?x",+
+"tKKzBm",-
+"rJ",-
+"Q!k",+
+"NmHsV",-
+"qk\kY>Gx",-
+"!",+
+"I4D",-
+"",-
+"O",-
+"u!",+
+"'B^`",-
+"{!$"4+",+
+"Q4!",+
+"{1H!}k",+
+"N!9H",+
+"{R4&bp<",-
+"a%J(?C0_k",-
+
+// ground truth 
+contain(startwith(<m0>))

@@ -1,0 +1,16 @@
+// example 
+"!v",+
+"!DZ]",-
+"5",-
+"![",-
+"!|",-
+"!",-
+"|u;",-
+"^BK7~",-
+"lc%Y",-
+"",-
+"!?2bv",-
+"!-X",-
+
+// ground truth 
+concat(<m0>,and(and(<let>,<low>),<any>))

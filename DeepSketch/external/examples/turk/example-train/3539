@@ -1,0 +1,15 @@
+// example 
+"",+
+"%",-
+"T6\"p",+
+">GG05HJdpv",+
+";j",+
+"4&%Y,bMZ",+
+"-PxRY"W3U",+
+"<W~",+
+"W\uE6q",+
+"E>=#",+
+"D6jqQ|]",+
+
+// ground truth 
+not(or(or(<let>,<any>),<m0>))

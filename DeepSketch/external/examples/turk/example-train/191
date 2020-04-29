@@ -1,0 +1,15 @@
+// example 
+"",+
+"HJ",+
+"D",+
+"4?v",+
+"dFju",+
+"!%v'*",+
+"!D",+
+"!%e",+
+"qMpUO",+
+"!",-
+"!yYJ",+
+
+// ground truth 
+not(and(<any>,startwith(<m0>)))

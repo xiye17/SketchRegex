@@ -1,0 +1,25 @@
+// example 
+"#e1}cL",+
+"dAO",+
+"tK",+
+"AD",+
+":jx",-
+"G2~`",-
+"<{",-
+"G2~~",-
+"9rYT",+
+"Lb_vQ",+
+"",-
+"dhM",+
+"9rxA",+
+"#e1}VI",+
+"=c:&`",-
+"=c:&4",-
+":j]",-
+"6",-
+"Lb_DH",+
+"<]",-
+"~",-
+
+// ground truth 
+endwith(concat(<let>,<cap>))

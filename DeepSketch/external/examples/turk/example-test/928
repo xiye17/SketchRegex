@@ -1,0 +1,25 @@
+// example 
+"N5f",-
+"8S63ODTO7",+
+"N5!",-
+"T5VTMT4",+
+"3",-
+">g",-
+"T5VTMTP",+
+"G0ST9U32",+
+"R49552G41U",+
+"K*~')",-
+"I84OJ1",+
+"K@;Fp",-
+"",-
+":",-
+"0W)E",-
+"I84OJE",+
+"R49552G416",+
+"G0ST9U3Q",+
+"8S63ODTON",+
+"e2",-
+"0W;7",-
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),6)

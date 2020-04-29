@@ -1,0 +1,17 @@
+// example 
+"F20[!",-
+"AgDC",-
+"@/~R",-
+"Iq",-
+"N0|>E",-
+"U",+
+"U4",-
+"H}k",-
+"#",-
+"",-
+"M$Q",-
+"H",-
+"A",+
+
+// ground truth 
+or(or(or(<vow>,<num>),<low>),<m0>)

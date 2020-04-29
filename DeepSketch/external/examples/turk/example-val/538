@@ -1,0 +1,25 @@
+// example 
+"wLyCOxzTRea",+
+"]D'r",-
+"wLyCOxzTReJ",+
+"V{",-
+"vpxGNqSDC",+
+"2D",-
+"wnqruVrf",+
+"ubmpzTVrDD",+
+"",-
+"GpgruUO",+
+"}",-
+"{MyY",-
+"vpxGNqSDy",+
+"O",-
+"LzVA{",-
+"L{5Z(",-
+"ubmpzTVrDa",+
+"\XK",-
+"?J4",-
+"GpgruUm",+
+"wnqruVrK",+
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),7)

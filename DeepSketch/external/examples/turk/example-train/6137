@@ -1,0 +1,17 @@
+// example 
+"^Oj0",-
+"Ax",+
+"q",-
+"M}`I",-
+"sz",-
+"AI",+
+"",-
+"AZ>",-
+"&wK}g",-
+"6",-
+".jC",-
+"xj!{2",-
+")!",-
+
+// ground truth 
+or(concat(<cap>,<let>),and(<m0>,<m1>))

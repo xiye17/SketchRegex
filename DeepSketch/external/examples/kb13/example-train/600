@@ -1,0 +1,25 @@
+// example 
+"]",-
+"txm&)",+
+"ms",-
+"KGt\[#8",+
+"6{"q`",-
+"Sxmx",+
+"oe]",-
+"KGP8Nag",+
+"^'|Yjr",+
+"oe(",-
+"txV!9",+
+"",-
+"m)",-
+"kKa",+
+"kKD",+
+"O",-
+"O[^f",-
+"^'|YjD",+
+"6{"q}",-
+"O[^{",-
+"SxXv",+
+
+// ground truth 
+and(endwith(contain(repeat(<let>,3))),startwith(contain(repeat(<let>,2))))

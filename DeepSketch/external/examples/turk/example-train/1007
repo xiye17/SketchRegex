@@ -1,0 +1,14 @@
+// example 
+"",+
+"r%AE4~",+
+"[i6f",+
+"&Ro-x%3",+
+"x3=2TiF&g",+
+"7DKG5(>S",+
+"2",+
+"N;",+
+"I[#",+
+"/fLO$",+
+
+// ground truth 
+contain(endwith(star(<vow>)))

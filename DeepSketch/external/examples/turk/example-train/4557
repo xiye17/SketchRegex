@@ -1,0 +1,17 @@
+// example 
+"a0",-
+"c2L",+
+"u8dG",-
+"",-
+"m&[1D",-
+"OCft7",-
+"|",-
+"a*",-
+"7)x",-
+"L",-
+"u8Zj",-
+"c2j",+
+"t_U",-
+
+// ground truth 
+concat(concat(<low>,<num>),<let>)

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"ccks",-
+"JH|U",+
+"~ck",-
+"*7~tH",-
+"cckK",-
+"U",+
+"+Hu",+
+"|A",+
+"GQpcA",+
+"~cF",-
+"",-
+"*7~tp",-
+"|O",+
+"UwPv",+
+"GQpci",+
+"e",+
+"+HA",+
+"1Z",-
+"1C",-
+"L",-
+
+// ground truth 
+contain(or(and(<m0>,<low>),<vow>))

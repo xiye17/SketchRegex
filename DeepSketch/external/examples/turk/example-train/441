@@ -1,0 +1,14 @@
+// example 
+"",+
+"V0~}-l@",+
+";^",+
+"K4b",+
+"^Z]\OVvt",+
+"vpj!",+
+"c@Q.T",+
+"u^|?mg/Z}",+
+"O.{T\p",+
+"z",+
+
+// ground truth 
+not(contain(and(and(<any>,<m0>),<num>)))

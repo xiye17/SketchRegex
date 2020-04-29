@@ -1,0 +1,25 @@
+// example 
+"r",-
+"dfa6i",+
+"h?g",-
+"U",+
+"2P1[",+
+"~x",-
+"f^pn",-
+"",-
+"c",-
+"=sM",+
+"/\u#",+
+"af",+
+"ddynr",-
+"h?]",-
+"7",+
+"=sa",+
+"f^ph",-
+"doy~(",+
+"~n",-
+",e",+
+"ddynn",-
+
+// ground truth 
+contain(or(or(<vow>,<cap>),<num>))

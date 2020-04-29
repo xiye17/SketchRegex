@@ -1,0 +1,25 @@
+// example 
+"!@aUua",+
+"%&Uie",-
+"!^",-
+"!JW~a",-
+"!AAO",+
+"!",-
+"uk",-
+"!|F",-
+"![%",-
+"!E",+
+"",-
+"!AA@",+
+"!Uouo",+
+"!@",+
+"!oE",+
+"!b*;",-
+"!|rg",-
+"!oi",+
+"!UouU",+
+"L",-
+"!@aUui",+
+
+// ground truth 
+concat(<m0>,repeatatleast(or(<vow>,<m1>),1))

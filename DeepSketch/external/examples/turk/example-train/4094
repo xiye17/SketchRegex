@@ -1,0 +1,25 @@
+// example 
+"IaB",+
+"Ir9buI",+
+"UA",+
+"bif",-
+"FUae",-
+"n",-
+"rI",-
+"IaI",+
+"EAAI",+
+"EAAJ",+
+"uHveA",+
+"",-
+"JIFwj",-
+"FUa[",-
+"Ir9buA",+
+"U",-
+"rC",-
+"JIFwU",-
+"uHveZ",+
+"bi~",-
+"UI",+
+
+// ground truth 
+endwith(concat(<vow>,<cap>))

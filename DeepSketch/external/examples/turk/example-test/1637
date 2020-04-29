@@ -1,0 +1,14 @@
+// example 
+"",+
+"K])Ph@GkF",+
+"ZP<iUT|",+
+"=^",+
+"0",+
+"%G,}",+
+"^ld[=m:K",+
+"mzX",+
+"M<~I3",+
+"Crhe@s",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<m2>))

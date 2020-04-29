@@ -1,0 +1,17 @@
+// example 
+"4w",+
+"F5BF+=",+
+"BB",-
+"J,WyX",+
+")iu",+
+")LS",+
+"F`4::y",+
+"",-
+"4-",+
+"3H;6",+
+"6",+
+"JM'.!",+
+"37:H",+
+
+// ground truth 
+concat(<any>,not(<cap>))

@@ -1,0 +1,19 @@
+// example 
+"R2B1",-
+"]",-
+"KtC_j",-
+"C"",-
+"K%;}V",-
+"lb",-
+"R2<b",-
+"+",-
+"D6T5H4N5J9D6A1",+
+"J6C4Z3O9Z5C0X8M4K0",+
+"",-
+"Q2E5H2L0B7A9V8O8",+
+"4Z}",-
+"L2E7M5L5J4T0R9I8X7X1",+
+"hlD",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),7)

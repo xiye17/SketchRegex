@@ -1,0 +1,21 @@
+// example 
+"OomLje$n)2",+
+"Qm`w)",-
+"T^h'Rxit#",+
+"Ab@#\;A%",+
+"^r",-
+"E=@.?>[8);997A",+
+"uisBNk",-
+"",-
+"ll>W",-
+"+PcR,)'.wz1K",+
+"[c(>*b3,O)1E^%7!",+
+"EQo^:-A?VLEn&,k",+
+"sEZH@\LIt[Q",+
+"Jk<Vhs4:JVsjh",+
+"puQWLoD",+
+"(4?",-
+"~",-
+
+// ground truth 
+endwith(repeatatleast(or(<m0>,<any>),7))

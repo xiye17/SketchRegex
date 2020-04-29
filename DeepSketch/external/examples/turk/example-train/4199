@@ -1,0 +1,14 @@
+// example 
+"",+
+"Od;",+
+"t,Bd~",+
+")Y+5L.*5",+
+"s7",+
+"y"Bj,t",+
+"?(~Z?Qp",+
+"I",+
+"aZnkYeYNo",+
+"5er#",+
+
+// ground truth 
+not(and(startwith(<let>),<m0>))

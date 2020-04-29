@@ -1,0 +1,25 @@
+// example 
+"C^`",-
+"]i5^",-
+"]i5a",-
+"74",-
+"]f]mr",+
+"X^R{;",-
+"",-
+"Zy",+
+"}",-
+"7j",-
+"X^R{_",-
+"]}M_Ri",+
+"]f]El",+
+"]}M_lq",+
+"[El",+
+"[nq",+
+"|?oa",+
+"I",-
+"el",+
+"|?Rs",+
+"C^c",-
+
+// ground truth 
+endwith(concat(<let>,<low>))

@@ -1,0 +1,26 @@
+// example 
+"L}c",-
+"!`~^",+
+"!\",+
+"*![",+
+"[LNt",-
+"[L|7",-
+",",-
+"L!n",-
+"!",+
+"!`~|",+
+"^",-
+"|P!}a",-
+"oAJ!|",+
+"",-
+"X!7_!!",+
+"!@",+
+"*!~",+
+"X!7_!|",+
+"*o",-
+"*4",-
+"|P!SH",-
+"oAJ!^",+
+
+// ground truth 
+concat(star(notcc(<let>)),concat(concat(star(<let>),<m0>),star(notcc(<let>))))

@@ -1,0 +1,21 @@
+// example 
+"JDyvV@",-
+"vr#P6AwtYORjlHpK",+
+"NT!RO]9Tw",+
+"<*2g|\@W6\4\O4",+
+"UdT",-
+"h1&~o",-
+"4J~VUDz~f_vwb",+
+"",-
+"%",-
+"n^zG:nY3'@",+
+"tU_[06#!QKi@gaa",+
+"AJ;?",-
+"Nb_~k"=",+
+"qKpc1ino!S"k",+
+"x",JG!u0",+
+"9w",-
+"<)j3g][>QLE",+
+
+// ground truth 
+repeatatleast(or(<low>,<any>),7)

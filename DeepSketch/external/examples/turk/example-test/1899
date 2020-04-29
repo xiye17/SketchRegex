@@ -1,0 +1,17 @@
+// example 
+"E|~1I",-
+"io8",+
+"C?r[",-
+"Iq1",+
+"",-
+"a",-
+"U}",-
+"Ud",-
+"i",-
+"PK~T",-
+"nOH",-
+"E@2>s",-
+"{=2",-
+
+// ground truth 
+concat(concat(<vow>,<low>),<num>)

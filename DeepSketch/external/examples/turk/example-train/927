@@ -1,0 +1,25 @@
+// example 
+"t4Q0",-
+"!`}",-
+"<QKWt",-
+"3",-
+"KJj",-
+"!S{XJ",+
+"!{",-
+"!B",+
+"!",-
+"!S{Xs",+
+"!no[4j",+
+"",-
+"!p]q}",-
+"!Wm",+
+"![.U",+
+"!m{_",-
+"!:",-
+"!n",+
+"![.r",+
+"!no[4H",+
+"!WK",+
+
+// ground truth 
+concat(repeatatleast(<m0>,1),endwith(<let>))

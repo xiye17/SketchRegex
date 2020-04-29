@@ -1,0 +1,25 @@
+// example 
+"0a9u",+
+"8b8q4e7f2v4e5w5s3n9u",+
+"6a6e9j3a9l",+
+"4}",-
+"3k3a9w",+
+"2",-
+"2j3r3i9b6t5o3e",+
+"6r6d2r1o8q8s7i7r",+
+"l?a&K",-
+"",-
+"4a3i6g6k4d2g",+
+"72tP",-
+"-uz3",-
+"6}Pc;",-
+"4)",-
+"1#!",-
+"6c",+
+"7h2n0k6s0h8t9m9g0j",+
+"1h5s3o3n",+
+"I",-
+"1|h",-
+
+// ground truth 
+repeatatleast(concat(<num>,<low>),1)

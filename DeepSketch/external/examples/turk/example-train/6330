@@ -1,0 +1,14 @@
+// example 
+"",+
+"Np*",+
+"s1",+
+"g/+i5",+
+"n#9x",+
+"pfep/+}",+
+"N",+
+"F+;P[[LmW",+
+"qrJG}s",+
+"SP\_,x{`",+
+
+// ground truth 
+not(and(<low>,<num>))

@@ -1,0 +1,25 @@
+// example 
+"RJKkNKKP",+
+"ZTDqT",+
+"\4",-
+"qD}",-
+"btZkNQpcV",+
+"W;I|K",-
+"\""",-
+"tdnOrL",+
+"PRLRtXE",+
+"Uq]=",-
+"",-
+"Uq-P",-
+"W]_gQ",-
+"RJKkNKjK",+
+"ZTDGL",+
+"9",-
+"PRLRtqI",+
+"|-",-
+"tdnOKX",+
+"btZkNQpUE",+
+"D",-
+
+// ground truth 
+concat(repeatatleast(<let>,4),<cap>)

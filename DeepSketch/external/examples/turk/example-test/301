@@ -1,0 +1,25 @@
+// example 
+"{!",+
+"3-VWE%{,o",-
+"[;x'l",-
+"!K2bl",+
+"!D",+
+"yv!#y?",+
+"!",+
+"y!/4.4",+
+"Qz(!",+
+"",-
+"*#ysPP|O",-
+"yJbC`D2",-
+"xC~",-
+"p#b)",-
+"Nr",-
+"o!|\L",+
+"g3!",+
+"!|-",+
+"}^<*kt",-
+"Qz!h",+
+"E",-
+
+// ground truth 
+contain(concat(star(<any>),<m0>))

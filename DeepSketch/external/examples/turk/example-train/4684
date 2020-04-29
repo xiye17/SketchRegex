@@ -1,0 +1,15 @@
+// example 
+"",+
+"+7x-",+
+"6S",+
+"!V;xg",+
+"!w",+
+"!p-E",+
+"+.`AY",+
+"!z&",+
+"!",-
+"z",+
+"bW\",+
+
+// ground truth 
+or(not(<m0>),startwith(<m1>))

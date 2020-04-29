@@ -1,0 +1,14 @@
+// example 
+"",+
+"FFRr0I",+
+"gCAhwrfJ",+
+"yV",+
+"XR*[",+
+")",+
+"j<_",+
+"x2pKY",+
+"xaC/8|X",+
+"f?o>{vON?",+
+
+// ground truth 
+or(star(<num>),startwith(<any>))

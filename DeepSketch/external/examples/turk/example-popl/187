@@ -1,0 +1,18 @@
+// examples
+"@",+
+"a!",+
+"@1",+
+"@a",+
+"e!a",+
+"e!@",+
+"@gggg",+
+"",-
+" ",-
+"1",-
+"b",-
+"a",-
+"a2",-
+"ab",-
+
+// ground truth 
+or(concat(<vow>,contain(<m0>)),startwith(<m1>))

@@ -1,0 +1,25 @@
+// example 
+"!ITF",+
+"!OO",+
+"!zA9",-
+"!G,p^xC",+
+"!FWpP",+
+"!FKU;A",+
+"!IvK",+
+"!",-
+"!H",-
+"",-
+"&",-
+"!zA^",-
+"!G,p^WE",+
+"!_":^",-
+"!FWIS",+
+"!~U",-
+"!q",-
+"@Uusy",-
+"!FKUiN",+
+"!oZ",+
+"!=v",-
+
+// ground truth 
+concat(startwith(concat(<m0>,<let>)),<cap>)

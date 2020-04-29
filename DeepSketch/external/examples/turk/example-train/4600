@@ -1,0 +1,16 @@
+// example 
+"1'",-
+"<X7",-
+"s'o",-
+"Q}}W",-
+"RdddS",-
+"q",-
+"v@[4",-
+",",-
+"hq",-
+"W",+
+"m)-,s",-
+"",-
+
+// ground truth 
+or(and(<let>,<m0>),<cap>)

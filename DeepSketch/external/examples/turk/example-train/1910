@@ -1,0 +1,16 @@
+// example 
+"3x",+
+"jBe",+
+"F",+
+"e&V6:",+
+"-9sB|",+
+"9",-
+"'=%?",+
+">]nH",+
+""C",+
+"&",+
+"",-
+")~A",+
+
+// ground truth 
+and(not(<num>),startwith(<any>))

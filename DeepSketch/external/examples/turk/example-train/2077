@@ -1,0 +1,16 @@
+// example 
+"",+
+"<t",+
+"$Dgj",+
+"^_",+
+"(*n&=",+
+"G~h",+
+"T",+
+"Gm{",+
+"W{r2",+
+"Nw",-
+"#",+
+"xm6AK",+
+
+// ground truth 
+not(concat(<cap>,<low>))

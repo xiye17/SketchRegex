@@ -1,0 +1,25 @@
+// example 
+"UY-",+
+"tv",-
+"HSOq",+
+"KI",+
+"HSO&",+
+"Hv`",-
+"QTZEF",+
+"CPXMWD",+
+"CPXMWp",+
+"Y,Rt",-
+"",-
+"LIad'",-
+"?$",-
+"UY|",+
+"Kg",+
+":(OH",-
+"y",-
+"I",-
+"(0gu9",-
+"QTZEa",+
+"+]N",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),or(<vow>,<any>))

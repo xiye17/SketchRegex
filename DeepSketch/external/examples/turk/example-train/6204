@@ -1,0 +1,25 @@
+// example 
+"C8",-
+"R.:",-
+"HcFQ",-
+"BTA",+
+"U%uM",+
+"EL8HN",+
+"CG",-
+"l",-
+"R.d",-
+"",-
+"QE",+
+"HcFK",-
+"HGIF",+
+"I",+
+"BTU",+
+"AWxC.",+
+"FSMCW",-
+"FSMCS",-
+"B",-
+"A",+
+"QO",+
+
+// ground truth 
+contain(and(<cap>,<vow>))

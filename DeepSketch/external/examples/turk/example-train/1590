@@ -1,0 +1,25 @@
+// example 
+"I+",+
+"[jC",-
+"&0",-
+"Chxf",-
+"bPdGL",-
+"Mo;b",+
+"AP",+
+"&\",-
+"",+
+"[jc",-
+"Chxr",-
+"e",+
+"aW]G!",+
+"h",-
+"i",+
+"gOc",+
+"Ci,c%",+
+"R",-
+"gtI",+
+"bPdG7",-
+"ivDJ",+
+
+// ground truth 
+star(contain(or(<vow>,<m0>)))

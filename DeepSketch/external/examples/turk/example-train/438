@@ -1,0 +1,25 @@
+// example 
+"en{",-
+"tysrB7]",+
+"kbdyoT9J1",+
+"ehwa%",+
+"zz*^",-
+"pntbOF+/g?](",+
+"{4JMj",-
+"xhwfahuq2Z",+
+"{l",-
+"eBs",-
+"womcuu<]##V",+
+"",-
+"}",-
+"hwat",+
+"aphvHr",+
+"ei",-
+"mqxuG44&",+
+"tuyuu%K^EHEZR",+
+"v",-
+"zz|D",-
+"dog~l",-
+
+// ground truth 
+startwith(repeatatleast(<low>,4))

@@ -1,0 +1,15 @@
+// example 
+"L8i",-
+"LF}",-
+"qE",+
+"5",-
+"c/",-
+"_.#S",-
+"c\",-
+"J9.F1",-
+"_}zG",-
+"",-
+"JA2?I",-
+
+// ground truth 
+concat(or(or(<any>,<let>),<m0>),<cap>)

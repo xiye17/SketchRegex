@@ -1,0 +1,17 @@
+// example 
+"XDCdm",-
+"e",-
+"iF",+
+"",-
+";"",-
+"uZK",-
+"D?E",-
+"O!Ce",-
+"c)",-
+"h",-
+"o:T;'",-
+"i!",+
+"NRh0",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<cap>),<m1>))

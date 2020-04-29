@@ -1,0 +1,25 @@
+// example 
+";CXud",-
+"F",+
+"n",+
+"_k",-
+"i*LUm",+
+",",-
+"P3=I",+
+"",-
+"Tl",+
+"Za'",+
+"~Dck+",-
+"zp.A",+
+"#w#C",-
+"s\",+
+"JcI^6",+
+"]S7",-
+"z,U",+
+"{\.|",-
+"~35",-
+"}w",-
+"~",-
+
+// ground truth 
+concat(repeatatleast(<let>,1),not(<cap>))

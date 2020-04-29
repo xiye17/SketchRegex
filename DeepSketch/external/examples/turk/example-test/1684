@@ -1,0 +1,25 @@
+// example 
+"UY",+
+"e!",+
+"[",-
+"S'/%n",+
+"NO{d",+
+"l2b",+
+"~L-0)",-
+"Nrt?1l",+
+"",-
+"`xIc:",-
+"l2/",+
+"S'TWf",+
+"]AW",-
+"|",-
+"|}",-
+""L",-
+"NrR_Hd",+
+""as",-
+"[6fe",-
+"~au>",-
+"NOZN",+
+
+// ground truth 
+concat(concat(<let>,<any>),not(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"sA7r",-
+"o0t",+
+"o!5",+
+"O!{}",+
+"mDg{",-
+"Y0",-
+"uo!>n",+
+"u!O$W",+
+"",-
+"u!",-
+"e",+
+"u{",+
+"o-",+
+"j",-
+"dw)",-
+"O5TX",+
+"5t|in",-
+"u",+
+"w",-
+"dFbY=",-
+"KPA",-
+
+// ground truth 
+concat(and(<vow>,<let>),not(<m0>))

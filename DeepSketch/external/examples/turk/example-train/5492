@@ -1,0 +1,17 @@
+// example 
+"I/",-
+"JUEJ2",-
+"Az5",-
+"anBs,",-
+"EhA",+
+"",-
+"ax8e",-
+"Wk",-
+"a|%9",-
+"O",-
+"A@w",-
+"uoW",+
+"I",-
+
+// ground truth 
+concat(concat(<vow>,<low>),<cap>)

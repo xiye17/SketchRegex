@@ -1,0 +1,25 @@
+// example 
+"\",-
+"}uP~",-
+"cC"Y-",+
+"ZY",+
+"BC<fe9",+
+"jRT",+
+"Ua",-
+"yA_@",+
+";6AH@",-
+"CN:\",+
+"",-
+"]unJ",-
+"VV!Y-",+
+"}",-
+"\kb",-
+"1=P",-
+"U$",-
+"u,xAu",-
+"vD",+
+"TUg",+
+"aAY)~l",+
+
+// ground truth 
+startwith(concat(<let>,<cap>))

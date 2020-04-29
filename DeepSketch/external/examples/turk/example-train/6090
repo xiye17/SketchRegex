@@ -1,0 +1,25 @@
+// example 
+"3cruaegajli",+
+"5dfqrprq",+
+"9hwztwdrdo",+
+"8/",-
+"1qrbkawma",+
+"2nix",+
+"5",-
+"{syf",-
+"2et",+
+"+",-
+"",-
+"8a",+
+"'w",-
+"2=jp_",-
+"4djxb",+
+"T[c",-
+"2q`,L",-
+"8nvucz",+
+"9uosheo",+
+"/%U",-
+"5~%5",-
+
+// ground truth 
+concat(<num>,repeatatleast(<low>,1))

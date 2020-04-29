@@ -1,0 +1,17 @@
+// example 
+"F\",+
+"OVwb",+
+"FRV<E",+
+"o3:",+
+"*",+
+"aue",+
+"ImVY",+
+"Ub",+
+"a",-
+"",+
+"B",+
+"O1&J4",+
+"E",-
+
+// ground truth 
+not(or(or(<vow>,<m0>),<num>))

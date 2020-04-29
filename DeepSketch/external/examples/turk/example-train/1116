@@ -1,0 +1,14 @@
+// example 
+"",+
+"<C.",+
+"/",+
+"{N",+
+"}:i!D",+
+"2J&B6.p",+
+"u7ZM09",+
+"nROHb2-;1",+
+"$_7n@\j$",+
+":/C}",+
+
+// ground truth 
+contain(or(<vow>,not(<m0>)))

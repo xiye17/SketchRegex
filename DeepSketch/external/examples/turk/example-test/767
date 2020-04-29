@@ -1,0 +1,19 @@
+// example 
+"wTxTQ$\2&@g",+
+"\1TT",-
+"Wn",-
+""xxPr#k~=cUk(",+
+"-",-
+"!=4~L3d",+
+"",-
+"/p@Jd"&x",+
+"1%l(.uE;X",+
+"=KZBAO!>/rY)",+
+"/m|~R",+
+"'!hoItw^f;",+
+"3v")8[{'{\2$Y2",+
+"=J=:`]",+
+"4n0",-
+
+// ground truth 
+repeatatleast(or(<let>,<any>),5)

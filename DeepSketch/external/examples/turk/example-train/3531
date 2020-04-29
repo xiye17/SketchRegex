@@ -1,0 +1,17 @@
+// example 
+"PC3#k",+
+"eJOk<",+
+"o/",+
+"m",-
+")k",+
+"%",+
+"",+
+")Y5C",+
+"R}e",+
+"{",+
+"yM|",+
+"dGwu",+
+"D",-
+
+// ground truth 
+or(not(<let>),concat(<vow>,<m0>))

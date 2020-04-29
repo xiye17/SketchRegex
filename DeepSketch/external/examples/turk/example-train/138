@@ -1,0 +1,15 @@
+// example 
+"m0",-
+"Vsl];",-
+"d]t",-
+"!UC",-
+"!*jcH",-
+"!8",+
+"!",-
+"%$WU",-
+"H",-
+"",-
+"!Sm&",-
+
+// ground truth 
+concat(<m0>,or(<vow>,<any>))

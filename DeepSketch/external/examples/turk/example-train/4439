@@ -1,0 +1,25 @@
+// example 
+"1xehV",+
+"-",+
+"oScs:",-
+"Q=",-
+"B&S",-
+"4[X",+
+"v=4j",-
+"]B#6y",+
+"w)",-
+"b",-
+"",+
+"}r",+
+"}-3",+
+">zuk",+
+"U",-
+"jk:",-
+"Ms,+",-
+"RRsPn",-
+"_oFW",+
+""B",+
+"}",+
+
+// ground truth 
+not(repeatatleast(startwith(<let>),1))

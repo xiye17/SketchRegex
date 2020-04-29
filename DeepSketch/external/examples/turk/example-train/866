@@ -1,0 +1,25 @@
+// example 
+"}sr",-
+"!Y}u~$",+
+"5r",-
+"!",+
+"!F",+
+"spSTP",-
+"",-
+"sp~S^",-
+"a",-
+"%Ap",-
+"|",-
+"!G3",+
+"!RR_",+
+"!40)g",+
+"ndxX",+
+"otz",+
+"wmqSP",+
+"}y",-
+"tvh4W{",+
+"{5f;",-
+"sa~o",-
+
+// ground truth 
+startwith(or(repeatatleast(<low>,3),<m0>))

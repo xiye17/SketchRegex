@@ -1,0 +1,25 @@
+// example 
+"*zVL",-
+"[3e",-
+"Z1",-
+"Z{I0Qs56use7",+
+"Ky$C^0tq%",+
+"uGpaT|PHaC=7",+
+"k13$4",-
+"TzR.~4nLEy",+
+"cL{@v{q[I4",+
+"f3hI[36d",+
+"=kc",-
+"}'b1+",-
+"",-
+"RrC*duA\",+
+"ld2s4},}{~7",+
+"]n6U",-
+"=",-
+"P(D^0jbECtF",+
+"yu;0pgaps",+
+"x",-
+"[A",-
+
+// ground truth 
+concat(<let>,repeatatleast(<any>,7))

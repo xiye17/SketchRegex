@@ -1,0 +1,25 @@
+// example 
+"k]Yv",+
+"Qh",+
+"qL",+
+"3{^",-
+"k}~^",-
+"ObJ",+
+"X_`Wy",+
+"3{}",-
+"k]eO",+
+"L}z~mD",+
+"k}~o",-
+"",-
+"X_`vV",+
+"p~#8^",-
+"L_",-
+"i",-
+"?",-
+"L:",-
+"OYe",+
+"Lt}+nP",+
+"p~#8|",-
+
+// ground truth 
+contain(and(concat(star(<let>),concat(<cap>,star(<let>))),concat(star(<let>),concat(<low>,star(<let>)))))

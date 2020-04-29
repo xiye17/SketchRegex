@@ -1,0 +1,15 @@
+// example 
+"",+
+"^DAH?Xs`",+
+"T",-
+";ApT{BL9WV",+
+";%\~",+
+"&j",+
+"h<CSUB=",+
+"<~|g[1",+
+"!m&{/",+
+"pHA%x\]eb",+
+":=v",+
+
+// ground truth 
+not(or(or(<m0>,<any>),<num>))

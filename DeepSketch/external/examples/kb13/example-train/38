@@ -1,0 +1,25 @@
+// example 
+"O|uuTR",+
+"eeu",-
+"dP|E",-
+"dlieo",+
+"To=XIqUOT",+
+"dP|a",-
+"dlieu",+
+"eea",-
+"E_onU_t",+
+"fojeEyp+",+
+"",-
+"}",-
+"fojehCZA",+
+"To=XIqiC}",+
+"p_pMA",-
+"O",-
+"uG",-
+"uJ",-
+"p_pMh",-
+"E_onU_V",+
+"O|uuTf",+
+
+// ground truth 
+and(repeatatleast(contain(<vow>),3),repeatatleast(contain(repeatatleast(<let>,1)),5))

@@ -1,0 +1,24 @@
+// example 
+"Hqfuqirser",+
+"o",-
+"~O-!d",-
+"vixiyfslywewx",+
+"\kcosnzn",+
+"Muzjeykhjmrwas",+
+"gyhiyso",+
+"Ekqlhtgsztcj",+
+"",-
+"vbzycepkkdljvnl",+
+"{}}&",-
+"~~_g&",-
+"d{",-
+"or~",-
+"Ofdyhrpeptftdsgt",+
+"pnsklfdtv",+
+"orV",-
+"{UNb",-
+"0iimwagwvij",+
+"dP",-
+
+// ground truth 
+concat(<any>,repeatatleast(<low>,6))

@@ -1,0 +1,17 @@
+// example 
+"MmE",+
+"2U'",-
+"*",-
+"N^",-
+"",-
+"V3?eI",-
+"Mmo",+
+"/Ua\",-
+"N}",-
+",hLY`",-
+"{",-
+"U%r",-
+"o@C&",-
+
+// ground truth 
+concat(concat(<cap>,<low>),<vow>)

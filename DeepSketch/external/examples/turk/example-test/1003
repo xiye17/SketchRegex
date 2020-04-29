@@ -1,0 +1,25 @@
+// example 
+"u&~/",-
+"jpODo",+
+"Bk|",-
+"Bk=",-
+"jo~~5",-
+"=Th",+
+"jpOgc",+
+"",-
+"(X",-
+"=px",+
+"u&~|",-
+"Db|e",+
+"#~iwNg",+
+"w}0|F{e",+
+"wz",+
+"Dbci",+
+"#~iw|g",+
+"w}0|FAv",+
+"H",-
+"(}",-
+"jo~~~",-
+
+// ground truth 
+concat(startwith(<any>),<low>)

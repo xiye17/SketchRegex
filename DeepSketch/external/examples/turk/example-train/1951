@@ -1,0 +1,25 @@
+// example 
+"!KW|",+
+"!ONTFSC",-
+"!xW",+
+"!PN",-
+"!v_4-",+
+"!Q",-
+"+",+
+"!",+
+"!yGh",+
+"",+
+"!XGS",-
+"mP",+
+"!:l",+
+"!PSUUV",-
+"!KSZUMAWERR",-
+"!?nr>",+
+"!#",+
+"!SBIJ",-
+"!COIBHRO",-
+"!VEOCBBVVM",-
+"!EOXKBGQF",-
+
+// ground truth 
+not(concat(<m0>,repeatatleast(<cap>,1)))

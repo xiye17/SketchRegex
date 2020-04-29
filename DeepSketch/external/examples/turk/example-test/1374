@@ -1,0 +1,25 @@
+// example 
+"]'>"",-
+"c!1J|-",+
+"EU@",-
+"Y!`[",+
+"m!cy=",+
+"F!",+
+"P!1V@,",+
+"[hW^1",-
+"(",-
+"r[",-
+"",-
+"z!V",+
+"r!Ft",+
+"BjyhB",-
+"z!",+
+"A!JHI",+
+"D!]",+
+"vWr",-
+"m,wW",-
+"{",-
+"|-",-
+
+// ground truth 
+repeatatleast(startwith(concat(<let>,<m0>)),1)

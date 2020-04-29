@@ -1,0 +1,14 @@
+// example 
+"",+
+"uLh^!Z",+
+"K_<cs<p1",+
+"6MVv1=>GF",+
+"3&e{",+
+"}v",+
+"pL~",+
+"+",+
+"%iddE/K",+
+"G)B:*",+
+
+// ground truth 
+not(and(repeatatleast(<cap>,2),<m0>))

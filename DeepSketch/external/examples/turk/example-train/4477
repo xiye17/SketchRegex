@@ -1,0 +1,25 @@
+// example 
+"IW",+
+"{(D|",-
+"qZ|",-
+"p",-
+"SpolZ<JcIR",+
+"i949z",-
+"~F",-
+"SpolZ<Jcs>",+
+"",-
+"H5r#W[",+
+"[r",-
+"i9o=}",-
+"GIdn",+
+"a}",+
+"GIMD",+
+"yzeqIMn~",+
+"H5r#wo",+
+"yzeqIMG}",+
+"qZH",-
+"{",-
+"i_!\",-
+
+// ground truth 
+repeatatleast(concat(<let>,<any>),1)

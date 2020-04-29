@@ -1,0 +1,25 @@
+// example 
+"Od",-
+"k8iD",-
+"O|",-
+"cy=!j",-
+"Ado",+
+"ipje",+
+"Gar]",-
+"E|k",-
+"Eg6",-
+"Ujxwvwu",+
+"Evj",+
+"",-
+"f",-
+"D@y?b",-
+"egnwb",+
+"O",-
+"Avbgqir",+
+"igssne",+
+"odmn",+
+"oaoed",+
+"euzxpg",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<low>,2))

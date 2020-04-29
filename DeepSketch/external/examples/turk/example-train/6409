@@ -1,0 +1,15 @@
+// example 
+"1'"&",+
+"i!j",+
+"3B^AM[dbN",+
+"v'&z*'",+
+":55@Yxf",+
+".YoUF{DD",+
+"|,^^4",+
+"4a",+
+"><G6>z5zS$",+
+"C",+
+"",-
+
+// ground truth 
+repeatatleast(contain(<any>),1)

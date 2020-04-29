@@ -1,0 +1,25 @@
+// example 
+"5I5E7i3a",-
+"q",+
+"1",+
+"3L_",+
+"67",+
+"g4B-g",+
+"4i8O9i5e9u",-
+"6C",+
+"",-
+"4i8O9i5e9o",-
+"8arM",+
+"2u8E6a",-
+"3PN",+
+"5I5E7i3i",-
+"6U9o",-
+"8a3m",+
+"2u8E6o",-
+"8i",-
+"%b,YW",+
+"8a",-
+"6U9A",-
+
+// ground truth 
+not(star(concat(<num>,<vow>)))

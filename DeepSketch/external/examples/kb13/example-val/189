@@ -1,0 +1,25 @@
+// example 
+"G",-
+"]",-
+"W+m_\",-
+"0_]{],YXRrwhWuGU",+
+"BQ}~",-
+"D?d|sDEANPhICS",+
+"W+m_7",-
+",pIVfVaPyyw]",+
+"`9ZTGNychBpx>",+
+"{_7h]CVmaWyVLgc",+
+"{_7h]CVmaWyVLgU",+
+"`o}",-
+"BQ}l",-
+"",-
+"`9ZTGNychBpB%",+
+"0_]{],YXRrwhWuGu",+
+"W}",-
+"WA",-
+",pIVfVaPyyBy",+
+"D?d|sDEANPhICr",+
+"`o)",-
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,5)),2)

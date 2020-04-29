@@ -1,0 +1,21 @@
+// example 
+"9uU`y0s",+
+"vN0<V=3\3t534@",+
+"THjI&7z-",+
+""wENUn",-
+"5TRr",-
+"u(7\0R!7-Wn",+
+"9P([a\<;"O\L",+
+"",-
+"`;3",-
+"j",-
+"1{",-
+"K5g20)?$C",+
+"vv+H}<<p7sW*+SDg",+
+"&^m~:fi,fQ",+
+"b}edy'OJAN'D\r|",+
+"(b7Xpdte2n;*]",+
+"Jou[1",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),7)

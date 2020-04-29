@@ -1,0 +1,15 @@
+// example 
+"['-",+
+"Qbk>$]0AO>",+
+"'.",+
+"4",+
+"#lC`Q",+
+"8;]W;i!",+
+"YAtvh<",+
+")[0ajQ4n",+
+"KSJ-qo6t*",+
+"",-
+"KFyF",+
+
+// ground truth 
+endwith(or(repeatatleast(<any>,1),<vow>))

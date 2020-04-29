@@ -1,0 +1,17 @@
+// example 
+"e5",+
+"o",-
+"X",-
+"qhW",-
+"",-
+"ow",-
+"CJj",-
+"O'5@;",-
+"i8",+
+"a04[",-
+"o%",-
+"ORAKa",-
+"aJHy",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<m1>),<num>)

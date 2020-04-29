@@ -1,0 +1,14 @@
+// example 
+"",+
+"pZK6Ja",+
+"[C",+
+":",+
+"58-",+
+"<zpWt",+
+"IJ8}",+
+"lcl(XNY",+
+"tq'+3I|a+",+
+"5[_NN{x*",+
+
+// ground truth 
+contain(endwith(star(<any>)))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"r8b7tdy8(",+
+"JE",+
+"h>XuO",+
+"H%@mKlpn",+
+"z|0",+
+"6RE:2XO",+
+"_c'-Rc",+
+"FEMB",+
+"]",+
+
+// ground truth 
+endwith(or(not(<let>),<num>))

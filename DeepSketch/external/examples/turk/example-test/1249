@@ -1,0 +1,25 @@
+// example 
+"|L|j!",+
+"|y4",+
+"`b",+
+"E!c!I!",-
+"v!f!F!c!",-
+"J!",-
+"",+
+"r!y!T!W!g!",-
+"\:y",+
+"`=_W",+
+"r!y!T!W!J!",-
+"O)",+
+"i",+
+"v!f!F!I!",-
+"J",+
+";ol=q",+
+"q!",-
+"c!o!",-
+"c!I!",-
+"E!c!t!",-
+"B!XC",+
+
+// ground truth 
+not(repeatatleast(concat(<let>,<m0>),1))

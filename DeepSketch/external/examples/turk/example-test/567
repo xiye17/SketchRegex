@@ -1,0 +1,25 @@
+// example 
+"4O",-
+"1EuAaU",+
+"0oE",-
+"yZaFM",-
+"3UEOeoua",+
+"1EuAaa",+
+"",-
+"2Uiee",+
+"4eaoaEO",+
+"4eaoaEe",+
+"9oUI",+
+"7f+n",-
+"8",-
+"0oB",-
+"3UEOeouu",+
+"2UieI",+
+"7BM@",-
+"1eiad",-
+"K",-
+"4h",-
+"9oUA",+
+
+// ground truth 
+concat(<num>,repeatatleast(<vow>,3))

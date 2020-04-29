@@ -1,0 +1,24 @@
+// example 
+"F",-
+"OhVhCpPmIeJgMqMr",+
+"W~#p",-
+"GcBrMpKmShDsBh",+
+"MLEjv",-
+"XgEjXxCoXzDhQdSeXq",+
+"-}",-
+"BjVoJiJtEqKz",+
+"",+
+"Rh",+
+"XfZa",+
+"|",-
+"TiKuTpWsEl",+
+"M|>4)",-
+"W"gR",-
+"HyIwHz",+
+"fI",-
+"M.G",-
+"M|9",-
+"FaGjRrFc",+
+
+// ground truth 
+star(concat(<cap>,<low>))

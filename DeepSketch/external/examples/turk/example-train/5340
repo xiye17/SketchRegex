@@ -1,0 +1,16 @@
+// example 
+"7IT4E",-
+"FBT",-
+"AE",+
+"&v",-
+"7D.oD",-
+"[BT&",-
+"&d",-
+"Ao",+
+"F}&",-
+"[T^,",-
+"",-
+"b",-
+
+// ground truth 
+concat(or(or(<any>,<m0>),<num>),<vow>)

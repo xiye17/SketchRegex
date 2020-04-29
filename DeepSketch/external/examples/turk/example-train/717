@@ -1,0 +1,25 @@
+// example 
+"FTv",-
+"[",-
+"[\Ad",-
+"3",-
+"P^",-
+"LDZVPOOZLX!",+
+"$3",-
+"LMDKHJ!",+
+"ISJXPWLBRPN!",+
+"",-
+"RVESDUOQYTQCPJ!",+
+".?tb",-
+"Dzmc8",-
+"RNPZHND!",+
+"ELPWPWEVZ!",+
+"LOFAQZRBFQLL!",+
+"MXHDUTNW!",+
+"D'?7q",-
+"FT9",-
+"FHCFC!",+
+"QXKROUZMBGLZQ!",+
+
+// ground truth 
+concat(repeatatleast(<cap>,5),<m0>)

@@ -1,0 +1,20 @@
+// example 
+"kZ",-
+"_&:^BM/L2juYY$7",+
+"udlbGZ@/5n",+
+"#MG.{-Ha4O3",+
+"",-
+"&",-
+"\:gI@=",+
+"nSV&<ST",+
+"JTg~zNWqd^Z<",+
+"Z^:%",-
+"6R*Tt.,0wN1=j#",+
+"vkbJDTUL",+
+"~y7a$G%}.",+
+"~l5WC",-
+"tnomA^4ypiOZi",+
+"f?6",-
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),6)

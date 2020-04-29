@@ -1,0 +1,15 @@
+// example 
+"$<Gs9uy",+
+"v_#T{",+
+":P]:",+
+"=WrY2uc5(",+
+"53:",+
+"%Y<y1?A#{o",+
+"VH",+
+"C",+
+"",-
+"/Cdd+i",+
+".wowKL#p",+
+
+// ground truth 
+contain(or(or(<let>,<any>),<num>))

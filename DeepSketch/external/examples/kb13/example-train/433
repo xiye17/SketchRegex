@@ -1,0 +1,25 @@
+// example 
+"`@1I",-
+"tJzB5l",+
+"{tSvU",+
+"*",-
+"ug",-
+"||-",-
+"#}:%G",-
+"|A[SCAn",+
+"",-
+"xAfL",+
+"tJze8E",+
+"||{",-
+"{tSvf",+
+"`@1}",-
+"f`cfxR_a",+
+"xAfw",+
+"u~",-
+"#}:%[",-
+"f`cfxh4_",+
+"|A[SCAR",+
+"~",-
+
+// ground truth 
+contain(repeat(<let>,4))

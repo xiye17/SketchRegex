@@ -1,0 +1,25 @@
+// example 
+"r",-
+"dD",-
+"GouHjA",+
+"^k[L!",-
+"Zuoi",+
+"IST",-
+"fO_>a",+
+"ZuoA",+
+"5trU!",-
+"XA",+
+"",-
+"Tbo7",-
+"XI",+
+"db",-
+"TboG",-
+"xwu",+
+"GouHje",+
+"|",-
+"xwa",+
+"fO_>A",+
+"ISq",-
+
+// ground truth 
+concat(startwith(<let>),<vow>)

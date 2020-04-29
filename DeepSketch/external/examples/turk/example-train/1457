@@ -1,0 +1,17 @@
+// example 
+"oH",+
+"e22]y",-
+"3(",-
+"",-
+"Z~",-
+"h)T@",-
+"eV",+
+"O",-
+"UiI",-
+"ewnS`",-
+"UH^",-
+"C",-
+"Q`r8",-
+
+// ground truth 
+concat(and(<vow>,<any>),<cap>)

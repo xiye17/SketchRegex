@@ -1,0 +1,17 @@
+// example 
+"rc^",-
+"o",-
+"!7",+
+"oK",-
+"i!x1",-
+"Q8",+
+"ijuX",-
+"",-
+"r*W/R",-
+"e.9",-
+"fo:7M",-
+"z",-
+"o"",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<vow>),<num>)

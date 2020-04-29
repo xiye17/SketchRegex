@@ -1,0 +1,15 @@
+// example 
+"<",-
+"j3",+
+"E9)/",-
+"zVH",-
+"E`L#",-
+"[x",-
+"[,",-
+"ljkv\",-
+"l'?lU",-
+"z*0",-
+"",-
+
+// ground truth 
+concat(or(<any>,<cap>),<num>)

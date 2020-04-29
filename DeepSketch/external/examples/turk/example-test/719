@@ -1,0 +1,17 @@
+// example 
+"ip$|Q",-
+"",-
+"EF",+
+"a",-
+"O8",-
+"O[",-
+"i<H#",-
+"ih`W",-
+"bVH",-
+"uF",+
+"EQ5",-
+"B",-
+"i"v3R",-
+
+// ground truth 
+and(endwith(<cap>),concat(<vow>,<let>))

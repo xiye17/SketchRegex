@@ -1,0 +1,15 @@
+// example 
+"",+
+"$",-
+"9Gr/I>",+
+"8Q'Emo]",+
+"\d;A",+
+"ET",+
+"ve/K]",+
+"j=K",+
+"+wKO4Qq`'",+
+"/JS`:%-%",+
+"6J#-b^(>]\",+
+
+// ground truth 
+not(or(or(<any>,<num>),<vow>))

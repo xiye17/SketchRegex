@@ -1,0 +1,17 @@
+// example 
+"z@",+
+"B(",-
+">6C",-
+"BY",-
+"xqjj",-
+"",-
+"x)7F",-
+"!@",+
+"u@)"J",-
+"K",-
+"u+lLA",-
+"~",-
+"CZ/",-
+
+// ground truth 
+concat(or(or(<cap>,<m0>),<let>),<m1>)

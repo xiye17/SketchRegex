@@ -1,0 +1,15 @@
+// example 
+"tU",+
+"kp",-
+"TD5",-
+"8",-
+"TyD",-
+"[Nl&",-
+"[zT!",-
+"W{_eN",-
+"W!3P+",-
+"",-
+"k'",-
+
+// ground truth 
+concat(or(or(<m0>,<low>),<any>),<cap>)

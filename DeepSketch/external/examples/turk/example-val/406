@@ -1,0 +1,25 @@
+// example 
+">E!o",-
+"Ef",+
+"OWU",+
+"BMRleZ",+
+"B$",-
+"pl~L",-
+"kxuyl",+
+"EG",+
+"",-
+"|",-
+"\%E",-
+"i",-
+"IYep",+
+"OWz",+
+"B]",-
+"kxuyJ",+
+"IYeX",+
+"BV-Mj",-
+"BMRlen",+
+"BV]P=",-
+"+jV",-
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),2)

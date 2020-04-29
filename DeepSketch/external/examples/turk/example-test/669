@@ -1,0 +1,25 @@
+// example 
+"[P-a<",+
+"wLD",-
+"Ztc]",-
+"dA",+
+"KlTO",+
+"^",-
+"",-
+"H(v$t",-
+"MAb",+
+"gs",-
+"gv",-
+"i",+
+"[P-i[",+
+"O",+
+"MI'",+
+"wLK",-
+"y",-
+"itJm",+
+"ZtcM",-
+"dI",+
+"H(v$T",-
+
+// ground truth 
+repeatatleast(contain(and(<let>,<vow>)),1)

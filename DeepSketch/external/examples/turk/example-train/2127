@@ -1,0 +1,25 @@
+// example 
+"!F\MJ",+
+"!a",-
+"!\",+
+"!v!",+
+"!G!\",+
+"![V",+
+"!",+
+"!w!S!m!I",-
+"",+
+"!h!o!r",-
+"!Gb\",+
+"M",+
+"!X",-
+"!p!Y!Y!o!z",-
+"!c!Z",-
+"!h!o!K",-
+"!%",+
+"!F![C",+
+"!p!Y!Y!o!X",-
+"!c!c",-
+"!w!S!m!h",-
+
+// ground truth 
+not(repeatatleast(concat(<m0>,<let>),1))

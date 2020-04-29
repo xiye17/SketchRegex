@@ -1,0 +1,15 @@
+// example 
+"",+
+"}",-
+"P$",-
+"\Pe"Io",-
+"/$/",-
+"yx:d%",-
+"[x}q&No_",-
+")=DV&JK)/o",-
+"uy"CXl`=s",-
+"F4:f",-
+"7-nx}uJ",-
+
+// ground truth 
+not(repeatatleast(contain(<any>),1))

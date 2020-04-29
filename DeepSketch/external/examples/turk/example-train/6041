@@ -1,0 +1,14 @@
+// example 
+"",+
+">iMB8Z",+
+"3",+
+"Fr~",+
+">DC<F)z<4",+
+"~N7wWmR",+
+"vT}&",+
+"0pw'VudO",+
+"%Jp%^",+
+"6A",+
+
+// ground truth 
+contain(not(concat(<m0>,<num>)))

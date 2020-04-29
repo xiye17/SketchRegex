@@ -1,0 +1,16 @@
+// example 
+"",+
+"e+Kq",+
+"72Q,",+
+"v}w",+
+",P=",+
+"6",-
+"k",+
+"GW",+
+"3/",+
+"m81JK",+
+".+MZ|",+
+"%",+
+
+// ground truth 
+concat(star(<let>),not(<num>))

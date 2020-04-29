@@ -1,0 +1,17 @@
+// example 
+"g5!t",-
+"V<0",-
+"3",-
+"m#n_c",-
+"68",-
+")<JD",-
+""e4;%",-
+"JE!",+
+"",-
+"a",-
+"VIP",-
+"JU!",+
+"Ce",-
+
+// ground truth 
+concat(concat(<cap>,<vow>),<m0>)

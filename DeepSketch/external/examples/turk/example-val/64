@@ -1,0 +1,26 @@
+// example 
+"gh",-
+"JW1-8q`VJH",+
+"qpy",-
+"R#ONPW",+
+"/yH*",-
+"H`ARD6G",+
+"G-L{BFJ%",+
+"JW1-8qAP\G",+
+"OqnOKE2,C",+
+"cqlz",-
+"G-L{_MEC",+
+"",-
+"OW4XK",-
+"OqnOKEWVm",+
+"f",-
+"3&c",-
+"H`A"TEC",+
+"@",-
+"Y;",-
+"OW4Xn",-
+"JTCCO",+
+"RX6FKS",+
+
+// ground truth 
+repeatatleast(startwith(<cap>),5)

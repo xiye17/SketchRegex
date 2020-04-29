@@ -1,0 +1,25 @@
+// example 
+"ij",+
+"gyixoszrmwjtl",-
+"]](@",+
+"{}Aa",+
+"kepoezfboefzms",-
+"NZ",+
+"fsg~}",+
+"t];",+
+"",+
+"saduskgtcfxh",-
+";",+
+"ivhvrse",-
+"f.aK%",+
+"kllbxchv",-
+"kicistdpia",-
+"ithyhereqefvjad",-
+"t|t",+
+"ztlayyyod",-
+"urgclxqmolp",-
+"~",+
+"thtshrqzshbfvzxd",-
+
+// ground truth 
+not(repeatatleast(<low>,7))

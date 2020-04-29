@@ -1,0 +1,17 @@
+// example 
+"w_",-
+"KrU",+
+"V",-
+"tnPj",-
+"m5.",-
+"6S{&Y",-
+"{!(ii",-
+"",-
+"Mv",-
+"!;5",-
+"Kro",+
+"V0VG",-
+"v",-
+
+// ground truth 
+concat(<cap>,concat(<any>,<vow>))

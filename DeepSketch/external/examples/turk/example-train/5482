@@ -1,0 +1,14 @@
+// example 
+"",+
+"\b8",+
+"wR",+
+"|h^91u",+
+".'z(8}Z",+
+"&qR-",+
+"A"4NPKNh",+
+"OuRH7/q.t",+
+"ihZjO",+
+"A",+
+
+// ground truth 
+not(and(and(<m0>,<m1>),<m2>))

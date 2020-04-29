@@ -1,0 +1,14 @@
+// example 
+"",+
+";jgOV5}",+
+".hapZGeB^",+
+"i|I$",+
+"2oXV%%.o",+
+"Wn",+
+"1]F",+
+"F)~~:",+
+"%IPC!W",+
+"A",+
+
+// ground truth 
+startwith(or(not(<cap>),<low>))

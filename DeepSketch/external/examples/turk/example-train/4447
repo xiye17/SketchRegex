@@ -1,0 +1,14 @@
+// example 
+"",+
+"1f,):3",+
+"E",+
+"=D5Z5446m",+
+"N2y>~A}(",+
+"-H.SFsb",+
+"-2w4",+
+"-Ygu2",+
+"dN",+
+"$^N",+
+
+// ground truth 
+endwith(or(star(<let>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"BU",+
+"ltz~I",-
+"EE;r",-
+"_)$",-
+"EBM1",-
+"lB6Z(",-
+"#",-
+"^",-
+"",-
+"{/",-
+"},S",-
+"BE",+
+"*<",-
+
+// ground truth 
+concat(<let>,or(<low>,<vow>))

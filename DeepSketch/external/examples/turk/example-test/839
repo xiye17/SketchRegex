@@ -1,0 +1,14 @@
+// example 
+"",+
+"Y",+
+""*10",+
+"Fl",+
+"?9(^1jj",+
+"~&+@T?6G",+
+"'5Bns",+
+"P:@<B3",+
+"P65",+
+"KKgSyS_L~",+
+
+// ground truth 
+repeatatleast(or(not(<vow>),<let>),7)

@@ -1,0 +1,25 @@
+// example 
+"qe",+
+"E!",+
+"MHG)",-
+"U",+
+"uzu}",+
+"Dj",-
+"=jYhk",-
+"nZlo!",+
+"",-
+"wgO",+
+"D<",-
+"=jYhF",-
+"MHGs",-
+"YjF",-
+"u",+
+"wgI",+
+"L",-
+"z",-
+"Yjt",-
+"O5Bx",+
+"nZI/I",+
+
+// ground truth 
+endwith(contain(<vow>))

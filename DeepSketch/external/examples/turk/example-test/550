@@ -1,0 +1,17 @@
+// example 
+"=s*",-
+"9b",+
+"Z|,t",-
+"Dr",+
+"@o4p(",-
+"",-
+"$",-
+"K}",-
+"%t2",-
+""nhL$",-
+"?",-
+"*uFG",-
+"K\",-
+
+// ground truth 
+concat(or(<cap>,<num>),<low>)

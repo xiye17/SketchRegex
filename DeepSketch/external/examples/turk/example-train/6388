@@ -1,0 +1,17 @@
+// example 
+"!M6",+
+"]",-
+"S')Ph",-
+"f'j",-
+"!R*D",-
+"!^",-
+"!Zmz1",-
+"!",-
+"!~",-
+"!Wo",-
+"",-
+"!d4",+
+"uV,/",-
+
+// ground truth 
+concat(<m0>,concat(<let>,<num>))

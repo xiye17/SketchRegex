@@ -1,0 +1,16 @@
+// example 
+"^!RX;",-
+"1udW",-
+"t"",-
+"t^",-
+"7k",+
+"6",-
+"^rT^P",-
+"1|?/",-
+")ka",-
+"7!",+
+"",-
+")!i",-
+
+// ground truth 
+concat(<any>,or(or(<m0>,<low>),<let>))

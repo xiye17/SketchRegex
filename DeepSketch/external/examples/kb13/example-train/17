@@ -1,0 +1,25 @@
+// example 
+"e!",+
+"IFw[O!",+
+"KI!",+
+"IFw[e!",+
+"Ka!",+
+"Hu!G",+
+"",-
+"`",-
+"I~",-
+"|ScE[",-
+"i",-
+"|ScEB",-
+"p_re!",+
+"A!",+
+"Hub!",+
+"I^",-
+"MzI",-
+"p_ra!",+
+"MzE",-
+"e)RE",-
+"e)RF",-
+
+// ground truth 
+contain(concat(<vow>,concat(star(<let>),<m0>)))

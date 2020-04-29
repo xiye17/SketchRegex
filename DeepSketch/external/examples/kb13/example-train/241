@@ -1,0 +1,25 @@
+// example 
+"_|ZwFeZ",+
+"o",-
+"_|ZwFeo",+
+"9~':",-
+"9~'R",-
+"8$~Dpithb",+
+"8$~DpitS$",+
+"[_a",-
+"8Pawge",+
+"",-
+"l\",-
+"8PawgT",+
+"WsccU5'<",+
+"_5~|p",-
+"_5~|1",-
+"HQPMb",+
+"Wsccc?I*",+
+"HQPMY",+
+"[_{",-
+"~",-
+"l~",-
+
+// ground truth 
+contain(repeat(<let>,5))

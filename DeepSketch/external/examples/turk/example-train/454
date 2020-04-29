@@ -1,0 +1,26 @@
+// example 
+"XHR}",-
+"`6[$?&",-
+"kV*Z7#TmRC",+
+"_}sj)",-
+"g#2L++yG",+
+"D(",-
+"_}sj_",-
+"A8!/=D",+
+"l{EA<g:",-
+"A8!/HV",+
+"",-
+"`6[$?h",-
+"l{EA<gq",-
+"aq%TH#;@O",+
+"|",-
+"kV*Z7#TmnG",+
+"Hlf1ZuL",+
+"Hlf1Z4C",+
+"g#2L++CV",+
+"aq%TH#;IY",+
+";'(iC",+
+"onZ",-
+
+// ground truth 
+concat(repeatatleast(<any>,4),<cap>)

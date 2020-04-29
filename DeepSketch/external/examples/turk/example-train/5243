@@ -1,0 +1,17 @@
+// example 
+"Yo4",-
+"ufd0@",-
+"Do",+
+"SbsI",-
+"+",-
+"\!0`",-
+"!~",-
+"YO(",-
+"",-
+"|",-
+"52S;1",-
+"!d",-
+"DI",+
+
+// ground truth 
+concat(or(or(<m0>,<let>),<low>),<vow>)

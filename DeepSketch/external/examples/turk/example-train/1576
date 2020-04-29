@@ -1,0 +1,16 @@
+// example 
+"\<",-
+"T",-
+"(f",-
+"O4!",+
+"@<_JJ",-
+"=rv",-
+"D6]:",-
+"D6!E",-
+"\Q',*",-
+"",-
+"c",-
+"p_$",-
+
+// ground truth 
+concat(concat(<cap>,<num>),<m0>)

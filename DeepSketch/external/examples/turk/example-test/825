@@ -1,0 +1,14 @@
+// example 
+"",+
+")@WYV][",+
+"{t&>ZcqQ$",+
+"\sh",+
+"]NXk8@",+
+").(d",+
+"uf",+
+"aA_wu",+
+"H^*E>$L8",+
+"$",+
+
+// ground truth 
+not(and(and(<let>,<num>),<low>))

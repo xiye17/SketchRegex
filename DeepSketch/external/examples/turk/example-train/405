@@ -1,0 +1,25 @@
+// example 
+"E",+
+"DB",-
+"%A6[n",+
+"",-
+"FsE",+
+"%H>U7",+
+"SJD",-
+"U!fn",+
+"RU",+
+"7SK)",-
+"7SKT",-
+"RA",+
+"S",-
+"FsU",+
+"SJL",-
+"qMHTM",-
+"DF",-
+"qMHTC",-
+"EcI_",+
+"B",-
+"A",+
+
+// ground truth 
+contain(and(and(<let>,<vow>),<cap>))

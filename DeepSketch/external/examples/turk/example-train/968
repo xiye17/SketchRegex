@@ -1,0 +1,15 @@
+// example 
+"Q3zu9e7",+
+"q5p",+
+"{iNm$,_'Kx",+
+"VW",+
+"sW/~m",+
+"b-Qbf]:I)",+
+"X",+
+"*^,xI\",+
+"~"a:",+
+"T9'?E[f4",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),1)

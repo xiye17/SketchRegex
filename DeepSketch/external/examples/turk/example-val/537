@@ -1,0 +1,17 @@
+// example 
+"AY",+
+"e!",-
+"qmb",+
+"",+
+"O!l"",+
+"O2#j",+
+"r~JCf",+
+"f",+
+"A!1",+
+"\`",+
+"C",+
+"\cgJX",+
+"o!",-
+
+// ground truth 
+not(concat(<vow>,<m0>))

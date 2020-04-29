@@ -1,0 +1,26 @@
+// example 
+"\q!",-
+"HK",+
+"a(SK?",+
+"oy@)",-
+"~w",-
+"&J",+
+"oy@o",-
+"fx8^o",-
+"a(hZ0",+
+"fx8^6",-
+"l",-
+"\q\",-
+"dQ69",+
+"",-
+"BDZ0",+
+"cgk/SC",+
+"6",-
+"J",+
+"e9C",+
+"~-",-
+"cgk/2J",+
+"elK",+
+
+// ground truth 
+contain(and(<let>,<cap>))

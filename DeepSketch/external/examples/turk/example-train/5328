@@ -1,0 +1,25 @@
+// example 
+"Yv!Bc",+
+";h~!",+
+";v?tXJdZ&",-
+"BW",-
+""DsaOt",-
+"j-8c;*Fh",-
+"f9c",-
+"!",+
+"zR!",+
+"_",-
+"",-
+"^=8J",-
+"emz>?nN",-
+"=!",+
+"YvX!p",+
+",Q!B8X",+
+"l~LUr",-
+"!O8t",+
+"!a",+
+"z!=",+
+"!C>I4/",+
+
+// ground truth 
+contain(and(<any>,<m0>))

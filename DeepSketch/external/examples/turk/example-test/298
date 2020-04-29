@@ -1,0 +1,15 @@
+// example 
+"J>0m6Egu/",+
+"u8",+
+"k,az88*",+
+"~(CO",+
+"S}n#s$QA",+
+"<bh5gs",+
+"4=~",+
+"Mq,tI",+
+"C",+
+"!DHJ.%<hQj",+
+"",-
+
+// ground truth 
+concat(not(<m0>),endwith(<any>))

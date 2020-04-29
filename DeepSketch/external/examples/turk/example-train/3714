@@ -1,0 +1,25 @@
+// example 
+"yIrI"",+
+"F",-
+"S@",-
+"uTD",+
+"E])F",-
+"0O{",-
+"XB",+
+"",-
+"V:HB",+
+"yI]LE",+
+"g",-
+"_"A[Lq",+
+"V:Ho",+
+"S|",-
+"E])+",-
+"/E@q(",-
+"0O'",-
+"Xg",+
+"uTv",+
+"_"AxVy",+
+"/E@qh",-
+
+// ground truth 
+contain(endwith(concat(<cap>,<let>)))

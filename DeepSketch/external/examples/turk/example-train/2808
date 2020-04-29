@@ -1,0 +1,17 @@
+// example 
+"LsN",+
+"[",-
+"Egu){",-
+"",-
+"zb",-
+"EgO<V",-
+"T",-
+"z:",-
+"RSC(",-
+"ymO",+
+"IX[",-
+"I}w",-
+"R|:|",-
+
+// ground truth 
+concat(<let>,concat(<low>,<cap>))

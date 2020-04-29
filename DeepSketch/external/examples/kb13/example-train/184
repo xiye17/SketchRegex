@@ -1,0 +1,25 @@
+// example 
+"^ZZFe*",+
+"Y}>_{RI",+
+"K{-]",-
+"ci<",-
+"Y}>_{Rp",+
+"^|",-
+"'\_KX",-
+"_",-
+"'\_K_",-
+"UzZ",+
+"",-
+"Ik3u*",+
+"K{-{",-
+"Uzn",+
+"h",-
+"Ik3B<",+
+"=yDy",+
+"=yDF",+
+"^"",-
+"ci`",-
+"^ZZkUO",+
+
+// ground truth 
+contain(repeat(contain(repeatatleast(<let>,1)),3))

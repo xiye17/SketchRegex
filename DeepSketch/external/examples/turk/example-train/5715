@@ -1,0 +1,25 @@
+// example 
+"!a!e|?#kxeU",+
+"]",-
+"!a",-
+"!1ag\edA<0<a)n_",+
+"!qM-*F9mltG$L\-!",+
+"!"B",-
+"!Vd:d*Wpp\[?L",+
+"!.@cf&MK2s",+
+"lb!",-
+"!",-
+"!$@,",-
+"!!!\DX5J^PV'bx(7E",+
+"",-
+"!pS4x6r.q",+
+"!q~8|54e4J.A",+
+"!y&Qi",-
+"!9XGRt=;",+
+"q\?n",-
+":c",-
+"ja-)Z",-
+"!9Ac5n%JMyQR.&",+
+
+// ground truth 
+concat(<m0>,repeatatleast(<any>,7))

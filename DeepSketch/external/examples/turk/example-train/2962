@@ -1,0 +1,24 @@
+// example 
+"YhH",-
+"!r>4}>N^",+
+"!2vN$i",+
+"!*P^wo7",+
+"zP;D?",-
+"!+s;]",+
+"r"XG",-
+"Q.plvf",-
+"!,O",+
+"!",+
+"",-
+"!gvs",+
+"&f,bj]U[",-
+"!'",+
+"&)",-
+"1c&fIU]",-
+"!qRsarCJ!",+
+"!f}DSs)93&",+
+"B8#b%qW|(",-
+"~",-
+
+// ground truth 
+concat(<m0>,contain(not(<num>)))

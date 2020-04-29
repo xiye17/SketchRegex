@@ -1,0 +1,24 @@
+// example 
+"!Xa6",+
+"!SA&L]6"9",+
+"H2",+
+"Qy",-
+"Q.",-
+"!",+
+"!XtlqZ,",+
+"-.*R",-
+"wT:xd",-
+"!qt",+
+"",-
+"ygs",-
+"!$/dHE;=",+
+"y43",-
+"w9'5I",-
+"!Y",+
+"!g<NFJ",+
+"!vpH~",+
+"-3?i",-
+"E",-
+
+// ground truth 
+or(startwith(<m0>),concat(<any>,<num>))

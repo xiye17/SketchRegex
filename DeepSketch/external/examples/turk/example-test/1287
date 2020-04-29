@@ -1,0 +1,14 @@
+// example 
+"",+
+"jM",+
+"Mfl*",+
+"30l",+
+"4",+
+"3FIy5",+
+"D`I}5t%",+
+"%*u>&,*g",+
+"<?'!;0k)[",+
+"Q.'n3_",+
+
+// ground truth 
+not(and(<cap>,star(<m0>)))

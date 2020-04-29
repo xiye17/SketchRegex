@@ -1,0 +1,14 @@
+// example 
+"",+
+"S`",+
+";@AJh",+
+"8",+
+"Qs&9q8`5^",+
+"$<l0pE",+
+">~r",+
+"_cF$r`A",+
+"Is|'Ktr#",+
+"UP*m",+
+
+// ground truth 
+not(and(<m0>,<num>))

@@ -1,0 +1,25 @@
+// example 
+"OaucaJexIRukeB",+
+"eXeauDEfEuemAzOS",+
+"n8'R&",-
+"iDogiHoUOFin",+
+"u~Vf",-
+"a=9",-
+"UlEyEFuIIrOwOpoJIB",+
+"ETIAutISoroLOXEsIJOv",+
+"a`1",-
+"iDogiHoUOFiL",+
+"OaucaJexIRukes",+
+"UlEyEFuIIrOwOpoJIy",+
+"",-
+"a",-
+"eXeauDEfEuemAzOv",+
+"NM",-
+"O",-
+"qzF|,",-
+"xx",-
+"ETIAutISoroLOXEsIJOJ",+
+"u_[W",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<let>),6)

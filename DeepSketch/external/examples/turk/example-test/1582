@@ -1,0 +1,15 @@
+// example 
+"=6",-
+"c{p",-
+"65kSy",-
+"o",-
+"W@b~",-
+"6R{6*",-
+"=}",-
+"c@-",-
+"h@",+
+"",-
+"WG9O",-
+
+// ground truth 
+concat(or(or(<let>,<m0>),<any>),<m1>)

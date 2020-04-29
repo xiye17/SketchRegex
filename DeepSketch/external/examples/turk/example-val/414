@@ -1,0 +1,16 @@
+// example 
+"",+
+"VXi$",+
+"VZyR}",+
+"l!r",+
+"}:o",+
+"|3",+
+"x!",-
+"W",+
+""/",+
+"|n(f",+
+"~",+
+"~#Ckt",+
+
+// ground truth 
+not(concat(<low>,<m0>))

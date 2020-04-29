@@ -1,0 +1,14 @@
+// example 
+"",+
+"D",+
+"'_c}r|d`",+
+"C0f@",+
+"=)%O)5r5B",+
+"_,aS2T0",+
+"/7Sy2",+
+"$>",+
+"!N^,eq",+
+"e}h",+
+
+// ground truth 
+not(and(and(<cap>,<low>),<let>))

@@ -1,0 +1,25 @@
+// example 
+"hI3+",+
+"mk"qC",-
+"n",-
+"do,7b}",+
+"Tqx*",-
+"mdm",-
+"zBA",+
+"ai%2F",+
+"aEwxc",+
+"ha",+
+"zBu",+
+"hGGi",+
+"",-
+"~o",-
+"mk"qj",-
+"mdX",-
+"hO",+
+"{)s6",-
+"da_hxv",+
+"H",-
+"#,",-
+
+// ground truth 
+concat(<low>,contain(<vow>))

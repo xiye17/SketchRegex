@@ -1,0 +1,16 @@
+// example 
+"i",-
+"*fb",-
+"jU",-
+"b!",+
+"v!X@m",-
+"|!",-
+"v(T4z",-
+"x!(P",-
+"{",-
+"}hj",-
+"",-
+"%O~{",-
+
+// ground truth 
+concat(and(and(<any>,<low>),<let>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"U19C",+
+"a=UFaA",+
+"gE*LI",+
+"3q",-
+".=S",+
+"",-
+"3,",-
+"Fw%`p",-
+"Fw%`5",-
+"U1_X",+
+";",-
+".[J",+
+"gE*]V",+
+"!%8",-
+"Ot_x",-
+"FI",+
+"@\Vnp1V",+
+"@\VnpDZ",+
+"!%i",-
+"Ot_:",-
+"a=UFFU",+
+
+// ground truth 
+concat(endwith(or(<m0>,<any>)),<cap>)

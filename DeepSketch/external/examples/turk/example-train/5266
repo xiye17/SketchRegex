@@ -1,0 +1,25 @@
+// example 
+"B;ew",+
+"a]",-
+"o",-
+"U{I",-
+"E~EFM",+
+"E~EyK",+
+"dfa`",-
+"7em",+
+"^",-
+"",-
+"a}dse",-
+"Om",+
+"B;eU",+
+"a|",-
+"dfa}",-
+"a}dsc",-
+"U{U",-
+"Oa>N#8",+
+"O|a&or",+
+"OO",+
+"7eW",+
+
+// ground truth 
+contain(concat(<vow>,and(<any>,<let>)))

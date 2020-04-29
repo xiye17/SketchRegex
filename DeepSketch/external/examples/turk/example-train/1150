@@ -1,0 +1,21 @@
+// example 
+"T.u{OAS3",+
+".",-
+""Z",-
+">T+",-
+"6UCc{O9@Kgoc:",+
+"-","QeH",+
+"C&L~.",-
+"Sl|]$uG<m~IEDn",+
+"C]^+im",-
+"",-
+"N`K}Q{vv:2",+
+"GY?B2v{d_8<",+
+"v:)1Q&V4Bw'{",+
+"[rqMs@`LC)\?pY*",+
+"NP!ur<Pn`",+
+"&EF-",-
+"uk>lEzDzH=}=UQD9",+
+
+// ground truth 
+endwith(repeatatleast(<any>,7))

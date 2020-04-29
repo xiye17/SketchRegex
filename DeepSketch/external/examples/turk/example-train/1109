@@ -1,0 +1,25 @@
+// example 
+"Ub4",-
+"iAeOiIiOL",+
+"eEUEEEuh",+
+"k]Sp",-
+"H,H?q",-
+"oAoEEz",+
+"",-
+"H)",-
+"EauOE",+
+"P",-
+"U0x",-
+"LB7`",-
+"}aTYk",-
+"A",-
+"oAoEEi",+
+"iAeOiIiOC",+
+"EauOo",+
+"eEUEEEuI",+
+"n~",-
+"UOoiaoh",+
+"UOoiaoi",+
+
+// ground truth 
+concat(repeatatleast(<vow>,4),<let>)

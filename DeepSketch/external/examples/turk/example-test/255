@@ -1,0 +1,25 @@
+// example 
+"dbo",+
+"o",+
+"0_",-
+"_",-
+"f_uy",-
+"i5Hiu",+
+"",-
+"b",-
+"eo",+
+"f_uj",-
+"e",+
+"oom",-
+"i5Hii",+
+"dbe",+
+"eg%a",+
+"eg%D",+
+"oof",-
+"haaMd",-
+"0b",-
+"ee",+
+"haaMm",-
+
+// ground truth 
+endwith(or(<cap>,<vow>))

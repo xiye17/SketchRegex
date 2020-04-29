@@ -1,0 +1,25 @@
+// example 
+"r`}}hU",+
+"|\>g"",-
+"pHy",+
+"pgT",+
+"~p]mM",+
+"r`}}hl",+
+"o",-
+"~+o",-
+"u.c|",-
+"|\>g|",-
+"xz",+
+"xA",+
+"~;",-
+"r=zl",+
+"",-
+"~h",-
+"r=zF",+
+"u.c.",-
+"~p]mi",+
+"~+{",-
+"D",-
+
+// ground truth 
+contain(endwith(concat(<low>,<let>)))

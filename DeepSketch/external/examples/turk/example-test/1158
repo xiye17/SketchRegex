@@ -1,0 +1,15 @@
+// example 
+"^YWm.",-
+"!g0\",-
+"X",-
+"@y",-
+"!?a",-
+"-vs",-
+"!C",-
+"!",+
+"",-
+"!Jm6o",-
+"O=2z",-
+
+// ground truth 
+and(star(<m0>),<any>)

@@ -1,0 +1,26 @@
+// example 
+"w}guQ",+
+"%F}~",-
+"~L}~nd",+
+"ADox",+
+"joM",+
+"",-
+"uA!",-
+"&!H8|",-
+"qp",+
+"~L}/ch",+
+"K~",-
+"A{qb",+
+"w}{jo",+
+"8",-
+";|~aSwc",+
+"&!H8n",-
+"%F}n",-
+";|~a~bk",+
+"z",-
+"K`",-
+"*wq",+
+"uAw",-
+
+// ground truth 
+contain(repeatatleast(<low>,2))

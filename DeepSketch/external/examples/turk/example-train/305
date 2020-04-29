@@ -1,0 +1,17 @@
+// example 
+"0",-
+"3Ul",-
+"-[dw",-
+"9Q",-
+"*:a",-
+"#",-
+"%{",-
+"",-
+"QX_*V",-
+"!HIeT",-
+"3!",+
+"3I",+
+"lsZW",-
+
+// ground truth 
+concat(<num>,or(<vow>,<m0>))

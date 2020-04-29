@@ -1,0 +1,16 @@
+// example 
+"7)@"@",-
+"P",-
+"k&vfq",-
+"9q",-
+"2a8k",-
+"t",-
+"TX",+
+"Y&E",-
+"SE<?",-
+"",-
+"t0q",-
+"g/",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<m1>),<m0>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"%/p8pc^,",+
+"68lT,QOhA",+
+"^8i",+
+"4~Dp?.",+
+")]f'mxX",+
+"pDUQ9",+
+"Bf",+
+"@d>r",+
+"^",+
+
+// ground truth 
+not(and(and(<any>,<cap>),<low>))

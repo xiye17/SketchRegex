@@ -1,0 +1,25 @@
+// example 
+"0}Fn",-
+"[",-
+"LgOi",+
+"RiO",+
+"NE",+
+"}'x",-
+"{\?p!",-
+"+Kh[1",-
+"Ria",+
+"jFreEo",+
+"",-
+"rAuGO",+
+"LgOo",+
+"_f_",-
+"NI",+
+"U",-
+".h",-
+"|cz~",-
+"rAuGA",+
+"]=",-
+"jFreEO",+
+
+// ground truth 
+concat(repeatatleast(<let>,1),<vow>)

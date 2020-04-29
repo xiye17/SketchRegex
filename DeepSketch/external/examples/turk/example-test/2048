@@ -1,0 +1,16 @@
+// example 
+"g",-
+"R3",-
+"5oep",-
+"-iHH*",-
+"FMh",-
+"Rd",-
+"xnU",+
+"FMD",-
+"5`NI",-
+"xna",+
+"",-
+"-{>Tw",-
+
+// ground truth 
+concat(concat(<any>,<let>),<vow>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"{#q@zto[[",+
+"cx/A",+
+"`y",+
+"?Yb",+
+"1LA<;",+
+"S",+
+"s2EC7W",+
+"w@&b5#Z%",+
+"1E"4A~i",+
+
+// ground truth 
+not(and(and(<low>,<m0>),<any>))

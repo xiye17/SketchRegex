@@ -1,0 +1,25 @@
+// example 
+"E",+
+"G",-
+"Iugfu",+
+"IugfI",+
+"YI",+
+"nuj",-
+"a",+
+"Uea",+
+"Ue!",+
+"EkHe",+
+"0EP}",-
+"",-
+"nuf",-
+"Id",-
+"m{udR",-
+"IQ",-
+"YE",+
+"EkHI",+
+"m{uds",-
+"~",-
+"0EPb",-
+
+// ground truth 
+repeatatleast(endwith(or(<m0>,<vow>)),1)

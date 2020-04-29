@@ -1,0 +1,17 @@
+// example 
+"oM",+
+"ox",+
+"",-
+"U|I)",-
+"a&",-
+"a~",-
+"i",-
+"e>#O>",-
+"U",-
+"U>'A",-
+"U\z",-
+"U|n",-
+"ez;lX",-
+
+// ground truth 
+concat(<vow>,or(<low>,<cap>))

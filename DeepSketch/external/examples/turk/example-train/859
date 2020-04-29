@@ -1,0 +1,15 @@
+// example 
+"",+
+"CU",+
+"XX7^",+
+";",+
+"!a}",+
+"!Vv^",+
+"!0IKR",+
+"E6)I?",+
+"!-",+
+"!",-
+"J}w",+
+
+// ground truth 
+or(contain(<let>),not(<m0>))

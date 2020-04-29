@@ -1,0 +1,17 @@
+// example 
+"^Yz'",-
+"_{t",-
+"M=2",-
+"X",-
+"",-
+"vB",+
+"uPbK",-
+"=f",-
+"w_`x@",-
+"B|",+
+"{",-
+"|c",-
+"+!<,!",-
+
+// ground truth 
+concat(or(<cap>,<let>),<any>)

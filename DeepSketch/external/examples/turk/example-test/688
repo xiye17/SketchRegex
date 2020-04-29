@@ -1,0 +1,15 @@
+// example 
+"",+
+"x5YKOLY|L",+
+"RWw|#",+
+"A_",+
+"AyLvU6",+
+"h'S",+
+"42&Fi1'v",+
+"U|5j",+
+"'Qz-a;5yJ7",+
+"PcNzmV&",+
+"B",-
+
+// ground truth 
+not(or(<num>,<any>))

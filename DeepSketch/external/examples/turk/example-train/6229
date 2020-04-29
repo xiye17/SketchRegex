@@ -1,0 +1,17 @@
+// example 
+"k0",+
+"{3M.H",-
+"y8{#N",-
+""",-
+"{b",-
+"",-
+"Q1",-
+"jly"",-
+"{-z",-
+"E~&~",-
+"kU",+
+"{",-
+"x>T",-
+
+// ground truth 
+concat(<low>,or(<num>,<cap>))

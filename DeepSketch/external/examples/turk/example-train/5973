@@ -1,0 +1,16 @@
+// example 
+"e0k&",-
+";p9h^",-
+"9",-
+"{6",-
+"J",-
+"%C;",-
+"p#5",-
+"",-
+"Ux!",+
+"4,",-
+"1)I,",-
+"Io*`G",-
+
+// ground truth 
+concat(concat(<cap>,<low>),<m0>)

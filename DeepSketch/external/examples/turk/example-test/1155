@@ -1,0 +1,17 @@
+// example 
+"F",-
+"JWb",-
+".",-
+"qg{</",-
+"",-
+"tXj",-
+"NH(Pk",-
+"OjO",+
+"Iw",-
+"D|ig",-
+"M?S*",-
+"I[",-
+"Oje",+
+
+// ground truth 
+concat(<vow>,concat(<low>,<let>))

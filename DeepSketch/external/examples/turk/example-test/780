@@ -1,0 +1,25 @@
+// example 
+"UAAouE",+
+"oJUE+de",+
+"ABi",-
+"IiIe",+
+"UAAouA",+
+"\w~o",-
+"",-
+"b",-
+"cuouI",+
+"kbQQeuOe",+
+"kbQQeuOO",+
+"I^",-
+"@Iei7",-
+"I",-
+"\w~O",-
+"IiIO",+
+"cuoui",+
+"@Ieil",-
+"oJUE+do",+
+"Ia",-
+"ABJ",-
+
+// ground truth 
+repeatatleast(endwith(<vow>),4)

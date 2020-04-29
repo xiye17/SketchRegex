@@ -1,0 +1,15 @@
+// example 
+"PPg",-
+"!U;<",-
+"!5",+
+"!i!",-
+")!"{5",-
+"S",-
+"nX)N",-
+"!",-
+"$m",-
+"",-
+"!*S\r",-
+
+// ground truth 
+concat(<m0>,or(or(<vow>,<let>),<any>))

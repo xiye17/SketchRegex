@@ -1,0 +1,17 @@
+// example 
+"dIv",+
+"u",-
+"a*=",+
+"\ZVt",+
+"eMSb",+
+"e",-
+"",+
+"$LV*E",+
+"f",+
+"oJl9/",+
+"?",+
+"~,",+
+"\!",+
+
+// ground truth 
+not(or(<vow>,<cap>))

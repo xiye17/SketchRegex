@@ -1,0 +1,17 @@
+// example 
+"E",+
+"[",+
+"SV",+
+"ag#v&",+
+"(WN",+
+"",+
+"1"io",+
+"{o",+
+"Uw",-
+"1KwaO",+
+"ir",-
+"S+IG",+
+"i:~",+
+
+// ground truth 
+not(concat(<vow>,<any>))

@@ -1,0 +1,26 @@
+// example 
+"|Q~uA",-
+"&k~hqea.",+
+"f}l",-
+"q",-
+"}c",-
+",q!|mak",+
+"lxqi",+
+"|!upun",+
+"",-
+"|",-
+"ph(}",-
+"|Q~ux",-
+"K{}G~tsry",+
+"f}I",-
+"o~bkp",+
+"|exm|i",+
+"-eqck",+
+",q!q|gx",+
+"}{",-
+"ph(y",-
+"&k~hq|0i",+
+"K{}GIcjwq",+
+
+// ground truth 
+repeatatleast(contain(<low>),4)

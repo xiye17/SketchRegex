@@ -1,0 +1,16 @@
+// example 
+"",+
+""a",+
+"ka'O",+
+"M*F]j",+
+"S",+
+"-}v",+
+"Q+ke",+
+"J't",+
+"N0",-
+"[S",+
+"MSD]V",+
+"<",+
+
+// ground truth 
+not(concat(<cap>,<num>))

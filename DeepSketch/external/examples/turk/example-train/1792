@@ -1,0 +1,26 @@
+// example 
+"pQm",-
+"dx@E",+
+"b)",-
+"pQ<",-
+"}qQU",-
+"kJJ'",-
+"aaA",+
+"bl",-
+"",-
+"dxTQ",+
+"iJ",+
+"j",-
+"k5+&G",+
+"z`~Q_jK",+
+"a3E",+
+"z`~Q_0A",+
+"k5+BI",+
+"n7,FWW",+
+"\gUI.",-
+"{",-
+"n7,FnI",+
+"{t)HD",-
+
+// ground truth 
+and(startwith(<low>),endwith(<cap>))

@@ -1,0 +1,25 @@
+// example 
+"V')a",-
+"yVf",-
+"psckgmiK",+
+"cC",+
+"Qz",-
+"swnuahmcqU",+
+"tdjwV",+
+"",-
+"nhrkdwH",+
+"lomF",+
+"xn`WQ",-
+"$",-
+"|",-
+"vrtvwmtaY",+
+"?'A<",-
+"xyQ",+
+"y~B",-
+"P",+
+"7q",-
+"{4:*F",-
+"olpxlB",+
+
+// ground truth 
+concat(star(<low>),<cap>)

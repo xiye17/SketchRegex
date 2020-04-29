@@ -1,0 +1,17 @@
+// example 
+"\",-
+"",-
+"*#]x",-
+"k;",-
+"_B;Cm",-
+"qB",+
+"zn|",-
+"IQ",+
+"|h{)",-
+"|k",-
+"z+4",-
+"z",-
+"nn4rM",-
+
+// ground truth 
+concat(<let>,<cap>)

@@ -1,0 +1,15 @@
+// example 
+"",+
+""FCYE}1@^",+
+"d"",+
+"N8c$",+
+"xh^H^SO",+
+"7fc",+
+"Os4i"",+
+"]wv'K]'>Dg",+
+"d\<!<K",+
+"*h7prpCU",+
+"~",-
+
+// ground truth 
+not(or(or(<any>,<low>),<vow>))

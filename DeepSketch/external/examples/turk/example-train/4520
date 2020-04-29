@@ -1,0 +1,17 @@
+// example 
+"Nn|?}",+
+"F",+
+"ID)",+
+"P&6^x",+
+"A).0",+
+"{C}i",+
+"Se",+
+"",+
+"[Z",+
+"R",+
+"Ugl",+
+"U",-
+"E",-
+
+// ground truth 
+not(or(or(<low>,<m0>),<vow>))

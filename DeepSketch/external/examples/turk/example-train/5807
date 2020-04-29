@@ -1,0 +1,15 @@
+// example 
+"FoKt",+
+"F:|U%",+
+"CM#8&.<+k3",+
+"({qU#R[",+
+"6/Vrk~%-m",+
+"}m",+
+"'l>E^`S-",+
+"j#|",+
+"",-
+"A",+
+"=uCKJz",+
+
+// ground truth 
+contain(endwith(or(<m0>,<any>)))

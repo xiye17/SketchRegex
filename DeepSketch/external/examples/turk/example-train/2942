@@ -1,0 +1,15 @@
+// example 
+"#>~",+
+"y+?RVq1L4!",+
+"DEE_?9h.",+
+"=N..",+
+".ER/6wn&)",+
+"zp0UnO",+
+"5",+
+"G648F",+
+"'(SEEd-",+
+"",-
+"S/",+
+
+// ground truth 
+contain(repeatatleast(<any>,1))

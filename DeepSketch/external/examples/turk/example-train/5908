@@ -1,0 +1,26 @@
+// example 
+")~1o",-
+"K|wun",+
+"4&}nur",+
+"b~",-
+"{41i&|gv",+
+"c{m",-
+"ops",+
+"",-
+"{0|r$",-
+"Ko[sb",+
+"6xz.~~i",+
+"b1",-
+")~1|",-
+"alHp",+
+"a~iz",+
+"{0|r~",-
+"{41i&&wc",+
+"4&1smv",+
+"K",-
+"6xz.~y?",+
+"{",-
+"c{I",-
+
+// ground truth 
+contain(repeatatleast(endwith(<low>),3))

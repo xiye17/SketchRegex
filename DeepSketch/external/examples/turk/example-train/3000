@@ -1,0 +1,26 @@
+// example 
+"O!",+
+"I!rZKo",+
+"e!i!+:",+
+"n<Bm",-
+"qM",-
+"E!(4",+
+"AKj}X",-
+"O!H*n",+
+"Ub",-
+"I!}(",+
+"",-
+"pNQ",-
+"O",-
+"S",-
+"E!6X$",+
+"u!t",+
+"E#6|",-
+"e!;",+
+"!m(?L",-
+"uUT",-
+"@",+
+"@O",+
+
+// ground truth 
+startwith(or(concat(<vow>,<m0>),<m1>))

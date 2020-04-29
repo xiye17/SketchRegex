@@ -1,0 +1,25 @@
+// example 
+"|1",-
+"tY{<{",-
+"Wr",+
+"vcP",+
+"WY",+
+"",-
+"lOoXBz",+
+"tY`"+",-
+"/Z08",-
+"xkEjQ",+
+"j",-
+"lOoXBK",+
+"VwZH",+
+"vcm",+
+"xkEje",+
+"R.",-
+"ao~",-
+"VwZm",+
+"a{w",-
+"~",-
+"k@n>",-
+
+// ground truth 
+repeatatleast(or(<low>,<cap>),2)

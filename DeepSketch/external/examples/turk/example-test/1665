@@ -1,0 +1,15 @@
+// example 
+"",+
+"/I0O",+
+")Yi"w",+
+"!6qgW",+
+"!s&)",+
+"!g"",+
+"v)",+
+"!|",+
+"!",-
+"b",+
+"`Yg",+
+
+// ground truth 
+not(and(startwith(<m0>),<any>))

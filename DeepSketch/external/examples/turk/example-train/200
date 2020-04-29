@@ -1,0 +1,16 @@
+// example 
+"Hv-",-
+"!QS;",-
+"!G6",+
+"S",-
+"T&",-
+"!N2jh",-
+"!",-
+"!k"",-
+"!Q"7",-
+"!p",-
+"",-
+"!1jxr",-
+
+// ground truth 
+concat(concat(<m0>,<cap>),<num>)

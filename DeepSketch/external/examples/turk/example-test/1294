@@ -1,0 +1,18 @@
+// example 
+":B",+
+"l",+
+"H[PYVkjd`7LO",-
+"Llr3`Mn#9h[EY",-
+"",+
+"c}r1@",-
+"KV:",+
+"Cj|aDR",-
+"Tb6+NQn2",-
+"=aIIC:p",-
+"pfi58uHP5",-
+"CAIP6R-i^|",-
+";XGUjpX.|BL",-
+"_y}-",-
+
+// ground truth 
+not(repeatatleast(startwith(<any>),4))

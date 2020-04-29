@@ -1,0 +1,25 @@
+// example 
+"N?U+IF",+
+"E{cu2",-
+"r-",-
+"jmy&",-
+"dj?",-
+"gM`",+
+"d",-
+"M5",+
+"",-
+"p[U#",+
+"E{cuC",-
+"p[UX",+
+"djw",-
+"gM1",+
+"rQ",-
+"N",-
+"N?U+I&",+
+"jmyt",-
+"MM",+
+"|[:Nr",+
+"|[:N6",+
+
+// ground truth 
+endwith(concat(<cap>,<any>))

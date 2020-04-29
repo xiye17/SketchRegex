@@ -1,0 +1,15 @@
+// example 
+"",+
+"!Uy'",+
+"4-!l",+
+"V8",+
+"i|]",+
+"!B^",+
+"!B",+
+"!",-
+"b_mD}",+
+"!d5uJ",+
+""",+
+
+// ground truth 
+concat(star(<num>),not(<m0>))

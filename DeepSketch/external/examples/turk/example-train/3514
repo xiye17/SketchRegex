@@ -1,0 +1,15 @@
+// example 
+"",+
+"TON|",+
+"t<",+
+"0yT",+
+"x`m`Q",+
+"?F,6NX{A",+
+"4",-
+"k=7$$Xd",+
+"Bx4xs^T{]e",+
+")yQqMQ",+
+"*Kkyq,<_1",+
+
+// ground truth 
+not(or(or(<num>,<vow>),<any>))

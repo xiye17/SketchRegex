@@ -1,0 +1,14 @@
+// example 
+"",+
+"PHY0^",+
+"L(GIs!'x",+
+"3",+
+".fAEB5A",+
+"\G5",+
+"z^T#",+
+"0KeK-tm=h",+
+"+V",+
+"@1Gv!s",+
+
+// ground truth 
+not(contain(and(and(<m0>,<cap>),<vow>)))

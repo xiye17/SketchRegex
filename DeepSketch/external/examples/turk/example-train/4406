@@ -1,0 +1,15 @@
+// example 
+"'Ie{/&t|",+
+"&ED^dXN4s",+
+"sy/"",+
+""v*r`",+
+"gv)w8Y",+
+":;4",+
+"L",+
+"wG`C)eM>qb",+
+"(=",+
+"",-
+"++&S*bX",+
+
+// ground truth 
+startwith(or(concat(<m0>,<m1>),<any>))

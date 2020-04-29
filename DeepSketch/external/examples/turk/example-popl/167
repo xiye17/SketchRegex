@@ -1,0 +1,18 @@
+// examples
+"a",+
+"b",+
+"ab",+
+"1a",+
+"1ab",+
+"!ab",+
+"!b",+
+" ",-
+"12",-
+"12a12",-
+"abc12",-
+"abc1",-
+"!,,",-
+"ab!!",-
+
+// ground truth 
+star(endwith(<let>))

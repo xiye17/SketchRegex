@@ -1,0 +1,18 @@
+// examples
+";a",+
+"1a",+
+"@k",+
+"*m",+
+"(p",+
+"'z",+
+"[m",+
+"",-
+";A",-
+"mM",-
+"kM",-
+"NP",-
+"!P",-
+"Z",-
+
+// ground truth 
+concat(<any>,contain(and(<let>,<low>)))

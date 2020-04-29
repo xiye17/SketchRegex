@@ -1,0 +1,15 @@
+// example 
+",6G43",+
+"BTO",+
+"JEl@+AwqF",+
+"PciC",+
+"v=9rY|",+
+"]XMw5"Qv/c",+
+"TDU#yD{",+
+":*",+
+"m",+
+"RSoTN~m?",+
+"",-
+
+// ground truth 
+repeatatleast(contain(or(or(<m0>,<any>),<let>)),1)

@@ -1,0 +1,25 @@
+// example 
+"3E1ir7I2a04A",+
+"Z+4I5GM+1u!7A5e3i",+
+"([,",-
+"ro)/6",-
+"k2",-
+"1At"*5a3R3e8E7O",+
+"(0G9",-
+"Z+4I5GM+1u!7A5e3E",+
+"k~",-
+"ro)/h",-
+"",-
+"p9<3OJD6o*4U5u2I",+
+"&",-
+"1At"*5a3R3e8E7E",+
+"~1U9N4e0e8A1A",+
+"3E1ir7I2a04a",+
+"([8",-
+"p9<3OJD6o*4U5u2u",+
+"@",-
+"~1U9N4e0e8A1O",+
+"(0G'",-
+
+// ground truth 
+repeatatleast(endwith(concat(<num>,<vow>)),5)

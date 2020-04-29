@@ -1,0 +1,25 @@
+// example 
+"!M!c!g",+
+"!]",-
+"!J!e!T!a",+
+"!D[",-
+"!b!i",+
+"!",-
+"!$oz",-
+":@XG|",-
+"",-
+"!b!Z",+
+"!K!h!G!p!z",+
+"!(",-
+"!X!N!g!J!v!b",+
+"!M!c!G",+
+"!D!",-
+"wkC6",-
+"!J!e!T!U",+
+"!`1+]",-
+"!X!N!g!J!v!I",+
+"v",-
+"!K!h!G!p!V",+
+
+// ground truth 
+repeatatleast(concat(<m0>,<let>),2)

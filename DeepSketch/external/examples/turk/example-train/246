@@ -1,0 +1,17 @@
+// example 
+"2u",-
+"X",-
+"vF",+
+"",-
+"}b",-
+"ii}u",-
+"z5f58",-
+"zDj:M",-
+"y7>",-
+"y>u",-
+"v3",+
+"i>Ih",-
+"{",-
+
+// ground truth 
+concat(<let>,or(<num>,<cap>))

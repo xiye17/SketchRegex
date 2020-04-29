@@ -1,0 +1,16 @@
+// example 
+"F&t",-
+"g%bbb",-
+"1;",-
+"{3w]",-
+"|7",-
+"g3.",-
+"M",-
+"3kCS",-
+"s5",+
+"g:U^(",-
+"",-
+"~",-
+
+// ground truth 
+concat(and(<let>,<low>),<num>)

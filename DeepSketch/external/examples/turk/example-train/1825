@@ -1,0 +1,17 @@
+// example 
+"h_",-
+"uVw",-
+"p*q&",-
+",",-
+"d",-
+"",-
+"b":^7",-
+"imS",-
+"e+",+
+"r(",-
+"ec[O",-
+"e%nkS",-
+"ib",+
+
+// ground truth 
+concat(and(and(<vow>,<let>),<low>),<any>)

@@ -1,0 +1,25 @@
+// example 
+"$a~*",-
+"=s(u-",-
+"Mn",+
+"RcL,3-4}T",+
+"X",+
+"_",-
+"2o_",-
+"",-
+"`0[E",-
+"DTO7o\](nw",+
+"zy3GX",-
+"X%C80",+
+":",-
+"PL\:Gp",+
+"v<Z",-
+"81",-
+"CU]",+
+"yO",-
+"PjAb?LWi",+
+"Zxm5r#B",+
+"O4\)",+
+
+// ground truth 
+startwith(repeatatleast(<cap>,1))

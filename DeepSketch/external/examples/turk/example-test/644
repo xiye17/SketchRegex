@@ -1,0 +1,15 @@
+// example 
+"X|]",-
+";Ns?",-
+"hmLM~",-
+";N~b",-
+"2",-
+"hVBJp",-
+"X-F",-
+"XQx",+
+"",-
+"J_",-
+"J#",-
+
+// ground truth 
+concat(<any>,concat(<cap>,<low>))

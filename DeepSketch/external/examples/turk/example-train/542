@@ -1,0 +1,18 @@
+// example 
+"nw2C",+
+"[7",-
+"Bwl|BgH4=!",+
+"Xu-{,AX4iU=D",+
+"nKr?1$/",+
+"Lw=qp1m5F"+",+
+"",-
+"228dv>td/{EDw",+
+"8'i\s#",+
+"MzL",-
+""Oi@"fuXc",+
+"R",-
+"$%#}{",+
+"-q:h!!IN",+
+
+// ground truth 
+repeatatleast(or(<num>,<any>),4)

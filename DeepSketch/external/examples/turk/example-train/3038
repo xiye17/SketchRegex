@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+and(<m0>,repeatatleast(<vow>,1))

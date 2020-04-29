@@ -1,0 +1,25 @@
+// example 
+"UA!AU",+
+"Oz",-
+"io",+
+"Oc",-
+"AiI",+
+"EAoA",+
+"IEieAI",+
+"UA!A!",+
+"e",-
+"AiA",+
+"",-
+"iu",+
+"!C.;r",-
+"!AP4E",-
+"Dd/*",-
+"v",-
+"IEieAe",+
+"1?;",-
+"EAo!",+
+"s!+",-
+"GS^E",-
+
+// ground truth 
+repeatatleast(or(<m0>,<vow>),2)

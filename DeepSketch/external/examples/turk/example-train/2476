@@ -1,0 +1,25 @@
+// example 
+"UahKE",-
+"EuoAeaoeuu",+
+"Uo",-
+"eoD",-
+"IaEeOoa",+
+"p",-
+"UiiUoI",+
+"Uu",-
+"HO#Z",-
+"",-
+"IaEeOoU",+
+"OIEoooAaU",+
+"DOJn%",-
+"UiiUou",+
+"IEAAuoAO",+
+"EuoAeaoeuo",+
+"eqo",-
+"OIEoooAaO",+
+"L",-
+"udp\",-
+"IEAAuoAI",+
+
+// ground truth 
+repeatatleast(<vow>,6)

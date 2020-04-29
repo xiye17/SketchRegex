@@ -1,0 +1,25 @@
+// example 
+"!PqO",+
+"!TuDP",-
+"!goLEI",+
+"5",-
+"!eb",-
+"!t_p",-
+"!goLEa",+
+"!ZI",+
+"!0uUA",+
+"!",-
+"!TuDL",-
+"!O",+
+"!t_C",-
+"sn",-
+"",-
+"!PqA",+
+"!i",+
+"!l",-
+"!0uUo",+
+"!eH",-
+"!ZU",+
+
+// ground truth 
+concat(startwith(<m0>),repeatatleast(<vow>,1))

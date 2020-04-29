@@ -1,0 +1,25 @@
+// example 
+"(Kz$L",-
+"k8RV5?",+
+"E.#",+
+"gr;A:&e",+
+"}Pxz",-
+"}]`",-
+"ww(0D",+
+"~V`w=",-
+"",-
+"]C%",-
+"u;yJ",+
+"X[!/",+
+"TPDcp",+
+"vW&",+
+"AE\i`O",+
+"VC1i"bf",+
+"_MFM",-
+"z1",-
+"}7",-
+"z",-
+"~",-
+
+// ground truth 
+concat(<let>,repeatatleast(<any>,2))

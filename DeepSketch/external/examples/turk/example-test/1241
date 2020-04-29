@@ -1,0 +1,15 @@
+// example 
+"",+
+"G$cOY[d",+
+"56",+
+"(K$2qVO8<!",+
+"U",-
+"S4y!_an+",+
+"qm[#Oc<nG",+
+"*X,",+
+"?!7M",+
+"j|2k:",+
+"sa5P9Z",+
+
+// ground truth 
+not(or(or(<any>,<vow>),<num>))

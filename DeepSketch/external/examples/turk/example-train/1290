@@ -1,0 +1,14 @@
+// example 
+"",+
+">W)$@,Yl",+
+"kM",+
+"VV>#D"",+
+"oP#nmGk",+
+"]n6oP",+
+"N",+
+"A`%.",+
+"k#u",+
+"7GQ[/o>CG",+
+
+// ground truth 
+not(and(and(<any>,<num>),<low>))

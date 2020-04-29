@@ -1,0 +1,25 @@
+// example 
+"ez",-
+"iEe",+
+"AA8",-
+"t",-
+"o",+
+"!@aaA",+
+"Aoig",-
+"a",+
+"aU",+
+"OeIi",+
+"OeIa",+
+"b8r6-",-
+"",+
+"eY",-
+"aO",+
+"AoiD",-
+"K",-
+"AAm",-
+"iEU",+
+"!@aaO",+
+"U!yBv",-
+
+// ground truth 
+star(or(concat(<m0>,<m1>),<vow>))

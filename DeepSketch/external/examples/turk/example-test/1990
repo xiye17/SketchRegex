@@ -1,0 +1,22 @@
+// example 
+"$EzuYUJEvi%U9U/iLuJe",+
+"Na.I4OiotE'E^u",+
+"/JD",-
+"!",-
+"<UsD",-
+"$EzuYUJEvi%U9U/iLuJA",+
+"tujk$",-
+"",-
+"&U",-
+"7ofO%ATUrAGE*agI",+
+"<Ust",-
+"$ovuViRoEa\AqE.aYA",+
+"&o",-
+"/VX",-
+"tujF%",-
+"Na.I4OiotE'E^a",+
+"7ofO%ATUrAGE*agU",+
+"$ovuViRoEa\AqE.aYu",+
+
+// ground truth 
+repeatatleast(concat(<any>,<vow>),7)

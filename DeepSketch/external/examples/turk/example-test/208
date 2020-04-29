@@ -1,0 +1,25 @@
+// example 
+"Teelghkavod",+
+"4",-
+"OY)l^",-
+"Puwkespye",+
+"Y2",-
+"\pnm",-
+"Yop",+
+"Zy?",-
+"Ky",+
+"",-
+"Ltfkwwiuzl",+
+"}",-
+"bd]",-
+"Sctlkw",+
+"n7XZ%",-
+"Suurldc",+
+"Egjujtll",+
+"?hx-",-
+"Vdqt",+
+"Welnq",+
+"Y|",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<low>,1))

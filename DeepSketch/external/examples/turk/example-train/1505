@@ -1,0 +1,17 @@
+// example 
+"uD",+
+"a_",-
+"AYVM",-
+"e",-
+"YcjPi",-
+"",-
+"f,c",-
+"O",-
+"u!",+
+"A!Tk",-
+"O!3S0",-
+"p1^",-
+"Ce",-
+
+// ground truth 
+concat(<vow>,or(or(<cap>,<m0>),<m1>))

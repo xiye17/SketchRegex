@@ -1,0 +1,25 @@
+// example 
+"4%UG",-
+"P8aO\",-
+"ip",+
+"Chcr}",+
+"peUDf",+
+"P{mz)",-
+"ApL",+
+"hs7]a%",+
+"Yc",+
+"",+
+"}",-
+"P",-
+"cl#V",+
+"s]pE",-
+"w|",-
+";m",-
+"Nfjt",+
+"tut",+
+"MfeC5@",+
+"^2_",-
+"=gI",-
+
+// ground truth 
+star(startwith(concat(<let>,<low>)))

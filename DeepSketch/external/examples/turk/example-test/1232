@@ -1,0 +1,25 @@
+// example 
+"H4607",+
+"CDA0TGJ",+
+"9FRJA5",+
+"HP83",+
+"CDA0TG6",+
+"IWGIEBWR",+
+"6<C~",-
+"H460S",+
+"1')f1",-
+"6jcW",-
+"",-
+"3N,",-
+"<iw",-
+"IWGIEBW2",+
+"8",-
+"R",-
+"6n",-
+"HP8S",+
+"9FRJAK",+
+"1inL:",-
+".q",-
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),4)

@@ -1,0 +1,26 @@
+// example 
+"~a*tl",-
+"lR!f",+
+"z!-`*zd",+
+"{]K",-
+"a,t9",-
+"k",-
+"9bh",-
+"zK!pE1p",+
+"",-
+"fy+Lm",-
+"i!q",+
+"ik!",+
+"1_",-
+"l!Yd",+
+"k5!GGM",+
+"}/",-
+"k!P6^s",+
+"{g6g",-
+"yT#!u",+
+"yT!t0",+
+"b!",+
+"{",-
+
+// ground truth 
+concat(repeatatleast(<low>,1),contain(<m0>))

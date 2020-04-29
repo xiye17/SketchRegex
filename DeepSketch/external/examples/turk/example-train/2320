@@ -1,0 +1,26 @@
+// example 
+"v{~~ozvkwal",+
+"{|t,#",-
+"{|t,{",-
+"bdcajlu",+
+"Xqnpjavwaw",+
+"HL",-
+"|@|",-
+"}yrxwymc",+
+"sqcqhdbf",+
+"~}ljoqvrw",+
+""",-
+"|@U",-
+"",-
+"Ha",-
+"~#hfxrtcf",+
+"v{~ywcafqui",+
+"a{'~Xndzgzoi",+
+"4~e<",-
+"4~ee",-
+"a{'~guzrybhl",+
+"{",-
+"Xq}nwzzwah",+
+
+// ground truth 
+endwith(repeatatleast(<low>,7))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"9X",+
+";tk"?`VJ",+
+"cQw",+
+"U",+
+"k?s~2:",+
+"5ruqJ}|i;",+
+"JABA",+
+"B)?FQcb",+
+"AA")E",+
+
+// ground truth 
+not(and(and(<any>,<num>),<vow>))

@@ -1,0 +1,25 @@
+// example 
+"UZ",-
+"duG",-
+"Oa",+
+"A\EI",+
+"A\Eu",+
+"GuOAr",-
+"AAl`",-
+"!",+
+"",-
+"Ug",-
+"otg}u",+
+"AAlC",-
+"Iaa",+
+"Iau",+
+"i",+
+"otg}i",+
+"S",-
+"dug",-
+"GuOA~",-
+"OO",+
+"~",-
+
+// ground truth 
+endwith(or(and(<let>,<vow>),<m0>))

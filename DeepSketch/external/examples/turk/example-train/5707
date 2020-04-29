@@ -1,0 +1,17 @@
+// example 
+"R2",+
+"o",-
+")O'LY",+
+"@.}'",+
+"BQ>:l",+
+"",+
+"g",+
+"M",+
+"i0i",+
+"d)T",+
+"as",+
+"p3Ch",+
+"E",-
+
+// ground truth 
+not(or(or(<m1>,<vow>),<m0>))

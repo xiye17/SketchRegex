@@ -1,0 +1,16 @@
+// example 
+"AnPT",-
+"]",-
+"\u_",-
+"3e-Y",-
+"O!6",+
+"N",-
+"Q!/l*",-
+"%{",-
+"",-
+"R!,",-
+"el",-
+"Q!F%E",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<num>)

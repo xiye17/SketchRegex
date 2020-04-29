@@ -1,0 +1,25 @@
+// example 
+"iOb",+
+"_Zm,V",-
+"IEbQ",+
+"IT",+
+"aooAY",+
+"[dW_",-
+"Vw_",-
+"",-
+"'",-
+"U/",-
+"Ix",+
+"|",-
+"U|",-
+"IEbq",+
+"Vw{",-
+"6c>P",-
+"P",+
+"u",+
+"aooAl",+
+"iOE",+
+"?g2D#",-
+
+// ground truth 
+and(startwith(<any>),star(<let>))

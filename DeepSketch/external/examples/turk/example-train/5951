@@ -1,0 +1,25 @@
+// example 
+"w8i~b@##B",+
+"pxCRHy&"",+
+"gI`j",+
+"ewEa!",+
+"dqfxfVT",+
+"l?i",+
+"[X",-
+"g+ULzE",+
+"{#5G",-
+"",-
+"LR:k-",-
+"eSF~'|eyd]",+
+"}",-
+"qo",+
+"|}",-
+"f",+
+"?f8",-
+"@",-
+"{t_",-
+"}"2HP",-
+"Qutq",-
+
+// ground truth 
+concat(<low>,not(and(and(<m0>,<let>),<m1>)))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"hCi>u",+
+"uOop(M",+
+"s",+
+"Mj^_wK4$",+
+"pm#7",+
+"F+ln;ZO",+
+"}bq",+
+"v$3N:Ml]1",+
+"G}",+
+
+// ground truth 
+endwith(or(star(<low>),<num>))

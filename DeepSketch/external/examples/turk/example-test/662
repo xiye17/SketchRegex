@@ -1,0 +1,25 @@
+// example 
+"eh3sh",-
+"Fo4",+
+"F4u",+
+"aVE7/}",+
+"ojdu",+
+"o}",-
+"ols",-
+"ibgh",-
+"ibgs",-
+"",-
+"`",-
+"ib~a8",+
+"a",-
+"ojdi",+
+"eo",+
+"iG/dC",+
+"eh3s]",-
+"a-uim'",+
+"og",-
+"ei",+
+"qY3",-
+
+// ground truth 
+repeatatleast(startwith(or(<cap>,<vow>)),2)

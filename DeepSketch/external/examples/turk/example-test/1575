@@ -1,0 +1,25 @@
+// example 
+"o\IUOIuuO",+
+"r",-
+"Aeauia3F",+
+"G",-
+"UlkuOEIu8Ab",+
+"OgUaUiUouj",+
+"2/abk",-
+"",-
+"Qo",-
+"dV5",-
+"AeauiaiN",+
+"iudu",-
+"OgUaUiUoIe",+
+"Qu",-
+"dVg",-
+"`sIVrOaOIEEi",+
+"iudr",-
+"2/abu",-
+"`sIVrOaOIEEO",+
+"o\IUOIuui",+
+"UlkuOEIu8U:",+
+
+// ground truth 
+contain(repeatatleast(or(<vow>,<num>),7))

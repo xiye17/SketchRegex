@@ -1,0 +1,25 @@
+// example 
+"Lfbg|",-
+"h,IfO",+
+"kfX{fI",+
+"O%",-
+"35E",-
+"yJnh",-
+"I'eo",+
+"<(~wTsO",+
+"EqI",+
+"Ok",-
+"d",-
+"",-
+"<(~wTsu",+
+"I'eu",+
+"h,IfA",+
+"Lfbgr",-
+"35`",-
+"yJnH",-
+"Equ",+
+"kfX{fu",+
+"I",-
+
+// ground truth 
+concat(contain(<cap>),concat(<low>,<vow>))

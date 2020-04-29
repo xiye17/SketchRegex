@@ -1,0 +1,14 @@
+// example 
+"",+
+"^?vI+zwP",+
+"}ovR-",+
+"O",+
+"v)r5q:PuE",+
+"O;",+
+"'s{0",+
+"%xNM6R",+
+"eiW\cO>",+
+"|BK",+
+
+// ground truth 
+startwith(or(<m0>,not(<m1>)))

@@ -1,0 +1,17 @@
+// example 
+"882+",-
+"pD",-
+"8G",+
+"k",-
+"aMn",-
+"d",-
+"",-
+"8y",+
+"Eum`K",-
+"E{4*K",-
+"a^s",-
+"bY",-
+"8{Cn",-
+
+// ground truth 
+concat(or(<num>,<vow>),<let>)

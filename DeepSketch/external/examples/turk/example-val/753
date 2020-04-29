@@ -1,0 +1,25 @@
+// example 
+"!IV",+
+"@JUV",+
+"@ovx",-
+"!VPDDF",+
+"?wg",-
+"@X~@",-
+"@QL",+
+"!",-
+"!Q",-
+"@CPLG",+
+"",-
+"!QLL",+
+"!*",-
+"!AJYOEZ",+
+"@;r",-
+"@SL$7",-
+"@LJZLJT",+
+"!FNZV",+
+"@SLx(",-
+"I",-
+"@UCLPN",+
+
+// ground truth 
+concat(or(<m0>,<m1>),repeatatleast(<cap>,2))

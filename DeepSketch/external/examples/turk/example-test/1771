@@ -1,0 +1,23 @@
+// example 
+"Ig!",+
+".w!f!g!x!f!v!",+
+"2",-
+"O|W",-
+"Zq",-
+"Vc!w!y!",+
+"UVm&",-
+"Z}",-
+"",-
+"ru!]-",-
+"Eu!i!y!n!l!r!n!l!u!",+
+"Os!x!j!z!j!i!r!k!",+
+"ru!j.",-
+"bp!k!g!p!",+
+"O/o",-
+"U}fM",-
+"zt!k!v!d!t!",+
+")z!a!a!j!z!c!i!",+
+"sm!j!",+
+
+// ground truth 
+concat(<any>,repeatatleast(concat(<low>,<m0>),1))

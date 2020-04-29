@@ -1,0 +1,25 @@
+// example 
+"1",-
+"G",-
+">$DTO",-
+"OPZ4",-
+"B!D!",+
+"j2",-
+"K!Y!G!I!A!W!E!C!M!",+
+"I!W!S!W!P!L!T!T!S!D!",+
+"R!R!J!",+
+"",-
+"5w1'",-
+"D!",+
+"*G",-
+"N*v,2",-
+"|{r",-
+"T!E!Q!R!I!",+
+"Z!X!N!P!",+
+"T!L!U!G!I!K!S!",+
+"C!r",-
+"Y!V!P!R!B!I!",+
+"B!N!E!P!A!B!A!L!",+
+
+// ground truth 
+repeatatleast(concat(<cap>,<m0>),1)

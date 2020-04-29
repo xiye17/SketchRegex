@@ -1,0 +1,15 @@
+// example 
+"Y-h",+
+"7",+
+"F!\b",+
+"FGvwyu)}",+
+",R3P7,pQ'Y",+
+"WY",+
+"g{D93",+
+"c]U[KK",+
+"A*[y9:JpQ",+
+"",-
+"rwo=S4.",+
+
+// ground truth 
+endwith(or(<vow>,<any>))

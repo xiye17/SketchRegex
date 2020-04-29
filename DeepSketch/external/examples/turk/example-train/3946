@@ -1,0 +1,14 @@
+// example 
+"",+
+"B2",+
+"dD4A-`uT'",+
+"J8=zN-xV",+
+"rU`BY1z",+
+"gfF;",+
+"4",+
+"za+j(t",+
+"Ee|",+
+""o]\D",+
+
+// ground truth 
+contain(not(and(<let>,<m0>)))

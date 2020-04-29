@@ -1,0 +1,18 @@
+// example 
+"h'oKpf1k+-",+
+"f0mO",+
+"!J:",-
+".N(E|)fu",+
+"==Ot5Q$|rbz",+
+"Fk",-
+"$`xV_V",+
+"",-
+"-AbYT",+
+"^x6KNJ@^.`P0",+
+"@#ZU!b`3?",+
+"h",-
+"-j9D]}Y",+
+"Egy_)i(%Uu6Kr",+
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),4)

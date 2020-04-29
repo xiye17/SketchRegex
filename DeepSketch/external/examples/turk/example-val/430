@@ -1,0 +1,25 @@
+// example 
+"jO",+
+"Gm",-
+"ies",+
+"aOKB",+
+"|-aU",-
+"gt6$Y",-
+"",-
+"dO_LG",+
+"g",-
+"daMA.",+
+"Z3ve",-
+"iOG",+
+"gT4oC",-
+"~/",-
+"p^+",-
+"jI",+
+"oUE%Y1",+
+"aAT{",+
+"oO-<TM",+
+"~",-
+"pjJ",-
+
+// ground truth 
+startwith(concat(<low>,<vow>))

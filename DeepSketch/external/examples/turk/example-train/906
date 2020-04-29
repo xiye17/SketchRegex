@@ -1,0 +1,14 @@
+// example 
+"",+
+"V'3",+
+"I#b^NDij",+
+"5q*y[7x",+
+"[2UZp",+
+"'2",+
+"o",+
+"59Nk",+
+":J'$;1",+
+"f`FJ5r|bb",+
+
+// ground truth 
+not(and(and(<m0>,<low>),<cap>))

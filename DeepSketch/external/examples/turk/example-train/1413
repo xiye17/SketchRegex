@@ -1,0 +1,17 @@
+// example 
+"i=",+
+"C#",-
+"E&|",-
+">#`1",-
+"UT%do",-
+"",-
+"Ud",+
+"|3/T",-
+"QQ)=D",-
+"D+>",-
+"S",-
+"FE",-
+"E",-
+
+// ground truth 
+concat(or(or(<vow>,<low>),<m0>),<any>)

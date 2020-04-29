@@ -1,0 +1,25 @@
+// example 
+"{IFr",+
+"3",-
+"s{",-
+"|{SO0",-
+"_",-
+"{/1",-
+"#~MIC",+
+"ai_u}^",+
+"",-
+"s:",-
+"{/f",-
+"fMj",+
+"fMB",+
+"H^I`&`G",+
+"\`\l",-
+"\`\-",-
+"{IFJ",+
+"ai_u}o",+
+"#~MIf",+
+"|{SO~",-
+"H^I`&`v",+
+
+// ground truth 
+repeatrange(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),3,6)

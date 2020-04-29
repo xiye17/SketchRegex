@@ -1,0 +1,26 @@
+// example 
+"x'fpzewc",+
+"~5$oerignm",+
+"{ba",-
+"v|l~",-
+"xzdmungm",+
+"}{}fbuavr",+
+"|Ixh~",-
+"{tgyzij",+
+"=gzcymf",+
+"6|{4{aefpeg",+
+"",-
+"|",-
+"kvhecz",+
+"6|{4fzgbbge",+
+"v|lp",-
+"~5$8hvclfe",+
+"9",-
+"0{",-
+"{b~",-
+"0d",-
+"|IxhX",-
+"}{taxkgpp",+
+
+// ground truth 
+endwith(repeatatleast(<low>,6))

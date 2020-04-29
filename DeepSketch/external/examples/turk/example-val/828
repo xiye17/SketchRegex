@@ -1,0 +1,15 @@
+// example 
+"Pd",+
+"daOa",-
+"#|_0V",-
+"PqU",-
+"NJ",-
+"#i"gH",-
+"PZk",-
+"v",-
+"N}",-
+"d7Gs",-
+"",-
+
+// ground truth 
+concat(or(<any>,<cap>),<low>)

@@ -1,0 +1,17 @@
+// example 
+"E!",+
+"o\[f",-
+"q",-
+"C5$q",-
+"o2g",-
+"Ew%!K",-
+"",-
+"xJ",-
+"o!i",-
+"E!v@q",-
+"F$",-
+"z",-
+"I!",+
+
+// ground truth 
+and(contain(<vow>),concat(<any>,<m0>))

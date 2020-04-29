@@ -1,0 +1,26 @@
+// example 
+"r",-
+"t&at",-
+"\mt",-
+"pm",-
+"p,",-
+"ajxE",+
+"(K7He",+
+"mz9$kP",+
+"#",-
+".Fk",+
+"",-
+"O6",+
+"yS",+
+".hD",+
+"aj=Z",+
+"Vz*tX",+
+"S",+
+"\m<",-
+"{7q='",-
+"{7q=u",-
+"mz9Vcy",+
+"t&a-",-
+
+// ground truth 
+contain(and(and(<let>,<any>),<cap>))

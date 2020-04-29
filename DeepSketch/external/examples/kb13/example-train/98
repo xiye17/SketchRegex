@@ -1,0 +1,25 @@
+// example 
+"uibU",-
+"hIGiZOAu",+
+"EqGeAao",+
+"IS)\a",-
+"^oiQaCtoE",+
+"KUaiOA",+
+"EqGeAaU",+
+"",-
+"\ip",-
+"UaiOA",+
+"a",-
+"IS)\i",-
+"FQ",-
+"i",-
+"hIGiZOAi",+
+"\iw",-
+"KUaiOe",+
+"uibL",-
+"UaiOe",+
+"FE",-
+"^oiQaCtoU",+
+
+// ground truth 
+contain(and(concat(<let>,star(<let>)),repeat(contain(<vow>),5)))

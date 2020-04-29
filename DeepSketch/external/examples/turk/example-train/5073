@@ -1,0 +1,15 @@
+// example 
+"",+
+"!puM",+
+"E",+
+"EP",+
+"!2",+
+"!rd#z",+
+"!WY",+
+"ct2o",+
+"!",-
+"Z;N",+
+"tC#'f",+
+
+// ground truth 
+repeatatleast(not(<m0>),6)

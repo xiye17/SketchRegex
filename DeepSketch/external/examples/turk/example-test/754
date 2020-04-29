@@ -1,0 +1,16 @@
+// example 
+"PnX@n<G~;m",+
+":",-
+"LlIx{\_3",+
+"jYb=",+
+"uD:?w3",+
+"!$l",+
+"|;;"@",+
+"v4gpZ#bjn8k",+
+"",-
+"8x",+
+"oGFg)$v",+
+"r-M)~CQU]",+
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),2)

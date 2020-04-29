@@ -1,0 +1,14 @@
+// example 
+"",+
+"MQa_H",+
+"7!<WitiX",+
+"$,",+
+"2$`jpK",+
+"/w#pWIP",+
+">/[",+
+"eun]",+
+"z",+
+"Z/bt@6dpW",+
+
+// ground truth 
+contain(not(concat(<m0>,<cap>)))

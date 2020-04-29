@@ -1,0 +1,17 @@
+// example 
+"CM`\F",+
+"UK;}h#,(v3zq",+
+"P1+7^fr"T{",+
+"7'fMM2r",+
+"",-
+">ePv*c",+
+"*p|7P%GVd",+
+"^M3^",+
+"sd5rW=LL",+
+"syYZ6uYJ8=1",+
+"`)",-
+"wEs",+
+"L",-
+
+// ground truth 
+contain(repeat(<any>,3))

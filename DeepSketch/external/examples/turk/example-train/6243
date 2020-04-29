@@ -1,0 +1,14 @@
+// example 
+"",+
+"F",+
+"ohR$2])>",+
+"Zie",+
+"nF=5",+
+"@5~Ag",+
+"XM0B0=\It",+
+":]%l/E",+
+":5Hl"/%",+
+"Ub",+
+
+// ground truth 
+not(and(and(<let>,<cap>),<num>))

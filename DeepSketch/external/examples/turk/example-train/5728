@@ -1,0 +1,25 @@
+// example 
+"s",-
+",CY",-
+"O|",+
+"UA",-
+"a&"",+
+"e~W&X",+
+"O1",+
+"i#7H",+
+"fDno",-
+"iJ.|",+
+"",-
+"aaD",+
+"mc$",-
+"e",+
+"ft7~l",-
+"R3sYZ",-
+"e`<)S",+
+"7",-
+"Uw",-
+"j2bi",-
+"I",+
+
+// ground truth 
+concat(<vow>,not(<let>))

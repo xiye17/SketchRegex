@@ -1,0 +1,25 @@
+// example 
+"4fznFlXAAK",+
+"&{BlN",-
+"nbg1g",-
+"7jNzKbxtItM",+
+"1hPWgeiXU",+
+"4fznFlXAAg",+
+"&$q",-
+",n-v",-
+"1KPSQWc",+
+"6RmOuykN",+
+"1hPWgeiXc",+
+"Ec3",-
+"",-
+"'",-
+":",-
+"2Y",-
+"(<",-
+"7'mU",-
+"7jNzKbxtItd",+
+"6RmOuykp",+
+"1KPSQWI",+
+
+// ground truth 
+concat(<num>,repeatatleast(<let>,6))

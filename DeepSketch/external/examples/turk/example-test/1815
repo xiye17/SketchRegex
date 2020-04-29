@@ -1,0 +1,26 @@
+// example 
+"OwU",+
+"pDxU",+
+"I]%Q,",-
+"*V",-
+"O]F",-
+"pDAm",+
+"",-
+"Op",+
+"'",-
+"53fY",-
+"":?)Ev",+
+"53fq",-
+"O]r",-
+"5N~IAYy",+
+"5N~I~Bg",+
+";tAHk",+
+"*@",-
+"I]%Q]",-
+"OWf",+
+";tAb7",+
+"":?mUw",+
+"D",-
+
+// ground truth 
+contain(concat(<cap>,<low>))

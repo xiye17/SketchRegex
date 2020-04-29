@@ -1,0 +1,16 @@
+// example 
+"{A",+
+"y@;m4",-
+"Y",-
+"yS<TS",-
+"{JOv",-
+"{u",+
+"BF",-
+"Bs",-
+"%a\",-
+"%iG",-
+"",-
+"{k~Q",-
+
+// ground truth 
+concat(<any>,<vow>)

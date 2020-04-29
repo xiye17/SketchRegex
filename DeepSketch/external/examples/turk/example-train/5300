@@ -1,0 +1,25 @@
+// example 
+"hxl{h",-
+"bIHnWV",+
+"aG",+
+"~wHr}",-
+"VN#w",-
+"UV$O",+
+"Y<a",-
+"X6D",+
+""",-
+"_",-
+"",-
+"UVnD",+
+"_8",-
+"bIHn>T",+
+"DP",+
+"n\D$D",+
+"XsQ",+
+"VN#6",-
+"Y<=",-
+"n\D]E",+
+"Ef",-
+
+// ground truth 
+concat(startwith(<let>),<cap>)

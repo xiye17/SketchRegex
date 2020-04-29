@@ -1,0 +1,25 @@
+// example 
+"iU",+
+"Oz",-
+"Ofa&`7",+
+"UdN",-
+"OBCQN",-
+"OBCQc",-
+"UfA",+
+"umO:",+
+"a<qVu",+
+"",-
+"i[mK",-
+"UfI",+
+"a<qVI",+
+"U",-
+"ie",+
+"Ofrhu&",+
+"i[mr",-
+"umi5",+
+"O]",-
+"Udk",-
+"I",-
+
+// ground truth 
+repeatatleast(startwith(<vow>),2)

@@ -1,0 +1,26 @@
+// example 
+"l}",-
+"wFlEm",-
+"q#Bl+ktkso",+
+"V}~X",-
+"{{~cynay}d|u",+
+"V}~|",-
+"evvg~ot~y",+
+"q#Bl~xella",+
+"rbM",-
+"Bn(M1rvlhip",+
+"{{~cynay}~bx",+
+"",-
+"b",-
+"nipRzyqv",+
+"tfdlnfd",+
+"niLqytuo",+
+"lq",-
+"Bn(Mc|tuoel",+
+"wFlE9",-
+"evvg~o#ae",+
+"rbg",-
+"~",-
+
+// ground truth 
+repeatatleast(contain(<low>),7)

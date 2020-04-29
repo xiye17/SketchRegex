@@ -1,0 +1,25 @@
+// example 
+"!u",+
+"F",-
+"!aI",+
+"!ioiOo",+
+"!eEoI",+
+"4sZ",-
+"!eEoU",+
+"\n",-
+":BK>",-
+"!aO",+
+"!",+
+"!e1=",-
+"!eII",+
+"",-
+"!ioiOO",+
+"!k",-
+"!B<dW",-
+"!i%",-
+"!e",+
+"!eIi",+
+"!7s@w",-
+
+// ground truth 
+concat(<m0>,star(or(<m1>,<vow>)))

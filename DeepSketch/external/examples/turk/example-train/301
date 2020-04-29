@@ -1,0 +1,25 @@
+// example 
+"~wk0",-
+"R8d",+
+"[",-
+"a~$@d",+
+"Lj",+
+"=)",-
+"\VVi",-
+"5",-
+"~qu",-
+"T",+
+"{0",-
+"",-
+"]Cmk|",-
+"uakD",+
+"{|N9i",-
+"g",+
+"knC",+
+"-Z9",-
+"V&anb",+
+"p;",+
+"RgVH",+
+
+// ground truth 
+startwith(or(<vow>,<let>))

@@ -1,0 +1,24 @@
+// example 
+"J!!!@!b!U!S%d0m/;",+
+"6!I!",-
+"V!|!r!c!2!:1Kos;g7",+
+"(",-
+"V!,!X!r!F!Mw[k&7",+
+"]!@!0!Q!~!pkfV,=3"e",+
+"%!,!V!l!P!j0^",+
+"",-
+"(!",-
+"j!a!N!+!m!3X1M",+
+"~\}#}",-
+"K!t",-
+"\!w!T!I!g!K",+
+""!j!s!#!c!FM",+
+"g!q!@!:!S!*md+I",+
+"(1",-
+"6!IT",-
+"K0y",-
+"~!}!H",-
+"I!r!3!G!+!",+
+
+// ground truth 
+startwith(repeatatleast(concat(<any>,<m0>),5))

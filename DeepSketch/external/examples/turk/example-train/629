@@ -1,0 +1,17 @@
+// example 
+"gX",-
+"pOy",+
+"|]yhL",-
+"boHl",-
+"",-
+"gI",-
+"|0=w",-
+"hU_",-
+"Gnj#}",-
+"pOS",+
+"{",-
+"B",-
+"7jr",-
+
+// ground truth 
+concat(<low>,concat(<vow>,<let>))

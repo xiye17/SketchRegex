@@ -1,0 +1,14 @@
+// example 
+"",+
+"O\MFma50B",+
+"U}J[",+
+"Ub:",+
+"M.7xyOC",+
+"D}",+
+"%L\u{",+
+"+?>?/Y",+
+"&",+
+"MH?WkUSe",+
+
+// ground truth 
+not(and(<cap>,<low>))

@@ -1,0 +1,17 @@
+// example 
+"h3lT",-
+"Un",+
+"t",-
+"F!",-
+"FDr",-
+"",-
+"x.:z6",-
+"Om",+
+"i",-
+"I{)J",-
+"Uti{n",-
+"o9!",-
+"0m",-
+
+// ground truth 
+concat(<vow>,or(or(<any>,<m0>),<low>))

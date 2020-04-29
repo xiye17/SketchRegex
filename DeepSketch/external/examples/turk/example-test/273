@@ -1,0 +1,25 @@
+// example 
+"bpj",-
+"i|kr",-
+"u=4e$",-
+"IIMYN",+
+"uIKUHMH",+
+"q",-
+"aTVC",+
+"uPQYKY",+
+"eLDMHJN",+
+"iKT\",-
+"",-
+"oNH",+
+"eXAKN",+
+"l,^Hk",-
+"eAHY",+
+"U?",-
+"EWAOVX",+
+"H",-
+"llb",-
+"UYU",+
+"UL",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<cap>,2))

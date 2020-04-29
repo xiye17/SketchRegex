@@ -1,0 +1,17 @@
+// example 
+"a1",-
+"fR6V0",-
+"eeT?",-
+"u1",-
+"|%-/",-
+"",-
+"c",-
+"a8n",-
+"i{X",-
+"q{`'R",-
+"h",-
+"i",+
+"u",+
+
+// ground truth 
+and(and(<let>,<low>),<vow>)

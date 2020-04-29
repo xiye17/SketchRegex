@@ -1,0 +1,25 @@
+// example 
+"I'6.",-
+"omo",+
+"Andq",+
+"Ekldjl",+
+"~N`d",-
+"U|e",-
+"Il",+
+"W",-
+"JBn&'",-
+"Oh",+
+"ohurl",+
+"o|",-
+"oodm",+
+"",-
+"uye",+
+"Uj}",-
+"%4",-
+"ielqrm",+
+"U",-
+"U~J2L",-
+"aqwsv",+
+
+// ground truth 
+concat(<vow>,repeatatleast(<low>,1))

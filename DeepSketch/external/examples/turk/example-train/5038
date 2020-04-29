@@ -1,0 +1,15 @@
+// example 
+"JfI/",-
+"h",-
+"r8'S3",-
+"O5_",-
+"J)iH",-
+"Q5R",+
+"O5:",-
+"r8Rn2",-
+"y%",-
+"y~",-
+"",-
+
+// ground truth 
+concat(concat(<any>,<num>),<cap>)

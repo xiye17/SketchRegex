@@ -1,0 +1,25 @@
+// example 
+"OWBDA",+
+"y9!",-
+"n(]",-
+"IPJPC",+
+"iZQQDJ",+
+"A+OTM",-
+"aC",+
+"In",-
+"iPa8",-
+"iAPR",+
+"A|:H"",-
+"oBI",+
+"eVR",+
+"",-
+"P",-
+"i0Sw",-
+"eYLEHQ",+
+"AHRW",+
+"UT",+
+"A",-
+"I(",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<cap>,1))

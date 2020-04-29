@@ -1,0 +1,20 @@
+// example 
+".|UHd",-
+"WxGgIsMuWpSjQdMe",+
+"pE",-
+"BkRdOgSnVlNs",+
+"R|3A",-
+"Kcf",-
+"G{kn^",-
+"XdQeHxWpChDeIvRjUiLp",+
+"QkUxHpAdTdVqItEzBt",+
+"RhL/",-
+"",-
+"JrKhOiGuEzFjZp",+
+"A",-
+"w",-
+"Kc:",-
+"9z",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<low>),6)

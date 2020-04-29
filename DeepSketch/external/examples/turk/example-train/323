@@ -1,0 +1,25 @@
+// example 
+"myqxuri",+
+"]",-
+":]YH",-
+"zvvca",+
+"jqgewI",+
+"",-
+"}|K",-
+"djhA",+
+"i!(S[",-
+"zvvcE",+
+"biqkizvU",+
+"j",-
+"Uax",-
+"djhU",+
+"jqgewo",+
+"f!",-
+"r}]F",-
+"myqxurO",+
+"}qrr)",-
+"biqkizva",+
+"_9",-
+
+// ground truth 
+concat(repeatatleast(<low>,3),<vow>)

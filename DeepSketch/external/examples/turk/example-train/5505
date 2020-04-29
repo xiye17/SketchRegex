@@ -1,0 +1,16 @@
+// example 
+"G",-
+"|",-
+"u>",+
+"}rq'v",-
+"\2",-
+"X\sX,",-
+"~u(g",-
+"9r>",-
+"iOg",-
+"+*(3",-
+"",-
+"}E",-
+
+// ground truth 
+concat(<low>,or(<any>,<vow>))

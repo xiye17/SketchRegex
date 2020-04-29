@@ -1,0 +1,25 @@
+// example 
+"E{",+
+"QHpFX",-
+"U\",+
+"NE",-
+"Ni",-
+"Lmi",-
+"QHpFi",-
+"",-
+"FaR",+
+"et=XK",+
+"CrO'%",+
+"jc/X",-
+"FUy",+
+"ug(_",+
+"Uj/gz4",+
+"Lmb",-
+"DEV/",+
+"M",-
+"il;Zs*",+
+"H",-
+"jc/j",-
+
+// ground truth 
+endwith(contain(concat(<vow>,<any>)))

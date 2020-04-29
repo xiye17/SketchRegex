@@ -1,0 +1,25 @@
+// example 
+"\",-
+"Ha9*9",-
+"EvUsiSUr",+
+"86F",-
+"iW",+
+"EtavOP",+
+"uGo*",-
+"F/0",-
+"uGo\",-
+"uNos",+
+"",+
+"iPCVj",-
+"uIIkiceTEy",+
+"EvUsiSUQ",+
+"uNoI",+
+"S",-
+"Hp",-
+"uIIkiceTEF",+
+"id",+
+"K^",-
+"EtavOf",+
+
+// ground truth 
+star(concat(<vow>,<let>))

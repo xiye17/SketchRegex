@@ -1,0 +1,25 @@
+// example 
+"pB",-
+"auIooUuaA",+
+"~T8RG",-
+"pT",-
+"zeAIUoo",+
+"peUiOaEU",+
+"vEuIaOeIea",+
+"",-
+"auIooUuaO",+
+"p}0m",-
+"vEuIaOeIeu",+
+"zIi",-
+"peUiOaEI",+
+"L'Nb",-
+"zeAIUoA",+
+"@",-
+"qeueOu",+
+"zIh",-
+"P9'+#",-
+"qeueOE",+
+"~",-
+
+// ground truth 
+concat(<low>,repeatatleast(<vow>,5))

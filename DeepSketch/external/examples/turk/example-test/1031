@@ -1,0 +1,17 @@
+// example 
+"f'n",-
+"g?8k",-
+"o~",-
+"a",+
+"m",-
+"",-
+"}",-
+"a5s\",-
+"KqA0`",-
+"i",+
+"e}QTl",-
+"l.\",-
+"at",-
+
+// ground truth 
+and(or(<low>,<num>),<vow>)

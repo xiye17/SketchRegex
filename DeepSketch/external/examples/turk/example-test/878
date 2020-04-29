@@ -1,0 +1,14 @@
+// example 
+"",+
+"OxJ[\6",+
+"QC2M`6VQ",+
+"~3|%",+
+"iA2_'dv95",+
+"h+2",+
+"zI'`D",+
+"DOp2p_V",+
+"1",+
+"QS",+
+
+// ground truth 
+startwith(or(star(<any>),<num>))

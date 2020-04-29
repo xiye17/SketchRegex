@@ -1,0 +1,17 @@
+// example 
+"ob",+
+"M<G[",-
+"oG",+
+"*oZ6,",-
+"d",-
+"BCLC",-
+"e",-
+"",-
+"CB",-
+"@%E",-
+"Pm",-
+"EXf|g",-
+"V>R",-
+
+// ground truth 
+concat(or(or(<num>,<vow>),<m0>),<let>)

@@ -1,0 +1,17 @@
+// example 
+"s",-
+"w7JJ}",-
+"!dl",-
+"",-
+"wOYb.",-
+":",-
+"[G",-
+"!B{",-
+"uT",+
+"A5",-
+"|W0p",-
+"!n*n",-
+"DF",+
+
+// ground truth 
+or(concat(<m0>,<vow>),concat(<let>,<cap>))

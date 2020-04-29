@@ -1,0 +1,25 @@
+// example 
+"/j;O",-
+"]'",-
+"eI\eL",-
+"iIGaLA",+
+"q",-
+"SafOeocISU",+
+"xusAgUoa",+
+"",-
+"e\FDH",-
+"aO",+
+"iIGaLa",+
+"OOQ",-
+"xusAgUoU",+
+"SafOeocISu",+
+"jouO",+
+"{T!1",-
+"jouI",+
+"jD",-
+"ao",+
+"~",-
+"OO>",-
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),1)

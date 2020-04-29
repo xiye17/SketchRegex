@@ -1,0 +1,16 @@
+// example 
+"{cE",-
+"K[&FL",-
+"4,Jw",-
+"f>",-
+"7:w",-
+"vL4Q",-
+"w9tVb",-
+"?",-
+"t",+
+"".",-
+"",-
+"~",-
+
+// ground truth 
+and(star(<let>),or(<m0>,<low>))

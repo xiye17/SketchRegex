@@ -1,0 +1,17 @@
+// example 
+"!8",-
+"!he*",-
+"BdkS",-
+"!1jVe",-
+"!3]",-
+"!P",-
+"!",-
+"",-
+"!7m",+
+"Q",-
+"!STa-",-
+"lI8",-
+"!7I",+
+
+// ground truth 
+concat(<m0>,concat(<num>,<let>))

@@ -1,0 +1,17 @@
+// example 
+"aKe",+
+"T6~O",-
+"m",-
+"OEl",+
+"",-
+"IBaY1",-
+"e?H",-
+"EqX*",-
+"ig",-
+"eDX",-
+"i#",-
+"I",-
+"IB|N7",-
+
+// ground truth 
+concat(concat(<vow>,<cap>),<low>)

@@ -1,0 +1,25 @@
+// example 
+"9tcmkwi",+
+"2quwiavtwrjt",+
+"8btmwyxvpywvhnl",+
+"1y|",-
+"8brpahwtjz",+
+";N",-
+"3xrg",-
+"5yrtvnhlq",+
+",yyf;",-
+"#",-
+"",-
+""7",-
+"7kzdfzarewpvamcm",+
+"4txbypvrfuzyqk",+
+"4bssqdgmmre",+
+"7xbtsvjuyuqed",+
+"X\w",-
+"7wfmgszg",+
+"3xr|",-
+"Z-<Uw",-
+"{",-
+
+// ground truth 
+concat(<num>,repeatatleast(<low>,6))

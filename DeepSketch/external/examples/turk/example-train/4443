@@ -1,0 +1,26 @@
+// example 
+"e!",+
+"vZsA",-
+"~7h4!",+
+"q~",-
+"uI!B",+
+"d~Dt+!",+
+"zwu",-
+"vc^F",-
+"~7h!d",+
+"!",+
+"zw}",-
+"uId!",+
+"}!",+
+"%!/",+
+"",-
+"!h(V4s",+
+"~|hsF",-
+"%g!",+
+"6",-
+"Th",-
+"{",-
+"#g8.2",-
+
+// ground truth 
+or(contain(<m0>),repeatatleast(<low>,4))

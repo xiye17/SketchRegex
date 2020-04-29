@@ -1,0 +1,25 @@
+// example 
+"!![%K",-
+"!j!F!m!Y!K!P!M!v!w",+
+"!T!R!R!D!e!x",+
+"!R!X!Z!r!R!O!G!A",+
+"!l!r!F!G!X!B!f",+
+"!T!R!R!D!e!H",+
+"!",-
+"!}",-
+"!j!F!m!Y!K!P!M!v!L",+
+"",-
+"!K",-
+"!q!y!x!x!Z",+
+"!P!R",-
+"!l!r!F!G!X!B!L",+
+"<",-
+"!}s",-
+"4rA",-
+"!q!y!x!x!t",+
+"!R!X!Z!r!R!O!G!o",+
+"!{S/!",-
+"(,wh",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<let>),5)

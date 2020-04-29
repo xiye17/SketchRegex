@@ -1,0 +1,18 @@
+// example 
+"[N",-
+"@#jE",+
+"oOOFK)`",+
+"&tHO7McIBS",+
+"Hb`zMLi0",+
+"",-
+"mV#Oamkh$?Yz",+
+"g",-
+"[pC",-
+"RzxX`%uJvFI",+
+"7\_=e",+
+"MXU1uhl}W}dXU",+
+"*:N[Q7E!c",+
+"n><FqM",+
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),4)

@@ -1,0 +1,25 @@
+// example 
+"P8jo",+
+"r",-
+"}}`TO",+
+"}}`Tg",+
+"^[_ra%",+
+"H2_^[",-
+"^[_r'M",+
+"aK",+
+"0V",-
+"^Kt",+
+"",-
+"}",-
+"G?{_",-
+"P8L*",+
+"H2_^~",-
+"0}",-
+"G?{#",-
+"`?5",-
+"^KL",+
+"as",+
+"`?|",-
+
+// ground truth 
+repeatatleast(contain(repeatatleast(<let>,1)),2)

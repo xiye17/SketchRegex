@@ -1,0 +1,25 @@
+// example 
+"E",+
+"av{+",-
+"d3~r!",-
+"Cx7aU",-
+"U",+
+"`l",-
+"Oo",+
+"",-
+"Io9",-
+"iEp",+
+"c=W",-
+"OA",+
+"|",-
+"UiAeE",+
+"7",-
+"aPsN",-
+"iEI",+
+"v4",-
+"IoUm",+
+"UiAel",+
+"IoUc",+
+
+// ground truth 
+concat(star(<vow>),<let>)

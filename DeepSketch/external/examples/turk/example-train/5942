@@ -1,0 +1,25 @@
+// example 
+"ij",+
+"E!;h",+
+"m<x",-
+"o",+
+"OPt+.",+
+"OOb",+
+"bVC_a",-
+"E3%[",+
+"tDT",-
+"(",-
+"Qax4",-
+"O(mT8",+
+"",-
+"ff",-
+"w%",-
+"O4|",+
+"T",-
+"m^fq]",-
+"I",+
+"i,",+
+"x1~J",-
+
+// ground truth 
+concat(<vow>,not(or(<num>,<m0>)))

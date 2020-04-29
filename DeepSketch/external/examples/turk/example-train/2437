@@ -1,0 +1,25 @@
+// example 
+"[<",-
+"$<J",-
+"AzWgSbEvSC",+
+"uWaSelK",+
+"Y",-
+"tNLEUiJNb",+
+"yAXGoo",+
+"~@N)}",-
+"apzcciNX",+
+"",-
+"AzWgSbEvSd",+
+"|",-
+"}='",-
+"#V",-
+"uWaSeld",+
+"M_bc",-
+"apzcciNp",+
+"{|ZK",-
+"tNLEUiJND",+
+"yAXGoI",+
+"'XGD>",-
+
+// ground truth 
+and(not(<any>),repeatatleast(<let>,6))

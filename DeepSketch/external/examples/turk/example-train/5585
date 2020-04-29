@@ -1,0 +1,16 @@
+// example 
+"<u",+
+"*i::",-
+"@xq8'",-
+"7",-
+"!\",-
+"U~*",-
+"*as6",-
+"!w",-
+"@8hMs",-
+"<P",+
+"",-
+"UjZ",-
+
+// ground truth 
+concat(<any>,or(<vow>,<cap>))

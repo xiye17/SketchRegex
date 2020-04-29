@@ -1,0 +1,25 @@
+// example 
+"IEACw",-
+"E",+
+"G",-
+"EOIO",+
+"OAUud",+
+"F=y2",-
+"EII",+
+"E9",-
+"_y|{o",-
+"U",+
+"",-
+"EI}]",-
+"On",+
+"EC",-
+"EZE",-
+"OE",+
+"EIE",+
+"OAUuA",+
+"EOIU",+
+"C",-
+"]Gr",-
+
+// ground truth 
+repeatatleast(or(<vow>,<low>),1)

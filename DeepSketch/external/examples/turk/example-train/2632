@@ -1,0 +1,25 @@
+// example 
+"@-J",+
+"@a%:s",+
+"G'~o",-
+"D0",-
+"@-z*bHtuP",+
+"",-
+"@D@"",+
+";",-
+"@^",+
+"@{gu:K`cok",+
+"bp]bM",-
+"6\/&i",-
+"@dN_kF",+
+"v0n",-
+""I?",-
+""G",-
+"@ho3g"k#",+
+"@",+
+"@aXE[ZT",+
+"E",-
+")5RA",-
+
+// ground truth 
+startwith(or(and(<m0>,<let>),<m1>))

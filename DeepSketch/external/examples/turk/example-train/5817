@@ -1,0 +1,14 @@
+// example 
+"",+
+"Zhl",+
+"w_`\",+
+"?A",+
+"vo90A",+
+"~BW}cf",+
+"j#oI:}C'",+
+"E$/K'#Ql+",+
+"h|v]]u)",+
+"A",+
+
+// ground truth 
+not(and(and(<vow>,<m0>),<cap>))

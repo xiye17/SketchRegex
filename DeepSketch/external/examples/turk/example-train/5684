@@ -1,0 +1,25 @@
+// example 
+"$#^0xZe",+
+"Wh[WV",+
+"NGw",+
+"[.}1f",-
+"Wh[Wo",+
+"nH%",-
+"~iIm",+
+"^",-
+"",-
+"|",-
+"5{",-
+"nH{",-
+"~{bRXg",+
+"$#^0xZW",+
+"[.}1A",-
+"~iIX",+
+"~{bRXM",+
+"5S",-
+"`_.m",-
+"`_.0",-
+"NGW",+
+
+// ground truth 
+repeatatleast(endwith(<let>),3)

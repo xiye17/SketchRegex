@@ -1,0 +1,25 @@
+// example 
+"lf",+
+"l;",-
+"fpgejdkelj",+
+"%l",-
+"Lya",-
+"{SAr",-
+"jnh",+
+"czpd",+
+"",-
+"'eoc",-
+"ppz|m",-
+"ltzjzqg",+
+"j",-
+"N",-
+"ranux",+
+"ollbsu",+
+"sgrjekbb",+
+"pwbwulranab",+
+"mwogaiuho",+
+"~pk",-
+"ppz+1",-
+
+// ground truth 
+and(not(<m0>),repeatatleast(<low>,2))

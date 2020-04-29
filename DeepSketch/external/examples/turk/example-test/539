@@ -1,0 +1,15 @@
+// example 
+"(<.*8~xm:L",+
+":"5",+
+"'k^TT",+
+"*b",+
+"8mLN#'",+
+"(",+
+"[Ojcnr6Z",+
+"|a['i61",+
+"",-
+"Ag~H",+
+"~1>kMu3o9",+
+
+// ground truth 
+startwith(or(repeatatleast(<cap>,1),<any>))

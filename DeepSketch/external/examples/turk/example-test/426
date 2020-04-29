@@ -1,0 +1,17 @@
+// example 
+"r",-
+"wEp",+
+"",-
+"|lGK",-
+"qu",-
+"#C]B",-
+"dXk5.",-
+"qH",-
+"sWU",-
+"wub",+
+"D",-
+"sR0",-
+"dL),i",-
+
+// ground truth 
+concat(concat(<low>,<vow>),<any>)

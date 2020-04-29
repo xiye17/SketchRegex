@@ -1,0 +1,16 @@
+// example 
+"",+
+"4CZ",+
+"~Ml",+
+"7",+
+"L",+
+"@<",+
+"BQ"CR",+
+"%/-na",+
+"@",-
+"!n",+
+"@urv",+
+"kZ^a",+
+
+// ground truth 
+or(concat(<num>,<m0>),not(<m1>))

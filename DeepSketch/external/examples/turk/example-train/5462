@@ -1,0 +1,17 @@
+// example 
+"|"!Qg",+
+"-r(-",+
+"(",+
+"aT}",+
+"a",-
+"",+
+"omN",+
+"uT\/",+
+"i",-
+"cB",+
+"a2",+
+"}",+
+"Fr/=o",+
+
+// ground truth 
+not(and(<low>,<vow>))

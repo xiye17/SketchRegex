@@ -1,0 +1,25 @@
+// example 
+"Kzci",-
+"JAUMLVZEYP",+
+"Wv",-
+"OU$",-
+"YBSLSRJDZAs",+
+"*",-
+"1=-_t",-
+"WCJGPFA",+
+"TWLLTOYLH",+
+"",-
+"PKHUEZUn",+
+"TWLLTOYLm",+
+"KLA"",-
+"d'g&*",-
+"W&",-
+"WCJGPFp",+
+"PKHUEZUA",+
+"YBSLSRJDZAI",+
+">~t",-
+"M",-
+"JAUMLVZEYd",+
+
+// ground truth 
+concat(repeatatleast(<cap>,6),<let>)

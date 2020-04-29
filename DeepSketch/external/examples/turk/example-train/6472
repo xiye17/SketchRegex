@@ -1,0 +1,15 @@
+// example 
+"TIQkh/",+
+"epw.;",+
+"($3sBIK3",+
+")qCKa}R6c",+
+"Yu$'{p}Lb3",+
+"g=EG",+
+"clA}w1v",+
+"gl",+
+"d0<",+
+"~",+
+"",-
+
+// ground truth 
+endwith(or(<any>,repeatatleast(<num>,1)))

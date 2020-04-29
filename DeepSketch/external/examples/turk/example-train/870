@@ -1,0 +1,25 @@
+// example 
+"IgP9AuAiHE",+
+"EInUQqEII",+
+";4Q?@",-
+"iOioae",+
+"Oea",-
+"[huB7",-
+"AhbEAiEU",+
+"EoIeBEA",+
+"Oed",-
+"IE",-
+"e",-
+"",-
+"EInUQqEIi",+
+"iOioaE",+
+"IN",-
+"IgP9AuAiHe",+
+""lDs",-
+"nm3'",-
+"w",-
+"AhbEAiEE",+
+"EoIeBEi",+
+
+// ground truth 
+repeatatleast(startwith(<vow>),6)

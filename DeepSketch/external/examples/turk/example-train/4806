@@ -1,0 +1,17 @@
+// example 
+"r",-
+"[|",-
+"u,",+
+"u",-
+"I0",+
+"u1l",-
+"",-
+"O>3~",-
+"q]",-
+"cUp&`",-
+"OYz",-
+"fUz!a",-
+"A}cz",-
+
+// ground truth 
+concat(<vow>,or(<any>,<num>))

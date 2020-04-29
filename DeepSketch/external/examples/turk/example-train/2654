@@ -1,0 +1,15 @@
+// example 
+"Y@",-
+"=g2",-
+"FrIMT",-
+"=Q>",-
+"mV8e",-
+"m3up",-
+"L",-
+"FPz2!",-
+"jE",+
+"",-
+"Yc",-
+
+// ground truth 
+concat(or(<vow>,<any>),<cap>)

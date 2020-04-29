@@ -1,0 +1,24 @@
+// example 
+"k!A",+
+"]",-
+"IV",+
+"u!w!",+
+"mU#[E",-
+"U",+
+"N\",-
+"MKX",+
+"i!_.",-
+"i\7\",-
+"-g.",-
+"",+
+"m!3^k",-
+"u!CD",+
+"u!",+
+"7",-
+"Ng",-
+"w!TQE",+
+"w!Tk!",+
+"K^e",-
+
+// ground truth 
+star(or(<cap>,concat(<low>,<m0>)))

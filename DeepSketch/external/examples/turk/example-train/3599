@@ -1,0 +1,17 @@
+// example 
+"F",-
+"AG",-
+"u",-
+"E5",+
+"E8&",-
+"`y_M",-
+"o7",+
+"",-
+"Kn@*X",-
+"u(@}",-
+"ECw",-
+"A&",-
+"loLY"",-
+
+// ground truth 
+concat(<vow>,and(<any>,<num>))

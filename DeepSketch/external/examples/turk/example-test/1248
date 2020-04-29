@@ -1,0 +1,16 @@
+// example 
+"2u7",-
+"Y",+
+"-VWY",-
+"Pi",-
+"]bmbb",-
+"p",-
+"*l",-
+"?",-
+"iN[7",-
+"SN/y#",-
+"",-
+"QK7",-
+
+// ground truth 
+and(and(<any>,<let>),<cap>)

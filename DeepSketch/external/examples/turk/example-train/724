@@ -1,0 +1,14 @@
+// example 
+"",+
+"}OPhj",+
+"^`m=ckcc",+
+"0EK~<|",+
+"Y7",+
+"fY[W6[7v!",+
+"|Bqo",+
+"p+=[tA7",+
+"udp",+
+"}",+
+
+// ground truth 
+not(and(and(<m0>,<cap>),<let>))

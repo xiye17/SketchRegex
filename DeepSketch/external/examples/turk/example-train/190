@@ -1,0 +1,16 @@
+// example 
+"w:jSD",-
+"Xr4\",-
+"O",-
+"xVX",-
+",DV",-
+"IF",+
+"=/Qmm",-
+"_",-
+"?3I}",-
+"",-
+"@S",-
+"y-",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<num>),<m0>))

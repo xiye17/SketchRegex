@@ -1,0 +1,25 @@
+// example 
+"6h",-
+"Z",-
+"PHPWWPWNQY!",+
+"TCEYSPLMTVX!",+
+"MUWe*",-
+"HDEXYD!",+
+"RW",-
+"FBDZXVHFAKFIZ!",+
+"",-
+"~NQ4",-
+"Cfz",-
+":%3",-
+"AGGCXFSOJLJOUN!",+
+"OFHWUMRJCYFR!",+
+"!A=i",-
+"?",-
+"PUCGLZQMA!",+
+"VTZDMCUJ!",+
+"M$ky6",-
+"QBLFOMU!",+
+"PIAKNIPFGHXPYWE!",+
+
+// ground truth 
+concat(repeatatleast(<cap>,6),<m0>)

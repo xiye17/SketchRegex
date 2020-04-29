@@ -1,0 +1,25 @@
+// example 
+"vOzEwoya",+
+"dozagibOdIli",+
+"{^y>",-
+"aeeIyIuecUjInerE",+
+"",-
+"vOzEwoyi",+
+"|T?BS",-
+"P",-
+"kaziwUpomA",+
+"kaziwUpomo",+
+"dozagibOdIle",+
+"aeeIyIuecUjInerU",+
+"iu",-
+"gml",-
+"uD6V",-
+"HWKjY",-
+"%-",-
+"quduquhIvIsOzi",+
+"w",-
+"quduquhIvIsOzo",+
+"{r1",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),4)

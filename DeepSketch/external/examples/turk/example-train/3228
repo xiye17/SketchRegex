@@ -1,0 +1,17 @@
+// example 
+"NwQ!k",-
+"/",-
+"x?",-
+"n%H",-
+"!",-
+"",-
+"#A1Z",-
+"cM8f",-
+"e@",+
+"N2nf~",-
+"n@9",-
+"F@",+
+"xh",-
+
+// ground truth 
+concat(or(or(<let>,<vow>),<m0>),<m1>)

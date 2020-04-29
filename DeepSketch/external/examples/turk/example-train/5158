@@ -1,0 +1,17 @@
+// example 
+"3!/",+
+"7!O",-
+"2!",+
+"2",+
+"7!i",-
+"",+
+"0!a_",+
+"/XAlV",+
+"y",+
+"//z",+
+"x%N4(",+
+"2-",+
+"0heJ",+
+
+// ground truth 
+not(concat(<num>,concat(<m0>,<vow>)))

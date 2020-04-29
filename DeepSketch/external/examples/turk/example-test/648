@@ -1,0 +1,17 @@
+// example 
+"5=x",-
+"G2$x",-
+"S/",-
+"Sp",-
+"i,B",-
+"",-
+"g",-
+"G)x#",-
+"g2",+
+"n8b6F",-
+"g!",+
+"nFrXc",-
+"C",-
+
+// ground truth 
+concat(<let>,or(<num>,<m0>))

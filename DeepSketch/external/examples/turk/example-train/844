@@ -1,0 +1,26 @@
+// example 
+"0",-
+"ek4_}",-
+"|{|",-
+"tBr",+
+"dwT~",-
+"dwTB",-
+"ek4_A",-
+"%"tv",+
+"o~"}0u",+
+"Bf",+
+"o~"}~e",+
+"",-
+"I~",-
+"IB",-
+"e",+
+"4.t|j",+
+"%"}m",+
+"4.tih",+
+"tgw",+
+"an",+
+"{",-
+"|{+",-
+
+// ground truth 
+concat(not(<any>),endwith(<low>))

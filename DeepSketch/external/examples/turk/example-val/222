@@ -1,0 +1,25 @@
+// example 
+"5A6a1O4O3a3E7E",+
+"1",-
+"4o0a4o2I8o",+
+"/",-
+"1E7i4e5O9U2i",+
+"8u8U4i6e",+
+"4o0a4o2I8I",+
+"6AMec",-
+"-}",-
+"8u8U4i6I",+
+"7_5K",-
+"6gheI",-
+"",-
+"1E7i4e5O9U2A",+
+"0a1",-
+"2a1a1i6o0a2u9E9o",+
+"91",-
+"iJ\",-
+"5A6a1O4O3a3E7U",+
+"7s^W",-
+"2a1a1i6o0a2u9E9u",+
+
+// ground truth 
+repeatatleast(concat(<num>,<vow>),4)

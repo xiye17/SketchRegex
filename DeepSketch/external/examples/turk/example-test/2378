@@ -1,0 +1,24 @@
+// example 
+"POO",-
+"KEiEOeUa",+
+"XAoAuoaoE",+
+"V~fg2",-
+"Zf|=",-
+"*W",-
+"rOEeauauOUa",+
+"",-
+"=",-
+"*D",-
+"POs",-
+""uAUEeE",+
+"XAoAuoaoU",+
+"rUeuAOOioA",+
+"rOEeauauOUo",+
+"VqoQx",-
+"KEiEOeUE",+
+""uAUEeu",+
+"rUeuAOOioo",+
+"Zm^[",-
+
+// ground truth 
+concat(<any>,repeatatleast(<vow>,6))

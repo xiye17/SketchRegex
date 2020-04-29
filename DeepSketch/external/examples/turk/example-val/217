@@ -1,0 +1,25 @@
+// example 
+"G#:",-
+"*xv{",-
+"o",+
+"g{:",-
+"a",+
+"AY&,",+
+"",-
+"F-",-
+"Oa`",+
+"g",-
+"Sw",-
+"hl]7",-
+"!.#",+
+"a*Q#",+
+"O.,ob",+
+"EHQQF",+
+"Fx}qs",-
+"i[",+
+"T!PnJ",-
+"A-",+
+"B",-
+
+// ground truth 
+startwith(or(<vow>,<m0>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"D<f.^6",+
+"7",+
+"Dp",+
+"9jX$",+
+"pToO$eW",+
+"y7`{j?MH(",+
+"y3m",+
+"+m#+E",+
+"B;eJ![E[",+
+
+// ground truth 
+not(and(and(<cap>,<let>),<num>))

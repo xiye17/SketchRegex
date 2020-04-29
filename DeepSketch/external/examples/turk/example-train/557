@@ -1,0 +1,15 @@
+// example 
+"2{QlB^`",+
+"wU/fYH",+
+"S",+
+"v:",+
+"Af,4l?#,",+
+"|-nW",+
+"D;(",+
+"0FR=WuPUMI",+
+"TWw4M",+
+"D(W1Q@}SC",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<let>),1)

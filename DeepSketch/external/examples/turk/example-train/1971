@@ -1,0 +1,26 @@
+// example 
+"AQX",-
+"V;dc",-
+"Z!e",+
+"aQ!n",+
+"2",-
+"P!_@Z^b",+
+"94",-
+"%1n+5",-
+"PS3+X!1",+
+"bzpC!",+
+"bz4L!",+
+"",-
+"H@#3J!",+
+"V;d;",-
+"aQM!",+
+"%1n+g",-
+"9W",-
+"H@#WK!",+
+"AQx",-
+"ZJ!",+
+"L",-
+"I!",+
+
+// ground truth 
+contain(concat(<cap>,<m0>))

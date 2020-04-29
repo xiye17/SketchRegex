@@ -1,0 +1,25 @@
+// example 
+"R_",-
+"Cb",+
+"G",-
+"nm",+
+"$0(gx",+
+"}y,eg'",+
+"]i"|",-
+"",-
+"}]{",-
+"}]O",-
+"HSh",+
+"R'",-
+"]i"K",-
+"$0(Sp",+
+"s{YF_",-
+"Y{dl",+
+"Hc<",+
+"Y{Mp",+
+"}y,eXz",+
+"{",-
+"s{YFZ",-
+
+// ground truth 
+contain(concat(<let>,<low>))

@@ -1,0 +1,19 @@
+// example 
+"SHDMR<H#JBGEJ.FE",+
+"nN|",-
+"yTPVU",-
+"I/YYNHU?OlA[LSPXFFDM",+
+"LY",-
+":z_",-
+"6A",-
+"",-
+"`",-
+"#~JAl",-
+"xLTC",-
+"H",-
+"YQXYH_W_P/U|L-L`MW",+
+"BaTVZQLxLyU5D3",+
+"'%r1",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),7)

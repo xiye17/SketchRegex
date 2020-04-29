@@ -1,0 +1,25 @@
+// example 
+"Yz\!D",-
+"{/zX-",-
+"S\om",-
+"d>",-
+"i})",-
+"wcfng",+
+"wcfnR",+
+"V",-
+""5V",-
+"MMG",+
+"CMRW",+
+"bp",+
+"",-
+"iCYZAM",+
+"Sz[~",-
+"9",-
+"d|",-
+"CMRl",+
+"iCYZAi",+
+"bT",+
+"MMm",+
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),2)

@@ -1,0 +1,17 @@
+// example 
+"0",+
+"=,",-
+"U",+
+"J^F,",-
+"UB:Up",-
+"",-
+":",-
+"M!V",-
+"U.2",-
+"JN-EZ",-
+"R",-
+"OI",-
+"Umme",-
+
+// ground truth 
+or(or(<vow>,<low>),<num>)

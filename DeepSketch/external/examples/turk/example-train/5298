@@ -1,0 +1,25 @@
+// example 
+"E",+
+"NA",+
+"E^DK",+
+"G",-
+"DUwm",+
+"/",-
+"AA:",+
+"IaU",+
+"NE",+
+"oG",-
+"DkMB6",-
+"",-
+"I<Ct)",+
+"oC",-
+"SYC",-
+"fDGH",-
+"DkMBC",-
+"SYS",-
+"A}FHq",+
+"fDGB",-
+"A",+
+
+// ground truth 
+contain(and(<vow>,<cap>))

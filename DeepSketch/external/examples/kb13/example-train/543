@@ -1,0 +1,25 @@
+// example 
+"Aoi",+
+"fn^OuI",+
+"UGTOa@%",+
+"fn^Oua",+
+"gEUH",-
+"ohI]]",-
+"vaOe",+
+"vaOi",+
+"UGTOXU@",+
+"inOUq",+
+"",-
+"tAo",-
+"ohI]a",-
+"tAI",-
+"i",-
+"CU",-
+"gEUz",-
+"Aoa",+
+"A",-
+"inOFO",+
+"C0",-
+
+// ground truth 
+contain(and(repeatatleast(<let>,1),repeat(contain(<vow>),3)))

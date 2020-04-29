@@ -1,0 +1,17 @@
+// example 
+"BrV,",-
+"BO7(",-
+"Fe'J"",-
+"XF",+
+"",-
+"L^",-
+"S2,",-
+"j",-
+"R",-
+"S[x",-
+"1!B,T",-
+"Xg",+
+"L|",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<m1>),<let>)

@@ -1,0 +1,17 @@
+// example 
+"e!z.",-
+"V",-
+"$m",-
+"=kyL*",-
+"DQrOz",-
+"e",-
+"",-
+"E#d",-
+"u#",+
+"o#",+
+"e#[3",-
+"i'",-
+"E!D",-
+
+// ground truth 
+concat(or(or(<vow>,<m0>),<m1>),<m2>)

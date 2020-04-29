@@ -1,0 +1,25 @@
+// example 
+"gir8",+
+"vzdpmeiom8",+
+"o",-
+"scouikgxyng7",+
+"e}Hu",-
+"",-
+"~_I",-
+"dd",-
+"/W5",-
+"urznsxwo4",+
+"wmvyxeexmi6",+
+"dqpqae5",+
+"nmpgv9",+
+"d\",-
+"J",-
+"H~VI%",-
+"zjov{",-
+"wk9",+
+"sjhy4",+
+"kdtwnzc2",+
+"ef~/",-
+
+// ground truth 
+concat(repeatatleast(<low>,2),<num>)

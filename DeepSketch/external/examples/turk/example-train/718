@@ -1,0 +1,16 @@
+// example 
+"P",-
+"K4Oq",-
+"X1h",+
+"W]4",-
+"SS@_K",-
+"v",-
+"}.",-
+"^2"",-
+"",-
+"S(\S%",-
+"NX",-
+"K4aI",-
+
+// ground truth 
+concat(concat(<cap>,<num>),<low>)

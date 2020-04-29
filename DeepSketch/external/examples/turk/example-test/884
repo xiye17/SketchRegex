@@ -1,0 +1,24 @@
+// example 
+"i!m!",-
+"i!a!c!h!",-
+"r!|?*",+
+"u!v!b!f!e!b!b!c!k!w!",-
+"|8f",+
+"v!z!j!u!v!",-
+"f!g!h!k!k!b!",-
+"h!",+
+"g!y!w!o!d!r!k!",-
+"w!r!p!p!m!q!m!b!y!",-
+"",+
+"j)J#",+
+"j!Pg",+
+"M",+
+"\d",+
+"l~I",+
+"z!q!d!z!b!r!c!o!",-
+"r!k!k",+
+"s!n!m!",-
+"{",+
+
+// ground truth 
+not(repeatatleast(concat(<low>,<m0>),2))

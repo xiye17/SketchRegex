@@ -1,0 +1,14 @@
+// example 
+"",+
+"?7",+
+"N)y",+
+"QkI'}%",+
+"&kXULfYvt",+
+"*'<S",+
+"<FEtQn2",+
+"R4RdzSB1",+
+"h**t\",+
+"\",+
+
+// ground truth 
+endwith(or(not(<m0>),<num>))

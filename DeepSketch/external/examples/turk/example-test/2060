@@ -1,0 +1,25 @@
+// example 
+"UzeE",+
+"ii",+
+"oO{\ta",+
+"#N|",-
+"aX#|",-
+"~yE",+
+"wuab~",-
+"m",-
+"#Nm",-
+"oO{\tU",+
+"aX#g",-
+"",-
+"|",-
+"}area",+
+"]/",-
+"ie",+
+"}aree",+
+"~yi",+
+"wuabG",-
+"Uzee",+
+"]x",-
+
+// ground truth 
+concat(endwith(<low>),<vow>)

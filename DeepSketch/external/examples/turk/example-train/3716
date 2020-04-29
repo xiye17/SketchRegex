@@ -1,0 +1,24 @@
+// example 
+"!xffZm>Op",-
+"!&0ukk*E",-
+"!v",-
+"5r&='$IIO(",+
+"!",-
+"gVZr",+
+"@u>",+
+">$Yec",+
+"",-
+"%l-I`nAv7",+
+"=v",+
+"!CY",-
+"!>VPi[2",-
+"UPcK[p",+
+"9}>FncH",+
+"TvuJO=cf",+
+"!l`})f",-
+">",+
+"!RQ3",-
+"!0*MJ",-
+
+// ground truth 
+not(star(startwith(<m0>)))

@@ -1,0 +1,25 @@
+// example 
+"J0u",+
+"u,",-
+"Vt#0",+
+"Y",+
+"~H/",-
+"y~7N",-
+"#\[",-
+"N"N_7",+
+"4+^I",-
+"amwg(",-
+""",-
+"Zn<cH+{#C:",+
+"Gnzex3u@",+
+"",-
+"$_p<i",-
+"h",-
+"REM\jq:",+
+"F"=NyE",+
+"Fy",+
+"-Z",-
+"PaWJI'&!C",+
+
+// ground truth 
+concat(startwith(<cap>),not(<low>))

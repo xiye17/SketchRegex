@@ -1,0 +1,14 @@
+// example 
+"",+
+"RyPQ'",+
+"8*s_",+
+"KYa@-o",+
+"n$NcVY>",+
+"I2-9J?ba",+
+"SJS",+
+"+",+
+"v'",+
+"yYV>{1Mz5",+
+
+// ground truth 
+not(and(and(<m0>,<any>),<m1>))

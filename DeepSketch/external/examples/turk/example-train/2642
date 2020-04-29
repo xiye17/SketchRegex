@@ -1,0 +1,15 @@
+// example 
+"q^k",+
+"`lLX%`Yy]",+
+"aZ",+
+"wAH$",+
+"kgHO2",+
+"{|U02A",+
+"A8etCMO",+
+"B&>#TRcG",+
+"_",+
+"Sa}~L`MZ)>",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<any>),<num>))

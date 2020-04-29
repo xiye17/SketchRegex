@@ -1,0 +1,15 @@
+// example 
+"q",+
+"Sq.56?v)pK",+
+"2?P",+
+"PgKc0@/",+
+"")=Oh%#,",+
+"Y]Ycu",+
+"a&",+
+"4?H5",+
+"*(tk_o",+
+"'O`vi-RhK",+
+"",-
+
+// ground truth 
+or(repeatatleast(<m0>,1),endwith(<any>))

@@ -1,0 +1,15 @@
+// example 
+"",+
+"w:",-
+"E8uUc",-
+"=",-
+"]@ff",-
+"#Dm",-
+"#VN`r&Ur.",-
+"p6X-rQt8",-
+"j7Vt9j`",-
+"_z]=ww]6xL",-
+"{hZ#X@",-
+
+// ground truth 
+not(or(endwith(<any>),<let>))

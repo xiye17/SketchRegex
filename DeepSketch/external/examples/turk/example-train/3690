@@ -1,0 +1,25 @@
+// example 
+"]",-
+"ptrUkg",+
+"ulmjE",+
+"bA",+
+"",-
+"O9~",-
+"}",-
+"O9=",-
+"bu",+
+"mcE",+
+"~bnj",-
+"}}x2!",-
+"ulmja",+
+"}}x2~",-
+"~bn+",-
+"ptre0s",+
+"9m",-
+"OojA",+
+"OoOz",+
+"mcA",+
+"9~",-
+
+// ground truth 
+contain(concat(<low>,<vow>))

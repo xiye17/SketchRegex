@@ -1,0 +1,25 @@
+// example 
+"aiI",+
+"oCEaeO",+
+"Eo`lA",-
+"Oe",-
+"UoJOJ",+
+"Ou",-
+"Uti",-
+"MUAT",+
+"k",-
+"",-
+"Q",-
+"UM",+
+"Eo`lu",-
+"MUAE",+
+"Ohok",-
+"Ut7",-
+"Ohoi",-
+"UoJOU",+
+"oCEaeU",+
+"UF",+
+"aiS",+
+
+// ground truth 
+concat(endwith(<vow>),<cap>)

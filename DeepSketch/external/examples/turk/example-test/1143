@@ -1,0 +1,15 @@
+// example 
+"%;)0W3x\u[",+
+"T^':u:.s",+
+"6bbD33m^2",+
+"*C27q",+
+":j",+
+"TWpw",+
+"^d%T1G4",+
+">",+
+"y^{",+
+"ehisJE",+
+"",-
+
+// ground truth 
+contain(or(or(<m0>,<m1>),<any>))

@@ -1,0 +1,25 @@
+// example 
+"TKyt",+
+"pm",+
+"{6",-
+"|xA",-
+"QQ][[",-
+"o",+
+"pF",+
+"gHl",+
+"TKyB",+
+"V",+
+"",-
+":pj",-
+"u%",-
+"EIR#",-
+"gHW",+
+"8VMZ",-
+">",-
+"QQ{=a",-
+"RbbJx",+
+"{",-
+"RbbJB",+
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),1)

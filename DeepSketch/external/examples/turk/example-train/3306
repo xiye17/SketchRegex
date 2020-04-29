@@ -1,0 +1,25 @@
+// example 
+"Oie",+
+"E",+
+"A!$",-
+"BL<f",-
+"AOieA",+
+"aH",-
+"ab",-
+"OaAOH",-
+"AOieI",+
+"/U;\3",-
+"",-
+"Opx*",-
+"5",+
+"OiU",+
+"Wj8",-
+"OI",+
+"x",-
+"OO",+
+"I8ue",+
+"B",-
+"I8ua",+
+
+// ground truth 
+repeatatleast(or(<vow>,<num>),1)

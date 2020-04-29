@@ -1,0 +1,17 @@
+// example 
+"!I",+
+"gpb6",-
+"Z",-
+"!Io",-
+"!ARw",-
+"!v",-
+"!",-
+"!N*",-
+"",-
+"!c",-
+"!WAV(",-
+"!ayRi",-
+"!e",+
+
+// ground truth 
+concat(<m0>,or(<vow>,<num>))

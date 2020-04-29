@@ -1,0 +1,18 @@
+// example 
+"rcgj'hw-"z",+
+"+kHWSb.g538",+
+"!6N",-
+"",-
+"EEWj%F"",+
+"U!9BS",+
+"M*",-
+"uAc\F&w6hp\4",+
+"i",-
+"\9%@1dl5",+
+"(&nYrvgf&su/J",+
+"Dbe{"/og-",+
+"#T::`6",+
+"vb?S",+
+
+// ground truth 
+repeatatleast(or(<let>,<any>),4)

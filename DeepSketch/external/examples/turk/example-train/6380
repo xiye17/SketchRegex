@@ -1,0 +1,17 @@
+// example 
+"VMF",-
+"ZeF_",-
+"to!",+
+"bE-A=",-
+"",-
+"tO!",+
+"|J(",-
+"J",-
+"ro",-
+"J|c|y",-
+"{",-
+"}5AB",-
+"~`",-
+
+// ground truth 
+concat(<low>,concat(<vow>,<m0>))

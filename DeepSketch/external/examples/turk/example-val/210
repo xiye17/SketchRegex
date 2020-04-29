@@ -1,0 +1,25 @@
+// example 
+"k1L",-
+"8dP:",-
+"tn|r_",-
+"mobvvrzi",+
+"tglkgh",+
+"phvqamdbv",+
+"tglkgO",+
+"J^HQ%",-
+"iltzh",+
+"ncqjynh",+
+"phvqamdbL",+
+"",-
+"%",-
+"i`8;",-
+"mobvvrzL",+
+"k~I",-
+"|9",-
+"FA",-
+"ncqjynO",+
+"iltzK",+
+"~",-
+
+// ground truth 
+concat(repeatatleast(<low>,4),<let>)

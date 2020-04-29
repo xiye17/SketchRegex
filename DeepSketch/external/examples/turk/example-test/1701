@@ -1,0 +1,25 @@
+// example 
+"2'rt",+
+"`n@",+
+"DKx",-
+"vf",-
+"K2",+
+"Zvlx",-
+"|ys",+
+"z{OLi",+
+"UMPbG",-
+"_",+
+"z`Ghg",+
+"ZvlK",-
+"",+
+"h",-
+"DKW",-
+"T",-
+"vC",-
+"UMPbj",-
+"[`.j",+
+"4",+
+"K_",+
+
+// ground truth 
+not(repeatatleast(or(<vow>,<let>),1))

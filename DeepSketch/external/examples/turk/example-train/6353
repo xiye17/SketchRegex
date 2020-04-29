@@ -1,0 +1,15 @@
+// example 
+"",+
+"_/OTm7zp[",+
+"{U2",+
+"B|.S_",+
+"Vt3q",+
+"ky0a|w1>",+
+"v/D"o;",+
+".;,-Kn`",+
+"u'x9;]w19*",+
+")",-
+"::",+
+
+// ground truth 
+not(or(or(<num>,<cap>),<any>))

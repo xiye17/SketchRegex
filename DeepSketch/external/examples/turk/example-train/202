@@ -1,0 +1,17 @@
+// example 
+"Je",-
+"8cY",-
+"F7a",+
+"!",-
+"N2O22",-
+"J+",-
+"ftO",-
+"",-
+")sOb",-
+"F7e",+
+"j",-
+"lz:(",-
+"N(T~.",-
+
+// ground truth 
+concat(concat(<cap>,<num>),<vow>)

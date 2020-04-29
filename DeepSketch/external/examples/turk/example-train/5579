@@ -1,0 +1,14 @@
+// example 
+"",+
+"`hn+}:b",+
+"AJ>&&b",+
+"zB8l>oH=",+
+"k",+
+"M"m~3",+
+"eFt0",+
+"B0",+
+"@}sS-gSzJ",+
+"=wC",+
+
+// ground truth 
+not(and(and(<cap>,<low>),<m0>))

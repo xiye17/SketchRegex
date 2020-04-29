@@ -1,0 +1,21 @@
+// example 
+"|KnK1ZXD?W6ZRAZWOH",+
+"P1n",-
+"qM9CBNGEXT'P",+
+"&/",-
+"8BBZ)JyW",+
+"",-
+"j",-
+"(HpBk",-
+")N;TkC3N#W{ZVXSA[B<Y",+
+"AMGANJ:C:B",+
+"&P",-
+"%Sml",-
+"(Hpd/",-
+"mA%O=H7OnT<WAV",+
+"%SmS",-
+"PNE",-
+"wQ.YGX|UIWPBEKTI",+
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),4)

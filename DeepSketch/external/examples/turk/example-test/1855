@@ -1,0 +1,25 @@
+// example 
+"uuO=L",-
+"IU",+
+"OEAai",+
+"iEis&A",-
+"Ut",-
+"o",+
+"g=`$w",-
+"EEuO",+
+"a$Q",-
+"",+
+"Ud",-
+"i<*o",-
+"i|_%",-
+"II",+
+"aOu",+
+"OEAaE",+
+"aOI",+
+"EEue",+
+"iEin]D",-
+"{",+
+"asF",-
+
+// ground truth 
+or(star(<vow>),<any>)

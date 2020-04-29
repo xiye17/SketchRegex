@@ -1,0 +1,25 @@
+// example 
+"@Vf",-
+"vOMz.",-
+"Y6",+
+"CL5",+
+"2976GX",+
+"NM07",+
+"$Z4",-
+"",-
+");",-
+"$Ud'F",-
+"V1LIU",+
+"V1LI2",+
+"NM0G",+
+"<U",-
+"2976G1",+
+"YX",+
+"=",-
+"CLX",+
+"6",-
+"dq{F",-
+"/cQZ",-
+
+// ground truth 
+repeatatleast(or(<cap>,<num>),2)

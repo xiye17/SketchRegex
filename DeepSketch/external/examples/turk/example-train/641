@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+startwith(and(<m0>,<low>))

@@ -1,0 +1,25 @@
+// example 
+"9u{OD",+
+"i^Aj",+
+"DID",+
+"a}<i~",-
+"hZ",-
+"DIc",+
+"i^AW",+
+"",-
+"a",-
+"gE+",-
+"i|Zo",-
+"aP",+
+"nI#ag{",+
+"i",-
+"ad",+
+"i|Zc",-
+"a}<i^",-
+"hE",-
+"gE}",-
+"9u{Ov",+
+"nI#aXe",+
+
+// ground truth 
+contain(concat(<vow>,<let>))

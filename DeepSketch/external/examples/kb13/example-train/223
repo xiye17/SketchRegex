@@ -1,0 +1,20 @@
+// example 
+"HEnb`b",+
+"c%BHh2}OIuq",+
+"=j",-
+"qxb",-
+"?L*6LuJL",+
+"q",-
+"'Kt1}-['p"q;",+
+"NL_f)-{K3-bI&g",+
+"",-
+"1/k[T(`",+
+"H[y6\w2%t,RuE",+
+"%;G>",-
+"N/Vz/-f9O",+
+"0zc6iocs^DcL"<i",+
+"t]MendzWSg",+
+".u_64",-
+
+// ground truth 
+contain(repeatatleast(<any>,6))

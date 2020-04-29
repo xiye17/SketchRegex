@@ -1,0 +1,17 @@
+// example 
+"s",-
+"9uXqp",-
+"3",-
+"9CZp",-
+"Q!n",-
+"Gd~9O",-
+"",-
+"d{",-
+"J!o",+
+"J!U",+
+"Q!b",-
+"=8",-
+"zP!z",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<vow>)

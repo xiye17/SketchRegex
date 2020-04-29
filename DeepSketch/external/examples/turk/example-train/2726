@@ -1,0 +1,14 @@
+// example 
+"",+
+"g",+
+">3!_",+
+"/E)M!Gh_",+
+"~}{vrc",+
+"`Wu5Q",+
+"'yWS9!O",+
+"Ozk",+
+"A/D`?*_#m",+
+"(<",+
+
+// ground truth 
+contain(not(concat(<let>,<m0>)))

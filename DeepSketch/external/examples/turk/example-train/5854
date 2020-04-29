@@ -1,0 +1,15 @@
+// example 
+"k*0",+
+"L)DQy",+
+"I"K@",+
+"kTr~gZS",+
+")uRaQ,",+
+"l",+
+"D^jB\Q^S",+
+"D2",+
+"r+VC[;S!If",+
+"q{8q^NI~n",+
+"",-
+
+// ground truth 
+repeatatleast(or(startwith(<any>),<m0>),1)

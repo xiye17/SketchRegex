@@ -1,0 +1,25 @@
+// example 
+"baX",-
+"IhiO",+
+"E(pq",-
+"aI",+
+"",-
+"E(pu",-
+"a",-
+"bal",-
+"ae",+
+"QI",-
+"N",-
+"ni|ii",+
+"Ie&#",+
+"YAO",+
+"d^KMiu",+
+"ni|iU",+
+"aW@6{",-
+"aW@6D",-
+"YAa",+
+"d^KMia",+
+"QQ",-
+
+// ground truth 
+contain(repeatatleast(<vow>,2))

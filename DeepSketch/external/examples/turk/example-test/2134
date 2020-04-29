@@ -1,0 +1,15 @@
+// example 
+"#4_fw",+
+"~-_n",+
+"ER",+
+"zA6Fb3;G45",+
+"F1=B\*$D4",+
+")",+
+"/D&2:S",+
+"@V'$B)4r",+
+"FTm4;"L",+
+"",-
+"z/y",+
+
+// ground truth 
+endwith(or(<any>,<let>))

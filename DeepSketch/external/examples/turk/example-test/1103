@@ -1,0 +1,26 @@
+// example 
+"Pap06{it",+
+"m513~6Ypi",+
+"j_HmGQm",+
+":F@`",-
+"t",-
+"^%fK{",-
+"UMF%|5",-
+"@<fy|urd}c",+
+"BB_${g",+
+"^UI<y}{",-
+"j_HmGyn",+
+"]X",-
+"",-
+"UMF%|~",-
+"O+3pl",+
+"0m&",-
+"m513~6Y~i",+
+"^UI<y}^",-
+"BB_$id",+
+"Pap06{~l",+
+"^%fKU",-
+"@<fy|urd>d",+
+
+// ground truth 
+concat(repeatatleast(<any>,4),<low>)

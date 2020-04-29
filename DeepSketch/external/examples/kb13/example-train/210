@@ -1,0 +1,25 @@
+// example 
+"`>OpIyauq",+
+";(\\",-
+"`~Qjsgfs",+
+"`>OpIyaQ*",+
+")@L",-
+"^N",-
+"2",-
+"uFtvXyK",+
+"|rWGvvdpyo",+
+")@:",-
+"uFtvXKg",+
+"|rWGvvPZU/",+
+"",-
+"MJ|Q^",-
+"nIoztl",+
+"MJ|QV",-
+"nIoztY",+
+"`~QjsgfZ",+
+"L",-
+";(\.",-
+"^[",-
+
+// ground truth 
+contain(repeat(<let>,6))

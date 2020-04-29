@@ -1,0 +1,26 @@
+// example 
+"F",-
+"V.mtxxe",+
+"~6I",-
+"~6#",-
+"zQ|Uknlkt",+
+"9EJp.ggmok",+
+"Xqamzz",+
+"",-
+"Ue",-
+"ooF)}",-
+"U|",-
+"1Xlvuplo",+
+"zQ|ukfxcf",+
+"9EJp}zawcy",+
+"Fr|jHsqwmcv",+
+"Fr|jH$zbhde",+
+"ooF)K",-
+"y",-
+"z(M~",-
+"V~lefyl",+
+"z(Mx",-
+"1X2uxfas",+
+
+// ground truth 
+concat(contain(<cap>),repeatatleast(<low>,5))

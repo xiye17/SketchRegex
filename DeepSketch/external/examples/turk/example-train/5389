@@ -1,0 +1,16 @@
+// example 
+"Q",-
+"WoyS",-
+"7V",-
+"tZ{",-
+"^e",+
+"^I",+
+"~cy*2",-
+"7H",-
+"WH?i",-
+"",-
+"tE/",-
+"~Ogsy",-
+
+// ground truth 
+concat(or(<num>,<any>),<vow>)

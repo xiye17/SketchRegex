@@ -1,0 +1,25 @@
+// example 
+"#2-",-
+"!7",+
+"!n/",+
+"FfY",+
+"!6rDK",+
+"!e@6",+
+"!",+
+"aT{q",-
+"q^.",-
+"",-
+"}",-
+"g]",-
+"(y4k",-
+"Xw",+
+"KaB'B",+
+"=",-
+"LAKP",+
+"w\]-;",-
+"K",+
+"(;",-
+")Vf2Q",-
+
+// ground truth 
+startwith(or(repeatatleast(<m0>,1),<cap>))

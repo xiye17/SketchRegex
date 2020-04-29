@@ -1,0 +1,24 @@
+// example 
+"]UQFB6PAeeIA",+
+"cY*q2",-
+"%<lDU,We",+
+"7L^WM7w",-
+"]kqKdfXMa",+
+"{uQg",-
+"UeAAn^noiuu",+
+"EV"",-
+"]kqKdfXME",+
+"$AKAH*Cs",-
+"$AKAH*Cm",-
+",_W^V/%pXa",+
+"UeAAn^noiuO",+
+"",-
+"b",-
+"%<lDU,WE",+
+"Y%Xk@@",-
+",_W^V/%pXu",+
+"]UQFB6PAeeIU",+
+"hH",-
+
+// ground truth 
+concat(repeatatleast(<any>,7),<vow>)

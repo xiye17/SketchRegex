@@ -1,0 +1,25 @@
+// example 
+"O8eee",+
+"oIec",-
+"+",-
+"9U",+
+"",+
+"AoUHU",-
+"9o",+
+"ebZ",-
+"i",+
+"OuI",+
+"OuE",+
+"eek",-
+"u",+
+"auuu",+
+"auui",+
+"LE",-
+"O8eeA",+
+"H",-
+"OR",-
+"AoUuF",-
+"oIeL",-
+
+// ground truth 
+star(or(<vow>,<num>))

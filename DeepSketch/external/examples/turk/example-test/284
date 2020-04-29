@@ -1,0 +1,25 @@
+// example 
+"s",-
+"LxO",+
+"sk",-
+"iu5*",+
+"2",-
+"}\}|",-
+"aU",+
+"Lxi",+
+"A|]t}",-
+"}\}<",-
+"",-
+"ewa73",+
+"'rK~qE",+
+"ae",+
+"{pH",-
+"ia~s",+
+"{pD",-
+"s!",-
+"'rK~qe",+
+"A|]tf",-
+"ewTeu",+
+
+// ground truth 
+contain(concat(<low>,<vow>))

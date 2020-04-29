@@ -1,0 +1,25 @@
+// example 
+"gR",-
+"[Mdc",-
+"E8f",+
+"eu$N",+
+"U=eO",+
+"O=",+
+"",-
+"a$",+
+"uC%",+
+"}",-
+"U0ICaS",+
+",^zU",-
+"axRk&h",+
+"U",-
+"m.{!9",-
+"&kX%x",-
+"F9",-
+"<tk",-
+"l>>",-
+"uRgyo",+
+"OQ2~u",+
+
+// ground truth 
+repeatatleast(startwith(concat(<vow>,<any>)),1)

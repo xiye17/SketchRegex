@@ -1,0 +1,17 @@
+// example 
+"q`2",-
+"Z+;@'",-
+"H!",+
+"",-
+"TEbi",-
+"ZT",-
+"$/A",-
+"T!v"",-
+"x",-
+"uJSEO",-
+"H@",+
+"D",-
+"Z'",-
+
+// ground truth 
+concat(<cap>,or(<m0>,<m1>))

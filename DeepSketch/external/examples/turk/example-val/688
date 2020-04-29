@@ -1,0 +1,15 @@
+// example 
+"]K?d0}9",+
+"rUCMLb1T@@",+
+"j",+
+";-T>_SoL",+
+">TCdyfP|/",+
+"=w7",+
+"i^nb&(",+
+"vH",+
+"%gn$M",+
+"LR9_",+
+"",-
+
+// ground truth 
+or(repeatatleast(<any>,1),or(or(<num>,<m0>),<let>))

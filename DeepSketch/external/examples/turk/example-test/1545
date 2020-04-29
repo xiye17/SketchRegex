@@ -1,0 +1,25 @@
+// example 
+"E4u1o9u1U7U8a2A8U5",+
+"m\VUN",-
+"Fw",-
+"i5U6A3i8U2i5a7A7",+
+"a"f",-
+"I0O1u9A0U7I6U7e7I9a3",+
+"o0A8A9e7u9A3",+
+"u5u1E3I2O8U5a8",+
+"i5U6A3i8U2i5a7i4",+
+"I9o4",-
+"u5u1E3I2O8U5e6",+
+"I0O1u9A0U7I6U7e7I9e7",+
+"",-
+"a<2",-
+"[H!8c",-
+"E4u1o9u1U7U8a2A8E4",+
+"O",-
+"o0A8A9e7u9u1",+
+"[L",-
+"H",-
+"Ii0"",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),6)

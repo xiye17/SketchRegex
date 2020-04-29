@@ -1,0 +1,25 @@
+// example 
+"vQ|M9U"K:L\",+
+"s",-
+"4upU/X>K$K%HW",+
+"5a-#C",-
+"Hu",-
+"'wW_L\CFC<Q*",+
+"'wW_L\CFC<Qc",+
+"YbStMPH&ZW",+
+"%|vTD;M;P*BGC$",+
+"",-
+"%|vTD;M;P*BGCV",+
+"P",-
+"df.",-
+"YbStMPH&Z2",+
+"HR",-
+"CWf/",-
+"dfE",-
+"vQ|M9U"K:L@",+
+"5a-#\",-
+"4upU/X>K$K%H0",+
+"CWfT",-
+
+// ground truth 
+endwith(repeatatleast(concat(<cap>,<any>),5))

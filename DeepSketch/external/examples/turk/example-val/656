@@ -1,0 +1,25 @@
+// example 
+"]l2wI-i#T",-
+"^=W1jIM1",-
+"z&)",-
+"!s",+
+"IHPI!y",+
+"!",+
+""gRLY@x",-
+"",-
+"EglB%]",-
+"j!4Fr",+
+"f",-
+"-X",-
+"j\!+{",+
+"IHPI`!",+
+"b8!v",+
+"5!r",+
+"Bn$``",-
+"4u|x",-
+"\!",+
+"!g.",+
+"b8I!",+
+
+// ground truth 
+contain(repeatatleast(<m0>,1))

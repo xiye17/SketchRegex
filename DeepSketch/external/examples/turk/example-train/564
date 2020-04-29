@@ -1,0 +1,25 @@
+// example 
+"9v^",+
+"LjI",-
+"DTzuT",+
+"UB",+
+"BU",-
+"X+POa",-
+"X+POI",-
+"EonA",-
+"Be",-
+"Lj!",-
+"U%",+
+"Aqug",+
+"9vG",+
+"",+
+"EonI",-
+"L",+
+"A",-
+"DTzup",+
+"I",-
+"}",+
+"AquG",+
+
+// ground truth 
+not(endwith(or(<vow>,<m0>)))

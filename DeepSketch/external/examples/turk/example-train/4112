@@ -1,0 +1,26 @@
+// example 
+"sP~|h",+
+"iym|{d",+
+"zH~1L",-
+"q|b~",-
+"!~|j",+
+"iym|4x",+
+"sP~#m",+
+"b",+
+"~bb",+
+"HxW",-
+"~x",+
+"",-
+"!~Cr",+
+"q|bV",-
+";",-
+"dz",+
+"HF",-
+"~7r",+
+"{",-
+"Hx|",-
+"H~",-
+"zH~1|",-
+
+// ground truth 
+endwith(repeatatleast(<low>,1))

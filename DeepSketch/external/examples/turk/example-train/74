@@ -1,0 +1,17 @@
+// example 
+"Trch",-
+"aGG",+
+"~<Rw",-
+"h$",-
+"",-
+"}",-
+"|o]iU",-
+"q3/",-
+"aGz",+
+".w",-
+"C",-
+"HGMF}",-
+"O7g",-
+
+// ground truth 
+concat(<low>,concat(<cap>,<let>))

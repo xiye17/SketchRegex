@@ -1,0 +1,24 @@
+// example 
+"]T",-
+"H5",+
+"'q?Bs",+
+"1BXIdPkG9I",-
+"HT/ZHV5UuRMCPX!KSN",-
+"Hs",+
+"m",+
+":L:J%K~XiMpV9L.UIUhG",-
+"JLPQZW(K_BRC0L",-
+"5TtMsCTS%S7S(L}I",-
+"",+
+"Vvn",+
+"nZ`FHZ-Y",-
+"0TDXsEqDCYpN",-
+"'2-5y",+
+"VAi",+
+"?IjY$I",-
+"aCjb",+
+"EC,F",-
+"aCj*",+
+
+// ground truth 
+not(repeatatleast(concat(<any>,<cap>),1))

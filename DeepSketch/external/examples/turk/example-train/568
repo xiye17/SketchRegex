@@ -1,0 +1,26 @@
+// example 
+"p",+
+"eIi!",-
+"U!(X",+
+"l",+
+"OI!",-
+"eIa!",-
+"oioaO!",-
+"A!",-
+"!",-
+"Oo!",-
+"Oi",+
+"U!6[i",+
+"Ol",+
+"oioao!",-
+"UDp:",+
+"",+
+"EIo",+
+"i!",-
+"ooAO!",-
+"Ctk",+
+"s|OpW",+
+"ooAe!",-
+
+// ground truth 
+not(concat(star(<vow>),<m0>))

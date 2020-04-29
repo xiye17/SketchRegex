@@ -1,0 +1,25 @@
+// example 
+"qS7",-
+"OWZ5'S",+
+"_y&p%",-
+"2~",-
+"LQob",-
+"OWZ5_L",+
+""",-
+"",-
+"LQo#",-
+"`Qv:#[A",+
+"gSZA",+
+">X",+
+"'F%8S",+
+"2:",-
+"7:B",+
+"`Qv:#HV",+
+"gS'K",+
+"'F%^J",+
+"qS~",-
+"7tY",+
+"_y&p~",-
+
+// ground truth 
+concat(repeatatleast(<any>,1),<cap>)

@@ -1,0 +1,16 @@
+// example 
+"$",-
+"Ath",-
+"#PAJU",-
+"`kDl'",-
+"Up",+
+"G{Un",-
+"z}+",-
+"cA",-
+"Gl^]",-
+"M",-
+"L;",-
+"",-
+
+// ground truth 
+concat(and(<cap>,<any>),<low>)

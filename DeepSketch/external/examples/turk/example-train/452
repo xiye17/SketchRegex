@@ -1,0 +1,15 @@
+// example 
+"G`/K"!",+
+"~Y{.~0(",+
+"!8K",+
+"0",+
+"$@H/xh`'",+
+"[T",+
+"jd)VBex[#",+
+"G"~vj`'|5d",+
+"",-
+"feE9",+
+"3ss+G",+
+
+// ground truth 
+contain(or(or(<any>,<m0>),<m1>))

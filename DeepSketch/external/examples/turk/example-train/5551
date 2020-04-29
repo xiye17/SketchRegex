@@ -1,0 +1,25 @@
+// example 
+"9wchbfkgl",+
+"8uydmbuipalp",+
+"5ioyfdd",+
+"6nfcfdlyfq",+
+"6ntctzszhclsdug",+
+"#",-
+"",-
+"9i~",-
+"7E4]",-
+"4hcacfstkktqk",+
+"4htnlrzb",+
+"P",-
+"D[Om?",-
+"8cscpqknmnaqry",+
+"3:",-
+"3|",-
+"7~<P",-
+"5tbnuqxixdl",+
+"9txqml",+
+"'6X",-
+"%XoJ+",-
+
+// ground truth 
+concat(<num>,repeatatleast(<low>,5))

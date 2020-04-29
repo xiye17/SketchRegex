@@ -1,0 +1,17 @@
+// example 
+"R3",-
+"Ba?",-
+"6Q#_",-
+"RX",-
+"TiiG~",-
+"",-
+"_V\K",-
+"P",-
+"f",-
+"!@",+
+"c@",+
+"^)ZEA",-
+"B@7",-
+
+// ground truth 
+concat(or(or(<let>,<low>),<m0>),<m1>)

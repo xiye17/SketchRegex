@@ -1,0 +1,25 @@
+// example 
+"yu",+
+"r",-
+"@'",-
+";>7",+
+"D:d",-
+";>A",+
+"Ie?%",+
+"ya",+
+"",-
+"Tt;tR",-
+"BU8Zx",+
+"WBLk",-
+"B%!9"",+
+"WBL>",-
+"@B",-
+"u",+
+"I",+
+"A%h5",+
+">",-
+"D:H",-
+"Tt;tn",-
+
+// ground truth 
+contain(or(or(<m0>,<vow>),<num>))

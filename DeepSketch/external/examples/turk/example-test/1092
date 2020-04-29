@@ -1,0 +1,17 @@
+// example 
+"!bqZ",-
+"Hs",-
+"o|^@I",-
+";jg4t",-
+";2Z",-
+"+/H",-
+"",-
+"&",-
+"!gu'",-
+"j",-
+"QA",+
+"HC",-
+"QO",+
+
+// ground truth 
+concat(or(or(<num>,<cap>),<m0>),<vow>)

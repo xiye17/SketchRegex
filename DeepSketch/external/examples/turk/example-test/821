@@ -1,0 +1,17 @@
+// example 
+"IT4",-
+"u",-
+"iS",-
+"~r|i",-
+"oKQ",+
+"LS@^a",-
+"",-
+"lVHV",-
+"a",-
+"SG)?)",-
+"Icz",-
+"oKh",+
+"ie",-
+
+// ground truth 
+concat(<vow>,concat(<cap>,<let>))

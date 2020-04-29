@@ -1,0 +1,15 @@
+// example 
+"",+
+"|",-
+"Gij\O$P",+
+"#U%7;>{W#",+
+":M",+
+"5qB",+
+"GRfUc",+
+"s?v[8w|q",+
+"g;'>Wf,r5+",+
+"RyV(",+
+"nUYKC@",+
+
+// ground truth 
+not(or(or(<vow>,<any>),<num>))

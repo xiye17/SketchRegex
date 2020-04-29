@@ -1,0 +1,25 @@
+// example 
+"EO",+
+"OeB!A",+
+"E",+
+"OeB!U",+
+"E!",+
+"aOEjd",-
+"os",-
+"S%!o",+
+"b`!9",-
+"c",-
+"N!E",+
+"",+
+"b`!s",-
+"S%!A",+
+"q;%",-
+"N!o",+
+"aOEMB",-
+"O",+
+"R",-
+"oh",-
+"q!N",-
+
+// ground truth 
+star(or(<vow>,endwith(<m0>)))

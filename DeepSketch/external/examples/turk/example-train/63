@@ -1,0 +1,25 @@
+// example 
+"Lz%NpE_Y",+
+"}Yj\",-
+"2c",-
+"Y",-
+"B.e",-
+"Fatkj",+
+"4b7?3",-
+"C87I/eX(ShRp8",+
+"E~=S",+
+"JHzn*+1xr[a",+
+"@/y",-
+"",-
+"yg",-
+"'",-
+"M]ebqE2",+
+"K"xEf{",+
+"T]WRpF1f:s",+
+"E"f+E\:g<",+
+"W+>p~Fm#JZUw",+
+"'0-j",-
+"v|)S8",-
+
+// ground truth 
+concat(<cap>,repeatatleast(<any>,3))

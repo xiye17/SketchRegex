@@ -1,0 +1,15 @@
+// example 
+"mr=Tqb",+
+"VWV}Xr[S,",+
+"3#nAf{^B",+
+"]%'d",+
+"]B;2{!QyRR",+
+"T{7#1m0",+
+"5K",+
+"xts",+
+"QL9)(",+
+"",-
+"$",+
+
+// ground truth 
+concat(<any>,not(and(<cap>,<low>)))

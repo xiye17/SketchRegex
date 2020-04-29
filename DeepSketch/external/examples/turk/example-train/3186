@@ -1,0 +1,14 @@
+// example 
+"",+
+"q+~",+
+"q",+
+"8\/h<n",+
+"xN,h",+
+"!m|c|CZ",+
+"(7q~(",+
+"q5*?@y^v",+
+">t-YshAi/",+
+""0",+
+
+// ground truth 
+not(and(and(<cap>,<m0>),<let>))

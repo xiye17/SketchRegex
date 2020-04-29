@@ -1,0 +1,26 @@
+// example 
+"MAC,S",+
+"o",-
+"R]",+
+"eie",-
+"noAOo",-
+"kaJ",+
+"ja",-
+"saab",+
+"]",+
+"",+
+"sc?C",+
+"eiE",-
+"jo",-
+"heAU",-
+"jF",+
+"noAOI",-
+"tAouIO",-
+"mOACK",+
+"tAouIE",-
+"kaj",+
+"|",+
+"heAA",-
+
+// ground truth 
+not(concat(<low>,star(<vow>)))

@@ -1,0 +1,25 @@
+// example 
+"h\o!",+
+"|}~",-
+"Je!",+
+"zy!\k!",+
+"v!",+
+"h\F!",+
+"VRa_",-
+"l",-
+"H!",+
+"JG!",+
+"#",-
+"`7",-
+"iW`[<",-
+"",-
+"iW`[T",-
+"|}^",-
+"^6RL!",+
+"VRa~",-
+"`T",-
+"^6Ry!",+
+"zy!\P!",+
+
+// ground truth 
+repeatatleast(endwith(concat(<let>,<m0>)),1)

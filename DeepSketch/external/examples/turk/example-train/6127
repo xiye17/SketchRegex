@@ -1,0 +1,25 @@
+// example 
+"uIcu",+
+"XoV",+
+"<H",-
+"CE",+
+"k",-
+"D^b",-
+"n%pFa",+
+"U})e",+
+"d",-
+"n%pFe",+
+"BLjFf",-
+"",-
+"<=",-
+"CI",+
+"rfjl",-
+"e",+
+"XBi",+
+"BLjFs",-
+"D^@",-
+"I",+
+"rfjH",-
+
+// ground truth 
+contain(or(<vow>,<num>))

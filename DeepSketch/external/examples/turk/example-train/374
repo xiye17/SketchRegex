@@ -1,0 +1,14 @@
+// example 
+"",+
+"p",+
+"M;CDG=",+
+"<SP,:wcY",+
+"znjK*)_",+
+"W4t*v",+
+"8`kI~teGh",+
+"!c",+
+"5hb",+
+"70f>",+
+
+// ground truth 
+not(and(contain(<num>),<vow>))

@@ -1,0 +1,17 @@
+// example 
+"k)ad",+
+"jOzUI-'",+
+"h+",-
+"",-
+"hKs$3",+
+"Ym:",+
+"O@/ojald@",+
+"gd~\GB'J~C",+
+"R",-
+"$_}Pe~kQ",+
+"8,m9XTeg/a>",+
+"R.{t$j`yCCPf",+
+"[r}\%m",+
+
+// ground truth 
+repeatatleast(or(<let>,<any>),3)

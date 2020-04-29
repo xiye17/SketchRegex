@@ -1,0 +1,17 @@
+// example 
+"eM",+
+"bS",-
+"'|(L",-
+"c>"",-
+"O,JVp",-
+"O_t'^",-
+"",-
+"P",-
+"__2",-
+"h@nJ",-
+"H",-
+"eg",+
+"py",-
+
+// ground truth 
+concat(or(or(<m0>,<vow>),<m1>),<let>)

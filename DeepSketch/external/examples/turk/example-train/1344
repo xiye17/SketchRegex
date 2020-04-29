@@ -1,0 +1,17 @@
+// example 
+"a",+
+"kv",+
+"IrBq",+
+"Lu\",+
+"",+
+"OX",+
+"U",-
+"UCxNp",+
+"K",+
+"IFH",+
+"A",-
+"If$)t",+
+"A&^l",+
+
+// ground truth 
+or(not(<vow>),contain(<low>))

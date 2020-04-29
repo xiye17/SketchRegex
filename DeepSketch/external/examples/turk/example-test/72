@@ -1,0 +1,17 @@
+// example 
+"dl",+
+"cc8(V",-
+"n+",-
+"!",-
+".^1a",-
+"Or",+
+"",-
+"}o~",-
+":",-
+"!zq2",-
+"c{2pF",-
+"ta.",-
+"n}",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<let>),<low>)

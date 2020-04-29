@@ -1,0 +1,25 @@
+// example 
+"L&",+
+"^+)",-
+"1",+
+"_G]@",-
+"5KGm",+
+"k(G>{",+
+"y%",+
+"7{i4B",+
+"<gD",-
+"X3p",+
+"",-
+")",-
+"~dkh",-
+""(`\!",-
+"6Lp",+
+"=",-
+"}M",-
+"$w",-
+"^>zOW",-
+"B",+
+"kDJY",+
+
+// ground truth 
+startwith(repeatatleast(or(<let>,<num>),1))

@@ -1,0 +1,26 @@
+// example 
+"S!~!!o!y!g!c",+
+"!n!!~!I!c!p!j",+
+"[!l",-
+"!n!!~!}!m!y!n",+
+"!o7C",-
+"!F2?i",-
+"v!yV!r!u!t",+
+""!f!i!x!g",+
+"!",-
+"!a!m!l!t",+
+"!i%!&!h!m!b",+
+"!i%!z!m!!!e",+
+"#",-
+"",-
+"!!g!n!u!l",+
+"S!~2!i!u!s!r",+
+"!l",-
+"!@",-
+"[!!",-
+"vQ!n!k!v!l",+
+"!F2?!",-
+"!o7!",-
+
+// ground truth 
+repeatatleast(endwith(concat(<m0>,<low>)),4)

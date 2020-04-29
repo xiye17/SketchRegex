@@ -1,0 +1,25 @@
+// example 
+"F",-
+"As",-
+"oueUUoEd%",+
+"UIAOEIUDFQ",+
+"Aw",-
+"o){w",-
+"AuaEOiI",+
+"d6+",-
+"olo|",-
+"",-
+"UOaaoEuK",+
+"UIAOEIo)4Q",+
+"IOuaEEOyAXv",+
+"IOuaEEuHzJf",+
+"ah^",-
+"UOaaoEoa",+
+"AuaEOiA",+
+"UASZ/",-
+"K",-
+"U(?)c",-
+"oueUUoi_S",+
+
+// ground truth 
+startwith(repeatatleast(<vow>,7))

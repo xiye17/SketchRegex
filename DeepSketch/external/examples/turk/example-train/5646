@@ -1,0 +1,15 @@
+// example 
+"qSv",+
+"Qm4u",+
+""Z5%|o",+
+"MRjMEcGa&",+
+"C|KY+}b-",+
+"5p",+
+"`",+
+"UtcK#",+
+"Nml2ifR",+
+"|v%}easrE\",+
+"",-
+
+// ground truth 
+contain(startwith(<any>))

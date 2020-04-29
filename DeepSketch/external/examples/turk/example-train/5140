@@ -1,0 +1,26 @@
+// example 
+"|j7",-
+"R|~mtH",+
+"{2rS",+
+"{|",-
+"{y",-
+"}tP",+
+"R|~3rN",+
+"p",-
+"{rhB",+
+"|b{~~",-
+"}~j|",-
+"}q[q{mZ",+
+"|b{~u",-
+"fvB",+
+"{?mmK",+
+"",-
+"}",-
+"|jo",-
+"}q[q_lY",+
+"{?0mA",+
+"sC",+
+"}~ja",-
+
+// ground truth 
+endwith(concat(<low>,<cap>))

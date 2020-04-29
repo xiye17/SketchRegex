@@ -1,0 +1,17 @@
+// example 
+"Cv",-
+"IT8",+
+"k",-
+"E9&M%",-
+"e",-
+"",-
+"rT",-
+"`Ltr",-
+"6)e3;",-
+"Ov&",-
+"RgcE",-
+"It4",+
+"OvN",-
+
+// ground truth 
+concat(concat(<vow>,<let>),<num>)

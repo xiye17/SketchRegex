@@ -1,0 +1,25 @@
+// example 
+"u{tBq",+
+"u{tBD",+
+"S]4j;]xI",+
+"E()FMh",+
+"9L",-
+"{STV",-
+"E()FMZ",+
+"fX}D^",-
+"Dv^[3Lv",+
+""N!O",-
+"^",-
+"pXQn",+
+"",-
+")",-
+"Dv^[3LN",+
+"[\",-
+"rq[",-
+"^TTe3",-
+"rq2",-
+"pXQI",+
+"S]4j;]xv",+
+
+// ground truth 
+repeatatleast(startwith(<let>),4)

@@ -1,0 +1,18 @@
+// examples
+"AAAAAa",+
+"BBBBBa",+
+"BBBBBBe",+
+"BBBBBoui",+
+"ABCDEFGA",+
+"ABCDEe",+
+"ABCDEFGa",+
+"",-
+" ",-
+"A",-
+"a",-
+"1",-
+"AA",-
+"AAA",-
+
+// ground truth 
+concat(repeatatleast(<cap>,5),contain(<vow>))

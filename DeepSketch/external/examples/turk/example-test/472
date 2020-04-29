@@ -1,0 +1,17 @@
+// example 
+"T!|j",-
+"&I",-
+"}cO",-
+"k!}'a",-
+"_",-
+"a!u",+
+"",-
+"^>",-
+"C!f",+
+"2K0",-
+"T!hg",-
+"H",-
+"kgp2n",-
+
+// ground truth 
+concat(<let>,concat(<m0>,<low>))

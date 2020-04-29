@@ -1,0 +1,24 @@
+// example 
+"!~x[",+
+"BDm!XybJ",-
+"!!#",+
+"!`NS8]Hi@",+
+"i,Q",-
+"+Fi(U.B",-
+"5",-
+"LB-i9",-
+"!P.,2H0fC_X",+
+"!",-
+"",-
+"!:>/z",+
+"!k",+
+"5awj",-
+"|a",-
+"O2%*[K",-
+"!>DZdO",+
+"!5k9Z6sy",+
+"!bEA{RZ",+
+"!gr:]skx]0",+
+
+// ground truth 
+startwith(concat(<m0>,<any>))

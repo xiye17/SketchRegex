@@ -1,0 +1,25 @@
+// example 
+"C91Ly5",+
+"33T2eVnW",+
+"X?>g<",-
+"lq27A8r",+
+"lcodv",+
+"XeI5<",-
+"28h7",+
+"28hq",+
+"[d",-
+"",-
+"C91Lyn",+
+"j",-
+"}~^",-
+"33T2eVnb",+
+"9",-
+"lq27A87",+
+"=OeV",-
+"{S",-
+"[xq-",-
+"lcod4",+
+";)g",-
+
+// ground truth 
+repeatatleast(or(or(or(<cap>,<num>),<low>),<let>),4)

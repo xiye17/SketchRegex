@@ -1,0 +1,25 @@
+// example 
+"lwg&ta,VO",-
+"!J",+
+"+H!.*`",+
+"<N!",+
+"+!3cgF",+
+"S}J4",-
+"GBDC$62$",-
+"!",+
+"Y!",+
+"a!b]p",+
+"<!u",+
+"Q!"]",+
+"",-
+"`",-
+"_.K>_R",-
+"8'8,"ha",-
+"Ah",-
+"FV?",-
+"aF!:g",+
+"Qs!P",+
+"i2N(u",-
+
+// ground truth 
+contain(concat(star(<cap>),<m0>))

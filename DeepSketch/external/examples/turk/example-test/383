@@ -1,0 +1,15 @@
+// example 
+"H`",+
+"aW^f&6U>a",+
+"q)xe<{D\#m",+
+"=|=y",+
+"]kZZY",+
+"}0]",+
+"Bafg="/",+
+"+",+
+"VtF&{G",+
+"d8@dq&KM",+
+"",-
+
+// ground truth 
+or(contain(<let>),endwith(<any>))

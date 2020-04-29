@@ -1,0 +1,16 @@
+// example 
+"R.=",-
+"za",-
+"<",-
+"u",-
+"BR"ti",-
+"R!Ww",-
+"B!J?!",-
+"q?+",-
+"Rce:",-
+"H!",+
+"U,",-
+"",-
+
+// ground truth 
+concat(<cap>,<m0>)

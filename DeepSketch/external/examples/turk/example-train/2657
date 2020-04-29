@@ -1,0 +1,25 @@
+// example 
+"1U",+
+"8OQK",+
+"Gr3",-
+"8SLGPW",+
+"8XRDFZBM",+
+"4~",-
+"",-
+"4MX",+
+"(AS;'",-
+"8",-
+"%D\",-
+"4YNIOIUIY",+
+"9AYDEXHXJZ",+
+"Q12v=",-
+"0ARRH",+
+"7MCAJGI",+
+"7r]~",-
+"C",-
+"41",-
+"9ZADGZFDNTY",+
+"71;s",-
+
+// ground truth 
+concat(<num>,repeatatleast(<cap>,1))

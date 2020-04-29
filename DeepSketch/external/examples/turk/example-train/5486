@@ -1,0 +1,15 @@
+// example 
+""w",+
+"g",-
+"Q~",-
+"p]`a*",-
+"p~6(C",-
+"QF",-
+"vfx+",-
+"R\r",-
+"vA2u",-
+"",-
+"Rcm",-
+
+// ground truth 
+concat(or(<any>,<vow>),<low>)

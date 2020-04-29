@@ -1,0 +1,17 @@
+// example 
+"gKX=",-
+"gihU",-
+"aF",+
+"^",-
+"",-
+"pCE",-
+"<W#aD",-
+"~<",-
+"aj",-
+"pcF",-
+"QB",+
+"uz9#.",-
+"D",-
+
+// ground truth 
+concat(and(<let>,<any>),<cap>)

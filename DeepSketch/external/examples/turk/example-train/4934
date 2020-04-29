@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+concat(and(<vow>,<m0>),<num>)

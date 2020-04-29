@@ -1,0 +1,26 @@
+// example 
+"r",-
+"{|c~miwoi:",+
+"3pntyt",+
+"3K}t",-
+"whkfliAX",+
+"{}bHpiofd",+
+"q,}_|",-
+"{|c~Vzudwn",+
+"",-
+"ds\",-
+"}",-
+"{uzhbu",+
+"Sv",-
+"{}bozyrLt",+
+"qgayi",+
+"3K}}",-
+"wh{ndvmg",+
+"S|",-
+"n|flfma",+
+"q,}_o",-
+"n$czgkg",+
+"ds|",-
+
+// ground truth 
+contain(repeatatleast(<low>,5))

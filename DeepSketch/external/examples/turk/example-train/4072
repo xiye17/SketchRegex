@@ -1,0 +1,25 @@
+// example 
+"SIEAB",+
+"&I",-
+"SIEAs",+
+"5",-
+"{3",-
+"nAzG<",-
+"#`}",-
+"\4.",-
+"nAz]K",-
+"YcB",+
+"Yh~2",-
+"",+
+"CV",+
+"OYyo",+
+"|",-
+"Ycf",+
+"Cn",+
+"M",+
+"i",+
+"OYyF",+
+"Y]a`",-
+
+// ground truth 
+star(or(and(<m0>,<num>),<let>))

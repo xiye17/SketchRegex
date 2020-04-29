@@ -1,0 +1,26 @@
+// example 
+"Cx]hf0P!P",-
+"8*G",-
+"'b)h6Wr!n!!",+
+"<\w{7.b!",+
+".a8s}c",-
+"4})=O",-
+"'b)h6Wr!n|!",+
+"w\/jZkl!!cb!",+
+"C+o4e/F!!",+
+"_H4fqveUp6P!!",+
+"",-
+"<.{u~}"",-
+"_H4fqveUp6P*!",+
+"1V5vKGpQ",-
+"d6Q)kcSv!!",+
+"sE",-
+"31pl",-
+"d6Q)kcSv%!",+
+"Cx]hf0P-5",-
+"C+o4e/Fj!",+
+"w\/jZkl!!c!!",+
+"B",-
+
+// ground truth 
+concat(repeatatleast(<any>,7),<m0>)

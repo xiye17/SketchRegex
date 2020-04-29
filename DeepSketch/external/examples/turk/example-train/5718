@@ -1,0 +1,15 @@
+// example 
+"fu*{\",+
+"AZFYI:U(",+
+"9+DS#/F",+
+"J",+
+"w}j",+
+"jUs9",+
+"k\",+
+"".=A#_",+
+"Z?k\IzfbF",+
+"gTG;9$0gw-",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<cap>),<let>))

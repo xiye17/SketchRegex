@@ -1,0 +1,25 @@
+// example 
+"oK",+
+"<zl!",-
+"]`$",-
+"uK0|T",+
+"q",-
+"i8?Wg",+
+"cY",-
+"eE",+
+"",-
+"&",-
+"BR`vwi",+
+"ISWB",+
+"gF0",-
+"Fy=",+
+"aZ~",+
+"mR",-
+"b!2tY",-
+"uE4C",+
+"ou%5#K",+
+"^Y/o",-
+"yd*Y}",-
+
+// ground truth 
+concat(or(<vow>,<cap>),contain(<any>))

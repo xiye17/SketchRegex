@@ -1,0 +1,25 @@
+// example 
+"plmrbex!",+
+"N/Xj",-
+"jxkgrhpwy!",+
+"vthf!",+
+"aW",-
+"rpnosfamwvkcl!",+
+"vqwhh!",+
+"oceobwrzztg!",+
+"",-
+"}6G?",-
+"mgvlvk!",+
+"xxoontwiri!",+
+"p{NJg",-
+"h",-
+"{_>L!",-
+"euqpvtmycbzf!",+
+"K",-
+"hvqiqopb!",+
+"mO*",-
+"mit",-
+"as",-
+
+// ground truth 
+concat(repeatatleast(<low>,4),<m0>)

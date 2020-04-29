@@ -1,0 +1,25 @@
+// example 
+"UEEEueaA",+
+"UC",-
+"iaOAEe",+
+"UEEEueao",+
+"UE",-
+"oEUoeAaio",+
+"e!m",-
+"(01"",-
+"e",-
+"",-
+"uoeu!!!",+
+"AUifZ",-
+"oEUoeAaiO",+
+"eFd",-
+"g{>3",-
+"iaOAEI",+
+"euaIueAOai",+
+"K",-
+"uoeu!!o",+
+"euaIueAOa!",+
+"AUiAF",-
+
+// ground truth 
+repeatatleast(or(<vow>,<m0>),6)

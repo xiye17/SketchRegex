@@ -1,0 +1,24 @@
+// example 
+"0",-
+"Gcz",-
+"sNO5",-
+"O0R5",+
+"[",-
+"Mk&GT",-
+"S1F4U5P1M8",+
+"GR",-
+"O7L0H8E1P8C1",+
+"W6",+
+"M4wf+",-
+"Q2G9C1W5",+
+"Y0U2P0",+
+"",+
+""oOj",-
+"L5U1K6V6V9E1P2V4",+
+"G$",-
+"S6L6S0W3Y9T8C6Z0T6",+
+"O9C6I0A6B2O8H7",+
+"G"o",-
+
+// ground truth 
+star(concat(<cap>,<num>))

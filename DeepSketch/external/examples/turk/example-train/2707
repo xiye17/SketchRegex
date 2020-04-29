@@ -1,0 +1,26 @@
+// example 
+"UICe",+
+"BK_4!",-
+"Bp*@_dAV",+
+"Gkw",-
+"FI/5",-
+"N(",-
+"H[)R[Y",+
+"B}-Ex9T",+
+"B}-ExnF",+
+"UIbT",+
+"",-
+"`",-
+"<;",-
+"_sV",-
+"BK_4~",-
+"V)MiU",+
+"FI/m",-
+"V)MP=",+
+"Bp*@_)LT",+
+"GGR",+
+"L",-
+"H[)bXI",+
+
+// ground truth 
+repeatatleast(startwith(<cap>),3)

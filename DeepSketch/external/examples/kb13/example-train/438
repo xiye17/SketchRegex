@@ -1,0 +1,25 @@
+// example 
+"r",-
+"|3",-
+"l*i",-
+"~^sLC",+
+"_#{\XCt",+
+"5",-
+"{W|qmZ",+
+"_#{\XCR",+
+"",-
+"l*}",-
+"pgK",+
+"pgv",+
+"{W|qmu",+
+"|}",-
+"r:DJ",-
+"[ihH",+
+"r:Dn",-
+"[ihv",+
+"x;~iT",-
+"x;~ib",-
+"~^sLt",+
+
+// ground truth 
+contain(repeat(<let>,3))

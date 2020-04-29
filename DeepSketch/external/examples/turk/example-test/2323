@@ -1,0 +1,15 @@
+// example 
+"",+
+"3",+
+"!Ty]",+
+"!Z",+
+"!",-
+"@ZF.X",+
+"!Kv",+
+"!?6Y~",+
+"z&",+
+"mpv<",+
+"w}X",+
+
+// ground truth 
+not(and(<any>,endwith(<m0>)))

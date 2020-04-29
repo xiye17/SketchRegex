@@ -1,0 +1,16 @@
+// example 
+"}",-
+"{Z",-
+"h}(",-
+"bI",+
+"~]l=)",-
+"In",-
+"|SH\",-
+"|yr",-
+"I",-
+"f:+c",-
+"",-
+"kv{aa",-
+
+// ground truth 
+concat(<low>,or(<any>,<cap>))

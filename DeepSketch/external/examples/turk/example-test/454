@@ -1,0 +1,17 @@
+// example 
+"E;kz",-
+"t",-
+"E~]%",-
+"a3e:W",-
+"",-
+"o+",-
+"oi",-
+"nC2",-
+"IQ",+
+"!Z",+
+"A",-
+"IV)",-
+"aI=RT",-
+
+// ground truth 
+concat(or(<m0>,<vow>),<cap>)

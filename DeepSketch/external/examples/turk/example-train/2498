@@ -1,0 +1,14 @@
+// example 
+"",+
+"h'",+
+"a9ua6{26",+
+"|wnwYx&&,",+
+"+;7f{V",+
+"DxAW",+
+"{2L",+
+"?HzAp*X",+
+"u",+
+"w6IJQ",+
+
+// ground truth 
+contain(or(<low>,not(<cap>)))

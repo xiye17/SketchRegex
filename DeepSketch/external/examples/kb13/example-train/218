@@ -1,0 +1,25 @@
+// example 
+"IOu",+
+"co\IpuJ",+
+"YSif",-
+"co\IU(]",+
+"IOa",+
+"o",-
+"kuuu",+
+"t",-
+"maDAo",+
+"uaYNF",-
+"",-
+"bq",-
+"kuuU",+
+"BQA",-
+"uaYN&",-
+"maDAI",+
+"bO",-
+"uo~pCE",+
+"BQ6",-
+"uo~pCA",+
+"YSiT",-
+
+// ground truth 
+repeatatleast(contain(<vow>),3)

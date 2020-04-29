@@ -1,0 +1,15 @@
+// example 
+"",+
+"box]23",+
+"ru>",+
+"CxSe`tR!",+
+"E\xF",+
+"w!b{];X[;",+
+"9bOREPZ:9a",+
+"k",-
+"7x",+
+"<#"to",+
+"1gr@qpv",+
+
+// ground truth 
+not(or(or(<num>,<m0>),<any>))

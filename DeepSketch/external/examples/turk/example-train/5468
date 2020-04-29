@@ -1,0 +1,26 @@
+// example 
+"u`QMCP",+
+"B.T#RQAB",+
+"D_3GOVY[g",+
+"w$fYz",-
+"D_3G\HISC",+
+"B.T\ZBZQ",+
+"uCBTY8",+
+"=VWMEz'",+
+"RNGEs",+
+"]VJWM",+
+"#",-
+"",-
+"=L",-
+"Xjd",-
+"j",-
+"Xj<",-
+"w$fYB",-
+"=}",-
+"=V;LEMP",+
+"VcNA",-
+"VcNw",-
+"KRSK",+
+
+// ground truth 
+contain(repeatatleast(<cap>,4))

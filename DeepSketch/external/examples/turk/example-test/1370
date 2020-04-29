@@ -1,0 +1,17 @@
+// example 
+"q",+
+"a^",+
+"t9Sz=",+
+"Rx",+
+"EV.>(",+
+"]ewR",+
+"Q1%",+
+"",+
+"i",-
+"N",+
+"J5y=",+
+"I",-
+"es"",+
+
+// ground truth 
+or(not(<vow>),repeatatleast(<num>,5))

@@ -1,0 +1,25 @@
+// example 
+"TYA",-
+"NCLYPRLHIV",-
+"V8",+
+"SsC",+
+"{ED,"",+
+"ZOARXY",-
+"b",+
+"JUGUYGTHO",-
+"",+
+"S:9",+
+"UWFLC",-
+"NK",-
+"S",-
+"jphf",+
+"Jz;`-",+
+"EOAIHFWE",-
+"BFCA",-
+"FGSWUHQ",-
+"=",+
+"Vg",+
+"IR8<",+
+
+// ground truth 
+not(repeatatleast(<cap>,1))

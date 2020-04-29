@@ -1,0 +1,25 @@
+// example 
+"AOXEh",+
+"[",-
+"AOXEU",+
+"SADBTUJ",+
+"Du",-
+"iQ",-
+"XAq]b",-
+"X{J)?",-
+"GOLQTq",+
+"NNRY",+
+"CA"",-
+"RJw",+
+"",-
+"SADBTUv",+
+"P",-
+"NNRk",+
+"C\6",-
+"RJT",+
+"GOLQTX",+
+"Io~}",-
+"IA7y",-
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<let>)

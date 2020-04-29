@@ -1,0 +1,17 @@
+// example 
+"xM",+
+"l",-
+"WXk",-
+".\u8H",-
+"!",-
+"D&",-
+"Dl",-
+"",-
+""1W",-
+"m*u)",-
+"|y+Gs",-
+"me`a",-
+"SO",+
+
+// ground truth 
+concat(or(or(<let>,<m0>),<num>),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"6hD",+
+"m$[=q",+
+"6U",-
+"6O",-
+"7d",+
+"$",+
+"",+
+"6aN",+
+",<&b+",+
+"7k",+
+"0eF-",+
+"$wlr",+
+"@",+
+
+// ground truth 
+not(concat(<num>,<vow>))

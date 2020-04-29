@@ -1,0 +1,25 @@
+// example 
+"G",-
+"0g7r4u99",+
+"0s0i",+
+"47bn'",-
+"66xoa",+
+"",-
+"37n6ia",+
+"||",-
+"-,u",-
+"47b*w",-
+"3hfb0wc",+
+"}cNr",-
+"66xo1",+
+"0g7r4u9b",+
+"SXe",-
+"0s07",+
+"3hfb0w8",+
+"37n6i8",+
+"(s~C",-
+""E",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<num>,<low>),4)

@@ -1,0 +1,25 @@
+// example 
+"}S5qn",-
+"}aK",-
+"p",-
+"{s`:",-
+"T`yH",-
+"o0",+
+"",-
+"u7,",+
+"Q5",-
+"f1*#.l$0T",+
+"$",-
+"l9DS",+
+"u9G%W",+
+"p3_j}P}7.*",+
+"y6>5$7P5Bq|",+
+"y~{",-
+"t=",-
+"q7<%1z",+
+"q1<9E#(",+
+"m6YW/Fl8",+
+"X$Vuw",-
+
+// ground truth 
+startwith(repeatatleast(concat(<low>,<num>),1))

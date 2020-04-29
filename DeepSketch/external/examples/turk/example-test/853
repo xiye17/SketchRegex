@@ -1,0 +1,24 @@
+// example 
+"4IIHB4",-
+"q~'",-
+"a=ZH@]^",-
+"!s9UU?jIs",+
+"!x.w",+
+"BT%^/hPR-",-
+"!9(EP4",+
+"ss.OcX*J",-
+"!",+
+"",-
+"a",-
+"!(",+
+"RT",-
+"X]$<",-
+"!1;tg@Gn[/",+
+"!O65C",+
+"!i8",+
+"2/wQz",-
+"!$WwV'r",+
+"!z)O-[yp",+
+
+// ground truth 
+and(repeatatleast(<any>,1),startwith(<m0>))

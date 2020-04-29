@@ -1,0 +1,24 @@
+// example 
+"r",-
+"|8]s",-
+"m!m!w!f!g!l!c!c!",+
+"n!r!k!m!y!d!",+
+"AK",-
+"|I",-
+"",-
+"Dq0",-
+"j!i!l!o!l!p!h!a!t!g!",+
+"v!v!t!i!t!r!e!",+
+"|DN",-
+"^@c^.",-
+"c!a!v!o!e!",+
+"i!a!t!b!",+
+"S",-
+"j!a!n!y!j!z!a!r!l!",+
+"k!z!",+
+"j!r!j!",+
+"|InZ-",-
+"`-fx",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),2)

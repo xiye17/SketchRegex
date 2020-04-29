@@ -1,0 +1,26 @@
+// example 
+"[",-
+"B}",+
+"p6p"!",-
+"hc.cL@",+
+"hc.>Ug",+
+"drv",-
+"ww",-
+"s6[hH5m",+
+"wu&O",-
+"",-
+"w1",-
+"p6p"e",-
+"dr-",-
+"I~C*",+
+"jBjd?",+
+"^0Zo",+
+"jpoNL",+
+"wu&$",-
+"'BC",+
+"J",-
+"gAG",+
+"s6Bl0BN",+
+
+// ground truth 
+contain(concat(repeatatleast(<cap>,1),<any>))

@@ -1,0 +1,25 @@
+// example 
+"/",-
+"w;0",-
+"`3;,",-
+"WWIeyc",+
+"pfHiVlvT>",+
+"SjVnSaWs",+
+"fLOsF",+
+"",-
+"}",-
+"w~s",-
+"WWIey}",+
+"HxEaPCN",+
+"SjVnSaW3",+
+"<+",-
+"}3",-
+"pfHiVlvTX",+
+"|$vhd",-
+"fLOs^",+
+"LX\K",-
+"HxEaPC6",+
+":,wv#",-
+
+// ground truth 
+concat(repeatatleast(<let>,4),<any>)

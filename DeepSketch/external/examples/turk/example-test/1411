@@ -1,0 +1,15 @@
+// example 
+"91B",+
+"G_DDH",+
+"1aDp",+
+"+aksds{=n5",+
+"{r",+
+"ZNCW)VKD8",+
+"0;GEZa",+
+",WC8hxH",+
+"}",+
+"n:2V8v7m",+
+"",-
+
+// ground truth 
+endwith(repeatatleast(contain(<any>),1))

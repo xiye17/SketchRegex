@@ -1,0 +1,25 @@
+// example 
+"\mC",-
+"B@",-
+"aV",+
+"NJPBcShT",+
+"mIoA",+
+"__",-
+"p8$qE",-
+""",-
+"_",-
+"}FVA",-
+"mIGA",+
+"",-
+".WY",-
+"oToPeMkXlY",+
+"NJPBcSDS",+
+"HR",+
+"oToPeMkXZJ",+
+"tHAUjU",+
+"-<=Ew",-
+"tHAUAG",+
+"jX\D",-
+
+// ground truth 
+repeatatleast(concat(<let>,<cap>),1)

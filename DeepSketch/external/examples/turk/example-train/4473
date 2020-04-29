@@ -1,0 +1,24 @@
+// example 
+"P4Q",-
+"N^6&",-
+"PH",-
+"5W-iSHkw"KKq1I",+
+"okic^v6GKaBv5cvC",+
+"5",-
+"^YHS5SGw]enn",+
+"",-
+"NA(^",-
+"_XI`,",-
+"_EQd@R)L7Y",+
+"P}",-
+"Fl-Nox%K5obB}f[B)C",+
+"5W-iSHkw"KKq1d",+
+"_EQd@R)L7u",+
+"Fl-Nox%K5obB}f[B)i",+
+"PKa",-
+"^YHS5SGw]enJ",+
+"okic^v6GKaBv5cvk",+
+"_^s]l",-
+
+// ground truth 
+repeatatleast(concat(<any>,<let>),5)

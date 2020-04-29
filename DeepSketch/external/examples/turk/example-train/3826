@@ -1,0 +1,25 @@
+// example 
+"s,OO",+
+"fo",+
+"DKuea",+
+"DKueE",+
+"oiEl",-
+"idi",+
+"fa",+
+"k",-
+"_",-
+"",+
+"KAs",-
+"s,OE",+
+"ida",+
+"oiEF",-
+"KA.",-
+"Bubcq",-
+"u",+
+"Em",-
+"Eh",-
+"A",+
+"BubcD",-
+
+// ground truth 
+star(endwith(<vow>))

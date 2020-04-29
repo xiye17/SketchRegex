@@ -1,0 +1,14 @@
+// example 
+"",+
+"4}I{dQv`;",+
+":.A{SS$",+
+".kr",+
+"(n\c",+
+"U/5vjD",+
+"`",+
+">P82P/tr",+
+"xuL7U",+
+"e.",+
+
+// ground truth 
+not(and(repeatatleast(<let>,5),<m0>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"#Hpx",+
+"cDr",+
+"j",+
+"By",+
+"oi)5[Q/",+
+"g>e:IB+Y",+
+"/-k0s"Z}/",+
+"6AP&Dd",+
+"!kgLV",+
+
+// ground truth 
+not(and(and(<low>,<cap>),<vow>))

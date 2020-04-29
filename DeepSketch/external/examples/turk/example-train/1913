@@ -1,0 +1,17 @@
+// example 
+"F0",+
+"y6",+
+"p",-
+"T$fx",-
+""Fge<",-
+"_",-
+"{5X",-
+",{'",-
+"",-
+"nJkDC",-
+"C,",-
+"CA",-
+"T7E6",-
+
+// ground truth 
+concat(or(<vow>,<let>),<num>)

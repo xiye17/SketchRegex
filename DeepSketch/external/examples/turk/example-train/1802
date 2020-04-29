@@ -1,0 +1,16 @@
+// example 
+"m`\Yf",-
+"?{",-
+"/",-
+"~gm",-
+"bd",-
+"(YVY",-
+"K?",+
+"QXB",-
+"y4BT",-
+",TA?v",-
+"H",-
+"",-
+
+// ground truth 
+concat(<cap>,or(<any>,<m0>))

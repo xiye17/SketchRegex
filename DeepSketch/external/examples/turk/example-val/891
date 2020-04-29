@@ -1,0 +1,17 @@
+// example 
+"]",-
+"8n2",-
+"HI",+
+""r(^$",-
+"[j",-
+"8#j",-
+"!*cJ}",-
+"CM=Y",-
+"",-
+"~DYT",-
+".!",-
+"7P",+
+"y",-
+
+// ground truth 
+concat(or(or(<m0>,<num>),<let>),<cap>)

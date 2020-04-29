@@ -1,0 +1,25 @@
+// example 
+"IlTyW",+
+"{7",-
+"zfP^",-
+"CwSdRqME",+
+"LwKF",+
+"OFQM|",-
+"ckWnboL",+
+"^",-
+"~BWF",-
+"",-
+"}",-
+"$n!",-
+"QqdaWm",+
+""a",-
+"OFQM^",-
+"CwSdRqMt",+
+"QqdaWY",+
+"ckWnbob",+
+"IlTyx",+
+"`6s",-
+"LwKf",+
+
+// ground truth 
+repeatatleast(or(<let>,<low>),4)

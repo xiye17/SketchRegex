@@ -1,0 +1,25 @@
+// example 
+"ien[b",-
+"tezii",+
+"!^-_Z,H",+
+"~L",-
+"!pU",+
+"!fLYl",+
+"kudnh=P",+
+"ienq~",-
+"l",-
+"qn{",-
+"!",+
+"",-
+"qUv+",-
+"!-\X",+
+"qnm",-
+"KT",-
+"q|ce",-
+"!apyc:",+
+"?",-
+"!b",+
+"lkyze`",+
+
+// ground truth 
+startwith(or(repeatatleast(<low>,5),<m0>))

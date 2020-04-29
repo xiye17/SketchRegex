@@ -1,0 +1,16 @@
+// example 
+"X`5ll",-
+"c@O,=",-
+"no",-
+"%I$_",-
+"#s",-
+"m",-
+"lQxX",-
+"&Yc",-
+"K",-
+"X%",+
+"",-
+"~Xu",-
+
+// ground truth 
+concat(<cap>,or(<vow>,<any>))

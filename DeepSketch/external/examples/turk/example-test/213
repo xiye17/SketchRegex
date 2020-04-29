@@ -1,0 +1,14 @@
+// example 
+"",+
+"$[",+
+"9",+
+"{F5",+
+"OXi#'",+
+"-YHq.~",+
+"'o]k,`_!z",+
+",\ZO~bz",+
+"h_t&F"s2",+
+"$S#3",+
+
+// ground truth 
+not(and(and(<low>,<m0>),<cap>))

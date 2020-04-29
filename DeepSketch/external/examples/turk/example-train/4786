@@ -1,0 +1,26 @@
+// example 
+"!J",+
+"!XlZ",+
+"lA;xmh",+
+"[",-
+"^L",-
+"!Fm",+
+"!",+
+"vEu",+
+"",-
+"c",-
+"la=}r_",+
+"hi#n~",+
+"~&!",-
+"eo",+
+"s{8.o",-
+"ml",-
+"s!l6D",-
+"r[<?",-
+"nuK5",+
+"fVZ",-
+"hUGF+",+
+"BJ#]",-
+
+// ground truth 
+startwith(or(concat(<low>,<vow>),<m0>))

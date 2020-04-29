@@ -1,0 +1,17 @@
+// example 
+"\",-
+"{'rq:",-
+"S`r)M",-
+"]UPk",-
+"{CY",-
+"G:",-
+"oJ",+
+"o9",+
+"",-
+"G^",-
+"j",-
+"~6]z",-
+""1A",-
+
+// ground truth 
+concat(<let>,or(or(<num>,<low>),<cap>))

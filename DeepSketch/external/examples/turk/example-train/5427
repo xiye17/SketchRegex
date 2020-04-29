@@ -1,0 +1,25 @@
+// example 
+"!dD",-
+"hMDq/",-
+"!O~Xr",+
+"!kluMn",+
+"!klF`u",+
+"!Eq>Z",+
+"!",-
+"!HDD",-
+"!C",-
+"!d?",-
+""",-
+"",-
+"!`u",+
+"!i",+
+"!atG",+
+"a_U@",-
+"`I",-
+"!3dCV",-
+"!`a",+
+"!Cci",+
+"!e",+
+
+// ground truth 
+concat(<m0>,contain(<vow>))

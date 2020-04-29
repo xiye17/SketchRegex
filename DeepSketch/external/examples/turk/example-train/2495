@@ -1,0 +1,25 @@
+// example 
+"IKNKVWA=",+
+"A2i",-
+"BDCPMJTMZ/",+
+"kkO",-
+"?A",-
+"UA",-
+"DDTNYFPEVJp",+
+"NOOEWO.",+
+"IKNKVWAp",+
+"Rsfi",-
+"GL^7|",-
+"NOOEWOk",+
+"",-
+"i0~+",-
+"BDCPMJTMZS",+
+";",-
+"DDTNYFPEVJ:",+
+"USEDGMAKR",+
+"USEDGMAK%",+
+"Gu.,k",-
+"E",-
+
+// ground truth 
+concat(repeatatleast(<cap>,6),<any>)

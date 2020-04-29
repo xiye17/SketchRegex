@@ -1,0 +1,17 @@
+// example 
+"s",-
+"!d.9,",-
+"A[",-
+"!w",-
+"!w]k",-
+"!",-
+"!DQ9:",-
+"",-
+"!j.",-
+"!i",+
+"!U",+
+"!Ac^",-
+"!ok",-
+
+// ground truth 
+and(concat(<m0>,<vow>),not(<cap>))

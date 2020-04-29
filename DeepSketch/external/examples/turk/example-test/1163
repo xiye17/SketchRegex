@@ -1,0 +1,14 @@
+// example 
+"",+
+"U=C",+
+"c|ejp&gx",+
+"b#iO'|1oc",+
+"I",+
+"u<r[:K=",+
+"Wx",+
+"Zm]Qj}",+
+"@Esg",+
+"V9%l!",+
+
+// ground truth 
+not(and(and(<let>,<m0>),<any>))

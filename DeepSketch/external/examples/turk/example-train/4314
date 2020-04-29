@@ -1,0 +1,26 @@
+// example 
+"(~}",-
+"~}qr{wmn",+
+"#{}}uxz",+
+"%mbl",+
+"w6",-
+"dbzi",+
+"_",-
+"",-
+"`a{|\",-
+"qko",+
+"}",-
+"+k|!",-
+"~}qrRwgf",+
+"+k|d",-
+"[|lpi",+
+"`{5mho",+
+"w{",-
+"Cemds",+
+"#{}Kvrs",+
+"(~n",-
+"`{~tkp",+
+"`a{|}",-
+
+// ground truth 
+concat(not(<let>),repeatatleast(<low>,3))

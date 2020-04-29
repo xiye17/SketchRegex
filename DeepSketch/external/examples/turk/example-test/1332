@@ -1,0 +1,17 @@
+// example 
+"m!'",-
+"^1",-
+"L3+D",-
+"y!",+
+"",-
+"Di",-
+"m*K",-
+"~Sy5L",-
+"B!",+
+"L!c#",-
+"x",-
+"C",-
+"P!f2)",-
+
+// ground truth 
+concat(or(<cap>,<low>),<m0>)

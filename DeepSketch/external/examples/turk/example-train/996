@@ -1,0 +1,25 @@
+// example 
+"=ii",+
+"lUoIe",+
+"IrAib",-
+"Qc",-
+"V",-
+"Aii<",-
+"lUoIU",+
+"Qk",-
+"",-
+"AiiC",-
+"MVH",-
+"e",+
+"IrAi[",-
+"euIi",+
+"O",+
+"aa",+
+"=iO",+
+"euIE",+
+"ai",+
+"{",-
+"MVB",-
+
+// ground truth 
+endwith(or(<vow>,<m0>))

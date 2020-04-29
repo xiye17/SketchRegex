@@ -1,0 +1,15 @@
+// example 
+"4Xwb",+
+"x@?n0",+
+"|Zc\B~r",+
+"=A'b<6&d",+
+"\l",+
+"27N",+
+"q(~}1;BX$",+
+"x",+
+""G\/!5B/)v",+
+"/58;_N",+
+"",-
+
+// ground truth 
+repeatatleast(or(or(<m0>,<any>),<cap>),1)

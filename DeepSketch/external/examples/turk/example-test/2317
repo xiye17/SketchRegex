@@ -1,0 +1,16 @@
+// example 
+"Y]G",-
+"S",+
+"3{p*>",-
+"?VW'",-
+"*L",-
+"m"A",-
+"k",-
+"YLW?",-
+"",-
+"iS}N;",-
+"'",-
+"pw",-
+
+// ground truth 
+and(and(<let>,<cap>),<any>)

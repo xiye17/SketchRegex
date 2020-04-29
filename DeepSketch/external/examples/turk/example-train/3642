@@ -1,0 +1,25 @@
+// example 
+"4=qTv",+
+"`!M",-
+"%mzAG",-
+"1dz8",+
+"4uk2Xf\8",+
+"dV",-
+"452",+
+"5Us)*X){h\",+
+"l$Up,",-
+"",-
+"&",-
+"'d!",-
+"4sC%-p`<z",+
+"6)W)LeBst;u",+
+"ReG'",-
+"*H",-
+"0Cpo'N",+
+"R",-
+"2la%=z2",+
+".TBf",-
+"3D",+
+
+// ground truth 
+concat(startwith(<num>),or(<any>,<m0>))

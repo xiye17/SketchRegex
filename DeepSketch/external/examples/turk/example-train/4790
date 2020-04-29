@@ -1,0 +1,25 @@
+// example 
+"hvr",+
+"IX",+
+"hvH",+
+"G",+
+"U]",-
+"4!Lu",-
+"`p#GL",-
+"vKzU",+
+"",-
+"`",-
+"Ib",+
+"nBCVg",+
+"vKzi",+
+"U|",-
+"h",+
+"9",-
+"~=X",-
+"j&M_l",-
+"^IHb",-
+"nBCVT",+
+"q&j",-
+
+// ground truth 
+repeatatleast(or(<let>,<vow>),1)

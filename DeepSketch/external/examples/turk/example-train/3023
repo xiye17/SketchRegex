@@ -1,0 +1,25 @@
+// example 
+"uMUs",+
+"]\a=+",-
+"E!$ho",+
+"i>",-
+"bUIS",-
+"E!$}f",+
+"uM{d",+
+"uf}",-
+"X;<(",-
+"i|",-
+"E!NV~h",+
+"",-
+"ag",+
+"i",-
+"U2e",+
+"H#K",-
+"E!NVwe",+
+"U",-
+"U|n",+
+"qbr%c",-
+"eg",+
+
+// ground truth 
+concat(startwith(<vow>),<low>)

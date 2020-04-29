@@ -1,0 +1,17 @@
+// example 
+"qTLk",-
+"gUc",-
+"V!",+
+"<iB\]",-
+"->",-
+"",-
+"*a|",-
+"$",-
+"A(",-
+"<+E)",-
+"S",-
+"V3",+
+"]Gno3",-
+
+// ground truth 
+concat(and(<let>,<cap>),or(<m0>,<num>))

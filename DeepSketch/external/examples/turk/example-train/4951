@@ -1,0 +1,26 @@
+// example 
+"R1g'",-
+"K@r",-
+"=FERXUAM",+
+"K@,",-
+"mVRYLHPD",+
+"SQPUDSG",+
+"(",-
+"uLHVMGMA`",+
+"u/DIRWEDR",+
+"",-
+"0%pBLESBVZ",+
+"ARE53",-
+"[`DPILCIZoh<",+
+"F}",-
+"0%HKVYAWNr",+
+"~/LIEORWEEI",+
+"F?",-
+"[`DPrZQZEBMZ",+
+"ARE5d",-
+"~/L^DHUKXZV",+
+"{",-
+"R1gk",-
+
+// ground truth 
+contain(repeatatleast(<cap>,7))

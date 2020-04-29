@@ -1,0 +1,25 @@
+// example 
+"{fUYA",-
+"eEu",+
+"kAat",-
+"[oeU",+
+"u",-
+"DouGne",+
+"mfc",-
+"eEE",+
+"Ehdoi",+
+"mfC",-
+"e",-
+"",-
+"[oei",+
+"OGBoJAY",+
+"{fUYd",-
+"Ho",-
+"DouEY)",+
+"HU",-
+"kAag",-
+"OGBoEMT",+
+"EhdoE",+
+
+// ground truth 
+repeatatleast(contain(<vow>),3)

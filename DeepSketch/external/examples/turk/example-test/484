@@ -1,0 +1,22 @@
+// example 
+"1B3U1F0X6G7I2Q7G0C6V",+
+"7t/b",-
+")wC",-
+"7<xN",-
+"5",-
+""",-
+"#-Kxj",-
+"",-
+"4Y3I6N0T6J6V",+
+"8Z4P2N4Z",+
+"2B",-
+"9,_Pr",-
+"3E6Q2F2F2S1K2W",+
+"0A8F9B1F3Z",+
+"9L7P9E0V8O0E4R5M4R",+
+"9D5F0P8V0N5W1C4E",+
+"2'",-
+"2R$",-
+
+// ground truth 
+repeatatleast(concat(<num>,<cap>),4)

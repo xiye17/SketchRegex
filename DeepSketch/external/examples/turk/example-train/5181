@@ -1,0 +1,25 @@
+// example 
+"p",+
+"^0$",-
+"e}",-
+"J^d_e",-
+",/B:",-
+"jDv",+
+"~C",-
+"",+
+"$",-
+"~,M\",-
+".QbGQ",-
+"dTQw",+
+"sw",+
+"auMiN",+
+"|>*",-
+"auMiv",+
+"sV",+
+"jDV",+
+"{",-
+"dTQA",+
+"A",+
+
+// ground truth 
+star(or(<low>,<cap>))

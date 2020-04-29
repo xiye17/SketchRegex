@@ -1,0 +1,25 @@
+// example 
+"./",-
+"wrf",-
+"EUEI",+
+"EUEo",+
+"ieCY=",-
+"OfjC",-
+"oiaauU",+
+"bo",-
+"!",-
+"oiaauI",+
+"esK",-
+"",-
+"EuA",+
+"U!oo!",+
+"U!ooi",+
+"EEAOoe!",+
+"Eui",+
+"O^)f",-
+"M",-
+"EEAOoea",+
+"ieoc1",-
+
+// ground truth 
+repeatatleast(or(<m0>,<vow>),3)

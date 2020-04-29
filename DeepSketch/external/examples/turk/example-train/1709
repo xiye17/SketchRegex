@@ -1,0 +1,17 @@
+// example 
+"o+(V",-
+"i?",-
+"u]z",-
+"aY",+
+"o",-
+"hi[X",-
+"e~x1?",-
+"",-
+"oU",+
+"ib",-
+"u:!",-
+"i",-
+"eSdfG",-
+
+// ground truth 
+concat(and(<low>,<vow>),<cap>)

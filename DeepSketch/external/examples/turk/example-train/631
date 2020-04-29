@@ -1,0 +1,16 @@
+// example 
+"",+
+"s",-
+"~K",+
+"ibA|",+
+"h[%~Y",+
+"7((",+
+"{RpY",+
+"HD",+
+"B",+
+"|'QUE",+
+"}",+
+"~28",+
+
+// ground truth 
+not(and(<low>,<any>))

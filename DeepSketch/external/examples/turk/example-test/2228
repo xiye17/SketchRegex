@@ -1,0 +1,16 @@
+// example 
+"MQXk[?Qg7",+
+"g|",+
+"4-nwI",+
+"1\(J3~s",+
+"u/5q&~\pC3",+
+"b'o;=0RCN[Y",+
+"IaVg",+
+",",-
+"2h5?!\",+
+"hhJ",+
+"aY^ZPSLn",+
+"",-
+
+// ground truth 
+and(repeatatleast(<any>,2),not(<m0>))

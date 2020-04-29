@@ -1,0 +1,25 @@
+// example 
+"\Shd",-
+"Gi(mK",+
+"J-_yw",-
+"nzE",+
+"VEgS",+
+"",-
+"SDn",-
+"De",+
+"k|",-
+"kP",-
+"\ShW",-
+"e",+
+"nzo",+
+"j",-
+"J-_yC",-
+"O",+
+"VuPu",+
+"SDJ",-
+"w",-
+"DE",+
+"GOs%p",+
+
+// ground truth 
+contain(or(or(<m0>,<vow>),<m1>))

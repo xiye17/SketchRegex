@@ -1,0 +1,25 @@
+// example 
+"s!0wjCD#<",+
+"r!\U%",+
+"r:z;",-
+"x!0lBKUYV$",+
+"e7",-
+"x!cl",+
+"Zbwf",-
+"XQ",-
+"",-
+"wY?",-
+"k!kMhY?",+
+"}",-
+"w!gOYrZ8",+
+"{B?CL",-
+"n!9Usf)Ou:z",+
+"7G`",-
+"R",-
+"s!",+
+"q!82Z&",+
+"]ae=n",-
+"u!5",+
+
+// ground truth 
+startwith(concat(<low>,<m0>))

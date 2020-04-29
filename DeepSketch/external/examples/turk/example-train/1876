@@ -1,0 +1,5 @@
+// example 
+null
+
+// ground truth 
+concat(and(<num>,<m0>),<low>)

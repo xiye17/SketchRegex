@@ -1,0 +1,25 @@
+// example 
+"uiuai",-
+"uiuaU",-
+"oL",+
+"eOUQ",+
+"AiVks",+
+"eIuO",-
+"eIuu",-
+"IaI",-
+"aFX",+
+"_",+
+"",+
+"eo",-
+"eE",-
+"h",+
+"CT",+
+"Iai",-
+"aQK",+
+"A",-
+"gC:j"",+
+"eOUF",+
+"E",-
+
+// ground truth 
+not(or(repeatatleast(<vow>,1),<cap>))

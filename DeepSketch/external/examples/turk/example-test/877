@@ -1,0 +1,14 @@
+// example 
+"",+
+"6jx|1",+
+":",+
+"=`qhqAm]",+
+"iyke"+6",+
+"}1j",+
+"Zk}R:[",+
+"&w",+
+"[]T}",+
+"a(Jl8t:oz",+
+
+// ground truth 
+contain(not(or(<cap>,<num>)))

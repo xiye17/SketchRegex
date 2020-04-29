@@ -1,0 +1,16 @@
+// example 
+"%",-
+"KM'A",-
+"MhXM"",-
+"u(",-
+"p",-
+",C}bI",-
+"Rn2",-
+"=ZiO",-
+"I#",+
+"0,K",-
+"",-
+"5e",-
+
+// ground truth 
+concat(<cap>,or(or(<any>,<m0>),<let>))

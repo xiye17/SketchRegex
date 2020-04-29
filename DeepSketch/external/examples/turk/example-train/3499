@@ -1,0 +1,17 @@
+// example 
+"aF",-
+"a,",-
+"I*aI",-
+"",-
+"I8",+
+"O!}3X",-
+"N",-
+"U",-
+"^Hj8",-
+"U!u",-
+"O/Z"(",-
+"UOd",-
+"I!",+
+
+// ground truth 
+concat(<vow>,or(<m0>,<num>))

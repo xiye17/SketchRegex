@@ -1,0 +1,16 @@
+// example 
+"",+
+"X|'oA",+
+"N",-
+"3C@'|",+
+"w$)f",+
+"UPtD",+
+"%d",+
+"^vK",+
+"DD",+
+"z",+
+"$",+
+"U/C",+
+
+// ground truth 
+not(and(<cap>,<let>))

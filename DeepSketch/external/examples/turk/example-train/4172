@@ -1,0 +1,25 @@
+// example 
+"xU",+
+"leeuoO",+
+"qouU",+
+"quOOe",+
+"<8",-
+"{:o",-
+"leeuoI",+
+"-",-
+"'/VB'",-
+"",-
+"c",-
+"xI",+
+"gs",-
+"{h\y",-
+"oH:0",-
+"tOI",+
+"qouA",+
+"mEOOS",-
+"tOi",+
+"N+Y",-
+"quOOE",+
+
+// ground truth 
+concat(<low>,repeatatleast(<vow>,1))

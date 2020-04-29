@@ -1,0 +1,26 @@
+// example 
+"(U>fB0",+
+"|`G'",-
+"(G0",+
+"F&2RK2(",+
+"RpA7J",+
+"=\",-
+"G7",+
+"=&",-
+"wJ9",+
+"UDA1",+
+"}hJIs",-
+"",-
+"I@e",-
+"F&2RKV7",+
+"U",-
+"|`G]",-
+"}hJIT",-
+"Rp-T9",+
+"(U>!W5",+
+"?",-
+"I@R",-
+"UD3+",+
+
+// ground truth 
+contain(concat(<cap>,<num>))

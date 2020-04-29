@@ -1,0 +1,17 @@
+// example 
+"[",-
+">|",-
+"bcaoh",-
+"{'",-
+"&CT",-
+"",-
+":!V",-
+"Ne",+
+"#/^W",-
+"0uv`C",-
+">",-
+"HuHD",-
+"9>",+
+
+// ground truth 
+concat(or(<num>,<cap>),<any>)

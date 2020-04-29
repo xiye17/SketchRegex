@@ -1,0 +1,15 @@
+// example 
+"(!G&^",-
+"<!8",-
+"(!:jb",-
+"<!g",-
+"z$d{",-
+"5y",-
+"5!",-
+"z!g!",-
+"n!B",+
+"",-
+"a",-
+
+// ground truth 
+concat(concat(<any>,<m0>),<cap>)

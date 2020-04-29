@@ -1,0 +1,25 @@
+// example 
+"#!",-
+"!#!@",+
+"@c#!",-
+"@c#6",-
+"@!#",+
+"`ny#!@",+
+"",-
+"@!"-!",-
+"">!",-
+""#@!#",+
+"!@!#",+
+"@""#!|@",+
+"@""#!|#",+
+"#q",-
+"@!"-f",-
+""#=!@",+
+"@",-
+"K",-
+"#!@",+
+"`ny@!#",+
+"">@",-
+
+// ground truth 
+or(concat(contain(<m1>),concat(startwith(<m0>),startwith(<m2>))),concat(contain(<m2>),concat(startwith(<m0>),startwith(<m1>))))

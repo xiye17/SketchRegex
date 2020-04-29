@@ -1,0 +1,17 @@
+// example 
+"T!ki",-
+"n",-
+"B}",-
+"FV",+
+"F!",+
+"TJna",-
+"LHEr\",-
+"",-
+"&",-
+"oDa",-
+"?~",-
+"nAvm=",-
+">+`",-
+
+// ground truth 
+concat(<cap>,or(or(<let>,<vow>),<m0>))

@@ -1,0 +1,17 @@
+// example 
+"Nj",-
+"P*b",-
+"",-
+"f:Sv",-
+"IW!",+
+";",-
+"B1C",-
+"EX",-
+"OL!HF",-
+"3h%d",-
+"O*Z0?",-
+"J",-
+"AV!",+
+
+// ground truth 
+concat(concat(<vow>,<cap>),<m0>)

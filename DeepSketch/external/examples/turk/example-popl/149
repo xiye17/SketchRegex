@@ -1,0 +1,18 @@
+// examples
+"2D",+
+"ae",+
+"4",+
+"fe4G",+
+"123",+
+"!!f^",+
+"ds",+
+"s",-
+"G",-
+"a",-
+"!",-
+"@#",-
+"",-
+"e",-
+
+// ground truth 
+or(concat(<any>,contain(<let>)),contain(<num>))

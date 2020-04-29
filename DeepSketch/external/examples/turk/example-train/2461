@@ -1,0 +1,17 @@
+// example 
+"@uU",+
+"s",+
+"&7r",+
+"(9wV0",+
+"i&GU",+
+"a",-
+"",+
+"fN",+
+"l$%x0",+
+"8",-
+"v",+
+"o{|D",+
+"i/",+
+
+// ground truth 
+not(or(or(<cap>,<vow>),<num>))

@@ -1,0 +1,25 @@
+// example 
+"kwAM@",-
+"AiaU",+
+"Y",-
+"oe",+
+"IUEoI",+
+"auZ",-
+"FO+r",-
+"",-
+"AOu",+
+"IN",-
+"SWT@",-
+"e",+
+"IUEoe",+
+"AOE",+
+"j",-
+"IP",-
+"O",+
+"oO",+
+"auH",-
+"Aiai",+
+"cPKp0",-
+
+// ground truth 
+and(star(<vow>),contain(<let>))

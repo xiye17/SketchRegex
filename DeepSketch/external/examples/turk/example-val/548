@@ -1,0 +1,17 @@
+// example 
+"!",+
+"d",-
+"-",-
+"j/",-
+"",-
+"U#SOx",-
+"un1",-
+"fl(*'",-
+"et,(",-
+"q=!x",-
+"BL",-
+"A",+
+"gfi",-
+
+// ground truth 
+and(not(<num>),or(<vow>,<m0>))

@@ -1,0 +1,25 @@
+// example 
+"0",-
+"!j!fH!!P!k",+
+"il!!Km!T",+
+"!WnpvCRUI!I",+
+"ca",-
+"!j!fH!!P!O",+
+"!",-
+"}IP",-
+"ES!wKzB",+
+"",-
+"!!iZeYYP!",+
+"|N",-
+"&5J",-
+"opc\h",-
+"il!!Km!z",+
+"!WnpvCRUI!j",+
+"h]8/",-
+"o|k<S",-
+"!!iZeYYPk",+
+"ES!wKz!",+
+"`]jd",-
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),7)

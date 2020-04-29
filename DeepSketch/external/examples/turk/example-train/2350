@@ -1,0 +1,25 @@
+// example 
+"l[C{",-
+"Te~eU",+
+"w!O",+
+"?!RO",+
+"!",-
+"!A",+
+"#",-
+"[Sk",-
+"!UijEa",+
+"",-
+"Te~eI",+
+"!UijEI",+
+"?!Ro",+
+"!U",+
+"]1",-
+"]A",-
+"l[Cb",-
+"w!E",+
+"[SN",-
+"!cRCm",-
+"!cRCr",-
+
+// ground truth 
+concat(contain(or(<m0>,<cap>)),<vow>)

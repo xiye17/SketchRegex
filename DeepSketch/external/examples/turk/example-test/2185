@@ -1,0 +1,26 @@
+// example 
+"n{IBW",+
+"wHVF]",-
+"hQoY",+
+"hQ#F",+
+"w/0pnR",+
+"n{IrZ",+
+"mZX",+
+"!",-
+"#MT",-
+"r'R\SsC",+
+"r'R\SOH",+
+"",-
+"{zR5",-
+"+t",-
+"}",-
+"nH",+
+"}u",-
+"wHVF>",-
+"c[/",-
+"m2F",+
+":d~r",-
+"w/0pKC",+
+
+// ground truth 
+concat(startwith(<low>),<cap>)

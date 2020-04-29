@@ -1,0 +1,17 @@
+// example 
+"XuQU_H|3+^d",+
+"d(",-
+"8`"}So>yA",+
+"(K;9|;]R;)",+
+"$&'3",+
+"",-
+"D8UWv_azLyo:",+
+"y3M",+
+"FI<e\51G",+
+":lH)KJ>",+
+"%tBliT",+
+"K",-
+"QZ"o?",+
+
+// ground truth 
+repeatatleast(or(<vow>,<any>),3)

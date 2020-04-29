@@ -1,0 +1,20 @@
+// example 
+"5[zp",-
+"tw~F2",-
+"SQ,L$JCDBW",+
+"K5",-
+"JIk",-
+"",-
+"DX8W4MQGVC$K)DsXuW",+
+"tU%`O",-
+"58PS",-
+"HAkQiY*HcW:T4Q",+
+"7RON%Z3JQHtBSPyZNYjH",+
+"J1p",-
+".ZGP?WgKoQpVZNTD",+
+"{",-
+"KZ",-
+"|C)S(ShM:E?R",+
+
+// ground truth 
+repeatatleast(concat(<any>,<cap>),5)

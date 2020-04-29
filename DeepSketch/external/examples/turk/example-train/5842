@@ -1,0 +1,26 @@
+// example 
+"E!,~~",-
+"@>:",-
+"C~",-
+"@>~",-
+"tM",+
+"}{aB",+
+"}YqQ",+
+"n}O",+
+"Hv*;",-
+"}X3}~dR",+
+"",-
+"n.C",+
+"g",-
+"}",-
+"|}rsaT",+
+"E!,~_",-
+"|}rs-E",+
+"Hv*l",-
+"}X3}eDA",+
+"g>h<N",+
+"g>hIM",+
+"C.",-
+
+// ground truth 
+concat(contain(<low>),<cap>)

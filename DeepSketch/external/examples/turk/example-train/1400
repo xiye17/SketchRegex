@@ -1,0 +1,17 @@
+// example 
+"h2",+
+"MLt&",+
+"]"t,",+
+"i!EOe",+
+"1",+
+"2|n_W",+
+"I<l",+
+"]",+
+"",+
+"g",-
+"P",-
+"dFu",+
+"*7",+
+
+// ground truth 
+or(not(<let>),startwith(<m0>))

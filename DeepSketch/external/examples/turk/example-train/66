@@ -1,0 +1,26 @@
+// example 
+"k7n",-
+"UM%5ZB!",+
+"F2",-
+"k7R",-
+"ae#VH!",+
+"Q:&U!",+
+"",-
+"Q:dQ!",+
+";v&|",-
+"Ne-R;",-
+"^O!",+
+"Ne-RW",-
+"G!",+
+";v&1",-
+"y|Q!",+
+"UM%52N!",+
+"-L!",+
+"{",-
+"ae#2T!",+
+"B",-
+"FF",-
+"yJ!x",+
+
+// ground truth 
+contain(concat(<cap>,<m0>))

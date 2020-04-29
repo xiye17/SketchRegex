@@ -1,0 +1,15 @@
+// example 
+"T}*",+
+"5517",+
+"o}V<4w",+
+"[Y5z2)+",+
+"eyE+vTp.:",+
+"[>!B3(A?Aw",+
+"T|",+
+"~",+
+"Y'R-a",+
+"I.1Nk-7#",+
+"",-
+
+// ground truth 
+or(startwith(<any>),<num>)

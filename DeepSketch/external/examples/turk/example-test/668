@@ -1,0 +1,23 @@
+// example 
+"pAluruyUzAaifisUgI",+
+"oO~m!",-
+"uUdoqovEuIhAsu",+
+"k~",-
+"ju}",-
+"8[`D",-
+"",-
+"pAluruyUzAaifisUgo",+
+"a",-
+"muvonEsolUwisOoEbUtI",+
+"nOiauIpEyUdaqijO",+
+"T",-
+"~>u_",-
+"juU",-
+"muvonEsolUwisOoEbUtE",+
+"5icjW",-
+"ki",-
+"uUdoqovEuIhAse",+
+"nOiauIpEyUdaqijE",+
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),7)

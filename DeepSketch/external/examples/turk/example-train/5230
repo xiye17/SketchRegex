@@ -1,0 +1,15 @@
+// example 
+"",+
+"dw@uw_?>M",-
+"Gm($U|",-
+">sH",-
+"Ut",-
+""i6}if\1<h",-
+"Ts6A@P`+",-
+"k@-`A",-
+"U/gb",-
+"%eLu!\0",-
+"H",-
+
+// ground truth 
+not(endwith(repeatatleast(<any>,1)))

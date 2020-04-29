@@ -1,0 +1,15 @@
+// example 
+"|Z",+
+"3YMyc1",+
+"Hy6uh~^",+
+"3_r3",+
+"[]KKgV-$",+
+"T&`",+
+"MITyd]>:)z",+
+"&",+
+"I4>B@",+
+"K,Bn8\8{a",+
+"",-
+
+// ground truth 
+contain(or(<let>,<any>))

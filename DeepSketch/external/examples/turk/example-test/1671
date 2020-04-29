@@ -1,0 +1,17 @@
+// example 
+"&H",-
+"?A",-
+"V",-
+"7c",+
+"",-
+"9f#~2",-
+"9K45f",-
+"Yk",+
+"i",-
+"8x9~",-
+"Ncl",-
+"<sP",-
+"8}+e",-
+
+// ground truth 
+concat(or(<num>,<cap>),<low>)

@@ -1,0 +1,18 @@
+// examples
+"e",+
+"i",+
+"!",+
+"@",+
+"!@u",+
+"@Ac",+
+"bc!",+
+"b",-
+"12",-
+"97B",-
+"BYT1",-
+"bt",-
+"Bc$",-
+"BcB",-
+
+// ground truth 
+contain(or(or(<m0>,<m1>),<vow>))

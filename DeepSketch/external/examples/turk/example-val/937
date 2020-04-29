@@ -1,0 +1,25 @@
+// example 
+"Kw"</",-
+"[",-
+"BQb",-
+"MQCCXNMISF!",+
+"M!?}",-
+"ECVDBYWI!",+
+"DIJKIHA!",+
+"Y!",+
+"SZPIFG!",+
+"hoH",-
+"ULOBI!",+
+"",-
+"K!r@E",-
+"DQSD!",+
+"J/",-
+"M^n7",-
+"HY!",+
+"YGEHGNEPE!",+
+"wy",-
+"ZDJ!",+
+"D",-
+
+// ground truth 
+concat(repeatatleast(<cap>,1),<m0>)

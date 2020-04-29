@@ -1,0 +1,17 @@
+// example 
+"o",-
+"yLO",+
+"Ua+A",+
+"u?",+
+"h9<C",+
+"UfE_)",+
+"I}",+
+"ow3vB",+
+"",+
+"L",+
+"a52",+
+"B",+
+"I",-
+
+// ground truth 
+not(and(<vow>,<let>))

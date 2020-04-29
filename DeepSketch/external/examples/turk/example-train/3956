@@ -1,0 +1,25 @@
+// example 
+"dwwb",+
+"hw",+
+"Eqt",+
+"J}8J",-
+"igvpr",+
+"!y",+
+"!",+
+"^",-
+"K}k",-
+"",-
+"'",-
+"]Qdv4",-
+"TD",-
+"0(",-
+"uyz",+
+"Amvp",+
+"!ymfl",+
+"|&M9",-
+"[t;",-
+"I",+
+">m#n[",-
+
+// ground truth 
+concat(or(<let>,<m0>),star(<low>))

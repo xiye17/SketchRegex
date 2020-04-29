@@ -1,0 +1,14 @@
+// example 
+"",+
+"wr",+
+";_?|o&",+
+"{%RW@pAIy",+
+"ZL-",+
+"m5GerWHb",+
+"CwT*",+
+"u",+
+"Q,VE"",+
+"/m4!zA%",+
+
+// ground truth 
+not(and(star(<num>),<low>))

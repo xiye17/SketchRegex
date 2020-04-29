@@ -1,0 +1,25 @@
+// example 
+"S}tz@ce",+
+".&{",-
+"'qh}",-
+"hBfinj",+
+"[~v%,",-
+"[~v%~",-
+"Qb",+
+"Xi}h",+
+"f`",-
+"hBfiBt",+
+"'qh4",-
+"",-
+"-hh",+
+"f}",-
+"9}x;w",+
+"N",-
+"9}x{w",+
+"XiUz",+
+"S}tz@1v",+
+".&X",-
+"-Wc",+
+
+// ground truth 
+endwith(concat(<any>,<low>))

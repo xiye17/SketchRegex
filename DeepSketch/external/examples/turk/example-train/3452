@@ -1,0 +1,20 @@
+// example 
+"Tvm",-
+"h8v6b8b8f6g4c4b4k3",+
+"z7j5o5e9v2f2a3b0m6j1",+
+"i/Ti5",-
+"h+an",-
+"e4n2o8a5u4q9g4",+
+"W",-
+"i]QPw",-
+"",-
+"p0d4c4y0d8c6",+
+"kY:",-
+"j6x7p5g1u8p0n0c3",+
+"h9X0",-
+"R-",-
+"~",-
+"|d",-
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),6)

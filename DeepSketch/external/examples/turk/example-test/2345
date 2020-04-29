@@ -1,0 +1,15 @@
+// example 
+"!2N",-
+"[B?la",-
+"m?m",-
+"hN",-
+"!",+
+"!@XT",-
+"!N",-
+"",-
+"!cT#z",-
+"D",-
+"Z_UD",-
+
+// ground truth 
+and(star(<any>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"Ad1",-
+"W_qK",-
+"ea",+
+"aiiE",+
+"eu",+
+"TduY?",-
+"lJXgz",-
+"aiiU",+
+"uIE",+
+"",-
+"O7",-
+"Ot",-
+"AQv",-
+"U",-
+"AoOEa",+
+"ioeIio",+
+"th?4",-
+"uIe",+
+"AoOEi",+
+"ioeIiA",+
+"E",-
+
+// ground truth 
+repeatatleast(<vow>,2)

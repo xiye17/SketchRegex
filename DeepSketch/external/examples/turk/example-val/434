@@ -1,0 +1,18 @@
+// example 
+"]jR0[j#",+
+"3S#hrnN5x%Iz",+
+"v+9q8jy{6F",+
+"W3yb|YIF",+
+"#IGUy",+
+"dx4>!!NY[",+
+"CZ5MAyb+SwcU4",+
+"",-
+"g8Vi$whGXB^",+
+"'oAqm#",+
+">",-
+"^N%I",+
+"yH",-
+"FI]",-
+
+// ground truth 
+endwith(repeatatleast(<any>,4))

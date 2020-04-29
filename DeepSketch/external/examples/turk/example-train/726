@@ -1,0 +1,25 @@
+// example 
+"!zc!i!",+
+"q!e!",+
+"j6",-
+"}%GI2",-
+"f!ek!",+
+"!",-
+"X",-
+"LSB::",-
+"nqd",+
+"",-
+"f!",+
+"nq!",+
+"~o-a",-
+"fv",+
+"!zc!ii",+
+"%])",-
+"j}",-
+"{"y",-
+"f!ekt",+
+"q!en",+
+"t!{v",-
+
+// ground truth 
+repeatatleast(or(<low>,<m0>),2)

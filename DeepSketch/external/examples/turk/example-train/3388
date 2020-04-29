@@ -1,0 +1,14 @@
+// example 
+"",+
+"~HH&@7U",+
+"7AD",+
+"']?T",+
+"U"SS<W",+
+"T",+
+"LBf,A",+
+"Z]4?o8f]:",+
+"_V",+
+"C?#,I6ok",+
+
+// ground truth 
+endwith(or(not(<vow>),<num>))

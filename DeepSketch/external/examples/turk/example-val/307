@@ -1,0 +1,15 @@
+// example 
+"H9~PEsr",+
+"i_[u",+
+"`1(_l/R%Y",+
+"iQ",+
+"vH`",+
+"a",+
+"q8V,\d",+
+"m>%SB7`)",+
+"",-
+"@:j[r",+
+"yl$B>>JS3W",+
+
+// ground truth 
+or(endwith(<any>),or(or(<num>,<cap>),<low>))

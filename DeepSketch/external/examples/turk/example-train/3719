@@ -1,0 +1,15 @@
+// example 
+">TLz#}6X",+
+"r",+
+"&%ZeC4s",+
+"Mm,`K_l:vR",+
+"~dT",+
+"4`|U""XAB",+
+"p8",+
+"Y#3#",+
+"",-
+"Ih$lv",+
+"Mx3V%\",+
+
+// ground truth 
+contain(or(or(<any>,<m0>),<low>))

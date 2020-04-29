@@ -1,0 +1,25 @@
+// example 
+"RXLKL!",+
+"V!",+
+"WI!",+
+"!",+
+"JCQMNJ!",+
+"",-
+"+<",-
+"3P{8",-
+"!!B",-
+"P",-
+"PAVR!",+
+"!3-8|",-
+"LLEKORJU!",+
+"NNJWKNRSF!",+
+"cf",-
+"-"C(M",-
+">",-
+"LWB!",+
+"HEDCEEE!",+
+"6$O",-
+"y>nu",-
+
+// ground truth 
+concat(star(<cap>),<m0>)

@@ -1,0 +1,25 @@
+// example 
+"pVZ~",+
+"lS",-
+"AajS",-
+"HGCRk",-
+"~LCpe",+
+"D'",+
+"D\",+
+"amGcZb",-
+"c",+
+"\P}C",+
+"4R^S`",+
+"^",+
+"vrJ",-
+"",+
+"i)c",+
+"vrl",-
+"HGCRF",-
+"amGcZS",-
+"Aajt",-
+"|/m",+
+"lz",-
+
+// ground truth 
+not(repeatatleast(<let>,2))

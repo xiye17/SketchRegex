@@ -1,0 +1,25 @@
+// example 
+"_IKC#6",+
+"i)y8sMC",+
+"=Uh[\",-
+".",-
+"{<",-
+"{6",-
+"gFN19",+
+"QPB9",+
+"&8h~eQt2",+
+"_IKC3Y",+
+"}!{`",-
+"",-
+"QPz6",+
+"}!{+",-
+"gFNi4",+
+"~?v",-
+"U",-
+"&8h~eQJ1",+
+"=Uh[{",-
+"~?)",-
+"i)y8sMf",+
+
+// ground truth 
+and(contain(repeat(<let>,3)),contain(<num>))

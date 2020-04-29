@@ -1,0 +1,16 @@
+// example 
+"",+
+".",+
+"3!",+
+"4",-
+"-8D",+
+"!{,D5",+
+"w",+
+"F+xC",+
+"-\Y`",+
+"RZc",+
+"ZO3\\",+
+"ih",+
+
+// ground truth 
+or(startwith(<m0>),not(<num>))

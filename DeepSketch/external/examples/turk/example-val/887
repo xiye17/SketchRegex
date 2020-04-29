@@ -1,0 +1,26 @@
+// example 
+"h!bu!mo{j!Lg!",+
+"{93A",-
+"v!n!0f!u!",+
+"a!ki!Yk!b!",+
+"o",-
+"b!o!(}h!{q!9",+
+"s!{vy!Qs!h!",+
+"zt}>t",-
+"v!n!|s!z!",+
+"~x",-
+"4$!O",-
+"a!kTz!j!g!",+
+"b!o!(}h!{qm!",+
+"",-
+"s!{vy!{x!v!",+
+"U~",-
+"g!p",-
+"j!m!k!x!",+
+"g/w",-
+"h!bu!mo{}o!s!",+
+"z!thh",-
+"~",-
+
+// ground truth 
+repeatatleast(startwith(concat(<low>,<m0>)),4)

@@ -1,0 +1,24 @@
+// example 
+"!Og",-
+"X@^",+
+")>Y=R",+
+"!w#G9)x65",-
+"!kN:Sg",-
+"!G9P`4,:",-
+"!E",-
+"!",-
+"!p}$",-
+"!.JUo",-
+"XXs[Lcl",+
+"",+
+"1U84pl",+
+"Ol!.",+
+"!eo)!wq^w:",-
+"L",+
+"0.DKOj9/j",+
+"^:clX~R'",+
+"!l%bk1B",-
+"Nn",+
+
+// ground truth 
+not(startwith(<m0>))

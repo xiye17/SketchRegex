@@ -1,0 +1,25 @@
+// example 
+"U_nq=bT%~",+
+"US#",-
+"u",-
+"A5zG",-
+"o,/=a^vsw.",+
+"aaFqqq}",+
+"`4",-
+"IFQ:",-
+"ojNQc",-
+"I(TX'Syv",+
+"4G",-
+"O~F.R",-
+"",-
+"uq+",-
+"e6-%qZ'#",+
+"ArBq15s",+
+"e!l+,]2{ow",+
+"Al0=#=m}B6;",+
+"In-5%o7B*o/",+
+"OFO.;C(,!",+
+"E",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<any>,6))

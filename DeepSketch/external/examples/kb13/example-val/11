@@ -1,0 +1,25 @@
+// example 
+"-|Z",-
+"G",-
+"C`HSfXlbOmN:R",+
+"ja{\ogDqiJcbXtP",+
+"BG5.",-
+"*]}YrGLZZmkK_d",+
+"*]}YrGLZZmkk&7",+
+"|~]"}",-
+"^",-
+"",-
+"-|d",-
+"{^nTLOpekHy",+
+"ja{\ogDqiJcbw65",+
+"S|uLrRaDVoKN",+
+"~V",-
+"|~]"w",-
+"{^nTLOpekHF",+
+"C`HSfXlbOmvbm",+
+"~,",-
+"BG5~",-
+"S|uLrRaDVof%",+
+
+// ground truth 
+contain(repeat(<let>,9))

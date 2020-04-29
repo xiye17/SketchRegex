@@ -1,0 +1,25 @@
+// example 
+"o4",+
+"KI",-
+"iao",-
+"oE5",+
+"sirU",-
+"auhuj",-
+"o8Y",+
+"sirl",-
+"aALDu8",+
+"",-
+"IIoa1",+
+"i4",+
+"hVO0",+
+"hVU8",+
+"Ki",-
+"auhue",-
+"iam",-
+"aALDe9",+
+"K",-
+"C",-
+"IIoo7",+
+
+// ground truth 
+contain(concat(<vow>,<num>))

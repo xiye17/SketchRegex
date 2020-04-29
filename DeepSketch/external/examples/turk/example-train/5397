@@ -1,0 +1,15 @@
+// example 
+"",+
+"'ZW",+
+"R+H-I1LHe",+
+"g>",+
+"Fb|+wEisL(",+
+"V3,Q",+
+"r[gqU",+
+"ITKL>O",+
+"L0x*1pVY",+
+"94?S"*T",+
+"b",-
+
+// ground truth 
+not(or(or(<vow>,<any>),<let>))

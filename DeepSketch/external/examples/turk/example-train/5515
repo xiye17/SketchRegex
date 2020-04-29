@@ -1,0 +1,25 @@
+// example 
+"H3__",-
+"s",-
+"o{3",-
+"!^kY3",-
+"=j`WY",-
+"D3",+
+"NNIAPL8",+
+"JGFSZLVEM8",+
+"",-
+"IJN6",+
+"WZYQEAV5",+
+"JY",-
+"6",+
+";Gd",-
+"KWMCZ2",+
+"WXDRJAFU7",+
+"?",-
+":b",-
+"QF9",+
+"LZLS1",+
+"$7Db",-
+
+// ground truth 
+concat(star(<cap>),<num>)

@@ -1,0 +1,16 @@
+// example 
+"<!xw",-
+"|=T/d",-
+"q!",+
+"|!(W?",-
+")_",-
+"k/C",-
+"<s[L",-
+"rALXUw",-
+"H",-
+"",-
+"k!*",-
+"r!!8Zg",-
+
+// ground truth 
+concat(or(<vow>,<any>),<m0>)

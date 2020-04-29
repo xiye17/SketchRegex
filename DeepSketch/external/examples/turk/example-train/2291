@@ -1,0 +1,25 @@
+// example 
+"nH?7a@Fbr",-
+"N-|!5o",+
+"Hn@"jg",-
+"(l;?IN7",-
+"~GZ3'ZRT",-
+"Q5IA!",+
+"!",+
+"n!",+
+"Q!|%`",+
+"",-
+"UG-!",+
+"U",-
+""rkIq",-
+"\!}",+
+"WS*",-
+"Zwio",-
+"\e!",+
+"r@",-
+"U!U@",+
+"!vcjhQ",+
+"!)",+
+
+// ground truth 
+concat(contain(<m0>),not(<m1>))

@@ -1,0 +1,15 @@
+// example 
+"6gYp",+
+"\Zi:|!jVr",+
+"`",+
+"&}f$Dne29d",+
+"N1kz/0~",+
+"eB?",+
+"KK{D|",+
+"P/)`PlxV",+
+""e",+
+"",-
+"o7D0RX",+
+
+// ground truth 
+repeatatleast(or(<any>,<let>),1)

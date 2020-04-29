@@ -1,0 +1,18 @@
+// examples
+"a",+
+"J2c",+
+"J2390Fa",+
+"Lsj2999FFz",+
+"s",+
+"5a",+
+"ak23",+
+"",-
+"1",-
+"AAA",-
+"A!",-
+"ZZ",-
+"22A@",-
+"382F",-
+
+// ground truth 
+concat(endwith(<low>),contain(star(<num>)))

@@ -1,0 +1,16 @@
+// example 
+"%",-
+"fP",-
+"f",-
+"Y@",-
+"Fx!7",-
+"H7!",+
+"$'+",-
+"G>!Hs",-
+"G>FUG",-
+"H>k",-
+"Fx+K",-
+"",-
+
+// ground truth 
+concat(<cap>,concat(<any>,<m0>))

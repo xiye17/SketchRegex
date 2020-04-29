@@ -1,0 +1,16 @@
+// example 
+"",+
+"/",+
+"";Z.",+
+"(5",+
+"xAb+<",+
+"a")",+
+"TM{4",+
+"x",+
+"H",-
+"OQ",+
+"/iR",+
+"5K4oF",+
+
+// ground truth 
+not(and(<cap>,<any>))

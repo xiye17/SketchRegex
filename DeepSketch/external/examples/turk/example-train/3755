@@ -1,0 +1,25 @@
+// example 
+"+=s",-
+"LREAWUU",+
+"LUOIc",-
+"EOAE",+
+"IFPDEI",+
+"EOAo",+
+"-a!#",-
+"",-
+"VkD(",-
+"2`UCw",-
+"$",-
+"W~",-
+"KUITe",+
+"RBU",+
+"N",-
+"hs0",-
+"IFPDEU",+
+"KUITU",+
+"WB",-
+"LREAWUE",+
+"RBe",+
+
+// ground truth 
+concat(repeatatleast(<cap>,2),<vow>)

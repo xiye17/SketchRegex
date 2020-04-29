@@ -1,0 +1,24 @@
+// example 
+"!zrB$reQ6V",+
+"}0.mZ",-
+"!s?Mj)W.",+
+"!$a?1F",+
+"J1S98D",-
+"a@2.+jR",-
+"!|",+
+"|Tn7",-
+"!",+
+"e",-
+"&`^Mv[Ey`",-
+"",-
+"!KgzAudK2",+
+":9",-
+"P&=",-
+"!X9",+
+"9"LTV|.@",-
+"!JF,",+
+"!`%S,*{",+
+"!fC{`",+
+
+// ground truth 
+and(contain(<any>),startwith(<m0>))

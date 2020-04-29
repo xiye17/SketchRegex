@@ -1,0 +1,17 @@
+// example 
+"O%",-
+"n",-
+"i8e",-
+"",-
+"c",-
+"UM",+
+"Uw",+
+"l6Vo>",-
+"e|Dz",-
+"eX=c",-
+"O\",-
+"iP!",-
+"IrLoW",-
+
+// ground truth 
+concat(<vow>,or(<cap>,<low>))

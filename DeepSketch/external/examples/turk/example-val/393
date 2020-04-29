@@ -1,0 +1,25 @@
+// example 
+"C{4j)",-
+"pk",-
+"!XU}",+
+"ljL=",-
+"!j1CQ",+
+"N!}}e!",+
+"pf&{iRf/9",-
+"qD!l"",+
+"A!J",+
+"!",+
+"!Yf/='",+
+"Mn!s",+
+"",-
+"!z{",+
+"m$+",-
+"~T*TO^y",-
+"f!",+
+"?",-
+"!#",+
+"|:4e2"",-
+"^rtiy*}Q",-
+
+// ground truth 
+contain(repeatatleast(<m0>,1))

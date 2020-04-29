@@ -1,0 +1,17 @@
+// example 
+"I.",-
+"UA",+
+"O5`^",-
+"Ip",-
+"",-
+"U!",+
+"f",-
+"Oc#5",-
+"c$o]v",-
+"U",-
+"__AJC",-
+"^GZ",-
+"x4c",-
+
+// ground truth 
+concat(<vow>,or(<cap>,<m0>))

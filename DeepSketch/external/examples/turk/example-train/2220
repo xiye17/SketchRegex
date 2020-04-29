@@ -1,0 +1,17 @@
+// example 
+"dB6I",-
+"2Kj%s",-
+"7v",-
+"3",-
+",",-
+"8E",+
+"",-
+"8a",+
+"-W",-
+"1Kf",-
+"1OY",-
+"+~Vj",-
+"]p.oS",-
+
+// ground truth 
+concat(and(<num>,<any>),<vow>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"ZF-!^}",+
+".<W$~/YL",+
+"{W",+
+"<#`cX",+
+"?X3>~!u",+
+"N",+
+"[I5",+
+"&C9D",+
+"S|G1[~6N4",+
+
+// ground truth 
+not(and(and(<vow>,<cap>),<m0>))

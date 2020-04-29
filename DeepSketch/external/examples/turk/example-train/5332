@@ -1,0 +1,15 @@
+// example 
+"8",+
+"V\",+
+"u{G",+
+"T)zMK@*",+
+"C]:pg",+
+"7"u*9c",+
+"5MH^",+
+"TTXD8jO=Qn",+
+"VLCZH4r/",+
+"P.oLs]{zO",+
+"",-
+
+// ground truth 
+repeatatleast(or(<any>,<cap>),1)

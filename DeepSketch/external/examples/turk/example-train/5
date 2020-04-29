@@ -1,0 +1,15 @@
+// example 
+"",+
+"s",-
+"$~@LQ",+
+"{@|cW)gu",+
+"&iI1x00n3!",+
+"s(+XhN",+
+";qyZV>2b2",+
+"vwA",+
+"U4",+
+"BFjRtr'",+
+"Us7,",+
+
+// ground truth 
+not(or(or(<m0>,<m1>),<any>))

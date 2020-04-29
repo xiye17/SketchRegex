@@ -1,0 +1,25 @@
+// example 
+"STKb~",+
+"UmCTBurbRDQ[",-
+"nLjNDWWA_",-
+"bSpUOSQGAn",-
+"_v.dM",+
+"xNNErgLZcIT",-
+"XERyUmqg",-
+"bSpUOSQGA7",-
+"",+
+"nLjNDWWA~",-
+"d^",+
+"r}U9",+
+"d49",+
+"dlQ",+
+"j",+
+"dx",+
+"XERyUmq{",-
+"2JV|",+
+"~",+
+"xNNErgLZcI~",-
+"UmCTBurbRDQ}",-
+
+// ground truth 
+not(concat(repeatatleast(<let>,7),<any>))

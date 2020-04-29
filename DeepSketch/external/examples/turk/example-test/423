@@ -1,0 +1,17 @@
+// example 
+"p",+
+"u",-
+"{2",+
+"oju&",+
+"e",-
+"",+
+"pv,nl",+
+"d",+
+"v::",+
+"uz",+
+"mCA",+
+"jW+X",+
+"iV&oc",+
+
+// ground truth 
+not(and(and(<low>,<vow>),<any>))

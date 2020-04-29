@@ -1,0 +1,17 @@
+// example 
+"6ng#",+
+"}k",+
+"~u~M",+
+"zO",-
+"^",+
+"fg",+
+"",+
+"lf;I}",+
+"i",+
+"h2#",+
+"l~CP=",+
+"zi",-
+"ho^",+
+
+// ground truth 
+not(concat(<low>,<vow>))

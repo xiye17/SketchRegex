@@ -1,0 +1,17 @@
+// example 
+"p",+
+"p]{R",-
+"IEKjb",-
+"U",+
+"HC|<",-
+"9V",-
+"iUW",-
+"",-
+"T-",-
+"#$J",-
+"@",-
+"0J+nP",-
+"~",-
+
+// ground truth 
+or(or(<low>,<cap>),<let>)

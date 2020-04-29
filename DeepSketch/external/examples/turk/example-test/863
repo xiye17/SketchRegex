@@ -1,0 +1,25 @@
+// example 
+"#k{:",-
+"n{#{",-
+"mJ",+
+"lkp",+
+"n_"",-
+"jM[$&%",+
+"jg>Up+",+
+"w\/Y<",-
+"mw",+
+"",-
+"gukS<",+
+"|",-
+"gT*D&",+
+"0{",-
+"v",-
+"{@",-
+"lPP",+
+"xW$K",+
+"xqOe",+
+"n}9",-
+"w*\99",-
+
+// ground truth 
+startwith(repeatatleast(concat(<low>,<let>),1))

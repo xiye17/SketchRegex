@@ -1,0 +1,16 @@
+// example 
+"",+
+"0",-
+"8)S&&",+
+",\",+
+"\0'",+
+"$N~",+
+"-p'G",+
+"I",+
+"V@",+
+"0&sY",+
+"=[?z4",+
+"$",+
+
+// ground truth 
+or(repeatatleast(<vow>,1),not(<num>))

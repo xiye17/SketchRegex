@@ -1,0 +1,16 @@
+// example 
+"r]P7J",-
+">}g/",-
+"w(",-
+"w^",-
+"lO",+
+"bX4",-
+"W",-
+"rI%qM",-
+">`Tv",-
+"lx",+
+"",-
+"b~v",-
+
+// ground truth 
+concat(or(<vow>,<any>),<let>)

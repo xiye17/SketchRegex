@@ -1,0 +1,17 @@
+// example 
+"g+z",+
+"sL$Ge",+
+"o~",+
+"nT3a",+
+"a",-
+"",+
+"DsGO",+
+"a~u",+
+"eEj[2",+
+"F@",+
+"H",+
+"I",-
+"}",+
+
+// ground truth 
+not(and(and(<vow>,<any>),<let>))

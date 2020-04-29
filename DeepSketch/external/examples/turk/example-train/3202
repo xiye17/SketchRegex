@@ -1,0 +1,17 @@
+// example 
+"Jg",-
+"`N",-
+"m3",+
+"Y4",+
+"uPsMp",-
+"{5,J",-
+"",-
+"}'[9$",-
+"i",-
+"<s@",-
+"?",-
+"Ckq",-
+",bD~",-
+
+// ground truth 
+concat(and(<let>,<any>),<num>)

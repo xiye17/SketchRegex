@@ -1,0 +1,17 @@
+// example 
+"YI",+
+"]+",-
+"LIJv",-
+"YO",+
+"",-
+"K!#]3",-
+"KOLy3",-
+"=fO",-
+"6",-
+"LL",-
+"A",-
+"_37",-
+"L\\t",-
+
+// ground truth 
+concat(<cap>,or(<vow>,<m0>))

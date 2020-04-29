@@ -1,0 +1,17 @@
+// example 
+"j|5",-
+"Ar`F",-
+"fA#Oi",-
+"g;",-
+"!",+
+""",-
+"",-
+"am",-
+"IHm",-
+"K",-
+"D]d;E",-
+"A",+
+"DZiw",-
+
+// ground truth 
+or(or(<vow>,<m0>),<m1>)

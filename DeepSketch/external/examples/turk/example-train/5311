@@ -1,0 +1,25 @@
+// example 
+"z!fv!!Ki",+
+"!|9XB",-
+"!!!!r8v",+
+"!!!!!~+",+
+"z!fvbcWY",+
+"!]lkI",-
+"oe~5",-
+"!",-
+"",-
+"!T[",-
+"{g*",-
+"oe%C",-
+"!!a!!",+
+"A@",-
+"!tas!,Ys{",+
+"!!a!t",+
+"}B",-
+"!!!mwk",+
+"!!!m!Q",+
+"!tasyJSN7",+
+"~",-
+
+// ground truth 
+startwith(repeatatleast(or(<m0>,<low>),5))

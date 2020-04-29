@@ -1,0 +1,16 @@
+// example 
+"%",-
+".0}I",-
+"fcGa",-
+"eR,",-
+".]Tl!",-
+"Br",+
+"<xP",-
+"X",-
+"JI",-
+"Uiw*@",-
+"",-
+"J}",-
+
+// ground truth 
+concat(and(<any>,<cap>),<low>)

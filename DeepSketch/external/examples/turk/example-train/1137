@@ -1,0 +1,17 @@
+// example 
+"i1~",-
+"E}",-
+"I{rI",-
+"uD",+
+"D3",-
+"e",-
+"",-
+"a",-
+"D6xs",-
+"uy",+
+"E[n()",-
+"E3px_",-
+"iN&",-
+
+// ground truth 
+concat(and(<vow>,<any>),<let>)

@@ -1,0 +1,26 @@
+// example 
+">s~e",-
+"ahxehnx",+
+"8~evzlsny",+
+"|~kc(rpucb",+
+"za7",-
+"|~Ueqcskex",+
+"~{",-
+"~y",-
+"rai`i|k}u|l",+
+"",-
+">s~^",-
+"{N|{a",-
+"rai`i|k}Mkw",+
+"g",-
+"|",-
+"sw~pugbk",+
+"~x~B|Cqybtzk",+
+"8_iimoird",+
+"~x~B|{zkswkn",+
+"{N|{9",-
+"za}",-
+"}tivzayl",+
+
+// ground truth 
+repeatatleast(contain(endwith(<low>)),7)

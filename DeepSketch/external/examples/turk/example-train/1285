@@ -1,0 +1,17 @@
+// example 
+"um",+
+"\",-
+".Z2",-
+"!ww",-
+"`L",-
+"BY",+
+"!",-
+"_SDb",-
+"",-
+"{RRa",-
+"Rw">&",-
+"+YA{`",-
+"8^",-
+
+// ground truth 
+concat(or(or(<cap>,<low>),<m0>),<any>)

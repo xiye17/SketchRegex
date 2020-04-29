@@ -1,0 +1,25 @@
+// example 
+"QwF%7",+
+"0",-
+"_qNs",-
+"QgHdj9",+
+"F%sFS",-
+"F~vz<",-
+"Xqy",+
+"^",-
+"CMyc",+
+"",-
+"|G",-
+"CMY2",+
+"\h",-
+"f"",+
+""G<",-
+"qA/",+
+"yn8J>.",+
+"'+3+",-
+"y",+
+"]5!",-
+"Qwp\@",+
+
+// ground truth 
+startwith(or(<low>,repeatatleast(<let>,3)))

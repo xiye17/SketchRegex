@@ -1,0 +1,17 @@
+// example 
+"a/",-
+"iU_|m",-
+"eG",+
+"",-
+"cLG/",-
+"ai",-
+"EZP%",-
+"e$Z",-
+"!Y",+
+"x",-
+"Buj",-
+"isP~$",-
+"B",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<cap>)

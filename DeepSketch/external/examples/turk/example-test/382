@@ -1,0 +1,15 @@
+// example 
+"Wmk)",-
+"7)",-
+"gY]0I",-
+"7g",-
+"LK'",-
+"W9q<",-
+"grOD&",-
+"x",-
+"L!s",-
+"",-
+"KZ",+
+
+// ground truth 
+concat(or(<any>,<vow>),<cap>)

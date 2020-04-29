@@ -1,0 +1,17 @@
+// example 
+"r",-
+"!z",-
+"jJmN",-
+"!|",-
+"!",-
+"!Zaq",-
+"",-
+"!wg",-
+"!`UnD",-
+"!w~",-
+"!v@",+
+"!vu",+
+"!=)z5",-
+
+// ground truth 
+concat(concat(<m0>,<let>),or(<m1>,<vow>))

@@ -1,0 +1,17 @@
+// example 
+"1",-
+"P\",-
+"rKE",-
+"KM]D",-
+"l(Uw}",-
+"V",-
+""/)nP",-
+"1Ol",-
+"",-
+"P|",-
+"CA",+
+"K[M{",-
+"Ci",+
+
+// ground truth 
+concat(<cap>,<let>)

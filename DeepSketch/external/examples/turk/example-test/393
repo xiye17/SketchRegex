@@ -1,0 +1,17 @@
+// example 
+"I'+e",-
+"U",+
+"O3",-
+"O,5",-
+"",-
+"I>kz+",-
+"Nc",-
+"O",+
+"J",-
+"09T",-
+"FQ^,",-
+"D",-
+"LCx.\",-
+
+// ground truth 
+and(contain(<vow>),or(<m0>,<cap>))

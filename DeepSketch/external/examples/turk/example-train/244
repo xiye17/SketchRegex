@@ -1,0 +1,25 @@
+// example 
+"!!!u",-
+"!ui!f!dgm!!",+
+"!ui!f!dgm!x",+
+"!!",-
+"elcn!id",+
+"!!!|",-
+"y!a!et!cz!",+
+"u!{#G",-
+"",-
+"!q{",-
+"dov!umiz",+
+"dov!umi!",+
+"y!a!et!czt",+
+"[H:",-
+"!!!!t!!!!",+
+"y",-
+"uFQ#C",-
+"elcn!i!",+
+"!!!!t!!!f",+
+"!g",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<low>,<m0>),7)

@@ -1,0 +1,18 @@
+// example 
+"[swAP",+
+",z9A",+
+"~0Y0[E`&",+
+"?[$ig[ksYH<{v",+
+"E(s5S2\<@",+
+"m",-
+"t#sB+X",+
+"qt",-
+"",-
+"CKF",-
+">hqIXVX",+
+"#cu?V(IG\<8`",+
+"$Gh$Ve7JS-",+
+"Y!\g.8o8m[@",+
+
+// ground truth 
+contain(repeatatleast(<any>,4))

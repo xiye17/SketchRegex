@@ -1,0 +1,23 @@
+// example 
+"lSi",-
+"B0Vp",-
+"R8L4B2C6B1",+
+"=[$j#",-
+"U9N9G1I4U2L8",+
+"#",-
+"J1T2X1",+
+"V2K4R5B1A2E3Z6U1R4B2",+
+"",-
+"L2X9M8P1P5K9L3N9",+
+"J^",-
+"T6J4U1L5L9I1R9W8L8",+
+"JU0gB",-
+"W7W4L2B3",+
+"M",-
+";p",-
+"R0C8Q6M2S3R1O2",+
+"7f{",-
+"B0V!",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),3)

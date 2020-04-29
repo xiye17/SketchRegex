@@ -1,0 +1,17 @@
+// example 
+"G",+
+"nZ",-
+"@c=X",-
+"|(Fqt",-
+"_",-
+"rhC",-
+"",-
+"|t-",-
+"9",-
+"o>7}h",-
+"w",+
+"|m",-
+"~0oi",-
+
+// ground truth 
+or(or(<cap>,<let>),<low>)

@@ -1,0 +1,17 @@
+// example 
+"''\[",-
+"]",-
+"G_t",-
+"|/(",-
+"RZafW",-
+"wHo",+
+"E,|x",-
+"7G&=>",-
+"",-
+"[b",-
+"/E",-
+"wHI",+
+"~",-
+
+// ground truth 
+concat(concat(<let>,<any>),<vow>)

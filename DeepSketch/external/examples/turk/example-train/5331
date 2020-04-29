@@ -1,0 +1,16 @@
+// example 
+"Nx",-
+""clgp",-
+"xozr'",-
+"'i",-
+"5!y",-
+"xH&i",-
+"w",-
+"5!%",-
+""XFU",-
+"1!@",+
+"#",-
+"",-
+
+// ground truth 
+concat(concat(<num>,<m0>),<m1>)

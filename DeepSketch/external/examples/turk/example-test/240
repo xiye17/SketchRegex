@@ -1,0 +1,16 @@
+// example 
+"",+
+"}RlJW",+
+"|gX",+
+";(:}",+
+"xG|",+
+"d",-
+"pp",+
+""",+
+"|^",+
+"{",+
+"}ZNA",+
+",^U)n",+
+
+// ground truth 
+not(and(repeatatleast(<any>,1),<low>))

@@ -1,0 +1,24 @@
+// example 
+"a\",-
+"p1a6i8y2e2s0k2m5",+
+"}W~",-
+"c6z9",+
+"i3q8e7x2e9m4",+
+"b6",+
+"w8z9d3w9i1",+
+"Zvn",-
+"j#f?+",-
+"'",-
+";<|k",-
+"j_@mZ",-
+"",+
+"|",-
+"k0r5i0l6n3s3c4",+
+"f1i8c4c8",+
+"d1z4c9",+
+"a+",-
+"|w!f",-
+"z7t9w8x3w0h8k5y7e8",+
+
+// ground truth 
+star(concat(<low>,<num>))

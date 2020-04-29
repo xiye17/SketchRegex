@@ -1,0 +1,25 @@
+// example 
+"aTiia",+
+"aOVi",+
+"]",-
+"t+op",-
+"B!b70",-
+"T!",+
+"TO",+
+"loa",+
+"",-
+"t+ov",-
+"lo!",+
+"Iy",-
+"e",+
+"B!b7c",-
+"aOV!",+
+"u",+
+"Ig",-
+"a:G",-
+"a:R",-
+"B",-
+"aTiiu",+
+
+// ground truth 
+endwith(or(<vow>,<m0>))

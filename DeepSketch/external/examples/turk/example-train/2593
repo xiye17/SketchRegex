@@ -1,0 +1,14 @@
+// example 
+"",+
+"_Vau1C?",+
+".[",+
+"=w+k2w",+
+"nr@-",+
+"]6.0U",+
+"2",+
+"1:o",+
+"BYL+<9}@8",+
+"cb4LZ;mS",+
+
+// ground truth 
+startwith(star(concat(<num>,<m0>)))

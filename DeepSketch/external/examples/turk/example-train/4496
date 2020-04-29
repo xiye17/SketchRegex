@@ -1,0 +1,16 @@
+// example 
+"X!q$",-
+"wsq&U",-
+"Z:",-
+"Btm",-
+"F6EZA",-
+"':}2",-
+"U",-
+"B!s",-
+"L!",+
+"",-
+"c",-
+"$e",-
+
+// ground truth 
+concat(<cap>,and(<any>,<m0>))

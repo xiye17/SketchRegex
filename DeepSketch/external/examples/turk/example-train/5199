@@ -1,0 +1,21 @@
+// example 
+"|[7",-
+"xOaWvBcBvCgAbV",+
+">2",-
+"tPxIcJlIwEqCyQgG",+
+"",-
+"rPg",-
+"}",-
+"uOjFrDgSpQdIoRrNkY",+
+"hS",-
+"hRlRjUgYgIfJcHjGuRlX",+
+"]1+F",-
+"oRpGaHcWsB",+
+"jQeJnNnEqIjA",+
+"~.)Ii",-
+"y",-
+"#0G=#",-
+"}+*p",-
+
+// ground truth 
+repeatatleast(concat(<low>,<cap>),5)

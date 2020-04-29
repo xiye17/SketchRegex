@@ -1,0 +1,19 @@
+// example 
+"6\[>&H~SDd]c",+
+"kR5DX7SB",+
+"er>4{'",+
+"",-
+"n-f",-
+"j@FP}",+
+"gM2@V9#BJq|XK'",+
+"da2uVU1<r?e4@",+
+"(,",-
+"C_/nbBbJ1a",+
+">uV+",-
+"<tm#Pz1x7?f",+
+":a<03Bu",+
+"o-q0!x{Yc",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<any>,<m0>),5)

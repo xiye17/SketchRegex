@@ -1,0 +1,25 @@
+// example 
+"`i",-
+"gQi|",-
+"abtMA",-
+"or",+
+"abtMU",-
+"nEs",+
+"",-
+"HFBOit",+
+"HFBOiu",+
+"Ax2Ao",+
+"QDos",+
+"oi",+
+"ekG",-
+"ekc",-
+"nEb",+
+"QDou",+
+"J",-
+"`a",-
+"gQiX",-
+"x",-
+"Ax2Au",+
+
+// ground truth 
+endwith(concat(<vow>,<low>))

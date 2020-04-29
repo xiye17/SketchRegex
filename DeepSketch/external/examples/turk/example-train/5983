@@ -1,0 +1,14 @@
+// example 
+"",+
+"P~?zeU",+
+"^"A:IPs^",+
+"d+p",+
+"bE",+
+"i^2=",+
+"M9@r2",+
+".4fWDXzVI",+
+"]",+
+"qKV.Fqe",+
+
+// ground truth 
+not(and(and(<any>,<low>),<cap>))

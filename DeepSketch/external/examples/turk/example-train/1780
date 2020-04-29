@@ -1,0 +1,15 @@
+// example 
+"Q>*",-
+"btB2'!U>",-
+"b&w`O",-
+"&kK%}tky]",-
+""Hm%",-
+",a=}lit",-
+"",-
+"[D",-
+"{",+
+"&rKQb"",-
+"Wtjjs;R8e@",-
+
+// ground truth 
+or(or(<vow>,<any>),<num>)

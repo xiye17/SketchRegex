@@ -1,0 +1,24 @@
+// example 
+"/",+
+"lKl",+
+"&SZP^",+
+"k",+
+"9yI0p",-
+"[S",+
+";=J<,",+
+"",-
+"3KP=$Z}G",-
+"797qmA",-
+"3UOp1uU",-
+"^"Ih",+
+"7",-
+")f",+
+")sE",+
+"93",-
+"9V$).UXae",-
+"#Gep",+
+"9{}",-
+"9].]",-
+
+// ground truth 
+not(star(startwith(<num>)))

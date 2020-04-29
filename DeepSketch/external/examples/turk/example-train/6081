@@ -1,0 +1,15 @@
+// example 
+"",+
+"g*%zV",-
+"4@4rh!a46",-
+"7dTbdm:{_r",-
+"$U",-
+"z`0",-
+"P18C",-
+"v6Y8mg5",-
+"sv+^Th",-
+"qVdXcAWk",-
+"D",-
+
+// ground truth 
+star(contain(and(<cap>,<m0>)))

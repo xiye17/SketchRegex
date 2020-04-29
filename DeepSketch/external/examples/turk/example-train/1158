@@ -1,0 +1,25 @@
+// example 
+"lb`|zb",-
+"p6{DD",+
+"Fs~}e",-
+"wv",-
+"+iYL",+
+"Fs~Pp",-
+"Sg",-
+"amm",-
+"FW",+
+"PeQ",+
+"^b3",+
+"_",+
+"",+
+"a{c",-
+"F|",+
+"p6{D}",+
+"lb`|}f",-
+"DnFe",-
+"j",+
+"Dnnj",-
+"{0jf",+
+
+// ground truth 
+not(concat(<let>,endwith(<low>)))

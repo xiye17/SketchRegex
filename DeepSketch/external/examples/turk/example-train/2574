@@ -1,0 +1,16 @@
+// example 
+"(X",-
+"9V+G",-
+"H`n",-
+"15",+
+"*%Y",-
+".>?%",-
+"E,QjP",-
+"m",-
+"xp",-
+"",-
+"'",-
+",ytQB",-
+
+// ground truth 
+concat(<num>,or(or(<m0>,<any>),<cap>))

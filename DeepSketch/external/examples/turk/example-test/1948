@@ -1,0 +1,25 @@
+// example 
+"NV",+
+"]",-
+"|#0l",-
+"o{"~W",-
+"G",+
+"sHP",+
+"Nudxb",+
+")#Z",-
+"f_",-
+"km-",-
+"}Z#t@",-
+"c",+
+"",+
+"NudxZ",+
+"sHr",+
+"?",-
+"mxNt",+
+"mxNH",+
+"Nu",+
+",2?7",-
+"~`",-
+
+// ground truth 
+star(or(<cap>,<let>))

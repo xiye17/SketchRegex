@@ -1,0 +1,25 @@
+// example 
+"vbU",+
+"\=]:GtS",+
+"\2I.qB",+
+"``^6D",-
+"b|",-
+"D}hV",+
+"QxI",+
+"5|k",-
+"mm=v",-
+"mm=5",-
+"DtoV",+
+"^",-
+"",-
+"<B!dO",+
+"b`",-
+"``^6|",-
+"\2I}vP",+
+"\=]:mdQ",+
+"S",-
+"<BwkT",+
+"5|F",-
+
+// ground truth 
+concat(contain(<let>),concat(<low>,<cap>))

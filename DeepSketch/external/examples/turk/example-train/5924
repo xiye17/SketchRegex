@@ -1,0 +1,16 @@
+// example 
+"",+
+"q",+
+"6;",+
+"kg",+
+"8M#",+
+"7"^L",+
+"7",-
+":Luj",+
+"F)-hj",+
+"!",+
+"3Dkrc",+
+"_fj",+
+
+// ground truth 
+or(repeatatleast(<m0>,1),not(<num>))

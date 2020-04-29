@@ -1,0 +1,26 @@
+// example 
+"UpPSYCOW",+
+".",-
+"BU",-
+"1kVbA",-
+"C+fC1G)WHBR",+
+"2M<8",-
+"v^PGXIGYP",+
+"1kVb'",-
+"vC9ETIVWQ",+
+"",-
+"B0",-
+"2M<D",-
+"wEGOKSBN",+
+"]tKVwNNDUO",+
+"ZnLDm5MU$<UJ",+
+"C+fC1gCOJEU",+
+"]tKV+BVGFK",+
+"[BX",-
+"[B=",-
+"ZnLDm5MU$cIV",+
+"MSMHODO",+
+"B",-
+
+// ground truth 
+repeatatleast(endwith(<cap>),7)

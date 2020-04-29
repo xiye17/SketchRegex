@@ -1,0 +1,14 @@
+// example 
+"",+
+"D2p",+
+"+ww;85\",+
+"a6?u",+
+"O",+
+"!H>X{@_4",+
+"BO",+
+"l[TmS)",+
+"D#IeeX6DW",+
+"^(.I3",+
+
+// ground truth 
+not(and(<m0>,and(and(<m1>,<let>),<m2>)))

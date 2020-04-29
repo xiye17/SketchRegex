@@ -1,0 +1,25 @@
+// example 
+"~3",-
+"liOAUuaAu",+
+"W%11",-
+"]%k",-
+"rd=",-
+"}34]",-
+"|OCHj",-
+"gUUeaOa",+
+"jAIOuAuoEoO",+
+"niiEaEOEOU",+
+"aUEaiEUa",+
+"IblV&",-
+"aUEaiEUe",+
+"",-
+"niiEaEOEOO",+
+"ud",-
+"liOAUuaAA",+
+"jAIOuAuoEoo",+
+"I",-
+"gUUeaOU",+
+"~",-
+
+// ground truth 
+concat(<low>,repeatatleast(<vow>,6))

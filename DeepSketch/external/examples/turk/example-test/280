@@ -1,0 +1,25 @@
+// example 
+"]",-
+"QF0D?",-
+"]{$",-
+"O&",+
+"qIhq",-
+"U",+
+"B}/P",-
+"i`&=j",+
+"A6|",+
+"H;k",-
+"",-
+"U5cY",+
+"M(",-
+"VE",-
+"i",+
+"IJ",+
+"^/w/M",-
+"o`D",+
+"R",-
+"O5)P",+
+"op1x/",+
+
+// ground truth 
+startwith(or(<vow>,and(<m0>,<any>)))

@@ -1,0 +1,23 @@
+// example 
+"aWOTAHUJuTeXIZoLiPEK",+
+"f",",-
+"iX",-
+"iYuYiYaRoTOFEFAUAK",+
+"iYuYiYaRoTOFEFAUIE",+
+"kit",-
+"m",-
+"ig<x9",-
+"d",-
+"OCIXaPIMaROXoRIZ",+
+"",-
+"aRESaRoYaDELOE",+
+"aRESaRoYaDELeY",+
+"K]|b>",-
+"aWOTAHUJuTeXIZoLiPaN",+
+"i_",-
+"E_>h",-
+"g_0s",-
+"OCIXaPIMaROXoRAO",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),7)

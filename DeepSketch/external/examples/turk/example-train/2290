@@ -1,0 +1,25 @@
+// example 
+"!b",-
+"ueGI!",+
+"E^'",-
+"!Bu5ML",-
+"!",+
+"ueGA!",+
+"!E",+
+"Ea0",-
+"Xo!z",-
+"",+
+"QO/i",+
+"!OAx`",-
+"{A!",+
+"!U",+
+"!Bu5E~",-
+"![",-
+"{e!",+
+"!OAxf",-
+"QO/a",+
+"{",-
+"Xo!b",-
+
+// ground truth 
+star(or(concat(<any>,<vow>),<m0>))

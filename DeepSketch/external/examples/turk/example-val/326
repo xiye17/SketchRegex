@@ -1,0 +1,25 @@
+// example 
+"0",-
+"uo^2}",+
+"u~RC",-
+"Dy{]r",-
+"iU&",+
+"UFvo6G",+
+"",-
+"u6",-
+"N:v",-
+"u/-9",-
+"uu",+
+"UjF\@N",+
+"S"|#@",-
+"iu3",+
+"ePQ?",+
+"uR\%M",+
+"U",-
+"u_",-
+"efv8",+
+"lNP",-
+"uR",+
+
+// ground truth 
+startwith(concat(<vow>,<let>))

@@ -1,0 +1,19 @@
+// example 
+"\",-
+"zknA/gMS)4",+
+"mHl",-
+""CeV",-
+"d^7G<e4Q1",+
+"hwnB<m",+
+"&MrA5FT[Ex@l.F",+
+"",-
+"P>i_Q%i",+
+"O<4{dN&O(R{"B",+
+";~;h7",+
+"<s"]0%zE",+
+"YN/I\5fMLT.U",+
+"uI",-
+"MU6k*U@pBc}",+
+
+// ground truth 
+repeatatleast(or(endwith(<m0>),<any>),5)

@@ -1,0 +1,25 @@
+// example 
+"|wsr",-
+"{yo",+
+"oI",+
+"|zlA",+
+"uAeie",+
+"|wsd",-
+"|zlU",+
+"5kb",-
+"{ya",+
+"",-
+"8}",-
+"uAeia",+
+":",-
+"~`[bai",+
+"oO",+
+"Iolon",-
+"~`[bau",+
+"{",-
+"8^",-
+"5kB",-
+"Ioloc",-
+
+// ground truth 
+endwith(concat(<low>,<vow>))

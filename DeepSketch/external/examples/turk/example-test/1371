@@ -1,0 +1,25 @@
+// example 
+"nUa/",-
+"!O!I!I",+
+"!aw7",-
+"!O!I!E",+
+"*1"pj",-
+"!P'GR",-
+"!",-
+"!O!o",+
+"!H",-
+"",-
+"!e!I!o!i",+
+"!I!o!u!i!i!A",+
+"!a&",-
+"!e!I!o!U",+
+"!O!E",+
+"!q",-
+"!E!i!A!e!u",+
+"!I!o!u!i!i!u",+
+"!E!i!A!e!i",+
+"C",-
+"!`Z",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<vow>),2)

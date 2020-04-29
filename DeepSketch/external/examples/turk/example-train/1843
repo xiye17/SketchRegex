@@ -1,0 +1,25 @@
+// example 
+"AH",+
+"HUB)",+
+"H8bN",+
+"-efus",+
+"D)P)",-
+"BX",-
+"~F~",-
+"U",+
+"D)PQ",-
+"-ARq\",+
+"|A",+
+"{'5",+
+"JT?GR",-
+"",-
+"JT?GN",-
+"~FK",-
+"=",-
+"6",+
+"{'A",+
+"R",-
+"B{",-
+
+// ground truth 
+contain(or(or(<low>,<vow>),<num>))

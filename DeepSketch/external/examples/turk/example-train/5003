@@ -1,0 +1,17 @@
+// example 
+"<8g",-
+"B%",+
+"in",+
+"_",-
+"|I",-
+"",-
+"^v",-
+"b",-
+"^IX",-
+"GK7+",-
+"g3P>",-
+"\%\UA",-
+"z5FH{",-
+
+// ground truth 
+concat(or(or(<low>,<vow>),<cap>),<any>)

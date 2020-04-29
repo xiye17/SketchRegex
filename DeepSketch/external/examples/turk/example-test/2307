@@ -1,0 +1,25 @@
+// example 
+"7I",-
+"4A9H6o1u",+
+"ofiCs",-
+"1u1$q1E9i",+
+"1o;2O8E",+
+"-",-
+"4ana",-
+"1o;2O8U",+
+"",-
+"3NnHW",-
+"9u-'%5u[5O",+
+"0O1e5u",+
+"0O1e5I",+
+"XmTB",-
+"4A9H6o1O",+
+"9u-'%5u[5U",+
+"7E",-
+"1u1$q1E9E",+
+"SWD",-
+"K",-
+"2dq",-
+
+// ground truth 
+repeatatleast(startwith(concat(<num>,<vow>)),3)

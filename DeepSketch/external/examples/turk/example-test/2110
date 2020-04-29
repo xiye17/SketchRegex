@@ -1,0 +1,25 @@
+// example 
+"WgD",-
+"Wmh~B",-
+"vU",+
+"H[",-
+"!",+
+"",-
+"Wmh~R",-
+"Oo"",+
+"b",-
+"vo",+
+"!Ki",+
+"Glyb",-
+"RB!r",+
+"e",+
+"h",-
+"e3m6",+
+"Wg_",-
+"E9gX(",+
+"O/VW>",+
+"HP",-
+"GlyT",-
+
+// ground truth 
+contain(or(<m0>,<vow>))

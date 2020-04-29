@@ -1,0 +1,25 @@
+// example 
+"p",+
+"dS4",-
+"M|",-
+",",-
+"-3Ey",-
+"^",-
+"",-
+"jz5V",-
+"mcnon",+
+"EMH",+
+"|z",-
+"kL",+
+"augz",+
+"eo:3K",-
+"O",+
+"eo\/#",-
+"dS{",-
+"ka",+
+"EMs",+
+"augG",+
+"mcnoQ",+
+
+// ground truth 
+and(contain(<any>),repeatatleast(<let>,1))

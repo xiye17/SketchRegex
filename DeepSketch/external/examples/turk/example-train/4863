@@ -1,0 +1,25 @@
+// example 
+"kohfofpxxa",+
+"larkbhspm",+
+"ty~cZ",-
+"mboO",-
+"gfonrann",+
+"siavls~",+
+"larkbhsp,",+
+"",-
+"}",-
+"wldlyi",+
+"wldly}",+
+"Y?",-
+"}o",-
+"gfonran{",+
+"kohfofpxx{",+
+"$uH",-
+"siavlsi",+
+"z",-
+"|{0",-
+"tyf|'",-
+"mbo{",-
+
+// ground truth 
+concat(repeatatleast(<low>,5),<any>)

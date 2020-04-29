@@ -1,0 +1,16 @@
+// example 
+";",-
+"t*M~{",-
+"5=@&",-
+"i",-
+"ROd",+
+"xva",-
+"-c",-
+"Dk`p",-
+"$I^tQ",-
+"Jx",-
+"",-
+"(H?",-
+
+// ground truth 
+concat(concat(<cap>,<any>),<low>)

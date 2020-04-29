@@ -1,0 +1,14 @@
+// example 
+"",+
+"c%Dv",+
+"WIP&U9WJ",+
+"LW7E~M",+
+"H",+
+"IMS",+
+"n-]nU=~",+
+"=FC%y",+
+"&fdlf-t}!",+
+"Pn",+
+
+// ground truth 
+repeatatleast(contain(not(<num>)),1)

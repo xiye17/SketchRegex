@@ -1,0 +1,25 @@
+// example 
+"fYTn:",-
+"d&K)",-
+"!/#",+
+"Xn",-
+"o",+
+"n",-
+"SBadi",+
+"MR1~",+
+"",-
+"o~89w",+
+"XH",-
+"gE",+
+"fYTnC",-
+"MRO!",+
+"O",+
+"Zjb",-
+"Zj)",-
+"d&Kr",-
+"B",-
+"ge",+
+"{bI",+
+
+// ground truth 
+contain(or(or(<m0>,<num>),<vow>))

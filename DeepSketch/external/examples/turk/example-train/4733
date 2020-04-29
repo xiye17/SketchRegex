@@ -1,0 +1,16 @@
+// example 
+"Ck";ADf`O",+
+"~NWiFp\"KPV",+
+",lBr[",+
+"/",-
+"M`jfKp",+
+"{')",+
+"DIc%XF][",+
+"N]",+
+"W/>Xf%ag:4",+
+"Eh%l",+
+":,t!^",",+
+"",-
+
+// ground truth 
+repeatatleast(contain(or(<any>,<num>)),2)

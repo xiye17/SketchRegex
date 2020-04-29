@@ -1,0 +1,14 @@
+// example 
+"",+
+";",+
+"%]&",+
+"(zkA,",+
+"/"#i7fgMO",+
+"M\/G'q",+
+"q9}1",+
+"d*n&d3dD",+
+"I`",+
+"NP/iA\8",+
+
+// ground truth 
+contain(not(repeatatleast(<let>,3)))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"d2_F(dV",+
+"~`<"Ixhs",+
+"o29|9Enu>",+
+"0",+
+"_HR",+
+"gZ~\",+
+"-G",+
+"-Ut;}",+
+"&"m`m0",+
+
+// ground truth 
+contain(or(star(<m0>),<m1>))

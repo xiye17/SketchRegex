@@ -1,0 +1,16 @@
+// example 
+"",+
+"hi",+
+"Oe=",+
+",",+
+"Y-",+
+",x1<",+
+"R",-
+"Z.+WY",+
+"$v!Tb",+
+"ThD,",+
+"{",+
+"5E'",+
+
+// ground truth 
+not(and(<cap>,<any>))

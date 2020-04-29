@@ -1,0 +1,25 @@
+// example 
+"US&%",-
+"Onozfjsk",+
+"U|T",-
+"exfyvhxmw",+
+"Akprbgrl",+
+"Uy~oO",-
+"ujukf",+
+"e|",-
+"Ubovag",+
+"axjtxiy",+
+"Afaggra",+
+"/FQ",-
+"",-
+"UyWps",-
+"e,",-
+"i",-
+"U}Jm",-
+"oqymvs",+
+"afwdayxur",+
+"Ofszz",+
+"H",-
+
+// ground truth 
+concat(<vow>,repeatatleast(<low>,4))

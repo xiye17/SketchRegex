@@ -1,0 +1,15 @@
+// example 
+"U|",-
+"a`98",-
+"ngD37.8U",-
+"E;Dq3PcBgD",-
+"`#Z_z#)",-
+"j",+
+"P_z3h",-
+"ReoO~U",-
+"f<R",-
+"25*1Fk.|g",-
+"",-
+
+// ground truth 
+or(or(<any>,<let>),<m0>)

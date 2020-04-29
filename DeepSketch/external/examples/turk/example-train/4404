@@ -1,0 +1,15 @@
+// example 
+"9E",-
+"9",+
+"!^f",-
+"j}g37WGh@=",-
+"'oHH",-
+"S)"dsGj",-
+"<wd33[",-
+"Mws6`45[}",-
+"",-
+"v,x"p",-
+"n2KF?Bhs",-
+
+// ground truth 
+or(or(<let>,<any>),<cap>)

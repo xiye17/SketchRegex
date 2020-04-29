@@ -1,0 +1,25 @@
+// example 
+"Gi!oc",-
+"oc",-
+"iaa!",+
+"o",+
+"GoeQe",+
+"*",-
+"ea!",+
+"eaa",+
+"",-
+"j4[5",-
+"o+",-
+"ae",+
+"|",-
+"u",+
+"au",+
+"hXs",-
+"iaai",+
+"]j.i",-
+"Gi!op",-
+"GoeQB",+
+"il3",-
+
+// ground truth 
+repeatatleast(or(or(or(<m0>,<vow>),<cap>),<m1>),1)

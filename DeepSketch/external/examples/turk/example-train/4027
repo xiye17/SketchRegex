@@ -1,0 +1,21 @@
+// example 
+"uN_h?WNc+A",+
+";!R",-
+"1K~GV8(4j_=o/~"l",+
+"p=%i",-
+"6FC2nspE",+
+"adcRQ(Q",+
+"uk_hqC%AHTC~",+
+"Wd?UlC^/O|V@^~-",+
+"_",-
+"",-
+"4F",-
+"XD~3pk",-
+"a.DJRebTo",+
+"+B{T1PvTFm)",+
+"5:d]#",-
+"$kYGD5jS@w>3]",+
+"OkIhK+]qdCqE~J",+
+
+// ground truth 
+endwith(repeatatleast(<any>,7))

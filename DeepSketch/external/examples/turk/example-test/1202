@@ -1,0 +1,25 @@
+// example 
+"`{",-
+"n{+f'",-
+"Y",-
+"jy"q",+
+"3msH",-
+"3}f",+
+"6~M",-
+"3ms{",-
+"",-
+"fg",+
+"^~sFg",+
+"6~{",-
+"Qi?Qef",+
+"`H",-
+"3Qi",+
+"^~smd",+
+"jypr",+
+"+.n|{nu",+
+"+.n|{~b",+
+"n{+f}",-
+"Qi?Q}g",+
+
+// ground truth 
+concat(endwith(<any>),<low>)

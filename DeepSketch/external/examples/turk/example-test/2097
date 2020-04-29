@@ -1,0 +1,25 @@
+// example 
+"@`P",-
+"`q>",-
+"!!qnHPnMTn",+
+"!!qnHPnMTD",+
+"!y",-
+"GATR!Z!Q",+
+"BW2Z",-
+"l",-
+"",-
+"UrpzeG",+
+"f\E!@",-
+"GATR!Z!v",+
+"f%:af",-
+"!T",-
+"UWJre!!",+
+"BW!!",-
+"WgZo!!EGL",+
+"UWJre!Z",+
+"J",-
+"Urpze!",+
+"WgZo!!EG!",+
+
+// ground truth 
+repeatatleast(or(<let>,<m0>),6)

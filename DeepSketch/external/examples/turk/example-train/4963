@@ -1,0 +1,25 @@
+// example 
+"s",-
+"Ii",+
+"H|pOB&",+
+"IH",+
+"iab+",+
+"MI``",-
+"H|pOq;",+
+"DgD",-
+"Dgu",-
+"",-
+"MI`O",-
+"VE",-
+"log",+
+"i6aR",+
+"K",-
+"loB",+
+"e_aL.",+
+"Ve",-
+"e_af|",+
+"U~u|n",-
+"U~u|o",-
+
+// ground truth 
+contain(repeatatleast(concat(<vow>,<let>),1))

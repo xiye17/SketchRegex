@@ -1,0 +1,14 @@
+// example 
+"",+
+"y^",+
+"Vy[K",+
+"cAdF3p,;",+
+":@b9;Jhr#",+
+"c",+
+"tI$L[e<",+
+"=Z;",+
+"kuBqB",+
+"q4>Iy3",+
+
+// ground truth 
+endwith(contain(not(<num>)))

@@ -1,0 +1,17 @@
+// example 
+"8X",-
+"hq1",-
+"Z1G",+
+"_[",-
+"n7T",+
+"",-
+"~RLEY",-
+"X3-@",-
+"\4G",-
+"z",-
+"(yTq",-
+"[S[$b",-
+"B",-
+
+// ground truth 
+concat(<let>,concat(<num>,<cap>))

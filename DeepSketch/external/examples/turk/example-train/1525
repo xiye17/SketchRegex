@@ -1,0 +1,25 @@
+// example 
+"xQ;ViG",+
+"X)R=j",-
+"a2S",+
+"*o@)",-
+"L+FhB",+
+"L+F.R",+
+"xQ;VWQ",+
+"o+a",-
+"3`",-
+"X)R=+",-
+"",-
+"3-",-
+"H;M6jLI",+
+"-)XW",+
+":K",+
+"o+)",-
+"H;M6jpI",+
+"*o@g",-
+"-).U",+
+"K",-
+"aqD",+
+
+// ground truth 
+endwith(concat(<any>,<cap>))

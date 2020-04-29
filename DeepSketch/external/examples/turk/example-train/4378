@@ -1,0 +1,25 @@
+// example 
+"SKLJ!NI",+
+"K!SMP",+
+"!!",-
+"UN!G",+
+"!v",-
+"D!J",-
+"$Lrf",-
+"!Iz6P",-
+"SKLJ!N!",+
+"!",-
+"!T!C!G",+
+"",-
+"UN!!",+
+"!T!C!!",+
+"!I!:e",-
+"K!SM!",+
+"NUGBSP!V",+
+"NUGBSP!!",+
+"oZc,",-
+"x",-
+"}9~",-
+
+// ground truth 
+repeatatleast(or(<m0>,<cap>),4)

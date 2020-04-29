@@ -1,0 +1,25 @@
+// example 
+"r",-
+"\",-
+"crnrcojgfshfju",+
+"jbzkdlri",+
+"+j)",-
+"}rw$",-
+"mz",-
+"igozwl",+
+"iocubmyyofl",+
+"",-
+"enyaotegugnycxk",+
+"m}",-
+"yliulxytd",+
+"lzqatybvgehds",+
+"EPoFj",-
+"euwwrfk",+
+"{smt&",-
+"laczalzkelvb",+
+"hwzgaheshe",+
+"}N~",-
+"'AB]",-
+
+// ground truth 
+and(repeatatleast(<low>,6),contain(<any>))

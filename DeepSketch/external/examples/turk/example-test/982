@@ -1,0 +1,16 @@
+// example 
+"z6",-
+"Dy!",+
+"s",-
+"TV",-
+"9",-
+"wahA",-
+"gl(",-
+"Is/?[",-
+"Is!gf",-
+"",-
+"$@0",-
+",P2s",-
+
+// ground truth 
+concat(concat(<cap>,<any>),<m0>)

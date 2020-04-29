@@ -1,0 +1,17 @@
+// example 
+",4S-",-
+"+",-
+"2Eg",+
+"",-
+"j-@n",-
+"+wlsT",-
+"2EQ",+
+"8d",-
+"|TGJS",-
+"6z6",-
+"L",-
+")T",-
+"r!7",-
+
+// ground truth 
+concat(concat(<num>,<vow>),<let>)

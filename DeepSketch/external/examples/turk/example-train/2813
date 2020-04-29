@@ -1,0 +1,20 @@
+// example 
+"w9)]9.b",+
+"PNGcv34>ke2sViS",+
+"=KY~wm",+
+"FcgC)N;V9BB",+
+"Ta(H_xq2n`?r",+
+"",-
+"d%AL=9G\3T",+
+"{qm7SwLT=",+
+"dFF",-
+"9+",-
+":P[?",-
+"uq0xN",-
+"0wFGe%GW",+
+"w",-
+"ZXLu'l>ynpx;,",+
+"Y|U>\ypL#(A]&j",+
+
+// ground truth 
+repeatatleast(or(<any>,<let>),6)

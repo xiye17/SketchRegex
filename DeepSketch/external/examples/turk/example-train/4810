@@ -1,0 +1,23 @@
+// example 
+"BT",-
+"D6D9J1P7W4E4",+
+"izrG1",-
+"Y3E9Z5B9N0E0U9L4",+
+"g^V",-
+"R,Fd",-
+"",-
+"`@7K",-
+"kf",-
+"A0T9F1N7L4W3I7",+
+"O7D6P9",+
+"E7O8T9T5F6",+
+"N4J1U1T3V4Z3V4U0X8",+
+"@iJ",-
+"K",-
+"W5A8N8H8",+
+"Q7U8Z5K6P5X0B5K2V8B6",+
+"B["H1",-
+"~",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<num>),3)

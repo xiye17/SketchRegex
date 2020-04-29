@@ -1,0 +1,25 @@
+// example 
+"O@jT",-
+"cF`",-
+"k2",-
+"Ovy|",-
+"h@2R0",-
+"5",-
+"[W",-
+"}^^O=",-
+"W",+
+"ZqfxE",+
+"xI",+
+"",+
+"gqM",+
+"e",+
+"MqZi",+
+"MqZC",+
+"cF}",-
+"gqu",+
+"Zqfxa",+
+"xd",+
+"~",-
+
+// ground truth 
+star(or(and(<num>,<m0>),<let>))

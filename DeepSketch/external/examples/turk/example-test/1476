@@ -1,0 +1,14 @@
+// example 
+"",+
+"E",+
+"gi}6",+
+"=X#4;&",+
+"x;ZYzF^",+
+"ouc+fw}ul",+
+"0x*Qw",+
+"lMC",+
+"@R",+
+";\aKx@+W",+
+
+// ground truth 
+star(or(<any>,concat(<m0>,<m1>)))

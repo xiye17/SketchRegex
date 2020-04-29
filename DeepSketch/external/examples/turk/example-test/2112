@@ -1,0 +1,21 @@
+// example 
+"Xgv!X-?AmC@",+
+"MWnhOy.+V*^}",+
+"qs5]A|)i<g405ku",+
+"@[ip3Za",+
+"5",-
+"Ly\;o45!4|+a>^",+
+"~A9!1,6C?iT8jk&;",+
+"*W",-
+"!j06q6&_",+
+"NO9S~",-
+"",-
+"$}|i*~^Ku-9.Y",+
+"zB@",-
+"\a83P,T+[",+
+"),0(",-
+"\<8&Y=",-
+"]8`@kH%4$"",+
+
+// ground truth 
+startwith(repeatatleast(<any>,7))

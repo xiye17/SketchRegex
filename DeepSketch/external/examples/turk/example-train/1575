@@ -1,0 +1,25 @@
+// example 
+"L`H",+
+"L`v",+
+"Oh_`A",+
+"r*by",-
+"Ma",+
+"n\C",-
+"R_\qoJ",+
+"$,w>d",-
+"",-
+"&",-
+"O\_P",+
+"$}",-
+"i",-
+"Ap~",-
+"Gue[}",-
+"6"\M",-
+"O\_u",+
+"R_\qof",+
+"}}",-
+"MU",+
+"Oh_`t",+
+
+// ground truth 
+concat(<cap>,endwith(<let>))

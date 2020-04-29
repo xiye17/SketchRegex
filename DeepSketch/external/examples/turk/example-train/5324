@@ -1,0 +1,17 @@
+// example 
+"I;M",+
+"i@",+
+"Uw68d",+
+"e",-
+""Xl",+
+"",+
+"g0",+
+"j.(Z",+
+"^]Ze",+
+"O",-
+"v",+
+"K",+
+"ya6[7",+
+
+// ground truth 
+not(and(or(<m0>,<vow>),<let>))

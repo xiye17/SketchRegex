@@ -1,0 +1,17 @@
+// example 
+"lA^9",-
+"|$6Qj",-
+""",-
+"",-
+"^gh",-
+"sI",+
+"KM",-
+"s!",+
+"GwK2H",-
+"y",-
+"hK",-
+"phO",-
+"}=E6",-
+
+// ground truth 
+concat(<low>,or(<m0>,<vow>))

@@ -1,0 +1,17 @@
+// example 
+"H;aY",-
+"Un",+
+"HCo&",-
+"<"hQS",-
+"UZ",+
+"X",-
+"",-
+";",-
+"~*",-
+"[p2*F",-
+"2_i",-
+""u:",-
+"==",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<num>),<let>)

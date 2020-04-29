@@ -1,0 +1,25 @@
+// example 
+"Ee",+
+"\",-
+"EuCDD",-
+"U0ad",-
+"o",+
+"Qd",-
+"EuCD^",-
+"EI",+
+"U0aP",-
+"~Eu",+
+"",-
+"Amy",-
+"hmzU",+
+"i",+
+"AmG",-
+"uEPEU",+
+"hmze",+
+"J",-
+"QY",-
+"uEPEA",+
+"~EU",+
+
+// ground truth 
+concat(star(<any>),<vow>)

@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"O!>!k",-
+"o![",-
+"k",-
+"",-
+"cLv",-
+"f",-
+"A!",+
+"Ay",-
+"E:1}",-
+"O^",-
+"OQ'?"",-
+"W7w~",-
+
+// ground truth 
+and(startwith(<let>),concat(<vow>,<m0>))

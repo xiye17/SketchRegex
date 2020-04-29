@@ -1,0 +1,25 @@
+// example 
+"<eG",-
+"qbZ6kbg",+
+"L5IDmC2XVq8",+
+"TN^?0",-
+"L5IDmC2XVqm",+
+"",-
+"}*_",-
+"QjkGecm08u",+
+"8M",-
+"tl7go4q1",+
+"8A5mv7g4R",+
+"QjkGecm086",+
+"8A5mv7g4e",+
+"Xeg~",-
+"8]",-
+"qbZ6kb5",+
+"TN&49",-
+"Xe@:",-
+"tl7go4qP",+
+"{",-
+"D",-
+
+// ground truth 
+repeatatleast(or(<let>,<num>),7)

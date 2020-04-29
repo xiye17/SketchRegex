@@ -1,0 +1,15 @@
+// example 
+"",+
+"jTG",+
+"Gj",-
+"7",+
+"q45~K",+
+"jss",+
+"8Q",+
+"8~",+
+"*~xO",+
+"*NZ;",+
+"qat}L",+
+
+// ground truth 
+not(concat(<any>,<low>))

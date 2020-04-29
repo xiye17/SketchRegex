@@ -1,0 +1,24 @@
+// example 
+"/p0k!",-
+"!ftMK82uN",+
+"!81wDb$/Vz$",+
+"!",-
+"Lb",-
+"BPh/!pD@",-
+"!0(p",+
+"!6hZ9"npER",+
+"",-
+"tXg",-
+"!L?"e$cH",+
+"!CZ",+
+"!:Ro"",+
+"!Fc#Vp",+
+",Xu%ek",-
+"|(?n1g^",-
+"Cb}@",-
+"!.{DPG)",+
+"!,",+
+"E",-
+
+// ground truth 
+concat(startwith(<m0>),<any>)

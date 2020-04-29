@@ -1,0 +1,25 @@
+// example 
+"E",+
+"kTr",-
+"Y",-
+"V|jQ}",-
+"o",+
+"n",-
+"{HfA",+
+"",-
+"%C",-
+"(i&;m",+
+"kT{",-
+"%v",-
+"L1zJ",-
+"{I4D",+
+"V|jQD",-
+"L1z\",-
+"IZ",+
+"i5o",+
+"oh#",+
+"uN",+
+"(eR)z",+
+
+// ground truth 
+contain(and(and(<let>,<any>),<vow>))

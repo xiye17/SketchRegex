@@ -1,0 +1,15 @@
+// example 
+"^K;;3",+
+"rjS@Jl\",+
+"U",+
+"4]",+
+"{lN",+
+"UqLI",+
+"ppZ_mU",+
+"R##|(@(*",+
+"$Dje0D0~"",+
+"}Ow1sVv^df",+
+"",-
+
+// ground truth 
+or(repeatatleast(<m0>,2),endwith(<any>))

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"o",+
+"J`*",-
+"A^L#",+
+"Han",-
+"Se",-
+"A"1B9",+
+"",-
+"HvuV",-
+"Iiw",+
+"US>BB",+
+";",-
+"O#86",+
+"Og'",+
+"aC&q\`",+
+"HvFl$",-
+"dX|"X",-
+"j.ZW",-
+"Ac",-
+"u",+
+"I6^2e"",+
+
+// ground truth 
+concat(<vow>,not(<any>))

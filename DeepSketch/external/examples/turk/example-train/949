@@ -1,0 +1,17 @@
+// example 
+"Iu=",+
+"E?7",+
+"C}",+
+"_S",+
+"",+
+"N6wl",+
+"Ebusu",+
+"N",+
+"P"$3\",+
+"A",-
+"XU>y",+
+"|",+
+"E",-
+
+// ground truth 
+not(or(or(<m0>,<vow>),<low>))

@@ -1,0 +1,14 @@
+// example 
+"",+
+"E8"<fV@ET",+
+",aU",+
+"J'e)Q4N-",+
+"z/6,",+
+"XoSYkxY",+
+"`F'gTe",+
+"u",+
+"JZdAm",+
+"^6",+
+
+// ground truth 
+startwith(contain(not(<let>)))

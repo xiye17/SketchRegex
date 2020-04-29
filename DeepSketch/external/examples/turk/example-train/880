@@ -1,0 +1,25 @@
+// example 
+"!U!S!W!E",+
+"!Q!L!G!I!R!A!E!Q!K!J",+
+"!:)P?",-
+"!G!Y!D!B!K!D!G",+
+"!u",-
+"!C!W!L!K!F!W!S!J!L",+
+"!D",+
+"!",-
+"!U!V",+
+"!pY",-
+"!P!V!O!Z!N",+
+"",-
+"!F!H!Y",+
+"!P!U!F!X!P!Y",+
+"!G!W!P!P!R!C!G!P",+
+"e]D",-
+"!'",-
+"!h*XX",-
+"O",-
+"!N!s",-
+"!N!&",-
+
+// ground truth 
+repeatatleast(concat(<m0>,<cap>),1)

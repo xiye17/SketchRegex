@@ -1,0 +1,15 @@
+// example 
+"|a8ya",-
+"|}#:+",-
+"3{",-
+"Xb9",+
+")|C",-
+")H+",-
+"{",-
+"",-
+"3.",-
+"jd)D",-
+"jd6K",-
+
+// ground truth 
+concat(<any>,concat(<low>,<num>))

@@ -1,0 +1,17 @@
+// example 
+"F1",+
+"o",-
+"7^[k#",-
+"u*g",-
+"",-
+"t1*k^",-
+"a5I<",-
+"h>",-
+"u5",+
+".;K",-
+"op",-
+"aeLr",-
+"v",-
+
+// ground truth 
+concat(or(<cap>,<vow>),<num>)

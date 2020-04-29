@@ -1,0 +1,23 @@
+// example 
+"a#.G",-
+"e2A7U7O7i6o7E4I9o1",+
+"e1I3E3O7I2a7o8O5",+
+"i2a8e5I4O5O5o6",+
+"A5I2U",-
+"I7_",-
+"#",-
+"i2a8e5I4O5O5i6",+
+"",-
+"A5IMO",-
+"b",-
+"E0e6A4E7o6e8I8u5E3O1",+
+"I.y",-
+"EX",-
+"E6",-
+"aWI+",-
+"e2A7U7O7i6o7E4I9e9",+
+"e1I3E3O7I2a7o8U7",+
+"E0e6A4E7o6e8I8u5E3A7",+
+
+// ground truth 
+repeatatleast(concat(<vow>,<num>),7)

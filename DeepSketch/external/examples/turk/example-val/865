@@ -1,0 +1,25 @@
+// example 
+"UZ",-
+"ievK",-
+"ii",+
+"euag",+
+"uIAIu",+
+"p.",-
+"euaa",+
+"ieqS",-
+"",-
+"I~S}$",-
+"f",+
+"Hdp",-
+"eAe",+
+"O",-
+"U",-
+"u",+
+"ih",+
+"uIAIf",+
+"k_y",-
+"eAu",+
+"IojL8",-
+
+// ground truth 
+concat(star(<vow>),<low>)

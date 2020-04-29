@@ -1,0 +1,25 @@
+// example 
+"E2k8x1y7D5w7s0",+
+"G",-
+"r6|",-
+"m0uF",-
+"m0^e",-
+"h8V2M9Q4x6I3n5a7",+
+")w<k8",-
+"q8u9V7y2s4",+
+"#",-
+"|]65a",-
+"",-
+"m2t3I1k9f1T2",+
+"h8V2M9Q4x6I3n5T9",+
+"r(i",-
+"P"",-
+"f7a0p6r5V0m9A0h8I9",+
+"m2t3I1k9f1n0",+
+"q8u9V7y2Y5",+
+"f7a0p6r5V0m9A0h8e1",+
+"P>",-
+"E2k8x1y7D5w7Q2",+
+
+// ground truth 
+repeatatleast(concat(<let>,<num>),5)

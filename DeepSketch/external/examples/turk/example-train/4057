@@ -1,0 +1,25 @@
+// example 
+"Vq#",-
+"OE8OoE",+
+"o",-
+"e0OY",-
+"be",-
+"kUV",-
+"O97uOUe",+
+"|0?`~",-
+"O97uOU2",+
+"",-
+"AIuo1",+
+"e0OQ",-
+"uoiI",+
+"9ioUaOu7",+
+"AIuoI",+
+"uoi6",+
+"OE8OoU",+
+"O",-
+"9ioUaOui",+
+"o'",-
+"AuDGG",-
+
+// ground truth 
+repeatatleast(or(<vow>,<num>),4)

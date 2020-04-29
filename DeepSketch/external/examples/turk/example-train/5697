@@ -1,0 +1,24 @@
+// example 
+"]OJu",+
+"0Avbuu",+
+"Wei",+
+"PaOcg",-
+"ycCq",-
+"Qa",+
+"^kJ",-
+"}icnA",+
+"Wee",+
+"PaOcN",-
+"",-
+"0Avbua",+
+"^kD",-
+"Qu",+
+"ycCQ",-
+"#3",-
+"}icnU",+
+"]OJA",+
+"#b",-
+"B",-
+
+// ground truth 
+concat(repeatatleast(<any>,1),<vow>)

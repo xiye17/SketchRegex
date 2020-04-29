@@ -1,0 +1,15 @@
+// example 
+"",+
+"5#n}",+
+"=[8M-d2D",+
+"3k",+
+"00;",+
+"e>I7Ih",+
+"\BtMz;.dig",+
+"v",-
+"YfJiq\B",+
+"OxeL-+"_C",+
+"$f38`",+
+
+// ground truth 
+not(or(<any>,<cap>))

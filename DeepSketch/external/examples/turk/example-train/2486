@@ -1,0 +1,14 @@
+// example 
+"",+
+"g",+
+"vD",+
+"#J~",+
+"L7]v',"@",+
+"eV.+",+
+"HXdm\",+
+"YqNLtd",+
+"JixaI*!P*",+
+".Que5(G",+
+
+// ground truth 
+not(and(and(<num>,<cap>),<m0>))

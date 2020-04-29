@@ -1,0 +1,25 @@
+// example 
+"I!e!O!",+
+"+Tj",-
+"Q'tL",-
+"C"V",-
+"U!e!i!o!",+
+"BT",-
+"I!e!E!",+
+"e9",-
+"B@b.",-
+"o!U!",+
+"u!A!U",-
+"",+
+"U!",+
+"E!a!a!A!I!",+
+"E!a!a!A!u!",+
+"i",-
+"a!",+
+"uy-!)",-
+"o!i!",+
+"U!e!i!A!",+
+"B",-
+
+// ground truth 
+star(concat(<vow>,<m0>))

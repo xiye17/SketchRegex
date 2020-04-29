@@ -1,0 +1,18 @@
+// examples
+"aaaa",+
+"bbbb",+
+"!!!!",+
+"!!!!!",+
+"bbbbb",+
+"aaaaa",+
+"bbbbb12",+
+"",-
+" ",-
+"!",-
+"!!",-
+"!!!",-
+"abc",-
+"ab",-
+
+// ground truth 
+repeatatleast(or(startwith(<low>),<m0>),4)

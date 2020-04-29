@@ -1,0 +1,26 @@
+// example 
+"}{{-",-
+"{c>v]PAQ",+
+"x;PX",+
+"~{",-
+"r%T",-
+"{*p*FA",+
+"HePV",+
+"",-
+"f-xv?YZ",+
+""{1^{",-
+"hP:GZ",+
+"f",-
+"vSI",+
+""{1^6",-
+"hPQVZ",+
+"}{{i",-
+"{c>v]&LZ",+
+"{*pcXH",+
+"~b",-
+"r%;",-
+"f-xvUIG",+
+"{",-
+
+// ground truth 
+concat(contain(<low>),repeatatleast(<cap>,2))

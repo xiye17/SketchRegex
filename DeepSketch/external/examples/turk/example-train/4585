@@ -1,0 +1,16 @@
+// example 
+"Z7:",-
+"?[AG",-
+"V5APk",-
+"V!^z0",-
+"HN",-
+"?!o^",-
+"e!H".K",-
+"e8g5wU",-
+"Z!}",-
+"",-
+")",-
+"J!",+
+
+// ground truth 
+concat(or(or(<low>,<any>),<vow>),<m0>)

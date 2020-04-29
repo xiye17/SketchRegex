@@ -1,0 +1,19 @@
+// example 
+"o",-
+"{}$",-
+"ok4"",-
+"",-
+"Fc\yM",-
+"s0o5y1d1g5w7m3o6t1x2",+
+"g6v3y9z7v9s8s6w4b6",+
+"E_",-
+"o/g:",-
+"d8c9k7g9d9j1r8m0",+
+"~+",-
+"E-5",-
+"e2m9w0s2f3g7i2",+
+"~",-
+"{mIKm",-
+
+// ground truth 
+repeatatleast(concat(<low>,<num>),7)

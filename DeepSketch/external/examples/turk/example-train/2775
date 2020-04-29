@@ -1,0 +1,25 @@
+// example 
+"D",+
+"MJ",+
+"<g/`.",-
+"/",-
+"@_.<",-
+"FFCHGUWU",+
+"NUBV",+
+"!BD",-
+"AJXUNDR",+
+"DQLVQJHOV",+
+"SZZGR",+
+"",-
+"#[",-
+"<",-
+"5",+
+"/Xe;N",-
+"TIJRFC",+
+"6oY",-
+"GPV",+
+"$z&;",-
+";@",-
+
+// ground truth 
+or(<num>,repeatatleast(<cap>,1))

@@ -1,0 +1,17 @@
+// example 
+"qPZ?",-
+"@0Di",-
+"pq",-
+"@d",-
+"!",+
+"",-
+"dDR",-
+";",-
+"@L{Ok",-
+"A",-
+"@}W<7",-
+"@I",+
+"!YM",-
+
+// ground truth 
+or(<m0>,concat(<m1>,<cap>))

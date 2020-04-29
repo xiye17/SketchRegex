@@ -1,0 +1,15 @@
+// example 
+"tv",+
+"Q&,g{`",+
+"zsB&",+
+"j",+
+"SK%Dh8WH[",+
+"1R;",+
+"*h137",+
+"rY=ADgtCTS",+
+"r+p=AV7K",+
+"zh0a*f0",+
+"",-
+
+// ground truth 
+contain(or(<any>,<m0>))

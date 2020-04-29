@@ -1,0 +1,25 @@
+// example 
+")}2",-
+"}E>",-
+"3",+
+"5s`62",+
+"XNRv",-
+",",-
+"!",+
+"!5b",+
+"",-
+".P",-
+";KC!k",-
+"0g",+
+"+vL9",-
+"6w^:",+
+"!IrAu",+
+"*aE@o",-
+"j",-
+"!V",+
+"re",-
+"2m~",+
+"!Dc\",+
+
+// ground truth 
+startwith(or(repeatatleast(<num>,1),<m0>))

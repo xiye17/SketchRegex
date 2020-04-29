@@ -1,0 +1,25 @@
+// example 
+"7c}p",-
+"{oc,I",-
+"v5lu22sb",+
+"v5lu22s4",+
+"7)`N",-
+"iv40er",+
+"g6ktp",+
+"8o73k1h",+
+"tJI",-
+"4jf1hxys4",+
+"",-
+"&",-
+"iv40e9",+
+"q0",-
+"4jf1hxysn",+
+"g6kt6",+
+"R",-
+"q,",-
+"1{5wm",-
+"8o73k16",+
+"t-s",-
+
+// ground truth 
+repeatatleast(or(<low>,<num>),5)

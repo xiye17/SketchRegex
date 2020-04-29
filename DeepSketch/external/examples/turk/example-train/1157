@@ -1,0 +1,17 @@
+// example 
+",>",-
+"!",-
+"lXiEHD:",+
+"tlDBJ)2M&F"",+
+"",-
+"hufY?;u$;q^j",+
+"!jq",+
+"$9R}",+
+"lMod|^",+
+"tR7U+&+);",+
+"h8^"H",+
+"YbN4m/rQ",+
+"fX$4ryB_7G",+
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),3)

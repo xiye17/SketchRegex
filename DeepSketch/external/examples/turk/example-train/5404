@@ -1,0 +1,25 @@
+// example 
+"^5",-
+"|$5[R",-
+"]",-
+"JLGfKo",+
+"WtIWKAE",+
+"KahQerAE",+
+"{5",-
+"JLGfKW",+
+"LEPG",+
+"",-
+"'",-
+"aP``",-
+"LEPn",+
+"fuTOZ",+
+"]00!8",-
+"KahQerAe",+
+"fuTOy",+
+"6BM",-
+"a4i}",-
+"_tS",-
+"WtIWKAv",+
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),4)

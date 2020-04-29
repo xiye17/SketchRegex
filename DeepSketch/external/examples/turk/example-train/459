@@ -1,0 +1,24 @@
+// example 
+"!CWB",+
+"`#",-
+"!=a0;6",+
+"!_tD?y'w",+
+"!e<Cv",+
+"Nu##%",-
+"!R#",+
+"!z",+
+"%PtT&m:BM",-
+"!",+
+"|?m",-
+"!L3WJ`>@Fd",+
+"",-
+"c",-
+"Xz^]3Yil",-
+"P\Jh<F",-
+"!E<YQUQ",+
+"!oONbwDL7",+
+"yDl[""g",-
+"c;-O",-
+
+// ground truth 
+or(startwith(<m0>),and(<m1>,<cap>))

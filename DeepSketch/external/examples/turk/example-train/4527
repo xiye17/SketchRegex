@@ -1,0 +1,15 @@
+// example 
+"D",+
+"9[S",+
+"5G)nPN",+
+"lEN7lJ*}",+
+"4v[A`",+
+"dhblrPFU-p",+
+"'"}:a,>d*",+
+"7a",+
+"*A659[k",+
+"T+HR",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<m0>),<cap>))

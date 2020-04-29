@@ -1,0 +1,25 @@
+// example 
+"Gu\",-
+"auuoa",+
+"oGi",+
+"+",-
+"ug",-
+"",-
+"Fa",+
+"oGE",+
+"uc",-
+"pN3k",-
+"pzVju",-
+"]=JE",-
+"euoM",+
+"N",+
+"FS",+
+"u",+
+"{_zeI",-
+"auuoi",+
+"Gt"",-
+"euou",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<cap>,<vow>),1)

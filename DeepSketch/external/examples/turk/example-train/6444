@@ -1,0 +1,17 @@
+// example 
+"W!O",+
+"t",-
+"W!u",+
+"F:2",-
+"W",-
+"",-
+"K7u$",-
+"QEkcN",-
+"F!{",-
+"4WB9",-
+"2&",-
+"gb",-
+"]V<^O",-
+
+// ground truth 
+concat(<let>,concat(<m0>,<vow>))

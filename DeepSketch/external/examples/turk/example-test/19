@@ -1,0 +1,17 @@
+// example 
+"!AANs",-
+"Fq",-
+"!Alg",-
+"?,2s",-
+"!",-
+"!O",+
+"",-
+"!D[p}",-
+"S",-
+"!q",-
+"!E/",-
+"!a",+
+"fx+",-
+
+// ground truth 
+concat(<m0>,or(<m1>,<vow>))

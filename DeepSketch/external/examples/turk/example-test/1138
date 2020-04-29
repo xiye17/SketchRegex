@@ -1,0 +1,25 @@
+// example 
+"tUfumilImO",+
+"{M",-
+"faF3",-
+"g=\",-
+"fa{b",-
+"bOeofAde",+
+"xuuEso",+
+"zD",-
+"tuwe",+
+"",-
+"c",-
+"tuwa",+
+"xuuEsu",+
+"gG<",-
+"cIwibAcOmEgE",+
+"cIwibAcOmEgI",+
+"qIluw",-
+"qI{%e",-
+"bOeofAdO",+
+"tUfumilIma",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<low>,<vow>),2)

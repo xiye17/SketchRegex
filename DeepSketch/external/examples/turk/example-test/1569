@@ -1,0 +1,25 @@
+// example 
+"0",-
+";z$h`",-
+"27@g,7*#rlFg1_N",+
+"0U6|O,wkJhK",+
+"8F"oAcp",+
+"io",-
+"+{",-
+"SDt",-
+"",-
+"2QW",-
+"1xZ'6e)e2gNT7",+
+"85f1",-
+"9dQOkT'+M",+
+"2:^M.h^|b\S,",+
+"LEP)",-
+"3Eu1_+|=o`.$R3",+
+"M",-
+"4x?5/{8o",+
+"9*<:b92i_0",+
+"1ryBd(\S3Lp1bx*f",+
+"1T\_;",-
+
+// ground truth 
+concat(<num>,repeatatleast(<any>,6))

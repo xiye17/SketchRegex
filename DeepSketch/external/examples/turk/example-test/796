@@ -1,0 +1,17 @@
+// example 
+"e!",+
+"e]{",-
+"u2",-
+"u^Zx",-
+"!",-
+"",-
+"O!T3m",-
+"u!,c",-
+"(G",-
+"I",-
+"vhC",-
+"o!",+
+"fH<v#",-
+
+// ground truth 
+and(startwith(<vow>),concat(<let>,<m0>))

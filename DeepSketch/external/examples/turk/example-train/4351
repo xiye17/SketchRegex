@@ -1,0 +1,25 @@
+// example 
+"/",+
+"Jlp",+
+"C+I2",+
+"EWIVALTMG",-
+"NLPPPOEXXEE",-
+"q:",+
+"AHEEIRGCNAGXW",-
+"QWVZK",-
+"IPUMKVV",-
+"",+
+"FQMCQB",-
+"NHTAESXV",-
+"<#R",+
+"-^_am",+
+"K",+
+"XWUM",-
+"LVIPUSOALD",-
+"SM",+
+"POAVMTMFUMHL",-
+"5:fM",+
+"c"3\?",+
+
+// ground truth 
+not(repeatatleast(<cap>,4))

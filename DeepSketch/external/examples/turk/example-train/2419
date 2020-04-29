@@ -1,0 +1,15 @@
+// example 
+"f6U*",+
+"`Md$1",+
+"JpI+}As+",+
+"s",+
+"l-Ew9f|",+
+"cSu",+
+"ws",+
+"d`+IkT",+
+"Dr7]$uC[a#",+
+"r&}F"I%dC",+
+"",-
+
+// ground truth 
+contain(or(or(<any>,<low>),<vow>))

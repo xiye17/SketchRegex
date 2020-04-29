@@ -1,0 +1,23 @@
+// example 
+"R5SuBbVHI%",+
+"KNG_P7Vq",+
+"/",-
+"yy",-
+"S2BX",-
+"S2*\",-
+"V;Tqd",-
+"<bk",-
+";$",-
+"",-
+"jqM",-
+"E;Y'Y7Z/W%VSNx",+
+"Z7FEQZSRI?DqW5Gd",+
+"V;oHI",-
+"SeByQ4",+
+"CrF3WmI^V|Hr",+
+"P@U4ORZQJTWBONJ-T"U,",+
+"XOXGC8D(W5CnIJDmY~",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<cap>,<any>),3)

@@ -1,0 +1,17 @@
+// example 
+"U]",-
+",",-
+"pH_",-
+"^2p<",-
+"",-
+",=A]c",-
+"A2Z",-
+"A!",+
+"ast@*",-
+"O!HZ",-
+"A:",-
+"i!",+
+"E",-
+
+// ground truth 
+concat(or(<num>,<vow>),<m0>)

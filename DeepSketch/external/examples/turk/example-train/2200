@@ -1,0 +1,25 @@
+// example 
+"};",-
+"E"\i7",-
+"|Ku5",-
+"wG+ys_8gOM",+
+"3",-
+"+\Xq",-
+"{@SQ|",-
+"lL8[k(hL!|^",+
+"h,0+9",+
+"",-
+"mM1j",+
+"|",-
+"81j",-
+"h",+
+"lZH@PHRU",+
+"R{",-
+"sr-",+
+"h).v@"",+
+"|;d",-
+"gj;Mob{",+
+"n@F_T4JiE",+
+
+// ground truth 
+concat(<low>,not(or(<let>,<any>)))

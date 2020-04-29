@@ -1,0 +1,17 @@
+// example 
+"\",-
+"\S&",-
+";r:x",-
+"3jvHS",-
+",|g",-
+"Be",+
+"ER.9,",-
+"",-
+"Bi",+
+"g",-
+"2g",-
+"_=",-
+"~r>0",-
+
+// ground truth 
+concat(or(<low>,<cap>),<vow>)

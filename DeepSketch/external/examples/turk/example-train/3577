@@ -1,0 +1,25 @@
+// example 
+"uxc",+
+"exUNMej",+
+"Y",-
+"^.7V)",-
+"v~.z",-
+"uJg",+
+"WjmRPy",+
+"",-
+"9!",-
+"}oNms",-
+"^^y",-
+"j",-
+"\s:[",-
+"JZrm",+
+"JZYw",+
+"yxJzi",+
+"yxJEz",+
+"WjmRsv",+
+"z^",-
+"exUNMJg",+
+"YP^",-
+
+// ground truth 
+concat(repeatatleast(<let>,2),<low>)

@@ -1,0 +1,25 @@
+// example 
+"!NWx",-
+"!SS!J!!",+
+"S!!",-
+"oC[",-
+"!",-
+"",-
+"!!!HB!",+
+"o>yUC",-
+"!!YAEZS!",+
+"SL",-
+"!!!HBC",+
+"!SS!J!S",+
+"KLEWJX!!!",+
+"KLEWJX!!M",+
+"W!!!C!!!NH",+
+"9",-
+"W!!!C!!!N!",+
+"/$MDr",-
+"!NW<",-
+"$>",-
+"!!YAEZSJ",+
+
+// ground truth 
+repeatatleast(or(<cap>,<m0>),6)

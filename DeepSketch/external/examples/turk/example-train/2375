@@ -1,0 +1,25 @@
+// example 
+"SAWMLBWWXLu",+
+"SAWMLBWWXLD",+
+"WCUIPWHVR",+
+"X!*e",-
+"JhIbt",-
+"UVFTNCQq",+
+"FDNIFHRSZWYb",+
+"",-
+"UVFTNCQ/",+
+"KOJHRURHVu",+
+"@a*u\",-
+"~\K",-
+"9",-
+"\m",-
+"FDNIFHRSZWYC",+
+"X^yX",-
+"KOJHRURHVM",+
+"C",-
+"$B",-
+"WCUIPWHVd",+
+"FOU",-
+
+// ground truth 
+concat(repeatatleast(<cap>,7),<any>)

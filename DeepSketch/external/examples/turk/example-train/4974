@@ -1,0 +1,24 @@
+// example 
+"m]zRU",+
+"h@eeaH",-
+"%Upw1hCe",+
+",0,QUe",+
+"%Upw1hCi",+
+"^0",-
+"*",-
+"7fRgQ",-
+"7fRg|",-
+"}:_o",+
+"J~2oofi",+
+"Urm",-
+"",-
+"yCPX",-
+"J~2oofU",+
+"yCP(",-
+",0,QUA",+
+"h@eeaP",-
+"}:_E",+
+"m]zRe",+
+
+// ground truth 
+concat(repeatatleast(<any>,3),<vow>)

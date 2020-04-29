@@ -1,0 +1,15 @@
+// example 
+"M@9\8gv5^",-
+"9",+
+"2uUX",-
+"6Ze0<9\z]w",-
+"$1{~~",-
+"Gex[2q",-
+"qy!sjOfZ",-
+"Al",-
+"$DAfk':",-
+"",-
+"3,)",-
+
+// ground truth 
+or(or(<num>,<any>),<let>)

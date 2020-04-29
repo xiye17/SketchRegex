@@ -1,0 +1,23 @@
+// example 
+"hAhMcFzSqJaAmg",+
+"s",-
+"G",-
+":l=|",-
+"ev~p",-
+"|E8",-
+".99",-
+"t]",-
+"(gz$&",-
+"vebhktalpohrvQiU",+
+"tN",-
+"",-
+"hAhMcFzSqJaAmZ",+
+"aedPvdxxbBxphLiZhO",+
+"{DMZ2",-
+"oDlonenZrTyldwuYgWwF",+
+"vebhktalpohrvQin",+
+"oDlonenZrTyldwuYgWwq",+
+"aedPvdxxbBxphLiZha",+
+
+// ground truth 
+repeatatleast(concat(<low>,<let>),7)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"0S",+
+"^-aue)0C",+
+"$DQ_UpGzO",+
+"+^P)3b",+
+"N!!37",+
+"#%*5w<N",+
+"mQ{",+
+"C",+
+"+*)P",+
+
+// ground truth 
+not(and(<m0>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"F",-
+"zl",-
+"MIbMd3",+
+"5%#<",-
+"Ay{Da",+
+"Eu",+
+"VbOI",+
+"VbOE",+
+"Ay{DO",+
+"",-
+"Eo",+
+"5%#B",-
+"j",-
+"]mE",-
+"{G)1r",-
+"{G)1Q",-
+"JRE",+
+"JRI",+
+"ME<:Fz",+
+"z)",-
+"]m5",-
+
+// ground truth 
+contain(concat(<cap>,<vow>))

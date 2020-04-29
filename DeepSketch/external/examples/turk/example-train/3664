@@ -1,0 +1,25 @@
+// example 
+"je}t",+
+"Ct0{~",-
+"*gd",+
+"5P8/q",+
+"/uc~~{f",+
+"iY{",-
+"/uc~~ws",+
+"L|}{",-
+"5P8ku",+
+"L|}5",-
+"",-
+"Ct0{-",-
+")}Vzzu",+
+"c|",-
+"_h",+
+"c9",-
+"?",-
+"*}n",+
+")}Vz}b",+
+"je9e",+
+"iY5",-
+
+// ground truth 
+and(not(<let>),endwith(<low>))

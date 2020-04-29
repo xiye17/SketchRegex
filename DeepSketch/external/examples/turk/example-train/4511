@@ -1,0 +1,17 @@
+// example 
+".F^")",-
+"NE",+
+"m",-
+"^b<F~",-
+"iod",-
+"",-
+"O0",-
+"NI",+
+"!4#1",-
+"q'8F",-
+"%2Z",-
+"OR",-
+"D",-
+
+// ground truth 
+concat(<cap>,or(<vow>,<low>))

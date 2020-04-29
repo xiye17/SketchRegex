@@ -1,0 +1,25 @@
+// example 
+"_"xW",-
+"EFT",-
+"dYMXdko!",+
+"BnrgNDhy!",+
+"dYMXdkA!",+
+"cU&^",-
+"m",-
+"|`"Bj",-
+"XLWUbCQvM!",+
+"XLWUbCQvi!",+
+"!Mv",-
+"",-
+"lpCXEnnrobb!",+
+"V_",-
+"YBLrhlOhRr!",+
+"Vl",-
+"BnrgNDhV!",+
+"4ad2"",-
+"lpCXEnnrobS!",+
+"YBLrhlOhRE!",+
+"~",-
+
+// ground truth 
+concat(repeatatleast(<let>,7),<m0>)

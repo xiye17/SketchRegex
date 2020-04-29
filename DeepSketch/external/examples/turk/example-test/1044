@@ -1,0 +1,25 @@
+// example 
+"S%",-
+""u],",-
+"IG",+
+"#IX",+
+"|}|",-
+"",-
+"_>*\nT",+
+":D;k~",-
+"|}G",-
+"Ia",+
+"S{bP",+
+"f\mv\",+
+"8",-
+""u]|",-
+"S{bf",+
+"S^",-
+"_>*\np",+
+":D;k[",-
+"w",-
+"#Il",+
+"f\mL_",+
+
+// ground truth 
+contain(endwith(repeatatleast(<let>,2)))

@@ -1,0 +1,17 @@
+// example 
+"U@",+
+"u",-
+"L#a5d",-
+"",-
+"DRC",-
+"o@",+
+"R$<$",-
+"A}J",-
+"is",-
+"o<I{",-
+"o3JiJ",-
+"i)",-
+"E",-
+
+// ground truth 
+concat(or(<vow>,<m0>),<m1>)

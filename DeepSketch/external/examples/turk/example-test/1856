@@ -1,0 +1,17 @@
+// example 
+"r",-
+"S^a",-
+"Up",+
+"IT",+
+"K.1Vw",-
+"_",-
+"bl",-
+"",-
+"*3",-
+"Ic8",-
+"e[CFQ",-
+"{2&2",-
+"kWKi",-
+
+// ground truth 
+concat(<vow>,or(or(<m0>,<any>),<m1>))

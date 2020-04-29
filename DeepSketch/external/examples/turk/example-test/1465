@@ -1,0 +1,25 @@
+// example 
+"Gi",+
+"WSC6-",+
+"WSCm7",+
+"$YeT",+
+"+",+
+"BQLPQB",-
+"PSBPOPD",-
+"QLXOSFEBK",-
+"EBy",+
+"RCEHQWLKXD",-
+"",+
+"eYKs",+
+"FJJLIDCXVNW",-
+"SXJJHFYO",-
+"Ef4",+
+"JWIFDOCWZYIC",-
+"[u",+
+"OBYNLRNRVHKRU",-
+"MGBMTPRZQZUCBJ",-
+"H",+
+"DZPYL",-
+
+// ground truth 
+not(repeatatleast(<cap>,5))

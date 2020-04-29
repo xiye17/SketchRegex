@@ -1,0 +1,25 @@
+// example 
+"Df`",+
+":P_",-
+"Q/_{mT",+
+"N]>%u",+
+"sTFU/",-
+"LL",+
+"N]d~=",+
+"La",+
+"I|",-
+"K,:~|",-
+"",-
+"A)_i",+
+"$M|o",-
+"Ax3N",+
+"x",-
+"nvFH",-
+"D]f",+
+"I",-
+"Q/_uC$",+
+"I&",-
+"xX+",-
+
+// ground truth 
+concat(<cap>,repeatatleast(contain(<let>),1))

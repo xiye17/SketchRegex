@@ -1,0 +1,17 @@
+// example 
+"EP",+
+"~q",+
+"elW$",+
+"}P#",+
+"\Ee9",+
+"",+
+"%H1",+
+";",+
+"\hp_I",+
+"h",-
+"~53zY",+
+"N",-
+"~",+
+
+// ground truth 
+repeatatleast(or(not(<let>),<m0>),6)

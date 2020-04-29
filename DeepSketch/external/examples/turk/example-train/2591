@@ -1,0 +1,21 @@
+// example 
+"$7t+8[w66YQQs",+
+"Q,2gS{CtSmib0Ht",+
+"DOsZK?8V/%WUCB",+
+"KT'",-
+"'RZbg+*XrId]o_<S",+
+"?%[r>04W;w",+
+"h.aWtF[v[;v",+
+"",-
+""FKq8S]",+
+"y6:V"TD3",+
+"j",-
+"NH?d5dc@v",+
+"|TO#",-
+"Xs1*D.Fi$%v8",+
+"J@",-
+""ICRh",-
+"@zp(l&",-
+
+// ground truth 
+repeatatleast(or(<cap>,<any>),7)

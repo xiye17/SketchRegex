@@ -1,0 +1,25 @@
+// example 
+"O|u2",+
+"$,*",-
+"b$",-
+"O6El",+
+"ESh.",-
+"d",-
+"",-
+"I%W5z=",+
+"LX[",-
+"bJg`$",-
+"`C",-
+"EShi",-
+"U5",+
+"A9",+
+"E4L",+
+"i4CD8",+
+"EA4",+
+"R",-
+"EM-#=",-
+"I%W"9K",+
+"i""3H",+
+
+// ground truth 
+concat(<vow>,contain(<num>))

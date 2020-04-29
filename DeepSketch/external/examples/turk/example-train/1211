@@ -1,0 +1,15 @@
+// example 
+"G",-
+"zb:",-
+"}{>Y",-
+"$#=I&",-
+"hq",+
+"$}lrS",-
+"}A",-
+"}Gw5",-
+"",-
+"}}",-
+"zR^",-
+
+// ground truth 
+concat(or(or(<m0>,<cap>),<any>),<low>)

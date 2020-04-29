@@ -1,0 +1,15 @@
+// example 
+"",+
+"!3",+
+"!fOk",+
+"br",+
+":YO",+
+"!"'",+
+"u",+
+"!",-
+"!lHKt",+
+"XgbA%",+
+"QTSj",+
+
+// ground truth 
+or(not(<m0>),repeatatleast(<vow>,3))

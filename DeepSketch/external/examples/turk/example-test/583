@@ -1,0 +1,25 @@
+// example 
+"EO",+
+"uNg",+
+"uaCms",+
+"G",-
+"BJV^",-
+"ct]5f",-
+"oN",-
+"K2%",-
+"wu[r",-
+"U",+
+"EI",+
+"usCu_",+
+"k",-
+"or",-
+"",-
+"e",+
+"}R-H'",-
+"uv.i",+
+"uIt",+
+"u2w,",+
+"@Xs",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),not(<any>))

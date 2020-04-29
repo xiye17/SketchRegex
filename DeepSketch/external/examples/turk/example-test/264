@@ -1,0 +1,15 @@
+// example 
+"YX/",+
+"0Fh9",+
+"M",+
+"tDY3UDk",+
+"N\`@m2v{",+
+"*a",+
+"}@w+~",+
+")};fUU",+
+"",-
+"UxhBmDN@]",+
+"af9myztd)A",+
+
+// ground truth 
+repeatatleast(contain(<any>),1)

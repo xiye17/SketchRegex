@@ -1,0 +1,25 @@
+// example 
+"GT~jL",-
+"(J)",-
+"}/R?",-
+"vy",+
+"]?Y@",-
+"vK",+
+"wQcqp",+
+"'",-
+"",+
+"cv\",-
+"|",-
+"\g",-
+"OyRt",+
+"h",+
+"OyRZ",+
+"H}",-
+"IOz",+
+"wQcqL",+
+"IOB",+
+"GTE=/",-
+"A",+
+
+// ground truth 
+star(or(and(and(<low>,<any>),<m0>),<let>))

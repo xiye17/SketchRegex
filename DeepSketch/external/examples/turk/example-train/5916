@@ -1,0 +1,17 @@
+// example 
+"E",+
+"UW",-
+"4`f",-
+"",-
+"Q",-
+"O<8",-
+"R4lG",-
+"h",-
+"\:",-
+"CL2EM",-
+"ER~5",-
+"O",+
+"I8M^9",-
+
+// ground truth 
+and(and(<any>,<cap>),<vow>)

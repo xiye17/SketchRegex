@@ -1,0 +1,14 @@
+// example 
+"",+
+"D",+
+"\9SQ&G"",+
+"y_$3",+
+"es}$a^Fpa",+
+"-pj<)",+
+"Wm",+
+"+WI",+
+"\xGe3{",+
+"#X:e58XI",+
+
+// ground truth 
+not(and(and(<num>,<any>),<low>))

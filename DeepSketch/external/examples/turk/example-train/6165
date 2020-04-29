@@ -1,0 +1,16 @@
+// example 
+"~_",-
+"j",-
+"r!uw",-
+"|ngwH",-
+"x!",+
+"V",-
+"6y",-
+"b3w",-
+"b!B",-
+"r.5\",-
+"m!HAH",-
+"",-
+
+// ground truth 
+concat(and(<let>,<low>),<m0>)

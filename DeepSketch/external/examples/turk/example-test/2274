@@ -1,0 +1,25 @@
+// example 
+"F",-
+"l!i!u!",+
+"|x;",-
+"q!n!n!s!c!w!u!o!k!",+
+"n!g5",-
+"q!r!h!f!",+
+"e!o!b!t!d!x!",+
+"j!q!",+
+"p!a!k!h!r!",+
+"r!y!i!g!q!b!a!d!t!a!",+
+"",-
+"t!u!m!j!e!p!w!",+
+"{cR1`",-
+"}\",-
+"h!j!w!f!l!v!w!a!",+
+"X1VB",-
+"DU",-
+"-&,",-
+"J]\1$",-
+"i!",+
+"~",-
+
+// ground truth 
+repeatatleast(concat(<low>,<m0>),1)

@@ -1,0 +1,25 @@
+// example 
+"]",-
+"zj",+
+"ce;I",+
+"tM{#M",+
+"o",+
+"{(",-
+"]iR\",-
+"",-
+"}",-
+"^m",-
+"[8gEp",-
+"P",+
+"}iRJ",-
+"Xk*",+
+"M'kKu",+
+"}u"",-
+"#{;dZ",-
+"l:F",+
+"QT",+
+"XR.%",+
+"_{g",-
+
+// ground truth 
+and(startwith(<let>),repeatatleast(<any>,1))

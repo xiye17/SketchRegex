@@ -1,0 +1,25 @@
+// example 
+"u#54S}t",+
+"m^",-
+"~#wfp",+
+"u#54S}E",+
+"3",-
+"QE=4{",-
+"?CXh",+
+"~#wfA",+
+"?cm}-q",+
+"f}\",-
+"",-
+"_Hc'",-
+"?CXD",+
+"apo",+
+"?cm}c6",+
+"apX",+
+"QE=4\",-
+"mm",-
+"z",-
+"f}q",-
+"_Hc|",-
+
+// ground truth 
+repeat(contain(repeatatleast(<let>,1)),3)

@@ -1,0 +1,16 @@
+// example 
+"{D",-
+"CT6",-
+"8Y",-
+"j9=",-
+"js",+
+"J",-
+"-jm]a",-
+"x",-
+"qg|z",-
+"",-
+"o*:F7",-
+"~(|!",-
+
+// ground truth 
+concat(<low>,or(<cap>,<any>))

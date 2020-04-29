@@ -1,0 +1,25 @@
+// example 
+"qA?e<",+
+"CRs",-
+"~Ri",+
+"gJDa",+
+";f",-
+"U",+
+"HnFFy",-
+"~Ru",+
+"#",-
+"",-
+"CRQ",-
+"O(",+
+"O",+
+"[qZ\",-
+"HnFFW",-
+"A6",+
+";5",-
+"qI|58",+
+"C",-
+"[qZN",-
+"gJDU",+
+
+// ground truth 
+and(contain(<vow>),not(<m0>))

@@ -1,0 +1,20 @@
+// example 
+"~h[51Xay?",+
+"4J",-
+"K%[C)]{1M_u",+
+"iv<8xh5Pl/zz",+
+"W",-
+"a5[1RK}",+
+"IXeIB'F5YEnQA",+
+"{Mc3`z",+
+",|7x[L@e",+
+"",-
+"J_~dc",-
+"6$ap",-
+"?pe@*$'L[VZo`G>",+
+"f<T`C)pjNoU=?c",+
+"zNK6'<)XJ0",+
+"lCM",-
+
+// ground truth 
+repeatatleast(or(<num>,<any>),6)

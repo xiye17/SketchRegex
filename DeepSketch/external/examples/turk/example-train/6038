@@ -1,0 +1,17 @@
+// example 
+"F",+
+"t[x$",+
+"mykK",+
+"uD",+
+"_P",+
+"e",-
+"",+
+"u6`e]",+
+"f",+
+"i",-
+"E;{",+
+"Py[",+
+"O|S:B",+
+
+// ground truth 
+not(or(<num>,<vow>))

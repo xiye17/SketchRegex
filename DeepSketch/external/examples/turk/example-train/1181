@@ -1,0 +1,25 @@
+// example 
+"cI",+
+"uX",-
+"E",+
+"3<qE",+
+"oA!Q",-
+"JnTQ.",-
+"^o}",-
+"3<qa",+
+"",-
+"c",-
+"'",-
+"^oK",-
+"cU",+
+"iFUdI",+
+"JnTQN",-
+"cEo",+
+"ub",-
+"oA!M",-
+"u",+
+"cE!",+
+"iFUdA",+
+
+// ground truth 
+endwith(or(repeatatleast(<m0>,1),<vow>))

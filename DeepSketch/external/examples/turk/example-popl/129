@@ -1,0 +1,18 @@
+// examples
+"!!!!bumber",+
+"!!!!!123",+
+"!!!!!!!",+
+"!!!!",+
+"!!!!a",+
+"!!asd!!!!",+
+"!any!any!a!!asd",+
+"!wow",-
+"!!wow",-
+"77!!!ok",-
+"",-
+"four!s",-
+"fi!!v",-
+"Sid!sd!sd1!",-
+
+// ground truth 
+repeatatleast(startwith(<m0>),4)

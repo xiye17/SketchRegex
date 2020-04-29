@@ -1,0 +1,25 @@
+// example 
+">=3",-
+"S}i",+
+"/",-
+"d,",-
+"V|{dx",+
+"g|pe,~h",+
+"B{nh",+
+"|d/sG",-
+"|d/s}",-
+"",-
+""b",+
+"Wm}w\t",+
+"d{",-
+"Smj",+
+"^Da~",-
+"^Da!",-
+"B{|x",+
+"V|{{f",+
+"g|pe,lr",+
+">={",-
+"Wm}wez",+
+
+// ground truth 
+concat(or(<m0>,<any>),endwith(<low>))

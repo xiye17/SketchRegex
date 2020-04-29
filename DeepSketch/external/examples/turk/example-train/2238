@@ -1,0 +1,25 @@
+// example 
+"c^6",+
+"]",-
+"ei!t^1]6RV\",+
+"nCI:%vGTuW$~",+
+"~p",-
+"1Z~8",-
+"h={o}&-",+
+"kO(ZQMQ_",+
+"|u2p",-
+"",-
+"n(0y",+
+"{'q",-
+"hcci"R",+
+"xrEVtgs)?%",+
+"n133Uo#GR",+
+"IpCaD",-
+"E_",-
+"'T%",-
+"{",-
+"~Q:\N",-
+"t-F};",+
+
+// ground truth 
+concat(<low>,repeatatleast(<any>,2))

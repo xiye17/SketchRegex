@@ -1,0 +1,17 @@
+// example 
+"X1u",+
+"ejZD",+
+"aI",-
+"l",+
+"y>F^",+
+"",+
+"a<",+
+"jj",+
+"R",+
+"Rw5",+
+"uGu2r",+
+"u]/(M",+
+"az",-
+
+// ground truth 
+not(concat(<vow>,<let>))

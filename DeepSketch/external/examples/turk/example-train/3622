@@ -1,0 +1,25 @@
+// example 
+"Moz!",-
+"ejOmiwuyamikEroh",+
+"m{fu",-
+"UyAdopavIxen",+
+"Oba",-
+"EaOuUnuzIpizUy",+
+"uhIbamojOx",+
+"AhAaH",-
+"ejOmiwuyamikErAx",+
+"uhIbamojUm",+
+"EaOuUnuzIpizuq",+
+"",-
+"b",-
+"hk",-
+"UyAdopavIxuo",+
+"Obo",-
+"AwEyohawUdIziradIq",+
+"O",-
+"q*",-
+"AwEyohawUdIziradOa",+
+"AhAae",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<low>),5)

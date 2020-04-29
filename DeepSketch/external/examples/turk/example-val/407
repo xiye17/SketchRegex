@@ -1,0 +1,17 @@
+// example 
+"wQC",+
+"OTC",+
+"{DGY",-
+"+p",-
+"_/#<",-
+"",-
+"g",-
+"aJzdB",-
+"<",-
+"%Ec^[",-
+"Bb~",-
+"Bb.",-
+"[J",-
+
+// ground truth 
+concat(concat(<let>,<any>),<cap>)

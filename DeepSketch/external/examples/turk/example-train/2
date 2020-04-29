@@ -1,0 +1,25 @@
+// example 
+"F",-
+"r",+
+"fo",+
+"pyvfj",+
+"nkg",+
+"{hk",-
+"uKbM",-
+"}S",-
+"uv}B",-
+"}e\T,",-
+"zfhopck",+
+">3",-
+"guvupkhqrp",+
+"uyzlye",+
+"l{_/t",-
+"",-
+"faeo",+
+"|",-
+"Vzx",-
+"ubyojroo",+
+"uealfmdns",+
+
+// ground truth 
+and(contain(<let>),star(<low>))

@@ -1,0 +1,17 @@
+// example 
+"ym2",-
+"~A&y%",-
+"}9",-
+"4",-
+"|!D`",-
+"y^I7J",-
+"!",+
+"!AO.",-
+"",-
+"}",-
+"*HC",-
+"t",+
+"t6",-
+
+// ground truth 
+and(repeatatleast(<any>,1),or(<low>,<m0>))

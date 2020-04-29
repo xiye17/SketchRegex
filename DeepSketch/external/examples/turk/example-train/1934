@@ -1,0 +1,25 @@
+// example 
+"sq\M>",+
+"eiie",-
+"oii",-
+"o2",+
+"o",-
+"oe",-
+"uueb",+
+"oio",-
+"ueaie",-
+"%",+
+"os",+
+"j&5",+
+"",+
+"ueaiu",-
+"oo",-
+"i",-
+"ipO@\",+
+"eiiu",-
+"]r|",+
+"uue<",+
+"|",+
+
+// ground truth 
+not(repeatatleast(or(<cap>,<vow>),1))

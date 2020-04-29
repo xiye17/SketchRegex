@@ -1,0 +1,17 @@
+// example 
+"M!v",+
+"Y!_",-
+"0tyto",-
+"L!\5E",-
+"",-
+"f.",-
+"M!V",+
+"Q",-
+"N!z-",-
+"Y+S",-
+"7",-
+"7xgj",-
+"!g",-
+
+// ground truth 
+concat(concat(<cap>,<m0>),<let>)

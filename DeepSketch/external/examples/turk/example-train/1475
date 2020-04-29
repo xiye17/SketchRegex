@@ -1,0 +1,25 @@
+// example 
+"b!w!",+
+"J!x",-
+"J\P",-
+"^$&z",-
+"A!J!G!p!",+
+"e!y!C!J!i!",+
+"",-
+"V!k!C!a!e!p!",+
+"Q",-
+"|P",-
+"V!k!C!a!e!X!",+
+"|",-
+"}:^j",-
+"s*;<L",-
+"S!I!C!",+
+"e!y!C!J!P!",+
+"s!#6Q",-
+"S!I!b!",+
+"A!J!G!Z!",+
+"-[",-
+"b!A!",+
+
+// ground truth 
+repeatatleast(concat(<let>,<m0>),2)

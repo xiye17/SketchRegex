@@ -1,0 +1,25 @@
+// example 
+"aB",+
+"kpuo",+
+"Sun0o",+
+"ehc}",-
+"q",-
+"aio",+
+"gk\",-
+"m",-
+"kpue",+
+"ehcb",-
+"cUes|",-
+"",-
+"gk+",-
+"ae",+
+"Sun0u",+
+"i",+
+"aie",+
+"cUes/",-
+"oj",-
+"oh",-
+"C",+
+
+// ground truth 
+endwith(or(repeatatleast(<cap>,1),<vow>))

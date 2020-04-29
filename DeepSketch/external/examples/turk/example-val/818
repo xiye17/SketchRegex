@@ -1,0 +1,25 @@
+// example 
+"[",-
+"uiEd",-
+"VU",+
+"l2>si",-
+"k",-
+"",-
+"fpS",-
+"aouae",+
+"ueaa",+
+"z7",-
+"uiE^",-
+"i",+
+"CcUYM",-
+"Va",+
+"u",+
+"EWe",+
+"aouaa",+
+"Px",-
+"EWa",+
+"ueau",+
+"p40",-
+
+// ground truth 
+repeatatleast(or(<cap>,<vow>),1)

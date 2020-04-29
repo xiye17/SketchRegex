@@ -1,0 +1,25 @@
+// example 
+"Q([eU",+
+"EZ}",-
+"I,",-
+"eiIj",-
+"o",+
+"EzjAOa",+
+"n",-
+"5",-
+"EZj",-
+"a",+
+"eJ~Dk",-
+"eJ~Dx",-
+"Ybi",+
+"aN",-
+"Q([ei",+
+"",-
+"Yba",+
+"EzjAOU",+
+"JjDU",+
+"eiIY",-
+"JjDe",+
+
+// ground truth 
+concat(not(<any>),<vow>)

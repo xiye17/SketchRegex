@@ -1,0 +1,25 @@
+// example 
+"~I",-
+"^uigrT",+
+"#g[LV",+
+"#g[xD",+
+"}_d",-
+"}iI",+
+"^uigEN",+
+"e",-
+"",-
+"|Jdq",-
+"}_`",-
+"|Jd4",-
+"OW",+
+"~|@^,",-
+"~o",-
+"qK",+
+"]4aQ",+
+"]4HQ",+
+"~|@^_",-
+"}YE",+
+"{",-
+
+// ground truth 
+endwith(concat(<let>,<cap>))

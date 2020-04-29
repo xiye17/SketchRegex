@@ -1,0 +1,25 @@
+// example 
+"~PU",-
+"k",+
+"gSW",+
+"~ctI`",-
+"bTga",+
+"bTgU",+
+"}pz{",-
+"{b",-
+"",-
+"ky",+
+"^yj6C",-
+"kU",+
+"gSn",+
+"H",+
+"tDNNB",+
+">",-
+"\sz",-
+"*_\>",-
+"[A",-
+"tDNNv",+
+"~",-
+
+// ground truth 
+repeatatleast(or(<let>,<cap>),1)

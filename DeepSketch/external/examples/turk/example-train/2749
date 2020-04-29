@@ -1,0 +1,15 @@
+// example 
+"M+XC,ox",+
+"[3{",+
+"XiK9",+
+">^%i91l2H(",+
+"w,yk4U",+
+"Wp`BJ",+
+"Q;l1X6B}",+
+"LFob_O@HM",+
+"E}",+
+"",-
+"A",+
+
+// ground truth 
+or(concat(<m1>,<m0>),contain(<any>))

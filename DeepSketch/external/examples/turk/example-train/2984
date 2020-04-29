@@ -1,0 +1,14 @@
+// example 
+"",+
+"qn3",+
+"8.33\);Z",+
+":",+
+"~)",+
+"SL}I&",+
+"\Zd8Osq",+
+">"oITAm(K",+
+"qgh}",+
+"w|+E#l",+
+
+// ground truth 
+star(or(not(<low>),<any>))

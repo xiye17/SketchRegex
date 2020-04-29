@@ -1,0 +1,26 @@
+// example 
+"ED>SH",+
+"B0j&",-
+"KbI",+
+"gpK7:",-
+"gpK7r",-
+"",-
+"g",-
+":",-
+"A)",-
+"K8X",+
+"IVk",-
+"B0jc",-
+"IV'",-
+"K",+
+"'O",+
+"IiMK",+
+";0@r0G",+
+"ED>1K",+
+"Af",-
+"Ii.V",+
+"bN",+
+";0@rjV",+
+
+// ground truth 
+endwith(repeatatleast(<cap>,1))

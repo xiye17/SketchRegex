@@ -1,0 +1,17 @@
+// example 
+"4i*^9",-
+"0_",-
+"}^M",-
+"xttA<",-
+"2O",+
+"",-
+")",-
+"0~",-
+"2bR",-
+"#Y1S",-
+"I",-
+"2i",+
+"g7st",-
+
+// ground truth 
+concat(<num>,and(<let>,<any>))

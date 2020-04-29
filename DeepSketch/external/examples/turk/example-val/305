@@ -1,0 +1,17 @@
+// example 
+"NA",+
+"G",-
+"HcU",+
+"UA",+
+"D><",+
+"itVH",+
+"U",+
+"2@;,",+
+"H#Dl.",+
+"",+
+"U@[gs",+
+"u",+
+"J",-
+
+// ground truth 
+or(not(<cap>),endwith(<vow>))

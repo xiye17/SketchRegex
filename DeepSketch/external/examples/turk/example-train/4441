@@ -1,0 +1,25 @@
+// example 
+"3)A",-
+"UIvNQE",+
+"lK%6L",-
+"me!AH",+
+"="hr",-
+"lZDmEOE",+
+"5",-
+"lZDmEO!",+
+"!}$",-
+"o{",-
+"opEi!!sy",+
+"",-
+"me!Ao",+
+"o>",-
+"l\DR9",-
+"s!WZ",+
+"opEi!!sN",+
+"s!Wn",+
+"UIvNQz",+
+"}h6U",-
+"~",-
+
+// ground truth 
+repeatatleast(or(<m0>,<let>),4)

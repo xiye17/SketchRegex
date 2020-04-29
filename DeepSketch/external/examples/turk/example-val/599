@@ -1,0 +1,14 @@
+// example 
+"",+
+"^(vFQl",+
+"Iy+.;i?<\",+
+"x!",+
+"/T$g",+
+"\7_",+
+".Qh,fH3",+
+"!",+
+"Yp{_v7wY",+
+"@:bjx",+
+
+// ground truth 
+not(concat(and(and(<let>,<low>),<m0>),<cap>))

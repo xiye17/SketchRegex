@@ -1,0 +1,15 @@
+// example 
+"IWg-p+",+
+"t.N[",+
+"62",+
+"*.I",+
+"jzy%36J'q",+
+"=&WF$",+
+"'",+
+"fmT2hb"",+
+"@%t#w_*7",+
+"H9kH\9f$Z}",+
+"",-
+
+// ground truth 
+endwith(or(contain(<m0>),<any>))

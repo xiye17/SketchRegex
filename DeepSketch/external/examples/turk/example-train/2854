@@ -1,0 +1,25 @@
+// example 
+"E!A",-
+"E!",+
+"A<EU",-
+"n",-
+"E!U!O!e!",+
+"A!e!o!",+
+"E!U!O!o!",+
+"E!I!I!o!A!",+
+"E!i",-
+"A!e\",-
+"A!e!E!",+
+"",+
+"E!I!I!o!U!",+
+"i3",-
+"I!e!",+
+"U!g.a",-
+"qK",-
+"UoedU",-
+"I!i!",+
+"z",-
+"I!",+
+
+// ground truth 
+star(concat(<vow>,<m0>))

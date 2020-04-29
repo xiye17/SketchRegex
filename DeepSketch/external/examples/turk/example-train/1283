@@ -1,0 +1,14 @@
+// example 
+"",+
+"XH",+
+"+s62%[744",+
+"at0V[{(N",+
+"xU$",+
+"]Vcl5",+
+"J~A=c/!",+
+"-PJoRd",+
+"t",+
+"9*_]",+
+
+// ground truth 
+not(and(and(<low>,<cap>),<any>))

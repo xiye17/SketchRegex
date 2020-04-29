@@ -1,0 +1,25 @@
+// example 
+"JMGP#",+
+"P8}|&",-
+"KQEDW/",+
+"JB]",-
+"OOQJHPF>",+
+"OOQJHPFS",+
+"*",-
+"NOWGOLA",+
+"NOWGOL2",+
+"JMGPn",+
+"",-
+"}",-
+"z%.2",-
+"KQEDW|",+
+"8{mf",-
+"XIWOTWQEG",+
+"A*",-
+"XIWOTWQE^",+
+"b=K",-
+"PUi2}",-
+"Ar",-
+
+// ground truth 
+concat(repeatatleast(<cap>,4),<any>)

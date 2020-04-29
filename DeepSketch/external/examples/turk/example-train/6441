@@ -1,0 +1,25 @@
+// example 
+"EM+Gh",-
+"O@<8",-
+"{j2",-
+"xmBiNbX",+
+"\I9",-
+"Vlry",+
+"_",-
+"jfksvM",+
+"",-
+"|",-
+"Qkj",+
+"PkyHh",+
+"PkyHD",+
+"xmBiNbg",+
+"]K",-
+"jfksve",+
+"0:QPV",-
+"QkS",+
+"VlrV",+
+"O\=7",-
+"}}",-
+
+// ground truth 
+repeatatleast(or(<vow>,<let>),3)

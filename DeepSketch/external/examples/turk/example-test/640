@@ -1,0 +1,25 @@
+// example 
+"AM$6~",-
+"=Jff",-
+"AM[>,",-
+"!A!",-
+"CNWK!!!WUJY",+
+"G!(4",-
+"V!J!SPDF!",+
+"!",-
+"!!A!!O!",+
+"V!J!SPDFO",+
+"!!A!!OT",+
+"",-
+"GE",-
+"!!VK!!T!RV",+
+"!!VK!!T!R!",+
+"AS!!V!V!",+
+"=",-
+"CNWK!!!WUJ!",+
+"AS!!V!VJ",+
+"_&Q",-
+"G!",-
+
+// ground truth 
+repeatatleast(or(<m0>,<cap>),7)

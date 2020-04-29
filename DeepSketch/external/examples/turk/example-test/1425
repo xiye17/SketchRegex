@@ -1,0 +1,14 @@
+// example 
+"",+
+"BK|.41",+
+"8LTN]F+;",+
+"k6,",+
+"H$2"gs]",+
+"?",+
+"bc",+
+"/?e9Q{mAF",+
+"u/sf\",+
+"sNH>",+
+
+// ground truth 
+not(and(<m0>,<cap>))

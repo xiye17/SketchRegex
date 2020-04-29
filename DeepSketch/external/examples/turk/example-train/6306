@@ -1,0 +1,25 @@
+// example 
+"hAKi{",-
+"vx",-
+"iAeuO",+
+"IUOaaG",+
+"V",-
+"iAeuM",+
+"euuF",+
+"IUOaaE",+
+"e",-
+"",-
+"Akng",-
+"iJ",+
+"eo",-
+"euuB",+
+"CMBl#",-
+"UP\",-
+"AbiW",-
+"iY",+
+"OaN",+
+"OaQ",+
+"Udb",-
+
+// ground truth 
+concat(repeatatleast(<vow>,1),<cap>)

@@ -1,0 +1,17 @@
+// example 
+"U{P3",-
+"UB",-
+"Aa^10",-
+"d",-
+"",-
+"UJDu",-
+"U|",-
+"enW",-
+"A~5Lb",-
+"A",-
+"Eb",+
+"ib",+
+"e|6",-
+
+// ground truth 
+concat(<vow>,and(<low>,<any>))

@@ -1,0 +1,25 @@
+// example 
+"x@myV",-
+"ZJ.=i",+
+">h$A",-
+"FTt#",+
+"OT4N5bq[!*`",+
+"UBP%s=bu[:",+
+"YVh",+
+"T9>",-
+"DE<7%M",+
+"^T?l",-
+"",-
+"ZA",+
+"To,",-
+"Q",-
+"OTJj|"U",+
+"8",-
+"X!",-
+"NMMUI.~%]",+
+"CI}wJLy_",+
+"tn",-
+"R=r@<",-
+
+// ground truth 
+startwith(repeatatleast(<cap>,2))

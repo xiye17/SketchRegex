@@ -1,0 +1,17 @@
+// example 
+"!fd"u",-
+"!{!Yp",-
+"!gB",-
+"!vU",+
+"!",-
+"!}",-
+"",-
+"!{""",-
+"!m",-
+"dAEa",-
+"!vA",+
+"6",-
+"!~[",-
+
+// ground truth 
+concat(concat(<m0>,<low>),<vow>)

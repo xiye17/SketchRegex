@@ -1,0 +1,25 @@
+// example 
+"wao}1C",+
+"iSM$:][g9O",+
+"e5[!<9&X",+
+"v<JtM",+
+"|[!.;",-
+"}nrj",-
+"ks",+
+",",-
+"}}a",-
+"",-
+"6zN",-
+"lBl^",+
+"iB3",+
+"lT$6aj#",+
+"RKb+z",-
+"v",+
+"<6&>",-
+"mACo3RD4]",+
+"X#",-
+"{J",-
+"~",-
+
+// ground truth 
+startwith(or(<low>,and(<num>,<let>)))

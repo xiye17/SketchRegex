@@ -1,0 +1,15 @@
+// example 
+"e5",+
+"[",-
+"!'",-
+"wO4FP",-
+"!r",-
+"w7jdV",-
+""%TU",-
+""mdQ",-
+"`4U",-
+"",-
+"`,^",-
+
+// ground truth 
+concat(or(<cap>,<any>),<num>)

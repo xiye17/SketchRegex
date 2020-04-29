@@ -1,0 +1,16 @@
+// example 
+"",+
+"P{",+
+"Q",-
+"r",+
+"4qx",+
+"n7#xF",+
+"5",+
+"!-zxg",+
+"`h",+
+"BpaZ",+
+",sxZ",+
+"d9a",+
+
+// ground truth 
+not(and(startwith(<let>),<cap>))

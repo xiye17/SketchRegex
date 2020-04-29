@@ -1,0 +1,24 @@
+// example 
+"Mu",+
+"e`cf_i",+
+"*|\",-
+"MD",+
+"R[A",+
+"Hf]hb",+
+"m|WH",+
+"R[r",+
+"",-
+"q<",-
+"Hf]hX",+
+"q]",-
+"P/^<",-
+"o\v}~",-
+"*|{",-
+"P/^}",-
+"o\v}(",-
+"e`cf_F",+
+"?",-
+"m|Wc",+
+
+// ground truth 
+concat(repeatatleast(<any>,1),<let>)

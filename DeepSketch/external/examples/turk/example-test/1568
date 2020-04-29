@@ -1,0 +1,18 @@
+// example 
+"rik",-
+"gD1-3J",+
+"`g"V",+
+"]uU6Kv&2E~>J",+
+"_",-
+"",-
+"oZ`Qd\yW",+
+")`/{ckf41<4",+
+"apkHb7Q",+
+"h}",-
+"$CsnO",+
+"fnrW!QEjv",+
+"PkAak~O6V|a+V",+
+"AJ3K!ueD1"",+
+
+// ground truth 
+repeatatleast(or(concat(<vow>,<m0>),<any>),4)

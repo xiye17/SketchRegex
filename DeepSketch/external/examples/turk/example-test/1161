@@ -1,0 +1,17 @@
+// example 
+"F",-
+"E^+",-
+"O^LfF",-
+"e{",-
+"aU",+
+"",-
+"E|!",-
+"OHsY+",-
+"j",-
+"an6D",-
+"e3",-
+"a,/m",-
+"am",+
+
+// ground truth 
+concat(or(<vow>,<num>),<let>)

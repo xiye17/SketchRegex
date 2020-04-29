@@ -1,0 +1,25 @@
+// example 
+"iU^!}",-
+"mtZ|!!!v",+
+"mtZ|!!!!",+
+"r~ok!w!",+
+"n|{",-
+"!f!!j!",+
+"g!D!",-
+"iU^!9",-
+"",-
+"|",-
+"!{)&+!s!vy",+
+"!{)&+!s!v!",+
+"h",-
+"s%Nsp6!uu",+
+"!f!!jk",+
+"s%Nsp6!u!",+
+"!&",-
+"!n",-
+"g!D~",-
+"n|[",-
+"r~ok!ws",+
+
+// ground truth 
+repeatatleast(startwith(or(<low>,<m0>)),6)

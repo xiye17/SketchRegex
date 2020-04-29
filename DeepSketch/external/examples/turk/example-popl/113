@@ -1,0 +1,18 @@
+// examples
+"A",+
+"Capital",+
+"!C",+
+"#i#",+
+"some thing",+
+"12 has c 3##",+
+"!@ T",+
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+"",-
+
+// ground truth 
+contain(or(<any>,<cap>))

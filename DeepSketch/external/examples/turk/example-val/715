@@ -1,0 +1,17 @@
+// example 
+"[",+
+"!6",+
+"o",-
+"<k*",+
+"e&&",+
+"EubD",+
+"D(",+
+"",+
+"S;_L",+
+"H",+
+"I",-
+"U:eN.",+
+"Y+rxO",+
+
+// ground truth 
+not(or(or(<m0>,<vow>),<num>))

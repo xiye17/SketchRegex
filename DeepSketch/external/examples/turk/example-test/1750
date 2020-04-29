@@ -1,0 +1,25 @@
+// example 
+"No",-
+"mE",+
+"ZV",+
+"n",-
+"N-",-
+"rUiPAZSFmZ",+
+"~bMZ",-
+"rQODnG",+
+"rQODLG",+
+"",+
+"CNwX_",-
+"AOuR",+
+"U",-
+"CNwX|",-
+"sKUKtHEF",+
+"zK=",-
+"sKUKtHiA",+
+"AOKO",+
+"]OV.",-
+"rUiPAZSFZB",+
+"zKm",-
+
+// ground truth 
+star(concat(<let>,<cap>))

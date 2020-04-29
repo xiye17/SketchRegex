@@ -1,0 +1,17 @@
+// example 
+"wo",+
+"v?f.",-
+"{m9",-
+"",-
+"}",-
+"f",-
+"ka)rs",-
+"kg]8{",-
+"8]",-
+"wA",+
+"~,",-
+"VH@",-
+"vvZ#",-
+
+// ground truth 
+concat(<low>,or(<cap>,<vow>))

@@ -1,0 +1,25 @@
+// example 
+"ZHZn",+
+"ZHZ.",+
+"*O",+
+"NAHHMA",-
+"EGM",+
+"DEAQVLANKGF",-
+"^|",+
+"HKLBCOT",-
+"CWEEPBBMSNWVGRG",-
+"",+
+"WNADGZPZAK",-
+"8",+
+"f",+
+"EG'",+
+"QBZKERTISJSOZ",-
+"gWoT(",+
+"FSDNBHTCMHAWVP",-
+"UHFPQHIZ",-
+"7jK$c",+
+"QJRTSBBZS",-
+"LFRRRMCMHEST",-
+
+// ground truth 
+not(repeatatleast(<cap>,6))

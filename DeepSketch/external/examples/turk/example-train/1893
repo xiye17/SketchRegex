@@ -1,0 +1,15 @@
+// example 
+"",+
+"AyLllhJ.6",+
+"WSdCRW/3*:",+
+"I&<S",+
+"wHp6MQ",+
+"B"6?RPw%",+
+"/",-
+"x>I",+
+"~.",+
+":D1w?fO",+
+"F|$gz",+
+
+// ground truth 
+not(or(or(<low>,<any>),<let>))

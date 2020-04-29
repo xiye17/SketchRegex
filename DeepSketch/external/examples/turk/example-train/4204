@@ -1,0 +1,15 @@
+// example 
+"",+
+";M#7d;",+
+"%f:",+
+"V",-
+"{BvZ",+
+"OG<=co58->",+
+"Z$",+
+"G=2`'!g8",+
+":P'B;",+
+"E_M^orF",+
+"BEV~Wgs1*",+
+
+// ground truth 
+not(or(or(<cap>,<any>),<num>))

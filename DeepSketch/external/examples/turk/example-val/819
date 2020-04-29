@@ -1,0 +1,15 @@
+// example 
+"'|e",+
+"/}5$@W",+
+":h06pHwO",+
+"4*]cE",+
+"zP7FR^:",+
+"jrx8e&zt*",+
+"SP",+
+"&e2rc]{[8;",+
+"X"[h",+
+"=",+
+"",-
+
+// ground truth 
+contain(or(<any>,<cap>))

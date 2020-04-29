@@ -1,0 +1,17 @@
+// example 
+"U*`",-
+"OJAk",-
+"BCW4!",-
+"|p",-
+"D`",-
+"~Pb6X",-
+"",-
+"A%",+
+"U{",+
+"A.xo",-
+"Ew7",-
+"A",-
+"D",-
+
+// ground truth 
+concat(or(<low>,<vow>),<any>)

@@ -1,0 +1,14 @@
+// example 
+"",+
+"5I%aM6",+
+"AIqB",+
+"G$:x^9V6",+
+".IX",+
+":4NAD#uiY",+
+"4",+
+"I#",+
+"1iQ_4",+
+"^(}O#?D",+
+
+// ground truth 
+not(and(and(<any>,<cap>),<low>))

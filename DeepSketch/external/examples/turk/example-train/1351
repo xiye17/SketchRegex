@@ -1,0 +1,15 @@
+// example 
+"-{13",+
+"Tmo3O/c",+
+"D4unqP>x",+
+"!lEx}5",+
+"`",+
+"pUYzZ;]gz",+
+"bP'c)gNwB!",+
+"apiWX",+
+"wI",+
+"qe;",+
+"",-
+
+// ground truth 
+repeatatleast(endwith(or(<m0>,<any>)),1)

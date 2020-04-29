@@ -1,0 +1,25 @@
+// example 
+"Rz|",-
+"o+q",+
+"u",-
+"a]",+
+"OcY-",+
+"f[n;",-
+"eQ<",+
+"oW8f7&",+
+"e",-
+"5#+",-
+"",-
+"cV",-
+"YB",-
+"RHxg",-
+"AmZR>+",+
+"e[}2L",+
+"e3",+
+"Idvge",+
+"l*kG7",-
+"JgQ*]",-
+"ExI_",+
+
+// ground truth 
+concat(<vow>,endwith(<any>))

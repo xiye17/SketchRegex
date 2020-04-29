@@ -1,0 +1,25 @@
+// example 
+"wgcb",+
+"]",-
+"{]{",-
+"SnXfHsYdeiCd",+
+"puKzww",+
+"Jt|m",-
+"puKzBn",+
+"bwxokyBwsn",+
+"",-
+"We",-
+"EX_",-
+"GimdTjih",+
+"i",-
+"J_nG",-
+"Lkg}*",-
+"bwxokyBwPm",+
+"W{",-
+"1pLpK",-
+"GimdTjWq",+
+"SnXfHsYdeims",+
+"wgWx",+
+
+// ground truth 
+repeatatleast(concat(<let>,<low>),2)

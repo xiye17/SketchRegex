@@ -1,0 +1,25 @@
+// example 
+"UWo",-
+"OEoPII",+
+"aGoJOUUM",+
+"uSEREUeTiX",+
+"I]_VD",-
+"OEoPuH",+
+"uSEREUeTuG",+
+"",-
+"iWaF",+
+"iWUY",+
+"aGoJOUIY",+
+"a",-
+"eB",+
+"a}",-
+"ez#_",-
+"UWO",-
+"I",-
+"a3",-
+"UL",+
+"e8c[",-
+"I.,d~",-
+
+// ground truth 
+repeatatleast(concat(<vow>,<cap>),1)

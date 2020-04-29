@@ -1,0 +1,25 @@
+// example 
+">e~^]",-
+"WAV7x8<b",+
+"/@",-
+"*",-
+"T",+
+"JakNg",+
+"Dv{",+
+"",-
+"eP",-
+"SB$S",+
+"b",-
+"zm#Q_",-
+"^Z8|",-
+"$OH",-
+"r,L",-
+"B-gu<zdI-(",+
+"Ln",+
+"Nu-Gu>-",+
+"QJgw$J`eF",+
+"*q^K",-
+"E!$KgB",+
+
+// ground truth 
+concat(<cap>,star(contain(<any>)))

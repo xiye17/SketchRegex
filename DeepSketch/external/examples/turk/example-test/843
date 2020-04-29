@@ -1,0 +1,14 @@
+// example 
+"",+
+"H11(:Se`h",+
+"Epzf",+
+"Oa#g>4",+
+"K~jmE",+
+"N",+
+"3@]NvrWS",+
+"v91",+
+"3'Wip:D",+
+"!f",+
+
+// ground truth 
+or(repeatatleast(<any>,1),not(<m0>))

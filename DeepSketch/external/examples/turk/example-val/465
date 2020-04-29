@@ -1,0 +1,14 @@
+// example 
+"",+
+"S+EwwJ1",+
+":G",+
+"#_Z(R",+
+"}P|CmR",+
+"5B""gZT0",+
+"0qxA",+
+"^gI&`097k",+
+"x",+
+"*R9",+
+
+// ground truth 
+not(and(and(<num>,<vow>),<cap>))

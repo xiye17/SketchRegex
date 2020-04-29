@@ -1,0 +1,15 @@
+// example 
+"",+
+"S)",-
+"9QLA",-
+"*(^55gK",-
+"3<j?)ibuXI",-
+"21Y_2av!r",-
+"Cn$",-
+"{",-
+"h0s,3",-
+"&|ogX~",-
+"GI+B;o*1",-
+
+// ground truth 
+not(endwith(<any>))

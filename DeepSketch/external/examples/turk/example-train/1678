@@ -1,0 +1,26 @@
+// example 
+"Oj)h",+
+"}zr",+
+"o",-
+"{;",-
+"h*~}",-
+",lm]F",-
+"Ojs",+
+"h*~=",-
+"H}j|5vn",+
+"Ims~~p",+
+"Ims~`w",+
+"",-
+"lq",+
+"}",-
+"q;Wmd",+
+"Oj|u",+
+"sa+",-
+"sa}",-
+",lm]{",-
+"q;W}g",+
+"{~",-
+"H}j|5;b",+
+
+// ground truth 
+repeatatleast(endwith(<low>),2)

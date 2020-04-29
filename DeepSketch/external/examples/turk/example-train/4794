@@ -1,0 +1,25 @@
+// example 
+"\",-
+"D",+
+"mv(",+
+"ZZ^E",+
+"]k.__",-
+"zk",+
+"hsFM",+
+"k",+
+"!",-
+"]w~",-
+""j",-
+"",-
+"}4",-
+"YX`",+
+"}b<%\",-
+"Q`",+
+"kf|?I",+
+"(>:",-
+"`d2'",-
+"IceLy",+
+"{dSH",-
+
+// ground truth 
+or(concat(<low>,<cap>),startwith(<let>))

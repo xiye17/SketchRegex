@@ -1,0 +1,17 @@
+// example 
+"G}?$6",-
+"6&W",-
+"}oC*",-
+"",-
+"gE",+
+"uF!R6",-
+"{B",-
+"i",-
+"O",-
+"ig",-
+"~7t",-
+"g!",+
+"zUcJ",-
+
+// ground truth 
+concat(<low>,or(or(<m0>,<m1>),<vow>))

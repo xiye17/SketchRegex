@@ -1,0 +1,25 @@
+// example 
+"zMGiMoZC",+
+"vyUIpOroat",+
+"{M",-
+"Y",-
+"MR^f",-
+"^t<}\",-
+"rBVcyFkszZH",+
+"B2\",-
+"oWawrtimN",+
+"B}P",-
+"zMGiMoZb",+
+"",-
+")",-
+"rBVcyFkszZk",+
+"LdovHPI",+
+"Q[hih",-
+"M^?;",-
+"vyUIpOroaQ",+
+"LdovHPe",+
+"oWawrtimb",+
+"H|",-
+
+// ground truth 
+repeatatleast(or(<cap>,<low>),7)

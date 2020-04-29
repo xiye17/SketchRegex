@@ -1,0 +1,15 @@
+// example 
+"hB~p",+
+"9",+
+"'p}@l+2d",+
+".fIo|{0E`",+
+"IBzwE",+
+"7cy5g,B",+
+"_!A",+
+"lWVFk\",+
+"{>`Lq&b~rn",+
+"",-
+"ei",+
+
+// ground truth 
+contain(or(or(<m0>,<m1>),<any>))

@@ -1,0 +1,25 @@
+// example 
+"!@!pu",+
+"!:!GP?",+
+"!kn",+
+"J!!t!BS",+
+"l!]",-
+"!|",-
+"!kJ",+
+"!",-
+"!@!pC",+
+"d",-
+"!=!p!",-
+"!=!p^",-
+"",-
+"G!Pv",+
+"J!!t!Bo",+
+"G!PM",+
+"!Y",-
+"l!$",-
+"!|=Z",-
+"!|=!",-
+"!:!Gg:",+
+
+// ground truth 
+concat(endwith(<m0>),startwith(repeat(<let>,2)))

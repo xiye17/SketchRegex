@@ -1,0 +1,16 @@
+// example 
+"!9;",-
+"!J",+
+"$",-
+"!.yV",-
+"!c:M",-
+"!FZh;",-
+"!",-
+"!H]",-
+"!4hw?",-
+"",-
+"'`",-
+"!i",-
+
+// ground truth 
+and(concat(<any>,<cap>),concat(<m0>,<let>))

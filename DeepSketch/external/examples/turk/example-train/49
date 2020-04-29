@@ -1,0 +1,25 @@
+// example 
+"+SgW!i!!tna",+
+"z\dit!nwgp",+
+"!~~S",-
+"+SgW!i!!tn!",+
+"!!",-
+"}!pr_",-
+"!t",-
+"}i!!!!rq",+
+"!",-
+"}i!!!!r!",+
+"!r!vh!!",+
+"",-
+"{ij!wf!q!",+
+"!\T",-
+"!~~!",-
+"!\e",-
+"!r!vh!t",+
+"}!pr}",-
+"z\dit!nwg!",+
+"{ij!wf!qu",+
+"~",-
+
+// ground truth 
+endwith(repeatatleast(or(<m0>,<low>),7))

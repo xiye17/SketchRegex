@@ -1,0 +1,19 @@
+// example 
+"!s",-
+"!",+
+"{Ex",-
+"^7vld)",-
+"",-
+"!ZY!~",-
+"!A.MGJ",-
+"!PT2)",-
+"j",+
+"!U",+
+"!o",+
+"!e+",-
+"!eGr",-
+"!i[k",-
+"!j",-
+
+// ground truth 
+or(concat(<m0>,<vow>),<any>)

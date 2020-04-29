@@ -1,0 +1,26 @@
+// example 
+"*yJ",-
+"i$Y",-
+"u",-
+"Oi)*~*5",+
+"J(",-
+"EK,&:",-
+"U1",+
+"QA<8<",+
+"",-
+"`VM?j",-
+"O8vcLG<",+
+"I#+&",-
+"Nx4",+
+"A",-
+"F!%5",+
+"PY/(<9",+
+"Ju",-
+"Q6$CQ",+
+"I#+c",-
+"N.3",+
+"PY/(+4",+
+"F43P",+
+
+// ground truth 
+concat(and(<any>,<cap>),contain(<num>))

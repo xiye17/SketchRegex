@@ -1,0 +1,26 @@
+// example 
+"m,:-",-
+"rU>c",+
+"&x&;Iu",+
+"Aa}",-
+"rU{y",+
+"3>-'4Jv",+
+"m",-
+"!",-
+".K",-
+";1yaY",-
+"A}vJy",+
+"",-
+";1ya\",-
+"gAi",+
+"m,:}",-
+"V}o",+
+"Cm",+
+"AaZ",-
+"A}v{o",+
+"3>-'jKz",+
+".2",-
+"&x&O{e",+
+
+// ground truth 
+concat(contain(<cap>),<low>)

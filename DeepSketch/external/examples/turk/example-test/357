@@ -1,0 +1,17 @@
+// example 
+"@P",+
+"1",-
+"AlxK",-
+"@\G`",-
+"1=MlO",-
+"@@",-
+"iR",-
+"@i",+
+"",-
+"~Y"",-
+"WtJ9[",-
+"7^s",-
+"@",-
+
+// ground truth 
+concat(<m1>,or(or(<cap>,<let>),<m0>))

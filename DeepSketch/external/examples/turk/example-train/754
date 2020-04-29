@@ -1,0 +1,25 @@
+// example 
+"Pz^@",+
+"Z",+
+"s",-
+"CmY!**Mm",+
+"Et.Lp>@;Q",+
+"+t)}",-
+"&q",-
+"k'Ny",-
+"Xb}F*0^*&&",+
+"",-
+"cy@",-
+"r}",-
+"/o4lj",-
+"8",-
+"$Hl",-
+"F6cHc",+
+"MY",+
+"Y;j,<s",+
+"HuL3(Se",+
+"]}Px.",-
+"CST",+
+
+// ground truth 
+or(startwith(<cap>),and(<vow>,<num>))

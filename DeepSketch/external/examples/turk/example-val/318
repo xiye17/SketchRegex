@@ -1,0 +1,25 @@
+// example 
+"Ldv>B",-
+"!xzgnpomblmqlkt",+
+"!tjkicgrkxl",+
+"!egfgoglhnrx",+
+"!gjzdthmxdifvovi",+
+"!svqsefirfxjpy",+
+"!1Xr",-
+"!{",-
+"!",-
+"!{vS2",-
+"!iiegehlhpunb",+
+"Dm",-
+"",-
+"g",-
+"!jzhmgwfei",+
+"!taacnrn",+
+"!ccuhgomw",+
+"!i|",-
+"8cX&",-
+"!xlbfdkrlitwpfcvz",+
+"!ii",-
+
+// ground truth 
+concat(<m0>,repeatatleast(<low>,7))

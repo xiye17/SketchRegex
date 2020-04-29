@@ -1,0 +1,26 @@
+// example 
+"L6!",+
+",bx#",-
+"!]{b(",+
+"VR",-
+"s](",-
+"{A^N]",-
+"*",-
+"s]\",-
+"!|",+
+"!^~`}V",+
+"{A^Ns",-
+"!",+
+"",-
+"b",-
+"V\",-
+"Lk!",+
+"![",+
+"F`{!",+
+",bx^",-
+"F`!D",+
+"!]{b[",+
+"!^~`}|",+
+
+// ground truth 
+concat(repeatrange(concat(star(notcc(<let>)),concat(repeatatleast(<let>,1),star(notcc(<let>)))),0,2),concat(star(notcc(<let>)),startwith(<m0>)))

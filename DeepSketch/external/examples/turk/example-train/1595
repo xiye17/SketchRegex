@@ -1,0 +1,26 @@
+// example 
+"s!Ia.u",+
+"qf!",+
+"yf!f",+
+"qqq",-
+"Q2B|1u!",+
+"~ghA",-
+"~p4m{",-
+"~p4mD",-
+"yfd!",+
+"~gh~",-
+"",-
+"k!",+
+"qq{",-
+"Es",-
+"akuc!",+
+"6",-
+"E)",-
+"s~}lb!",+
+"q!L",+
+"ak`g!",+
+"z",-
+"Q2B||s!",+
+
+// ground truth 
+contain(concat(and(<low>,<any>),<m0>))

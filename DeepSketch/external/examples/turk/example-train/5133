@@ -1,0 +1,18 @@
+// example 
+"G",-
+"IW",-
+"A]",-
+"I{h7",-
+"U",+
+"+",-
+"",-
+"Fq;",-
+"B8WgS",-
+"O",+
+")N?",-
+"!E2)G",-
+"',2{",-
+"!%",+
+
+// ground truth 
+or(concat(<m0>,<any>),or(or(<m1>,<vow>),<low>))

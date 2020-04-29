@@ -1,0 +1,15 @@
+// example 
+"",+
+"3X",+
+"?"Ll=R",+
+"=6S",+
+"x>7V",+
+"3ADvL",+
+"w"[RL/>D",+
+")vvn}wKlR|",+
+"*"Dd#&Y",+
+"K",-
+"JQX$h!|Z;",+
+
+// ground truth 
+not(or(or(<low>,<vow>),<any>))

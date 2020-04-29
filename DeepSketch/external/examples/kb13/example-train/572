@@ -1,0 +1,25 @@
+// example 
+"}{?",-
+"]",-
+"|6]z",-
+"|6]!",-
+"}Zftase.lwIZNGQDya",+
+"S=",-
+"^{]Wfoei_aUkZLDAkmW",+
+"]]BhspQLrtwcdoKBV",+
+"SA",-
+"x)}{zFMzn\GbxiHTETUL",+
+"^{]Wfoei_aUkZLDAkme",+
+"",-
+"x)}{zFMzn\GbxiHTETUs",+
+"uuBnB{fzsZgCLgPR",+
+"uuBnB{fzsZgCLgPk",+
+"]]BhspQLrtwcdoKBr",+
+"]5}X~",-
+"]5}X'",-
+"}Zftase.lwIZNGQDyQ",+
+"}{M",-
+"~",-
+
+// ground truth 
+repeat(contain(repeat(<let>,5)),3)

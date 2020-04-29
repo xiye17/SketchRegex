@@ -1,0 +1,25 @@
+// example 
+"oe",-
+"XEmiaACOwibi",+
+"muoalusoAUiATodA",+
+"2",-
+"haouSouOLeCIVO",+
+"_>,rJ",-
+"GoEoBaTaMO",+
+"-}{#V",-
+"euoiuIBE",+
+"haouSouOLeCIVu",+
+"ot",-
+"f]N",-
+"XEmiaACOwibU",+
+"",-
+"euoiuIBU",+
+"MiJX",-
+"muoalusoAUiATodu",+
+"fe^",-
+"GoEoBaTaMA",+
+"B",-
+"MiJe",-
+
+// ground truth 
+repeatatleast(concat(<let>,<vow>),4)

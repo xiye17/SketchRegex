@@ -1,0 +1,17 @@
+// example 
+"!oK",+
+"o",-
+"p0",-
+"!U|/g",-
+"_-Y",-
+"!",-
+"!R<X",-
+"",-
+"!*J",-
+"!Ui=]",-
+"!oq",+
+"!S",-
+"!&?y",-
+
+// ground truth 
+concat(concat(<m0>,<vow>),<let>)

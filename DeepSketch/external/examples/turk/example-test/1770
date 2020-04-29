@@ -1,0 +1,16 @@
+// example 
+"~H",-
+"}~i>",-
+"u",-
+"a@#D",-
+"VY",-
+"}unHV",-
+"s42zv",-
+"",-
+"q<'",-
+"l@",+
+"~",-
+"-+X",-
+
+// ground truth 
+and(not(<m0>),concat(<low>,<m1>))

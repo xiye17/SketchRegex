@@ -1,0 +1,25 @@
+// example 
+"r[",+
+"l#z",+
+"ix[$",-
+"m",+
+"AZ",-
+"ilxl&",-
+"OEMf",-
+"a",-
+"IB",-
+"",+
+"a~s",-
+"HV",+
+"HR5nM",+
+"IX4",-
+"dEk~",+
+"WllXv",+
+"O)~Mo",-
+"I",-
+"HuY",+
+"BQi2",+
+"|",+
+
+// ground truth 
+not(startwith(<vow>))
