@@ -143,7 +143,7 @@ def parallel_dfa_reward(batch_tokens, batch_ids, split, cache, output_indexer):
 
         for j, seq in enumerate(tokens): 
             pred = "".join([output_indexer.get_object(x) for x in seq])
-            result = cache.soft_query(split, gold, pred)
+            result = cache.soft_query(gold, pred)
             if result is None:
                 id_pool.append((i, j))
                 to_test_pool.append((gold, pred))
@@ -151,7 +151,7 @@ def parallel_dfa_reward(batch_tokens, batch_ids, split, cache, output_indexer):
             single_results.append(result)
         batch_results.append(single_results)
     
-    print("Pool Size", len(to_test_pool), file=sys.stderr)
+    # print("Pool Size", len(to_test_pool), file=sys.stderr)
     worker = DFAWorker()
     pool = mp.Pool(5)
     results_pool = pool.map(worker.run, to_test_pool)
@@ -268,7 +268,7 @@ def batched_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states,
     context_inf_mask = get_inf_mask(enc_context_mask)
 
     completed = []
-    cur_beam = [([], .0)]
+    cur_beam = [([], .0, .0)]
     # 0 toks, 1 score
     input_words = torch.LongTensor([[output_indexer.index_of(SOS_SYMBOL)]]).to(device)
     input_states = enc_final_states
@@ -279,17 +279,17 @@ def batched_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states,
 
         batch_voc_scores, batch_next_states = model_dec(input_embeded_words, input_states, enc_out_each_word, context_inf_mask)
         batch_voc_scores = torch.log(batch_voc_scores)
-        batch_voc_scores = batch_voc_scores.tolist()
+        batch_voc_scores_cpu = batch_voc_scores.tolist()
 
         next_beam = []
         action_pool = []
-        for b_id, voc_scores in enumerate(batch_voc_scores):
+        for b_id, voc_scores in enumerate(batch_voc_scores_cpu):
             base_score = cur_beam[b_id][1]
             for voc_id, score_cpu in enumerate(voc_scores):
                 # next_beam.append()
                 action_pool.append((b_id, voc_id, base_score + score_cpu, True))
         
-        for b_id, (_, score) in enumerate(completed):
+        for b_id, (_, score, _) in enumerate(completed):
             action_pool.append((b_id, 0, score, False ))
         
         action_pool.sort(key=lambda x: x[2], reverse=True)
@@ -299,9 +299,9 @@ def batched_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states,
         for b_id, voc_id, new_score, is_gen in action_pool[:beam_size]:
             if is_gen:
                 if voc_id == EOS:
-                    next_completed.append((cur_beam[b_id][0], new_score))
+                    next_completed.append((cur_beam[b_id][0], new_score, cur_beam[b_id][2] + batch_voc_scores[b_id][voc_id]))
                 else:
-                    next_beam.append((cur_beam[b_id][0] + [voc_id], new_score))
+                    next_beam.append((cur_beam[b_id][0] + [voc_id], new_score, cur_beam[b_id][2] + batch_voc_scores[b_id][voc_id]))
                     next_input_words.append(voc_id)
                     kept_b_id.append(b_id)
             else:
@@ -316,5 +316,9 @@ def batched_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states,
 
     completed.sort(key=lambda x: x[1], reverse=True)
     ders = [x[0] for x in completed]
-    sum_probs = torch.Tensor([x[1] for x in completed]).to(device)
+    sum_probs = [x[2] for x in completed]
+    
+    # print('---------------')
+    # pred_tokens = [[output_indexer.get_object(t) for t in y] for y in ders]
+    # [print(''.join(p)) for p in pred_tokens]
     return ders, sum_probs
