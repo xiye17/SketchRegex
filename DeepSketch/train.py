@@ -20,7 +20,6 @@ def _parse_args():
 
     parser.add_argument('dataset', help='specified dataset')
     # General system running and configuration options
-    parser.add_argument('--do_nearest_neighbor', dest='do_nearest_neighbor', default=False, action='store_true', help='run the nearest neighbor model')
 
     # Some common arguments for your convenience
     parser.add_argument("--gpu", type=str, default="0", help="gpu id")
@@ -36,7 +35,7 @@ def _parse_args():
     parser.add_argument('--saving_interval', type=int, default=10, help='saving iterval')
 
     # 65 is all you need for GeoQuery
-    parser.add_argument('--decoder_len_limit', type=int, default=65, help='output length limit of the decoder')
+    parser.add_argument('--decoder_len_limit', type=int, default=50, help='output length limit of the decoder')
     parser.add_argument('--input_dim', type=int, default=100, help='input vector dimensionality')
     parser.add_argument('--output_dim', type=int, default=100, help='output vector dimensionality')
     parser.add_argument('--hidden_size', type=int, default=200, help='hidden state dimensionality')
@@ -61,134 +60,6 @@ def _parse_args():
     args = parser.parse_args()
     return args
 
-
-# Semantic parser that uses Jaccard similarity to find the most similar input example to a particular question and
-# returns the associated logical form.
-class NearestNeighborSemanticParser(object):
-    # Take any arguments necessary for parsing
-    def __init__(self, training_data):
-        self.training_data = training_data
-
-    # decode should return a list of k-best lists of Derivations. A Derivation consists of the underlying Example,
-    # a probability, and a tokenized output string. If you're just doing one-best decoding of example ex and you
-    # produce output y_tok, you can just return the k-best list [Derivation(ex, 1.0, y_tok)]
-    def decode(self, test_data):
-        # Find the highest word overlap with the test data
-        test_derivs = []
-        for test_ex in test_data:
-            test_words = test_ex.x_tok
-            best_jaccard = -1
-            best_train_ex = None
-            for train_ex in self.training_data:
-                # Compute word overlap
-                train_words = train_ex.x_tok
-                overlap = len(frozenset(train_words) & frozenset(test_words))
-                jaccard = overlap/float(len(frozenset(train_words) | frozenset(test_words)))
-
-                if jaccard > best_jaccard:
-                    best_jaccard = jaccard
-                    best_train_ex = train_ex
-            # N.B. a list!
-            test_derivs.append([Derivation(test_ex, 1.0, best_train_ex.y_tok)])
-        return test_derivs
-
-
-class Seq2SeqSemanticParser(object):
-    def __init__(self, input_indexer, output_indexer, model_input_emb, model_enc, model_output_emb, model_dec, args):
-        self.input_indexer = input_indexer
-        self.output_indexer = output_indexer
-
-        self.model_input_emb = model_input_emb
-        self.model_enc = model_enc
-        self.model_output_emb = model_output_emb
-        self.model_dec = model_dec
-        self.args = args
-
-    def decode(self, test_data):
-        device = config.device
-        test_derivs = []
-
-        test_data.sort(key=lambda ex: len(ex.x_indexed), reverse=True)
-
-        # Create indexed input
-        input_max_len = np.max(np.asarray([len(ex.x_indexed) for ex in test_data]))
-        all_test_input_data = make_padded_input_tensor(test_data, self.input_indexer, input_max_len, self.args.reverse_input)
-
-        output_max_len = self.args.decoder_len_limit
-        all_test_output_data = make_padded_output_tensor(test_data, self.output_indexer, output_max_len)
-
-        # Create model
-        model_input_emb = self.model_input_emb
-        model_enc = self.model_enc
-        model_output_emb = self.model_output_emb
-        model_dec = self.model_dec
-
-        model_input_emb.eval()
-        model_enc.eval()
-        model_output_emb.eval()
-        model_dec.eval()
-        # Loop over epochs, loop over examples, given some indexed words, call encode_input_for_decoder, then call your
-        # decoder, accumulate losses, update parameters
-
-        # optimizer = None
-        test_loader = BatchDataLoader(test_data, all_test_input_data, all_test_output_data, batch_size=self.args.batch_size, shuffle=False)
-        test_iter = iter(test_loader)
-
-        output_words = []
-        with torch.no_grad():
-            for batch_idx, batch_data in enumerate(test_iter):
-
-                batch_in, batch_in_lens, _, _ = batch_data
-                batch_in, batch_in_lens = batch_in.to(device), batch_in_lens.to(device)
-                enc_out_each_word, enc_context_mask, enc_final_states = \
-                    encode_input_for_decoder(batch_in, batch_in_lens, model_input_emb, model_enc)
-
-                batch_output_words = \
-                    self.decode_batch(enc_out_each_word, enc_context_mask, enc_final_states, self.output_indexer,
-                    model_output_emb, model_dec)
-
-                output_words.append(batch_output_words)
-        output_words = np.vstack(output_words)
-        test_derivs = []
-
-        for ex, words in zip(test_data, output_words):
-            tokens = []
-            for word in words:
-                tok = self.output_indexer.get_object(word)
-                if tok == EOS_SYMBOL:
-                    break
-                tokens.append(tok)
-            test_derivs.append([Derivation(ex, 1.0, tokens)])
-
-        return test_derivs
-
-
-    def decode_batch(self, enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
-                        model_output_emb, model_dec):
-        device = config.device
-        batch_size = enc_context_mask.size(0)
-        context_inf_mask = get_inf_mask(enc_context_mask)
-        input_words = torch.from_numpy(np.asarray([output_indexer.index_of(SOS_SYMBOL) for _ in range(batch_size)]))
-        input_words = input_words.to(device)
-        input_words = input_words.unsqueeze(1)
-        dec_hidden_states = enc_final_states
-
-        dec_output_words = []
-
-        for i in range(self.args.decoder_len_limit):
-            input_embeded_words = model_output_emb.forward(input_words)
-            input_embeded_words = input_embeded_words.reshape((1, batch_size, -1))
-            voc_scores, dec_hidden_states = model_dec(input_embeded_words, dec_hidden_states, enc_out_each_word, context_inf_mask)
-            output_words = voc_scores.argmax(dim=1, keepdim=True)
-            # print(output_words.size(), input_words.size())
-            input_words = output_words.detach()
-
-            output_words_array = output_words.cpu().numpy().flatten()
-            dec_output_words.append(output_words_array)
-
-        dec_output_words = np.asarray(dec_output_words)
-        dec_output_words = dec_output_words.transpose()
-        return dec_output_words
 
 def train_decode_with_output_of_encoder(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer, gt_out, gt_out_lens,
@@ -274,8 +145,7 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
 
     train_output_max_len = np.max(np.asarray([len(ex.y_indexed) for ex in train_data]))
     test_output_max_len = np.max(np.asarray([len(ex.y_indexed) for ex in test_data]))
-    output_max_len = max(train_output_max_len, test_output_max_len)
-    all_train_output_data = make_padded_output_tensor(train_data, output_indexer, output_max_len)
+    all_train_output_data = make_padded_output_tensor(train_data, output_indexer, args.decoder_len_limit)
     all_test_output_data = make_padded_output_tensor(test_data, output_indexer,  np.max(np.asarray([len(ex.y_indexed) for ex in test_data])) )
     all_test_output_data = np.maximum(all_test_output_data, 0)
 
@@ -456,93 +326,6 @@ def monte_carlo_sampling(enc_out_each_word, enc_context_mask,
 
     return build_output_tokens(output_trace, prob_trace, output_indexer, batch_size, sample_size)
 
-def beam_sampling(enc_out_each_word, enc_context_mask,
-                            enc_final_states, output_indexer, gt_out,
-                            model_output_emb, model_dec, output_max_len):
-    device = config.device
-    EOS = output_indexer.get_index(EOS_SYMBOL)
-    input_max_length = enc_out_each_word.size(0)
-    batch_size = enc_context_mask.size(0)
-    sample_size = args.sample_size
-    context_inf_mask = get_inf_mask(enc_context_mask)
-    input_words = torch.from_numpy(np.asarray([output_indexer.index_of(SOS_SYMBOL) for _ in range(batch_size)]))
-    input_words = input_words.to(device)
-    input_words = input_words.unsqueeze(1)
-    dec_hidden_states = enc_final_states
-
-    output_trace = []
-    acc_log_probs = []
-
-    # the first touch
-    prev_tokens = [[[]]] * batch_size
-    terminated_flag = np.zeros((batch_size, sample_size), dtype=np.int32)
-
-    input_embeded_words = model_output_emb.forward(input_words)
-    input_embeded_words = input_embeded_words.reshape((1, batch_size, -1))
-    voc_scores, dec_hidden_states = model_dec(input_embeded_words, dec_hidden_states, enc_out_each_word, context_inf_mask)
-    voc_scores = torch.log(voc_scores)
-    acc_log_probs, output_words = torch.topk(voc_scores, sample_size, 1)
-    prev_tokens, terminated_flag, _, _ = track_tokens(prev_tokens, terminated_flag, output_words.cpu().numpy(), batch_size, sample_size, model_dec.voc_size, EOS)
-    input_words = output_words.detach().reshape([-1,1])
-
-    expand_size = batch_size * sample_size
-    context_inf_mask = context_inf_mask.unsqueeze(1).repeat(1, sample_size, 1).reshape([expand_size, -1])
-    # enc_out_each_word = enc_out_each_word.repeat(1, sample_size, 1)
-    enc_out_each_word = enc_out_each_word.unsqueeze(2).repeat(1, 1, sample_size, 1).reshape([input_max_length, expand_size,-1])
-    dec_hidden_states = (dec_hidden_states[0].transpose(0,1).repeat(1, sample_size, 1).reshape([1, expand_size, -1]),
-        dec_hidden_states[1].transpose(0,1).repeat(1, sample_size, 1).reshape([1, expand_size, -1]))
-
-    # terminated flag B * beam_size, mark if a beam terminated
-    batch_selection = np.repeat(np.arange(batch_size)[:,np.newaxis],sample_size,axis=1)
-    batch_selection = torch.LongTensor(batch_selection).to(device)
-
-    for i in range(1, output_max_len):
-        input_embeded_words = model_output_emb.forward(input_words)
-        input_embeded_words = input_embeded_words.reshape((1, expand_size, -1))
-        voc_scores, dec_hidden_states = model_dec(input_embeded_words, dec_hidden_states, enc_out_each_word, context_inf_mask)
-        voc_scores = torch.log(voc_scores)
-        potential_scores = acc_log_probs.view([-1, 1])+ voc_scores.masked_fill_(torch.ByteTensor(terminated_flag).view([-1, 1]), 0)
-        acc_log_probs, picked_beams = torch.topk(potential_scores.view([batch_size, -1]), sample_size, 1)
-        # beam id to src
-        picked_beams = picked_beams.detach().cpu().numpy()
-        prev_tokens, terminated_flag, input_tokens, input_srcs = track_tokens(prev_tokens, terminated_flag, picked_beams, batch_size, sample_size, model_dec.voc_size, EOS)
-        print(acc_log_probs)
-        print(acc_log_probs.size())
-        print(potential_scores.view([batch_size, -1]))
-        print(terminated_flag)
-        print(prev_tokens)
-        if np.sum(terminated_flag) == expand_size:
-            break
-        input_words = torch.LongTensor(input_tokens).reshape([-1, 1]).to(device)
-        # pick up correct src
-        input_srcs = torch.LongTensor(input_srcs).to(device)
-        dec_hidden_states = dec_hidden_states[0].view([batch_size,sample_size,-1])[batch_selection, input_srcs].view([1,expand_size,-1]), \
-                        dec_hidden_states[1].view([batch_size,sample_size,-1])[batch_selection, input_srcs].view([1,expand_size,-1])
-
-
-def track_tokens(prev_tokens,terminated_flag, picked_beams, batch_size, sample_size, voc_size, EOS):
-    next_tokens = []
-    next_terminated_flag = []
-    src, dst = np.divmod(picked_beams, voc_size)
-    # print(prev_tokens)
-    # print(terminated_flag)
-    for i in range(batch_size):
-        b_tokens = []
-        b_terminated = []
-        for j in range(sample_size):
-            src_idx = src[i][j]
-            dst_idx = dst[i][j]
-            print(src_idx, dst_idx)
-            if terminated_flag[i][src_idx]:
-                b_tokens.append(prev_tokens[i][src_idx])
-                b_terminated.append(1)
-            else:
-                b_tokens.append(prev_tokens[i][src_idx] if dst_idx == EOS else (prev_tokens[i][src_idx] + [dst_idx]))
-                b_terminated.append(1 if dst_idx == EOS else 0)
-        next_tokens.append(b_tokens)
-        next_terminated_flag.append(b_terminated)
-    return next_tokens, np.asarray(next_terminated_flag), dst, src
-
 def build_output_tokens(output_trace, prob_trace, output_indexer, batch_size, sample_size):
     EOS = output_indexer.get_index(EOS_SYMBOL)
     acc_log_probs = []
@@ -575,7 +358,6 @@ def build_output_tokens(output_trace, prob_trace, output_indexer, batch_size, sa
 def naive_beam_sampling(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer,
                             model_output_emb, model_dec, output_max_len):
-    EOS = output_indexer.get_index(EOS_SYMBOL)
     batch_size = enc_context_mask.size(0)
     sample_size = args.sample_size
 
@@ -589,11 +371,20 @@ def naive_beam_sampling(enc_out_each_word, enc_context_mask,
     batch_tokens = []
     batch_probs = []
     for id_exs in range(batch_size):
-        single_tokens, singlea_probs = batched_beam_sampling(enc_out_each_word_list[id_exs].unsqueeze(1), enc_context_mask_list[id_exs].unsqueeze(0),
+        single_tokens, single_probs = batched_beam_sampling(enc_out_each_word_list[id_exs].unsqueeze(1), enc_context_mask_list[id_exs].unsqueeze(0),
             (enc_final_h_list[id_exs].unsqueeze(1), enc_final_c_list[id_exs].unsqueeze(1)), output_indexer, model_output_emb, model_dec, output_max_len, sample_size)
 
+        # ensure correctness
+        # if len(batch_tokens) < sample_size:
+        for _ in range(len(single_tokens),sample_size):
+            single_tokens.append([])
+            x = torch.tensor(-1000000.0,requires_grad=True)
+            single_probs.append(x)
+
+        single_probs = torch.stack(single_probs).to(config.device)
         batch_tokens.append(single_tokens)
-        batch_probs.append(singlea_probs)
+        batch_probs.append(single_probs)
+
     batch_probs = torch.stack(batch_probs)
     return batch_tokens, batch_probs
 
@@ -616,7 +407,7 @@ def norm_mml_loss(acc_log_probs, output_rewards):
 
 def origin_mml_loss(acc_log_probs, output_rewards):
     probs = torch.exp(acc_log_probs.detach())
-    reward = probs.cpu().numpy() * output_rewards
+    reward = probs.cpu() * output_rewards
     reward = reward.mean(1).mean()
     output_rewards = output_rewards * probs
     rewards_sum = output_rewards.sum(1, keepdim=True)
@@ -638,8 +429,8 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer, batch_out, batch_ids,
                             model_output_emb, model_dec, output_max_len, split):
     device = config.device
-    # model_output_emb.eval()
-    # model_dec.eval()
+    model_output_emb.eval()
+    model_dec.eval()
     if args.do_montecarlo:
         output_tokens, acc_log_probs = monte_carlo_sampling(enc_out_each_word, enc_context_mask,
                                 enc_final_states, output_indexer,
@@ -647,9 +438,6 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
     else:
         output_tokens, acc_log_probs = naive_beam_sampling(enc_out_each_word, enc_context_mask,
                     enc_final_states, output_indexer, model_output_emb, model_dec, output_max_len)
-    # output_tokens, acc_log_probs = beam_sampling(enc_out_each_word, enc_context_mask,
-    #                         enc_final_states, output_indexer, gt_out,
-    #                         model_output_emb, model_dec, output_max_len)
 
     if args.oracle_mode == "sketch":
         output_rewards, num_coverage, num_match = parallel_orcale_reward(output_tokens, batch_ids, split, cache, output_indexer)
@@ -719,11 +507,9 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
     test_output_max_len = np.max(np.asarray([len(ex.y_indexed) for ex in test_data]))
     all_test_output_data = make_padded_output_tensor(test_data, output_indexer,  test_output_max_len)
     all_test_output_data = np.maximum(all_test_output_data, 0)
-    output_max_len = max(train_output_max_len, test_output_max_len)
 
     print("Train length: %i" % input_max_len)
     print("Train output length: %i" % np.max(np.asarray([len(ex.y_indexed) for ex in train_data])))
-    print("Train matrix: %s; shape = %s" % (all_train_input_data, all_train_input_data.shape))
 
     # Loop over epochs, loop over examples, given some indexed words, call encode_input_for_decoder, then call your
     # decoder, accumulate losses, update parameters
@@ -737,7 +523,7 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
         {'params': model_input_emb.parameters()},
         {'params': model_enc.parameters()},
         {'params': model_output_emb.parameters()},
-        {'params': model_dec.parameters()}], lr=0.001)
+        {'params': model_dec.parameters()}], lr=0.0003)
 
     clip = args.clip_grad
     best_dev_perplexity = np.inf
@@ -755,7 +541,7 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
         epoch_match = 0
         epoch_reward = 0.0
         for batch_idx, batch_data in enumerate(train_iter):
-            print("Training {} {}".format(epoch, batch_idx), file=sys.stderr)
+            # print("Training {} {}".format(epoch, batch_idx), file=sys.stderr)
             optimizer.zero_grad()
 
             batch_in, batch_in_lens, batch_out, batch_out_lens, batch_ids = batch_data
@@ -766,7 +552,7 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
 
             loss, reward, num_coverage,  num_match = \
                 train_decoder_with_oracle(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
-                batch_out, batch_ids, model_output_emb, model_dec, output_max_len, "train")
+                batch_out, batch_ids, model_output_emb, model_dec, args.decoder_len_limit, "train")
             epoch_coverage += num_coverage
             epoch_match += num_match
             epoch_reward += reward
@@ -786,7 +572,7 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
         #     continue
 
         # start saving
-        dev_perplexity = oracle_perplexity(test_loader, model_input_emb, model_enc, model_output_emb, model_dec, input_indexer, output_indexer, output_max_len)
+        dev_perplexity = oracle_perplexity(test_loader, model_input_emb, model_enc, model_output_emb, model_dec, input_indexer, output_indexer, args.decoder_len_limit)
         print('epoch {} dev loss: {}'.format(epoch, dev_perplexity))
 
         parameters = {'input_emb': model_input_emb.state_dict(), 'enc': model_enc.state_dict(),
@@ -798,8 +584,8 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
             best_dev_perplexity = dev_perplexity
             torch.save(parameters, get_model_file(args.dataset, args.model_id + "-best"))
 
-    parser = Seq2SeqSemanticParser(input_indexer, output_indexer, model_input_emb, model_enc, model_output_emb, model_dec, args)
-    return parser
+    # parser = Seq2SeqSemanticParser(input_indexer, output_indexer, model_input_emb, model_enc, model_output_emb, model_dec, args)
+    # return parser
 
 # Evaluates decoder against the data in test_data (could be dev data or test data). Prints some output
 # every example_freq examples. Writes predictions to outfile if defined. Evaluation requires
@@ -850,10 +636,11 @@ if __name__ == '__main__':
     # global device
     set_global_device(args.gpu)
     if args.do_rl:
-        if args.oracle_mode == "sketch":
+        args.oracle_mode = "sketch" if 'Sketch' in args.dataset else 'regex'
+        if args.oracle_mode == 'sketch':
             cache = SynthCache(args.cache_id, args.dataset)
         else:
-            cache = DfaCache(args.cache_id)
+            cache = DFACache(args.cache_id, args.dataset)
 
     print("Pytroch using device ", config.device)
     random.seed(args.seed)
@@ -863,25 +650,21 @@ if __name__ == '__main__':
     train_data_indexed, dev_data_indexed = index_datasets(train, dev, input_indexer, output_indexer, args.decoder_len_limit)
 
     print("Original %i train exs, %i dev exs" % (len(train_data_indexed), len(dev_data_indexed)))
-    train_data_indexed = filter_data(train_data_indexed)
-    dev_data_indexed = filter_data(dev_data_indexed)
+    # train_data_indexed = filter_data(train_data_indexed)
+    # dev_data_indexed = filter_data(dev_data_indexed)
 
     print("%i train exs, %i dev exs, %i input types, %i output types" % (len(train_data_indexed), len(dev_data_indexed), len(input_indexer), len(output_indexer)))
-    print("Input indexer: %s" % input_indexer)
-    print("Output indexer: %s" % output_indexer)
-    print("Here are some examples post tokenization and indexing:")
-    for i in range(0, min(len(train_data_indexed), 10)):
-        print(train_data_indexed[i])
+    # print("Input indexer: %s" % input_indexer)
+    # print("Output indexer: %s" % output_indexer)
+    # print("Here are some examples post tokenization and indexing:")
+    # for i in range(0, min(len(train_data_indexed), 10)):
+    #     print(train_data_indexed[i])
 
     try:
-        if args.do_nearest_neighbor:
-            decoder = NearestNeighborSemanticParser(train_data_indexed)
-            evaluate(dev_data_indexed, decoder)
+        if args.do_rl:
+            train_model_encdec_rl(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
         else:
-            if args.do_rl:
-                train_model_encdec_rl(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
-            else:
-                train_model_encdec_ml(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
+            train_model_encdec_ml(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
     except Exception as err:
         print("Exception Catched")
         if args.do_rl:
