@@ -5,7 +5,29 @@ import shutil
 import pickle
 import subprocess
 from data import get_cache_file
-from external.regexDFAEquals import silent_eual_test
+from external.regexDFAEquals import unprocess_regex, silent_eual_test
+
+class DFAWorker:
+    def __init__(self):
+        pass
+
+    def run(self, pair):
+        gold, predicted = pair
+        gold = unprocess_regex(gold)
+        predicted = unprocess_regex(predicted)
+
+        if gold == predicted:
+            return "perfect"
+        try:
+            out = subprocess.check_output(
+                ['java', '-jar', './external/regex_dfa_equals.jar', '{}'.format(gold), '{}'.format(predicted)])
+            if '\\n1' in str(out):
+                return "true"
+            else:
+                return "false"
+        except Exception:
+            return "false"
+        return "false"
 
 class SynthWorker:
     def __init__(self, dataset, split):
@@ -77,7 +99,7 @@ class DfaCache(object):
         if key in self.data:
             return self.data[key]
         else:
-            return self.data[key]
+            None
     
     def soft_write(self, r1, r2, result):
         key = r1 + "DFADIV" + r2

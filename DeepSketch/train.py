@@ -572,43 +572,6 @@ def build_output_tokens(output_trace, prob_trace, output_indexer, batch_size, sa
 
     return batch_tokens, acc_log_probs
 
-def single_exs_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
-                    model_output_emb, model_dec, decoder_len_limit, beam_size):
-    device = config.device
-    EOS = output_indexer.get_index(EOS_SYMBOL)
-    context_inf_mask = get_inf_mask(enc_context_mask)
-    dec_hidden_states = enc_final_states
-
-    current_beam = Beam(1)
-    current_beam.add((dec_hidden_states, output_indexer.index_of(SOS_SYMBOL), [], 0), 0)
-    for _ in range(decoder_len_limit):
-        next_beam = Beam(beam_size)
-        for ((state, tok_to_feed, y_toks, acc_log_prob), score) in current_beam.get_elts_and_scores():
-            if tok_to_feed == EOS:
-                # do nothing
-                next_beam.add((state, tok_to_feed, y_toks, acc_log_prob), score)
-                continue
-
-            # tok not EOS
-            input_words = torch.from_numpy(np.asarray([[tok_to_feed]])).to(device)
-            input_embeded_words = model_output_emb.forward(input_words)
-            voc_scores, next_state = model_dec(input_embeded_words, state, enc_out_each_word, context_inf_mask)
-            voc_scores = torch.log(voc_scores)
-            voc_scores = voc_scores.view(-1)
-            voc_scores_cpu = voc_scores.detach().cpu().numpy().flatten()
-            for (voc_id, score_cpu) in enumerate(voc_scores_cpu):
-                next_beam.add((next_state, voc_id, y_toks+[voc_id], acc_log_prob + voc_scores[voc_id]), score + score_cpu)
-        current_beam = next_beam
-
-    ders = []
-    sum_probs = []
-    for ((_, _, y_toks, probs), score) in current_beam.get_elts_and_scores():
-        ders.append(y_toks[:-1])
-        sum_probs.append(probs)
-    sum_probs = torch.stack(sum_probs)
-
-    return ders, sum_probs
-
 def naive_beam_sampling(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer,
                             model_output_emb, model_dec, output_max_len):
@@ -626,7 +589,7 @@ def naive_beam_sampling(enc_out_each_word, enc_context_mask,
     batch_tokens = []
     batch_probs = []
     for id_exs in range(batch_size):
-        single_tokens, singlea_probs = single_exs_beam_sampling(enc_out_each_word_list[id_exs].unsqueeze(1), enc_context_mask_list[id_exs].unsqueeze(0),
+        single_tokens, singlea_probs = batched_beam_sampling(enc_out_each_word_list[id_exs].unsqueeze(1), enc_context_mask_list[id_exs].unsqueeze(0),
             (enc_final_h_list[id_exs].unsqueeze(1), enc_final_c_list[id_exs].unsqueeze(1)), output_indexer, model_output_emb, model_dec, output_max_len, sample_size)
 
         batch_tokens.append(single_tokens)
@@ -691,7 +654,7 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
     if args.oracle_mode == "sketch":
         output_rewards, num_coverage, num_match = parallel_orcale_reward(output_tokens, batch_ids, split, cache, output_indexer)
     else:
-        output_rewards, num_coverage, num_match = dfa_orcale_reward(output_tokens, batch_out, split, cache, output_indexer)
+        output_rewards, num_coverage, num_match = parallel_dfa_reward(output_tokens, batch_out, split, cache, output_indexer)
 
     output_rewards = torch.from_numpy(output_rewards).float().to(device)
     loss, reward = origin_mml_loss(acc_log_probs, output_rewards)
