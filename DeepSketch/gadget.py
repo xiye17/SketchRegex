@@ -37,7 +37,7 @@ def make_padded_input_tensor(exs, input_indexer, max_len, reverse_input):
 
 def masked_cross_entropy(voc_scores, gt, mask):
     corss_entropy = -torch.log(torch.gather(voc_scores, 1, gt.view(-1, 1)))
-    loss = corss_entropy.squeeze(1).masked_select(mask.byte()).sum()
+    loss = corss_entropy.squeeze(1).masked_select(mask).sum()
     return loss
 
 # Runs the encoder (input embedding layer and encoder as two separate modules) on a tensor of inputs x_tensor with

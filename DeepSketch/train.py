@@ -34,8 +34,7 @@ def _parse_args():
     parser.add_argument('--saving_from', type=int, default=50, help='saving from - epoch')
     parser.add_argument('--saving_interval', type=int, default=10, help='saving iterval')
 
-    # 65 is all you need for GeoQuery
-    parser.add_argument('--decoder_len_limit', type=int, default=50, help='output length limit of the decoder')
+    parser.add_argument('--decoder_len_limit', type=int, default=60, help='output length limit of the decoder')
     parser.add_argument('--input_dim', type=int, default=100, help='input vector dimensionality')
     parser.add_argument('--output_dim', type=int, default=100, help='output vector dimensionality')
     parser.add_argument('--hidden_size', type=int, default=200, help='hidden state dimensionality')
@@ -145,6 +144,8 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
 
     train_output_max_len = np.max(np.asarray([len(ex.y_indexed) for ex in train_data]))
     test_output_max_len = np.max(np.asarray([len(ex.y_indexed) for ex in test_data]))
+    output_max_len = max(train_output_max_len, test_output_max_len)
+
     all_train_output_data = make_padded_output_tensor(train_data, output_indexer, args.decoder_len_limit)
     all_test_output_data = make_padded_output_tensor(test_data, output_indexer,  np.max(np.asarray([len(ex.y_indexed) for ex in test_data])) )
     all_test_output_data = np.maximum(all_test_output_data, 0)
@@ -207,7 +208,7 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
             tf_ratio = get_teaching_forcing_ratio(epoch)
             loss, num_entry = \
                 train_decode_with_output_of_encoder(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
-                batch_out, batch_out_lens, model_output_emb, model_dec, args.decoder_len_limit, tf_ratio)
+                batch_out, batch_out_lens, model_output_emb, model_dec, output_max_len, tf_ratio)
 
             loss.backward()
             epoch_loss += (loss.item() * num_entry)
