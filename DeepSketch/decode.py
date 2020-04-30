@@ -22,8 +22,7 @@ def _parse_args():
     parser.add_argument('model_id', help='specified model id')
     
     parser.add_argument('--split', type=str, default='test', help='test split')
-    parser.add_argument('--do_testbeam', dest='do_testbeam', default=False, action='store_true', help='test entire beam')
-    parser.add_argument('--do_output', dest='do_output', default=False, action='store_true', help='only output')
+    parser.add_argument('--do_eval', dest='do_eval', default=False, action='store_true', help='only output')
     parser.add_argument('--outfile', dest='outfile', default='beam_output.txt', help='output file of beam')
     # parser.add_argument('--outfolder', dest='outfolder', default='./beam_output', help='output folder')
 
@@ -105,6 +104,8 @@ def test_model(model_path, test_data, input_indexer, output_indexer, args):
 
 
     output_derivations(test_data, pred_derivations, args, out_to_folder=True)
+    if args.do_eval:
+        evaluate(test_data, pred_derivations)
 
 
 def beam_decoder(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
@@ -135,7 +136,7 @@ def output_derivations(test_data, pred_derivations, args, out_to_folder=False):
             for i, ex in enumerate(test_data):
                 out.write("".join(selected_derivs[i]) + "\n")
 
-def evaluate(test_data, pred_derivations, print_output=True, outfile=None, show_example=False):
+def evaluate(test_data, pred_derivations, print_output=True, outfile=None):
     # e = GeoqueryDomain()
     # print(pred_derivations)
     # selected_derivs, denotation_correct = e.compare_answers([ex.y for ex in test_data], pred_derivations)
@@ -146,7 +147,6 @@ def evaluate(test_data, pred_derivations, print_output=True, outfile=None, show_
     total_tokens = 0
     pred_match = []
     for i, ex in enumerate(test_data):
-        print("----------------------------", ex.id, "-------------------------")
         # Compute accuracy metrics
         y_pred = ' '.join(selected_derivs[i])
         # Check exact match
