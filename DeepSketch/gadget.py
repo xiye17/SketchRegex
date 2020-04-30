@@ -97,7 +97,7 @@ def orcale_reward(batch_tokens, batch_ids, split, cache, output_indexer):
 def dfa_orcale_reward(batch_tokens, batch_ids, split, cache, output_indexer):
     batch_results = []
     EOS = output_indexer.get_index(EOS_SYMBOL)
-    batch_gts = batch_ids.numpy()
+    batch_gts = batch_ids.tolist()
     for i, tokens in enumerate(batch_tokens):
         single_results = []
         gold = []

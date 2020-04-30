@@ -429,8 +429,6 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer, batch_out, batch_ids,
                             model_output_emb, model_dec, output_max_len, split):
     device = config.device
-    # model_output_emb.eval()
-    # model_dec.eval()
     if args.do_montecarlo:
         output_tokens, acc_log_probs = monte_carlo_sampling(enc_out_each_word, enc_context_mask,
                                 enc_final_states, output_indexer,
@@ -467,7 +465,7 @@ def oracle_perplexity(test_loader,
     args.do_montecarlo = False
     with torch.no_grad():
         for batch_idx, batch_data in enumerate(test_iter):
-            print("Evaluating {}".format(batch_idx), file=sys.stderr)
+            # print("Evaluating {}".format(batch_idx), file=sys.stderr)
             batch_in, batch_in_lens, batch_out, batch_out_lens, batch_ids = batch_data
             batch_in, batch_in_lens, batch_out, batch_out_lens = \
                 batch_in.to(device), batch_in_lens.to(device), batch_out.to(device), batch_out_lens.to(device)
@@ -484,6 +482,14 @@ def oracle_perplexity(test_loader,
     perperlexity = epoch_match
     args.do_montecarlo = _do_montecarlo
     return -perperlexity
+
+def eval_mode(*args):
+    for x in args:
+        x.eval()
+
+def train_mode(*args):
+    for x in args:
+        x.train()
 
 def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, args):
     device = config.device
@@ -528,12 +534,8 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
     clip = args.clip_grad
     best_dev_perplexity = np.inf
     for epoch in range(1, args.epochs + 1):
-
-        model_input_emb.train()
-        model_enc.train()
-        model_output_emb.train()
-        model_dec.train()
-
+        
+        train_mode(model_input_emb, model_enc, model_output_emb, model_dec)
         print('epoch {}'.format(epoch))
         epoch_loss = 0.0
         num_batch = 0.0
