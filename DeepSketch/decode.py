@@ -103,57 +103,15 @@ def test_model(model_path, test_data, input_indexer, output_indexer, args):
             pred_derivations.append(beam_decoder(enc_out_each_word, enc_context_mask, enc_final_states,
                 output_indexer, model_output_emb, model_dec, args.decoder_len_limit, args.beam_size))
 
-    # if args.do_output:
-    #     if args.do_testbeam:
-    #         output_derivations(test_data, pred_derivations, args, out_to_folder=True)
-    #     else:
-    #         output_derivations(test_data, pred_derivations, args)
-    # else:
-    #     if args.do_testbeam:
-    #         evaluate_beam(test_data, pred_derivations, args)
-    #     else:
-    #         evaluate(test_data, pred_derivations, outfile=args.outfile)
 
     output_derivations(test_data, pred_derivations, args, out_to_folder=True)
 
+
 def beam_decoder(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
                     model_output_emb, model_dec, decoder_len_limit, beam_size):
-    device = config.device
-    EOS = output_indexer.get_index(EOS_SYMBOL)
-    context_inf_mask = get_inf_mask(enc_context_mask)
-    dec_hidden_states = enc_final_states
-    
-    current_beam = Beam(1)
-    current_beam.add((dec_hidden_states, output_indexer.index_of(SOS_SYMBOL), []), 0)
-
-    for _ in range(decoder_len_limit):
-        next_beam = Beam(beam_size)
-        for ((state, tok_to_feed, y_toks), score) in current_beam.get_elts_and_scores():
-            if tok_to_feed == EOS:
-                # do nothing
-                next_beam.add((state, tok_to_feed, y_toks), score)
-                continue
-
-            # tok not EOS
-            input_words = torch.from_numpy(np.asarray([[tok_to_feed]])).to(device)
-            input_embeded_words = model_output_emb.forward(input_words)
-            voc_scores, next_state = model_dec(input_embeded_words, state, enc_out_each_word, context_inf_mask)
-            voc_scores = voc_scores.cpu().numpy().flatten()
-            voc_scores = np.log(voc_scores)
-            for (voc_id, voc_score) in enumerate(voc_scores):
-                next_beam.add((next_state, voc_id, y_toks+[voc_id]), score + voc_score)
-        current_beam = next_beam
-    
-    # transform to deriviations
-    pred_tokens = []
-    for ((_, _, y_toks), score) in current_beam.get_elts_and_scores():
-        tokens = []
-        for word in y_toks:
-            if word == EOS:
-                break
-            tok = output_indexer.get_object(word)
-            tokens.append(tok)
-        pred_tokens.append(tokens)
+    ders, scores = batched_beam_sampling(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
+                    model_output_emb, model_dec, decoder_len_limit, beam_size)
+    pred_tokens = [[output_indexer.get_object(t) for t in y] for y in ders]
     return pred_tokens
 
 def makedir_f(dir):
