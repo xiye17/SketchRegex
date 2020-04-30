@@ -20,7 +20,7 @@ class DFAWorker:
             return "true"
         try:
             out = subprocess.check_output(
-                ['java', '-jar', './external/regex_dfa_equals.jar', '{}'.format(gold), '{}'.format(predicted)])
+                ['java', '-jar', './external/regex_dfa_equals.jar', '{}'.format(gold), '{}'.format(predicted)], timeout=2)
             if '\\n1' in str(out):
                 return "true"
             else:
