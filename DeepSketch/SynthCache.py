@@ -6,6 +6,7 @@ import pickle
 import subprocess
 from data import get_cache_file
 from external.regexDFAEquals import unprocess_regex, silent_eual_test
+import random
 
 class DFAWorker:
     def __init__(self):
@@ -15,9 +16,8 @@ class DFAWorker:
         gold, predicted = pair
         gold = unprocess_regex(gold)
         predicted = unprocess_regex(predicted)
-
         if gold == predicted:
-            return "perfect"
+            return "true"
         try:
             out = subprocess.check_output(
                 ['java', '-jar', './external/regex_dfa_equals.jar', '{}'.format(gold), '{}'.format(predicted)])
@@ -63,9 +63,9 @@ class SynthWorker:
 
         return result
 
-class DfaCache(object):
-    def __init__(self, cache_id):
-        self.cache_id = "DFA-" + cache_id
+class DFACache(object):
+    def __init__(self, cache_id, dataset):
+        self.cache_id = "DFA-" + dataset + '-' + cache_id
         self.cache_file = get_cache_file(self.cache_id)
         print(self.cache_file)
         self.data = {}
