@@ -240,9 +240,6 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
                 'output_emb': model_output_emb.state_dict(), 'dec': model_dec.state_dict()}
             torch.save(parameters, get_model_file(args.dataset, args.model_id + "-" + str(epoch)))
 
-    parser = Seq2SeqSemanticParser(input_indexer, output_indexer, model_input_emb, model_enc, model_output_emb, model_dec, args)
-    return parser
-
 def train_model_rl_warm_start(train_data, test_data, input_indexer, output_indexer, args):
     device = config.device
     if args.warm_model_id is None:
@@ -353,7 +350,6 @@ def build_output_tokens(output_trace, prob_trace, output_indexer, batch_size, sa
             cnt += 1
 
     acc_log_probs = torch.stack(acc_log_probs).view((sample_size, batch_size)).transpose(0, 1)
-
     return batch_tokens, acc_log_probs
 
 def naive_beam_sampling(enc_out_each_word, enc_context_mask,
@@ -389,10 +385,21 @@ def naive_beam_sampling(enc_out_each_word, enc_context_mask,
     batch_probs = torch.stack(batch_probs)
     return batch_tokens, batch_probs
 
-def mml_loss(acc_log_probs, output_rewards):
-    reward = np.exp(acc_log_probs.detach().cpu().numpy()) * output_rewards
+def acc_reward_loss(acc_log_probs, output_rewards):
+    reward = np.exp(acc_log_probs.detach()) * output_rewards
     reward = reward.mean(1).mean()
     loss = - acc_log_probs * output_rewards
+    loss = loss.mean(1).mean()
+    return loss, reward
+
+def policy_gradient_loss(acc_log_probs, output_rewards):
+    probs = torch.exp(acc_log_probs.detach())
+    reward = probs * output_rewards
+    reward = reward.mean(1).mean()
+
+    baseline = output_rewards.mean(1)
+    subrewards = output_rewards - baseline.unsqueeze(1)
+    loss = - acc_log_probs * subrewards
     loss = loss.mean(1).mean()
     return loss, reward
 
@@ -444,7 +451,10 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
         output_rewards, num_coverage, num_match = parallel_dfa_reward(output_tokens, batch_out, split, cache, output_indexer)
 
     output_rewards = torch.from_numpy(output_rewards).float().to(device)
-    loss, reward = origin_mml_loss(acc_log_probs, output_rewards)
+    if args.do_montecarlo:
+        loss, reward = policy_gradient_loss(acc_log_probs, output_rewards)
+    else:
+        loss, reward = origin_mml_loss(acc_log_probs, output_rewards)
     return loss, reward, num_coverage, num_match
 
 
