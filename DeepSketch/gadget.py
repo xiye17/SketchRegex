@@ -124,7 +124,7 @@ def dfa_orcale_reward(batch_tokens, batch_ids, split, cache, output_indexer):
     return batch_rewards, num_coverage, num_match
 
 def parallel_dfa_reward(batch_tokens, batch_ids, split, cache, output_indexer):
-    batch_ids = batch_ids.numpy()
+    batch_ids = batch_ids.tolist()
     EOS = output_indexer.get_index(EOS_SYMBOL)
 
     batch_results = []

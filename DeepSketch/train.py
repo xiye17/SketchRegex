@@ -378,7 +378,7 @@ def naive_beam_sampling(enc_out_each_word, enc_context_mask,
         # if len(batch_tokens) < sample_size:
         for _ in range(len(single_tokens),sample_size):
             single_tokens.append([])
-            x = torch.tensor(-1000000.0,requires_grad=True)
+            x = torch.tensor(-1000000.0).to(config.device)
             single_probs.append(x)
 
         single_probs = torch.stack(single_probs).to(config.device)
@@ -407,7 +407,7 @@ def norm_mml_loss(acc_log_probs, output_rewards):
 
 def origin_mml_loss(acc_log_probs, output_rewards):
     probs = torch.exp(acc_log_probs.detach())
-    reward = probs.cpu() * output_rewards
+    reward = probs * output_rewards
     reward = reward.mean(1).mean()
     output_rewards = output_rewards * probs
     rewards_sum = output_rewards.sum(1, keepdim=True)
@@ -429,8 +429,8 @@ def train_decoder_with_oracle(enc_out_each_word, enc_context_mask,
                             enc_final_states, output_indexer, batch_out, batch_ids,
                             model_output_emb, model_dec, output_max_len, split):
     device = config.device
-    model_output_emb.eval()
-    model_dec.eval()
+    # model_output_emb.eval()
+    # model_dec.eval()
     if args.do_montecarlo:
         output_tokens, acc_log_probs = monte_carlo_sampling(enc_out_each_word, enc_context_mask,
                                 enc_final_states, output_indexer,
