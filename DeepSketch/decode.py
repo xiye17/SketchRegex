@@ -9,7 +9,6 @@ from models import *
 from data import *
 from utils import *
 import math
-from external.regexDFAEquals import dfa_eual_test
 from os.path import join
 from gadget import *
 import os
@@ -32,7 +31,7 @@ def _parse_args():
     parser.add_argument('--beam_size', type=int, default=20, help='beam size')
 
     # 65 is all you need for GeoQuery
-    parser.add_argument('--decoder_len_limit', type=int, default=65, help='output length limit of the decoder')
+    parser.add_argument('--decoder_len_limit', type=int, default=50, help='output length limit of the decoder')
     parser.add_argument('--input_dim', type=int, default=100, help='input vector dimensionality')
     parser.add_argument('--output_dim', type=int, default=100, help='output vector dimensionality')
     parser.add_argument('--hidden_size', type=int, default=200, help='hidden state dimensionality')
@@ -104,9 +103,6 @@ def test_model(model_path, test_data, input_indexer, output_indexer, args):
 
 
     output_derivations(test_data, pred_derivations, args, out_to_folder=True)
-    if args.do_eval:
-        evaluate(test_data, pred_derivations)
-
 
 def beam_decoder(enc_out_each_word, enc_context_mask, enc_final_states, output_indexer,
                     model_output_emb, model_dec, decoder_len_limit, beam_size):
@@ -118,7 +114,7 @@ def beam_decoder(enc_out_each_word, enc_context_mask, enc_final_states, output_i
 def makedir_f(dir):
     if os.path.exists(dir):
         shutil.rmtree(dir)
-    os.mkdir(dir)
+    os.makedirs(dir)
 
 def output_derivations(test_data, pred_derivations, args, out_to_folder=False):
 
@@ -136,7 +132,7 @@ def output_derivations(test_data, pred_derivations, args, out_to_folder=False):
             for i, ex in enumerate(test_data):
                 out.write("".join(selected_derivs[i]) + "\n")
 
-def evaluate(test_data, pred_derivations, print_output=True, outfile=None):
+def dfa_evaluate(test_data, pred_derivations, print_output=True, outfile=None):
     # e = GeoqueryDomain()
     # print(pred_derivations)
     # selected_derivs, denotation_correct = e.compare_answers([ex.y for ex in test_data], pred_derivations)
@@ -172,54 +168,6 @@ def evaluate(test_data, pred_derivations, print_output=True, outfile=None):
             for i, ex in enumerate(test_data):
                 out.write(ex.x + "\t" + " ".join(ex.y_tok) + "\n")
                 out.write(" ".join(selected_derivs[i]) + "\t" + str(pred_match[i]) + "\n")
-        out.close()
-
-def evaluate_beam(test_data, pred_derivations, args):
-    pred_tokens = []
-    pred_extact_match = []
-    pred_deno_match = []
-    pred_match = []
-
-    beam_size = args.beam_size
-    for i, ex in enumerate(test_data):
-        i_pred_tokens = []
-        i_pred_match = []
-        i_exact_match = beam_size
-        i_deno_match = beam_size
-        for j in range(args.beam_size):
-            # Compute accuracy metrics
-            y_pred = ' '.join(pred_derivations[i][j])
-            i_pred_tokens.append(y_pred)
-            # Check exact match
-            if y_pred == ' '.join(ex.y_tok):
-                i_exact_match = min(j, i_exact_match)
-            # Check position-by-position token correctness
-            if  dfa_eual_test(' '.join(ex.y_tok), y_pred):
-                i_deno_match = min(j, i_deno_match)
-                i_pred_match.append(1)
-            else:
-                i_pred_match.append(0)
-
-
-        pred_tokens.append(i_pred_tokens)
-        pred_extact_match.append(i_exact_match)
-        pred_deno_match.append(i_deno_match)
-        pred_match.append(i_pred_match)
-
-    cut_offs = [1,3,5,10,25]
-    print("Num Data ", len(test_data))
-    for cut_off in cut_offs:
-        num_exact_match = np.sum(np.asarray([i < cut_off for i in pred_extact_match]))
-        num_deno_match = np.sum(np.asarray([i < cut_off for i in pred_deno_match]))
-        print(cut_off, num_exact_match, num_deno_match)
-    # Writes to the output file if needed
-    outfile = args.outfile
-    if outfile is not None:
-        with open(outfile, "w") as out:
-            for i, ex in enumerate(test_data):
-                out.write(ex.x + "\t" + " ".join(ex.y_tok) + "\n")
-                for j in range(args.beam_size):
-                    out.write(str(j) + "\t" + pred_tokens[i][j] + "\t" + str(pred_match[i][j]) +"\n")
         out.close()
 
 if __name__ == '__main__':

@@ -32,10 +32,10 @@ class DFAWorker:
 class SynthWorker:
     def __init__(self, dataset, split):
         self.split = split
-        if dataset == "TurkPlus":
+        if dataset == "TurkSketch":
             self.timeout = 2
             self.mode = "1"
-        if dataset == "KB13Plus":
+        if dataset == "KB13Sketch":
             self.timeout = 4
             self.mode = "2"
 
@@ -43,6 +43,7 @@ class SynthWorker:
         # java -Djava.library.path=external/lib -cp external/resnax.jar:external/lib/* -ea resnax.Main 1 $1 $2 $3
         cmd = ["java", "-Djava.library.path=external/lib", "-cp", "external/resnax.jar:external/lib/*", "-ea", "resnax.Main", self.mode, self.split, str(sketch[0]), sketch[1]]
         try:
+            # out = str(subprocess.check_output(cmd, stderr=subprocess.DEVNULL, timeout=self.timeout))
             out = str(subprocess.check_output(cmd, stderr=subprocess.DEVNULL, timeout=self.timeout))
             if "true" in out:
                 result = "true"
@@ -109,12 +110,12 @@ class SynthCache(object):
 
     def __init__(self, cache_id, dataset):
         self.dataset = dataset
-        if dataset == "TurkPlus":
+        if dataset == "TurkSketch":
             self.cache_id = "Turk-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 2
             self.mode = "1"
-        if dataset == "KB13Plus":
+        if dataset == "KB13Sketch":
             self.cache_id = "KB-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 5

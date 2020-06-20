@@ -196,7 +196,7 @@ def parallel_orcale_reward(batch_tokens, batch_ids, split, cache, output_indexer
             single_results.append(result)
         batch_results.append(single_results)
     
-    print("Pool Size", len(to_test_pool), file=sys.stderr)
+    # print("Pool Size", len(to_test_pool), file=sys.stderr)
     dataset = cache.dataset
     worker = SynthWorker(dataset, split)
     pool = mp.Pool(5)
@@ -247,7 +247,7 @@ def parallel_synth(test_data, pred_derivations, split, cache):
             single_results.append(result)
         batch_results.append(single_results)
     
-    print("Pool Size", len(to_test_pool))
+    # print("Pool Size", len(to_test_pool))
     timeout = cache.timeout
     worker = SynthWorker(timeout, split)
     pool = mp.Pool(5)
