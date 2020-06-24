@@ -53,6 +53,53 @@ def print_stats(stats):
     easy_print("Null", null)
     print('{:.3f}'.format((len(first_true) + len(empty))/len(stats)))
 
+def debug_stats(stats):
+    first_true = []
+    first_false = []
+    cover = []
+    empty = []
+    null = []
+    
+    for (i, results) in enumerate(stats):
+        if not results:
+            empty.append(i)
+        for res in results:
+            if res == "false":
+                print(i + 1, 'False', results)
+                first_false.append(i)
+                break
+            if res == "true":
+                first_true.append(i)
+                break
+            if res == "empty":
+                empty.append(i)
+                break
+        if any([x == "true" for x in results]):
+            cover.append(i)
+
+        if all([(x == "null" or x == "wrong" or x == "timeout") for x in results]):
+            print(i + 1, 'Null', results)
+            null.append(i)
+    
+    easy_print = lambda x, y: print(x, len(y))
+    easy_print("First true", first_true)
+    easy_print("First false", first_false)
+    easy_print("Cover", cover)
+    easy_print("Empty", empty)
+    easy_print("Null", null)
+    print('{:.3f}'.format((len(first_true) + len(empty))/len(stats)))
+    
+    # print
+    # first false
+    print('First False', [a + 1 for a in first_false])
+    print('Null', [a + 1 for a in null])
+
+    print('\n\n')
+    for (i, results) in enumerate(stats):
+        if not results:
+            empty.append(i)
+        print(i + 1, results)
+
 
 def parallel_oracle_evaluate(test_data, pred_derivations, split, cache):
     batch_results = []
