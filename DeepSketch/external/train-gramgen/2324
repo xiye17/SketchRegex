@@ -1,0 +1,14 @@
+1 ?{concat(or(<let>,<any>),<num>)}
+2 ?{<let>,concat(<let>,<num>)}
+3 ?{<let>,concat(<any>,<num>)}
+4 ?{or(<let>,<any>),<num>}
+5 ?{<let>,<any>,<num>}
+6 ?{concat(<let>,<num>)}
+7 ?{or(<let>,<any>)}
+8 ?{concat(<any>,<num>)}
+9 ?{<let>,<any>}
+10 ?{<let>,<num>}
+11 ?{<any>,<num>}
+12 ?{<let>}
+13 ?{<any>}
+14 ?{<num>}

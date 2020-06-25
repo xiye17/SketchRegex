@@ -1,0 +1,5 @@
+1 ?{<m0>,contain(<vow>)}
+2 ?{<m0>,<vow>}
+3 ?{contain(<vow>)}
+4 ?{<vow>}
+5 ?{<m0>}

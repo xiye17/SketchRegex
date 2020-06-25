@@ -1,0 +1,10 @@
+1 ?{contain(repeatatleast(<low>,2))}
+2 ?{repeatatleast(contain(<low>),2)}
+3 ?{repeatatleast(<low>,2)}
+4 ?{contain(<low>)}
+5 ?{contain(repeatatleast(<let>,2))}
+6 ?{repeatatleast(contain(<let>),2)}
+7 ?{<low>}
+8 ?{repeatatleast(<let>,2)}
+9 ?{contain(<let>)}
+10 ?{<let>}

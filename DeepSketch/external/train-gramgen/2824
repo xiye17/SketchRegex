@@ -1,0 +1,8 @@
+1 ?{endwith(startwith(<low>))}
+2 ?{endwith(startwith(<let>))}
+3 ?{endwith(<low>)}
+4 ?{startwith(<low>)}
+5 ?{endwith(<let>)}
+6 ?{startwith(<let>)}
+7 ?{<low>}
+8 ?{<let>}

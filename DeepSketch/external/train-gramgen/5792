@@ -1,0 +1,12 @@
+1 ?{and(repeatatleast(<num>,5),not(<vow>))}
+2 ?{repeatatleast(<num>,5),not(<vow>)}
+3 ?{and(repeatatleast(<num>,5),<vow>)}
+4 ?{repeatatleast(<num>,5),<vow>}
+5 ?{repeatatleast(<num>,5)}
+6 ?{and(<num>,not(<vow>))}
+7 ?{<num>,not(<vow>)}
+8 ?{and(<num>,<vow>)}
+9 ?{<num>,<vow>}
+10 ?{not(<vow>)}
+11 ?{<num>}
+12 ?{<vow>}

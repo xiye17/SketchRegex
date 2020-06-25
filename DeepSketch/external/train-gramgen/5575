@@ -1,0 +1,12 @@
+1 ?{not(endwith(repeatatleast(<m0>,4)))}
+2 ?{not(repeatatleast(endwith(<m0>),4))}
+3 ?{repeatatleast(not(endwith(<m0>)),4)}
+4 ?{endwith(repeatatleast(<m0>,4))}
+5 ?{repeatatleast(endwith(<m0>),4)}
+6 ?{not(repeatatleast(<m0>,4))}
+7 ?{repeatatleast(not(<m0>),4)}
+8 ?{repeatatleast(<m0>,4)}
+9 ?{not(endwith(<m0>))}
+10 ?{endwith(<m0>)}
+11 ?{not(<m0>)}
+12 ?{<m0>}

@@ -1,0 +1,6 @@
+1 ?{and(<let>,<low>)}
+2 ?{or(<let>,<low>)}
+3 ?{<let>,<low>}
+4 ?{and(<let>,<let>)}
+5 ?{<low>}
+6 ?{<let>}

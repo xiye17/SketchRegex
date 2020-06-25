@@ -1,0 +1,12 @@
+1 ?{not(contain(star(<num>)))}
+2 ?{not(star(contain(<num>)))}
+3 ?{star(not(contain(<num>)))}
+4 ?{not(star(<num>))}
+5 ?{star(not(<num>))}
+6 ?{contain(star(<num>))}
+7 ?{star(contain(<num>))}
+8 ?{star(<num>)}
+9 ?{not(contain(<num>))}
+10 ?{not(<num>)}
+11 ?{contain(<num>)}
+12 ?{<num>}

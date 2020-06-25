@@ -1,0 +1,16 @@
+1 ?{not(contain(or(<let>,<m0>)))}
+2 ?{not(contain(<let>)),<m0>}
+3 ?{not(or(<let>,<m0>))}
+4 ?{contain(or(<let>,<m0>))}
+5 ?{not(<let>),<m0>}
+6 ?{not(contain(<let>))}
+7 ?{not(contain(<m0>))}
+8 ?{contain(<let>),<m0>}
+9 ?{or(<let>,<m0>)}
+10 ?{not(<let>)}
+11 ?{not(<m0>)}
+12 ?{contain(<let>)}
+13 ?{contain(<m0>)}
+14 ?{<let>,<m0>}
+15 ?{<let>}
+16 ?{<m0>}

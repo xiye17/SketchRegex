@@ -1,0 +1,8 @@
+1 ?{contain(or(<num>,<m0>))}
+2 ?{contain(<num>),<m0>}
+3 ?{or(<num>,<m0>)}
+4 ?{contain(<num>)}
+5 ?{<num>,<m0>}
+6 ?{contain(<m0>)}
+7 ?{<num>}
+8 ?{<m0>}

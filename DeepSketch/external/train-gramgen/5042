@@ -1,0 +1,16 @@
+1 ?{not(startwith(or(<m0>,<let>)))}
+2 ?{not(startwith(<m0>)),<let>}
+3 ?{startwith(or(<m0>,<let>))}
+4 ?{not(startwith(<let>))}
+5 ?{not(or(<m0>,<let>))}
+6 ?{startwith(<m0>),<let>}
+7 ?{not(<m0>),<let>}
+8 ?{not(startwith(<m0>))}
+9 ?{startwith(<let>)}
+10 ?{or(<m0>,<let>)}
+11 ?{not(<let>)}
+12 ?{startwith(<m0>)}
+13 ?{<m0>,<let>}
+14 ?{not(<m0>)}
+15 ?{<let>}
+16 ?{<m0>}

@@ -1,0 +1,17 @@
+1 ?{concat(repeatatleast(<num>,1),<any>),<m0>}
+2 ?{repeatatleast(<num>,1),<any>,<m0>}
+3 ?{concat(repeatatleast(<num>,1),<any>)}
+4 ?{concat(repeatatleast(<num>,1),<m0>)}
+5 ?{concat(<num>,<any>),<m0>}
+6 ?{repeatatleast(<num>,1),<any>}
+7 ?{repeatatleast(<num>,1),<m0>}
+8 ?{<num>,<any>,<m0>}
+9 ?{concat(<num>,<any>)}
+10 ?{concat(<num>,<m0>)}
+11 ?{repeatatleast(<num>,1)}
+12 ?{<num>,<any>}
+13 ?{<num>,<m0>}
+14 ?{<num>}
+15 ?{<any>,<m0>}
+16 ?{<any>}
+17 ?{<m0>}

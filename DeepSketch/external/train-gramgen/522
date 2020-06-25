@@ -1,0 +1,13 @@
+1 ?{endwith(concat(<let>,<low>))}
+2 ?{concat(endwith(<let>),<low>)}
+3 ?{endwith(<let>),<low>}
+4 ?{concat(<let>,<low>)}
+5 ?{endwith(concat(<let>,<let>))}
+6 ?{endwith(<low>)}
+7 ?{concat(endwith(<let>),<let>)}
+8 ?{<let>,<low>}
+9 ?{endwith(<let>),<let>}
+10 ?{endwith(<let>)}
+11 ?{concat(<let>,<let>)}
+12 ?{<low>}
+13 ?{<let>}

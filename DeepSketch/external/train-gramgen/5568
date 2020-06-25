@@ -1,0 +1,12 @@
+1 ?{concat(star(<let>),endwith(<num>))}
+2 ?{star(<let>),endwith(<num>)}
+3 ?{concat(star(<let>),<num>)}
+4 ?{star(<let>),<num>}
+5 ?{star(<let>)}
+6 ?{concat(<let>,endwith(<num>))}
+7 ?{<let>,endwith(<num>)}
+8 ?{concat(<let>,<num>)}
+9 ?{endwith(<num>)}
+10 ?{<let>,<num>}
+11 ?{<let>}
+12 ?{<num>}

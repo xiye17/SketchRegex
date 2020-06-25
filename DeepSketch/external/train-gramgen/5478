@@ -1,0 +1,17 @@
+1 ?{repeatatleast(or(<low>,<any>),5)}
+2 ?{<low>,repeatatleast(<let>,5)}
+3 ?{<low>,repeatatleast(<any>,5)}
+4 ?{repeatatleast(<low>,5)}
+5 ?{repeatatleast(or(<let>,<any>),5)}
+6 ?{<let>,repeatatleast(<let>,5)}
+7 ?{<let>,repeatatleast(<any>,5)}
+8 ?{or(<low>,<any>)}
+9 ?{repeatatleast(<let>,5)}
+10 ?{repeatatleast(<any>,5)}
+11 ?{<low>,<let>}
+12 ?{<low>,<any>}
+13 ?{<low>}
+14 ?{or(<let>,<any>)}
+15 ?{<let>,<any>}
+16 ?{<let>}
+17 ?{<any>}

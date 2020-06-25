@@ -1,0 +1,8 @@
+1 ?{repeatatleast(or(<num>,<vow>),1)}
+2 ?{<num>,repeatatleast(<vow>,1)}
+3 ?{repeatatleast(<vow>,1)}
+4 ?{repeatatleast(<num>,1)}
+5 ?{or(<num>,<vow>)}
+6 ?{<num>,<vow>}
+7 ?{<vow>}
+8 ?{<num>}

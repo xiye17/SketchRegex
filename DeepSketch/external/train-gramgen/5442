@@ -1,0 +1,12 @@
+1 ?{not(contain(<num>)),<let>}
+2 ?{not(<num>),<let>}
+3 ?{contain(<num>),<let>}
+4 ?{not(contain(<num>))}
+5 ?{not(contain(<let>))}
+6 ?{<num>,<let>}
+7 ?{not(<num>)}
+8 ?{not(<let>)}
+9 ?{contain(<num>)}
+10 ?{contain(<let>)}
+11 ?{<num>}
+12 ?{<let>}

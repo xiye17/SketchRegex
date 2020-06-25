@@ -1,0 +1,12 @@
+1 ?{<cap>,not(<any>)}
+2 ?{<cap>,not(<let>)}
+3 ?{<cap>,<any>}
+4 ?{<cap>,<let>}
+5 ?{<let>,not(<any>)}
+6 ?{<cap>}
+7 ?{<let>,not(<let>)}
+8 ?{<let>,<any>}
+9 ?{not(<any>)}
+10 ?{not(<let>)}
+11 ?{<any>}
+12 ?{<let>}

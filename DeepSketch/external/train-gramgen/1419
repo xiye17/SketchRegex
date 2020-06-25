@@ -1,0 +1,8 @@
+1 ?{<any>,endwith(<vow>)}
+2 ?{<let>,endwith(<vow>)}
+3 ?{<any>,<vow>}
+4 ?{endwith(<vow>)}
+5 ?{<let>,<vow>}
+6 ?{<any>}
+7 ?{<vow>}
+8 ?{<let>}

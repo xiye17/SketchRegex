@@ -1,0 +1,12 @@
+1 ?{and(<low>,<cap>)}
+2 ?{or(<low>,<cap>)}
+3 ?{<low>,<cap>}
+4 ?{and(<low>,<let>)}
+5 ?{<low>,<let>}
+6 ?{<low>}
+7 ?{and(<let>,<cap>)}
+8 ?{or(<let>,<cap>)}
+9 ?{<let>,<cap>}
+10 ?{and(<let>,<let>)}
+11 ?{<cap>}
+12 ?{<let>}

@@ -1,0 +1,9 @@
+1 ?{star(or(<num>,<let>))}
+2 ?{and(star(<num>),<let>)}
+3 ?{star(<num>),<let>}
+4 ?{star(<num>)}
+5 ?{and(<num>,<let>)}
+6 ?{or(<num>,<let>)}
+7 ?{<num>,<let>}
+8 ?{<num>}
+9 ?{<let>}

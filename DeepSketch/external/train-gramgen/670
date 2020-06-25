@@ -1,0 +1,12 @@
+1 ?{<any>,and(<m0>,<vow>)}
+2 ?{<any>,or(<m0>,<vow>)}
+3 ?{<any>,<m0>,<vow>}
+4 ?{and(<any>,<vow>)}
+5 ?{and(<m0>,<vow>)}
+6 ?{or(<m0>,<vow>)}
+7 ?{<any>,<m0>}
+8 ?{<any>,<vow>}
+9 ?{<m0>,<vow>}
+10 ?{<any>}
+11 ?{<m0>}
+12 ?{<vow>}

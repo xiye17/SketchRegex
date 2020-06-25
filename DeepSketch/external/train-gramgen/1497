@@ -1,0 +1,13 @@
+1 ?{endwith(<low>),<cap>}
+2 ?{endwith(<low>),<let>}
+3 ?{<low>,<cap>}
+4 ?{endwith(<let>),<cap>}
+5 ?{endwith(<low>)}
+6 ?{endwith(<cap>)}
+7 ?{<low>,<let>}
+8 ?{endwith(<let>),<let>}
+9 ?{<low>}
+10 ?{<let>,<cap>}
+11 ?{endwith(<let>)}
+12 ?{<cap>}
+13 ?{<let>}

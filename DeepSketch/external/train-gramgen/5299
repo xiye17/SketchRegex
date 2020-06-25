@@ -1,0 +1,8 @@
+1 ?{star(<vow>),<cap>}
+2 ?{star(<vow>),<let>}
+3 ?{star(<vow>)}
+4 ?{<vow>,<cap>}
+5 ?{<vow>,<let>}
+6 ?{<cap>}
+7 ?{<vow>}
+8 ?{<let>}

@@ -1,0 +1,11 @@
+1 ?{and(<vow>,star(<let>))}
+2 ?{star(and(<vow>,<let>))}
+3 ?{star(or(<vow>,<let>))}
+4 ?{<vow>,star(<let>)}
+5 ?{star(<vow>)}
+6 ?{star(<let>)}
+7 ?{and(<vow>,<let>)}
+8 ?{or(<vow>,<let>)}
+9 ?{<vow>,<let>}
+10 ?{<vow>}
+11 ?{<let>}

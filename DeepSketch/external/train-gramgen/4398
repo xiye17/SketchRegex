@@ -1,0 +1,17 @@
+1 ?{<any>,concat(<m0>,contain(<num>))}
+2 ?{<any>,<m0>,contain(<num>)}
+3 ?{<any>,concat(<m0>,<num>)}
+4 ?{concat(<any>,contain(<num>))}
+5 ?{concat(<m0>,contain(<num>))}
+6 ?{<any>,<m0>,<num>}
+7 ?{<any>,contain(<num>)}
+8 ?{concat(<any>,<num>)}
+9 ?{<m0>,contain(<num>)}
+10 ?{concat(<m0>,<num>)}
+11 ?{<any>,<m0>}
+12 ?{<any>,<num>}
+13 ?{<m0>,<num>}
+14 ?{contain(<num>)}
+15 ?{<any>}
+16 ?{<m0>}
+17 ?{<num>}

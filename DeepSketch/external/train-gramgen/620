@@ -1,0 +1,16 @@
+1 ?{<cap>,not(<let>),<vow>}
+2 ?{<cap>,<let>,<vow>}
+3 ?{<cap>,not(<let>)}
+4 ?{<cap>,not(<vow>)}
+5 ?{<cap>,<let>}
+6 ?{<cap>,<vow>}
+7 ?{<let>,not(<let>),<vow>}
+8 ?{not(<let>),<vow>}
+9 ?{<cap>}
+10 ?{<let>,not(<let>)}
+11 ?{<let>,not(<vow>)}
+12 ?{<let>,<vow>}
+13 ?{not(<let>)}
+14 ?{not(<vow>)}
+15 ?{<vow>}
+16 ?{<let>}

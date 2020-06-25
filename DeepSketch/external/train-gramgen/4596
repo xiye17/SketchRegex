@@ -1,0 +1,9 @@
+1 ?{startwith(concat(<m0>,<num>))}
+2 ?{concat(startwith(<m0>),<num>)}
+3 ?{startwith(<m0>),<num>}
+4 ?{startwith(<num>)}
+5 ?{concat(<m0>,<num>)}
+6 ?{startwith(<m0>)}
+7 ?{<m0>,<num>}
+8 ?{<num>}
+9 ?{<m0>}

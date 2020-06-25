@@ -1,0 +1,12 @@
+1 ?{contain(or(<vow>,<cap>))}
+2 ?{contain(<vow>),<cap>}
+3 ?{or(<vow>,<cap>)}
+4 ?{contain(<vow>),<let>}
+5 ?{<vow>,<cap>}
+6 ?{contain(<vow>)}
+7 ?{contain(<cap>)}
+8 ?{<vow>,<let>}
+9 ?{contain(<let>)}
+10 ?{<vow>}
+11 ?{<cap>}
+12 ?{<let>}

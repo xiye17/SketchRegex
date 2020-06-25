@@ -1,0 +1,7 @@
+1 ?{and(<low>,<vow>)}
+2 ?{<low>,<vow>}
+3 ?{<low>}
+4 ?{and(<let>,<vow>)}
+5 ?{<let>,<vow>}
+6 ?{<let>}
+7 ?{<vow>}

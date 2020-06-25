@@ -1,0 +1,6 @@
+1 ?{startwith(star(<cap>))}
+2 ?{star(<cap>)}
+3 ?{startwith(<cap>)}
+4 ?{startwith(<let>)}
+5 ?{<cap>}
+6 ?{<let>}

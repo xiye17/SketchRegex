@@ -1,0 +1,12 @@
+1 ?{not(or(<num>,<low>))}
+2 ?{not(<num>),<low>}
+3 ?{or(<num>,<low>)}
+4 ?{<num>,<low>}
+5 ?{not(<low>)}
+6 ?{not(<num>),<let>}
+7 ?{<low>}
+8 ?{not(<num>)}
+9 ?{<num>,<let>}
+10 ?{not(<let>)}
+11 ?{<num>}
+12 ?{<let>}

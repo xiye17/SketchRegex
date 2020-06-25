@@ -1,0 +1,5 @@
+1 ?{contain(star(<m0>))}
+2 ?{star(contain(<m0>))}
+3 ?{star(<m0>)}
+4 ?{contain(<m0>)}
+5 ?{<m0>}

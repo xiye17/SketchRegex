@@ -1,0 +1,12 @@
+1 ?{not(endwith(star(<vow>)))}
+2 ?{not(star(endwith(<vow>)))}
+3 ?{star(not(endwith(<vow>)))}
+4 ?{endwith(star(<vow>))}
+5 ?{star(endwith(<vow>))}
+6 ?{not(star(<vow>))}
+7 ?{star(not(<vow>))}
+8 ?{star(<vow>)}
+9 ?{not(endwith(<vow>))}
+10 ?{endwith(<vow>)}
+11 ?{not(<vow>)}
+12 ?{<vow>}

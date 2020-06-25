@@ -1,0 +1,12 @@
+1 ?{contain(endwith(repeatatleast(<m0>,6)))}
+2 ?{contain(repeatatleast(endwith(<m0>),6))}
+3 ?{repeatatleast(contain(endwith(<m0>)),6)}
+4 ?{endwith(repeatatleast(<m0>,6))}
+5 ?{repeatatleast(endwith(<m0>),6)}
+6 ?{contain(repeatatleast(<m0>,6))}
+7 ?{repeatatleast(contain(<m0>),6)}
+8 ?{repeatatleast(<m0>,6)}
+9 ?{contain(endwith(<m0>))}
+10 ?{endwith(<m0>)}
+11 ?{contain(<m0>)}
+12 ?{<m0>}

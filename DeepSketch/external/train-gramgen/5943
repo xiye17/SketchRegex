@@ -1,0 +1,13 @@
+1 ?{and(<m0>,not(<low>))}
+2 ?{<m0>,not(<low>)}
+3 ?{and(<m0>,<low>)}
+4 ?{<m0>,<low>}
+5 ?{not(<low>)}
+6 ?{and(<m0>,not(<let>))}
+7 ?{<low>}
+8 ?{<m0>,not(<let>)}
+9 ?{and(<m0>,<let>)}
+10 ?{<m0>,<let>}
+11 ?{not(<let>)}
+12 ?{<m0>}
+13 ?{<let>}

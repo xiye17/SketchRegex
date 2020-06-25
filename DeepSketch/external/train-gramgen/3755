@@ -1,0 +1,13 @@
+1 ?{concat(repeatatleast(<cap>,2),<vow>)}
+2 ?{repeatatleast(<cap>,2),<vow>}
+3 ?{concat(repeatatleast(<let>,2),<vow>)}
+4 ?{repeatatleast(<cap>,2)}
+5 ?{concat(<cap>,<vow>)}
+6 ?{repeatatleast(<let>,2),<vow>}
+7 ?{<cap>,<vow>}
+8 ?{repeatatleast(<let>,2)}
+9 ?{concat(<let>,<vow>)}
+10 ?{<cap>}
+11 ?{<let>,<vow>}
+12 ?{<vow>}
+13 ?{<let>}

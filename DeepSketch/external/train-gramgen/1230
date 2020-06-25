@@ -1,0 +1,6 @@
+1 ?{<let>,not(<num>)}
+2 ?{concat(<let>,<num>)}
+3 ?{<let>,<num>}
+4 ?{not(<num>)}
+5 ?{<let>}
+6 ?{<num>}

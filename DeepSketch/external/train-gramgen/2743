@@ -1,0 +1,15 @@
+1 ?{not(or(<any>,<low>))}
+2 ?{not(<any>),<low>}
+3 ?{or(<any>,<low>)}
+4 ?{not(<let>),<low>}
+5 ?{<any>,<low>}
+6 ?{not(<low>)}
+7 ?{<let>,<low>}
+8 ?{not(<any>),<let>}
+9 ?{<low>}
+10 ?{not(<let>),<let>}
+11 ?{not(<any>)}
+12 ?{<any>,<let>}
+13 ?{not(<let>)}
+14 ?{<any>}
+15 ?{<let>}

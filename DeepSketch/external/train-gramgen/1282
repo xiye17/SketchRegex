@@ -1,0 +1,8 @@
+1 ?{not(endwith(contain(<vow>)))}
+2 ?{not(endwith(<vow>))}
+3 ?{endwith(contain(<vow>))}
+4 ?{not(contain(<vow>))}
+5 ?{endwith(<vow>)}
+6 ?{not(<vow>)}
+7 ?{contain(<vow>)}
+8 ?{<vow>}

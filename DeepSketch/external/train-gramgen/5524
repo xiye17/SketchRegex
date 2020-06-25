@@ -1,0 +1,12 @@
+1 ?{not(contain(repeatatleast(<low>,1)))}
+2 ?{not(contain(<low>))}
+3 ?{not(repeatatleast(<low>,1))}
+4 ?{contain(repeatatleast(<low>,1))}
+5 ?{not(<low>)}
+6 ?{contain(<low>)}
+7 ?{repeatatleast(<low>,1)}
+8 ?{<low>}
+9 ?{not(contain(<let>))}
+10 ?{not(<let>)}
+11 ?{contain(<let>)}
+12 ?{<let>}

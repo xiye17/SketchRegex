@@ -1,0 +1,12 @@
+1 ?{endwith(or(<m0>,<cap>))}
+2 ?{endwith(<m0>),<cap>}
+3 ?{endwith(<cap>)}
+4 ?{or(<m0>,<cap>)}
+5 ?{endwith(<m0>),<let>}
+6 ?{<m0>,<cap>}
+7 ?{endwith(<m0>)}
+8 ?{endwith(<let>)}
+9 ?{<cap>}
+10 ?{<m0>,<let>}
+11 ?{<m0>}
+12 ?{<let>}

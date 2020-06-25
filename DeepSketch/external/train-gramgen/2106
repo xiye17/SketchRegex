@@ -1,0 +1,17 @@
+1 ?{not(and(<low>,<let>))}
+2 ?{not(or(<low>,<let>))}
+3 ?{and(not(<low>),<let>)}
+4 ?{not(<low>),<let>}
+5 ?{and(<low>,<let>)}
+6 ?{or(<low>,<let>)}
+7 ?{<low>,<let>}
+8 ?{not(<low>)}
+9 ?{not(and(<let>,<let>))}
+10 ?{not(or(<let>,<let>))}
+11 ?{and(not(<let>),<let>)}
+12 ?{not(<let>),<let>}
+13 ?{<low>}
+14 ?{and(<let>,<let>)}
+15 ?{or(<let>,<let>)}
+16 ?{not(<let>)}
+17 ?{<let>}

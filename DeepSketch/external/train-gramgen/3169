@@ -1,0 +1,10 @@
+1 ?{concat(star(<cap>),<m0>)}
+2 ?{star(<cap>),<m0>}
+3 ?{star(<cap>)}
+4 ?{concat(<cap>,<m0>)}
+5 ?{<cap>,<m0>}
+6 ?{concat(<let>,<m0>)}
+7 ?{<cap>}
+8 ?{<let>,<m0>}
+9 ?{<let>}
+10 ?{<m0>}

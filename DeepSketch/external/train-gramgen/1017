@@ -1,0 +1,10 @@
+1 ?{contain(star(<cap>))}
+2 ?{star(contain(<cap>))}
+3 ?{contain(star(<let>))}
+4 ?{star(contain(<let>))}
+5 ?{star(<cap>)}
+6 ?{star(<let>)}
+7 ?{contain(<cap>)}
+8 ?{contain(<let>)}
+9 ?{<cap>}
+10 ?{<let>}

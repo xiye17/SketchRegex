@@ -1,0 +1,13 @@
+1 ?{and(repeatatleast(<any>,1),<any>),<m0>}
+2 ?{repeatatleast(<any>,1),<any>,<m0>}
+3 ?{and(repeatatleast(<any>,1),<any>)}
+4 ?{and(repeatatleast(<any>,1),<m0>)}
+5 ?{repeatatleast(<any>,1),<any>}
+6 ?{repeatatleast(<any>,1),<m0>}
+7 ?{and(<any>,<any>),<m0>}
+8 ?{repeatatleast(<any>,1)}
+9 ?{and(<any>,<any>)}
+10 ?{and(<any>,<m0>)}
+11 ?{<any>,<m0>}
+12 ?{<any>}
+13 ?{<m0>}

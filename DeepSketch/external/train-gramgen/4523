@@ -1,0 +1,8 @@
+1 ?{startwith(contain(repeatatleast(<vow>,1)))}
+2 ?{startwith(contain(<vow>))}
+3 ?{startwith(repeatatleast(<vow>,1))}
+4 ?{startwith(<vow>)}
+5 ?{contain(repeatatleast(<vow>,1))}
+6 ?{contain(<vow>)}
+7 ?{repeatatleast(<vow>,1)}
+8 ?{<vow>}

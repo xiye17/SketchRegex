@@ -1,0 +1,11 @@
+1 ?{endwith(and(<m0>,<m1>))}
+2 ?{endwith(or(<m0>,<m1>))}
+3 ?{and(endwith(<m0>),<m1>)}
+4 ?{endwith(<m0>),<m1>}
+5 ?{endwith(<m0>)}
+6 ?{endwith(<m1>)}
+7 ?{and(<m0>,<m1>)}
+8 ?{or(<m0>,<m1>)}
+9 ?{<m0>,<m1>}
+10 ?{<m0>}
+11 ?{<m1>}

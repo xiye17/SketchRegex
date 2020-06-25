@@ -1,0 +1,16 @@
+1 ?{contain(concat(<m0>,repeatatleast(<num>,7)))}
+2 ?{concat(contain(<m0>),repeatatleast(<num>,7))}
+3 ?{concat(<m0>,repeatatleast(<num>,7))}
+4 ?{contain(<m0>),repeatatleast(<num>,7)}
+5 ?{contain(concat(<m0>,<num>))}
+6 ?{contain(repeatatleast(<num>,7))}
+7 ?{concat(contain(<m0>),<num>)}
+8 ?{<m0>,repeatatleast(<num>,7)}
+9 ?{concat(<m0>,<num>)}
+10 ?{repeatatleast(<num>,7)}
+11 ?{contain(<m0>),<num>}
+12 ?{contain(<m0>)}
+13 ?{contain(<num>)}
+14 ?{<m0>,<num>}
+15 ?{<m0>}
+16 ?{<num>}

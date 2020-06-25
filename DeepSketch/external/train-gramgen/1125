@@ -1,0 +1,13 @@
+1 ?{and(<vow>,not(endwith(<any>)))}
+2 ?{<vow>,not(endwith(<any>))}
+3 ?{and(<vow>,endwith(<any>))}
+4 ?{<vow>,endwith(<any>)}
+5 ?{and(<vow>,not(<any>))}
+6 ?{<vow>,not(<any>)}
+7 ?{and(<vow>,<any>)}
+8 ?{not(endwith(<any>))}
+9 ?{<vow>,<any>}
+10 ?{endwith(<any>)}
+11 ?{<vow>}
+12 ?{not(<any>)}
+13 ?{<any>}

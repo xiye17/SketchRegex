@@ -1,0 +1,8 @@
+1 ?{not(contain(repeatatleast(<vow>,1)))}
+2 ?{not(contain(<vow>))}
+3 ?{not(repeatatleast(<vow>,1))}
+4 ?{contain(repeatatleast(<vow>,1))}
+5 ?{not(<vow>)}
+6 ?{contain(<vow>)}
+7 ?{repeatatleast(<vow>,1)}
+8 ?{<vow>}

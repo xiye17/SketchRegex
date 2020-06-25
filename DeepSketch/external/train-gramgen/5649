@@ -1,0 +1,17 @@
+1 ?{<m0>,and(<vow>,<cap>)}
+2 ?{<m0>,<vow>,<cap>}
+3 ?{and(<vow>,<cap>)}
+4 ?{<m0>,and(<vow>,<let>)}
+5 ?{and(<m0>,<cap>)}
+6 ?{<vow>,<cap>}
+7 ?{<m0>,<vow>,<let>}
+8 ?{<m0>,<cap>}
+9 ?{and(<vow>,<let>)}
+10 ?{<m0>,<vow>}
+11 ?{and(<m0>,<let>)}
+12 ?{<vow>,<let>}
+13 ?{<cap>}
+14 ?{<m0>,<let>}
+15 ?{<vow>}
+16 ?{<m0>}
+17 ?{<let>}

@@ -1,0 +1,13 @@
+1 ?{and(repeatatleast(<low>,5),<m0>)}
+2 ?{repeatatleast(<low>,5),<m0>}
+3 ?{repeatatleast(<low>,5)}
+4 ?{and(repeatatleast(<let>,5),<m0>)}
+5 ?{repeatatleast(<let>,5),<m0>}
+6 ?{and(<low>,<m0>)}
+7 ?{repeatatleast(<let>,5)}
+8 ?{<low>,<m0>}
+9 ?{<low>}
+10 ?{and(<let>,<m0>)}
+11 ?{<let>,<m0>}
+12 ?{<let>}
+13 ?{<m0>}

@@ -1,0 +1,12 @@
+1 ?{not(or(<vow>,<low>))}
+2 ?{not(<vow>),<low>}
+3 ?{or(<vow>,<low>)}
+4 ?{<vow>,<low>}
+5 ?{not(<vow>),<let>}
+6 ?{not(<low>)}
+7 ?{not(<vow>)}
+8 ?{<vow>,<let>}
+9 ?{<low>}
+10 ?{not(<let>)}
+11 ?{<vow>}
+12 ?{<let>}

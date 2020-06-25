@@ -1,0 +1,17 @@
+1 ?{<any>,concat(<m0>,<cap>)}
+2 ?{<any>,<m0>,<cap>}
+3 ?{concat(<any>,<cap>)}
+4 ?{concat(<m0>,<cap>)}
+5 ?{<any>,concat(<m0>,<let>)}
+6 ?{<any>,<cap>}
+7 ?{<m0>,<cap>}
+8 ?{<any>,<m0>,<let>}
+9 ?{concat(<any>,<let>)}
+10 ?{concat(<m0>,<let>)}
+11 ?{<cap>}
+12 ?{<any>,<m0>}
+13 ?{<any>,<let>}
+14 ?{<m0>,<let>}
+15 ?{<any>}
+16 ?{<m0>}
+17 ?{<let>}

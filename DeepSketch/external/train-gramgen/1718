@@ -1,0 +1,7 @@
+1 ?{concat(<vow>,<low>)}
+2 ?{<vow>,<low>}
+3 ?{concat(<vow>,<let>)}
+4 ?{<vow>,<let>}
+5 ?{<low>}
+6 ?{<vow>}
+7 ?{<let>}

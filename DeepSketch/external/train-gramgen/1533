@@ -1,0 +1,13 @@
+1 ?{concat(<vow>,endwith(<let>))}
+2 ?{concat(<vow>,endwith(<any>))}
+3 ?{<vow>,endwith(<let>)}
+4 ?{<vow>,endwith(<any>)}
+5 ?{concat(<vow>,<let>)}
+6 ?{concat(<vow>,<any>)}
+7 ?{<vow>,<let>}
+8 ?{<vow>,<any>}
+9 ?{<vow>}
+10 ?{endwith(<let>)}
+11 ?{endwith(<any>)}
+12 ?{<let>}
+13 ?{<any>}

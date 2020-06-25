@@ -1,0 +1,12 @@
+1 ?{startwith(or(<num>,<low>))}
+2 ?{startwith(<num>),<low>}
+3 ?{or(<num>,<low>)}
+4 ?{startwith(<low>)}
+5 ?{<num>,<low>}
+6 ?{startwith(<num>),<let>}
+7 ?{startwith(<num>)}
+8 ?{<low>}
+9 ?{startwith(<let>)}
+10 ?{<num>,<let>}
+11 ?{<num>}
+12 ?{<let>}

@@ -1,0 +1,10 @@
+1 ?{endwith(<num>),not(<m0>)}
+2 ?{endwith(<num>),<m0>}
+3 ?{endwith(<num>)}
+4 ?{endwith(not(<m0>))}
+5 ?{<num>,not(<m0>)}
+6 ?{endwith(<m0>)}
+7 ?{<num>,<m0>}
+8 ?{<num>}
+9 ?{not(<m0>)}
+10 ?{<m0>}

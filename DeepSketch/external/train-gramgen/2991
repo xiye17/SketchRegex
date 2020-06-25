@@ -1,0 +1,10 @@
+1 ?{<vow>,and(<m0>,<num>)}
+2 ?{<vow>,<m0>,<num>}
+3 ?{and(<vow>,<num>)}
+4 ?{and(<m0>,<num>)}
+5 ?{<vow>,<m0>}
+6 ?{<vow>,<num>}
+7 ?{<m0>,<num>}
+8 ?{<vow>}
+9 ?{<m0>}
+10 ?{<num>}

@@ -1,0 +1,14 @@
+1 ?{startwith(<let>),<any>,<m0>}
+2 ?{startwith(<let>),<any>}
+3 ?{startwith(<let>),<m0>}
+4 ?{startwith(<any>),<m0>}
+5 ?{startwith(<let>)}
+6 ?{<let>,<any>,<m0>}
+7 ?{startwith(<any>)}
+8 ?{startwith(<m0>)}
+9 ?{<let>,<any>}
+10 ?{<let>,<m0>}
+11 ?{<let>}
+12 ?{<any>,<m0>}
+13 ?{<any>}
+14 ?{<m0>}

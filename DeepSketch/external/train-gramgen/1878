@@ -1,0 +1,9 @@
+1 ?{not(or(<any>,<let>))}
+2 ?{not(<any>),<let>}
+3 ?{or(<any>,<let>)}
+4 ?{not(<let>),<let>}
+5 ?{<any>,<let>}
+6 ?{not(<any>)}
+7 ?{not(<let>)}
+8 ?{<any>}
+9 ?{<let>}

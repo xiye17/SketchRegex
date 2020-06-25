@@ -1,0 +1,16 @@
+1 ?{contain(concat(<cap>,<num>))}
+2 ?{concat(contain(<cap>),<num>)}
+3 ?{concat(<cap>,<num>)}
+4 ?{contain(<cap>),<num>}
+5 ?{contain(concat(<let>,<num>))}
+6 ?{concat(contain(<let>),<num>)}
+7 ?{<cap>,<num>}
+8 ?{concat(<let>,<num>)}
+9 ?{contain(<let>),<num>}
+10 ?{contain(<cap>)}
+11 ?{contain(<num>)}
+12 ?{<cap>}
+13 ?{<let>,<num>}
+14 ?{contain(<let>)}
+15 ?{<num>}
+16 ?{<let>}

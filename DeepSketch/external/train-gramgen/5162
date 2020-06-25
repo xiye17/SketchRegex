@@ -1,0 +1,16 @@
+1 ?{concat(star(or(<m0>,<vow>)),<m1>)}
+2 ?{star(or(<m0>,<vow>)),<m1>}
+3 ?{star(or(<m0>,<vow>))}
+4 ?{concat(or(<m0>,<vow>),<m1>)}
+5 ?{<m0>,concat(<vow>,<m1>)}
+6 ?{or(<m0>,<vow>),<m1>}
+7 ?{<m0>,<vow>,<m1>}
+8 ?{or(<m0>,<vow>)}
+9 ?{concat(<vow>,<m1>)}
+10 ?{<m0>,<vow>}
+11 ?{concat(<m0>,<m1>)}
+12 ?{<vow>,<m1>}
+13 ?{<m0>,<m1>}
+14 ?{<vow>}
+15 ?{<m0>}
+16 ?{<m1>}

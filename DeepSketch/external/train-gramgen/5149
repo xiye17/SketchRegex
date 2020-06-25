@@ -1,0 +1,10 @@
+1 ?{and(<m0>,star(<low>))}
+2 ?{<m0>,star(<low>)}
+3 ?{star(<low>)}
+4 ?{and(<m0>,<low>)}
+5 ?{<m0>,<low>}
+6 ?{and(<m0>,<let>)}
+7 ?{<low>}
+8 ?{<m0>,<let>}
+9 ?{<m0>}
+10 ?{<let>}

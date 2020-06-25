@@ -1,0 +1,7 @@
+1 ?{concat(<let>,repeatatleast(<num>,7))}
+2 ?{<let>,repeatatleast(<num>,7)}
+3 ?{concat(<let>,<num>)}
+4 ?{repeatatleast(<num>,7)}
+5 ?{<let>,<num>}
+6 ?{<let>}
+7 ?{<num>}

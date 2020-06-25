@@ -1,0 +1,15 @@
+1 ?{<let>,<any>,repeatatleast(<m0>,2)}
+2 ?{<let>,repeatatleast(<any>,2)}
+3 ?{<any>,repeatatleast(<any>,2)}
+4 ?{<let>,repeatatleast(<m0>,2)}
+5 ?{<any>,repeatatleast(<m0>,2)}
+6 ?{repeatatleast(<let>,2)}
+7 ?{repeatatleast(<any>,2)}
+8 ?{repeatatleast(<m0>,2)}
+9 ?{<let>,<any>,<m0>}
+10 ?{<let>,<any>}
+11 ?{<let>,<m0>}
+12 ?{<any>,<m0>}
+13 ?{<let>}
+14 ?{<any>}
+15 ?{<m0>}

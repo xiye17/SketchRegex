@@ -1,0 +1,6 @@
+1 ?{contain(repeatatleast(<cap>,7))}
+2 ?{repeatatleast(<cap>,7)}
+3 ?{contain(<cap>)}
+4 ?{contain(<let>)}
+5 ?{<cap>}
+6 ?{<let>}

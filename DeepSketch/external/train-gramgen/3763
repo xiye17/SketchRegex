@@ -1,0 +1,14 @@
+1 ?{star(<num>),startwith(<any>)}
+2 ?{star(<num>),startwith(<let>)}
+3 ?{star(<num>),<any>}
+4 ?{star(<num>),<let>}
+5 ?{<num>,startwith(<any>)}
+6 ?{star(<num>)}
+7 ?{<num>,startwith(<let>)}
+8 ?{<num>,<any>}
+9 ?{startwith(<any>)}
+10 ?{<num>,<let>}
+11 ?{startwith(<let>)}
+12 ?{<num>}
+13 ?{<any>}
+14 ?{<let>}

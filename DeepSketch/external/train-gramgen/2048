@@ -1,0 +1,12 @@
+1 ?{concat(star(<vow>),<low>)}
+2 ?{star(<vow>),<low>}
+3 ?{concat(star(<vow>),<let>)}
+4 ?{concat(<vow>,<low>)}
+5 ?{star(<vow>),<let>}
+6 ?{<vow>,<low>}
+7 ?{star(<vow>)}
+8 ?{concat(<vow>,<let>)}
+9 ?{<low>}
+10 ?{<vow>,<let>}
+11 ?{<vow>}
+12 ?{<let>}

@@ -1,0 +1,7 @@
+1 ?{concat(<num>,<cap>)}
+2 ?{<num>,<cap>}
+3 ?{concat(<num>,<let>)}
+4 ?{<cap>}
+5 ?{<num>,<let>}
+6 ?{<num>}
+7 ?{<let>}

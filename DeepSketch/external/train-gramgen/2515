@@ -1,0 +1,6 @@
+1 ?{contain(contain(repeatatleast(<vow>,1)))}
+2 ?{contain(contain(<vow>))}
+3 ?{contain(repeatatleast(<vow>,1))}
+4 ?{contain(<vow>)}
+5 ?{repeatatleast(<vow>,1)}
+6 ?{<vow>}

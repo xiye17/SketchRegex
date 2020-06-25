@@ -1,0 +1,16 @@
+1 ?{concat(<m0>,<m1>),not(<vow>)}
+2 ?{<m0>,<m1>,not(<vow>)}
+3 ?{concat(<m0>,<m1>),<vow>}
+4 ?{concat(<m0>,not(<vow>))}
+5 ?{<m0>,<m1>,<vow>}
+6 ?{<m0>,not(<vow>)}
+7 ?{concat(<m0>,<vow>)}
+8 ?{<m1>,not(<vow>)}
+9 ?{<m0>,<vow>}
+10 ?{concat(<m0>,<m1>)}
+11 ?{<m1>,<vow>}
+12 ?{not(<vow>)}
+13 ?{<m0>,<m1>}
+14 ?{<vow>}
+15 ?{<m0>}
+16 ?{<m1>}

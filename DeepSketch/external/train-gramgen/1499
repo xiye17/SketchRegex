@@ -1,0 +1,5 @@
+1 ?{<any>,repeatatleast(<vow>,1)}
+2 ?{repeatatleast(<vow>,1)}
+3 ?{<any>,<vow>}
+4 ?{<any>}
+5 ?{<vow>}

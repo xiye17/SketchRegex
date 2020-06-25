@@ -1,0 +1,12 @@
+1 ?{repeatatleast(or(<cap>,<any>),1)}
+2 ?{repeatatleast(<cap>,1),<let>}
+3 ?{repeatatleast(<cap>,1),<any>}
+4 ?{or(<cap>,<any>)}
+5 ?{repeatatleast(<cap>,1)}
+6 ?{<cap>,<let>}
+7 ?{<cap>,<any>}
+8 ?{<cap>}
+9 ?{or(<let>,<any>)}
+10 ?{<let>,<any>}
+11 ?{<let>}
+12 ?{<any>}

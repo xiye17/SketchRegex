@@ -1,0 +1,10 @@
+1 ?{not(repeatatleast(<any>,2))}
+2 ?{repeatatleast(not(<any>),2)}
+3 ?{not(repeatatleast(<let>,2))}
+4 ?{repeatatleast(not(<let>),2)}
+5 ?{repeatatleast(<any>,2)}
+6 ?{not(<any>)}
+7 ?{repeatatleast(<let>,2)}
+8 ?{not(<let>)}
+9 ?{<any>}
+10 ?{<let>}

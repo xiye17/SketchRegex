@@ -1,0 +1,9 @@
+1 ?{and(<m0>,<cap>)}
+2 ?{concat(<m0>,<cap>)}
+3 ?{<m0>,<cap>}
+4 ?{and(<m0>,<let>)}
+5 ?{concat(<m0>,<let>)}
+6 ?{<m0>,<let>}
+7 ?{<cap>}
+8 ?{<m0>}
+9 ?{<let>}

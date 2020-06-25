@@ -7,6 +7,7 @@ import subprocess
 from data import get_cache_file
 from external.regexDFAEquals import unprocess_regex, silent_eual_test
 import random
+import time
 
 class DFAWorker:
     def __init__(self):
@@ -63,6 +64,11 @@ class SynthWorker:
             result = "wrong"
 
         return result
+
+    def timed_run(self, sketch):
+        t_start = time.monotonic()
+        result = self.run(sketch)
+        return result, (time.monotonic() - t_start)
 
 class DFACache(object):
     def __init__(self, cache_id, dataset):
@@ -213,5 +219,68 @@ class SynthCache(object):
             return None
     
     def soft_write(self, split, id, sketch, result):
+        key = split + str(id)
+        self.data[key][sketch] = result
+
+
+class TimedCache(SynthCache):
+
+    def __init__(self, cache_id, dataset):
+        self.dataset = dataset
+        if dataset == "TurkSketch":
+            self.cache_id = "TMTurk-" + cache_id
+            self.cache_file = get_cache_file(self.cache_id)
+            self.timeout = 2
+            self.mode = "1"
+        if dataset == "KB13Sketch":
+            self.cache_id = "TMKB-" + cache_id
+            self.cache_file = get_cache_file(self.cache_id)
+            self.timeout = 5
+            self.mode = "2"
+
+        self.data = {}
+        self.load()
+
+    def run_synth(self, split, id, sketch):
+        t_start = time.monotonic()
+        # java -Djava.library.path=external/lib -cp external/resnax.jar:external/lib/* -ea resnax.Main 1 $1 $2 $3
+        cmd = ["java", "-Djava.library.path=external/lib", "-cp", "external/resnax.jar:external/lib/*", "-ea", "resnax.Main", self.mode, split, str(id), sketch]
+        try:
+            out = str(subprocess.check_output(cmd, stderr=subprocess.DEVNULL, timeout=self.timeout))
+            if "true" in out:
+                result = "true"
+            elif "false" in out:
+                result = "false"
+            elif "wrong" in out:
+                result = "wrong"
+            elif "null" in out:
+                result = "null"
+            elif "empty" in out:
+                result = "empty"
+        except subprocess.TimeoutExpired:
+            result = "timeout"
+        except subprocess.CalledProcessError:
+            result = "wrong"
+        except ValueError:
+            result = "wrong"
+            print("Value Error", split, id, sketch)
+            print("Value Error!!!!!!", split, id, sketch, file=sys.stderr)
+
+        return result, (time.monotonic() - t_start)
+
+    def timed_query(self, split, id, sketch):
+        return super().query(split, id, sketch)
+
+    def query(self, split, id, sketch):
+        return super().query(split, id, sketch)[0]
+
+    def timed_soft_query(self, split, id, sketch):
+        return super().soft_query(split, id, sketch)
+
+    def soft_query(self, split, id, sketch):
+        return super().soft_query(split, id, sketch)[0]
+
+    def soft_write(self, split, id, sketch, result):
+        assert(len(result) == 2)
         key = split + str(id)
         self.data[key][sketch] = result

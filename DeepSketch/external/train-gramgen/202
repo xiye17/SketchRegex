@@ -1,0 +1,16 @@
+1 ?{<vow>,concat(<cap>,<num>)}
+2 ?{<vow>,concat(<let>,<num>)}
+3 ?{<vow>,<cap>,<num>}
+4 ?{concat(<vow>,<num>)}
+5 ?{concat(<cap>,<num>)}
+6 ?{<vow>,<let>,<num>}
+7 ?{concat(<let>,<num>)}
+8 ?{<vow>,<cap>}
+9 ?{<vow>,<num>}
+10 ?{<cap>,<num>}
+11 ?{<vow>,<let>}
+12 ?{<let>,<num>}
+13 ?{<vow>}
+14 ?{<cap>}
+15 ?{<num>}
+16 ?{<let>}

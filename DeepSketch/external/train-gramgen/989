@@ -1,0 +1,14 @@
+1 ?{star(or(<low>,<m0>))}
+2 ?{<low>,star(<m0>)}
+3 ?{star(<low>)}
+4 ?{star(or(<let>,<m0>))}
+5 ?{or(<low>,<m0>)}
+6 ?{<let>,star(<m0>)}
+7 ?{<low>,<m0>}
+8 ?{star(<let>)}
+9 ?{star(<m0>)}
+10 ?{<low>}
+11 ?{or(<let>,<m0>)}
+12 ?{<let>,<m0>}
+13 ?{<let>}
+14 ?{<m0>}

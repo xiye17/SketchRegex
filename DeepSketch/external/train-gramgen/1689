@@ -1,0 +1,16 @@
+1 ?{contain(and(<m0>,<low>))}
+2 ?{and(contain(<m0>),<low>)}
+3 ?{contain(<m0>),<low>}
+4 ?{and(<m0>,<low>)}
+5 ?{contain(and(<m0>,<let>))}
+6 ?{contain(<low>)}
+7 ?{and(contain(<m0>),<let>)}
+8 ?{<m0>,<low>}
+9 ?{contain(<m0>),<let>}
+10 ?{and(<m0>,<let>)}
+11 ?{<low>}
+12 ?{contain(<m0>)}
+13 ?{contain(<let>)}
+14 ?{<m0>,<let>}
+15 ?{<m0>}
+16 ?{<let>}

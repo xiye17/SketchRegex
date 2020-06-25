@@ -1,0 +1,8 @@
+1 ?{contain(endwith(<any>))}
+2 ?{contain(endwith(<let>))}
+3 ?{endwith(<any>)}
+4 ?{contain(<any>)}
+5 ?{endwith(<let>)}
+6 ?{contain(<let>)}
+7 ?{<any>}
+8 ?{<let>}

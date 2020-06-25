@@ -1,0 +1,8 @@
+1 ?{and(<any>,<num>)}
+2 ?{or(<any>,<num>)}
+3 ?{<any>,<num>}
+4 ?{and(<let>,<num>)}
+5 ?{<let>,<num>}
+6 ?{<any>}
+7 ?{<num>}
+8 ?{<let>}

@@ -1,0 +1,12 @@
+1 ?{not(endwith(repeatatleast(<num>,4)))}
+2 ?{not(repeatatleast(endwith(<num>),4))}
+3 ?{repeatatleast(not(endwith(<num>)),4)}
+4 ?{endwith(repeatatleast(<num>,4))}
+5 ?{repeatatleast(endwith(<num>),4)}
+6 ?{not(repeatatleast(<num>,4))}
+7 ?{repeatatleast(not(<num>),4)}
+8 ?{repeatatleast(<num>,4)}
+9 ?{not(endwith(<num>))}
+10 ?{endwith(<num>)}
+11 ?{not(<num>)}
+12 ?{<num>}

@@ -1,0 +1,6 @@
+1 ?{contain(<num>),<vow>}
+2 ?{<num>,<vow>}
+3 ?{contain(<num>)}
+4 ?{contain(<vow>)}
+5 ?{<num>}
+6 ?{<vow>}
