@@ -47,6 +47,7 @@ def _parse_args():
 
     # control reinforcement learning
     parser.add_argument('--do_rl', dest='do_rl', default=False, action='store_true', help='do reinforcement learning')
+    parser.add_argument('--do_oracle_val', dest='do_oracle_val', default=False, action='store_true', help='use oracle in validation')
     parser.add_argument('--oracle_mode', type=str, default="sketch", help='oracle')
     parser.add_argument('--do_montecarlo', default=False, action='store_true', help='do montecarlo sampling')
     parser.add_argument('--sample_size', type=int, default=10, help='num sample')
@@ -170,7 +171,10 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
 
     # optimizer = None
     train_loader = BatchDataLoader(train_data, all_train_input_data, all_train_output_data, batch_size=args.batch_size, shuffle=True)
-    test_loader = BatchDataLoader(test_data, all_test_input_data, all_test_output_data, batch_size=args.batch_size, shuffle=False)
+    if args.do_oracle_val:
+        test_loader = BatchDataLoader(test_data, all_test_input_data, all_test_output_data, batch_size=args.batch_size, shuffle=False, return_id=True)
+    else:
+        test_loader = BatchDataLoader(test_data, all_test_input_data, all_test_output_data, batch_size=args.batch_size, shuffle=False)
 
     train_iter = iter(train_loader)
 
@@ -226,7 +230,10 @@ def train_model_encdec_ml(train_data, test_data, input_indexer, output_indexer, 
             continue
 
         # start saving
-        dev_perplexity = model_perplexity(test_loader, model_input_emb, model_enc, model_output_emb, model_dec, input_indexer, output_indexer, args)
+        if args.do_oracle_val:
+            dev_perplexity = oracle_perplexity(test_loader, model_input_emb, model_enc, model_output_emb, model_dec, input_indexer, output_indexer, args.decoder_len_limit)
+        else:
+            dev_perplexity = model_perplexity(test_loader, model_input_emb, model_enc, model_output_emb, model_dec, input_indexer, output_indexer, args)
         print('epoch {} tf: {} dev loss: {}'.format(epoch, tf_ratio, dev_perplexity))
 
         if dev_perplexity < best_dev_perplexity:
@@ -648,7 +655,7 @@ if __name__ == '__main__':
     print(args)
     # global device
     set_global_device(args.gpu)
-    if args.do_rl:
+    if args.do_rl or args.do_oracle_val:
         args.oracle_mode = "sketch" if 'Sketch' in args.dataset else 'regex'
         if args.oracle_mode == 'sketch':
             cache = SynthCache(args.cache_id, args.dataset)
@@ -663,8 +670,11 @@ if __name__ == '__main__':
     train_data_indexed, dev_data_indexed = index_datasets(train, dev, input_indexer, output_indexer, args.decoder_len_limit)
 
     print("Original %i train exs, %i dev exs" % (len(train_data_indexed), len(dev_data_indexed)))
-    # train_data_indexed = filter_data(train_data_indexed)
-    # dev_data_indexed = filter_data(dev_data_indexed)
+    if not args.do_rl:
+        print('Before filter', len(train_data_indexed), len(dev_data_indexed))
+        train_data_indexed = filter_data(train_data_indexed)
+        dev_data_indexed = filter_data(dev_data_indexed)
+        print('After filter', len(train_data_indexed), len(dev_data_indexed))
 
     print("%i train exs, %i dev exs, %i input types, %i output types" % (len(train_data_indexed), len(dev_data_indexed), len(input_indexer), len(output_indexer)))
     # print("Input indexer: %s" % input_indexer)
@@ -680,13 +690,13 @@ if __name__ == '__main__':
             train_model_encdec_ml(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
     except Exception as err:
         print("Exception Catched")
-        if args.do_rl:
+        if args.do_rl or args.do_oracle_val:
             cache.rewrite()
         print(err)
         raise err
     except KeyboardInterrupt:
         print("KeyboardInterrupt Catched")
-        if args.do_rl:
+        if args.do_rl or args.do_oracle_val:
             cache.rewrite()
-    if args.do_rl:
+    if args.do_rl or args.do_oracle_val:
         cache.rewrite()

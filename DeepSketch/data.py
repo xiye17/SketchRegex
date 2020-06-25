@@ -116,7 +116,7 @@ def index_data(data, input_indexer, output_indexer, example_len_limit):
     return data_indexed
 
 def filter_data(data_indexed):
-    return [exs for exs in data_indexed if exs.y != "null"]
+    return [exs for exs in data_indexed if not (exs.y in ["null", 'empty', 'none'])]
 
 def tricky_filter_data(data_indexed):
     test_kb, input_indexer, output_indexer = load_test_dataset("KB13Plus", "val")

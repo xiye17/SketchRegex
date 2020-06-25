@@ -33,10 +33,10 @@ class DFAWorker:
 class SynthWorker:
     def __init__(self, dataset, split):
         self.split = split
-        if dataset == "TurkSketch":
+        if dataset.startswith("TurkSketch"):
             self.timeout = 2
             self.mode = "1"
-        if dataset == "KB13Sketch":
+        if dataset.startswith("KB13Sketch"):
             self.timeout = 4
             self.mode = "2"
 
@@ -116,12 +116,12 @@ class SynthCache(object):
 
     def __init__(self, cache_id, dataset):
         self.dataset = dataset
-        if dataset == "TurkSketch":
+        if dataset.startswith("TurkSketch"):
             self.cache_id = "Turk-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 2
             self.mode = "1"
-        if dataset == "KB13Sketch":
+        if dataset.startswith("KB13Sketch"):
             self.cache_id = "KB-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 5
@@ -227,12 +227,12 @@ class TimedCache(SynthCache):
 
     def __init__(self, cache_id, dataset):
         self.dataset = dataset
-        if dataset == "TurkSketch":
+        if dataset.startswith("TurkSketch"):
             self.cache_id = "TMTurk-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 2
             self.mode = "1"
-        if dataset == "KB13Sketch":
+        if dataset.startswith("KB13Sketch"):
             self.cache_id = "TMKB-" + cache_id
             self.cache_file = get_cache_file(self.cache_id)
             self.timeout = 5
