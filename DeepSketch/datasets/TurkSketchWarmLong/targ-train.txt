@@ -1,0 +1,6500 @@
+empty
+? { and ( star ( <let> ) , <low> ) }
+? { contain ( or ( <vow> , <any> ) ) }
+? { or ( or ( <any> , <cap> ) , <low> ) }
+? { or ( or ( <m0> , <m1> ) , <any> ) }
+? { startwith ( concat ( <m0> , <let> ) ) }
+empty
+none
+? { contain ( concat ( <any> , <low> ) ) }
+? { concat ( <vow> , concat ( <let> , <num> ) ) }
+? { concat ( <m0> , or ( or ( <m1> , <let> ) , <low> ) ) }
+? { and ( <cap> , <m1> ) }
+none
+none
+? { concat ( <cap> , concat ( <m0> , <any> ) ) }
+? { repeatatleast ( or ( <num> , <let> ) , 4 ) }
+empty
+? { concat ( <m0> , <any> ) }
+? { repeatatleast ( or ( <let> , <vow> ) , 2 ) }
+? { concat ( repeatatleast ( <vow> , 7 ) , <low> ) }
+empty
+? { concat ( <m0> , and ( <low> , <let> ) ) }
+? { endwith ( concat ( <num> , <any> ) ) }
+? { or ( <cap> , <vow> ) }
+none
+none
+? { star ( contain ( concat ( <cap> , <m0> ) ) ) }
+? { concat ( <low> , <any> ) }
+none
+empty
+none
+? { concat ( <vow> , <any> ) , <m0> }
+? { contain ( repeatatleast ( <any> , 1 ) ) , <m0> }
+none
+? { repeatatleast ( <m0> , 2 ) }
+none
+? { contain ( repeatatleast ( or ( <low> , <any> ) , 1 ) ) }
+? { and ( concat ( <low> , <any> ) , <any> ) , <m0> }
+none
+? { or ( <low> , <any> ) }
+? { concat ( <vow> , <let> ) }
+none
+none
+? { repeatatleast ( <m0> , 6 ) , <m1> }
+? { or ( <low> , <vow> ) }
+none
+? { not ( startwith ( repeatatleast ( <any> , 3 ) ) ) }
+empty
+none
+none
+none
+? { startwith ( <any> ) , endwith ( <any> ) , <m0> }
+? { startwith ( repeatatleast ( or ( <low> , <m0> ) , 1 ) ) }
+empty
+? { contain ( repeatatleast ( <low> , 2 ) ) }
+empty
+? { <any> , endwith ( <vow> ) }
+? { <any> }
+? { concat ( or ( <any> , <num> ) , <m0> ) }
+none
+empty
+? { or ( or ( <m0> , <let> ) , <any> ) }
+none
+? { concat ( <num> , <cap> ) }
+? { concat ( or ( or ( <m0> , <low> ) , <num> ) , <cap> ) }
+? { concat ( <cap> , <m0> ) }
+? { concat ( repeatatleast ( <any> , 2 ) , <cap> ) }
+? { and ( <let> , or ( <any> , <cap> ) ) }
+none
+empty
+none
+empty
+? { contain ( or ( or ( <low> , <any> ) , <m0> ) ) }
+none
+? { <vow> , concat ( <num> , <cap> ) }
+empty
+? { repeatatleast ( concat ( <m0> , <vow> ) , 1 ) }
+none
+empty
+? { concat ( star ( <cap> ) , <let> ) }
+? { endwith ( concat ( <m0> , star ( <vow> ) ) ) }
+? { concat ( concat ( <cap> , <let> ) , <num> ) }
+? { repeatatleast ( or ( <vow> , <any> ) , 4 ) }
+empty
+? { repeatatleast ( concat ( <any> , <low> ) , 2 ) }
+? { contain ( <any> ) }
+none
+none
+? { concat ( <num> , <m0> ) }
+none
+? { and ( <any> , <num> ) }
+empty
+? { concat ( <any> , or ( or ( <m0> , <vow> ) , <m1> ) ) }
+? { concat ( <low> , concat ( <vow> , <cap> ) ) }
+empty
+none
+? { concat ( <num> , concat ( <m0> , <low> ) ) }
+? { not ( or ( or ( <low> , <cap> ) , <vow> ) ) }
+? { concat ( <let> , concat ( <cap> , <low> ) ) }
+? { contain ( concat ( <any> , <num> ) ) }
+? { concat ( <m0> , or ( or ( <m1> , <low> ) , <m2> ) ) }
+? { and ( or ( <let> , <any> ) , <let> ) }
+none
+? { repeatatleast ( <any> , 2 ) }
+none
+? { <any> , or ( <m0> , <vow> ) }
+? { repeatatleast ( concat ( <any> , <low> ) , 1 ) }
+empty
+none
+none
+? { repeatatleast ( endwith ( <vow> ) , 4 ) }
+? { repeatatleast ( <let> , 7 ) , concat ( <any> , <m0> ) }
+? { contain ( <vow> ) }
+none
+? { <num> }
+? { concat ( <m0> , and ( <vow> , <any> ) ) }
+? { or ( or ( <m0> , <let> ) , <m1> ) }
+empty
+? { contain ( <m0> ) , endwith ( repeatatleast ( <any> , 1 ) ) }
+empty
+? { concat ( <let> , or ( <m0> , <cap> ) ) }
+? { concat ( <let> , <m0> ) }
+? { endwith ( <vow> ) , <any> , <m0> }
+? { contain ( <m0> ) , or ( or ( <cap> , <low> ) , <m1> ) }
+? { and ( <any> , <any> ) , concat ( <m0> , star ( <low> ) ) }
+none
+none
+? { endwith ( concat ( <num> , <let> ) ) }
+none
+none
+? { or ( <vow> , <m0> ) }
+empty
+none
+? { concat ( <low> , repeatatleast ( <any> , 6 ) ) }
+none
+? { concat ( <m0> , and ( <let> , endwith ( <vow> ) ) ) }
+empty
+? { concat ( <m0> , or ( <vow> , <any> ) ) }
+? { endwith ( <vow> ) , repeatatleast ( <num> , 1 ) }
+? { concat ( <vow> , <low> ) }
+? { endwith ( <let> ) }
+empty
+? { concat ( or ( <cap> , <vow> ) , <any> ) }
+? { or ( <cap> , <any> ) }
+? { concat ( <num> , <low> ) }
+empty
+? { repeatatleast ( or ( <low> , <m0> ) , 4 ) }
+none
+empty
+empty
+none
+? { endwith ( concat ( <cap> , <vow> ) ) }
+none
+? { concat ( <m0> , concat ( <low> , <let> ) ) }
+? { or ( <cap> , <low> ) }
+? { repeatatleast ( <vow> , 1 ) , not ( <num> ) }
+empty
+? { and ( contain ( <any> ) , <vow> ) }
+? { concat ( or ( <m0> , <low> ) , <any> ) }
+? { endwith ( star ( <cap> ) ) }
+? { <let> }
+? { concat ( or ( <let> , <m0> ) , <m1> ) }
+empty
+? { concat ( <num> , <m0> ) , <any> }
+? { contain ( or ( or ( <low> , <vow> ) , <cap> ) ) }
+? { contain ( <vow> ) , <low> }
+none
+none
+none
+none
+none
+? { repeatatleast ( <m0> , 6 ) }
+none
+none
+? { and ( star ( <let> ) , <m0> ) }
+none
+? { or ( <let> , <num> ) }
+? { concat ( <low> , <m0> ) }
+? { <vow> , <any> }
+? { contain ( contain ( concat ( <m0> , <cap> ) ) ) }
+? { not ( contain ( <m0> ) ) }
+? { repeatatleast ( endwith ( concat ( <num> , <vow> ) ) , 5 ) }
+? { concat ( <low> , <num> ) }
+? { concat ( <let> , concat ( <vow> , <low> ) ) }
+none
+? { repeatatleast ( concat ( <low> , <let> ) , 1 ) }
+none
+? { <any> , concat ( <m0> , <m1> ) }
+none
+? { concat ( <cap> , or ( or ( <any> , <num> ) , <m0> ) ) }
+? { and ( <any> , startwith ( <m0> ) ) }
+? { <vow> }
+? { star ( <vow> ) }
+? { concat ( star ( <num> ) , <any> ) }
+none
+? { <m2> }
+? { concat ( repeatatleast ( <any> , 4 ) , <num> ) }
+none
+none
+? { concat ( <m0> , concat ( <cap> , <num> ) ) }
+? { and ( <let> , <any> ) , concat ( <m0> , <any> ) , repeatatleast ( <m1> , 1 ) }
+? { <vow> , concat ( <cap> , <num> ) }
+none
+? { and ( not ( <m0> ) , not ( startwith ( <let> ) ) ) }
+? { and ( not ( <m0> ) , contain ( <num> ) ) }
+empty
+? { concat ( <low> , concat ( <num> , <cap> ) ) }
+? { endwith ( concat ( <m0> , <low> ) ) }
+? { concat ( <num> , endwith ( or ( <m0> , <let> ) ) ) }
+? { <let> }
+? { concat ( <cap> , concat ( <m0> , <num> ) ) }
+? { concat ( <let> , concat ( <cap> , <vow> ) ) }
+? { and ( contain ( <any> ) , endwith ( <m0> ) ) }
+? { concat ( <cap> , concat ( <num> , <m0> ) ) }
+? { concat ( or ( or ( <m0> , <cap> ) , <let> ) , <any> ) }
+none
+empty
+none
+? { concat ( <any> , <m0> ) , endwith ( <m1> ) }
+? { concat ( or ( <num> , <vow> ) , <let> ) }
+? { repeatatleast ( concat ( <vow> , <let> ) , 4 ) }
+? { <any> , <m0> , <m1> }
+none
+? { concat ( and ( <num> , <any> ) , or ( <low> , <let> ) ) }
+none
+empty
+? { concat ( <any> , <low> ) }
+none
+? { not ( <num> ) }
+? { repeatatleast ( or ( <vow> , <any> ) , 5 ) }
+? { or ( or ( <m0> , <low> ) , <vow> ) }
+empty
+? { contain ( or ( <any> , <low> ) ) , <let> }
+? { or ( <cap> , <any> ) }
+? { endwith ( <let> ) }
+? { concat ( <let> , concat ( <m0> , <vow> ) ) }
+? { or ( <let> , <vow> ) }
+none
+? { endwith ( concat ( <num> , <low> ) ) }
+? { concat ( <any> , <let> ) }
+? { <any> }
+? { endwith ( <cap> ) }
+? { concat ( <any> , concat ( <m0> , <num> ) ) }
+? { repeatatleast ( or ( <low> , <m0> ) , 7 ) }
+none
+none
+? { concat ( <vow> , or ( or ( <low> , <cap> ) , <any> ) ) }
+? { endwith ( <num> ) , repeatatleast ( <cap> , 1 ) }
+none
+none
+? { startwith ( concat ( <cap> , <m0> ) ) }
+? { concat ( repeatatleast ( <cap> , 1 ) , <any> ) }
+? { concat ( <cap> , <any> ) , <m0> , not ( <any> ) }
+? { concat ( <let> , concat ( <cap> , <m0> ) ) }
+? { <any> , repeatatleast ( <m0> , 3 ) , not ( <vow> ) }
+? { repeatatleast ( startwith ( <let> ) , 5 ) }
+? { contain ( or ( or ( <vow> , <any> ) , <num> ) ) }
+? { endwith ( <num> ) }
+none
+empty
+? { not ( endwith ( concat ( <m0> , <vow> ) ) ) }
+? { endwith ( or ( <m0> , <num> ) ) }
+? { or ( <let> , <any> ) }
+? { not ( contain ( or ( <m0> , <m1> ) ) ) }
+? { startwith ( and ( <let> , <any> ) ) , or ( <m0> , <vow> ) }
+? { and ( not ( or ( <let> , <m0> ) ) , <let> ) }
+? { concat ( <m0> , <m1> ) }
+? { repeatatleast ( concat ( <let> , <vow> ) , 1 ) }
+? { contain ( or ( <m0> , <let> ) ) }
+? { repeatatleast ( <low> , 4 ) }
+? { concat ( repeatatleast ( <vow> , 1 ) , <let> ) }
+? { concat ( not ( <any> ) , <num> ) }
+? { concat ( repeatatleast ( <let> , 1 ) , <m0> ) }
+none
+? { concat ( <m0> , <num> ) }
+none
+none
+? { concat ( concat ( <m0> , <cap> ) , <m1> ) }
+? { not ( <m0> ) , endwith ( <m1> ) }
+empty
+? { concat ( <let> , <m0> ) }
+empty
+empty
+? { repeatatleast ( concat ( <vow> , <any> ) , 1 ) }
+? { endwith ( <m0> ) , or ( or ( <m1> , <m2> ) , <m3> ) }
+? { concat ( <num> , or ( <m0> , <low> ) ) }
+? { contain ( <let> ) , <m0> }
+? { concat ( <any> , <vow> ) }
+none
+none
+? { and ( <vow> , star ( <let> ) ) }
+empty
+? { concat ( <vow> , repeatatleast ( <low> , 5 ) ) }
+none
+? { endwith ( or ( <m0> , <cap> ) ) }
+? { concat ( startwith ( <m0> ) , <low> ) }
+none
+? { or ( <m0> , <vow> ) }
+? { or ( or ( <any> , <num> ) , <cap> ) }
+? { contain ( star ( or ( <any> , <vow> ) ) ) }
+? { startwith ( or ( <vow> , <let> ) ) }
+? { concat ( <num> , <low> ) }
+? { contain ( or ( or ( <low> , <cap> ) , <num> ) ) }
+? { <any> , or ( <m0> , <vow> ) , <m1> }
+? { concat ( <num> , or ( <vow> , <m0> ) ) }
+? { not ( contain ( <let> ) ) }
+empty
+? { concat ( or ( <cap> , <any> ) , <let> ) }
+none
+? { concat ( <m0> , <let> ) }
+none
+? { star ( repeatatleast ( <any> , 1 ) ) }
+? { concat ( <any> , <any> ) , repeatatleast ( <m1> , 2 ) }
+none
+? { concat ( <vow> , <low> ) , or ( <m0> , <let> ) }
+? { or ( or ( <let> , <m0> ) , <m1> ) }
+empty
+? { <m0> , concat ( <m1> , <low> ) }
+empty
+? { concat ( <vow> , or ( <cap> , <m0> ) ) }
+none
+? { <any> , repeatatleast ( <m0> , 2 ) , not ( <let> ) }
+? { concat ( repeatatleast ( <low> , 3 ) , <vow> ) }
+? { <let> }
+? { and ( <vow> , <cap> ) }
+? { concat ( or ( <let> , <any> ) , <vow> ) }
+? { concat ( <let> , or ( <m0> , <num> ) ) }
+empty
+? { concat ( <m0> , <low> ) , <vow> }
+? { concat ( <low> , <m0> ) }
+? { not ( concat ( <low> , <cap> ) ) }
+? { or ( <low> , <let> ) }
+? { contain ( <any> ) , and ( repeatatleast ( <m0> , 3 ) , endwith ( <any> ) ) }
+none
+none
+? { or ( or ( <num> , <cap> ) , <m0> ) }
+none
+? { concat ( <low> , concat ( <m0> , <vow> ) ) }
+none
+? { and ( <m0> , <low> ) }
+none
+? { startwith ( and ( <low> , endwith ( <any> ) ) ) , <m0> }
+? { contain ( repeatatleast ( or ( <let> , <any> ) , 2 ) ) }
+none
+? { not ( or ( <m0> , <m1> ) ) }
+? { not ( <m0> ) , or ( <m1> , <m2> ) }
+empty
+? { endwith ( concat ( <low> , <let> ) ) }
+? { not ( startwith ( <let> ) ) }
+none
+? { concat ( repeatatleast ( repeatatleast ( <let> , 1 ) , 2 ) , <m0> ) }
+? { <any> }
+empty
+? { concat ( <vow> , <cap> ) }
+none
+? { not ( contain ( or ( or ( <any> , <vow> ) , <m0> ) ) ) }
+? { or ( or ( <let> , <m0> ) , <any> ) }
+empty
+none
+none
+none
+? { <any> , or ( <m0> , <vow> ) }
+? { concat ( <num> , <m0> ) }
+? { <m0> }
+none
+none
+none
+none
+none
+? { repeatatleast ( <m0> , 1 ) }
+? { and ( contain ( <any> ) , concat ( <m0> , <let> ) ) }
+? { not ( concat ( <low> , <m0> ) ) }
+? { concat ( repeatatleast ( <num> , 4 ) , <vow> ) }
+none
+none
+? { not ( concat ( <m0> , <low> ) ) }
+? { concat ( contain ( <cap> ) , concat ( <low> , <vow> ) ) }
+? { concat ( <m0> , concat ( <low> , <any> ) ) }
+? { contain ( or ( <any> , <let> ) ) }
+none
+empty
+none
+? { concat ( <cap> , concat ( <m0> , <low> ) ) }
+? { <m0> }
+none
+none
+? { concat ( <vow> , <m0> ) }
+empty
+? { contain ( <m0> ) , or ( <cap> , <num> ) }
+none
+none
+empty
+none
+none
+none
+? { <let> , repeatatleast ( <any> , 1 ) }
+? { concat ( <cap> , concat ( <vow> , <m0> ) ) }
+? { startwith ( repeatatleast ( or ( <m0> , <m1> ) , 1 ) ) }
+none
+? { and ( star ( <any> ) , contain ( <low> ) ) }
+none
+none
+empty
+? { <num> , <m0> , <low> , <cap> }
+? { and ( <vow> , <cap> ) }
+? { concat ( <any> , <low> ) }
+? { concat ( repeatatleast ( <any> , 5 ) , <num> ) }
+? { contain ( <vow> ) , or ( <any> , <m0> ) }
+none
+? { concat ( or ( <any> , <m0> ) , <num> ) }
+empty
+none
+empty
+? { not ( repeatatleast ( <vow> , 1 ) ) }
+none
+? { concat ( <cap> , <low> ) }
+empty
+none
+? { repeatatleast ( concat ( <m0> , <vow> ) , 1 ) }
+none
+? { not ( concat ( <num> , <any> ) ) }
+none
+empty
+? { contain ( <vow> ) , repeatatleast ( <low> , 7 ) }
+empty
+none
+? { and ( <vow> , <m0> ) }
+empty
+? { star ( <let> ) , not ( <num> ) }
+? { not ( repeatatleast ( concat ( <low> , <vow> ) , 6 ) ) }
+? { concat ( <let> , <low> ) }
+? { concat ( <num> , concat ( <vow> , <cap> ) ) }
+none
+none
+none
+? { repeatatleast ( concat ( <num> , <m0> ) , 1 ) }
+none
+? { startwith ( repeatatleast ( <low> , 4 ) ) }
+? { <vow> }
+empty
+? { or ( or ( <any> , <m0> ) , <num> ) }
+? { <m0> }
+empty
+none
+? { <let> }
+empty
+? { or ( <let> , <vow> ) }
+? { or ( <num> , <let> ) }
+? { endwith ( <any> ) }
+none
+? { repeatatleast ( <let> , 6 ) }
+? { contain ( <any> ) , <any> , <m0> , <m1> }
+? { and ( startwith ( <num> ) , contain ( <vow> ) ) }
+? { repeatatleast ( <any> , 4 ) , <let> }
+? { concat ( <num> , concat ( <cap> , <low> ) ) }
+? { startwith ( <any> ) }
+none
+? { contain ( repeatatleast ( <num> , 1 ) ) , <any> }
+? { <m0> }
+none
+none
+? { <vow> }
+empty
+empty
+none
+none
+? { concat ( <m0> , <cap> ) }
+none
+? { <m0> }
+empty
+none
+none
+empty
+? { concat ( <low> , repeatatleast ( <m0> , 7 ) ) }
+? { contain ( <m0> ) , not ( <any> ) }
+? { concat ( contain ( concat ( <m0> , <low> ) ) , <m1> ) }
+none
+? { <any> , concat ( <m0> , <m1> ) }
+? { concat ( <cap> , concat ( <any> , <low> ) ) }
+? { concat ( and ( <vow> , <let> ) , <num> ) }
+? { <num> }
+none
+empty
+? { endwith ( <any> ) , <any> , or ( or ( <m0> , <m1> ) , <num> ) }
+none
+none
+? { concat ( repeatatleast ( <m0> , 2 ) , <let> ) }
+? { endwith ( repeatatleast ( <m0> , 2 ) ) }
+empty
+? { concat ( startwith ( <m0> ) , concat ( <m1> , <low> ) ) }
+empty
+none
+empty
+empty
+? { concat ( <m0> , <m1> ) }
+? { concat ( or ( or ( <low> , <m0> ) , <m1> ) , <any> ) }
+none
+? { not ( <any> ) , and ( not ( <low> ) , not ( <let> ) ) }
+? { repeatatleast ( or ( <m0> , <vow> ) , 2 ) }
+? { concat ( <m0> , or ( or ( <m1> , <num> ) , <vow> ) ) }
+empty
+none
+? { not ( repeatatleast ( <any> , 4 ) ) }
+empty
+? { concat ( <low> , concat ( <m0> , <cap> ) ) }
+none
+empty
+? { concat ( <cap> , concat ( <low> , <num> ) ) }
+? { repeatatleast ( or ( <let> , <any> ) , 3 ) }
+empty
+? { concat ( <m0> , endwith ( <m1> ) ) }
+? { <let> , <num> }
+? { <num> , <low> , <cap> }
+empty
+? { not ( <any> ) }
+? { concat ( or ( or ( <m0> , <vow> ) , <m1> ) , <num> ) }
+none
+? { not ( repeatatleast ( startwith ( <num> ) , 3 ) ) }
+? { repeatatleast ( <any> , 6 ) }
+empty
+? { <any> }
+? { endwith ( concat ( <let> , <low> ) ) }
+none
+? { or ( or ( <num> , <m0> ) , <m1> ) }
+empty
+? { or ( or ( <m0> , <low> ) , <num> ) }
+? { concat ( startwith ( <num> ) , <m0> ) }
+none
+none
+? { <any> }
+none
+empty
+none
+none
+? { not ( endwith ( repeatatleast ( <any> , 2 ) ) ) }
+? { not ( contain ( repeatatleast ( <num> , 1 ) ) ) , not ( <any> ) }
+empty
+? { or ( <any> , <num> ) }
+none
+? { endwith ( repeatatleast ( repeatatleast ( <cap> , 1 ) , 1 ) ) }
+none
+? { repeatatleast ( or ( <num> , <any> ) , 4 ) }
+empty
+? { concat ( concat ( <m0> , <any> ) , <low> ) }
+empty
+none
+? { and ( <vow> , <any> ) , or ( or ( <m0> , <m1> ) , <let> ) }
+empty
+? { or ( <let> , <num> ) , <cap> }
+empty
+? { concat ( <vow> , <m0> ) }
+? { concat ( repeatatleast ( <let> , 7 ) , <num> ) }
+? { not ( <any> ) , and ( <m0> , <any> ) , <m1> , <let> }
+empty
+? { repeatatleast ( <any> , 7 ) }
+? { concat ( <num> , <m0> ) , repeatatleast ( <m1> , 5 ) }
+? { repeatatleast ( or ( <let> , <any> ) , 1 ) }
+empty
+? { concat ( <num> , concat ( <any> , <cap> ) ) }
+? { <vow> , or ( <num> , <any> ) , <any> , <m0> }
+? { concat ( <let> , <m0> ) }
+? { <vow> }
+empty
+none
+? { contain ( repeatatleast ( or ( <vow> , <any> ) , 7 ) ) }
+? { concat ( <m0> , <m1> ) }
+? { <low> }
+? { concat ( star ( <vow> ) , <m0> ) }
+? { not ( repeatatleast ( <m0> , 1 ) ) }
+? { concat ( or ( or ( <vow> , <m0> ) , <low> ) , <m1> ) }
+empty
+none
+empty
+empty
+none
+? { repeatatleast ( <vow> , 1 ) }
+empty
+? { and ( <any> , <low> ) }
+? { contain ( contain ( repeatatleast ( repeatatleast ( <any> , 1 ) , 6 ) ) ) }
+empty
+? { endwith ( <vow> ) }
+? { or ( or ( <m0> , <m1> ) , <let> ) }
+empty
+? { contain ( <any> ) , <cap> , <m0> }
+empty
+? { or ( <m0> , <low> ) }
+? { <num> , <any> , concat ( <m0> , <cap> ) }
+none
+none
+none
+? { endwith ( <cap> ) }
+? { concat ( startwith ( <any> ) , <vow> ) }
+empty
+? { contain ( <num> ) , or ( <vow> , <cap> ) }
+? { or ( or ( <let> , <m0> ) , <any> ) }
+? { contain ( <let> ) }
+? { concat ( or ( <vow> , <any> ) , <m0> ) }
+empty
+none
+empty
+? { or ( or ( <num> , <let> ) , <vow> ) }
+? { concat ( star ( <vow> ) , contain ( <m0> ) ) }
+? { concat ( <let> , or ( <m0> , <low> ) ) }
+? { concat ( <let> , <any> ) }
+? { concat ( <m0> , <low> ) }
+? { concat ( <cap> , startwith ( <m0> ) ) }
+? { not ( concat ( <m0> , <low> ) ) }
+empty
+? { not ( or ( or ( <num> , <any> ) , <low> ) ) }
+none
+? { not ( <vow> ) , or ( <let> , <m0> ) }
+? { <let> , repeatatleast ( repeatatleast ( <cap> , 1 ) , 1 ) }
+? { <m0> , <m1> , <m2> }
+empty
+empty
+? { concat ( repeatatleast ( <any> , 2 ) , <m0> ) }
+none
+? { endwith ( <any> ) , <any> , <m0> }
+? { concat ( <let> , concat ( <num> , <cap> ) ) }
+none
+? { not ( endwith ( concat ( <m0> , <m1> ) ) ) }
+none
+? { <vow> }
+? { <m0> , and ( or ( <m1> , <num> ) , <m2> ) }
+? { contain ( repeatatleast ( <m0> , 5 ) ) }
+? { startwith ( <let> ) }
+? { contain ( repeatatleast ( or ( <any> , <cap> ) , 7 ) ) }
+? { not ( concat ( <let> , concat ( <m0> , <cap> ) ) ) }
+? { concat ( <low> , concat ( <vow> , <let> ) ) }
+? { not ( concat ( star ( <low> ) , <num> ) ) }
+? { <low> }
+none
+none
+? { concat ( <low> , <m0> ) }
+? { repeatatleast ( or ( <num> , <vow> ) , 6 ) }
+none
+? { repeatatleast ( concat ( <m0> , <num> ) , 5 ) }
+? { concat ( <m0> , <num> ) }
+empty
+? { concat ( <vow> , repeatatleast ( <any> , 6 ) ) }
+empty
+none
+? { concat ( <low> , repeatatleast ( <cap> , 7 ) ) }
+? { or ( or ( <vow> , <m0> ) , <low> ) }
+? { concat ( <any> , concat ( <m0> , <low> ) ) }
+none
+? { endwith ( <cap> ) }
+empty
+? { and ( <m0> , <any> ) }
+? { concat ( <low> , concat ( <vow> , <any> ) ) }
+empty
+none
+none
+empty
+? { <vow> }
+? { repeatatleast ( <num> , 2 ) }
+? { or ( or ( <m0> , <vow> ) , <let> ) }
+? { concat ( <m0> , <any> ) }
+? { repeatatleast ( concat ( <num> , <any> ) , 2 ) }
+none
+empty
+none
+? { startwith ( <any> ) , endwith ( <let> ) }
+none
+? { contain ( or ( or ( <any> , <num> ) , <m0> ) ) }
+none
+? { <vow> }
+none
+none
+empty
+? { repeatatleast ( or ( <m0> , <m1> ) , 1 ) }
+none
+? { not ( <any> ) , <any> , <m0> }
+? { concat ( <vow> , concat ( <num> , <m0> ) ) }
+empty
+? { <any> }
+? { contain ( <any> ) , <m0> , <any> , or ( or ( <m1> , <vow> ) , <cap> ) }
+empty
+? { endwith ( repeatatleast ( or ( <vow> , <cap> ) , 4 ) ) }
+? { concat ( <m0> , repeatatleast ( <any> , 2 ) ) }
+empty
+? { not ( repeatatleast ( or ( <m0> , <low> ) , 1 ) ) }
+? { startwith ( and ( <m0> , not ( <let> ) ) ) }
+? { repeatatleast ( <num> , 2 ) , <low> , <any> , <m0> }
+none
+? { concat ( repeatatleast ( <any> , 3 ) , <num> ) }
+? { or ( or ( <let> , <any> ) , <low> ) }
+? { or ( or ( <let> , <any> ) , <low> ) }
+? { endwith ( repeatatleast ( <vow> , 5 ) ) }
+? { repeatatleast ( concat ( <vow> , <cap> ) , 6 ) }
+? { concat ( <low> , <any> ) }
+none
+none
+empty
+? { concat ( not ( <m0> ) , or ( or ( <vow> , <m1> ) , <any> ) ) }
+none
+none
+empty
+? { startwith ( or ( <num> , <low> ) ) }
+empty
+? { and ( contain ( <let> ) , <low> ) }
+empty
+none
+none
+none
+? { and ( <m0> , <any> ) }
+? { and ( contain ( <any> ) , <vow> ) }
+? { contain ( <m0> ) , <cap> }
+? { <vow> }
+? { concat ( <m0> , startwith ( <m1> ) ) }
+none
+none
+? { concat ( <cap> , or ( <m0> , <num> ) ) }
+? { concat ( <any> , or ( or ( <m0> , <low> ) , <let> ) ) }
+none
+empty
+? { concat ( repeatatleast ( <cap> , 5 ) , <m0> ) }
+? { concat ( <cap> , <num> ) , <low> }
+? { concat ( <num> , concat ( <low> , <vow> ) ) }
+? { startwith ( concat ( <m0> , <let> ) ) }
+? { repeatatleast ( or ( <any> , <m0> ) , 2 ) }
+none
+none
+none
+none
+? { repeatatleast ( or ( <low> , <m0> ) , 2 ) }
+? { concat ( or ( <m0> , <cap> ) , <vow> ) }
+none
+none
+? { not ( contain ( and ( <low> , <vow> ) ) ) }
+? { star ( <num> ) }
+? { concat ( <any> , concat ( <vow> , <m0> ) ) }
+? { or ( <cap> , <low> ) }
+? { concat ( or ( or ( <m0> , <num> ) , <vow> ) , <m1> ) }
+empty
+? { <any> , <m0> , endwith ( <any> ) }
+? { concat ( or ( or ( <m1> , <any> ) , <let> ) , <m0> ) }
+empty
+none
+? { <let> , star ( <any> ) }
+empty
+? { concat ( <m1> , or ( <low> , <m0> ) ) }
+? { concat ( or ( <let> , <vow> ) , <m0> ) }
+empty
+? { repeatatleast ( or ( <vow> , <num> ) , 7 ) }
+? { repeatatleast ( <m0> , 5 ) }
+none
+none
+empty
+? { repeatatleast ( concat ( <any> , <vow> ) , 5 ) }
+empty
+? { star ( or ( <let> , <any> ) ) }
+empty
+? { <cap> }
+empty
+? { or ( or ( <num> , <vow> ) , <let> ) }
+? { endwith ( contain ( <any> ) ) , or ( or ( <m0> , <any> ) , <cap> ) }
+none
+? { concat ( repeatatleast ( <let> , 3 ) , <m0> ) }
+? { concat ( <vow> , <m0> ) , <low> }
+? { repeatatleast ( <vow> , 1 ) }
+empty
+none
+none
+? { endwith ( or ( <cap> , <any> ) ) }
+empty
+empty
+? { repeatatleast ( endwith ( or ( <low> , <vow> ) ) , 7 ) }
+none
+? { or ( <num> , <vow> ) }
+? { and ( <any> , <m0> ) }
+? { repeatatleast ( or ( <any> , <let> ) , 5 ) }
+empty
+empty
+? { not ( <low> ) , endwith ( <num> ) }
+? { not ( <let> ) , not ( and ( <m0> , not ( <m1> ) ) ) }
+none
+empty
+none
+empty
+? { concat ( endwith ( <m0> ) , <low> ) }
+none
+empty
+empty
+? { not ( repeatatleast ( <vow> , 3 ) ) }
+? { endwith ( <num> ) }
+empty
+? { or ( or ( <cap> , <m0> ) , <m1> ) }
+none
+none
+? { endwith ( or ( <any> , <low> ) ) }
+? { endwith ( <m0> ) , concat ( <let> , <m1> ) }
+? { <low> , not ( <num> ) , not ( <m0> ) }
+none
+empty
+? { <any> , concat ( <m0> , not ( <any> ) ) , and ( <m1> , not ( <m2> ) ) }
+none
+none
+none
+? { contain ( repeatatleast ( <any> , 2 ) ) , concat ( <m0> , <vow> ) }
+? { <m0> }
+? { <any> , star ( <m0> ) , startwith ( <low> ) }
+none
+? { repeatatleast ( concat ( <vow> , <any> ) , 4 ) }
+? { concat ( <any> , concat ( <vow> , <low> ) ) }
+none
+empty
+none
+? { endwith ( repeatatleast ( or ( <any> , <m0> ) , 1 ) ) }
+none
+? { contain ( endwith ( <any> ) ) }
+? { concat ( <m0> , endwith ( <low> ) ) }
+? { not ( <cap> ) }
+? { concat ( repeatatleast ( <m0> , 4 ) , endwith ( <any> ) ) }
+? { concat ( <low> , contain ( <cap> ) ) }
+? { concat ( <vow> , concat ( <m0> , <low> ) ) }
+? { not ( <any> ) , <m0> , not ( <m2> ) }
+? { concat ( or ( or ( <cap> , <m0> ) , <vow> ) , <num> ) }
+? { contain ( or ( or ( <vow> , <let> ) , <low> ) ) }
+? { repeatatleast ( <m0> , 4 ) }
+? { concat ( <let> , <m0> ) }
+? { startwith ( star ( <low> ) ) , <let> }
+? { concat ( <num> , concat ( <let> , <m0> ) ) }
+? { repeatatleast ( and ( <let> , <let> ) , 1 ) }
+none
+empty
+? { repeatatleast ( <cap> , 1 ) }
+? { contain ( repeatatleast ( repeatatleast ( <let> , 1 ) , 1 ) ) }
+? { concat ( <let> , and ( <any> , <vow> ) ) }
+empty
+? { <num> , endwith ( <any> ) }
+? { star ( concat ( <m0> , <m1> ) ) }
+? { concat ( <let> , or ( or ( <low> , <num> ) , <m0> ) ) }
+? { or ( <any> , <m0> ) }
+? { concat ( <let> , <low> ) }
+? { or ( <m0> , <any> ) , not ( <m1> ) }
+none
+? { endwith ( <any> ) }
+? { startwith ( or ( <let> , <m0> ) ) }
+empty
+? { endwith ( or ( <m0> , <low> ) ) }
+none
+none
+? { <low> }
+none
+empty
+? { or ( <m0> , <cap> ) }
+none
+none
+? { <m0> , concat ( <m1> , <any> ) }
+empty
+empty
+empty
+? { concat ( contain ( repeatatleast ( repeatatleast ( <any> , 1 ) , 3 ) ) , <cap> ) }
+none
+none
+none
+empty
+? { <m0> }
+? { concat ( <m0> , <cap> ) }
+? { endwith ( or ( <m0> , <m1> ) ) }
+? { endwith ( concat ( <m0> , <any> ) ) }
+none
+? { and ( or ( <m0> , <low> ) , <num> ) }
+empty
+none
+none
+none
+? { concat ( <let> , concat ( <vow> , <m0> ) ) }
+? { startwith ( <vow> ) }
+? { repeatatleast ( or ( <m0> , <m1> ) , 4 ) }
+? { concat ( or ( or ( <num> , <m0> ) , <cap> ) , <low> ) }
+empty
+none
+? { startwith ( endwith ( <let> ) ) }
+? { concat ( <any> , and ( <vow> , <cap> ) ) }
+none
+? { repeatatleast ( <vow> , 2 ) , <any> }
+none
+? { concat ( <m0> , <cap> ) }
+? { not ( <any> ) , repeatatleast ( <m0> , 6 ) }
+? { contain ( or ( <any> , <let> ) ) }
+? { repeatatleast ( <m0> , 7 ) }
+none
+? { or ( or ( <vow> , <cap> ) , <m0> ) }
+? { concat ( <num> , <any> ) , <any> }
+? { star ( or ( <vow> , <num> ) ) }
+? { concat ( <vow> , and ( <any> , <m0> ) ) }
+none
+empty
+empty
+none
+none
+empty
+? { contain ( and ( <cap> , <let> ) ) }
+none
+? { repeatatleast ( <cap> , 1 ) , <any> , or ( <m0> , <low> ) }
+? { concat ( <any> , <num> ) }
+empty
+none
+? { contain ( and ( <cap> , <vow> ) ) }
+? { repeatatleast ( contain ( or ( <num> , <low> ) ) , 6 ) }
+? { contain ( <low> ) , and ( <vow> , <any> ) }
+empty
+none
+? { and ( <low> , <cap> ) }
+empty
+? { <num> }
+? { repeatatleast ( or ( <vow> , <any> ) , 7 ) }
+? { contain ( or ( or ( <m0> , <m1> ) , <any> ) ) }
+? { <any> , concat ( or ( <m0> , <any> ) , <let> ) }
+? { repeatatleast ( concat ( <m0> , <cap> ) , 7 ) }
+? { contain ( <any> ) , endwith ( <num> ) }
+none
+empty
+? { not ( contain ( or ( <num> , <let> ) ) ) }
+none
+none
+? { <let> , <low> , concat ( <m0> , <m1> ) }
+empty
+? { or ( <m0> , <num> ) }
+empty
+none
+empty
+? { repeatatleast ( <let> , 7 ) }
+none
+? { <m0> , endwith ( <let> ) }
+? { not ( repeatatleast ( <any> , 2 ) ) }
+? { <m0> }
+? { endwith ( <m0> ) }
+none
+empty
+none
+empty
+none
+none
+empty
+? { or ( or ( <m0> , <m1> ) , <num> ) }
+empty
+? { <low> }
+? { star ( <num> ) , endwith ( <any> ) }
+? { repeatatleast ( or ( <m0> , <m1> ) , 1 ) }
+? { concat ( <vow> , <cap> ) }
+none
+empty
+? { <num> }
+none
+empty
+? { not ( or ( or ( <m0> , <vow> ) , <low> ) ) }
+? { endwith ( concat ( <let> , <low> ) ) }
+empty
+? { concat ( <let> , concat ( <cap> , <any> ) ) }
+? { <any> , concat ( <let> , <any> ) , <m0> }
+? { concat ( or ( or ( <m0> , <low> ) , <let> ) , <any> ) }
+? { endwith ( <m0> ) , and ( <num> , <m1> ) }
+? { concat ( repeatatleast ( <m0> , 7 ) , <cap> ) }
+? { and ( startwith ( <let> ) , concat ( <low> , <let> ) ) }
+none
+? { <cap> , <m0> , <any> }
+? { contain ( <low> ) }
+? { <m0> }
+empty
+? { concat ( repeatatleast ( <num> , 7 ) , <let> ) }
+none
+? { concat ( <m0> , endwith ( concat ( <low> , <m1> ) ) ) }
+? { concat ( <let> , <any> ) }
+empty
+? { repeatatleast ( or ( <any> , <m0> ) , 1 ) }
+none
+? { concat ( <m0> , concat ( <num> , <let> ) ) }
+? { not ( endwith ( <low> ) ) }
+? { concat ( repeatatleast ( <num> , 1 ) , <low> ) }
+empty
+none
+? { <m0> , endwith ( <any> ) }
+? { not ( contain ( <any> ) ) , repeatatleast ( <low> , 1 ) }
+empty
+? { star ( <any> ) , <any> , or ( <m0> , <num> ) }
+? { concat ( and ( <let> , <vow> ) , <cap> ) }
+none
+? { <any> , star ( <m0> ) , and ( <m1> , <vow> ) }
+? { startwith ( <cap> ) , contain ( <m0> ) }
+none
+? { startwith ( repeatatleast ( <vow> , 7 ) ) }
+? { and ( endwith ( <any> ) , <m0> ) }
+? { <any> }
+? { contain ( <m0> ) , or ( <vow> , <low> ) }
+? { contain ( star ( concat ( <m0> , <low> ) ) ) }
+? { star ( or ( <low> , <m0> ) ) }
+? { concat ( repeatatleast ( <m0> , 7 ) , <any> ) }
+? { concat ( or ( <num> , <m0> ) , <cap> ) }
+empty
+empty
+? { repeatatleast ( concat ( <let> , <m0> ) , 2 ) }
+? { startwith ( <any> ) , <m0> , endwith ( <cap> ) }
+? { endwith ( or ( <vow> , <m0> ) ) }
+empty
+? { and ( not ( <num> ) , <any> ) }
+? { contain ( or ( or ( <vow> , <m0> ) , <num> ) ) }
+none
+empty
+none
+empty
+? { or ( <m0> , <any> ) }
+? { concat ( <num> , or ( or ( <any> , <let> ) , <m0> ) ) }
+? { concat ( <any> , <m0> ) }
+none
+? { endwith ( repeatatleast ( <any> , 4 ) ) }
+empty
+none
+? { startwith ( repeatatleast ( <let> , 7 ) ) }
+? { startwith ( concat ( <any> , star ( <cap> ) ) ) }
+? { concat ( or ( <m0> , <let> ) , <any> ) }
+? { or ( or ( <vow> , <any> ) , <num> ) }
+? { not ( or ( <m0> , <any> ) ) }
+? { concat ( <any> , <m0> ) , star ( <vow> ) }
+none
+? { concat ( or ( or ( <num> , <vow> ) , <let> ) , <m0> ) }
+? { contain ( and ( <cap> , <let> ) ) }
+? { or ( <let> , <low> ) }
+? { startwith ( star ( or ( <low> , <m0> ) ) ) }
+none
+? { contain ( repeatatleast ( <m0> , 1 ) ) , <any> , <m1> }
+? { concat ( <vow> , <low> ) }
+none
+none
+? { or ( <let> , <m0> ) }
+none
+? { concat ( <vow> , or ( <let> , <m0> ) ) }
+empty
+none
+? { <any> , <let> }
+none
+? { concat ( repeatatleast ( <let> , 4 ) , <cap> ) }
+empty
+empty
+? { contain ( <m0> ) , <cap> }
+? { or ( <num> , <any> ) }
+? { startwith ( <let> ) }
+none
+? { startwith ( and ( <m0> , <any> ) ) }
+? { concat ( <num> , or ( or ( <any> , <let> ) , <vow> ) ) }
+? { concat ( or ( or ( <m0> , <any> ) , <vow> ) , <m1> ) }
+? { and ( or ( or ( <any> , <m0> ) , <m1> ) , <low> ) }
+empty
+none
+? { concat ( <cap> , concat ( <m0> , <num> ) ) }
+? { star ( <let> ) , <any> , concat ( <m0> , <m1> ) }
+? { concat ( <m0> , concat ( <cap> , <let> ) ) }
+? { concat ( or ( <m0> , <num> ) , <cap> ) }
+? { concat ( <cap> , <any> ) }
+? { and ( repeatatleast ( <any> , 1 ) , <m0> ) }
+none
+none
+? { repeatatleast ( <any> , 6 ) }
+? { endwith ( concat ( <let> , <num> ) ) }
+none
+? { or ( <vow> , <num> ) }
+empty
+empty
+? { repeatatleast ( <vow> , 1 ) , <cap> , <any> , or ( <m0> , <let> ) }
+empty
+? { concat ( or ( or ( <low> , <m0> ) , <m1> ) , <m2> ) }
+empty
+none
+? { <let> }
+none
+? { star ( <cap> ) }
+? { <vow> , or ( <m0> , <low> ) , <let> }
+? { concat ( or ( <any> , <m0> ) , <low> ) }
+empty
+? { concat ( <any> , or ( <num> , <low> ) ) }
+? { endwith ( repeatatleast ( repeatatleast ( <let> , 1 ) , 1 ) ) }
+? { concat ( <any> , <m0> ) }
+? { concat ( <m0> , or ( <any> , <let> ) ) }
+empty
+empty
+empty
+? { concat ( <m0> , concat ( <cap> , <any> ) ) }
+none
+none
+? { <vow> }
+none
+? { repeatatleast ( <low> , 6 ) , not ( <any> ) }
+none
+? { <num> , not ( <vow> ) }
+none
+? { concat ( repeatatleast ( <low> , 5 ) , <vow> ) }
+empty
+none
+? { concat ( or ( <let> , <cap> ) , <low> ) }
+none
+empty
+none
+? { concat ( <low> , <let> ) }
+none
+? { concat ( <m0> , or ( or ( <let> , <low> ) , <m1> ) ) }
+none
+? { concat ( <cap> , <m0> ) }
+none
+? { startwith ( <vow> ) , not ( <let> ) }
+? { not ( contain ( or ( or ( <m0> , <low> ) , <m1> ) ) ) }
+? { <any> }
+? { contain ( and ( <num> , star ( <any> ) ) ) }
+? { or ( <any> , <vow> ) , <any> , <m0> }
+none
+empty
+? { or ( or ( <any> , <m0> ) , <low> ) }
+? { concat ( repeatatleast ( <vow> , 4 ) , <let> ) }
+? { <low> , <any> , or ( <m0> , <m1> ) }
+empty
+? { endwith ( concat ( repeatatleast ( <vow> , 7 ) , <any> ) ) }
+empty
+none
+none
+? { <any> }
+empty
+empty
+none
+? { endwith ( <let> ) }
+? { concat ( <low> , repeatatleast ( <m0> , 2 ) ) }
+? { contain ( and ( <let> , <m0> ) ) , <any> , <m1> }
+empty
+none
+? { and ( <vow> , not ( endwith ( <any> ) ) ) }
+? { or ( <any> , <m0> ) }
+none
+none
+empty
+? { contain ( or ( <m0> , <low> ) ) }
+? { star ( or ( <cap> , <m0> ) ) }
+? { <any> , <num> }
+? { and ( <vow> , <cap> ) }
+? { concat ( or ( or ( <num> , <any> ) , <let> ) , <vow> ) }
+? { repeatatleast ( or ( or ( <num> , <low> ) , <any> ) , 1 ) }
+? { or ( or ( <cap> , <let> ) , <any> ) }
+? { concat ( and ( <vow> , <let> ) , <let> ) }
+none
+empty
+? { startwith ( repeatatleast ( <vow> , 2 ) ) }
+? { concat ( <let> , not ( <vow> ) ) }
+none
+empty
+none
+? { not ( concat ( <let> , <m0> ) ) }
+none
+? { concat ( <m0> , star ( <cap> ) ) }
+empty
+empty
+? { endwith ( contain ( repeatatleast ( repeatatleast ( <any> , 1 ) , 7 ) ) ) }
+none
+empty
+none
+? { <let> , or ( <vow> , <any> ) }
+? { contain ( star ( or ( <num> , <m0> ) ) ) }
+none
+? { or ( <cap> , <any> ) }
+? { not ( concat ( <let> , endwith ( <low> ) ) ) }
+none
+empty
+? { not ( <cap> ) , not ( and ( <any> , <low> ) ) }
+empty
+? { concat ( repeatatleast ( <vow> , 3 ) , <low> ) }
+? { <num> }
+? { repeatatleast ( <vow> , 1 ) , contain ( <m0> ) }
+? { <any> , not ( <m0> ) }
+empty
+none
+? { <any> }
+empty
+? { repeatatleast ( <num> , 2 ) }
+none
+none
+none
+empty
+? { <any> }
+empty
+? { <low> , repeatatleast ( <any> , 1 ) , repeatatleast ( <m0> , 3 ) }
+? { repeatatleast ( <cap> , 1 ) }
+? { or ( or ( <m0> , <cap> ) , <vow> ) }
+? { endwith ( or ( <m0> , <vow> ) ) }
+? { concat ( <m0> , or ( or ( <any> , <m1> ) , <low> ) ) }
+empty
+empty
+empty
+? { concat ( and ( <m0> , <any> ) , <cap> ) }
+? { concat ( or ( <low> , <num> ) , <any> ) , <m0> , <any> }
+empty
+? { endwith ( concat ( <low> , concat ( <let> , <m0> ) ) ) }
+? { concat ( <vow> , <num> ) }
+? { endwith ( <num> ) }
+none
+? { concat ( or ( or ( <any> , <m0> ) , <cap> ) , <vow> ) }
+empty
+none
+? { endwith ( <m0> ) , startwith ( <m1> ) }
+empty
+none
+? { concat ( <m0> , <num> ) }
+empty
+none
+empty
+none
+? { not ( repeatatleast ( endwith ( <m0> ) , 7 ) ) }
+empty
+empty
+none
+empty
+? { not ( and ( or ( <cap> , <low> ) , not ( <any> ) ) ) }
+none
+? { concat ( or ( or ( <m0> , <cap> ) , <any> ) , <low> ) }
+none
+none
+? { concat ( <vow> , concat ( <cap> , <m0> ) ) }
+? { star ( <any> ) }
+? { not ( contain ( <vow> ) ) , <any> }
+empty
+empty
+? { concat ( <any> , <m0> ) }
+? { concat ( or ( or ( <num> , <m0> ) , <m1> ) , <cap> ) }
+? { concat ( repeatatleast ( concat ( <m0> , <m1> ) , 1 ) , <num> ) }
+none
+? { star ( or ( <cap> , <low> ) ) }
+? { <any> , or ( or ( <m0> , <vow> ) , <low> ) }
+? { concat ( <vow> , concat ( <let> , <low> ) ) }
+none
+empty
+empty
+? { repeatatleast ( or ( <low> , <any> ) , 2 ) }
+? { <let> , not ( <num> ) }
+? { concat ( <any> , <any> ) , concat ( <m1> , not ( <m2> ) ) }
+? { concat ( repeatatleast ( <cap> , 6 ) , <low> ) }
+? { concat ( or ( or ( <low> , <any> ) , <m0> ) , <cap> ) }
+none
+none
+none
+? { concat ( <vow> , <let> ) }
+none
+? { contain ( <let> ) , or ( <any> , <vow> ) }
+empty
+none
+empty
+none
+? { repeatatleast ( concat ( <any> , <m0> ) , 7 ) }
+? { concat ( repeatatleast ( <let> , 5 ) , <vow> ) }
+? { concat ( repeatatleast ( <m0> , 3 ) , <low> ) }
+empty
+empty
+? { concat ( or ( <vow> , <m0> ) , <low> ) }
+? { endwith ( concat ( <any> , <let> ) ) }
+none
+? { startwith ( <any> ) , <m0> , or ( or ( <num> , <any> ) , <let> ) }
+none
+none
+none
+? { contain ( concat ( <vow> , <any> ) ) }
+? { concat ( <let> , concat ( <low> , <any> ) ) }
+? { contain ( or ( <any> , <num> ) ) , repeatatleast ( <cap> , 1 ) }
+? { repeatatleast ( or ( <num> , <vow> ) , 3 ) }
+empty
+? { contain ( or ( or ( <m0> , <cap> ) , <num> ) ) }
+? { <num> , <any> , concat ( <m0> , <low> ) }
+none
+? { concat ( <any> , endwith ( <low> ) ) }
+? { <low> , <any> }
+none
+none
+none
+? { repeatatleast ( or ( <cap> , <low> ) , 7 ) }
+none
+empty
+none
+? { concat ( <vow> , or ( <let> , <num> ) ) }
+none
+? { concat ( <m0> , <low> ) }
+? { not ( and ( <cap> , <m0> ) ) }
+? { <m0> , <num> , <any> , <m1> }
+empty
+? { concat ( <m0> , <m1> ) }
+? { concat ( <m0> , <vow> ) }
+? { startwith ( concat ( <vow> , <low> ) ) }
+? { not ( endwith ( contain ( <vow> ) ) ) }
+? { not ( <low> ) , <cap> , <any> }
+none
+? { contain ( <any> ) , or ( <let> , <m0> ) }
+? { repeatatleast ( <cap> , 1 ) }
+? { endwith ( concat ( or ( <any> , <vow> ) , <any> ) ) , <m0> }
+empty
+? { repeatatleast ( concat ( <any> , <let> ) , 1 ) }
+? { or ( or ( <any> , <num> ) , <low> ) }
+none
+none
+? { or ( <low> , <any> ) }
+? { endwith ( not ( or ( <m0> , <num> ) ) ) }
+none
+none
+none
+none
+? { concat ( <vow> , <m0> ) , repeatatleast ( <num> , 1 ) }
+none
+? { <m0> }
+none
+empty
+? { concat ( <m0> , <num> ) , <any> , <m0> }
+empty
+none
+? { concat ( or ( or ( <cap> , <m0> ) , <m1> ) , <vow> ) }
+empty
+? { and ( concat ( <low> , <m0> ) , startwith ( <let> ) ) }
+empty
+? { not ( concat ( <low> , <vow> ) ) }
+none
+? { not ( or ( or ( <m0> , <cap> ) , <any> ) ) }
+? { concat ( <vow> , or ( or ( <m0> , <cap> ) , <num> ) ) }
+none
+none
+none
+? { startwith ( repeatatleast ( concat ( <m0> , <m1> ) , 4 ) ) }
+none
+empty
+? { or ( or ( <m0> , <any> ) , <let> ) }
+? { concat ( <m0> , <any> ) }
+empty
+none
+? { concat ( <let> , endwith ( <any> ) ) }
+? { concat ( <num> , concat ( <m0> , <low> ) ) }
+? { contain ( or ( <let> , <num> ) ) }
+? { repeatatleast ( <m0> , 2 ) , <low> , <any> }
+? { and ( <cap> , <m0> ) , repeatatleast ( <low> , 1 ) }
+? { repeatatleast ( or ( <vow> , <cap> ) , 1 ) }
+none
+? { or ( <m0> , <num> ) }
+empty
+none
+none
+? { concat ( <low> , endwith ( <num> ) ) }
+? { concat ( <vow> , <num> ) , <let> }
+? { contain ( repeatatleast ( <any> , 3 ) ) }
+none
+? { repeatatleast ( concat ( <cap> , <let> ) , 6 ) }
+none
+? { concat ( or ( <m0> , <num> ) , <low> ) }
+none
+none
+? { not ( or ( or ( <vow> , <low> ) , <num> ) ) }
+none
+? { or ( or ( <m0> , <any> ) , <vow> ) }
+empty
+? { <let> , concat ( <any> , <let> ) }
+none
+none
+? { not ( or ( or ( <num> , <vow> ) , <m0> ) ) }
+? { endwith ( or ( <vow> , <cap> ) ) }
+? { concat ( <m0> , concat ( <m1> , <let> ) ) }
+none
+? { concat ( <low> , <num> ) }
+none
+? { repeatatleast ( or ( <low> , <cap> ) , 1 ) }
+? { and ( endwith ( <any> ) , <cap> ) }
+? { endwith ( or ( <low> , <num> ) ) }
+? { repeatatleast ( <low> , 1 ) , or ( or ( <m0> , <any> ) , <m1> ) }
+empty
+empty
+? { or ( or ( <m0> , <num> ) , <cap> ) }
+? { endwith ( <any> ) }
+? { concat ( <low> , <let> ) }
+? { endwith ( repeatatleast ( <num> , 1 ) ) }
+none
+? { or ( <let> , <any> ) }
+? { concat ( not ( <cap> ) , contain ( <let> ) ) }
+none
+none
+? { repeatatleast ( or ( <cap> , <m0> ) , 1 ) }
+none
+? { concat ( repeatatleast ( <m0> , 3 ) , <any> ) }
+? { <m0> , <any> }
+? { not ( contain ( or ( or ( <any> , <num> ) , <m0> ) ) ) }
+? { <let> }
+? { or ( or ( <cap> , <any> ) , <m0> ) }
+none
+empty
+none
+empty
+? { contain ( or ( <let> , <m0> ) ) }
+? { concat ( <let> , not ( <any> ) ) }
+? { contain ( or ( <any> , <num> ) ) }
+none
+none
+none
+empty
+none
+? { endwith ( concat ( <m0> , <m1> ) ) }
+? { <any> , concat ( <m0> , <any> ) , repeatatleast ( <num> , 1 ) }
+none
+empty
+? { star ( or ( <vow> , <any> ) ) }
+none
+? { repeatatleast ( or ( <let> , <m0> ) , 7 ) }
+? { concat ( <cap> , <any> ) }
+? { not ( <let> ) , startwith ( <any> ) , <m0> }
+none
+? { contain ( <cap> ) , star ( <m0> ) }
+? { or ( <any> , <let> ) }
+? { startwith ( concat ( <m0> , <vow> ) ) }
+? { repeatatleast ( repeatatleast ( <low> , 1 ) , 3 ) }
+? { contain ( or ( <low> , <num> ) ) }
+empty
+? { <vow> }
+? { concat ( <m0> , <num> ) }
+? { concat ( and ( <cap> , <let> ) , <vow> ) }
+? { startwith ( or ( <num> , <m0> ) ) }
+none
+none
+? { <m0> , or ( <let> , <any> ) }
+? { repeatatleast ( <num> , 5 ) }
+? { concat ( or ( <vow> , <any> ) , <m0> ) }
+empty
+none
+? { <any> }
+empty
+? { concat ( <any> , <cap> ) }
+? { repeatatleast ( concat ( <low> , <cap> ) , 4 ) }
+? { star ( concat ( <m0> , <let> ) ) }
+empty
+? { repeatatleast ( <let> , 1 ) , <vow> }
+? { concat ( <let> , <num> ) }
+? { not ( concat ( <let> , <low> ) ) }
+none
+empty
+? { <num> , endwith ( <low> ) }
+? { <num> }
+none
+empty
+none
+? { concat ( <vow> , <num> ) }
+none
+? { concat ( or ( or ( <m0> , <m1> ) , <num> ) , <any> ) }
+? { <any> , concat ( <m0> , <num> ) , or ( or ( <m1> , <let> ) , <any> ) }
+? { or ( <let> , <num> ) }
+? { <vow> }
+none
+none
+? { not ( <any> ) , and ( <m0> , not ( <any> ) ) , star ( <m1> ) }
+none
+none
+? { concat ( <m0> , <m1> ) }
+? { endwith ( repeatatleast ( <vow> , 4 ) ) }
+? { or ( <num> , <let> ) }
+none
+? { concat ( repeatatleast ( <num> , 2 ) , <m0> ) }
+none
+? { startwith ( or ( <m0> , <cap> ) ) }
+? { contain ( concat ( <m0> , concat ( <m1> , <any> ) ) ) }
+empty
+? { concat ( <m0> , concat ( <m1> , <vow> ) ) }
+? { not ( concat ( <let> , <low> ) ) }
+? { concat ( and ( <vow> , <any> ) , <cap> ) }
+? { not ( or ( <let> , <vow> ) ) }
+none
+none
+? { repeatatleast ( or ( <vow> , <low> ) , 1 ) }
+? { <m0> , <low> }
+none
+none
+none
+? { startwith ( or ( <cap> , <low> ) ) }
+? { star ( or ( <m0> , <any> ) ) }
+none
+? { concat ( repeatatleast ( <num> , 6 ) , <vow> ) }
+? { contain ( <any> ) , repeatatleast ( <any> , 4 ) }
+? { concat ( <let> , concat ( <m0> , <cap> ) ) }
+? { star ( <low> ) , concat ( <cap> , <num> ) }
+none
+? { contain ( <m0> ) , <let> }
+? { repeatatleast ( concat ( <let> , <m0> ) , 2 ) }
+? { concat ( <m0> , or ( <cap> , <low> ) ) }
+? { endwith ( concat ( <vow> , <num> ) ) }
+? { not ( contain ( repeatatleast ( <let> , 3 ) ) ) }
+empty
+? { contain ( <any> ) , <vow> }
+none
+empty
+none
+none
+empty
+? { concat ( <let> , <m0> ) }
+? { or ( <any> , <vow> ) }
+? { concat ( <m0> , <m1> ) , star ( <m2> ) }
+empty
+empty
+? { <let> }
+? { not ( endwith ( <num> ) ) }
+? { contain ( or ( or ( <cap> , <num> ) , <m0> ) ) }
+? { repeatatleast ( concat ( <low> , <vow> ) , 1 ) }
+? { and ( endwith ( <any> ) , or ( <m0> , <cap> ) ) }
+? { startwith ( <let> ) }
+none
+empty
+? { repeatatleast ( <vow> , 1 ) }
+? { endwith ( star ( repeatatleast ( <any> , 1 ) ) ) }
+none
+none
+? { and ( <let> , <vow> ) }
+none
+? { concat ( <vow> , or ( or ( <cap> , <m0> ) , <m1> ) ) }
+? { repeatatleast ( concat ( <let> , <m0> ) , 6 ) }
+empty
+none
+? { concat ( star ( <m0> ) , or ( <let> , <m1> ) ) }
+? { repeatatleast ( or ( <m0> , <low> ) , 5 ) }
+? { concat ( <let> , <vow> ) , repeatatleast ( <m0> , 3 ) }
+? { concat ( <any> , concat ( <low> , <m0> ) ) }
+none
+? { endwith ( <vow> ) }
+? { <num> , repeatatleast ( not ( <let> ) , 7 ) }
+? { concat ( repeatatleast ( <num> , 2 ) , <cap> ) }
+? { endwith ( or ( <m0> , <m1> ) ) }
+? { not ( or ( <m0> , <any> ) ) }
+empty
+empty
+? { <m0> , <num> , concat ( <let> , <m0> ) }
+empty
+? { concat ( <m0> , repeatatleast ( <any> , 4 ) ) }
+? { <any> , concat ( or ( <m0> , <any> ) , <any> ) , repeatatleast ( <m1> , 7 ) }
+none
+? { <m2> }
+empty
+none
+? { concat ( <cap> , or ( <m0> , <let> ) ) }
+? { repeatatleast ( concat ( <num> , <low> ) , 2 ) }
+? { concat ( <let> , <num> ) }
+none
+? { concat ( <vow> , endwith ( <any> ) ) }
+? { not ( endwith ( <vow> ) ) }
+? { or ( <let> , <any> ) }
+? { or ( <m0> , <vow> ) }
+? { startwith ( repeatatleast ( <cap> , 7 ) ) }
+? { concat ( star ( or ( <m0> , <low> ) ) , <cap> ) }
+none
+? { <any> , concat ( <m0> , <m1> ) , repeatatleast ( <num> , 4 ) }
+? { endwith ( contain ( concat ( <low> , <any> ) ) ) }
+none
+none
+? { concat ( <any> , <num> ) }
+empty
+? { endwith ( concat ( <any> , <low> ) ) }
+? { <low> }
+empty
+none
+? { or ( <cap> , <low> ) }
+? { concat ( and ( <low> , <let> ) , <vow> ) }
+none
+? { or ( or ( <m0> , <cap> ) , <m1> ) }
+? { concat ( <vow> , and ( <let> , <cap> ) ) }
+none
+? { concat ( <low> , <m0> ) , endwith ( <vow> ) }
+none
+? { and ( or ( <let> , <vow> ) , <low> ) }
+? { concat ( <any> , <cap> ) }
+empty
+? { concat ( <let> , <cap> ) }
+? { <any> , and ( <low> , <vow> ) }
+? { concat ( repeatatleast ( <cap> , 7 ) , <m0> ) }
+none
+? { concat ( <cap> , <m0> ) }
+? { contain ( <low> ) , <cap> }
+? { concat ( startwith ( <any> ) , <num> ) }
+? { <vow> }
+? { concat ( startwith ( <m0> ) , <m1> ) }
+? { concat ( <any> , concat ( <m0> , <cap> ) ) }
+? { <vow> }
+? { <low> }
+? { repeatatleast ( or ( or ( or ( <cap> , <num> ) , <low> ) , <let> ) , 4 ) }
+? { concat ( or ( <num> , <low> ) , <m0> ) }
+? { concat ( <cap> , endwith ( <let> ) ) }
+? { concat ( <cap> , concat ( <num> , <m0> ) ) }
+? { and ( contain ( <let> ) , <any> ) }
+? { or ( <cap> , <low> ) }
+empty
+none
+empty
+? { concat ( <cap> , concat ( <let> , <m0> ) ) }
+? { not ( <any> ) }
+none
+? { <vow> , <any> , or ( <m0> , <let> ) }
+? { or ( or ( <cap> , <vow> ) , <m0> ) }
+none
+? { repeatatleast ( endwith ( <m0> ) , 3 ) }
+? { or ( <m0> , <any> ) , <num> }
+none
+? { concat ( repeatatleast ( <m0> , 1 ) , <vow> ) }
+? { <any> }
+? { startwith ( not ( <any> ) ) }
+? { concat ( <m0> , concat ( <num> , <m1> ) ) }
+? { contain ( concat ( and ( <low> , <any> ) , <m0> ) ) }
+empty
+? { <low> , not ( <m0> ) }
+none
+none
+? { or ( <vow> , <num> ) , <m0> }
+? { and ( not ( <let> ) , repeatatleast ( <num> , 2 ) ) }
+empty
+? { concat ( <num> , concat ( <any> , <m0> ) ) }
+empty
+? { <cap> }
+? { concat ( repeatatleast ( <let> , 4 ) , <vow> ) }
+? { or ( or ( <any> , <m0> ) , <low> ) }
+? { endwith ( or ( <num> , <cap> ) ) }
+empty
+? { not ( <let> ) , <any> }
+? { or ( or ( <m0> , <m1> ) , <vow> ) }
+? { <m0> , <vow> , <any> , or ( <m1> , <let> ) }
+? { <m0> , concat ( <any> , <let> ) }
+? { repeatatleast ( or ( <num> , <cap> ) , 3 ) }
+none
+? { contain ( <low> ) , or ( <cap> , <vow> ) }
+? { repeatatleast ( <cap> , 2 ) }
+? { concat ( <vow> , or ( or ( <m0> , <m1> ) , <m2> ) ) }
+none
+none
+empty
+none
+? { concat ( repeatatleast ( <let> , 7 ) , <cap> ) }
+? { endwith ( concat ( <let> , <vow> ) ) }
+? { contain ( <low> ) }
+none
+? { concat ( repeatatleast ( <let> , 4 ) , <any> ) }
+? { concat ( <let> , concat ( <vow> , <m0> ) ) }
+? { concat ( repeatatleast ( <cap> , 5 ) , <vow> ) }
+none
+? { and ( contain ( <vow> ) , <let> ) }
+empty
+none
+empty
+? { repeatatleast ( <m0> , 6 ) }
+? { endwith ( or ( <m0> , <cap> ) ) }
+none
+? { contain ( and ( <m0> , <any> ) ) }
+empty
+empty
+? { endwith ( or ( <low> , <m0> ) ) }
+? { concat ( or ( or ( <any> , <num> ) , <low> ) , <vow> ) }
+none
+none
+empty
+? { startwith ( <cap> ) }
+? { not ( endwith ( <m0> ) ) }
+? { repeatatleast ( or ( <low> , <let> ) , 6 ) }
+empty
+? { contain ( not ( <num> ) ) }
+none
+? { concat ( <low> , <vow> ) }
+? { startwith ( concat ( <low> , <num> ) ) }
+? { endwith ( repeatatleast ( or ( <m0> , <cap> ) , 4 ) ) }
+? { concat ( or ( or ( <m0> , <let> ) , <any> ) , <any> ) , <m1> }
+? { startwith ( <vow> ) }
+? { concat ( <vow> , or ( <cap> , <let> ) ) }
+? { not ( contain ( or ( <num> , <any> ) ) ) }
+? { repeatatleast ( concat ( <m0> , <let> ) , 7 ) }
+? { not ( concat ( <m0> , <low> ) ) }
+? { repeatatleast ( or ( <m0> , <let> ) , 1 ) }
+empty
+? { and ( not ( <vow> ) , concat ( <any> , <any> ) ) , <m1> }
+empty
+empty
+? { contain ( <low> ) , or ( <any> , <m0> ) }
+empty
+? { <any> }
+empty
+? { contain ( repeatatleast ( <any> , 1 ) ) , repeatatleast ( or ( <m0> , <let> ) , 6 ) }
+empty
+? { and ( <m0> , star ( <vow> ) ) }
+? { or ( <let> , <num> ) }
+none
+empty
+? { startwith ( or ( <let> , <low> ) ) }
+empty
+none
+none
+empty
+? { or ( <let> , <any> ) }
+? { repeatatleast ( concat ( <low> , <m0> ) , 1 ) }
+empty
+empty
+? { endwith ( star ( <vow> ) ) }
+? { concat ( <num> , or ( <low> , <let> ) ) }
+? { endwith ( repeatatleast ( <cap> , 1 ) ) }
+none
+empty
+empty
+none
+none
+? { <num> , not ( <any> ) }
+? { concat ( <vow> , or ( <num> , <low> ) ) }
+empty
+none
+empty
+? { startwith ( concat ( <let> , <low> ) ) }
+? { not ( or ( or ( <m0> , <m1> ) , <let> ) ) }
+? { not ( or ( or ( <cap> , <m0> ) , <any> ) ) }
+empty
+empty
+? { or ( or ( <low> , <any> ) , <cap> ) }
+empty
+? { <m0> , or ( or ( <low> , <cap> ) , <any> ) }
+empty
+? { endwith ( star ( concat ( <cap> , <low> ) ) ) }
+? { concat ( <any> , or ( or ( <low> , <m0> ) , <m1> ) ) }
+? { concat ( and ( <low> , <vow> ) , <cap> ) }
+? { <let> }
+empty
+empty
+? { concat ( repeatatleast ( <low> , 1 ) , <any> ) }
+none
+empty
+none
+none
+none
+none
+? { endwith ( or ( <low> , <let> ) ) }
+empty
+? { contain ( <any> ) }
+empty
+empty
+? { or ( <vow> , <any> ) }
+empty
+? { contain ( concat ( <num> , repeatatleast ( <low> , 1 ) ) ) }
+? { concat ( <any> , repeatatleast ( <low> , 1 ) ) }
+none
+none
+empty
+none
+none
+none
+? { concat ( or ( or ( <m0> , <any> ) , <vow> ) , <m1> ) }
+empty
+? { contain ( or ( <any> , <num> ) ) }
+none
+? { contain ( <let> ) , startwith ( <any> ) , <m0> }
+none
+? { star ( endwith ( <let> ) ) }
+? { or ( <cap> , <any> ) }
+? { concat ( <m0> , <low> ) }
+none
+? { concat ( <let> , repeatatleast ( <low> , 2 ) ) }
+? { not ( concat ( <m0> , and ( <low> , <cap> ) ) ) }
+? { concat ( <m0> , or ( <any> , <let> ) ) }
+? { concat ( <vow> , repeatatleast ( <let> , 1 ) ) }
+? { startwith ( <vow> ) }
+? { contain ( contain ( repeatatleast ( repeatatleast ( <low> , 1 ) , 5 ) ) ) }
+? { not ( <cap> ) , <let> }
+? { startwith ( <low> ) }
+? { concat ( <low> , concat ( <m0> , <num> ) ) }
+empty
+none
+none
+? { or ( or ( <any> , <num> ) , <vow> ) }
+none
+none
+none
+none
+none
+empty
+? { concat ( repeatatleast ( <m0> , 5 ) , <m1> ) }
+none
+none
+none
+none
+none
+none
+? { not ( concat ( <any> , <low> ) ) }
+? { concat ( startwith ( <m0> ) , <let> ) }
+? { or ( or ( <low> , <any> ) , <vow> ) }
+? { or ( <m0> , <let> ) }
+? { not ( <any> ) , not ( <m0> ) }
+? { and ( <vow> , <m0> ) , <m1> }
+? { startwith ( <cap> ) }
+? { concat ( or ( or ( <vow> , <m0> ) , <low> ) , <any> ) }
+? { and ( not ( contain ( <let> ) ) , repeatatleast ( <m0> , 1 ) ) }
+? { contain ( <vow> ) , or ( <any> , <num> ) }
+? { startwith ( concat ( <vow> , <m0> ) ) }
+? { concat ( <low> , or ( <vow> , <num> ) ) }
+? { concat ( and ( <let> , <let> ) , <low> ) }
+? { endwith ( or ( <let> , <vow> ) ) }
+empty
+? { not ( repeatatleast ( and ( <any> , <let> ) , 6 ) ) }
+? { contain ( or ( <low> , <any> ) ) }
+? { not ( startwith ( <num> ) ) }
+? { startwith ( <num> ) }
+? { endwith ( <any> ) }
+? { concat ( <any> , or ( <m0> , <cap> ) ) }
+? { startwith ( <low> ) , endwith ( <let> ) }
+empty
+? { endwith ( or ( <any> , <num> ) ) }
+? { concat ( or ( <m0> , <let> ) , <low> ) }
+none
+? { <cap> , <low> , <vow> }
+? { concat ( or ( or ( <low> , <any> ) , <m0> ) , <num> ) }
+? { or ( <m0> , <num> ) }
+none
+? { endwith ( <low> ) }
+? { contain ( <let> ) , or ( <any> , <m0> ) }
+none
+? { and ( <any> , repeatatleast ( <cap> , 1 ) ) }
+empty
+? { repeatatleast ( or ( <let> , <m0> ) , 3 ) }
+empty
+? { repeatatleast ( concat ( <m0> , <cap> ) , 6 ) }
+none
+? { concat ( <m0> , concat ( <let> , <num> ) ) }
+? { concat ( <any> , <cap> ) , endwith ( <low> ) }
+? { concat ( or ( or ( <m0> , <num> ) , <let> ) , <m1> ) }
+empty
+none
+empty
+empty
+? { not ( repeatatleast ( <low> , 7 ) ) }
+? { concat ( <m0> , and ( <let> , <low> ) ) }
+? { concat ( <m0> , repeatatleast ( <let> , 3 ) ) }
+none
+? { concat ( repeatatleast ( <let> , 4 ) , or ( <cap> , <m0> ) ) }
+? { or ( <vow> , <let> ) }
+? { not ( and ( or ( <low> , <cap> ) , not ( <m0> ) ) ) }
+none
+? { concat ( and ( <vow> , <low> ) , <any> ) }
+? { and ( not ( <vow> ) , <let> ) }
+? { contain ( repeatatleast ( or ( <num> , <m0> ) , 1 ) ) }
+? { contain ( <any> ) }
+none
+? { concat ( <m0> , <low> ) }
+empty
+empty
+empty
+? { contain ( <let> ) , <any> }
+? { startwith ( <vow> ) }
+? { repeatatleast ( <num> , 6 ) }
+none
+? { repeatatleast ( <vow> , 1 ) }
+empty
+? { not ( concat ( star ( <let> ) , <m0> ) ) }
+? { or ( or ( <cap> , <num> ) , <vow> ) }
+? { concat ( or ( <let> , <vow> ) , <cap> ) }
+? { contain ( or ( or ( <low> , <vow> ) , <num> ) ) }
+? { <any> , concat ( <m0> , <num> ) }
+empty
+? { repeatatleast ( concat ( <let> , <low> ) , 1 ) }
+none
+? { repeatatleast ( concat ( <let> , <m0> ) , 3 ) }
+none
+? { endwith ( concat ( <low> , <let> ) ) }
+none
+empty
+? { star ( <any> ) , or ( or ( <m0> , <m1> ) , <m2> ) }
+? { <any> , and ( <m0> , <m1> ) , repeatatleast ( <m2> , 1 ) }
+none
+? { startwith ( <low> ) , <m0> }
+empty
+? { endwith ( concat ( <m0> , concat ( <m1> , <m2> ) ) ) }
+? { concat ( <low> , contain ( <num> ) ) }
+empty
+empty
+? { contain ( endwith ( star ( <let> ) ) ) }
+none
+none
+none
+? { <vow> , <any> }
+? { <m0> , <vow> , <cap> }
+empty
+? { concat ( or ( <vow> , <cap> ) , contain ( <any> ) ) }
+empty
+? { not ( <num> ) , <let> }
+? { concat ( <m0> , or ( or ( <m1> , <num> ) , <cap> ) ) }
+none
+none
+? { concat ( <low> , repeatatleast ( <vow> , 7 ) ) }
+empty
+none
+? { not ( <any> ) , <let> }
+? { contain ( <m0> ) , <vow> }
+empty
+empty
+? { not ( endwith ( repeatatleast ( <cap> , 1 ) ) ) }
+none
+? { not ( contain ( or ( or ( <m0> , <vow> ) , <let> ) ) ) }
+? { <m0> }
+? { concat ( star ( <low> ) , <cap> ) , <any> , <m0> }
+? { or ( or ( <any> , <num> ) , <m0> ) }
+none
+none
+? { startwith ( <m0> ) }
+empty
+empty
+? { or ( <low> , <any> ) }
+none
+none
+? { endwith ( <let> ) }
+empty
+none
+? { contain ( <m0> ) , <let> }
+? { concat ( and ( <low> , <vow> ) , <num> ) }
+none
+? { concat ( repeatatleast ( <low> , 6 ) , <vow> ) }
+? { or ( or ( <vow> , <num> ) , <cap> ) }
+? { concat ( <m0> , and ( <let> , <any> ) ) }
+? { concat ( star ( <num> ) , <m0> ) }
+none
+empty
+none
+none
+none
+? { repeatatleast ( <vow> , 4 ) , <cap> }
+? { concat ( <cap> , <num> ) }
+? { concat ( or ( <vow> , <let> ) , <num> ) }
+? { repeatatleast ( contain ( concat ( <m0> , <m1> ) ) , 4 ) }
+? { contain ( <m0> ) , or ( or ( <any> , <m1> ) , <m2> ) }
+? { not ( concat ( <vow> , <num> ) ) }
+? { star ( <m0> ) }
+? { concat ( <cap> , repeatatleast ( <m0> , 4 ) ) }
+? { <any> }
+? { concat ( <vow> , <cap> ) }
+none
+? { not ( or ( or ( <let> , <low> ) , <num> ) ) }
+? { not ( startwith ( repeatatleast ( <any> , 5 ) ) ) }
+? { concat ( <m0> , <num> ) }
+? { concat ( <low> , or ( or ( <num> , <vow> ) , <m0> ) ) }
+empty
+empty
+? { repeatatleast ( concat ( <vow> , <let> ) , 7 ) }
+? { not ( concat ( contain ( <m0> ) , <m1> ) ) , not ( contain ( <m2> ) ) }
+? { <any> }
+none
+empty
+? { <num> }
+none
+none
+none
+none
+? { concat ( or ( or ( <cap> , <m0> ) , <m1> ) , <let> ) }
+none
+? { star ( or ( <low> , <any> ) ) }
+? { endwith ( <num> ) , <any> , or ( or ( <m0> , <m1> ) , <m2> ) }
+none
+empty
+? { not ( or ( <m0> , <vow> ) ) }
+none
+empty
+? { concat ( not ( <m0> ) , <vow> ) }
+? { endwith ( <num> ) , not ( <m0> ) }
+empty
+? { concat ( <num> , <m0> ) }
+? { not ( concat ( <m0> , repeatatleast ( <cap> , 1 ) ) ) }
+none
+empty
+empty
+? { <num> }
+? { concat ( or ( or ( <vow> , <m0> ) , <num> ) , <any> ) }
+? { concat ( repeatatleast ( <low> , 6 ) , <let> ) }
+empty
+? { <cap> , <any> , <m0> , and ( <m1> , <let> ) }
+none
+empty
+? { concat ( <vow> , or ( <low> , <any> ) ) }
+none
+? { <any> , and ( or ( or ( <m0> , <any> ) , <cap> ) , <any> ) , <m1> }
+empty
+? { endwith ( concat ( <m0> , <low> ) ) }
+? { concat ( <cap> , or ( <m0> , <m1> ) ) }
+empty
+? { and ( <low> , <any> ) }
+? { not ( contain ( or ( or ( <num> , <m0> ) , <cap> ) ) ) }
+? { concat ( <cap> , <m0> ) }
+empty
+none
+none
+empty
+? { concat ( <m0> , concat ( <m1> , star ( <vow> ) ) ) }
+empty
+? { not ( or ( or ( or ( <num> , <m0> ) , <cap> ) , <any> ) ) }
+empty
+? { startwith ( or ( <any> , <vow> ) ) }
+none
+? { repeatatleast ( <vow> , 2 ) }
+? { star ( concat ( <low> , <let> ) ) }
+? { concat ( <vow> , <let> ) , and ( <cap> , <let> ) }
+? { <vow> }
+none
+? { endwith ( <cap> ) }
+empty
+? { or ( <m0> , <let> ) }
+none
+empty
+none
+? { or ( or ( <num> , <any> ) , <let> ) }
+none
+none
+? { not ( or ( or ( <vow> , <num> ) , <let> ) ) }
+empty
+? { concat ( <cap> , or ( or ( <m0> , <m1> ) , <m2> ) ) }
+? { repeatatleast ( <vow> , 4 ) }
+? { repeatatleast ( concat ( <let> , <m0> ) , 1 ) }
+empty
+none
+? { <cap> , star ( not ( <num> ) ) }
+? { <let> }
+empty
+? { concat ( <any> , <low> ) , endwith ( <m0> ) }
+none
+empty
+empty
+? { concat ( <m0> , or ( or ( <m1> , <let> ) , <cap> ) ) }
+? { contain ( <m0> ) , <num> , and ( <cap> , <m1> ) }
+? { <m0> }
+? { contain ( or ( or ( <any> , <cap> ) , <m0> ) ) }
+? { repeatatleast ( or ( <num> , <low> ) , 7 ) }
+? { concat ( repeatatleast ( <let> , 6 ) , <num> ) }
+none
+? { or ( <any> , <let> ) }
+? { <num> , endwith ( repeatatleast ( <cap> , 1 ) ) }
+? { star ( startwith ( <let> ) ) }
+? { endwith ( or ( <vow> , <low> ) ) }
+empty
+? { endwith ( or ( <m0> , <low> ) ) }
+? { <num> }
+? { not ( startwith ( <vow> ) ) , <any> , <m0> }
+none
+none
+? { concat ( <num> , <low> ) }
+empty
+? { <num> , <cap> }
+? { <m0> , or ( <vow> , <any> ) }
+? { not ( or ( <vow> , <low> ) ) , <any> , <m0> }
+? { not ( and ( or ( <num> , <m0> ) , <m1> ) ) }
+? { concat ( <vow> , concat ( <num> , <let> ) ) }
+none
+? { or ( or ( <let> , <any> ) , <num> ) }
+none
+empty
+? { or ( or ( <m0> , <low> ) , <m1> ) }
+empty
+? { concat ( <any> , and ( <low> , <vow> ) ) }
+? { repeatatleast ( <m0> , 7 ) }
+empty
+? { concat ( star ( <num> ) , <low> ) }
+empty
+none
+? { repeatatleast ( <cap> , 4 ) }
+empty
+none
+? { endwith ( and ( <cap> , <any> ) ) , concat ( <m0> , <let> ) }
+empty
+none
+none
+? { concat ( or ( or ( <cap> , <num> ) , <m0> ) , <let> ) }
+? { <vow> , or ( <any> , <let> ) }
+none
+none
+none
+none
+? { or ( <let> , <vow> ) }
+empty
+? { startwith ( and ( <m0> , star ( <num> ) ) ) }
+none
+empty
+? { repeatatleast ( concat ( <vow> , <let> ) , 6 ) }
+none
+none
+? { endwith ( star ( <num> ) ) }
+empty
+? { repeatatleast ( or ( <m0> , <num> ) , 4 ) }
+? { <low> , or ( <any> , <vow> ) , <any> , <m0> }
+? { endwith ( or ( <num> , <cap> ) ) }
+? { repeatatleast ( or ( <cap> , <let> ) , 7 ) }
+? { concat ( <cap> , concat ( <vow> , <any> ) ) }
+? { contain ( <vow> ) }
+? { star ( endwith ( or ( <let> , <m0> ) ) ) }
+none
+none
+? { repeatatleast ( <vow> , 4 ) }
+none
+? { contain ( or ( or ( <vow> , <m0> ) , <m1> ) ) }
+? { concat ( or ( <low> , <m0> ) , <cap> ) }
+none
+? { contain ( or ( <let> , <any> ) ) }
+empty
+? { startwith ( concat ( <vow> , <any> ) ) }
+empty
+? { concat ( <cap> , <m0> ) }
+? { concat ( or ( <num> , <any> ) , <m1> ) }
+? { not ( or ( or ( <cap> , <low> ) , <vow> ) ) }
+? { or ( or ( <let> , <num> ) , <any> ) }
+none
+? { not ( <any> ) , <m0> , not ( and ( <vow> , not ( <any> ) ) ) , <m1> }
+none
+empty
+? { concat ( <low> , star ( <num> ) ) }
+none
+none
+empty
+none
+? { endwith ( <vow> ) }
+? { contain ( concat ( <any> , star ( <low> ) ) ) }
+? { contain ( concat ( <num> , endwith ( <any> ) ) ) }
+? { or ( <cap> , <any> ) }
+? { endwith ( concat ( <low> , <any> ) ) }
+empty
+? { not ( and ( <low> , <let> ) ) }
+empty
+? { contain ( or ( <m0> , <m1> ) ) }
+none
+? { concat ( <m0> , repeatatleast ( <low> , 3 ) ) }
+? { or ( or ( <m0> , <num> ) , <low> ) }
+? { endwith ( concat ( <let> , <vow> ) ) }
+? { concat ( <any> , <low> ) }
+none
+empty
+? { contain ( <num> ) }
+? { endwith ( concat ( or ( <cap> , <vow> ) , <any> ) ) }
+? { repeatatleast ( or ( <vow> , <any> ) , 6 ) }
+? { concat ( <m0> , or ( or ( <vow> , <let> ) , <any> ) ) }
+? { concat ( or ( <num> , <any> ) , <vow> ) }
+empty
+? { or ( <any> , <let> ) }
+? { contain ( and ( or ( <any> , <let> ) , <vow> ) ) }
+? { contain ( or ( <num> , <any> ) ) }
+none
+? { endwith ( repeatatleast ( <any> , 5 ) ) }
+none
+none
+empty
+none
+none
+? { contain ( or ( or ( <m0> , <let> ) , <low> ) ) }
+? { repeatatleast ( concat ( <any> , <num> ) , 4 ) }
+empty
+empty
+empty
+empty
+empty
+? { contain ( and ( <vow> , endwith ( <any> ) ) ) , <m0> }
+none
+none
+empty
+empty
+? { <any> , <let> }
+none
+? { concat ( <low> , <any> ) }
+empty
+empty
+empty
+none
+? { or ( <m0> , <low> ) }
+? { repeatatleast ( or ( <cap> , <low> ) , 6 ) }
+? { concat ( <low> , concat ( <m0> , <let> ) ) }
+? { concat ( <cap> , <let> ) }
+? { concat ( <m0> , <num> ) , <let> }
+? { concat ( <low> , or ( or ( <m0> , <m1> ) , <any> ) ) }
+? { concat ( <m0> , concat ( <vow> , <num> ) ) }
+? { not ( or ( or ( <low> , <cap> ) , <num> ) ) }
+? { concat ( repeatatleast ( <cap> , 7 ) , <num> ) }
+none
+? { <m0> }
+? { concat ( startwith ( <let> ) , concat ( <cap> , <m0> ) ) }
+? { concat ( <cap> , <m0> ) }
+? { contain ( <num> ) , or ( <vow> , <any> ) }
+none
+? { repeatatleast ( <let> , 3 ) }
+empty
+? { <m0> }
+none
+empty
+? { endwith ( or ( <num> , <cap> ) ) }
+empty
+none
+none
+? { not ( startwith ( <let> ) ) }
+? { concat ( or ( or ( <num> , <let> ) , <m0> ) , <low> ) }
+none
+? { endwith ( <num> ) , and ( <any> , <m0> ) }
+none
+empty
+? { not ( <m0> ) , startwith ( <any> ) }
+? { or ( or ( <num> , <m0> ) , <m1> ) }
+empty
+none
+none
+? { or ( <vow> , <cap> ) }
+empty
+? { endwith ( <any> ) , <m0> , star ( <let> ) }
+? { concat ( or ( <num> , <m0> ) , and ( <vow> , <let> ) ) }
+? { <any> }
+none
+empty
+empty
+empty
+empty
+none
+? { or ( or ( <any> , <num> ) , <cap> ) }
+? { endwith ( concat ( <any> , <vow> ) ) }
+? { startwith ( repeatatleast ( <let> , 2 ) ) }
+none
+? { and ( <let> , <any> ) }
+empty
+? { concat ( <m1> , or ( or ( <m0> , <low> ) , <any> ) ) }
+? { endwith ( or ( <m0> , <m1> ) ) }
+? { endwith ( <let> ) }
+? { endwith ( or ( or ( <vow> , <m0> ) , <m1> ) ) }
+? { or ( or ( <m0> , <vow> ) , <any> ) }
+none
+none
+none
+? { startwith ( or ( <m0> , <let> ) ) }
+? { and ( endwith ( <any> ) , <num> ) }
+? { concat ( <let> , concat ( <vow> , <num> ) ) }
+empty
+? { concat ( <m0> , <cap> ) }
+? { concat ( or ( or ( <m0> , <let> ) , <any> ) , <cap> ) }
+? { repeatatleast ( <let> , 5 ) }
+none
+? { or ( <vow> , <cap> ) }
+? { <vow> , and ( <num> , <any> ) }
+empty
+? { <let> , concat ( <vow> , <any> ) }
+none
+? { or ( or ( <num> , <let> ) , <m0> ) }
+none
+? { concat ( <num> , or ( or ( <m0> , <vow> ) , <low> ) ) }
+? { contain ( repeatatleast ( repeatatleast ( <low> , 1 ) , 1 ) ) }
+? { concat ( <any> , concat ( <vow> , <m0> ) ) }
+empty
+? { concat ( or ( or ( <num> , <low> ) , <m0> ) , <any> ) }
+? { or ( or ( <num> , <cap> ) , <let> ) }
+? { repeatatleast ( concat ( <vow> , <cap> ) , 4 ) }
+? { concat ( <cap> , <m0> ) }
+? { concat ( <let> , <any> ) }
+? { <any> }
+empty
+none
+none
+none
+none
+? { contain ( <m0> ) , or ( <cap> , <low> ) }
+? { and ( not ( contain ( <m0> ) ) , <num> ) }
+? { repeatatleast ( or ( or ( <m0> , <let> ) , <any> ) , 1 ) }
+? { concat ( <low> , star ( <any> ) ) }
+? { endwith ( repeatatleast ( <let> , 5 ) ) }
+? { repeatatleast ( or ( <vow> , <num> ) , 5 ) }
+? { <let> }
+? { or ( <let> , <any> ) }
+empty
+? { concat ( star ( <m0> ) , or ( or ( <m1> , <cap> ) , <let> ) ) }
+none
+? { concat ( or ( <let> , <low> ) , <vow> ) }
+? { not ( repeatatleast ( concat ( <low> , <let> ) , 1 ) ) }
+none
+? { <m0> }
+none
+? { startwith ( and ( <any> , <any> ) ) , concat ( <m0> , <m1> ) }
+? { endwith ( <low> ) , contain ( <let> ) }
+none
+? { endwith ( concat ( <cap> , concat ( <m0> , <m1> ) ) ) }
+empty
+? { not ( endwith ( concat ( <any> , <m0> ) ) ) }
+? { and ( contain ( repeatatleast ( <any> , 1 ) ) , <m0> ) }
+? { or ( or ( <cap> , <any> ) , <vow> ) }
+none
+empty
+none
+empty
+none
+? { or ( or ( <num> , <m0> ) , <low> ) }
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <any> ) ) }
+? { and ( star ( <any> ) , <m2> ) }
+none
+none
+? { concat ( <any> , repeatatleast ( <let> , 4 ) ) }
+empty
+? { not ( <low> ) , not ( contain ( <m0> ) ) }
+? { endwith ( repeatatleast ( <num> , 1 ) ) }
+none
+none
+? { not ( repeatatleast ( endwith ( <low> ) , 2 ) ) }
+empty
+empty
+empty
+none
+empty
+? { <any> , <m0> , <let> }
+? { or ( <any> , <m0> ) }
+none
+none
+? { concat ( <m0> , not ( <any> ) ) }
+? { concat ( <cap> , <any> ) }
+? { not ( endwith ( <let> ) ) }
+none
+empty
+empty
+none
+? { repeatatleast ( endwith ( <m0> ) , 4 ) }
+? { concat ( <let> , repeatatleast ( <cap> , 7 ) ) }
+? { and ( <low> , <vow> ) , endwith ( <m0> ) }
+none
+? { concat ( <vow> , <low> ) }
+? { concat ( <m0> , <cap> ) }
+none
+? { repeatatleast ( endwith ( <m0> ) , 2 ) }
+? { or ( <num> , <any> ) }
+none
+? { or ( or ( <cap> , <vow> ) , <low> ) , <m0> }
+? { and ( repeatatleast ( not ( <cap> ) , 6 ) , not ( <m0> ) ) }
+? { endwith ( concat ( <cap> , <vow> ) ) }
+? { concat ( or ( <cap> , <let> ) , <any> ) }
+? { concat ( or ( <any> , <low> ) , <m0> ) }
+? { repeatatleast ( or ( <num> , <low> ) , 5 ) }
+? { repeatatleast ( concat ( <cap> , <any> ) , 5 ) }
+empty
+? { concat ( <m0> , or ( <num> , <cap> ) ) }
+? { and ( <m0> , <let> ) }
+? { concat ( <any> , <m0> ) }
+? { repeatatleast ( concat ( <any> , <m0> ) , 7 ) }
+none
+none
+? { or ( <let> , <num> ) }
+? { repeatatleast ( or ( <cap> , <let> ) , 2 ) }
+none
+? { <low> , repeatatleast ( <cap> , 2 ) }
+empty
+? { repeatatleast ( <num> , 7 ) }
+none
+none
+none
+? { concat ( <m0> , <let> ) }
+empty
+none
+empty
+none
+none
+? { endwith ( concat ( <m0> , <m1> ) ) }
+none
+? { concat ( <num> , <let> ) }
+? { concat ( or ( or ( <let> , <vow> ) , <m0> ) , <m1> ) }
+? { and ( star ( or ( <low> , <any> ) ) , <let> ) }
+none
+? { concat ( <m0> , concat ( <low> , <cap> ) ) }
+none
+empty
+empty
+? { concat ( <cap> , contain ( <m0> ) ) }
+? { endwith ( <m0> ) }
+? { repeatatleast ( <low> , 1 ) }
+none
+? { <any> , concat ( <m0> , <m1> ) , <num> }
+none
+? { repeatatleast ( <let> , 7 ) }
+none
+none
+empty
+? { repeatatleast ( <let> , 1 ) }
+empty
+? { contain ( or ( or ( <vow> , <low> ) , <m0> ) ) }
+empty
+? { startwith ( star ( <any> ) ) , <low> }
+none
+empty
+? { repeatatleast ( <num> , 2 ) }
+? { or ( or ( <num> , <low> ) , <any> ) }
+? { endwith ( or ( <num> , <any> ) ) }
+? { concat ( <m0> , repeatatleast ( <low> , 6 ) ) }
+none
+? { endwith ( or ( <low> , <num> ) ) }
+none
+? { not ( <vow> ) , not ( and ( <any> , <low> ) ) }
+? { concat ( <let> , <any> ) , and ( <any> , <m0> ) }
+? { repeatatleast ( concat ( <let> , <vow> ) , 3 ) }
+? { <num> , concat ( <m0> , <m1> ) }
+none
+empty
+? { concat ( <num> , repeatatleast ( <any> , 4 ) ) }
+? { concat ( <low> , concat ( <let> , <cap> ) ) }
+none
+? { not ( contain ( repeatatleast ( <any> , 1 ) ) ) }
+none
+? { concat ( <num> , and ( <any> , <m0> ) ) }
+? { concat ( <m0> , concat ( <let> , or ( <m1> , <vow> ) ) ) }
+? { and ( or ( <num> , <vow> ) , <m0> ) }
+none
+empty
+empty
+none
+? { concat ( contain ( <any> ) , <num> ) }
+? { contain ( concat ( <low> , <num> ) ) }
+empty
+? { startwith ( concat ( <cap> , <vow> ) ) }
+? { contain ( <cap> ) , or ( <any> , <vow> ) }
+none
+? { endwith ( <let> ) }
+? { concat ( or ( <vow> , <num> ) , <low> ) }
+? { repeatatleast ( <num> , 1 ) }
+? { concat ( <any> , <vow> ) }
+? { <low> }
+empty
+empty
+none
+empty
+empty
+? { contain ( <low> ) , repeatatleast ( <let> , 1 ) }
+? { contain ( concat ( <any> , <cap> ) ) }
+none
+? { <low> , <any> , or ( <m0> , <any> ) }
+? { endwith ( repeatatleast ( <any> , 2 ) ) }
+? { concat ( repeatatleast ( <cap> , 7 ) , <low> ) }
+none
+? { <m0> }
+empty
+none
+? { concat ( <cap> , <low> ) }
+? { contain ( and ( or ( <let> , <any> ) , <cap> ) ) }
+none
+? { or ( or ( <cap> , <m0> ) , <any> ) }
+? { or ( or ( <vow> , <low> ) , <any> ) }
+? { concat ( and ( <cap> , <vow> ) , <num> ) }
+? { star ( concat ( <m0> , <vow> ) ) }
+? { or ( or ( <num> , <low> ) , <any> ) }
+? { concat ( not ( <m0> ) , <num> ) }
+empty
+none
+? { endwith ( <m0> ) }
+? { endwith ( concat ( <m0> , <vow> ) ) }
+none
+? { concat ( <vow> , or ( <cap> , <num> ) ) }
+? { concat ( <num> , or ( <low> , <any> ) ) }
+none
+? { concat ( <m0> , <any> ) }
+? { concat ( <vow> , <low> ) }
+? { concat ( <m0> , or ( <vow> , <num> ) ) }
+? { not ( or ( or ( <m0> , <any> ) , <let> ) ) }
+none
+? { and ( <let> , <let> ) }
+empty
+? { contain ( <let> ) , <any> }
+? { concat ( <any> , <low> ) }
+? { concat ( <m0> , <m1> ) }
+? { concat ( <m0> , <any> ) }
+? { not ( or ( or ( <any> , <vow> ) , <m0> ) ) }
+empty
+? { concat ( <low> , concat ( <m0> , <any> ) ) }
+? { contain ( <cap> ) }
+? { <any> }
+empty
+? { concat ( <let> , repeatatleast ( <low> , 1 ) ) }
+? { concat ( <vow> , repeatatleast ( <m0> , 4 ) ) }
+empty
+? { concat ( <let> , <cap> ) }
+none
+? { or ( <vow> , <any> ) }
+empty
+empty
+? { concat ( <low> , <any> ) }
+? { or ( <cap> , <num> ) }
+? { endwith ( <num> ) , <any> , star ( <m0> ) }
+none
+none
+? { <cap> }
+? { not ( <any> ) , <m0> , not ( startwith ( <any> ) ) , <m1> }
+? { <let> , not ( <m0> ) }
+? { and ( contain ( <vow> ) , concat ( <any> , <m0> ) ) }
+? { concat ( <let> , <cap> ) }
+none
+? { startwith ( <cap> ) }
+? { star ( or ( <vow> , <m0> ) ) }
+empty
+none
+? { concat ( <m0> , concat ( <vow> , <m1> ) ) }
+empty
+none
+? { concat ( <num> , concat ( <low> , <any> ) ) }
+? { repeatatleast ( <vow> , 6 ) }
+none
+? { endwith ( not ( contain ( <any> ) ) ) , <m0> }
+? { endwith ( <low> ) }
+? { repeatatleast ( <m0> , 1 ) }
+empty
+none
+none
+none
+none
+none
+? { or ( <any> , <low> ) , endwith ( <any> ) , <m0> }
+empty
+? { concat ( and ( <num> , <any> ) , <let> ) }
+? { concat ( or ( or ( <vow> , <m0> ) , <num> ) , <m1> ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <num> ) , <cap> ) }
+? { endwith ( <num> ) , <let> }
+empty
+none
+? { concat ( repeatatleast ( <cap> , 6 ) , <any> ) }
+none
+? { concat ( or ( or ( <m0> , <low> ) , <vow> ) , <let> ) }
+? { contain ( <let> ) , not ( <cap> ) }
+? { endwith ( star ( <cap> ) ) , <any> , <m0> }
+? { <cap> , endwith ( star ( <m0> ) ) }
+none
+? { star ( concat ( <cap> , <let> ) ) }
+? { <m0> }
+? { concat ( <vow> , <m0> ) , and ( <low> , <let> ) }
+? { repeatatleast ( endwith ( <let> ) , 4 ) }
+? { <low> }
+? { concat ( repeatatleast ( <low> , 4 ) , <m0> ) }
+empty
+? { or ( <low> , <num> ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <m2> ) , <let> ) }
+empty
+empty
+? { concat ( or ( or ( <cap> , <m0> ) , <low> ) , <num> ) }
+? { not ( <let> ) }
+? { contain ( contain ( repeatatleast ( <vow> , 1 ) ) ) }
+none
+? { repeatatleast ( repeatatleast ( <cap> , 1 ) , 1 ) }
+none
+? { star ( <any> ) , <low> }
+? { concat ( startwith ( <m0> ) , <num> ) }
+? { not ( <num> ) }
+none
+? { <any> }
+none
+? { <any> , or ( <m0> , <let> ) , <let> }
+? { concat ( <cap> , <any> ) }
+empty
+? { star ( concat ( <vow> , <num> ) ) }
+? { endwith ( concat ( <vow> , or ( or ( <m0> , <low> ) , <m1> ) ) ) }
+? { concat ( or ( <m0> , <let> ) , <num> ) }
+? { concat ( <low> , <let> ) }
+? { repeatatleast ( or ( <vow> , <m0> ) , 4 ) }
+none
+empty
+empty
+? { not ( contain ( repeatatleast ( <any> , 1 ) ) ) }
+empty
+? { concat ( <num> , <low> ) }
+none
+? { concat ( <m0> , repeatatleast ( <let> , 4 ) ) }
+? { concat ( <num> , <any> ) }
+? { concat ( or ( <m0> , <m1> ) , <vow> ) }
+? { repeatatleast ( <low> , 2 ) }
+? { repeatatleast ( or ( <let> , <low> ) , 6 ) }
+? { repeatatleast ( or ( <m0> , <vow> ) , 2 ) }
+none
+none
+none
+? { contain ( <let> ) }
+? { concat ( <vow> , and ( <m0> , <m1> ) ) }
+none
+none
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <any> ) ) }
+? { concat ( <any> , <vow> ) }
+? { star ( <m0> ) }
+? { endwith ( or ( <cap> , <m0> ) ) }
+empty
+? { concat ( <m0> , <low> ) }
+? { repeatatleast ( concat ( <vow> , <low> ) , 7 ) }
+none
+empty
+empty
+? { concat ( <m0> , concat ( <let> , repeatatleast ( <vow> , 1 ) ) ) }
+empty
+none
+? { and ( <m0> , <vow> ) }
+? { concat ( <vow> , concat ( <cap> , <low> ) ) }
+? { <low> }
+? { or ( <num> , <vow> ) }
+none
+none
+none
+? { <num> }
+? { concat ( <num> , or ( <m0> , <any> ) ) }
+? { repeatatleast ( concat ( <any> , <vow> ) , 3 ) }
+? { contain ( or ( <let> , <any> ) ) , concat ( <vow> , <m0> ) }
+? { concat ( <num> , <any> ) }
+? { <m0> , or ( or ( <m1> , <vow> ) , <num> ) }
+? { concat ( repeatatleast ( <low> , 5 ) , <let> ) }
+? { concat ( <let> , <num> ) }
+? { concat ( <any> , or ( <vow> , <m0> ) ) }
+empty
+? { concat ( startwith ( repeatatleast ( <vow> , 5 ) ) , <num> ) }
+? { concat ( <cap> , <let> ) , <any> }
+none
+? { concat ( <num> , <m0> ) }
+? { concat ( <num> , <low> ) }
+? { and ( <any> , <any> ) , <m0> }
+? { concat ( <num> , star ( <vow> ) ) }
+? { <m0> }
+none
+none
+? { startwith ( star ( <num> ) ) , <any> , <m0> }
+none
+none
+? { startwith ( <num> ) , and ( <m0> , <low> ) }
+? { <m0> }
+? { concat ( or ( <low> , <any> ) , <cap> ) }
+none
+none
+none
+empty
+? { not ( or ( or ( <any> , <low> ) , <m0> ) ) }
+? { not ( star ( endwith ( <let> ) ) ) }
+? { or ( or ( <let> , <low> ) , <cap> ) }
+empty
+empty
+empty
+none
+empty
+? { repeatatleast ( concat ( <let> , <m0> ) , 7 ) }
+? { concat ( <any> , <let> ) }
+? { contain ( or ( or ( <any> , <low> ) , <num> ) ) }
+none
+? { repeatatleast ( concat ( <let> , <num> ) , 4 ) }
+? { <any> }
+? { endwith ( or ( <let> , <vow> ) ) }
+? { not ( <cap> ) , <vow> }
+? { concat ( or ( or ( <vow> , <any> ) , <let> ) , <m0> ) }
+? { or ( <m0> , <let> ) }
+? { not ( concat ( <let> , <m0> ) ) }
+none
+? { repeatatleast ( <any> , 1 ) }
+? { startwith ( <cap> ) , <num> }
+? { endwith ( <any> ) , or ( <m0> , <num> ) , <let> }
+? { concat ( <num> , <any> ) , or ( or ( <m0> , <m1> ) , <any> ) }
+none
+none
+? { concat ( repeatatleast ( <any> , 3 ) , <let> ) }
+none
+? { concat ( <m0> , <num> ) }
+? { startwith ( <m1> ) }
+? { repeatatleast ( or ( <any> , <m0> ) , 7 ) }
+? { concat ( <any> , <vow> ) }
+empty
+empty
+? { <any> , concat ( <m0> , <any> ) , star ( or ( <m1> , <vow> ) ) }
+empty
+? { <any> , <m0> , or ( <any> , <vow> ) }
+? { contain ( <any> ) , contain ( concat ( <m0> , <m1> ) ) }
+none
+? { contain ( or ( or ( <m0> , <any> ) , <num> ) ) }
+none
+? { <cap> }
+? { contain ( or ( or ( <vow> , <num> ) , <any> ) ) }
+? { concat ( startwith ( <num> ) , <low> ) }
+none
+empty
+? { concat ( or ( or ( <let> , <m0> ) , <m1> ) , <num> ) }
+none
+empty
+empty
+none
+? { concat ( or ( <vow> , <any> ) , <cap> ) }
+none
+? { concat ( <cap> , or ( or ( <m0> , <m1> ) , <vow> ) ) }
+? { concat ( <num> , repeatatleast ( <cap> , 1 ) ) }
+none
+? { contain ( <any> ) , <num> }
+? { concat ( or ( <any> , <m0> ) , <cap> ) }
+? { contain ( endwith ( repeatatleast ( <m0> , 6 ) ) ) }
+? { <m0> , or ( <any> , <cap> ) , <any> , <m1> }
+? { not ( repeatatleast ( <m0> , 5 ) ) , not ( <low> ) }
+? { <any> , <m0> , concat ( <m1> , <cap> ) }
+? { concat ( <any> , repeatatleast ( <cap> , 2 ) ) }
+empty
+? { concat ( <num> , <cap> ) }
+? { not ( <any> ) , and ( <m0> , <low> ) }
+? { concat ( <let> , <num> ) }
+empty
+empty
+empty
+? { endwith ( repeatatleast ( <any> , 3 ) ) }
+? { contain ( <let> ) , or ( <low> , <any> ) }
+? { concat ( <m0> , <any> ) , or ( or ( <m1> , <cap> ) , <let> ) }
+none
+none
+? { or ( or ( <m0> , <vow> ) , <let> ) }
+? { concat ( <vow> , <any> ) }
+? { not ( <m0> ) , not ( and ( <cap> , not ( <num> ) ) ) }
+none
+? { concat ( or ( <low> , <m0> ) , repeatatleast ( <m1> , 1 ) ) }
+none
+? { contain ( and ( <vow> , star ( <any> ) ) ) }
+? { endwith ( concat ( <m0> , <m1> ) ) }
+none
+? { not ( or ( <m0> , <any> ) ) }
+empty
+? { endwith ( <vow> ) }
+? { endwith ( <any> ) }
+? { concat ( <cap> , <low> ) , <any> }
+? { <m0> , not ( <num> ) }
+? { concat ( repeatatleast ( <low> , 3 ) , <cap> ) }
+? { concat ( <m0> , and ( <let> , <vow> ) ) }
+? { concat ( <low> , <num> ) }
+? { not ( endwith ( <any> ) ) }
+? { concat ( <cap> , <vow> ) , concat ( <num> , <any> ) }
+? { star ( <any> ) , <num> }
+empty
+? { not ( contain ( repeatatleast ( repeatatleast ( <any> , 1 ) , 4 ) ) ) }
+? { repeatatleast ( or ( <num> , <any> ) , 3 ) }
+none
+? { contain ( or ( or ( <let> , <vow> ) , <cap> ) ) }
+? { star ( or ( <num> , <vow> ) ) }
+none
+? { or ( <any> , <cap> ) }
+? { startwith ( <cap> ) }
+none
+? { and ( contain ( <vow> ) , <low> ) }
+none
+? { <cap> }
+? { concat ( or ( or ( <m0> , <m1> ) , <vow> ) , <any> ) }
+? { <any> , and ( concat ( <m0> , not ( <m1> ) ) , not ( <any> ) ) }
+? { concat ( <low> , <num> ) }
+? { <num> , <m0> }
+empty
+none
+empty
+none
+? { concat ( <vow> , or ( <low> , <let> ) ) }
+none
+? { not ( <m0> ) , not ( <num> ) }
+? { <m0> }
+? { and ( <m0> , <any> ) }
+? { startwith ( <m0> ) , concat ( <any> , <num> ) }
+? { not ( contain ( concat ( <let> , <any> ) ) ) }
+? { concat ( <let> , or ( or ( <cap> , <vow> ) , <any> ) ) }
+empty
+none
+? { contain ( contain ( <m0> ) ) }
+? { startwith ( <cap> ) , not ( <low> ) }
+none
+? { concat ( or ( <low> , <vow> ) , <any> ) }
+none
+? { not ( endwith ( repeatatleast ( <m0> , 6 ) ) ) }
+? { concat ( and ( <any> , <num> ) , <m0> ) }
+? { or ( <cap> , <num> ) }
+? { <m0> , star ( not ( <cap> ) ) }
+? { or ( <cap> , <m0> ) }
+? { repeatatleast ( <any> , 3 ) }
+? { <any> , concat ( <any> , <vow> ) }
+empty
+? { not ( or ( <any> , <low> ) ) }
+? { concat ( <any> , and ( <vow> , not ( <num> ) ) ) }
+? { <let> , <low> }
+none
+? { concat ( <let> , <num> ) }
+none
+? { <m0> , contain ( <any> ) , <m1> }
+empty
+? { repeatatleast ( endwith ( repeatatleast ( <vow> , 1 ) ) , 3 ) }
+? { not ( contain ( or ( <vow> , <m0> ) ) ) }
+? { concat ( <m0> , repeatatleast ( <m1> , 6 ) ) }
+? { concat ( <cap> , or ( <low> , <m0> ) ) }
+none
+? { <let> , star ( <cap> ) }
+empty
+? { concat ( <num> , and ( <any> , <m0> ) ) }
+empty
+? { startwith ( <num> ) }
+? { concat ( <num> , <vow> ) }
+? { concat ( or ( <m0> , <let> ) , <num> ) }
+none
+? { and ( <low> , <m0> ) , <any> , repeatatleast ( <m1> , 2 ) }
+empty
+? { and ( <num> , not ( <cap> ) ) }
+? { concat ( <let> , or ( or ( <m0> , <any> ) , <num> ) ) }
+? { contain ( or ( <m0> , <any> ) ) }
+? { repeatatleast ( endwith ( repeatatleast ( <low> , 1 ) ) , 2 ) }
+none
+none
+? { concat ( and ( <vow> , <let> ) , or ( <any> , <low> ) ) }
+none
+none
+none
+none
+none
+? { repeatatleast ( <m0> , 1 ) , or ( or ( <cap> , <any> ) , <num> ) }
+none
+? { concat ( <cap> , <any> ) }
+? { repeatatleast ( or ( <num> , <low> ) , 4 ) }
+? { <any> , or ( <m0> , <num> ) }
+none
+none
+none
+? { concat ( <cap> , <any> ) }
+? { <m0> }
+? { endwith ( <vow> ) }
+? { repeatatleast ( or ( <m0> , <num> ) , 1 ) }
+? { concat ( <low> , concat ( <num> , <let> ) ) }
+? { or ( <m0> , <any> ) }
+? { not ( endwith ( concat ( <any> , <vow> ) ) ) }
+? { endwith ( contain ( <let> ) ) }
+? { concat ( <num> , repeatatleast ( <cap> , 5 ) ) }
+none
+? { concat ( <m0> , <cap> ) }
+? { repeatatleast ( or ( <m0> , <any> ) , 7 ) }
+? { not ( endwith ( <any> ) ) }
+empty
+? { <m0> }
+? { repeatatleast ( or ( <let> , <any> ) , 1 ) }
+? { not ( or ( or ( <any> , <low> ) , <num> ) ) }
+none
+? { concat ( repeatatleast ( <cap> , 2 ) , <m0> ) }
+? { concat ( repeatatleast ( <low> , 7 ) , <m0> ) }
+? { not ( endwith ( <m0> ) ) }
+? { concat ( <let> , or ( <vow> , <cap> ) ) }
+none
+? { concat ( or ( or ( <m0> , <m1> ) , <cap> ) , <any> ) }
+? { and ( <m0> , <any> ) }
+none
+none
+? { or ( <any> , <let> ) }
+empty
+? { concat ( or ( or ( <m0> , <vow> ) , <any> ) , <let> ) }
+? { or ( or ( <vow> , <low> ) , <any> ) }
+? { concat ( <num> , concat ( <any> , <cap> ) ) }
+empty
+? { repeatatleast ( <num> , 1 ) }
+? { repeatatleast ( <cap> , 7 ) }
+? { or ( <any> , <let> ) , <any> , concat ( <m0> , <vow> ) }
+none
+empty
+? { endwith ( startwith ( <low> ) ) }
+empty
+? { repeatatleast ( repeatatleast ( <num> , 1 ) , 4 ) }
+? { <m0> , <any> , <m1> }
+? { endwith ( repeatatleast ( <cap> , 1 ) ) }
+? { contain ( repeatatleast ( or ( <num> , <any> ) , 7 ) ) }
+none
+? { startwith ( <m0> ) }
+? { repeatatleast ( concat ( <vow> , <m0> ) , 5 ) }
+none
+none
+? { contain ( and ( or ( <num> , <m0> ) , star ( <vow> ) ) ) }
+? { <m0> }
+none
+? { concat ( <m0> , or ( <vow> , <low> ) ) }
+empty
+? { contain ( <low> ) }
+? { concat ( <num> , <vow> ) }
+? { contain ( or ( or ( <any> , <let> ) , <cap> ) ) }
+? { repeatatleast ( or ( <low> , <vow> ) , 4 ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <low> ) }
+empty
+none
+? { concat ( <num> , <vow> ) }
+? { <m1> }
+? { contain ( <let> ) , startwith ( <cap> ) }
+? { concat ( <let> , repeatatleast ( <num> , 3 ) ) }
+? { concat ( <m0> , <vow> ) }
+? { not ( contain ( <vow> ) ) }
+empty
+? { concat ( <vow> , <m0> ) }
+empty
+? { <m0> }
+? { concat ( <m0> , <low> ) , <any> , <m1> }
+? { concat ( <any> , <m0> ) }
+? { <m1> }
+? { or ( <any> , <let> ) }
+empty
+? { concat ( <vow> , <num> ) }
+empty
+? { concat ( <m0> , or ( <let> , <any> ) ) }
+none
+? { concat ( <let> , or ( <num> , <any> ) ) }
+none
+? { or ( <num> , <vow> ) }
+? { repeatatleast ( or ( <low> , <any> ) , 1 ) }
+none
+empty
+empty
+? { concat ( <m0> , repeatatleast ( <vow> , 7 ) ) }
+? { endwith ( repeatatleast ( <let> , 5 ) ) }
+? { concat ( <let> , or ( <cap> , <m0> ) ) }
+none
+? { repeatatleast ( or ( <low> , <num> ) , 6 ) }
+? { not ( concat ( <cap> , and ( <let> , not ( <any> ) ) ) ) }
+empty
+? { or ( or ( <any> , <vow> ) , <m0> ) , <m1> }
+none
+? { or ( <m0> , <cap> ) }
+? { <any> }
+? { star ( or ( <cap> , <any> ) ) }
+? { <any> , <m0> , concat ( or ( <num> , <low> ) , <any> ) }
+none
+? { endwith ( <m0> ) , <m1> }
+none
+? { startwith ( <any> ) }
+? { concat ( or ( or ( <let> , <any> ) , <vow> ) , <any> ) , <m0> }
+? { concat ( or ( or ( <vow> , <low> ) , <let> ) , <cap> ) }
+none
+? { contain ( <let> ) }
+empty
+none
+? { repeatatleast ( concat ( <m0> , <num> ) , 3 ) }
+none
+empty
+? { concat ( <low> , concat ( <cap> , <any> ) ) }
+none
+? { <m0> }
+? { concat ( <any> , <let> ) }
+? { concat ( <any> , <m0> ) }
+empty
+? { endwith ( <m0> ) }
+? { concat ( repeatatleast ( <low> , 7 ) , <vow> ) }
+? { concat ( <m0> , concat ( <vow> , <cap> ) ) }
+? { <any> }
+? { contain ( star ( <m0> ) ) }
+? { concat ( repeatatleast ( <low> , 3 ) , <m0> ) }
+none
+? { repeatatleast ( or ( <m0> , <vow> ) , 7 ) }
+? { <any> }
+none
+none
+? { or ( or ( <let> , <cap> ) , <m0> ) }
+? { repeatatleast ( <let> , 1 ) }
+? { startwith ( repeatatleast ( <m0> , 6 ) ) }
+? { concat ( <vow> , <num> ) }
+empty
+? { endwith ( <any> ) }
+? { contain ( <cap> ) , <vow> }
+none
+? { concat ( or ( <let> , <m0> ) , <any> ) }
+none
+? { endwith ( repeatatleast ( concat ( <m0> , <num> ) , 1 ) ) }
+? { concat ( <m0> , repeatatleast ( <cap> , 6 ) ) }
+? { concat ( <vow> , concat ( <let> , <any> ) ) }
+none
+? { <let> }
+? { <low> , <any> }
+none
+? { concat ( <let> , concat ( <m0> , <num> ) ) }
+? { repeatatleast ( concat ( <low> , <vow> ) , 3 ) }
+none
+? { startwith ( <low> ) , <num> }
+empty
+? { startwith ( star ( <let> ) ) }
+? { concat ( endwith ( <m0> ) , <any> ) }
+none
+? { repeatatleast ( endwith ( <let> ) , 7 ) }
+? { <any> }
+? { <m0> }
+? { or ( <let> , <vow> ) }
+? { or ( or ( <num> , <cap> ) , <m0> ) }
+? { repeatatleast ( concat ( <m0> , <any> ) , 6 ) }
+? { <m0> }
+? { concat ( <low> , repeatatleast ( <num> , 3 ) ) }
+? { concat ( <num> , <vow> ) }
+empty
+none
+? { endwith ( concat ( star ( <vow> ) , <low> ) ) }
+? { or ( <any> , <vow> ) }
+? { <let> , concat ( <any> , <m0> ) }
+? { not ( contain ( concat ( <low> , <any> ) ) ) }
+? { concat ( <any> , <m0> ) }
+? { endwith ( concat ( <num> , contain ( <cap> ) ) ) }
+empty
+? { or ( or ( <m0> , <num> ) , <any> ) }
+? { concat ( <cap> , concat ( <vow> , <let> ) ) }
+empty
+? { <m0> }
+none
+none
+none
+empty
+? { repeatatleast ( concat ( <m0> , <vow> ) , 6 ) }
+? { repeatatleast ( <cap> , 3 ) }
+? { concat ( repeatatleast ( <cap> , 6 ) , <vow> ) }
+? { or ( or ( <num> , <vow> ) , <any> ) }
+? { concat ( not ( <m0> ) , <let> ) }
+? { star ( <cap> ) }
+? { concat ( or ( <vow> , <cap> ) , <low> ) }
+empty
+? { concat ( repeatatleast ( <m0> , 6 ) , or ( or ( <m1> , <vow> ) , <let> ) ) }
+? { and ( <any> , <vow> ) }
+none
+? { endwith ( repeatatleast ( repeatatleast ( <low> , 1 ) , 7 ) ) }
+? { <num> , <low> , not ( <let> ) }
+empty
+none
+? { <m0> }
+? { or ( <m0> , <m1> ) }
+? { not ( star ( or ( <low> , <any> ) ) ) }
+? { concat ( <any> , <m0> ) }
+? { concat ( <m0> , <m1> ) , not ( <vow> ) }
+none
+? { or ( or ( <let> , <any> ) , <vow> ) }
+? { concat ( <cap> , <vow> ) }
+? { <cap> }
+empty
+? { repeatatleast ( <low> , 6 ) , and ( <m0> , <any> ) }
+? { not ( star ( contain ( <low> ) ) ) }
+? { endwith ( <low> ) , <any> , and ( <m0> , <vow> ) }
+? { concat ( or ( or ( <num> , <vow> ) , <m0> ) , <cap> ) }
+? { contain ( and ( <let> , not ( contain ( <m0> ) ) ) ) }
+? { not ( <low> ) , <num> , <any> , and ( <m0> , <any> ) , <m1> }
+? { concat ( repeatatleast ( <let> , 5 ) , <m0> ) }
+? { <any> , concat ( <m0> , <vow> ) }
+none
+? { concat ( or ( <m0> , <let> ) , <num> ) }
+? { <m0> , <low> , <m1> }
+? { endwith ( concat ( <num> , <cap> ) ) }
+empty
+? { repeatatleast ( or ( <let> , <vow> ) , 6 ) }
+empty
+? { endwith ( or ( or ( <num> , <low> ) , <let> ) ) }
+empty
+? { not ( <low> ) , not ( and ( <num> , not ( <any> ) ) ) }
+? { or ( or ( <m0> , <m1> ) , <any> ) }
+? { concat ( <num> , not ( <m0> ) ) }
+none
+none
+none
+none
+? { concat ( <any> , <m0> ) }
+? { concat ( <num> , concat ( <let> , <m0> ) ) }
+none
+? { repeatatleast ( <cap> , 1 ) }
+empty
+? { contain ( <any> ) , <cap> , <num> }
+empty
+none
+none
+? { endwith ( not ( <let> ) ) }
+? { startwith ( concat ( <m0> , <any> ) ) }
+none
+none
+? { contain ( <vow> ) , <any> }
+empty
+? { startwith ( repeatatleast ( <vow> , 5 ) ) }
+empty
+? { concat ( <vow> , <cap> ) }
+empty
+? { <m0> }
+? { endwith ( <any> ) }
+? { concat ( or ( or ( <low> , <let> ) , <vow> ) , <m0> ) }
+empty
+? { <m0> }
+none
+none
+? { startwith ( concat ( <m0> , <cap> ) ) }
+none
+empty
+? { <let> }
+empty
+? { <any> }
+none
+empty
+? { concat ( <let> , concat ( <num> , <any> ) ) }
+none
+? { or ( or ( <cap> , <vow> ) , <m0> ) }
+? { repeatatleast ( <low> , 4 ) , startwith ( <m0> ) }
+? { or ( or ( or ( <vow> , <num> ) , <let> ) , <m0> ) }
+empty
+empty
+none
+empty
+none
+empty
+empty
+? { concat ( <vow> , <m0> ) }
+? { concat ( repeatatleast ( <low> , 2 ) , <vow> ) }
+? { concat ( or ( or ( <cap> , <m0> ) , <any> ) , <vow> ) }
+? { not ( <vow> ) , not ( and ( <low> , <m0> ) ) }
+? { concat ( <cap> , concat ( <num> , <low> ) ) }
+? { <vow> }
+none
+empty
+? { concat ( <num> , concat ( <m0> , <m1> ) ) }
+none
+empty
+empty
+empty
+none
+? { concat ( <num> , <any> ) , <any> , <m0> }
+? { repeatatleast ( or ( <low> , <any> ) , 4 ) }
+? { or ( <num> , <any> ) }
+? { endwith ( repeatatleast ( or ( <any> , <m0> ) , 1 ) ) }
+? { concat ( <vow> , <any> ) , or ( <m0> , <any> ) }
+? { or ( or ( <m0> , <m1> ) , <low> ) }
+empty
+? { contain ( and ( <cap> , <let> ) ) }
+? { concat ( repeatatleast ( <num> , 6 ) , <m0> ) }
+empty
+? { concat ( <m0> , and ( <any> , <let> ) ) }
+? { and ( repeatatleast ( <low> , 1 ) , not ( <let> ) ) }
+? { not ( or ( or ( <let> , <any> ) , <num> ) ) }
+? { repeatatleast ( <vow> , 1 ) , <any> , <m0> }
+? { not ( contain ( repeatatleast ( <cap> , 6 ) ) ) }
+? { concat ( <low> , concat ( <m0> , <cap> ) ) }
+none
+none
+? { <any> , <m0> , or ( <m1> , <num> ) }
+none
+? { and ( <cap> , <any> ) }
+none
+? { concat ( <vow> , <any> ) , or ( <m0> , <any> ) }
+? { endwith ( concat ( <m0> , <m1> ) ) }
+none
+? { startwith ( and ( or ( <let> , <cap> ) , <any> ) ) }
+? { concat ( <any> , <m0> ) , concat ( <let> , <m1> ) }
+? { or ( or ( <num> , <any> ) , <m0> ) }
+? { <num> , <let> }
+none
+none
+? { repeatatleast ( concat ( <m0> , <vow> ) , 4 ) }
+? { concat ( <num> , concat ( <vow> , <cap> ) ) }
+empty
+? { endwith ( <low> ) , <let> }
+? { contain ( <let> ) , star ( <any> ) }
+? { <any> }
+? { concat ( <low> , <m0> ) }
+empty
+? { startwith ( <m0> ) , <vow> }
+? { startwith ( concat ( <let> , <m0> ) ) }
+empty
+empty
+? { concat ( or ( <m0> , <let> ) , <any> ) }
+? { contain ( <cap> ) }
+? { repeatatleast ( <any> , 4 ) }
+empty
+none
+empty
+? { concat ( <any> , <low> ) }
+empty
+? { endwith ( <vow> ) , <let> }
+empty
+? { <let> }
+? { concat ( <num> , repeatatleast ( <vow> , 6 ) ) }
+? { concat ( <m1> , or ( or ( <low> , <any> ) , <m0> ) ) }
+? { and ( contain ( <m0> ) , startwith ( <m1> ) ) }
+empty
+? { repeatatleast ( <any> , 1 ) }
+? { concat ( repeatatleast ( <m0> , 7 ) , <low> ) }
+empty
+? { endwith ( <m0> ) }
+none
+? { endwith ( concat ( <let> , <vow> ) ) }
+? { <m0> , concat ( <let> , <num> ) }
+? { repeatatleast ( contain ( concat ( <m0> , <m1> ) ) , 7 ) }
+? { or ( <cap> , <any> ) }
+? { not ( or ( or ( <vow> , <let> ) , <any> ) ) }
+? { endwith ( or ( <cap> , <vow> ) ) }
+none
+? { concat ( <m0> , <num> ) }
+none
+? { repeatatleast ( or ( <num> , <cap> ) , 6 ) }
+? { <any> , or ( or ( <let> , <m0> ) , <m1> ) }
+empty
+none
+none
+empty
+? { <let> , star ( <vow> ) }
+none
+empty
+? { contain ( <let> ) , <vow> }
+? { <cap> , endwith ( <vow> ) }
+? { repeatatleast ( <m0> , 3 ) , concat ( <vow> , <m1> ) }
+? { concat ( repeatatleast ( <m0> , 4 ) , <m1> ) }
+none
+? { and ( <any> , <low> ) }
+none
+none
+? { endwith ( repeatatleast ( <let> , 6 ) ) }
+? { concat ( <num> , concat ( <let> , <cap> ) ) }
+none
+? { <any> , repeatatleast ( <m0> , 5 ) , <let> }
+? { concat ( star ( <cap> ) , <m0> ) }
+? { concat ( or ( <m0> , <any> ) , <let> ) }
+none
+? { contain ( contain ( repeatatleast ( <let> , 1 ) ) ) }
+empty
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <vow> ) ) }
+? { concat ( and ( <cap> , <let> ) , <let> ) }
+? { repeatatleast ( or ( <num> , <vow> ) , 5 ) }
+none
+empty
+none
+none
+? { endwith ( <low> ) }
+? { concat ( <let> , <m0> ) , <m1> }
+none
+? { contain ( <m0> ) , concat ( <any> , <let> ) }
+? { <vow> }
+? { and ( not ( or ( <cap> , <m0> ) ) , not ( <let> ) ) }
+? { or ( <low> , <any> ) , <any> , concat ( <m0> , <let> ) }
+? { concat ( <vow> , <any> ) , endwith ( <num> ) }
+? { repeatatleast ( endwith ( or ( <cap> , <m0> ) ) , 2 ) }
+? { repeatatleast ( endwith ( <m0> ) , 7 ) }
+? { <vow> , <low> }
+? { concat ( or ( or ( <any> , <m0> ) , <m1> ) , <low> ) }
+? { concat ( <let> , <any> ) , concat ( <m0> , <vow> ) }
+? { <let> , startwith ( <any> ) }
+? { startwith ( <let> ) }
+? { concat ( or ( or ( <cap> , <m0> ) , <low> ) , <num> ) }
+? { and ( endwith ( <low> ) , <let> ) }
+empty
+? { or ( <num> , <cap> ) }
+? { or ( or ( <vow> , <m0> ) , <low> ) }
+empty
+? { concat ( and ( <any> , <let> ) , <num> ) }
+? { concat ( or ( or ( <m0> , <let> ) , <num> ) , <m1> ) }
+? { repeatatleast ( <any> , 7 ) , concat ( <m0> , <low> ) }
+? { concat ( <num> , <let> ) }
+? { contain ( <num> ) , <any> }
+none
+? { or ( or ( <num> , <cap> ) , <low> ) }
+empty
+? { repeatatleast ( concat ( <let> , <low> ) , 2 ) }
+? { concat ( <cap> , concat ( <any> , <vow> ) ) }
+? { endwith ( repeatatleast ( <any> , 3 ) ) }
+empty
+? { repeatatleast ( concat ( <cap> , <low> ) , 3 ) }
+? { concat ( <any> , <let> ) }
+? { not ( <low> ) }
+empty
+? { repeatatleast ( concat ( <any> , <cap> ) , 6 ) }
+none
+? { concat ( repeatatleast ( <cap> , 6 ) , <m0> ) }
+? { repeatatleast ( <any> , 6 ) }
+? { endwith ( or ( <m0> , <cap> ) ) }
+? { not ( repeatatleast ( startwith ( <low> ) , 6 ) ) }
+? { <let> }
+none
+none
+? { not ( or ( <vow> , <low> ) ) }
+? { concat ( or ( <let> , <m0> ) , <m1> ) }
+empty
+? { or ( or ( <m0> , <let> ) , <vow> ) }
+empty
+? { or ( or ( <m0> , <any> ) , <low> ) }
+? { concat ( <vow> , concat ( <let> , <cap> ) ) }
+empty
+? { endwith ( <m0> ) , <any> }
+? { or ( or ( <vow> , <m0> ) , <cap> ) }
+? { startwith ( concat ( <any> , <let> ) ) }
+? { <any> }
+? { or ( <vow> , <let> ) }
+? { repeatatleast ( concat ( <num> , <low> ) , 3 ) }
+none
+? { <vow> , endwith ( <cap> ) }
+empty
+? { and ( <vow> , <low> ) }
+? { contain ( <let> ) , concat ( or ( <num> , <any> ) , <vow> ) }
+? { contain ( <num> ) , <m0> }
+? { endwith ( star ( <let> ) ) }
+? { repeatatleast ( concat ( <let> , <m0> ) , 5 ) }
+empty
+empty
+none
+none
+none
+empty
+none
+? { contain ( and ( <num> , not ( <vow> ) ) ) }
+empty
+? { repeatatleast ( not ( or ( <let> , <m0> ) ) , 2 ) }
+? { not ( contain ( repeatatleast ( endwith ( <m0> ) , 1 ) ) ) }
+? { concat ( repeatatleast ( <let> , 7 ) , <vow> ) }
+? { not ( repeatatleast ( <any> , 3 ) ) }
+none
+? { concat ( <low> , <num> ) }
+? { concat ( or ( or ( <any> , <vow> ) , <low> ) , <m0> ) }
+? { <any> , concat ( or ( <m0> , <m1> ) , <let> ) }
+none
+none
+? { repeatatleast ( concat ( <m0> , <m1> ) , 7 ) }
+empty
+none
+none
+? { concat ( <cap> , <vow> ) }
+? { or ( <vow> , <num> ) , <any> , <m0> }
+none
+none
+? { and ( <let> , <low> ) }
+? { startwith ( and ( <let> , <let> ) ) }
+empty
+? { or ( or ( <let> , <low> ) , <num> ) }
+? { concat ( <low> , concat ( <let> , <m0> ) ) }
+? { repeatatleast ( <num> , 4 ) }
+? { not ( or ( or ( <m0> , <low> ) , <cap> ) ) }
+? { contain ( <vow> ) , or ( <cap> , <let> ) }
+? { endwith ( or ( or ( <m0> , <any> ) , <m1> ) ) }
+none
+none
+? { endwith ( star ( concat ( <let> , <vow> ) ) ) }
+? { and ( not ( contain ( <m0> ) ) , <cap> ) }
+empty
+none
+? { or ( <num> , <vow> ) }
+none
+? { and ( <let> , <vow> ) }
+? { contain ( <m0> ) , <m1> }
+? { and ( startwith ( <cap> ) , contain ( <vow> ) ) }
+? { repeatatleast ( concat ( <m0> , <m1> ) , 2 ) }
+? { or ( or ( <any> , <vow> ) , <let> ) }
+none
+? { concat ( contain ( <let> ) , <num> ) }
+? { endwith ( concat ( <let> , <vow> ) ) }
+? { or ( or ( <low> , <m0> ) , <m1> ) }
+? { not ( <m0> ) }
+? { concat ( <any> , or ( <m0> , <let> ) ) }
+empty
+empty
+? { repeatatleast ( or ( <num> , <vow> ) , 1 ) }
+? { concat ( <num> , <low> ) }
+empty
+? { endwith ( <cap> ) }
+empty
+? { contain ( <any> ) , star ( <m0> ) , <let> }
+empty
+? { repeatatleast ( concat ( <num> , <any> ) , 1 ) }
+empty
+? { endwith ( concat ( <num> , <low> ) ) }
+? { concat ( <any> , <let> ) }
+none
+? { not ( startwith ( concat ( <any> , <num> ) ) ) }
+? { repeatatleast ( or ( <any> , <m0> ) , 6 ) }
+? { endwith ( or ( <vow> , <cap> ) ) }
+none
+none
+? { endwith ( <num> ) , <low> }
+? { or ( or ( <vow> , <cap> ) , <num> ) }
+none
+? { endwith ( repeatatleast ( <any> , 7 ) ) }
+? { startwith ( concat ( <cap> , <any> ) ) }
+none
+? { star ( or ( <cap> , <let> ) ) }
+none
+none
+? { <any> , and ( <m0> , or ( <m1> , <num> ) ) }
+? { <any> }
+empty
+none
+? { endwith ( concat ( <m0> , contain ( <cap> ) ) ) }
+empty
+none
+none
+none
+? { endwith ( or ( <m0> , <cap> ) ) }
+? { endwith ( concat ( <m0> , <any> ) ) }
+empty
+? { concat ( <num> , repeatatleast ( <vow> , 1 ) ) }
+none
+? { endwith ( concat ( <any> , <m0> ) ) }
+? { startwith ( <cap> ) }
+? { concat ( <any> , concat ( <vow> , <cap> ) ) }
+empty
+none
+? { concat ( or ( <m0> , <let> ) , <cap> ) }
+? { endwith ( <vow> ) , <any> , <m0> }
+none
+? { concat ( <m0> , concat ( <m1> , <vow> ) ) }
+? { concat ( <vow> , <cap> ) }
+? { concat ( <any> , concat ( <m0> , <let> ) ) }
+empty
+empty
+empty
+? { concat ( <low> , or ( or ( <num> , <m0> ) , <any> ) ) }
+? { contain ( concat ( <m0> , <m1> ) ) }
+none
+none
+? { concat ( <let> , repeatatleast ( <low> , 4 ) ) }
+? { <let> , and ( <m0> , <cap> ) }
+none
+none
+? { concat ( <num> , <vow> ) }
+empty
+empty
+none
+none
+? { star ( <any> ) , <m0> }
+none
+? { concat ( <vow> , concat ( <any> , <cap> ) ) }
+? { or ( <num> , <any> ) , not ( <vow> ) }
+none
+none
+? { or ( or ( <vow> , <any> ) , <cap> ) }
+empty
+? { <let> }
+none
+? { concat ( <let> , <cap> ) }
+none
+? { startwith ( repeatatleast ( <low> , 7 ) ) }
+? { repeatatleast ( concat ( <num> , <vow> ) , 7 ) }
+empty
+? { not ( endwith ( or ( <vow> , <num> ) ) ) }
+none
+? { not ( or ( or ( <m0> , <any> ) , <let> ) ) }
+empty
+? { <m0> }
+none
+? { concat ( <num> , <any> ) }
+empty
+empty
+empty
+none
+none
+? { concat ( <num> , <let> ) }
+empty
+empty
+empty
+? { not ( <let> ) , <cap> }
+? { contain ( star ( <m0> ) ) , <any> }
+? { concat ( <num> , concat ( <cap> , <m0> ) ) }
+none
+? { concat ( <vow> , <low> ) }
+? { concat ( or ( <vow> , <num> ) , <m0> ) }
+none
+? { or ( <any> , <cap> ) , <m0> }
+? { or ( <low> , <vow> ) }
+? { endwith ( concat ( <num> , <cap> ) ) }
+empty
+? { concat ( or ( or ( <m0> , <m1> ) , <m2> ) , <m3> ) }
+? { contain ( <let> ) , or ( <num> , <m0> ) }
+none
+empty
+? { or ( or ( <let> , <m0> ) , <cap> ) }
+? { or ( <any> , <let> ) }
+empty
+empty
+? { concat ( <cap> , concat ( <let> , <low> ) ) }
+empty
+empty
+? { concat ( repeatatleast ( <low> , 2 ) , <num> ) }
+none
+? { concat ( <m0> , repeatatleast ( <num> , 1 ) ) }
+? { repeatatleast ( concat ( <cap> , <vow> ) , 7 ) }
+empty
+empty
+? { concat ( <low> , or ( <vow> , <cap> ) ) }
+? { repeatatleast ( or ( <num> , <any> ) , 6 ) }
+none
+? { concat ( and ( <low> , <vow> ) , <any> ) }
+? { <num> , concat ( <let> , <any> ) }
+? { repeatatleast ( <m0> , 1 ) }
+? { concat ( repeatatleast ( <cap> , 5 ) , <let> ) }
+? { or ( or ( <vow> , <any> ) , <m0> ) }
+? { concat ( repeatatleast ( <let> , 2 ) , <cap> ) }
+none
+empty
+? { repeatatleast ( <num> , 3 ) }
+none
+? { endwith ( or ( <m0> , <m1> ) ) }
+? { contain ( concat ( <let> , <m0> ) ) }
+none
+none
+empty
+? { concat ( <m0> , concat ( <num> , <m1> ) ) }
+empty
+none
+? { contain ( and ( <m0> , <any> ) ) }
+none
+empty
+none
+none
+? { contain ( repeatatleast ( or ( <any> , <cap> ) , 5 ) ) }
+empty
+empty
+? { and ( <m0> , <m1> ) , <num> }
+? { contain ( concat ( <any> , <cap> ) ) }
+? { and ( startwith ( <let> ) , not ( <any> ) ) }
+? { startwith ( or ( <any> , <num> ) ) , <any> , or ( <m0> , <let> ) }
+empty
+empty
+? { star ( or ( <vow> , <low> ) ) }
+? { not ( <vow> ) , or ( <any> , <let> ) }
+? { concat ( <vow> , <cap> ) }
+? { contain ( repeatatleast ( or ( <low> , <m0> ) , 1 ) ) }
+? { <num> , concat ( <any> , <let> ) }
+? { or ( or ( <vow> , <m0> ) , <any> ) }
+? { endwith ( <vow> ) , <let> }
+? { endwith ( repeatatleast ( or ( <vow> , <num> ) , 1 ) ) }
+none
+none
+? { concat ( <vow> , <any> ) }
+empty
+? { endwith ( or ( <let> , <num> ) ) }
+empty
+none
+none
+none
+? { concat ( startwith ( <low> ) , <cap> ) , <any> , <m0> }
+none
+none
+none
+? { endwith ( repeatatleast ( <let> , 2 ) ) }
+none
+? { concat ( <any> , <any> ) , or ( <m1> , <low> ) }
+none
+none
+? { not ( <m0> ) , not ( or ( or ( <cap> , <m1> ) , <m2> ) ) }
+empty
+none
+? { concat ( <m0> , concat ( <num> , <cap> ) ) }
+empty
+none
+? { concat ( <vow> , or ( <num> , <m0> ) ) }
+? { concat ( <vow> , <low> ) }
+? { concat ( <m0> , <any> ) }
+empty
+? { concat ( or ( or ( <m0> , <vow> ) , <m1> ) , <m2> ) }
+? { concat ( <vow> , <let> ) }
+none
+empty
+? { endwith ( repeatatleast ( <m0> , 1 ) ) }
+none
+? { repeatatleast ( or ( <let> , <num> ) , 2 ) }
+? { <num> }
+? { repeatatleast ( concat ( <let> , <any> ) , 7 ) }
+? { not ( <any> ) , repeatatleast ( <m0> , 4 ) }
+? { repeatatleast ( or ( <m0> , <any> ) , 4 ) }
+? { not ( or ( or ( <num> , <vow> ) , <any> ) ) }
+? { repeatatleast ( <num> , 6 ) , and ( <m0> , <let> ) }
+? { endwith ( <m0> ) }
+empty
+none
+none
+empty
+? { concat ( repeatatleast ( <any> , 7 ) , <m0> ) }
+empty
+empty
+empty
+empty
+? { <any> , <m0> , startwith ( <any> ) , <m1> }
+empty
+? { and ( startwith ( <any> ) , star ( <let> ) ) }
+? { or ( or ( <m0> , <any> ) , <vow> ) }
+? { <any> , or ( <m0> , <low> ) }
+? { or ( <let> , <vow> ) }
+? { <m0> }
+? { and ( endwith ( <any> ) , startwith ( <m0> ) ) }
+none
+? { or ( <let> , <cap> ) }
+? { contain ( <any> ) , concat ( <m0> , <num> ) }
+? { concat ( or ( <low> , <let> ) , <cap> ) }
+none
+? { or ( or ( <m0> , <any> ) , <let> ) }
+? { or ( or ( <m0> , <low> ) , <let> ) }
+? { <m0> , not ( and ( <let> , not ( <m1> ) ) ) }
+? { or ( <m0> , <any> ) }
+empty
+? { contain ( or ( <low> , <m0> ) ) }
+? { and ( <low> , <vow> ) }
+none
+none
+empty
+? { <any> , <m0> , <let> }
+none
+? { startwith ( not ( or ( <cap> , <low> ) ) ) }
+none
+empty
+empty
+? { repeatatleast ( contain ( concat ( <any> , <m0> ) ) , 3 ) }
+none
+? { concat ( or ( or ( <m0> , <num> ) , <m1> ) , <low> ) }
+none
+empty
+none
+empty
+? { <cap> }
+? { contain ( <cap> ) , or ( <any> , <num> ) }
+? { concat ( <let> , <vow> ) }
+? { star ( <low> ) }
+? { and ( <any> , <let> ) }
+empty
+? { repeatatleast ( or ( <m0> , <any> ) , 6 ) }
+none
+empty
+? { <any> , <num> , <vow> }
+none
+empty
+none
+? { repeatatleast ( <vow> , 1 ) }
+? { repeatatleast ( <m0> , 4 ) }
+? { concat ( repeatatleast ( <let> , 2 ) , <low> ) }
+none
+? { concat ( not ( endwith ( <num> ) ) , <low> ) }
+none
+none
+empty
+? { repeatatleast ( <cap> , 4 ) }
+? { endwith ( <vow> ) }
+? { contain ( or ( <vow> , <let> ) ) }
+? { and ( <num> , <let> ) }
+none
+? { endwith ( repeatatleast ( <vow> , 2 ) ) }
+? { or ( <low> , <any> ) }
+? { startwith ( <low> ) , contain ( <num> ) }
+? { concat ( contain ( <let> ) , <m0> ) }
+? { repeatatleast ( <vow> , 5 ) , endwith ( <num> ) }
+? { star ( or ( <num> , <low> ) ) }
+none
+none
+? { endwith ( not ( and ( <vow> , <low> ) ) ) }
+? { not ( <num> ) }
+? { star ( <m0> ) }
+? { concat ( <vow> , <num> ) }
+? { concat ( <m0> , or ( <m1> , <any> ) ) }
+? { repeatatleast ( or ( <num> , <let> ) , 2 ) }
+? { not ( <num> ) , <any> , concat ( <m0> , <let> ) }
+none
+? { repeatatleast ( repeatatleast ( or ( <m0> , <m1> ) , 1 ) , 1 ) }
+? { startwith ( repeatatleast ( <any> , 5 ) ) }
+? { <vow> }
+? { contain ( or ( or ( <m0> , <num> ) , <cap> ) ) }
+? { not ( or ( or ( <vow> , <low> ) , <let> ) ) }
+none
+none
+? { repeatatleast ( <m0> , 2 ) }
+? { concat ( <low> , concat ( <num> , <any> ) ) }
+? { or ( <m0> , <m1> ) }
+empty
+? { or ( or ( <low> , <m0> ) , <m1> ) , <any> }
+? { endwith ( <let> ) }
+none
+? { <m0> , or ( <low> , <m1> ) }
+none
+? { startwith ( <cap> ) }
+? { concat ( repeatatleast ( <m0> , 4 ) , <low> ) }
+? { repeatatleast ( concat ( <vow> , <low> ) , 5 ) }
+? { or ( <cap> , <any> ) }
+empty
+none
+? { endwith ( repeatatleast ( or ( <low> , <num> ) , 1 ) ) }
+? { concat ( <m0> , or ( or ( <num> , <low> ) , <vow> ) ) }
+empty
+empty
+? { <num> }
+? { concat ( repeatatleast ( <cap> , 3 ) , <m0> ) }
+? { repeatatleast ( startwith ( concat ( <let> , <m0> ) ) , 5 ) }
+none
+none
+? { <let> }
+none
+empty
+? { endwith ( <low> ) }
+none
+? { repeatatleast ( or ( <let> , <any> ) , 1 ) }
+empty
+? { concat ( <num> , or ( <any> , <m0> ) ) }
+? { star ( <cap> ) , endwith ( <low> ) }
+none
+? { not ( contain ( and ( <num> , not ( <m0> ) ) ) ) }
+none
+none
+? { <let> }
+none
+? { <any> , star ( or ( or ( <m0> , <let> ) , <low> ) ) }
+? { not ( startwith ( <any> ) ) }
+? { concat ( <cap> , endwith ( <m0> ) ) }
+empty
+empty
+none
+none
+empty
+none
+empty
+? { concat ( repeatatleast ( <vow> , 3 ) , <num> ) }
+none
+none
+none
+? { and ( not ( <let> ) , endwith ( <low> ) ) }
+empty
+? { or ( or ( <any> , <num> ) , <m0> ) }
+? { concat ( startwith ( <m0> ) , <low> ) }
+none
+? { contain ( <let> ) }
+none
+? { contain ( concat ( <low> , <vow> ) ) }
+empty
+? { contain ( <let> ) , or ( or ( <m0> , <vow> ) , <m1> ) }
+? { concat ( <low> , concat ( <any> , <cap> ) ) }
+none
+none
+empty
+? { concat ( <cap> , <num> ) }
+? { concat ( repeatatleast ( <vow> , 7 ) , <m0> ) }
+? { <num> , repeatatleast ( <any> , 1 ) }
+? { concat ( <any> , or ( <num> , <cap> ) ) }
+? { <any> , <cap> }
+? { not ( repeatatleast ( <m0> , 5 ) ) }
+? { not ( startwith ( <cap> ) ) }
+empty
+? { star ( or ( <cap> , <vow> ) ) }
+? { endwith ( and ( <any> , <any> ) ) , <m0> }
+none
+? { contain ( or ( <vow> , <any> ) ) }
+? { concat ( <low> , <vow> ) }
+none
+? { or ( or ( <num> , <any> ) , <let> ) }
+? { or ( or ( <vow> , <m0> ) , <any> ) }
+? { <m0> , or ( <m1> , <let> ) , <m2> }
+? { or ( or ( <cap> , <vow> ) , <m0> ) }
+? { concat ( contain ( <m0> ) , endwith ( <m1> ) ) }
+? { repeatatleast ( or ( <num> , <any> ) , 5 ) }
+? { contain ( <vow> ) , <cap> }
+? { concat ( <vow> , or ( <m0> , <low> ) ) }
+none
+none
+empty
+none
+none
+empty
+none
+? { concat ( <cap> , concat ( <any> , <num> ) ) }
+empty
+none
+none
+? { startwith ( <low> ) }
+? { repeatatleast ( concat ( <m0> , <let> ) , 4 ) }
+none
+? { contain ( endwith ( concat ( <cap> , <let> ) ) ) }
+empty
+none
+? { not ( <vow> ) , not ( and ( <m0> , not ( <let> ) ) ) }
+? { and ( not ( <let> ) , startwith ( <low> ) ) }
+? { or ( or ( <any> , <m0> ) , <low> ) }
+none
+none
+? { concat ( <m0> , or ( <vow> , <m1> ) ) }
+? { contain ( <cap> ) , and ( <vow> , <any> ) }
+? { and ( <let> , <any> ) }
+empty
+none
+? { concat ( <let> , <any> ) , or ( or ( <m0> , <m1> ) , <m2> ) }
+? { not ( <vow> ) }
+empty
+none
+? { or ( <num> , <any> ) }
+? { and ( <any> , <any> ) , <m0> , <num> }
+? { <m0> }
+? { star ( <num> ) }
+none
+? { concat ( <any> , concat ( <num> , <vow> ) ) }
+empty
+? { <any> , repeatatleast ( <m0> , 7 ) , contain ( <vow> ) }
+none
+? { concat ( or ( or ( <vow> , <cap> ) , <let> ) , <m0> ) }
+? { <let> }
+none
+? { <let> , or ( or ( <m0> , <low> ) , <cap> ) }
+none
+none
+? { startwith ( concat ( <m0> , repeatatleast ( <low> , 1 ) ) ) }
+empty
+none
+empty
+? { not ( startwith ( concat ( <m0> , <let> ) ) ) }
+? { repeatatleast ( <low> , 1 ) , <let> , <any> , <m0> }
+none
+empty
+none
+? { concat ( repeatatleast ( <cap> , 2 ) , <vow> ) }
+none
+? { and ( or ( <let> , <any> ) , <vow> ) }
+? { endwith ( repeatatleast ( <cap> , 3 ) ) }
+none
+? { concat ( <any> , concat ( <low> , <num> ) ) }
+? { concat ( star ( <low> ) , <any> ) }
+? { repeatatleast ( <num> , 1 ) , <m0> }
+? { star ( <num> ) , startwith ( <any> ) }
+none
+? { <m0> , <vow> }
+? { endwith ( or ( <m0> , <any> ) ) }
+none
+? { concat ( and ( <any> , <vow> ) , <cap> ) }
+? { concat ( <let> , and ( <vow> , <low> ) ) }
+? { not ( repeatatleast ( <let> , 4 ) ) }
+? { contain ( <m0> ) , repeatatleast ( <vow> , 5 ) }
+? { concat ( or ( <m0> , <let> ) , <m1> ) }
+empty
+none
+? { concat ( or ( or ( <let> , <m0> ) , <m1> ) , <m2> ) }
+? { or ( or ( <let> , <low> ) , <num> ) }
+empty
+empty
+? { startwith ( <any> ) }
+none
+? { <any> }
+? { contain ( repeatatleast ( <vow> , 2 ) ) }
+? { concat ( and ( <low> , <let> ) , <num> ) }
+? { or ( <any> , <cap> ) , <m0> }
+none
+? { concat ( <any> , or ( or ( <m0> , <num> ) , <vow> ) ) }
+none
+? { not ( star ( endwith ( <low> ) ) ) }
+? { concat ( <any> , <low> ) , <any> , <m0> }
+? { concat ( <m0> , <m1> ) , concat ( <m2> , <any> ) }
+? { concat ( <any> , <m0> ) }
+empty
+? { or ( <m0> , <m1> ) }
+none
+? { <any> , or ( or ( <m0> , <cap> ) , <num> ) , <let> }
+? { repeatatleast ( <any> , 1 ) , startwith ( <low> ) }
+? { startwith ( star ( concat ( <let> , <num> ) ) ) }
+none
+empty
+? { repeatatleast ( <let> , 1 ) }
+? { startwith ( repeatatleast ( <any> , 6 ) ) }
+? { concat ( <num> , <let> ) }
+? { startwith ( and ( <m0> , <m1> ) ) }
+? { concat ( <low> , <any> ) , <any> , <m0> }
+none
+none
+none
+? { endwith ( or ( <m0> , <any> ) ) }
+? { concat ( <any> , repeatatleast ( <m0> , 5 ) ) }
+? { <let> , not ( <low> ) }
+? { not ( and ( <num> , <m0> ) ) }
+none
+? { startwith ( <num> ) }
+none
+? { repeatatleast ( <num> , 2 ) }
+? { concat ( <cap> , <m0> ) }
+? { <let> }
+none
+none
+? { concat ( <num> , concat ( <m0> , <any> ) ) }
+? { repeatatleast ( concat ( <m0> , <cap> ) , 3 ) }
+? { endwith ( repeatatleast ( or ( <let> , <m0> ) , 1 ) ) }
+? { contain ( or ( or ( <any> , <vow> ) , <m0> ) ) }
+empty
+none
+? { endwith ( <vow> ) }
+none
+? { startwith ( <any> ) , and ( <m0> , <any> ) , <m1> , <num> }
+? { startwith ( star ( <any> ) ) }
+? { endwith ( <num> ) , <any> , <m0> }
+? { concat ( startwith ( <any> ) , and ( <let> , <cap> ) ) }
+empty
+? { repeatatleast ( <cap> , 6 ) , concat ( <low> , <m0> ) }
+? { or ( <m0> , <num> ) }
+? { or ( <m0> , <vow> ) }
+empty
+none
+? { repeatatleast ( <let> , 7 ) , <m0> , <any> }
+? { concat ( <let> , <m0> ) }
+? { concat ( repeatatleast ( <vow> , 6 ) , <m0> ) }
+? { and ( contain ( <any> ) , endwith ( <let> ) ) }
+? { star ( concat ( <let> , <low> ) ) }
+? { concat ( <let> , <any> ) }
+empty
+empty
+? { or ( <any> , <vow> ) , <any> , concat ( <m0> , <m1> ) }
+? { endwith ( concat ( <let> , <low> ) ) }
+? { concat ( <let> , <num> ) }
+none
+empty
+none
+none
+none
+? { concat ( <vow> , <let> ) }
+? { or ( or ( <m0> , <low> ) , <m1> ) }
+none
+? { concat ( <any> , or ( <vow> , <let> ) ) }
+none
+empty
+empty
+? { concat ( or ( <num> , <m0> ) , <any> ) }
+? { concat ( or ( <let> , <cap> ) , <m0> ) }
+none
+none
+none
+empty
+none
+none
+? { <any> }
+empty
+? { <m0> }
+none
+none
+? { repeatatleast ( endwith ( <m0> ) , 2 ) }
+? { <m0> }
+? { not ( startwith ( <low> ) ) }
+? { endwith ( <any> ) }
+? { endwith ( concat ( <let> , <low> ) ) }
+empty
+? { <let> , <vow> , <m0> }
+empty
+? { concat ( or ( <let> , <num> ) , <any> ) }
+? { contain ( or ( or ( <vow> , <cap> ) , <m0> ) ) }
+? { concat ( <low> , <cap> ) }
+none
+? { concat ( or ( <let> , <num> ) , <vow> ) }
+empty
+? { endwith ( and ( <num> , <any> ) ) , concat ( <m0> , <any> ) }
+empty
+? { not ( or ( or ( <cap> , <vow> ) , <m0> ) ) }
+empty
+? { or ( or ( <let> , <cap> ) , <vow> ) }
+empty
+? { endwith ( <num> ) }
+none
+none
+none
+? { endwith ( <low> ) , and ( <m0> , <m1> ) }
+? { contain ( <m0> ) , repeatatleast ( <num> , 3 ) }
+? { or ( <any> , <vow> ) }
+? { not ( or ( or ( <vow> , <cap> ) , <num> ) ) }
+empty
+empty
+? { concat ( concat ( <any> , <vow> ) , <m0> ) }
+? { concat ( <num> , <low> ) }
+? { concat ( <low> , <num> ) }
+? { not ( contain ( or ( or ( <low> , <m0> ) , <any> ) ) ) }
+? { concat ( <vow> , concat ( <m0> , <num> ) ) }
+empty
+? { <any> , <m0> , repeatatleast ( <any> , 1 ) }
+none
+? { contain ( <vow> ) , <m0> }
+? { concat ( <num> , or ( <vow> , <let> ) ) }
+empty
+? { endwith ( star ( or ( <any> , <num> ) ) ) }
+none
+none
+? { not ( repeatatleast ( <m0> , 2 ) ) }
+? { concat ( <cap> , <num> ) }
+none
+? { or ( or ( <any> , <cap> ) , <m0> ) }
+? { and ( <vow> , <cap> ) }
+? { endwith ( <m0> ) , <let> }
+? { concat ( or ( or ( <let> , <m0> ) , <vow> ) , <num> ) }
+? { or ( <let> , <any> ) }
+empty
+empty
+empty
+? { concat ( not ( <m0> ) , repeatatleast ( <vow> , 4 ) ) }
+? { <low> , or ( or ( <let> , <m0> ) , <m1> ) }
+empty
+empty
+? { <any> , <let> }
+none
+? { concat ( <num> , <any> ) }
+none
+empty
+? { repeatatleast ( <let> , 6 ) }
+none
+empty
+none
+empty
+? { contain ( <any> ) }
+? { <m0> }
+? { endwith ( <vow> ) }
+? { not ( contain ( or ( <let> , <m0> ) ) ) }
+? { concat ( <cap> , <num> ) }
+? { concat ( or ( <cap> , <vow> ) , <let> ) }
+empty
+? { concat ( repeatatleast ( <let> , 4 ) , <num> ) }
+? { endwith ( concat ( <num> , <cap> ) ) }
+empty
+none
+? { concat ( or ( or ( <low> , <m0> ) , <vow> ) , <cap> ) }
+? { repeatatleast ( <any> , 6 ) }
+? { <let> , <any> , <m0> , star ( <low> ) }
+? { <any> , and ( <vow> , <low> ) }
+? { not ( <vow> ) , <any> }
+? { <let> }
+none
+? { <vow> }
+empty
+empty
+none
+empty
+? { concat ( <m0> , and ( <low> , <any> ) ) }
+? { concat ( star ( <low> ) , <vow> ) }
+? { concat ( repeatatleast ( <cap> , 2 ) , <let> ) }
+? { star ( <any> ) }
+empty
+empty
+? { concat ( <m0> , concat ( <low> , <num> ) ) }
+? { startwith ( <any> ) , <m0> , <num> }
+none
+none
+? { contain ( <let> ) , concat ( <vow> , <any> ) }
+none
+? { concat ( <num> , or ( or ( <m0> , <m1> ) , <m2> ) ) }
+? { or ( <cap> , <m0> ) }
+? { startwith ( <any> ) , <m0> , <num> , <any> , <m1> }
+none
+none
+? { or ( <m0> , <vow> ) }
+none
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <vow> ) ) }
+empty
+empty
+none
+? { <let> , <num> , <vow> }
+none
+? { startwith ( concat ( <num> , <any> ) ) }
+? { or ( <any> , <cap> ) }
+? { not ( <low> ) , not ( <let> ) }
+? { and ( <low> , <vow> ) }
+none
+empty
+none
+? { <let> , or ( <any> , <cap> ) }
+empty
+? { or ( or ( <vow> , <num> ) , <low> ) , <any> , <m0> }
+none
+? { contain ( star ( <num> ) ) }
+? { endwith ( star ( <low> ) ) , <num> }
+? { concat ( <m0> , <let> ) , <num> }
+? { <low> , <any> , or ( <m0> , <let> ) }
+empty
+? { star ( concat ( <let> , <low> ) ) }
+empty
+? { concat ( <m0> , <m1> ) }
+none
+? { repeatatleast ( <m0> , 6 ) , <low> }
+? { or ( or ( <vow> , <low> ) , <any> ) }
+? { concat ( <let> , repeatatleast ( <num> , 1 ) ) }
+none
+empty
+none
+empty
+empty
+? { contain ( contain ( repeatatleast ( <vow> , 1 ) ) ) , <any> , <m0> }
+none
+? { or ( or ( <m0> , <m1> ) , <m2> ) }
+? { concat ( <any> , <m0> ) }
+? { endwith ( concat ( <num> , <vow> ) ) }
+? { <let> }
+? { concat ( <m0> , <m1> ) }
+? { contain ( or ( <cap> , <m0> ) ) }
+? { <any> }
+? { concat ( repeatatleast ( <low> , 7 ) , <num> ) }
+? { or ( <low> , <any> ) }
+? { endwith ( or ( <cap> , <any> ) ) }
+? { not ( <vow> ) }
+? { repeatatleast ( <any> , 4 ) }
+empty
+? { startwith ( not ( <m0> ) ) , <any> , <m1> }
+none
+? { not ( <let> ) , <any> , or ( <m0> , <vow> ) }
+? { <vow> , <low> }
+? { concat ( <cap> , contain ( <let> ) ) }
+empty
+none
+empty
+? { startwith ( repeatatleast ( <num> , 5 ) ) }
+? { not ( <m0> ) , endwith ( <cap> ) }
+empty
+? { contain ( repeatatleast ( or ( <any> , <low> ) , 2 ) ) }
+empty
+none
+? { <any> , not ( or ( <m0> , <m1> ) ) }
+? { or ( or ( <let> , <any> ) , <num> ) }
+empty
+none
+? { concat ( <vow> , or ( <num> , <let> ) ) }
+? { repeatatleast ( or ( <low> , <vow> ) , 6 ) }
+? { concat ( or ( or ( <m0> , <num> ) , <m1> ) , <m2> ) }
+none
+? { <low> , <let> }
+? { repeatatleast ( or ( <vow> , <num> ) , 4 ) }
+? { concat ( <num> , or ( or ( <cap> , <any> ) , <vow> ) ) }
+empty
+empty
+empty
+? { concat ( <cap> , <m0> ) }
+? { not ( concat ( or ( <m0> , <m1> ) , <low> ) ) }
+? { endwith ( star ( <low> ) ) }
+none
+? { or ( or ( <m0> , <let> ) , <any> ) }
+? { concat ( <vow> , <any> ) }
+? { endwith ( concat ( <vow> , <num> ) ) }
+? { startwith ( concat ( <cap> , <let> ) ) }
+? { contain ( concat ( <let> , or ( or ( <any> , <m0> ) , <low> ) ) ) }
+empty
+? { <let> }
+none
+? { startwith ( or ( <m0> , <cap> ) ) }
+? { startwith ( <vow> ) }
+? { startwith ( endwith ( <cap> ) ) }
+empty
+none
+? { repeatatleast ( or ( <low> , <vow> ) , 6 ) }
+? { concat ( <m0> , <any> ) }
+none
+? { repeatatleast ( <let> , 5 ) }
+? { star ( <let> ) }
+none
+? { concat ( and ( <any> , <let> ) , <vow> ) }
+none
+? { repeatatleast ( concat ( <num> , <cap> ) , 5 ) }
+? { concat ( <any> , <let> ) }
+none
+empty
+empty
+none
+? { and ( <let> , <low> ) }
+? { endwith ( concat ( <vow> , <cap> ) ) }
+none
+? { concat ( <low> , concat ( <m0> , repeatatleast ( <m1> , 1 ) ) ) }
+? { and ( contain ( <m0> ) , concat ( <any> , <vow> ) ) }
+none
+? { concat ( <m0> , or ( or ( <m1> , <let> ) , <vow> ) ) }
+none
+? { concat ( <m0> , <vow> ) }
+? { concat ( or ( <num> , <low> ) , <any> ) }
+? { endwith ( or ( <any> , <low> ) ) }
+none
+? { or ( or ( <m0> , <num> ) , <any> ) }
+? { startwith ( <m0> ) , not ( <m1> ) }
+? { repeatatleast ( or ( <let> , <cap> ) , 1 ) }
+empty
+none
+? { startwith ( concat ( <m0> , <m1> ) ) }
+none
+? { endwith ( <low> ) }
+? { <let> }
+? { or ( <m0> , <m1> ) }
+none
+? { endwith ( <m0> ) }
+none
+none
+? { contain ( repeatatleast ( or ( <m0> , <num> ) , 1 ) ) }
+none
+empty
+none
+? { and ( <low> , <vow> ) }
+none
+? { endwith ( repeatatleast ( <num> , 1 ) ) }
+none
+? { <m0> , or ( <num> , <any> ) , <m1> }
+? { not ( endwith ( repeatatleast ( <low> , 1 ) ) ) }
+? { <m0> }
+empty
+? { concat ( <vow> , repeatatleast ( <cap> , 1 ) ) }
+? { not ( concat ( <vow> , <num> ) ) }
+? { contain ( concat ( <num> , repeatatleast ( <cap> , 4 ) ) ) }
+none
+? { concat ( or ( or ( <m0> , <m1> ) , <any> ) , <low> ) }
+none
+? { concat ( <m0> , repeatatleast ( endwith ( <vow> ) , 3 ) ) }
+none
+empty
+? { or ( or ( <m0> , <m1> ) , <m2> ) }
+? { or ( or ( <num> , <cap> ) , <vow> ) }
+? { <low> , or ( or ( <vow> , <m0> ) , <m1> ) }
+? { and ( <vow> , <let> ) }
+empty
+? { and ( <let> , concat ( <vow> , <any> ) ) , <m0> }
+? { concat ( <cap> , repeatatleast ( <any> , 1 ) ) }
+? { concat ( <m0> , or ( <low> , <num> ) ) }
+? { concat ( concat ( <low> , <m0> ) , <num> ) }
+none
+? { repeatatleast ( <any> , 3 ) , <m0> , <any> }
+? { endwith ( concat ( <m0> , <m1> ) ) }
+? { endwith ( star ( or ( <let> , <vow> ) ) ) }
+? { concat ( <cap> , <num> ) }
+none
+? { <m0> , <any> , or ( <m1> , <low> ) }
+? { endwith ( concat ( <vow> , <let> ) ) }
+? { <any> , <m0> , or ( <any> , <vow> ) }
+empty
+? { concat ( <let> , concat ( <num> , or ( <m0> , <m1> ) ) ) }
+? { endwith ( repeatatleast ( <low> , 1 ) ) }
+? { concat ( <num> , <any> ) }
+? { concat ( <any> , concat ( <let> , <low> ) ) }
+empty
+empty
+? { concat ( or ( <any> , <cap> ) , <vow> ) }
+none
+? { endwith ( concat ( <m0> , <num> ) ) }
+? { <m0> , endwith ( repeatatleast ( <m1> , 1 ) ) }
+? { concat ( <m0> , <low> ) }
+? { or ( <num> , <cap> ) }
+? { repeatatleast ( <any> , 4 ) }
+? { concat ( <low> , repeatatleast ( <vow> , 1 ) ) }
+? { concat ( <m0> , or ( <let> , <m1> ) ) }
+? { concat ( <cap> , concat ( <any> , <num> ) ) }
+? { concat ( startwith ( <cap> ) , <m0> ) }
+none
+empty
+? { contain ( repeatatleast ( <cap> , 2 ) ) }
+none
+empty
+none
+none
+? { or ( <let> , <any> ) }
+? { or ( <let> , <m0> ) }
+? { repeatatleast ( concat ( <num> , endwith ( <let> ) ) , 1 ) }
+none
+none
+? { or ( or ( or ( <m0> , <vow> ) , <cap> ) , <m1> ) }
+? { repeatatleast ( or ( <num> , <m0> ) , 1 ) }
+? { and ( <vow> , <cap> ) }
+? { <vow> , <low> , <num> }
+? { contain ( or ( <any> , <m0> ) ) , <low> }
+? { concat ( <let> , <m0> ) }
+? { <cap> , <num> , <any> }
+? { concat ( <cap> , <m0> ) , repeatatleast ( <m1> , 1 ) }
+? { endwith ( <let> ) }
+? { concat ( or ( <low> , <num> ) , <any> ) }
+none
+? { not ( <let> ) , <any> , <m0> }
+? { endwith ( contain ( repeatatleast ( <let> , 1 ) ) ) }
+? { <any> , repeatatleast ( <m0> , 1 ) , <num> }
+? { endwith ( <num> ) }
+? { concat ( and ( <let> , <any> ) , <m0> ) }
+? { or ( or ( <cap> , <any> ) , <num> ) }
+none
+? { endwith ( <let> ) , <let> }
+? { <let> }
+? { concat ( <low> , concat ( <let> , <any> ) ) }
+? { <vow> }
+? { concat ( <any> , concat ( <num> , <low> ) ) }
+? { or ( <low> , <any> ) }
+? { endwith ( repeatatleast ( <num> , 1 ) ) }
+none
+none
+? { concat ( <any> , <num> ) }
+? { contain ( <m0> ) , <any> , and ( <m1> , <num> ) }
+? { not ( <cap> ) , not ( <vow> ) }
+? { not ( endwith ( concat ( <low> , <m0> ) ) ) }
+none
+? { concat ( <m0> , <any> ) , endwith ( <cap> ) }
+? { concat ( or ( or ( <vow> , <low> ) , <num> ) , <m0> ) }
+? { concat ( and ( <low> , <vow> ) , <let> ) }
+none
+? { and ( <m0> , <any> ) }
+? { or ( or ( <m0> , <num> ) , <cap> ) }
+? { endwith ( <any> ) , and ( <m0> , or ( <vow> , <any> ) ) }
+? { repeatatleast ( <let> , 1 ) , <any> , concat ( <m0> , <let> ) }
+? { concat ( <cap> , <vow> ) }
+? { <any> , concat ( or ( <m0> , <cap> ) , <any> ) , <m1> }
+? { concat ( <cap> , <let> ) }
+none
+? { concat ( <low> , concat ( <cap> , <m0> ) ) }
+? { star ( <low> ) }
+empty
+empty
+none
+none
+? { concat ( <low> , or ( or ( <m0> , <m1> ) , <let> ) ) }
+? { concat ( repeatatleast ( <vow> , 5 ) , <m0> ) }
+none
+? { <let> }
+? { concat ( <low> , <any> ) }
+? { star ( or ( <num> , <m0> ) ) }
+? { <cap> , or ( or ( <m0> , <num> ) , <m1> ) }
+? { and ( startwith ( <any> ) , <let> ) }
+empty
+? { repeatatleast ( <let> , 4 ) }
+none
+empty
+? { repeatatleast ( <cap> , 5 ) }
+none
+? { contain ( concat ( repeatatleast ( <low> , 1 ) , <any> ) ) }
+? { startwith ( <let> ) }
+? { or ( or ( <any> , <vow> ) , <m0> ) }
+none
+? { contain ( concat ( <vow> , <m0> ) ) }
+? { concat ( <cap> , <any> ) }
+? { not ( <vow> ) , not ( and ( <low> , <num> ) ) }
+? { <let> }
+empty
+none
+empty
+? { or ( or ( <vow> , <any> ) , <num> ) }
+? { not ( <vow> ) , <any> , <m0> }
+? { repeatatleast ( or ( <cap> , <num> ) , 7 ) }
+none
+? { or ( or ( <num> , <vow> ) , <m0> ) }
+empty
+? { <any> }
+none
+empty
+none
+? { contain ( and ( <any> , <m0> ) ) }
+? { and ( <any> , and ( <m1> , <num> ) ) }
+empty
+? { concat ( <m0> , concat ( <m1> , <let> ) ) }
+? { <cap> , and ( <num> , <m0> ) }
+? { endwith ( <let> ) }
+? { concat ( <m0> , <num> ) }
+? { concat ( or ( <low> , <any> ) , <m0> ) }
+empty
+? { or ( or ( <num> , <let> ) , <any> ) }
+? { concat ( startwith ( <m0> ) , <m1> ) }
+? { <let> }
+none
+? { concat ( or ( <vow> , <let> ) , <low> ) }
+? { concat ( repeatatleast ( <low> , 7 ) , <any> ) }
+none
+empty
+none
+none
+none
+empty
+? { <cap> , <any> , or ( <m0> , <vow> ) }
+empty
+? { concat ( startwith ( <vow> ) , <m0> ) }
+? { contain ( <m0> ) , or ( <cap> , <any> ) }
+none
+? { or ( or ( <any> , <let> ) , <m0> ) }
+? { concat ( <m0> , concat ( <low> , <cap> ) ) }
+? { not ( <num> ) , not ( and ( <let> , not ( <m0> ) ) ) }
+? { concat ( <m0> , <vow> ) , concat ( <let> , <cap> ) }
+? { <any> , <num> }
+? { startwith ( and ( <low> , <let> ) ) }
+none
+? { startwith ( repeatatleast ( concat ( <m0> , <cap> ) , 5 ) ) }
+none
+? { <m0> , <let> , <vow> }
+none
+? { concat ( <num> , concat ( <vow> , <any> ) ) }
+empty
+empty
+? { star ( <low> ) }
+none
+? { not ( <let> ) }
+? { concat ( <let> , and ( <cap> , <vow> ) ) }
+? { repeatatleast ( or ( <let> , <num> ) , 5 ) }
+? { or ( <let> , <any> ) }
+? { repeatatleast ( concat ( <vow> , <any> ) , 2 ) }
+? { concat ( or ( or ( <cap> , <let> ) , <m0> ) , <m1> ) }
+? { concat ( or ( <any> , <vow> ) , <let> ) }
+? { endwith ( <low> ) }
+? { repeatatleast ( <vow> , 2 ) }
+? { concat ( <let> , <cap> ) }
+none
+? { startwith ( <m0> ) , <vow> }
+? { star ( or ( <m0> , <any> ) ) }
+? { not ( concat ( <vow> , <any> ) ) }
+? { or ( <let> , <vow> ) }
+? { <m0> , <cap> , <low> }
+empty
+none
+? { and ( star ( <vow> ) , <low> ) }
+empty
+empty
+none
+empty
+empty
+empty
+empty
+none
+? { concat ( <cap> , <low> ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <low> ) , <vow> ) }
+empty
+none
+? { concat ( contain ( repeatatleast ( <vow> , 1 ) ) , <low> ) }
+? { concat ( and ( <m0> , <any> ) , <low> ) }
+? { or ( <m0> , <vow> ) }
+? { <any> , or ( or ( <m0> , <num> ) , <any> ) }
+none
+? { repeatatleast ( <cap> , 4 ) }
+? { repeatatleast ( <low> , 4 ) }
+? { or ( <m0> , <cap> ) }
+? { star ( <let> ) }
+? { repeatatleast ( concat ( <num> , <let> ) , 7 ) }
+? { <vow> , <any> , concat ( <m0> , <let> ) }
+empty
+none
+? { <let> }
+? { startwith ( concat ( <any> , <let> ) ) }
+? { not ( contain ( or ( or ( <m0> , <m1> ) , <num> ) ) ) }
+none
+? { concat ( <num> , <vow> ) }
+none
+none
+? { concat ( or ( <vow> , <m0> ) , <num> ) }
+? { repeatatleast ( concat ( <num> , <let> ) , 4 ) }
+? { endwith ( or ( <let> , <num> ) ) }
+? { concat ( repeatatleast ( <vow> , 4 ) , <m0> ) }
+none
+? { not ( <vow> ) , endwith ( <m0> ) }
+? { concat ( repeatatleast ( <m0> , 1 ) , <let> ) }
+? { repeatatleast ( concat ( <let> , <m0> ) , 3 ) }
+? { concat ( <m0> , not ( <num> ) ) }
+empty
+empty
+none
+? { repeatatleast ( or ( <m0> , <cap> ) , 4 ) }
+empty
+? { startwith ( <any> ) , concat ( <m0> , <any> ) }
+? { not ( repeatatleast ( <m0> , 1 ) ) }
+? { repeatatleast ( <any> , 4 ) , <any> , and ( <m0> , <vow> ) }
+? { not ( endwith ( <cap> ) ) }
+none
+? { not ( or ( or ( <vow> , <m0> ) , <let> ) ) }
+? { contain ( repeatatleast ( contain ( repeatatleast ( <let> , 1 ) ) , 2 ) ) }
+? { concat ( <cap> , <any> ) , or ( <m0> , <low> ) }
+none
+none
+? { concat ( <m0> , <any> ) }
+empty
+empty
+? { not ( <cap> ) , <let> }
+empty
+none
+none
+empty
+? { <any> , <m0> , contain ( <num> ) }
+empty
+? { repeatatleast ( concat ( <m0> , <num> ) , 7 ) }
+none
+none
+? { or ( <m0> , <let> ) }
+? { or ( or ( <any> , <let> ) , <cap> ) }
+? { concat ( <let> , <cap> ) }
+? { or ( <m1> , <any> ) }
+none
+none
+none
+? { endwith ( concat ( <num> , <any> ) ) }
+? { or ( <let> , <vow> ) }
+none
+none
+? { or ( or ( <m0> , <vow> ) , <low> ) }
+? { contain ( <num> ) , repeatatleast ( <cap> , 1 ) }
+? { star ( <num> ) , contain ( <m0> ) }
+? { contain ( <m0> ) , <low> }
+? { concat ( repeatatleast ( <m0> , 3 ) , <let> ) }
+? { concat ( <m0> , <num> ) }
+? { concat ( or ( or ( <m0> , <num> ) , <m1> ) , <let> ) }
+none
+none
+? { contain ( <any> ) , or ( <vow> , <let> ) }
+? { <m0> , or ( <num> , <m1> ) , <any> }
+none
+none
+none
+empty
+? { <let> , <any> }
+? { concat ( <any> , <vow> ) }
+? { concat ( <num> , <m0> ) }
+? { repeatatleast ( or ( <m0> , <low> ) , 6 ) }
+? { <any> }
+? { repeatatleast ( or ( <vow> , <num> ) , 2 ) }
+? { concat ( repeatatleast ( <cap> , 5 ) , <num> ) }
+? { concat ( <m0> , or ( <m1> , <num> ) ) }
+? { concat ( startwith ( <num> ) , <let> ) }
+? { startwith ( <let> ) }
+? { not ( startwith ( repeatatleast ( <let> , 1 ) ) ) }
+none
+? { repeatatleast ( or ( <m0> , <let> ) , 4 ) }
+empty
+none
+? { startwith ( concat ( <num> , <vow> ) ) }
+none
+? { concat ( <m0> , endwith ( <cap> ) ) }
+? { endwith ( star ( <let> ) ) , <any> , <m0> }
+? { startwith ( concat ( <m0> , <m1> ) ) }
+? { concat ( <cap> , <vow> ) }
+? { star ( contain ( <vow> ) ) }
+empty
+? { contain ( <any> ) }
+? { endwith ( repeatatleast ( concat ( <low> , <m0> ) , 1 ) ) }
+? { concat ( or ( <m0> , <num> ) , <vow> ) }
+none
+empty
+? { concat ( <num> , <m0> ) }
+? { not ( or ( <any> , <let> ) ) , <m0> }
+? { <any> }
+empty
+? { concat ( <let> , <any> ) , <m0> , or ( <m1> , <num> ) }
+none
+? { concat ( <m0> , concat ( <low> , <num> ) ) }
+none
+empty
+? { not ( and ( contain ( <any> ) , concat ( <num> , <low> ) ) ) }
+? { concat ( <low> , concat ( <let> , <vow> ) ) }
+empty
+empty
+? { <any> , <m0> , startwith ( <m1> ) }
+none
+? { or ( <m0> , <num> ) }
+? { concat ( <any> , <let> ) }
+none
+? { endwith ( <m0> ) }
+none
+? { repeatatleast ( concat ( <let> , <any> ) , 1 ) }
+empty
+? { concat ( repeatatleast ( <cap> , 5 ) , <any> ) }
+empty
+? { not ( startwith ( or ( <m0> , <any> ) ) ) }
+empty
+? { or ( <any> , <low> ) }
+none
+? { or ( <num> , <let> ) }
+? { concat ( <m0> , <low> ) }
+? { concat ( or ( or ( <let> , <vow> ) , <any> ) , <any> ) , <m0> }
+? { concat ( <let> , concat ( <cap> , <num> ) ) }
+? { concat ( <m0> , or ( or ( <num> , <vow> ) , <m1> ) ) }
+none
+? { endwith ( concat ( <m0> , <vow> ) ) }
+? { concat ( or ( or ( <any> , <let> ) , <num> ) , <cap> ) }
+? { concat ( or ( <let> , <m0> ) , <m1> ) }
+empty
+none
+none
+? { concat ( <low> , <any> ) , <vow> }
+? { concat ( <let> , or ( or ( <num> , <low> ) , <cap> ) ) }
+? { contain ( endwith ( repeatatleast ( <any> , 1 ) ) ) }
+? { endwith ( <m0> ) , not ( <m1> ) }
+none
+? { <let> , <any> , or ( <m0> , <num> ) }
+? { not ( <let> ) , <let> }
+? { and ( endwith ( <m0> ) , <any> ) }
+? { repeatatleast ( or ( <let> , <m0> ) , 6 ) }
+? { endwith ( repeatatleast ( contain ( <num> ) , 3 ) ) }
+none
+empty
+? { not ( <vow> ) }
+? { contain ( or ( <m0> , <let> ) ) }
+? { concat ( <cap> , or ( <vow> , <low> ) ) }
+none
+none
+? { not ( <m0> ) , repeatatleast ( <vow> , 1 ) }
+? { not ( repeatatleast ( <num> , 6 ) ) }
+empty
+empty
+? { <let> }
+empty
+? { not ( or ( or ( <low> , <m0> ) , <vow> ) ) }
+? { concat ( startwith ( <m0> ) , repeatatleast ( <vow> , 1 ) ) }
+? { concat ( <low> , <any> ) , <m0> , or ( <m1> , <vow> ) }
+? { startwith ( repeatatleast ( <vow> , 1 ) ) }
+? { repeatatleast ( or ( or ( <m0> , <vow> ) , <m1> ) , 1 ) }
+empty
+none
+? { or ( or ( <cap> , <any> ) , <m0> ) }
+? { repeatatleast ( <m0> , 7 ) , <vow> }
+? { and ( <let> , <any> ) , <m0> , <vow> }
+empty
+empty
+? { concat ( <num> , <m0> ) }
+empty
+empty
+? { concat ( or ( <low> , <vow> ) , <cap> ) }
+none
+none
+? { not ( startwith ( <num> ) ) }
+? { concat ( or ( <num> , <any> ) , <let> ) }
+? { concat ( <num> , <m0> ) }
+? { not ( concat ( <m0> , <low> ) ) }
+none
+? { repeatatleast ( or ( <m0> , <any> ) , 3 ) }
+? { contain ( <cap> ) , or ( <any> , <vow> ) }
+? { concat ( <any> , not ( repeatatleast ( <m0> , 7 ) ) ) }
+? { startwith ( <any> ) , <any> , or ( <m0> , <vow> ) }
+? { <m1> }
+none
+? { and ( <num> , <low> ) }
+? { concat ( <num> , <vow> ) }
+? { <num> }
+none
+empty
+? { concat ( <vow> , concat ( <let> , <any> ) ) }
+empty
+? { and ( contain ( <let> ) , not ( <low> ) ) }
+? { concat ( <low> , concat ( <num> , <let> ) ) }
+? { concat ( <vow> , concat ( <m0> , <num> ) ) }
+? { concat ( <num> , repeatatleast ( <m0> , 6 ) ) }
+? { concat ( <num> , concat ( <let> , <cap> ) ) }
+? { contain ( <low> ) , or ( or ( <m0> , <num> ) , <m1> ) }
+empty
+none
+none
+? { concat ( <num> , repeatatleast ( <let> , 6 ) ) }
+? { concat ( <low> , or ( or ( <m0> , <any> ) , <cap> ) ) }
+? { concat ( or ( <vow> , <let> ) , <any> ) }
+empty
+? { concat ( <m0> , <low> ) }
+empty
+empty
+none
+none
+? { or ( or ( <m0> , <cap> ) , <m1> ) }
+empty
+? { not ( contain ( repeatatleast ( <let> , 5 ) ) ) }
+? { endwith ( <num> ) }
+? { concat ( <vow> , <any> ) , <let> }
+? { concat ( <num> , concat ( <vow> , <m0> ) ) }
+? { endwith ( repeatatleast ( or ( <any> , <low> ) , 6 ) ) }
+none
+? { <m1> }
+none
+none
+? { concat ( or ( or ( <low> , <any> ) , <vow> ) , <m0> ) }
+? { concat ( <m0> , and ( <any> , <cap> ) ) }
+? { contain ( or ( or ( <m0> , <m1> ) , <low> ) ) }
+none
+? { not ( or ( <let> , <m0> ) ) }
+? { <any> , <low> }
+? { <low> , endwith ( <let> ) }
+? { concat ( repeatatleast ( <m0> , 1 ) , and ( <any> , <vow> ) ) }
+? { and ( <any> , star ( or ( <m0> , <m1> ) ) ) }
+? { contain ( or ( or ( <m0> , <cap> ) , <low> ) ) }
+? { contain ( <low> ) , or ( <m0> , <any> ) }
+? { concat ( startwith ( <m0> ) , <num> ) }
+none
+empty
+? { concat ( or ( or ( <m0> , <m1> ) , <vow> ) , <m2> ) }
+? { and ( <let> , <any> ) , or ( <m0> , <cap> ) }
+? { and ( <any> , <low> ) }
+empty
+empty
+none
+? { not ( repeatatleast ( <low> , 4 ) ) }
+none
+? { concat ( repeatatleast ( concat ( <low> , <m0> ) , 1 ) , <m1> ) }
+? { contain ( <vow> ) , <let> }
+empty
+empty
+? { startwith ( <any> ) , <m0> , star ( <low> ) }
+empty
+? { concat ( or ( or ( <vow> , <m0> ) , <cap> ) , <any> ) }
+none
+empty
+? { <any> }
+? { repeatatleast ( <m0> , 2 ) }
+none
+? { endwith ( concat ( <any> , <num> ) ) }
+? { concat ( <num> , concat ( <low> , <let> ) ) }
+? { startwith ( concat ( star ( <m0> ) , <any> ) ) }
+? { startwith ( <cap> ) , <any> , or ( <m0> , <m1> ) }
+? { startwith ( <m0> ) , <m1> }
+none
+none
+? { concat ( <cap> , <let> ) }
+none
+? { concat ( <m0> , concat ( <any> , <m1> ) ) }
+? { concat ( <m0> , concat ( <cap> , <low> ) ) }
+none
+? { concat ( <num> , <let> ) }
+? { concat ( repeatatleast ( <vow> , 2 ) , <let> ) }
+? { concat ( or ( <m0> , <cap> ) , <low> ) }
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <m3> ) ) }
+none
+none
+none
+? { concat ( <low> , <let> ) }
+? { concat ( <any> , <let> ) }
+? { concat ( <any> , <let> ) , <m0> }
+empty
+? { concat ( or ( or ( <m0> , <low> ) , <cap> ) , <m1> ) }
+? { concat ( repeatatleast ( contain ( <m0> ) , 7 ) , <m1> ) }
+none
+? { and ( not ( concat ( <num> , <let> ) ) , not ( <low> ) ) }
+? { concat ( <vow> , <any> ) , <num> }
+? { and ( <vow> , <num> ) }
+? { not ( star ( concat ( <any> , <num> ) ) ) }
+? { concat ( <cap> , or ( or ( <m0> , <let> ) , <m1> ) ) }
+none
+none
+none
+none
+? { concat ( or ( <m0> , <m1> ) , <let> ) }
+none
+? { <m1> }
+empty
+none
+empty
+? { repeatatleast ( or ( <m0> , <m1> ) , 1 ) }
+none
+empty
+? { endwith ( or ( <num> , <low> ) ) }
+? { concat ( repeatatleast ( <any> , 7 ) , <num> ) }
+none
+? { concat ( <low> , repeatatleast ( <any> , 7 ) ) }
+empty
+? { <vow> }
+none
+? { concat ( <any> , endwith ( <vow> ) ) }
+? { endwith ( concat ( <any> , <let> ) ) }
+none
+? { concat ( or ( <m0> , <m1> ) , <vow> ) }
+empty
+? { star ( or ( or ( <m0> , <low> ) , <m1> ) ) }
+? { concat ( repeatatleast ( <any> , 7 ) , <let> ) }
+? { repeatatleast ( <cap> , 6 ) }
+? { or ( <cap> , <any> ) }
+none
+empty
+? { repeatatleast ( <let> , 6 ) }
+? { not ( or ( or ( <let> , <num> ) , <m0> ) ) }
+none
+? { not ( <m0> ) , <m1> }
+empty
+empty
+none
+? { concat ( repeatatleast ( <m0> , 7 ) , <vow> ) }
+none
+? { endwith ( concat ( <m0> , <vow> ) ) }
+? { or ( <low> , <vow> ) }
+? { contain ( or ( <let> , <vow> ) ) }
+? { <m0> }
+? { <cap> }
+none
+? { and ( <any> , <m0> ) }
+? { or ( or ( <let> , <num> ) , <vow> ) }
+none
+? { or ( or ( <cap> , <m0> ) , <any> ) }
+empty
+? { endwith ( <let> ) , contain ( <any> ) , <m0> }
+empty
+? { concat ( and ( <let> , <let> ) , <cap> ) }
+? { repeatatleast ( <cap> , 1 ) }
+? { or ( or ( <low> , <let> ) , <any> ) }
+? { concat ( <low> , endwith ( repeatatleast ( <let> , 1 ) ) ) }
+? { <low> , <vow> , <any> , <m0> }
+? { startwith ( repeatatleast ( <num> , 1 ) ) }
+? { and ( not ( <let> ) , <any> ) , <m0> }
+empty
+none
+none
+none
+? { contain ( <cap> ) }
+? { contain ( repeatatleast ( or ( <any> , <m0> ) , 7 ) ) }
+? { and ( endwith ( <low> ) , contain ( <num> ) ) }
+? { contain ( or ( <any> , <num> ) ) , <let> }
+? { <m0> , <any> , concat ( <any> , <num> ) }
+none
+? { or ( <cap> , <any> ) }
+empty
+? { startwith ( concat ( <let> , <m0> ) ) }
+empty
+? { concat ( <cap> , <vow> ) }
+empty
+none
+? { contain ( concat ( <let> , or ( <m0> , <m1> ) ) ) }
+? { concat ( repeatatleast ( <low> , 6 ) , <cap> ) }
+? { or ( or ( <low> , <vow> ) , <any> ) }
+? { <low> , <m0> , <let> }
+none
+? { contain ( or ( or ( <m0> , <m1> ) , <any> ) ) }
+? { contain ( repeatatleast ( or ( <any> , <num> ) , 2 ) ) }
+? { contain ( or ( or ( <m0> , <cap> ) , <any> ) ) }
+? { concat ( <m0> , <cap> ) , <any> , <m1> }
+none
+? { or ( <let> , <cap> ) }
+none
+? { concat ( <low> , or ( <cap> , <any> ) ) }
+? { repeatatleast ( or ( <vow> , <low> ) , 4 ) }
+empty
+none
+? { concat ( <low> , <m0> ) }
+? { not ( concat ( <let> , <num> ) ) }
+empty
+? { or ( <let> , <cap> ) }
+? { concat ( <vow> , concat ( <m0> , <m1> ) ) }
+? { concat ( <let> , <vow> ) }
+? { endwith ( star ( <low> ) ) }
+? { concat ( not ( <num> ) , <any> ) }
+? { star ( repeatatleast ( <let> , 1 ) ) }
+? { <any> , or ( or ( <m0> , <m1> ) , <vow> ) , <num> }
+? { repeatatleast ( concat ( <num> , <low> ) , 7 ) }
+? { repeatatleast ( <any> , 1 ) , <any> , <m0> }
+? { concat ( or ( or ( <vow> , <m0> ) , <m1> ) , <num> ) }
+none
+? { concat ( repeatatleast ( <vow> , 7 ) , <let> ) }
+none
+none
+empty
+none
+none
+? { contain ( concat ( <m0> , <any> ) ) , not ( <num> ) }
+none
+? { <let> }
+? { startwith ( not ( repeatatleast ( <low> , 1 ) ) ) }
+none
+none
+none
+? { not ( endwith ( concat ( <vow> , <m0> ) ) ) }
+empty
+? { star ( <cap> ) }
+? { or ( or ( <vow> , <num> ) , <let> ) }
+? { and ( endwith ( <num> ) , contain ( <m0> ) ) }
+none
+? { concat ( and ( <any> , <let> ) , <cap> ) }
+none
+? { concat ( or ( or ( <m0> , <low> ) , <m1> ) , <cap> ) }
+none
+? { concat ( repeatatleast ( <low> , 4 ) , <let> ) }
+? { endwith ( <m0> ) }
+? { <num> , or ( <cap> , <m0> ) }
+empty
+? { concat ( or ( <m0> , <low> ) , <any> ) }
+? { concat ( <m0> , <m1> ) }
+none
+? { not ( contain ( repeatatleast ( <low> , 2 ) ) ) }
+empty
+? { concat ( <any> , concat ( <m0> , or ( <low> , <vow> ) ) ) }
+? { repeatatleast ( repeatatleast ( or ( <let> , <vow> ) , 1 ) , 1 ) }
+? { concat ( <num> , concat ( <cap> , <any> ) ) }
+? { concat ( repeatatleast ( <m0> , 2 ) , <num> ) }
+none
+? { <let> }
+? { concat ( star ( <low> ) , <let> ) }
+? { contain ( concat ( <vow> , <num> ) ) }
+empty
+? { repeatatleast ( <low> , 3 ) }
+? { <cap> }
+none
+? { contain ( repeatatleast ( or ( <any> , <m0> ) , 1 ) ) }
+empty
+none
+? { endwith ( <num> ) }
+none
+? { concat ( <vow> , or ( <num> , <any> ) ) }
+empty
+? { concat ( <any> , concat ( <vow> , <m0> ) ) }
+? { endwith ( <any> ) , repeatatleast ( concat ( <num> , <let> ) , 1 ) }
+? { concat ( <cap> , <num> ) }
+? { not ( startwith ( <cap> ) ) }
+none
+empty
+empty
+empty
+? { concat ( startwith ( <low> ) , <vow> ) }
+? { startwith ( <low> ) }
+none
+empty
+? { not ( repeatatleast ( startwith ( <cap> ) , 7 ) ) }
+? { endwith ( concat ( <let> , <m0> ) ) }
+? { <m0> , <any> , concat ( <m1> , <m2> ) }
+? { concat ( <low> , or ( <any> , <m0> ) ) }
+empty
+? { and ( <any> , or ( or ( <m0> , <m1> ) , <m2> ) ) }
+? { concat ( <let> , endwith ( repeatatleast ( <vow> , 4 ) ) ) }
+? { <low> , concat ( <let> , <any> ) , repeatatleast ( <m0> , 3 ) }
+? { or ( <m0> , <any> ) }
+? { contain ( repeatatleast ( <any> , 2 ) ) }
+? { or ( or ( or ( <vow> , <num> ) , <any> ) , <cap> ) }
+? { endwith ( star ( <any> ) ) }
+? { not ( <m0> ) , repeatatleast ( <low> , 5 ) }
+? { not ( endwith ( concat ( <any> , <m0> ) ) ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <num> ) , <vow> ) }
+? { concat ( <cap> , or ( <num> , <any> ) ) }
+? { star ( or ( <low> , <num> ) ) }
+empty
+? { <let> , endwith ( <let> ) , <any> , <m0> }
+empty
+? { or ( or ( <any> , <vow> ) , <let> ) }
+none
+none
+? { endwith ( <vow> ) }
+none
+? { contain ( star ( <any> ) ) , <let> }
+? { or ( <m0> , <vow> ) }
+? { repeatatleast ( <num> , 5 ) }
+empty
+? { <cap> , <m0> , or ( <num> , <low> ) }
+empty
+? { concat ( or ( or ( <m0> , <vow> ) , <any> ) , <any> ) , <m1> }
+? { contain ( repeatatleast ( <vow> , 1 ) ) , <m0> }
+empty
+? { or ( or ( <let> , <any> ) , <m0> ) }
+? { repeatatleast ( contain ( repeatatleast ( <let> , 1 ) ) , 3 ) }
+none
+? { or ( or ( <let> , <m0> ) , <low> ) }
+none
+? { <let> , or ( <vow> , <any> ) , <num> }
+? { or ( or ( <any> , <m0> ) , <m1> ) }
+none
+? { repeatatleast ( concat ( <vow> , <any> ) , 7 ) }
+none
+? { not ( or ( <any> , <m0> ) ) }
+? { repeatatleast ( <any> , 6 ) , <cap> }
+? { endwith ( or ( <m0> , <any> ) ) }
+? { or ( <m0> , <any> ) }
+? { or ( or ( <m0> , <any> ) , <m1> ) }
+empty
+empty
+? { endwith ( <num> ) }
+empty
+? { concat ( <m0> , or ( <num> , <any> ) ) }
+? { <m1> }
+empty
+? { <let> , repeatatleast ( <let> , 1 ) }
+none
+? { <any> }
+? { concat ( or ( <let> , <num> ) , <vow> ) }
+empty
+? { concat ( or ( <vow> , <any> ) , <num> ) }
+empty
+? { or ( <let> , <m0> ) , <any> , <num> }
+? { concat ( <m0> , <m1> ) }
+empty
+empty
+empty
+? { repeatatleast ( <m1> , 3 ) }
+empty
+none
+? { startwith ( <low> ) }
+none
+? { concat ( repeatatleast ( <any> , 7 ) , <let> ) }
+? { endwith ( or ( <m0> , <vow> ) ) }
+none
+none
+? { contain ( concat ( <low> , repeatatleast ( <m0> , 1 ) ) ) }
+? { concat ( <any> , concat ( <m0> , <m1> ) ) }
+empty
+none
+? { concat ( <m0> , concat ( <any> , contain ( <low> ) ) ) }
+empty
+? { or ( <m0> , <m1> ) }
+? { or ( or ( <let> , <vow> ) , <m0> ) }
+? { concat ( or ( <any> , <m0> ) , <let> ) }
+? { concat ( <any> , contain ( repeatatleast ( <any> , 1 ) ) ) , <m1> }
+none
+none
+? { and ( contain ( <any> ) , <m0> ) }
+? { startwith ( <num> ) , endwith ( <m0> ) }
+? { endwith ( <num> ) }
+? { not ( or ( <m0> , <m1> ) ) , not ( <vow> ) }
+none
+none
+empty
+? { <let> }
+? { endwith ( not ( <vow> ) ) }
+? { endwith ( <any> ) , or ( <m0> , <any> ) }
+? { concat ( contain ( repeatatleast ( <any> , 5 ) ) , <m0> ) }
+? { endwith ( <vow> ) , star ( <any> ) }
+? { concat ( <vow> , <let> ) }
+none
+? { concat ( <m0> , or ( or ( <m1> , <m2> ) , <num> ) ) }
+none
+? { <any> , repeatatleast ( <m0> , 1 ) , <vow> , <m1> }
+? { concat ( <cap> , <low> ) }
+? { or ( or ( <cap> , <any> ) , <m0> ) }
+none
+empty
+none
+? { <cap> , repeatatleast ( <any> , 1 ) }
+none
+empty
+empty
+? { repeatatleast ( or ( <any> , <low> ) , 1 ) }
+? { concat ( <low> , <any> ) }
+empty
+empty
+none
+? { or ( <low> , <num> ) , <any> , or ( <m0> , <m1> ) }
+? { concat ( <let> , or ( or ( <vow> , <m0> ) , <num> ) ) }
+? { repeatatleast ( or ( <vow> , <m0> ) , 1 ) }
+none
+none
+empty
+? { or ( or ( <num> , <any> ) , <m0> ) }
+none
+empty
+? { endwith ( concat ( <let> , <any> ) ) }
+? { <m0> , or ( <low> , <vow> ) }
+none
+none
+empty
+? { concat ( <m0> , repeatatleast ( <num> , 6 ) ) }
+none
+? { concat ( repeatatleast ( <num> , 7 ) , <m0> ) }
+empty
+none
+? { repeatatleast ( concat ( <vow> , <m0> ) , 3 ) }
+? { and ( <let> , <low> ) }
+? { concat ( <m0> , concat ( <let> , <low> ) ) }
+? { not ( or ( or ( <let> , <vow> ) , <any> ) ) }
+? { concat ( <vow> , <let> ) }
+none
+empty
+empty
+? { and ( star ( not ( <num> ) ) , not ( <low> ) ) }
+none
+none
+? { endwith ( and ( or ( <low> , <m0> ) , <any> ) ) }
+? { concat ( <m0> , <vow> ) , <let> }
+empty
+none
+none
+? { startwith ( or ( <m0> , <let> ) ) }
+? { or ( <vow> , <any> ) }
+none
+empty
+? { endwith ( concat ( <m0> , <vow> ) ) }
+? { contain ( <cap> ) }
+none
+none
+? { concat ( <low> , repeatatleast ( <m0> , 5 ) ) }
+none
+empty
+none
+empty
+? { <any> , <m0> , <m1> }
+? { <m0> , or ( <m1> , <low> ) }
+empty
+? { star ( <cap> ) }
+? { and ( contain ( <low> ) , not ( <any> ) ) , <m0> }
+? { <cap> , <low> }
+empty
+empty
+none
+? { concat ( <cap> , concat ( <m0> , <let> ) ) }
+? { contain ( or ( <any> , <m0> ) ) }
+empty
+none
+none
+? { concat ( <num> , concat ( <vow> , <low> ) ) }
+? { contain ( <any> ) , or ( or ( <let> , <vow> ) , <cap> ) }
+? { endwith ( <cap> ) , <low> }
+? { not ( contain ( repeatatleast ( <let> , 1 ) ) ) , not ( <vow> ) }
+? { concat ( <vow> , and ( <cap> , <low> ) ) }
+empty
+? { concat ( and ( <let> , <let> ) , <num> ) , <let> }
+? { repeatatleast ( <vow> , 1 ) }
+empty
+? { not ( contain ( or ( or ( <low> , <vow> ) , <m0> ) ) ) }
+? { star ( <low> ) }
+? { or ( <let> , <vow> ) }
+empty
+? { endwith ( repeatatleast ( <any> , 1 ) ) }
+none
+? { star ( or ( <vow> , <let> ) ) }
+? { concat ( <any> , <any> ) , star ( <m0> ) }
+? { <num> }
+none
+? { concat ( <low> , or ( or ( <m0> , <m1> ) , <num> ) ) }
+? { startwith ( concat ( <low> , <num> ) ) }
+? { concat ( <let> , endwith ( <vow> ) ) }
+empty
+? { and ( <m0> , <vow> ) }
+? { concat ( <m0> , concat ( <any> , <let> ) ) }
+? { repeatatleast ( endwith ( <m0> ) , 6 ) }
+none
+? { endwith ( contain ( repeatatleast ( or ( <let> , <any> ) , 1 ) ) ) }
+? { concat ( <low> , <cap> ) }
+empty
+? { not ( <cap> ) , or ( <let> , <any> ) }
+? { concat ( <num> , <m0> ) , <any> }
+? { or ( <vow> , <let> ) }
+? { or ( <m1> , <any> ) }
+? { not ( <vow> ) , and ( <let> , not ( <num> ) ) }
+? { endwith ( concat ( <vow> , <any> ) ) }
+? { concat ( <any> , concat ( <num> , <cap> ) ) }
+? { not ( contain ( <let> ) ) }
+? { concat ( and ( <num> , <any> ) , <m0> ) }
+? { contain ( <low> ) , <any> }
+? { not ( startwith ( or ( <m0> , <let> ) ) ) }
+none
+none
+? { concat ( <let> , or ( <num> , <any> ) ) }
+? { or ( <m0> , <num> ) }
+? { concat ( <num> , <let> ) }
+? { concat ( <cap> , <let> ) }
+? { concat ( <m0> , concat ( <vow> , <let> ) ) }
+? { concat ( <m0> , or ( or ( <low> , <vow> ) , <num> ) ) }
+empty
+empty
+? { concat ( <num> , concat ( <m0> , <let> ) ) }
+? { concat ( <m0> , or ( or ( <vow> , <cap> ) , <low> ) ) }
+empty
+? { concat ( or ( <any> , <let> ) , <m0> ) }
+? { not ( startwith ( <let> ) ) }
+? { not ( repeatatleast ( or ( <vow> , <low> ) , 7 ) ) }
+none
+? { concat ( repeatatleast ( <vow> , 5 ) , <cap> ) }
+? { <vow> , endwith ( <any> ) , <m0> }
+? { contain ( <m0> ) , and ( <vow> , <low> ) }
+? { not ( <low> ) , <let> }
+? { repeatatleast ( <low> , 1 ) }
+? { concat ( contain ( <num> ) , <low> ) }
+empty
+? { repeatatleast ( or ( <let> , <num> ) , 7 ) }
+? { or ( or ( <any> , <low> ) , <num> ) }
+? { startwith ( endwith ( <low> ) ) }
+? { concat ( or ( or ( <m0> , <num> ) , <cap> ) , <low> ) }
+none
+? { concat ( <m0> , <vow> ) }
+? { <m0> }
+? { startwith ( concat ( <m0> , <let> ) ) }
+? { star ( concat ( <let> , <m0> ) ) }
+empty
+empty
+? { <any> }
+? { repeatatleast ( or ( <cap> , <num> ) , 4 ) }
+? { endwith ( concat ( <m0> , <m1> ) ) }
+? { concat ( <vow> , or ( <any> , <let> ) ) }
+none
+? { <any> , or ( or ( <m0> , <cap> ) , <let> ) , <m1> }
+? { repeatatleast ( <let> , 2 ) }
+? { <m0> }
+? { contain ( concat ( <low> , <any> ) ) }
+? { not ( endwith ( repeatatleast ( <let> , 1 ) ) ) }
+empty
+none
+? { repeatatleast ( concat ( <num> , <let> ) , 2 ) }
+empty
+? { repeatatleast ( or ( <let> , <any> ) , 4 ) }
+? { and ( <vow> , <vow> ) , or ( or ( <m0> , <num> ) , <let> ) }
+? { concat ( not ( <let> ) , repeatatleast ( <any> , 5 ) ) }
+none
+? { and ( startwith ( <vow> ) , repeatatleast ( <cap> , 6 ) ) }
+? { <num> }
+? { or ( or ( <m0> , <m1> ) , <num> ) }
+? { or ( or ( <m0> , <low> ) , <vow> ) }
+? { repeatatleast ( <let> , 4 ) }
+empty
+? { contain ( <m0> ) , <low> }
+? { endwith ( <any> ) , <cap> }
+none
+? { not ( endwith ( <let> ) ) , not ( <low> ) }
+none
+? { concat ( or ( or ( <m0> , <any> ) , <m1> ) , <cap> ) }
+? { concat ( <any> , repeatatleast ( <vow> , 1 ) ) }
+? { repeatatleast ( or ( <num> , <cap> ) , 2 ) }
+? { contain ( or ( or ( <let> , <cap> ) , <m0> ) ) }
+? { concat ( <vow> , <num> ) }
+none
+? { endwith ( repeatatleast ( <any> , 2 ) ) }
+? { not ( <cap> ) , not ( and ( <m0> , not ( <low> ) ) ) }
+empty
+? { or ( <vow> , <any> ) }
+? { concat ( <cap> , concat ( <m0> , <m1> ) ) }
+? { endwith ( concat ( <cap> , <num> ) ) }
+? { <let> }
+? { endwith ( concat ( <low> , <m0> ) ) }
+? { <any> , concat ( or ( <m0> , <num> ) , <let> ) }
+none
+none
+? { not ( <m0> ) , <any> }
+? { startwith ( repeatatleast ( <any> , 2 ) ) }
+? { concat ( or ( <vow> , <low> ) , <num> ) }
+? { endwith ( concat ( <cap> , <low> ) ) }
+empty
+empty
+empty
+? { repeatatleast ( concat ( <low> , <let> ) , 6 ) }
+empty
+none
+none
+? { concat ( <m0> , or ( or ( <vow> , <m1> ) , <any> ) ) }
+? { or ( or ( <m0> , <vow> ) , <num> ) }
+? { not ( startwith ( or ( <m0> , <num> ) ) ) }
+? { contain ( <any> ) , or ( or ( <m0> , <low> ) , <any> ) }
+none
+? { endwith ( concat ( <low> , <cap> ) ) }
+? { concat ( <let> , concat ( <any> , <low> ) ) }
+? { concat ( <num> , repeatatleast ( <m0> , 6 ) ) }
+none
+none
+? { concat ( <low> , <any> ) }
+empty
+none
+none
+? { <m0> , star ( <low> ) }
+? { repeatatleast ( or ( <m0> , <m1> ) , 2 ) }
+? { concat ( <let> , and ( <low> , <let> ) ) }
+? { concat ( <low> , concat ( <num> , not ( <m0> ) ) ) }
+? { not ( endwith ( repeatatleast ( <num> , 4 ) ) ) }
+? { concat ( <any> , concat ( <num> , <m0> ) ) }
+? { not ( <low> ) , not ( and ( <m0> , not ( <num> ) ) ) }
+none
+none
+? { concat ( <num> , concat ( <m0> , <vow> ) ) }
+empty
+? { concat ( or ( or ( <let> , <m0> ) , <m1> ) , <cap> ) }
+none
+none
+? { and ( <any> , <m0> ) }
+none
+? { concat ( <low> , <cap> ) }
+? { <vow> }
+empty
+empty
+? { <low> }
+none
+empty
+empty
+none
+? { concat ( <cap> , <low> ) }
+? { or ( or ( <m0> , <vow> ) , <let> ) }
+? { concat ( not ( <any> ) , concat ( <m0> , <vow> ) ) }
+? { not ( <m0> ) , not ( <let> ) }
+? { repeatatleast ( <any> , 1 ) , concat ( star ( <m0> ) , <cap> ) }
+? { concat ( <m0> , concat ( <num> , <vow> ) ) }
+none
+? { <let> }
+none
+? { or ( or ( <m0> , <let> ) , <m1> ) , <m2> }
+none
+? { concat ( <vow> , or ( or ( <m0> , <low> ) , <m1> ) ) }
+? { <m0> }
+? { contain ( <low> ) , or ( <any> , <let> ) }
+? { startwith ( concat ( <cap> , <low> ) ) }
+empty
+? { concat ( <any> , <m0> ) , endwith ( <low> ) }
+empty
+none
+? { <let> }
+? { endwith ( and ( <any> , <let> ) ) }
+? { contain ( or ( or ( <low> , <let> ) , <any> ) ) }
+? { startwith ( repeatatleast ( or ( <any> , <low> ) , 3 ) ) }
+none
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <cap> ) }
+none
+? { endwith ( <any> ) , <any> , <m0> }
+? { contain ( <any> ) , and ( <cap> , <vow> ) }
+? { repeatatleast ( <m0> , 3 ) }
+none
+none
+none
+none
+? { repeatatleast ( concat ( <cap> , <num> ) , 4 ) }
+? { <cap> , <any> , or ( or ( <m0> , <vow> ) , <any> ) }
+empty
+empty
+? { <let> }
+empty
+? { startwith ( star ( or ( <cap> , <m0> ) ) ) }
+empty
+? { concat ( <num> , or ( <m0> , <m1> ) ) }
+? { concat ( <vow> , <cap> ) }
+none
+empty
+? { endwith ( concat ( <m0> , concat ( <num> , <cap> ) ) ) }
+none
+empty
+none
+empty
+? { or ( or ( <low> , <m0> ) , <vow> ) }
+? { repeatatleast ( or ( <let> , <num> ) , 6 ) }
+? { startwith ( <num> ) , <any> , <m0> }
+? { endwith ( concat ( <m0> , <low> ) ) }
+none
+? { contain ( or ( or ( <any> , <m0> ) , <num> ) ) }
+? { not ( endwith ( repeatatleast ( <any> , 1 ) ) ) }
+? { <any> }
+? { concat ( <num> , <any> ) , endwith ( <low> ) }
+none
+? { concat ( repeatatleast ( <cap> , 2 ) , <num> ) }
+empty
+? { <cap> }
+none
+none
+? { repeatatleast ( or ( <vow> , <num> ) , 2 ) }
+none
+? { repeatatleast ( or ( <num> , <m0> ) , 3 ) }
+none
+? { or ( <let> , <m0> ) , <vow> }
+? { contain ( <m0> ) , not ( <any> ) }
+? { repeatatleast ( or ( <m0> , <cap> ) , 2 ) }
+? { not ( or ( or ( <low> , <num> ) , <let> ) ) }
+? { endwith ( repeatatleast ( <cap> , 1 ) ) }
+? { star ( not ( <vow> ) ) }
+? { or ( or ( <vow> , <m0> ) , <num> ) }
+empty
+? { concat ( <m0> , and ( <let> , <cap> ) ) }
+? { concat ( or ( or ( <vow> , <any> ) , <low> ) , <m0> ) }
+? { endwith ( or ( <any> , <let> ) ) }
+? { concat ( or ( <low> , <any> ) , <m0> ) }
+? { star ( or ( <let> , <vow> ) ) }
+none
+? { not ( <low> ) , <any> }
+? { not ( concat ( <vow> , <let> ) ) }
+none
+none
+? { concat ( <vow> , endwith ( <num> ) ) }
+none
+empty
+none
+empty
+? { concat ( <vow> , and ( <let> , <let> ) ) }
+? { repeatatleast ( or ( <low> , <vow> ) , 1 ) }
+? { concat ( or ( or ( <any> , <low> ) , <let> ) , <any> ) , <m0> }
+? { <vow> }
+? { not ( <low> ) , not ( <vow> ) }
+empty
+? { concat ( or ( <num> , <cap> ) , <any> ) }
+empty
+none
+? { and ( <m0> , <any> ) }
+empty
+empty
+? { concat ( <m0> , concat ( <m1> , <any> ) ) }
+? { <any> }
+none
+? { not ( concat ( repeatatleast ( <let> , 7 ) , <any> ) ) }
+? { not ( <m0> ) , and ( <m1> , <let> ) }
+none
+? { concat ( <low> , <m0> ) , <any> , concat ( <m1> , <m2> ) }
+? { concat ( <let> , concat ( <low> , <vow> ) ) }
+empty
+? { endwith ( concat ( <low> , <num> ) ) }
+? { or ( <m0> , <num> ) }
+none
+? { concat ( <cap> , or ( <m0> , <num> ) ) }
+? { endwith ( concat ( <m0> , concat ( <m1> , <let> ) ) ) }
+? { concat ( or ( or ( <m0> , <cap> ) , <let> ) , <num> ) }
+empty
+? { and ( <low> , <let> ) }
+? { not ( or ( or ( <m0> , <vow> ) , <cap> ) ) }
+? { and ( <cap> , <m0> ) }
+empty
+? { contain ( and ( <vow> , <cap> ) ) }
+none
+none
+? { contain ( <num> ) , <any> }
+empty
+? { contain ( repeatatleast ( <let> , 1 ) ) , <vow> }
+? { or ( or ( <low> , <vow> ) , <m0> ) , <m1> }
+none
+? { concat ( and ( <vow> , <let> ) , <any> ) }
+? { concat ( or ( or ( <m0> , <cap> ) , <num> ) , <m1> ) }
+? { or ( <low> , <m0> ) }
+none
+none
+? { startwith ( repeatatleast ( or ( <m0> , <low> ) , 5 ) ) }
+? { endwith ( <num> ) }
+? { endwith ( contain ( and ( <m0> , <any> ) ) ) }
+? { concat ( <vow> , <any> ) }
+empty
+? { or ( <m0> , <num> ) , <low> }
+empty
+? { repeatatleast ( <let> , 6 ) }
+empty
+none
+empty
+? { concat ( <num> , or ( or ( <vow> , <let> ) , <low> ) ) }
+empty
+? { not ( and ( or ( <m0> , <vow> ) , <let> ) ) }
+none
+? { repeatatleast ( <any> , 1 ) , endwith ( <m0> ) }
+? { or ( <low> , <num> ) }
+? { contain ( and ( <any> , <m0> ) ) }
+? { concat ( or ( or ( <low> , <num> ) , <any> ) , <any> ) , <m0> }
+? { concat ( or ( <cap> , <num> ) , <any> ) }
+? { concat ( <num> , concat ( <m0> , <m1> ) ) }
+? { <any> }
+empty
+? { concat ( <num> , or ( <low> , <cap> ) ) }
+empty
+? { not ( concat ( star ( <any> ) , <low> ) ) }
+none
+empty
+? { not ( contain ( <m0> ) ) }
+? { <m0> , or ( <num> , <any> ) , <vow> }
+? { and ( or ( <cap> , <m0> ) , <num> ) }
+none
+none
+none
+? { or ( <m0> , <let> ) }
+none
+empty
+? { contain ( or ( <let> , <any> ) ) }
+? { or ( <vow> , <any> ) }
+none
+? { concat ( <m2> , or ( or ( <let> , <m0> ) , <m1> ) ) }
+? { or ( <let> , <any> ) }
+empty
+? { contain ( concat ( <num> , <let> ) ) , <let> }
+? { concat ( <vow> , and ( <low> , <let> ) ) }
+empty
+? { contain ( <let> ) , or ( <any> , <m0> ) }
+none
+none
+empty
+? { concat ( <let> , or ( <cap> , <vow> ) ) }
+empty
+empty
+none
+? { or ( <low> , <vow> ) }
+none
+none
+empty
+? { not ( <m0> ) }
+empty
+? { contain ( repeatatleast ( <any> , 1 ) ) }
+none
+? { <vow> , <low> }
+? { concat ( <num> , repeatatleast ( <cap> , 7 ) ) }
+none
+? { or ( <vow> , <cap> ) }
+empty
+empty
+empty
+empty
+? { repeatatleast ( <cap> , 1 ) }
+? { <low> , <any> }
+empty
+? { <any> }
+? { concat ( <m0> , startwith ( <cap> ) ) }
+? { or ( or ( or ( <let> , <m0> ) , <vow> ) , <low> ) }
+? { repeatatleast ( or ( <cap> , <let> ) , 3 ) }
+? { repeatatleast ( or ( <low> , <any> ) , 3 ) }
+? { <vow> , or ( <num> , <any> ) }
+? { endwith ( <vow> ) }
+none
+? { <any> , <m0> }
+none
+? { not ( or ( or ( <num> , <any> ) , <m0> ) ) }
+? { not ( or ( or ( <low> , <cap> ) , <m0> ) ) }
+? { concat ( repeatatleast ( <num> , 2 ) , <any> ) }
+? { not ( or ( or ( <any> , <vow> ) , <let> ) ) }
+? { concat ( <cap> , or ( <vow> , <num> ) ) }
+none
+? { concat ( and ( <any> , <m0> ) , <low> ) }
+? { <cap> , not ( <num> ) , not ( <m0> ) }
+empty
+? { <m1> }
+? { or ( <cap> , <let> ) }
+none
+? { concat ( <num> , <let> ) }
+? { concat ( <m0> , concat ( <num> , <any> ) ) }
+none
+? { not ( concat ( <cap> , <num> ) ) }
+? { <m0> }
+? { or ( <m0> , <any> ) }
+? { concat ( startwith ( repeatatleast ( <num> , 1 ) ) , <vow> ) }
+empty
+? { and ( contain ( <let> ) , concat ( <vow> , <m0> ) ) }
+none
+? { <num> }
+? { not ( contain ( or ( <m0> , <let> ) ) ) }
+? { contain ( endwith ( repeatatleast ( <let> , 1 ) ) ) }
+? { or ( or ( <cap> , <low> ) , <m0> ) }
+empty
+empty
+? { endwith ( concat ( <any> , <cap> ) ) }
+? { endwith ( concat ( <any> , <m0> ) ) }
+? { startwith ( <vow> ) , concat ( <m0> , <m1> ) }
+none
+empty
+? { contain ( <vow> ) , <m0> }
+? { repeatatleast ( or ( <num> , <vow> ) , 4 ) }
+? { concat ( <m0> , concat ( <vow> , <low> ) ) }
+? { concat ( not ( <low> ) , <m0> ) }
+none
+? { repeatatleast ( <let> , 1 ) , <let> }
+? { contain ( endwith ( <let> ) ) }
+? { or ( or ( <m0> , <cap> ) , <m1> ) }
+? { not ( contain ( <let> ) ) , contain ( <m0> ) }
+? { <any> , or ( <low> , <let> ) }
+? { not ( or ( <m0> , <num> ) ) }
+empty
+none
+? { or ( or ( <let> , <num> ) , <vow> ) }
+? { <vow> , not ( <m0> ) , not ( <num> ) }
+? { not ( contain ( <let> ) ) }
+? { not ( endwith ( concat ( <m0> , <let> ) ) ) }
+empty
+? { or ( <m0> , <vow> ) }
+? { startwith ( <m0> ) }
+none
+none
+? { concat ( repeatatleast ( endwith ( <vow> ) , 2 ) , <m0> ) }
+empty
+? { concat ( <let> , <any> ) }
+? { <any> , or ( <m0> , <num> ) , <let> }
+none
+? { concat ( or ( <vow> , <low> ) , <m0> ) }
+? { concat ( and ( <let> , <cap> ) , <low> ) }
+? { concat ( <any> , concat ( <vow> , <num> ) ) }
+? { star ( <let> ) }
+? { repeatatleast ( <any> , 6 ) }
+empty
+? { or ( or ( <let> , <num> ) , <any> ) }
+? { concat ( <any> , <m0> ) }
+none
+? { contain ( or ( <m0> , <any> ) ) }
+none
+? { concat ( <vow> , and ( <cap> , <any> ) ) }
+? { repeatatleast ( and ( or ( <num> , <m0> ) , <any> ) , 4 ) }
+? { or ( or ( <vow> , <let> ) , <any> ) }
+none
+? { <let> }
+? { startwith ( or ( or ( <m0> , <m1> ) , <num> ) ) }
+? { <vow> , <let> , <num> }
+empty
+? { startwith ( not ( <any> ) ) }
+empty
+? { or ( or ( <num> , <cap> ) , <m0> ) }
+? { contain ( concat ( <m0> , <m1> ) ) }
+? { <num> }
+? { repeatatleast ( or ( <low> , <any> ) , 5 ) }
+? { repeatatleast ( or ( <num> , <low> ) , 1 ) }
+none
+none
+none
+? { not ( startwith ( repeatatleast ( <low> , 1 ) ) ) }
+? { <any> }
+? { concat ( repeatatleast ( <let> , 2 ) , <any> ) }
+none
+? { concat ( <cap> , <vow> ) }
+? { concat ( <low> , <any> ) }
+empty
+? { not ( endwith ( <m0> ) ) }
+? { concat ( <let> , <any> ) }
+? { <vow> , concat ( <low> , <cap> ) }
+none
+empty
+? { concat ( contain ( <m0> ) , repeatatleast ( <cap> , 1 ) ) }
+? { concat ( or ( <let> , <num> ) , <low> ) }
+none
+? { or ( or ( <m0> , <num> ) , <let> ) }
+? { concat ( repeatatleast ( <cap> , 6 ) , <let> ) }
+? { and ( <vow> , <let> ) , <any> , or ( <m0> , <low> ) }
+? { endwith ( <m0> ) , <any> , and ( <m1> , <num> ) }
+? { concat ( <m0> , or ( or ( <low> , <num> ) , <cap> ) ) }
+? { concat ( <num> , or ( <vow> , <cap> ) ) }
+? { or ( <vow> , <let> ) }
+none
+empty
+? { or ( or ( <m0> , <cap> ) , <any> ) }
+? { <any> , concat ( <m0> , <m1> ) , repeatatleast ( <num> , 1 ) }
+? { repeatatleast ( endwith ( <cap> ) , 2 ) }
+? { repeatatleast ( or ( <m0> , <let> ) , 6 ) }
+? { <cap> , <any> , <vow> }
+none
+? { concat ( repeatatleast ( <m0> , 1 ) , <any> ) }
+? { contain ( or ( <low> , <any> ) ) }
+none
+none
+? { contain ( concat ( <m0> , repeatatleast ( <vow> , 1 ) ) ) }
+? { repeatatleast ( concat ( <m0> , <low> ) , 2 ) }
+empty
+none
+none
+empty
+? { startwith ( and ( <any> , <vow> ) ) , <any> , <m0> }
+? { not ( <low> ) }
+none
+? { concat ( or ( <any> , <let> ) , <low> ) }
+? { concat ( or ( or ( <vow> , <let> ) , <num> ) , <cap> ) }
+empty
+? { <vow> , repeatatleast ( or ( <cap> , <let> ) , 1 ) }
+? { <any> , <m0> }
+empty
+? { and ( <any> , <m0> ) }
+empty
+none
+none
+? { or ( <any> , <low> ) }
+empty
+none
+? { repeatatleast ( or ( <cap> , <m0> ) , 2 ) }
+? { repeatatleast ( or ( <num> , <let> ) , 4 ) }
+? { <low> , <any> , or ( <m0> , <m1> ) }
+? { concat ( <any> , concat ( <cap> , <num> ) ) }
+? { startwith ( <let> ) }
+? { contain ( or ( or ( <low> , <cap> ) , <m0> ) ) }
+? { repeatatleast ( <any> , 6 ) }
+empty
+? { concat ( repeatatleast ( <m0> , 6 ) , <num> ) }
+none
+empty
+none
+none
+empty
+empty
+? { concat ( <any> , <low> ) }
+? { concat ( repeatatleast ( <vow> , 1 ) , <any> ) }
+none
+none
+? { concat ( or ( <num> , <low> ) , <vow> ) }
+? { concat ( <m0> , <any> ) }
+? { startwith ( repeatatleast ( <num> , 1 ) ) }
+none
+empty
+? { or ( <num> , <cap> ) , <any> , <m0> }
+? { <m0> , or ( <let> , <let> ) , <any> }
+? { repeatatleast ( <let> , 2 ) , <any> , concat ( <m0> , <m1> ) }
+? { startwith ( <num> ) }
+? { repeatatleast ( or ( <any> , <low> ) , 6 ) }
+? { concat ( star ( <let> ) , endwith ( <num> ) ) }
+none
+none
+empty
+none
+empty
+none
+? { not ( repeatatleast ( endwith ( <m0> ) , 4 ) ) }
+empty
+? { and ( star ( <low> ) , not ( <vow> ) ) }
+empty
+? { <any> }
+empty
+none
+none
+empty
+? { or ( or ( <vow> , <cap> ) , <m0> ) }
+? { concat ( <any> , or ( <vow> , <cap> ) ) }
+? { endwith ( or ( <cap> , <m0> ) ) }
+? { <any> , <m0> , concat ( <m1> , <vow> ) }
+? { repeatatleast ( or ( <low> , <any> ) , 7 ) }
+? { <low> }
+none
+? { <m0> }
+empty
+? { contain ( repeatatleast ( <any> , 7 ) ) }
+none
+empty
+none
+? { concat ( <m0> , or ( or ( <m1> , <vow> ) , <let> ) ) }
+none
+? { or ( <m0> , <any> ) }
+? { <m0> }
+? { concat ( or ( or ( <cap> , <m0> ) , <vow> ) , <num> ) }
+? { concat ( and ( <vow> , <cap> ) , <any> ) }
+empty
+empty
+? { not ( startwith ( repeatatleast ( <any> , 2 ) ) ) }
+? { repeatatleast ( concat ( <any> , <let> ) , 4 ) }
+none
+? { and ( <m0> , <let> ) }
+none
+? { <any> , and ( <m0> , <low> ) , repeatatleast ( <m1> , 1 ) }
+? { endwith ( <m0> ) }
+? { endwith ( <low> ) }
+? { startwith ( <low> ) }
+? { concat ( <vow> , <m0> ) , <cap> }
+none
+? { startwith ( <num> ) , concat ( <cap> , <low> ) }
+empty
+none
+? { repeatatleast ( concat ( <num> , <low> ) , 6 ) }
+? { concat ( <any> , or ( <num> , <m0> ) ) }
+none
+none
+none
+? { contain ( and ( <m0> , not ( <m1> ) ) ) }
+? { contain ( or ( or ( <let> , <num> ) , <cap> ) ) }
+none
+? { startwith ( or ( <m0> , <num> ) ) }
+? { endwith ( <m0> ) , concat ( <m1> , <num> ) }
+empty
+? { <any> }
+? { concat ( repeatatleast ( <any> , 5 ) , <m0> ) }
+none
+empty
+empty
+? { concat ( <m0> , star ( endwith ( <m1> ) ) ) }
+none
+none
+empty
+? { concat ( <m0> , <cap> ) }
+? { repeatatleast ( concat ( <num> , <vow> ) , 1 ) }
+? { concat ( startwith ( <num> ) , <m0> ) }
+? { <m0> }
+? { and ( contain ( <m0> ) , concat ( <any> , <let> ) ) }
+? { concat ( <num> , <cap> ) , <m0> }
+none
+? { contain ( <any> ) }
+? { not ( or ( <m0> , <low> ) ) }
+? { <vow> , <let> }
+? { and ( <m0> , <cap> ) }
+? { concat ( <m0> , repeatatleast ( <m1> , 6 ) ) }
+none
+none
+? { <cap> , endwith ( <any> ) , <m0> }
+none
+empty
+? { concat ( <let> , <low> ) , <m0> }
+? { repeatatleast ( concat ( <any> , <m0> ) , 3 ) }
+? { endwith ( concat ( <num> , <let> ) ) }
+? { or ( <num> , <any> ) }
+? { contain ( <m0> ) }
+empty
+? { <m0> }
+? { contain ( <vow> ) , <m0> }
+none
+none
+? { repeatatleast ( concat ( <m0> , <m1> ) , 1 ) }
+empty
+none
+? { concat ( <num> , endwith ( <any> ) ) }
+? { and ( contain ( <cap> ) , <any> ) }
+? { contain ( concat ( repeatatleast ( <m0> , 4 ) , <m1> ) ) }
+? { <any> }
+? { startwith ( star ( <any> ) ) , <any> , <m0> }
+none
+none
+empty
+? { <any> , <m0> , concat ( or ( <m1> , <any> ) , <any> ) , <m2> }
+none
+empty
+? { or ( or ( <let> , <vow> ) , <num> ) }
+? { and ( <any> , <any> ) , <m0> , <m1> }
+? { endwith ( repeatatleast ( <vow> , 7 ) ) }
+empty
+? { repeatatleast ( endwith ( <let> ) , 3 ) }
+? { concat ( <low> , concat ( <num> , <cap> ) ) }
+? { startwith ( repeatatleast ( <m0> , 5 ) ) }
+? { concat ( <low> , concat ( <cap> , <num> ) ) }
+? { concat ( or ( <m0> , <let> ) , <vow> ) }
+? { repeatatleast ( concat ( <vow> , <let> ) , 2 ) }
+empty
+? { and ( contain ( <num> ) , <any> ) }
+? { concat ( <m0> , or ( <let> , <vow> ) ) }
+? { or ( <let> , <any> ) }
+? { concat ( or ( <vow> , <cap> ) , <m0> ) }
+? { repeatatleast ( concat ( <num> , <m0> ) , 4 ) }
+? { endwith ( or ( or ( <any> , <num> ) , <low> ) ) }
+? { concat ( repeatatleast ( <any> , 1 ) , <vow> ) }
+none
+? { concat ( repeatatleast ( <any> , 6 ) , <vow> ) }
+? { concat ( <cap> , concat ( <any> , <let> ) ) }
+none
+? { and ( <m0> , <let> ) , <m1> }
+? { <any> , repeatatleast ( <m0> , 4 ) , <let> }
+? { repeatatleast ( <low> , 1 ) }
+? { not ( repeatatleast ( <cap> , 5 ) ) }
+none
+? { not ( or ( or ( <vow> , <m0> ) , <m1> ) ) }
+? { concat ( <vow> , concat ( <low> , <m0> ) ) }
+none
+empty
+? { concat ( repeatatleast ( <low> , 2 ) , <let> ) }
+? { endwith ( repeatatleast ( <any> , 1 ) ) , <vow> }
+empty
+none
+none
+? { <m0> }
+? { concat ( <any> , or ( <vow> , <low> ) ) }
+? { contain ( <any> ) , <let> }
+? { concat ( <m0> , and ( <vow> , <let> ) ) }
+? { concat ( <m0> , <any> ) , or ( <m1> , <let> ) }
+? { contain ( or ( <any> , <vow> ) ) }
+? { repeatatleast ( <num> , 2 ) , <num> }
+? { concat ( star ( <cap> ) , <any> ) }
+? { contain ( <vow> ) , <cap> }
+? { concat ( contain ( <cap> ) , repeatatleast ( <low> , 5 ) ) }
+empty
+empty
+none
+? { contain ( concat ( <m0> , repeatatleast ( <any> , 1 ) ) ) }
+? { concat ( <m0> , <m1> ) , concat ( <cap> , <any> ) }
+none
+none
+none
+? { concat ( <cap> , repeatatleast ( <num> , 7 ) ) }
+empty
+? { repeatatleast ( <let> , 1 ) }
+? { concat ( or ( <vow> , <let> ) , <any> ) }
+? { and ( <m0> , or ( <m1> , <any> ) ) }
+? { <any> , or ( <m0> , <any> ) }
+? { contain ( or ( <vow> , <any> ) ) }
+? { concat ( or ( or ( <vow> , <m0> ) , <m1> ) , <num> ) }
+? { <num> , <cap> , <any> , <m0> }
+none
+none
+empty
+? { endwith ( repeatatleast ( concat ( <m0> , <cap> ) , 1 ) ) }
+? { concat ( <cap> , <num> ) }
+? { not ( <any> ) , and ( <m0> , not ( contain ( repeatatleast ( <any> , 1 ) ) ) ) , <m1> }
+empty
+none
+? { concat ( <num> , concat ( <cap> , <m0> ) ) }
+? { concat ( startwith ( <num> ) , <cap> ) }
+none
+? { concat ( or ( <any> , <let> ) , <num> ) }
+? { not ( contain ( repeatatleast ( <any> , 6 ) ) ) }
+none
+none
+? { or ( <let> , <vow> ) }
+empty
+? { concat ( <cap> , concat ( <m0> , <vow> ) ) }
+? { concat ( <m0> , <num> ) }
+? { not ( <low> ) , <cap> , <any> , or ( <m0> , <num> ) }
+empty
+none
+none
+? { <m0> , <cap> , <let> }
+empty
+none
+none
+none
+? { <low> }
+? { or ( <cap> , <m0> ) }
+empty
+? { concat ( repeatatleast ( <m0> , 6 ) , <any> ) }
+? { not ( concat ( <cap> , concat ( <num> , <m0> ) ) ) }
+empty
+? { <m1> }
+? { contain ( concat ( <num> , <cap> ) ) }
+? { not ( and ( <let> , not ( <num> ) ) ) }
+? { <low> , concat ( <num> , <m0> ) }
+none
+empty
+? { endwith ( concat ( or ( <m0> , <any> ) , <cap> ) ) }
+none
+empty
+none
+? { star ( concat ( <num> , <cap> ) ) }
+empty
+empty
+? { concat ( <m0> , concat ( <m1> , <m2> ) ) }
+none
+? { and ( repeatatleast ( <num> , 5 ) , not ( <vow> ) ) }
+? { concat ( <m0> , <let> ) }
+none
+? { concat ( <low> , repeatatleast ( <vow> , 6 ) ) }
+? { <cap> }
+? { concat ( <m1> , <m0> ) }
+? { contain ( <low> ) , <num> }
+empty
+? { startwith ( or ( <num> , <vow> ) ) }
+? { concat ( star ( <vow> ) , <any> ) , or ( or ( <m0> , <any> ) , <low> ) }
+? { repeatatleast ( <any> , 1 ) }
+? { or ( or ( <any> , <num> ) , <low> ) }
+empty
+? { contain ( repeatatleast ( or ( <any> , <let> ) , 2 ) ) }
+? { and ( contain ( <m0> ) , endwith ( <m1> ) ) }
+? { contain ( endwith ( or ( <m0> , <any> ) ) ) }
+? { endwith ( concat ( <num> , <m0> ) ) }
+none
+? { contain ( repeatatleast ( <any> , 1 ) ) , concat ( repeatatleast ( <m0> , 4 ) , <num> ) }
+? { concat ( <let> , <vow> ) }
+none
+none
+none
+? { endwith ( star ( or ( <m0> , <any> ) ) ) }
+? { repeatatleast ( concat ( <vow> , <low> ) , 1 ) }
+? { not ( <vow> ) , not ( and ( <m0> , not ( <cap> ) ) ) }
+? { or ( <low> , <vow> ) }
+none
+empty
+empty
+? { endwith ( concat ( <vow> , <any> ) ) }
+? { not ( or ( <let> , <vow> ) ) , <let> }
+none
+empty
+? { or ( <any> , <vow> ) }
+? { concat ( and ( <cap> , <vow> ) , <any> ) }
+empty
+? { not ( concat ( <low> , <m0> ) ) }
+empty
+none
+empty
+? { concat ( <let> , concat ( <m0> , <low> ) ) }
+? { <m0> , endwith ( star ( <any> ) ) }
+none
+empty
+empty
+? { <let> , not ( <m0> ) }
+none
+? { concat ( <low> , <any> ) }
+? { concat ( repeatatleast ( <vow> , 7 ) , <cap> ) }
+none
+? { concat ( <vow> , <any> ) }
+? { startwith ( concat ( <cap> , <m0> ) ) }
+empty
+? { concat ( <m0> , or ( or ( <any> , <low> ) , <m1> ) ) }
+? { <m0> }
+? { endwith ( repeatatleast ( <m0> , 1 ) ) , <any> , <m1> }
+none
+? { or ( <low> , <let> ) , <any> }
+empty
+? { or ( or ( <num> , <any> ) , <low> ) }
+? { <let> }
+? { or ( <any> , <m0> ) }
+? { concat ( and ( <low> , <let> ) , <num> ) }
+empty
+? { or ( <num> , <let> ) }
+? { concat ( or ( <cap> , <low> ) , <vow> ) }
+empty
+? { concat ( <num> , <cap> ) }
+? { concat ( <m0> , or ( <cap> , <vow> ) ) }
+? { concat ( or ( or ( <cap> , <m0> ) , <low> ) , <m1> ) }
+? { repeatatleast ( <any> , 7 ) , <low> }
+? { endwith ( <any> ) }
+none
+? { or ( <cap> , <any> ) }
+? { <let> }
+none
+? { concat ( <let> , endwith ( <cap> ) ) }
+? { concat ( <m0> , <num> ) , <m1> }
+? { not ( concat ( <cap> , <any> ) ) }
+? { or ( or ( <vow> , <cap> ) , <any> ) }
+? { concat ( <low> , concat ( <m0> , <any> ) ) }
+? { contain ( and ( <let> , <m0> ) ) }
+? { <num> , <any> , or ( <m0> , <any> ) , <cap> }
+none
+? { concat ( <low> , contain ( repeatatleast ( <num> , 1 ) ) ) }
+none
+? { contain ( repeatatleast ( <m0> , 1 ) ) , or ( <m1> , <any> ) }
+none
+? { startwith ( or ( <m0> , <vow> ) ) }
+? { <m0> , or ( or ( <num> , <any> ) , <cap> ) }
+? { star ( concat ( <low> , <let> ) ) }
+? { startwith ( star ( or ( <any> , <let> ) ) ) }
+empty
+empty
+? { concat ( repeatatleast ( <num> , 5 ) , <low> ) }
+none
+? { or ( <let> , <m0> ) }
+? { <vow> }
+none
+? { repeatatleast ( <any> , 3 ) }
+empty
+? { <any> , and ( <m0> , <low> ) , star ( <m1> ) }
+? { <vow> }
+? { <any> , or ( <m0> , <let> ) }
+? { concat ( <m0> , concat ( <m1> , <cap> ) ) }
+? { concat ( not ( concat ( <m0> , <vow> ) ) , <let> ) }
+? { not ( endwith ( <cap> ) ) }
+? { concat ( <m0> , or ( or ( <let> , <m1> ) , <m2> ) ) }
+? { not ( contain ( or ( or ( <m0> , <num> ) , <vow> ) ) ) }
+none
+? { not ( or ( <let> , <m0> ) ) }
+? { concat ( <low> , contain ( <vow> ) ) }
+none
+? { <m0> , not ( endwith ( <any> ) ) }
+none
+none
+empty
+empty
+? { endwith ( concat ( <let> , <any> ) ) }
+? { concat ( <cap> , or ( <m0> , <any> ) ) }
+empty
+? { contain ( concat ( <m0> , <vow> ) ) }
+? { contain ( <let> ) , and ( <cap> , <vow> ) }
+? { <any> , and ( <cap> , <vow> ) }
+none
+? { contain ( <any> ) , concat ( <m0> , not ( startwith ( <m1> ) ) ) }
+? { concat ( <num> , <vow> ) }
+? { <m0> }
+empty
+? { concat ( <m0> , <vow> ) , <any> }
+? { endwith ( concat ( <cap> , <any> ) ) }
+? { <m0> , not ( <num> ) }
+? { concat ( <m0> , or ( or ( <let> , <m1> ) , <any> ) ) }
+? { contain ( <low> ) }
+none
+? { not ( or ( <let> , <low> ) ) }
+empty
+? { <let> }
+none
+empty
+empty
+empty
+none
+none
+none
+? { concat ( or ( <let> , <m0> ) , <num> ) }
+? { repeatatleast ( or ( <vow> , <any> ) , 3 ) }
+? { concat ( <m0> , or ( or ( <cap> , <any> ) , <m1> ) ) }
+empty
+? { <vow> , not ( or ( <num> , <m0> ) ) }
+? { and ( <m0> , <low> ) }
+none
+? { and ( contain ( <m0> ) , <any> ) }
+empty
+none
+? { concat ( <cap> , <any> ) , star ( <m0> ) }
+empty
+? { concat ( or ( or ( <m0> , <m1> ) , <any> ) , <any> ) , <m2> }
+? { concat ( <low> , not ( <m0> ) ) , not ( and ( <let> , not ( <m1> ) ) ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <vow> ) }
+? { <any> }
+none
+none
+? { not ( concat ( <low> , <vow> ) ) }
+none
+? { repeatatleast ( <any> , 2 ) }
+empty
+? { repeatatleast ( <any> , 1 ) }
+? { concat ( <cap> , <m0> ) }
+empty
+empty
+? { <any> , or ( or ( <m0> , <num> ) , <low> ) }
+empty
+none
+none
+? { not ( or ( or ( <any> , <num> ) , <vow> ) ) }
+? { repeatatleast ( or ( <let> , <low> ) , 4 ) }
+none
+? { or ( <let> , <vow> ) }
+empty
+? { <m0> , concat ( <cap> , <low> ) }
+none
+? { endwith ( <let> ) }
+? { startwith ( not ( <vow> ) ) }
+empty
+none
+none
+? { not ( <let> ) , not ( <low> ) }
+empty
+none
+? { not ( or ( or ( <any> , <low> ) , <cap> ) ) }
+? { concat ( not ( <m0> ) , <cap> ) }
+? { contain ( <m0> ) , or ( or ( <vow> , <cap> ) , <m1> ) }
+none
+empty
+? { or ( or ( <let> , <cap> ) , <vow> ) }
+? { startwith ( repeatatleast ( <m0> , 2 ) ) }
+none
+? { endwith ( repeatatleast ( <m0> , 1 ) ) }
+none
+none
+none
+none
+? { startwith ( star ( or ( <low> , <vow> ) ) ) }
+none
+none
+? { repeatatleast ( or ( <low> , <m0> ) , 1 ) }
+empty
+none
+empty
+? { <low> , concat ( <m0> , <m1> ) }
+? { concat ( endwith ( <any> ) , <m0> ) }
+none
+? { concat ( repeatatleast ( <any> , 2 ) , <vow> ) }
+? { concat ( and ( <let> , <any> ) , <m0> ) }
+none
+? { concat ( <low> , repeatatleast ( <cap> , 3 ) ) }
+none
+none
+? { or ( or ( <let> , <any> ) , <low> ) }
+empty
+? { concat ( star ( <vow> ) , or ( <let> , <m0> ) ) }
+? { endwith ( repeatatleast ( <any> , 5 ) ) }
+? { and ( star ( <low> ) , <m0> ) }
+none
+none
+? { concat ( or ( <any> , <cap> ) , <num> ) }
+? { repeatatleast ( concat ( <low> , <cap> ) , 2 ) }
+empty
+? { endwith ( <let> ) }
+? { <any> }
+? { or ( <cap> , <low> ) }
+? { repeatatleast ( or ( <low> , <m0> ) , 3 ) }
+? { concat ( <m0> , <low> ) }
+? { concat ( <let> , or ( <num> , <low> ) ) }
+? { not ( <cap> ) , star ( <m0> ) }
+none
+? { concat ( <m0> , <low> ) }
+? { concat ( <vow> , or ( <m0> , <m1> ) ) }
+? { repeatatleast ( concat ( <let> , <num> ) , 3 ) }
+empty
+? { not ( concat ( <any> , <num> ) ) }
+none
+none
+? { contain ( <let> ) , <vow> }
+? { not ( or ( <num> , <vow> ) ) }
+? { <any> }
+? { <vow> }
+? { not ( <num> ) }
+empty
+? { or ( <m0> , <low> ) }
+none
+? { contain ( concat ( <vow> , <num> ) ) }
+none
+? { or ( or ( <m0> , <cap> ) , <vow> ) }
+? { repeatatleast ( concat ( <vow> , <num> ) , 2 ) }
+? { <m0> , <m1> }
+? { contain ( <m0> ) , or ( <vow> , <low> ) }
+empty
+none
+empty
+? { repeatatleast ( or ( <any> , <let> ) , 7 ) }
+? { concat ( <cap> , <num> ) }
+? { repeatatleast ( <let> , 2 ) }
+? { endwith ( or ( <let> , <any> ) ) }
+none
+empty
+? { concat ( repeatatleast ( <m1> , 1 ) , <m0> ) }
+? { endwith ( concat ( <m0> , or ( <vow> , <let> ) ) ) }
+? { or ( or ( <m0> , <m1> ) , <m2> ) }
+none
+empty
+? { or ( <cap> , <any> ) }
+? { or ( or ( <num> , <any> ) , <cap> ) }
+? { not ( endwith ( or ( <m0> , <m1> ) ) ) }
+? { repeatatleast ( or ( <m0> , <low> ) , 4 ) }
+? { concat ( <cap> , <m0> ) }
+none
+? { or ( <num> , <cap> ) }
+none
+none
+? { not ( or ( or ( <low> , <vow> ) , <m0> ) ) }
+? { not ( or ( or ( <m0> , <m1> ) , <vow> ) ) }
+? { <let> }
+none
+? { <low> }
+? { or ( or ( <vow> , <m0> ) , <any> ) }
+none
+? { contain ( and ( <cap> , star ( <m0> ) ) ) }
+? { or ( or ( <m0> , <any> ) , <cap> ) }
+? { not ( <m0> ) }
+? { endwith ( <low> ) }
+? { endwith ( or ( <vow> , <any> ) ) }
+? { <m1> }
+? { <num> }
+empty
+empty
+none
+? { concat ( repeatatleast ( <low> , 1 ) , <m0> ) }
+? { concat ( <low> , <m0> ) }
+? { concat ( <m0> , <m1> ) }
+empty
+none
+none
+none
+empty
+? { concat ( <any> , <let> ) , contain ( <num> ) }
+? { <vow> , <m0> , <any> }
+? { concat ( <cap> , <m0> ) }
+? { endwith ( concat ( <m0> , <cap> ) ) }
+none
+none
+? { or ( <m0> , <low> ) , <any> , <m1> }
+? { <any> }
+none
+? { <any> , concat ( star ( <m0> ) , or ( <cap> , <any> ) ) , <m1> }
+? { repeatatleast ( <m0> , 1 ) , endwith ( <m1> ) }
+none
+? { concat ( <any> , concat ( <m0> , <cap> ) ) }
+none
+? { not ( repeatatleast ( concat ( <m0> , <m1> ) , 1 ) ) }
+? { repeatatleast ( concat ( <any> , <m0> ) , 5 ) }
+none
+? { concat ( <vow> , <let> ) }
+? { contain ( repeatatleast ( <any> , 5 ) ) }
+? { concat ( <low> , <vow> ) }
+? { <cap> , <any> , or ( <m0> , <m1> ) , <let> }
+? { or ( <let> , <any> ) }
+none
+none
+none
+none
+none
+none
+? { or ( <num> , <vow> ) }
+? { concat ( repeatatleast ( <low> , 4 ) , <cap> ) }
+? { concat ( or ( <m0> , <cap> ) , <m1> ) }
+none
+? { or ( <let> , <m0> ) }
+empty
+empty
+? { concat ( <let> , concat ( <m0> , repeatatleast ( <any> , 1 ) ) ) }
+none
+empty
+? { <cap> , and ( or ( <let> , <m0> ) , <m1> ) }
+? { not ( <m0> ) , <low> }
+none
+? { concat ( star ( <low> ) , <num> ) }
+none
+? { concat ( <let> , repeatatleast ( <any> , 1 ) ) }
+? { concat ( repeatatleast ( <cap> , 2 ) , <any> ) }
+? { concat ( <any> , and ( <let> , <vow> ) ) }
+? { repeatatleast ( <low> , 1 ) }
+none
+none
+? { concat ( or ( or ( <num> , <let> ) , <m0> ) , <vow> ) }
+none
+? { star ( <m0> ) , contain ( <let> ) }
+? { <cap> }
+empty
+none
+? { concat ( or ( or ( <num> , <low> ) , <m0> ) , <m1> ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <cap> ) , <m2> ) }
+? { <any> , <m0> , <m1> }
+? { repeatatleast ( endwith ( <num> ) , 5 ) }
+empty
+? { concat ( <m0> , and ( <num> , <any> ) ) }
+none
+? { concat ( <num> , concat ( <m0> , <m1> ) ) }
+? { or ( <any> , <low> ) }
+? { concat ( <m0> , concat ( <vow> , <let> ) ) }
+? { endwith ( concat ( <m0> , <let> ) ) }
+? { concat ( and ( <let> , <low> ) , <m0> ) }
+? { concat ( <low> , repeatatleast ( <num> , 4 ) ) }
+? { <any> , or ( or ( <vow> , <let> ) , <m0> ) }
+none
+empty
+? { endwith ( or ( <num> , <let> ) ) }
+? { <let> }
+none
+? { concat ( or ( or ( <m0> , <low> ) , <any> ) , <cap> ) }
+? { contain ( <let> ) , <vow> , <num> }
+? { or ( <vow> , <low> ) }
+empty
+empty
+empty
+none
+? { and ( <m0> , <m1> ) }
+empty
+? { or ( <m0> , <m1> ) }
+empty
+none
+empty
+empty
+? { repeatatleast ( concat ( <any> , <vow> ) , 6 ) }
+none
+empty
+? { or ( or ( <vow> , <m0> ) , <low> ) }
+? { repeatatleast ( <m0> , 2 ) }
+? { contain ( star ( or ( <cap> , <let> ) ) ) }
+? { not ( concat ( <m0> , <let> ) ) }
+none
+empty
+none
+? { endwith ( concat ( <let> , <m0> ) ) }
+? { and ( repeatatleast ( <any> , 7 ) , not ( <low> ) ) }
+? { <any> , concat ( or ( <m0> , <any> ) , <vow> ) }
+? { or ( <m0> , <any> ) , endwith ( <low> ) }
+? { or ( <low> , <m0> ) }
+? { <num> }
+empty
+none
+none
+none
+? { concat ( <num> , <any> ) }
+none
+none
+none
+? { concat ( <let> , concat ( <low> , <num> ) ) }
+? { concat ( <m0> , <low> ) }
+? { not ( or ( <m0> , <m1> ) ) }
+? { repeatatleast ( or ( <low> , <let> ) , 7 ) }
+? { or ( or ( <low> , <cap> ) , <num> ) }
+? { contain ( <num> ) , or ( <any> , <m0> ) }
+? { <vow> }
+empty
+? { concat ( repeatatleast ( <num> , 3 ) , <any> ) }
+? { concat ( <let> , repeatatleast ( <num> , 7 ) ) }
+empty
+? { star ( contain ( <let> ) ) }
+empty
+? { concat ( or ( <num> , <any> ) , <any> ) , <m0> }
+? { or ( or ( <cap> , <any> ) , <let> ) }
+? { concat ( <cap> , <low> ) }
+? { star ( <num> ) , concat ( <m0> , <any> ) }
+empty
+? { concat ( <low> , or ( <num> , <cap> ) ) }
+none
+none
+? { contain ( endwith ( repeatatleast ( <num> , 7 ) ) ) }
+empty
+? { endwith ( <any> ) }
+empty
+? { or ( <let> , <num> ) }
+? { concat ( <m0> , endwith ( <num> ) ) }
+empty
+? { repeatatleast ( concat ( <low> , <m0> ) , 2 ) }
+? { startwith ( repeatatleast ( or ( <cap> , <any> ) , 1 ) ) }
+? { repeatatleast ( startwith ( <cap> ) , 2 ) }
+? { contain ( <any> ) }
+none
+empty
+? { <low> , <m0> , <m1> }
+none
+none
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <m2> ) }
+? { contain ( <any> ) , endwith ( <let> ) }
+? { or ( or ( <let> , <any> ) , <m0> ) }
+? { star ( concat ( <num> , <any> ) ) }
+? { <low> , <vow> }
+? { <vow> }
+? { concat ( <num> , <any> ) }
+empty
+? { contain ( <let> ) , and ( <low> , <vow> ) }
+empty
+none
+? { not ( contain ( <cap> ) ) }
+empty
+? { endwith ( or ( <cap> , <any> ) ) }
+? { or ( or ( <any> , <num> ) , <vow> ) }
+? { repeatatleast ( or ( <m0> , <vow> ) , 1 ) }
+? { contain ( concat ( <num> , <cap> ) ) }
+empty
+none
+? { contain ( <let> ) , and ( <low> , <vow> ) }
+? { <num> , endwith ( <cap> ) }
+? { concat ( <vow> , or ( or ( <low> , <m0> ) , <m1> ) ) }
+? { or ( <vow> , <let> ) }
+empty
+? { repeatatleast ( concat ( <m0> , <any> ) , 6 ) }
+? { concat ( contain ( <m0> ) , and ( <cap> , <vow> ) ) }
+? { concat ( <cap> , <any> ) }
+none
+? { <any> , or ( or ( <m0> , <num> ) , <low> ) }
+none
+? { or ( <num> , <m0> ) }
+none
+? { endwith ( <let> ) }
+none
+empty
+? { or ( or ( <any> , <m0> ) , <num> ) }
+empty
+none
+empty
+? { not ( <let> ) }
+none
+? { concat ( star ( <let> ) , <num> ) }
+? { not ( <any> ) }
+none
+? { not ( repeatatleast ( repeatatleast ( <let> , 1 ) , 5 ) ) }
+empty
+? { contain ( or ( <m0> , <vow> ) ) }
+? { endwith ( concat ( <any> , <num> ) ) }
+none
+none
+? { concat ( <vow> , <num> ) }
+? { and ( <low> , <vow> ) }
+? { concat ( <m0> , <low> ) }
+? { <m0> , endwith ( <any> ) }
+none
+? { star ( <any> ) , <any> , <m0> }
+? { or ( <num> , <cap> ) , <m0> }
+none
+? { concat ( repeatatleast ( <vow> , 1 ) , <cap> ) }
+? { concat ( <any> , <vow> ) }
+? { contain ( <low> ) }
+none
+? { contain ( <any> ) , or ( <cap> , <m0> ) }
+empty
+? { endwith ( repeatatleast ( <let> , 1 ) ) }
+none
+? { concat ( <any> , concat ( <m0> , <m1> ) ) }
+empty
+empty
+? { concat ( <m0> , concat ( <low> , <any> ) ) }
+empty
+? { not ( endwith ( concat ( <m0> , <any> ) ) ) }
+none
+? { <let> }
+? { repeatatleast ( <cap> , 1 ) }
+empty
+? { not ( concat ( <vow> , <cap> ) ) }
+? { concat ( <vow> , or ( or ( <let> , <m0> ) , <m1> ) ) }
+empty
+? { endwith ( <num> ) , startwith ( <m0> ) }
+? { concat ( <m0> , concat ( <m1> , <m2> ) ) }
+empty
+? { not ( contain ( <low> ) ) }
+empty
+empty
+? { endwith ( <any> ) , repeatatleast ( <any> , 6 ) }
+? { concat ( <m0> , <cap> ) }
+none
+? { contain ( or ( <let> , <any> ) ) }
+none
+? { startwith ( <let> ) , concat ( <low> , <m0> ) }
+none
+? { startwith ( or ( <vow> , <any> ) ) }
+none
+? { and ( <m0> , and ( <m1> , <num> ) ) , repeatatleast ( <low> , 6 ) }
+? { or ( <any> , <num> ) }
+? { endwith ( repeatatleast ( <m0> , 1 ) ) }
+? { concat ( <m0> , concat ( <any> , <let> ) ) }
+none
+? { concat ( <vow> , endwith ( <let> ) ) }
+? { not ( <m0> ) }
+none
+? { endwith ( not ( <m0> ) ) }
+? { concat ( <any> , <let> ) }
+? { or ( <vow> , <any> ) }
+? { or ( or ( <num> , <cap> ) , <any> ) }
+empty
+? { concat ( <let> , <any> ) }
+? { not ( contain ( <let> ) ) }
+? { <m0> , endwith ( <any> ) }
+? { not ( startwith ( <any> ) ) , <m0> }
+? { concat ( or ( or ( <any> , <num> ) , <low> ) , <m0> ) }
+? { not ( or ( or ( <low> , <m0> ) , <cap> ) ) }
+? { contain ( <any> ) , or ( <low> , <m0> ) }
+none
+? { <let> , <any> }
+? { <cap> }
+? { endwith ( <num> ) , <let> }
+? { or ( <m0> , <any> ) }
+none
+? { contain ( concat ( <m0> , <low> ) ) }
+empty
+empty
+? { or ( <any> , <low> ) }
+? { repeatatleast ( <any> , 2 ) }
+? { <cap> , or ( <vow> , <num> ) }
+? { or ( or ( <num> , <vow> ) , <m0> ) }
+? { star ( concat ( <low> , <cap> ) ) }
+none
+none
+? { <vow> , <m0> }
+? { not ( contain ( or ( or ( <any> , <cap> ) , <low> ) ) ) }
+? { concat ( <low> , concat ( <vow> , <m0> ) ) }
+? { repeatatleast ( or ( <any> , <vow> ) , 3 ) }
+none
+none
+? { startwith ( <m0> ) , repeatatleast ( <any> , 7 ) }
+none
+? { <m0> , <let> , <low> }
+? { and ( endwith ( <let> ) , concat ( <num> , <cap> ) ) }
+? { concat ( <m0> , concat ( <let> , <num> ) ) }
+? { repeatatleast ( concat ( <let> , <vow> ) , 7 ) }
+? { concat ( <vow> , <m0> ) , <any> , <let> }
+none
+? { <any> }
+none
+? { concat ( or ( <let> , <any> ) , <vow> ) }
+? { concat ( <any> , or ( or ( <m0> , <num> ) , <m1> ) ) }
+none
+none
+? { or ( or ( <low> , <num> ) , <let> ) }
+? { repeatatleast ( concat ( <m0> , <num> ) , 1 ) }
+? { contain ( <cap> ) , and ( <m0> , <num> ) }
+? { contain ( star ( or ( <any> , <m0> ) ) ) }
+? { <let> }
+? { not ( startwith ( repeatatleast ( <cap> , 5 ) ) ) }
+? { repeatatleast ( concat ( <any> , <m0> ) , 4 ) }
+none
+? { <m0> }
+? { concat ( repeatatleast ( <vow> , 7 ) , <any> ) }
+none
+? { contain ( repeatatleast ( <any> , 1 ) ) }
+none
+none
+empty
+? { and ( star ( <cap> ) , and ( <any> , <m1> ) ) }
+? { <m0> , <cap> }
+? { concat ( or ( or ( <m0> , <low> ) , <m1> ) , <let> ) }
+? { contain ( <low> ) , <any> , <m0> }
+? { and ( repeatatleast ( <any> , 1 ) , <m0> ) }
+? { not ( and ( <let> , not ( <m0> ) ) ) , <any> , <m1> }
+? { repeatatleast ( or ( <cap> , <any> ) , 3 ) }
+empty
+? { <m0> , or ( or ( <m1> , <m2> ) , <m3> ) }
+? { contain ( concat ( <any> , <low> ) ) }
+? { or ( or ( <cap> , <m0> ) , <let> ) }
+? { not ( or ( or ( <any> , <low> ) , <num> ) ) }
+empty
+empty
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <num> ) }
+? { contain ( and ( <vow> , repeatatleast ( <let> , 1 ) ) ) }
+? { concat ( <m0> , <vow> ) }
+? { endwith ( <let> ) }
+? { concat ( <m0> , <num> ) , <any> }
+? { <cap> , <any> , concat ( <m0> , <low> ) }
+none
+? { <any> , repeatatleast ( <m0> , 3 ) , <num> }
+? { endwith ( or ( <num> , <low> ) ) }
+? { <num> , startwith ( <cap> ) }
+none
+? { endwith ( <low> ) }
+? { endwith ( <cap> ) , <any> }
+? { contain ( <m0> ) , endwith ( <any> ) }
+? { repeatatleast ( or ( <vow> , <let> ) , 3 ) }
+? { or ( <num> , <let> ) }
+none
+? { concat ( <let> , concat ( <m0> , <vow> ) ) }
+? { and ( <num> , <let> ) , <low> }
+none
+none
+? { concat ( <vow> , <m0> ) }
+? { <let> , <m0> , <vow> }
+? { concat ( or ( or ( <m0> , <num> ) , <low> ) , <m1> ) }
+? { and ( contain ( <num> ) , <any> ) }
+? { repeatatleast ( <any> , 1 ) , endwith ( <num> ) }
+? { concat ( <m0> , or ( or ( <any> , <let> ) , <num> ) ) }
+empty
+none
+? { or ( <num> , <cap> ) }
+? { repeatatleast ( or ( <m0> , <m1> ) , 7 ) }
+none
+? { <m0> }
+? { concat ( <any> , endwith ( <num> ) ) }
+? { contain ( repeatatleast ( <m0> , 4 ) ) }
+? { concat ( or ( or ( <vow> , <cap> ) , <let> ) , <num> ) }
+? { concat ( repeatatleast ( <num> , 3 ) , <cap> ) }
+? { or ( or ( <num> , <vow> ) , <any> ) }
+? { not ( concat ( <cap> , <m0> ) ) }
+empty
+? { <m0> }
+? { not ( or ( <vow> , <let> ) ) }
+? { concat ( or ( or ( <m0> , <m1> ) , <let> ) , <any> ) }
+? { endwith ( <let> ) , <any> , and ( <m0> , <m1> ) }
+? { concat ( <let> , <cap> ) }
+? { endwith ( repeatatleast ( or ( <any> , <num> ) , 1 ) ) }
+none
+none
+? { <cap> }
+? { contain ( or ( <let> , <num> ) ) }
+? { endwith ( or ( <vow> , <num> ) ) }
+? { concat ( or ( or ( <low> , <m0> ) , <num> ) , <let> ) }
+? { and ( <m0> , <vow> ) }
+none
+? { concat ( or ( or ( <any> , <num> ) , <m0> ) , <let> ) }
+empty
+? { <vow> }
+? { concat ( <let> , or ( <low> , <num> ) ) }
+? { contain ( <let> ) , <vow> , <let> }
+empty
+? { concat ( <num> , repeatatleast ( <vow> , 2 ) ) }
+none
+empty
+? { concat ( <num> , <any> ) , or ( or ( <m0> , <low> ) , <any> ) }
+? { star ( or ( <num> , <any> ) ) }
+? { concat ( or ( <vow> , <m0> ) , <low> ) }
+? { contain ( <m0> ) , or ( <low> , <cap> ) }
+? { not ( <low> ) , or ( <num> , <let> ) }
+empty
+? { <any> , <m0> , or ( <let> , <any> ) }
+? { or ( <let> , <cap> ) }
+none
+? { endwith ( repeatatleast ( <vow> , 3 ) ) }
+? { concat ( or ( <vow> , <m0> ) , <any> ) }
