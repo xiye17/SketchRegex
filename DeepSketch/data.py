@@ -118,6 +118,9 @@ def index_data(data, input_indexer, output_indexer, example_len_limit):
 def filter_data(data_indexed):
     return [exs for exs in data_indexed if not (exs.y in ["null", 'empty', 'none'])]
 
+def filter_nonexecutable_data(data_indexed):
+    return [exs for exs in data_indexed if not (exs.y in ["null", 'empty'])]
+
 def tricky_filter_data(data_indexed):
     test_kb, input_indexer, output_indexer = load_test_dataset("KB13Plus", "val")
     test_kb = index_data(test_kb, input_indexer, output_indexer, 65)

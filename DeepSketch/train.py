@@ -670,7 +670,12 @@ if __name__ == '__main__':
     train_data_indexed, dev_data_indexed = index_datasets(train, dev, input_indexer, output_indexer, args.decoder_len_limit)
 
     print("Original %i train exs, %i dev exs" % (len(train_data_indexed), len(dev_data_indexed)))
-    if not args.do_rl:
+    if args.do_rl:
+        print('Before filter', len(train_data_indexed), len(dev_data_indexed))
+        train_data_indexed = filter_nonexecutable_data(train_data_indexed)
+        dev_data_indexed = filter_nonexecutable_data(dev_data_indexed)
+        print('After filter', len(train_data_indexed), len(dev_data_indexed))
+    else:
         print('Before filter', len(train_data_indexed), len(dev_data_indexed))
         train_data_indexed = filter_data(train_data_indexed)
         dev_data_indexed = filter_data(dev_data_indexed)
