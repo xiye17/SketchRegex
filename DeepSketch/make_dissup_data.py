@@ -208,7 +208,27 @@ def compose_train_synth():
     with open('targ-train.txt', 'w') as f:
         f.writelines([x + '\n' for x in new_specs])
 
+def maximum_timeout():
+    args = Args()
+    args.dataset = 'TurkSketch'
+    args.split = 'train'
+    args.oracle_mode = 'sketch'
+    args.cache_id = 'cache'
+    cache = TimedCache(args.cache_id, args.dataset)
+
+    items_all = []
+    for k, v in cache.data.items():
+        items_all.extend(list(v.values()))
+    
+    print(len(items_all))
+    items_all = [x for x in items_all if x[0] == 'true']
+    print(len(items_all))
+    items_all.sort()
+    print(items_all[0])
+    print(items_all[-1])
+
 if __name__ == "__main__":
     # precache_train_synth()
-    compose_train_synth()
+    # compose_train_synth()
+    maximum_timeout()
     
