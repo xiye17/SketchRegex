@@ -578,7 +578,7 @@ def train_model_encdec_rl(train_data, test_data, input_indexer, output_indexer, 
             epoch_reward += reward
             epoch_loss += loss.item()
             loss.backward()
-            print('    Batch {}, coverage: {}, match {}, loss {}, reward {}'.format(batch_idx, num_coverage, num_match, loss.item(), reward))
+            # print('    Batch {}, coverage: {}, match {}, loss {}, reward {}'.format(batch_idx, num_coverage, num_match, loss.item(), reward))
             num_batch += 1
             _ = torch.nn.utils.clip_grad_norm_(model_input_emb.parameters(), clip)
             _ = torch.nn.utils.clip_grad_norm_(model_enc.parameters(), clip)
