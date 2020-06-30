@@ -1,0 +1,6 @@
+1 ?{not(repeatatleast(<num>,5))}
+2 ?{<num>}
+3 ?{repeatatleast(<num>,5)}
+4 ?{not(<num>)}
+5 not(?{<num>})
+6 not(?{repeatatleast(<num>,5)})

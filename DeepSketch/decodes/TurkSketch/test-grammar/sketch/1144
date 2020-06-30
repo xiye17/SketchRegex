@@ -1,0 +1,6 @@
+1 ?{<num>}
+2 ?{repeatatleast(<num>,7)}
+3 ?{contain(<num>)}
+4 contain(?{<num>})
+5 contain(?{repeatatleast(<num>,7)})
+6 ?{contain(repeatatleast(<num>,7))}

@@ -1,0 +1,12 @@
+1 ?{endwith(or(<num>,<any>))}
+2 ?{or(<num>,<any>)}
+3 ?{endwith(<num>),<any>}
+4 ?{<num>,<any>}
+5 ?{endwith(<num>)}
+6 ?{endwith(<num>),<let>}
+7 ?{<any>}
+8 ?{endwith(<any>)}
+9 ?{<num>}
+10 ?{<num>,<let>}
+11 ?{<let>}
+12 ?{endwith(<let>)}

@@ -1,0 +1,8 @@
+1 ?{startwith(repeatatleast(<any>,3))}
+2 ?{startwith(<any>)}
+3 ?{<any>}
+4 ?{repeatatleast(<any>,3)}
+5 ?{startwith(repeatatleast(<let>,3))}
+6 ?{startwith(<let>)}
+7 ?{<let>}
+8 ?{repeatatleast(<let>,3)}

@@ -1,0 +1,15 @@
+1 ?{<num>,repeatatleast(<let>,2)}
+2 ?{concat(<num>,<let>)}
+3 ?{<num>,<let>}
+4 ?{repeatatleast(<num>,2)}
+5 ?{repeatatleast(<let>,2)}
+6 ?{<num>}
+7 ?{<let>}
+8 ?{repeatatleast(concat(<num>,<let>),2)}
+9 ?{concat(<num>,repeatatleast(<let>,2))}
+10 concat(<num>,?{repeatatleast(<let>,2)})
+11 concat(?{<num>},<let>)
+12 concat(?{<num>},?{repeatatleast(<let>,2)})
+13 concat(<num>,?{<let>})
+14 concat(?{<num>},repeatatleast(<let>,2))
+15 concat(?{<num>},?{<let>})

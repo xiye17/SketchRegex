@@ -1,0 +1,6 @@
+1 ?{endwith(<num>)}
+2 ?{<num>}
+3 ?{not(<num>)}
+4 ?{not(endwith(<num>))}
+5 not(?{endwith(<num>)})
+6 not(?{<num>})

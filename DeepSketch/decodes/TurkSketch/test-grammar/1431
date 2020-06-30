@@ -1,0 +1,10 @@
+1 ?{startwith(<cap>)}
+2 ?{<cap>}
+3 ?{<let>}
+4 ?{repeatatleast(startwith(<cap>),1)}
+5 ?{repeatatleast(<cap>,1)}
+6 ?{repeatatleast(<let>,1)}
+7 ?{startwith(<let>)}
+8 ?{startwith(repeatatleast(<cap>,1))}
+9 ?{startwith(repeatatleast(<let>,1))}
+10 ?{repeatatleast(startwith(<let>),1)}

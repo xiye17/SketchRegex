@@ -1,0 +1,2 @@
+1 ?{<num>}
+2 ?{endwith(<num>)}

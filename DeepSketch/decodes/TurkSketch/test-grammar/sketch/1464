@@ -1,0 +1,15 @@
+1 ?{<num>,<any>}
+2 ?{contain(<num>),<any>}
+3 ?{<any>}
+4 ?{<num>}
+5 ?{<num>,<let>}
+6 ?{contain(<num>)}
+7 ?{contain(<num>),<let>}
+8 ?{contain(<any>)}
+9 ?{<let>}
+10 contain(?{<num>,<any>})
+11 ?{contain(<let>)}
+12 contain(?{<any>})
+13 contain(?{<num>})
+14 contain(?{<num>,<let>})
+15 contain(?{<let>})

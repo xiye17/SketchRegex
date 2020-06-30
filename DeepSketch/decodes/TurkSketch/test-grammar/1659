@@ -1,0 +1,7 @@
+1 ?{repeatatleast(<m0>,2)}
+2 ?{<m0>}
+3 ?{contain(repeatatleast(<m0>,2))}
+4 ?{contain(<m0>)}
+5 ?{repeatatleast(contain(<m0>),2)}
+6 contain(?{repeatatleast(<m0>,2)})
+7 contain(?{<m0>})

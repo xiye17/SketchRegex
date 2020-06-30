@@ -1,0 +1,7 @@
+1 ?{<let>}
+2 ?{repeatatleast(<let>,3)}
+3 ?{contain(<let>)}
+4 ?{contain(repeatatleast(<let>,3))}
+5 ?{repeatatleast(contain(<let>),3)}
+6 contain(?{<let>})
+7 contain(?{repeatatleast(<let>,3)})

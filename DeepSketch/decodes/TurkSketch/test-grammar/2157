@@ -1,0 +1,9 @@
+1 ?{<vow>,<let>}
+2 ?{contain(<vow>),<let>}
+3 ?{<let>}
+4 ?{<vow>}
+5 ?{contain(<vow>)}
+6 ?{contain(<let>)}
+7 contain(?{<vow>,<let>})
+8 contain(?{<let>})
+9 contain(?{<vow>})

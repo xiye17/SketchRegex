@@ -1,0 +1,10 @@
+1 ?{or(<m0>,<vow>)}
+2 ?{startwith(or(<m0>,<vow>))}
+3 ?{startwith(<m0>),<vow>}
+4 ?{<m0>,<vow>}
+5 ?{repeatatleast(or(<m0>,<vow>),7)}
+6 ?{startwith(repeatatleast(or(<m0>,<vow>),7))}
+7 ?{startwith(<m0>)}
+8 ?{<m0>}
+9 ?{<vow>}
+10 ?{startwith(<vow>)}

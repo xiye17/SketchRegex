@@ -1,0 +1,16 @@
+1 ?{star(<num>),not(<any>)}
+2 ?{star(<num>),<any>}
+3 ?{<num>,not(<any>)}
+4 ?{<num>,<any>}
+5 ?{star(<num>),<let>}
+6 ?{star(<num>),not(<let>)}
+7 ?{not(<any>)}
+8 ?{<num>}
+9 ?{<any>}
+10 ?{star(<num>)}
+11 ?{<num>,<let>}
+12 ?{<num>,not(<let>)}
+13 ?{<let>}
+14 ?{not(<let>)}
+15 not(?{<any>})
+16 not(?{<let>})

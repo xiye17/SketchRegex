@@ -1,0 +1,15 @@
+1 ?{startwith(concat(<m0>,<m1>))}
+2 ?{concat(<m0>,<m1>)}
+3 ?{startwith(<m0>),<m1>}
+4 ?{<m0>,<m1>}
+5 ?{concat(startwith(<m0>),<m1>)}
+6 concat(?{startwith(<m0>)},?{<m1>})
+7 concat(startwith(<m0>),?{<m1>})
+8 ?{startwith(<m0>)}
+9 concat(?{<m0>},?{<m1>})
+10 concat(?{startwith(<m0>)},<m1>)
+11 ?{startwith(<m1>)}
+12 concat(<m0>,?{<m1>})
+13 ?{<m0>}
+14 ?{<m1>}
+15 concat(?{<m0>},<m1>)

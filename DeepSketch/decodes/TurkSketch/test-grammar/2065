@@ -1,0 +1,17 @@
+1 ?{endwith(<any>),not(<num>)}
+2 ?{endwith(<any>),<num>}
+3 ?{<any>,not(<num>)}
+4 ?{<any>,<num>}
+5 ?{endwith(<let>),not(<num>)}
+6 ?{not(<num>)}
+7 ?{endwith(<any>)}
+8 ?{endwith(<let>),<num>}
+9 ?{<num>}
+10 ?{<let>,not(<num>)}
+11 ?{<any>}
+12 ?{endwith(<num>)}
+13 ?{<let>,<num>}
+14 ?{endwith(not(<num>))}
+15 ?{endwith(<let>)}
+16 ?{<let>}
+17 not(?{<num>})

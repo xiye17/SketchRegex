@@ -1,0 +1,9 @@
+1 ?{<m0>,<m1>}
+2 ?{contain(<m0>),<m1>}
+3 contain(?{<m0>,<m1>})
+4 ?{contain(<m1>)}
+5 ?{<m0>}
+6 ?{<m1>}
+7 ?{contain(<m0>)}
+8 contain(?{<m0>})
+9 contain(?{<m1>})

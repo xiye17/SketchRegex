@@ -1,0 +1,15 @@
+1 ?{and(<m0>,<any>)}
+2 ?{<m0>,<any>}
+3 ?{or(<m0>,<any>)}
+4 ?{<m0>}
+5 ?{<m0>,<let>}
+6 ?{and(<m0>,<let>)}
+7 ?{star(or(<m0>,<any>))}
+8 and(?{<m0>},<any>)
+9 and(?{<m0>},?{<any>})
+10 and(<m0>,?{<any>})
+11 ?{<any>}
+12 and(?{<m0>},<let>)
+13 and(?{<m0>},?{<let>})
+14 and(<m0>,?{<let>})
+15 ?{<let>}

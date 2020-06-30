@@ -1,0 +1,4 @@
+1 ?{startwith(<num>)}
+2 ?{endwith(startwith(<num>))}
+3 ?{<num>}
+4 ?{endwith(<num>)}

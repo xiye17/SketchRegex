@@ -1,0 +1,8 @@
+1 ?{<num>}
+2 ?{not(<num>)}
+3 ?{contain(<num>)}
+4 not(?{<num>})
+5 contain(?{<num>})
+6 ?{not(contain(<num>))}
+7 not(?{contain(<num>)})
+8 not(contain(?{<num>}))

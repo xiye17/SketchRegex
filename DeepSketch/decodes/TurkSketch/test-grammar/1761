@@ -1,0 +1,5 @@
+1 ?{endwith(<m0>)}
+2 ?{<m0>}
+3 ?{endwith(contain(<m0>))}
+4 ?{contain(<m0>)}
+5 contain(?{<m0>})

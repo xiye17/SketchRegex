@@ -1,0 +1,13 @@
+1 ?{and(<let>,startwith(<vow>))}
+2 ?{<let>,startwith(<vow>)}
+3 ?{and(<let>,<vow>)}
+4 ?{startwith(<vow>)}
+5 ?{<let>,<vow>}
+6 ?{<vow>}
+7 ?{<let>}
+8 and(<let>,?{<vow>})
+9 and(?{<let>},<vow>)
+10 and(<let>,?{startwith(<vow>)})
+11 and(?{<let>},?{<vow>})
+12 and(?{<let>},startwith(<vow>))
+13 and(?{<let>},?{startwith(<vow>)})

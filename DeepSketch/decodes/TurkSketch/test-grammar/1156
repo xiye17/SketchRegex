@@ -1,0 +1,7 @@
+1 ?{<vow>}
+2 ?{not(<vow>)}
+3 ?{repeatatleast(<vow>,7)}
+4 ?{repeatatleast(not(<vow>),7)}
+5 ?{not(repeatatleast(<vow>,7))}
+6 not(?{<vow>})
+7 not(?{repeatatleast(<vow>,7)})

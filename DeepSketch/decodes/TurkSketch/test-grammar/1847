@@ -1,0 +1,4 @@
+1 ?{<any>}
+2 ?{star(<any>)}
+3 ?{<let>}
+4 ?{star(<let>)}

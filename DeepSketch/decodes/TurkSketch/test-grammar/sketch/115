@@ -1,0 +1,15 @@
+1 ?{concat(<let>,<vow>)}
+2 ?{startwith(concat(<let>,<vow>))}
+3 ?{<let>,<vow>}
+4 ?{startwith(<let>),<vow>}
+5 ?{<let>}
+6 ?{<vow>}
+7 ?{startwith(<let>)}
+8 ?{startwith(<vow>)}
+9 ?{concat(startwith(<let>),<vow>)}
+10 concat(?{<let>},<vow>)
+11 concat(?{startwith(<let>)},<vow>)
+12 concat(<let>,?{<vow>})
+13 concat(?{<let>},?{<vow>})
+14 concat(?{startwith(<let>)},?{<vow>})
+15 concat(startwith(<let>),?{<vow>})

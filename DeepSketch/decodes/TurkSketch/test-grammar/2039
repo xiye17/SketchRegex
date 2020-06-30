@@ -1,0 +1,10 @@
+1 ?{or(<m0>,<vow>)}
+2 ?{endwith(or(<m0>,<vow>))}
+3 ?{endwith(<m0>),<vow>}
+4 ?{<m0>,<vow>}
+5 ?{repeatatleast(or(<m0>,<vow>),4)}
+6 ?{endwith(repeatatleast(or(<m0>,<vow>),4))}
+7 ?{endwith(<m0>)}
+8 ?{<m0>}
+9 ?{<vow>}
+10 ?{endwith(<vow>)}

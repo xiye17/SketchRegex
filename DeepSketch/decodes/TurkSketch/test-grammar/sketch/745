@@ -1,0 +1,13 @@
+1 ?{concat(<cap>,<m0>)}
+2 ?{<cap>,<m0>}
+3 ?{concat(<let>,<m0>)}
+4 ?{<let>,<m0>}
+5 ?{<m0>}
+6 ?{<cap>}
+7 ?{<let>}
+8 concat(<cap>,?{<m0>})
+9 concat(<let>,?{<m0>})
+10 concat(?{<cap>},?{<m0>})
+11 concat(?{<let>},?{<m0>})
+12 concat(?{<cap>},<m0>)
+13 concat(?{<let>},<m0>)

@@ -1,0 +1,15 @@
+1 ?{not(<m0>),<low>}
+2 ?{not(<m0>),<let>}
+3 ?{<m0>,<low>}
+4 ?{<m0>,<let>}
+5 ?{not(<m0>)}
+6 ?{<m0>}
+7 not(?{<m0>,<low>})
+8 not(?{<m0>,<let>})
+9 ?{<low>}
+10 ?{<let>}
+11 not(?{<m0>})
+12 ?{not(<low>)}
+13 ?{not(<let>)}
+14 not(?{<low>})
+15 not(?{<let>})

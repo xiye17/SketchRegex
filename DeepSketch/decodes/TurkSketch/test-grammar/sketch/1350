@@ -1,0 +1,11 @@
+1 ?{and(<let>,<vow>)}
+2 ?{<let>,<vow>}
+3 ?{concat(<let>,<vow>)}
+4 ?{<vow>}
+5 ?{<let>}
+6 and(?{<let>},<vow>)
+7 and(<let>,?{<vow>})
+8 concat(?{<let>},<vow>)
+9 concat(<let>,?{<vow>})
+10 concat(?{<let>},?{<vow>})
+11 and(?{<let>},?{<vow>})

@@ -1,0 +1,5 @@
+1 ?{startwith(<num>)}
+2 ?{repeatatleast(startwith(<num>),4)}
+3 ?{<num>}
+4 ?{repeatatleast(<num>,4)}
+5 ?{startwith(repeatatleast(<num>,4))}

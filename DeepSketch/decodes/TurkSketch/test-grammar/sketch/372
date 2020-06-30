@@ -1,0 +1,17 @@
+1 ?{repeatatleast(<vow>,1)}
+2 ?{repeatatleast(endwith(<vow>),1)}
+3 ?{endwith(repeatatleast(<vow>,1))}
+4 ?{not(repeatatleast(<vow>,1))}
+5 ?{endwith(<vow>)}
+6 ?{not(endwith(repeatatleast(<vow>,1)))}
+7 ?{<vow>}
+8 ?{not(<vow>)}
+9 ?{not(endwith(<vow>))}
+10 ?{repeatatleast(not(<vow>),1)}
+11 ?{not(repeatatleast(endwith(<vow>),1))}
+12 ?{repeatatleast(not(endwith(<vow>)),1)}
+13 not(?{repeatatleast(endwith(<vow>),1)})
+14 not(?{endwith(repeatatleast(<vow>,1))})
+15 not(?{repeatatleast(<vow>,1)})
+16 not(?{endwith(<vow>)})
+17 not(?{<vow>})

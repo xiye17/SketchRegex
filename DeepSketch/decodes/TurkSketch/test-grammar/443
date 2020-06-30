@@ -1,0 +1,15 @@
+1 ?{concat(<m0>,<m1>)}
+2 ?{<m0>,<m1>}
+3 ?{<m0>,star(<m1>)}
+4 ?{star(concat(<m0>,<m1>))}
+5 ?{concat(<m0>,star(<m1>))}
+6 concat(?{<m0>},?{<m1>})
+7 concat(?{<m0>},?{star(<m1>)})
+8 ?{<m0>}
+9 ?{<m1>}
+10 ?{star(<m0>)}
+11 ?{star(<m1>)}
+12 concat(<m0>,?{<m1>})
+13 concat(<m0>,?{star(<m1>)})
+14 concat(?{<m0>},<m1>)
+15 concat(?{<m0>},star(<m1>))

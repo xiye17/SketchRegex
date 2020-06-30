@@ -1,0 +1,17 @@
+1 ?{and(<vow>,<m0>)}
+2 ?{endwith(<vow>),<m0>}
+3 ?{and(endwith(<vow>),<m0>)}
+4 ?{<vow>,<m0>}
+5 ?{endwith(<m0>)}
+6 ?{endwith(and(<vow>,<m0>))}
+7 ?{<m0>}
+8 ?{endwith(or(<vow>,<m0>))}
+9 ?{or(<vow>,<m0>)}
+10 ?{endwith(<vow>)}
+11 and(<vow>,?{<m0>})
+12 and(?{endwith(<vow>)},<m0>)
+13 ?{<vow>}
+14 and(?{<vow>},<m0>)
+15 and(?{endwith(<vow>)},?{<m0>})
+16 and(endwith(<vow>),?{<m0>})
+17 and(?{<vow>},?{<m0>})

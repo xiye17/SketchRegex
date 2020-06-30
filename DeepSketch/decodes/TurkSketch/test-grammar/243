@@ -1,0 +1,14 @@
+1 ?{<cap>}
+2 ?{<let>}
+3 ?{repeatatleast(<cap>,7)}
+4 ?{repeatatleast(<let>,7)}
+5 ?{contain(<cap>)}
+6 ?{contain(<let>)}
+7 ?{repeatatleast(contain(<cap>),7)}
+8 ?{repeatatleast(contain(<let>),7)}
+9 ?{contain(repeatatleast(<cap>,7))}
+10 ?{contain(repeatatleast(<let>,7))}
+11 contain(?{<cap>})
+12 contain(?{<let>})
+13 contain(?{repeatatleast(<cap>,7)})
+14 contain(?{repeatatleast(<let>,7)})

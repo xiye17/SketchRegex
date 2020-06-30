@@ -1,0 +1,14 @@
+1 ?{startwith(<m0>)}
+2 ?{repeatatleast(startwith(<m0>),7)}
+3 ?{repeatatleast(<m0>,7)}
+4 ?{startwith(repeatatleast(<m0>,7))}
+5 ?{<m0>}
+6 ?{startwith(<any>),repeatatleast(<m0>,7)}
+7 ?{startwith(<any>),<m0>}
+8 ?{<any>,repeatatleast(<m0>,7)}
+9 ?{<any>,<m0>}
+10 ?{startwith(<any>)}
+11 ?{repeatatleast(startwith(<any>),7)}
+12 ?{<any>}
+13 ?{repeatatleast(<any>,7)}
+14 ?{startwith(repeatatleast(<any>,7))}

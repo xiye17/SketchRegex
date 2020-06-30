@@ -1,0 +1,14 @@
+1 ?{or(<vow>,<let>)}
+2 ?{endwith(or(<vow>,<let>))}
+3 ?{star(or(<vow>,<let>))}
+4 ?{<vow>,<let>}
+5 ?{star(<vow>),<let>}
+6 ?{endwith(<vow>),<let>}
+7 ?{endwith(star(or(<vow>,<let>)))}
+8 ?{endwith(star(<vow>)),<let>}
+9 ?{<let>}
+10 ?{endwith(<let>)}
+11 ?{<vow>}
+12 ?{endwith(<vow>)}
+13 ?{star(<vow>)}
+14 ?{endwith(star(<vow>))}

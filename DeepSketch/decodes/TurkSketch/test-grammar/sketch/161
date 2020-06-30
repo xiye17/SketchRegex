@@ -1,0 +1,12 @@
+1 ?{startwith(<any>)}
+2 ?{not(startwith(<any>))}
+3 ?{<any>}
+4 ?{not(<any>)}
+5 ?{startwith(<let>)}
+6 ?{not(startwith(<let>))}
+7 ?{<let>}
+8 ?{not(<let>)}
+9 not(?{startwith(<any>)})
+10 not(?{<any>})
+11 not(?{startwith(<let>)})
+12 not(?{<let>})

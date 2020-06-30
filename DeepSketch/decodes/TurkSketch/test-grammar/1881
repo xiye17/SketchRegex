@@ -1,0 +1,17 @@
+1 ?{repeatatleast(<cap>,4),<let>}
+2 ?{concat(<cap>,<let>)}
+3 ?{concat(<let>,<let>)}
+4 ?{<cap>,<let>}
+5 ?{concat(repeatatleast(<cap>,4),<let>)}
+6 ?{repeatatleast(<cap>,4)}
+7 ?{<let>}
+8 ?{<cap>}
+9 concat(repeatatleast(<cap>,4),?{<let>})
+10 concat(?{<cap>},<let>)
+11 concat(?{<let>},<let>)
+12 concat(?{repeatatleast(<cap>,4)},<let>)
+13 concat(<cap>,?{<let>})
+14 concat(<let>,?{<let>})
+15 concat(?{<cap>},?{<let>})
+16 concat(?{<let>},?{<let>})
+17 concat(?{repeatatleast(<cap>,4)},?{<let>})

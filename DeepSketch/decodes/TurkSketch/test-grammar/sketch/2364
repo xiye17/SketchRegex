@@ -1,0 +1,16 @@
+1 ?{<low>}
+2 ?{<let>}
+3 ?{not(<low>)}
+4 ?{not(<let>)}
+5 ?{contain(<low>)}
+6 ?{contain(<let>)}
+7 ?{not(contain(<low>))}
+8 not(contain(?{<low>}))
+9 not(?{<low>})
+10 not(?{<let>})
+11 contain(?{<low>})
+12 contain(?{<let>})
+13 not(?{contain(<low>)})
+14 ?{not(contain(<let>))}
+15 not(?{contain(<let>)})
+16 not(contain(?{<let>}))

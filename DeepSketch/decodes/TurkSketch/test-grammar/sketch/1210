@@ -1,0 +1,6 @@
+1 ?{endwith(<let>)}
+2 ?{<let>}
+3 ?{not(<let>)}
+4 ?{not(endwith(<let>))}
+5 not(?{endwith(<let>)})
+6 not(?{<let>})

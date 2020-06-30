@@ -1,0 +1,17 @@
+1 ?{concat(<low>,<let>)}
+2 ?{concat(<let>,<let>)}
+3 ?{<low>,<let>}
+4 ?{star(<low>),<let>}
+5 ?{<let>}
+6 ?{concat(star(<low>),<let>)}
+7 ?{<low>}
+8 ?{star(<low>)}
+9 concat(?{<low>},<let>)
+10 concat(?{<let>},<let>)
+11 concat(<low>,?{<let>})
+12 concat(<let>,?{<let>})
+13 concat(star(<low>),?{<let>})
+14 concat(?{<low>},?{<let>})
+15 concat(?{<let>},?{<let>})
+16 concat(?{star(<low>)},<let>)
+17 concat(?{star(<low>)},?{<let>})

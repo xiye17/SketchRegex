@@ -1,0 +1,10 @@
+1 ?{or(<num>,<low>)}
+2 ?{repeatatleast(or(<num>,<low>),2)}
+3 ?{<num>,<low>}
+4 ?{<num>,<let>}
+5 ?{repeatatleast(<num>,2),<low>}
+6 ?{repeatatleast(<num>,2),<let>}
+7 ?{<low>}
+8 ?{<let>}
+9 ?{<num>}
+10 ?{repeatatleast(<num>,2)}

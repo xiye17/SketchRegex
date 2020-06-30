@@ -1,0 +1,14 @@
+1 ?{or(<m0>,<any>)}
+2 ?{endwith(or(<m0>,<any>))}
+3 ?{endwith(<m0>),<any>}
+4 ?{<m0>,<any>}
+5 ?{repeatatleast(or(<m0>,<any>),5)}
+6 ?{endwith(repeatatleast(or(<m0>,<any>),5))}
+7 ?{endwith(<m0>)}
+8 ?{<m0>}
+9 ?{endwith(<m0>),<let>}
+10 ?{<m0>,<let>}
+11 ?{<any>}
+12 ?{endwith(<any>)}
+13 ?{<let>}
+14 ?{endwith(<let>)}

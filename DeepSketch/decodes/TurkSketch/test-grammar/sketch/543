@@ -1,0 +1,17 @@
+1 ?{endwith(<num>)}
+2 ?{repeatatleast(endwith(<num>),3)}
+3 ?{<num>}
+4 ?{repeatatleast(<num>,3)}
+5 ?{contain(<num>)}
+6 ?{repeatatleast(contain(<num>),3)}
+7 ?{endwith(repeatatleast(<num>,3))}
+8 ?{contain(endwith(<num>))}
+9 ?{contain(repeatatleast(endwith(<num>),3))}
+10 ?{repeatatleast(contain(endwith(<num>)),3)}
+11 contain(?{endwith(<num>)})
+12 ?{contain(repeatatleast(<num>,3))}
+13 contain(?{repeatatleast(endwith(<num>),3)})
+14 contain(?{<num>})
+15 contain(?{repeatatleast(<num>,3)})
+16 ?{contain(endwith(repeatatleast(<num>,3)))}
+17 contain(?{endwith(repeatatleast(<num>,3))})

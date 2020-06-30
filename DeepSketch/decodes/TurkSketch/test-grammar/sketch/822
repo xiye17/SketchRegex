@@ -1,0 +1,17 @@
+1 ?{endwith(<cap>),not(<m0>)}
+2 ?{endwith(<cap>),<m0>}
+3 ?{<cap>,not(<m0>)}
+4 ?{<let>,not(<m0>)}
+5 ?{endwith(<let>),not(<m0>)}
+6 ?{<cap>,<m0>}
+7 ?{<let>,<m0>}
+8 ?{endwith(<let>),<m0>}
+9 ?{endwith(<m0>)}
+10 ?{not(<m0>)}
+11 ?{<m0>}
+12 ?{endwith(not(<m0>))}
+13 ?{endwith(<cap>)}
+14 not(?{<m0>})
+15 ?{<cap>}
+16 ?{<let>}
+17 ?{endwith(<let>)}

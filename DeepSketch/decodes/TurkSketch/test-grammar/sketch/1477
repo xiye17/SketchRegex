@@ -1,0 +1,5 @@
+1 ?{<num>}
+2 ?{star(<num>)}
+3 ?{startwith(<num>)}
+4 ?{startwith(star(<num>))}
+5 ?{star(startwith(<num>))}

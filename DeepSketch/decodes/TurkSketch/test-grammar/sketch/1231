@@ -1,0 +1,13 @@
+1 ?{or(<any>,<let>)}
+2 ?{contain(or(<any>,<let>))}
+3 ?{<any>,<let>}
+4 ?{contain(<any>),<let>}
+5 ?{<any>}
+6 ?{<let>}
+7 ?{contain(<any>)}
+8 ?{contain(<let>)}
+9 ?{contain(<let>),<let>}
+10 contain(?{or(<any>,<let>)})
+11 contain(?{<any>,<let>})
+12 contain(?{<any>})
+13 contain(?{<let>})

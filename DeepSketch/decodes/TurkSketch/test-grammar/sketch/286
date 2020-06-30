@@ -1,0 +1,15 @@
+1 ?{and(<low>,<vow>)}
+2 ?{and(<let>,<vow>)}
+3 ?{<low>,<vow>}
+4 ?{<let>,<vow>}
+5 ?{<vow>}
+6 ?{<low>}
+7 ?{<let>}
+8 ?{or(<low>,<vow>)}
+9 ?{or(<let>,<vow>)}
+10 and(?{<low>},<vow>)
+11 and(?{<let>},<vow>)
+12 and(<low>,?{<vow>})
+13 and(<let>,?{<vow>})
+14 and(?{<low>},?{<vow>})
+15 and(?{<let>},?{<vow>})

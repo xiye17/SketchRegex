@@ -1,0 +1,7 @@
+1 ?{star(<m0>)}
+2 ?{<m0>}
+3 ?{contain(<m0>)}
+4 ?{contain(star(<m0>))}
+5 ?{star(contain(<m0>))}
+6 contain(?{star(<m0>)})
+7 contain(?{<m0>})

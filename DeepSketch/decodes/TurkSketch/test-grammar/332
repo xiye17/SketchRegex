@@ -1,0 +1,5 @@
+1 ?{repeatatleast(<m0>,5),<let>}
+2 ?{<m0>,<let>}
+3 ?{<m0>}
+4 ?{repeatatleast(<m0>,5)}
+5 ?{<let>}

@@ -1,0 +1,13 @@
+1 ?{concat(<vow>,<cap>)}
+2 ?{concat(<vow>,<let>)}
+3 ?{<cap>,<vow>}
+4 ?{<let>,<vow>}
+5 ?{<vow>}
+6 concat(?{<vow>},<cap>)
+7 concat(?{<vow>},<let>)
+8 ?{<cap>}
+9 ?{<let>}
+10 concat(<vow>,?{<cap>})
+11 concat(<vow>,?{<let>})
+12 concat(?{<vow>},?{<cap>})
+13 concat(?{<vow>},?{<let>})

@@ -1,0 +1,14 @@
+1 ?{star(<any>)}
+2 ?{<any>}
+3 ?{contain(<any>)}
+4 ?{star(contain(<any>))}
+5 ?{star(<let>)}
+6 ?{contain(star(<any>))}
+7 ?{<let>}
+8 ?{contain(<let>)}
+9 ?{star(contain(<let>))}
+10 contain(?{star(<any>)})
+11 ?{contain(star(<let>))}
+12 contain(?{<any>})
+13 contain(?{star(<let>)})
+14 contain(?{<let>})

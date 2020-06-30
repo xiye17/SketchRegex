@@ -1,0 +1,13 @@
+1 ?{concat(<num>,<low>)}
+2 ?{concat(<num>,<let>)}
+3 ?{<num>,<low>}
+4 ?{<num>,<let>}
+5 ?{<num>}
+6 ?{<low>}
+7 ?{<let>}
+8 concat(?{<num>},<low>)
+9 concat(<num>,?{<low>})
+10 concat(?{<num>},?{<low>})
+11 concat(?{<num>},<let>)
+12 concat(<num>,?{<let>})
+13 concat(?{<num>},?{<let>})

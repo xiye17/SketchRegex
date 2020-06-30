@@ -1,0 +1,5 @@
+1 ?{<let>}
+2 ?{contain(<let>)}
+3 ?{endwith(<let>)}
+4 ?{endwith(contain(<let>))}
+5 contain(?{<let>})

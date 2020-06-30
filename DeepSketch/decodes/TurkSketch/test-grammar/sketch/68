@@ -1,0 +1,11 @@
+1 ?{<low>,<num>}
+2 ?{<let>,<num>}
+3 ?{<num>}
+4 ?{<low>}
+5 ?{<let>}
+6 ?{<any>,<num>}
+7 ?{<low>,<any>}
+8 ?{<let>,<any>}
+9 ?{<any>}
+10 ?{<low>,<any>,<num>}
+11 ?{<let>,<any>,<num>}

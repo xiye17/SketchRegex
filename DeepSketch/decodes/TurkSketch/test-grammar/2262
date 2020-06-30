@@ -1,0 +1,6 @@
+1 ?{<any>}
+2 ?{contain(<any>)}
+3 ?{<let>}
+4 contain(?{<any>})
+5 ?{contain(<let>)}
+6 contain(?{<let>})

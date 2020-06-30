@@ -1,0 +1,17 @@
+1 ?{<m0>,not(<m1>)}
+2 ?{contain(<m0>),not(<m1>)}
+3 ?{<m0>,<m1>}
+4 ?{contain(<m0>),<m1>}
+5 contain(?{<m0>,not(<m1>)})
+6 contain(?{<m0>,<m1>})
+7 ?{not(<m1>)}
+8 ?{contain(<m0>)}
+9 ?{contain(<m1>)}
+10 ?{<m0>}
+11 ?{<m1>}
+12 ?{contain(not(<m1>))}
+13 contain(?{not(<m1>)})
+14 not(?{<m1>})
+15 contain(?{<m0>})
+16 contain(?{<m1>})
+17 contain(not(?{<m1>}))

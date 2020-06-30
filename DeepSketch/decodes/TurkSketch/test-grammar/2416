@@ -1,0 +1,7 @@
+1 ?{concat(<m0>,<num>)}
+2 ?{<m0>,<num>}
+3 ?{<m0>}
+4 concat(?{<m0>},<num>)
+5 concat(?{<m0>},?{<num>})
+6 concat(<m0>,?{<num>})
+7 ?{<num>}

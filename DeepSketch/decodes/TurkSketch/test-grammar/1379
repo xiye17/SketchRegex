@@ -1,0 +1,15 @@
+1 ?{endwith(<let>),<num>}
+2 ?{endwith(concat(<let>,<num>))}
+3 ?{concat(<let>,<num>)}
+4 ?{concat(endwith(<let>),<num>)}
+5 ?{<let>,<num>}
+6 ?{endwith(<let>)}
+7 ?{<num>}
+8 ?{<let>}
+9 ?{endwith(<num>)}
+10 concat(?{endwith(<let>)},<num>)
+11 concat(?{<let>},<num>)
+12 concat(?{endwith(<let>)},?{<num>})
+13 concat(<let>,?{<num>})
+14 concat(?{<let>},?{<num>})
+15 concat(endwith(<let>),?{<num>})

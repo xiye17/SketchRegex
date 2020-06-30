@@ -1,0 +1,6 @@
+1 ?{startwith(<num>)}
+2 ?{<num>}
+3 ?{contain(<num>)}
+4 ?{contain(startwith(<num>))}
+5 contain(?{startwith(<num>)})
+6 contain(?{<num>})

@@ -1,0 +1,15 @@
+1 ?{<vow>,<num>}
+2 ?{<vow>,repeatatleast(<num>,7)}
+3 ?{contain(<vow>),<num>}
+4 ?{contain(<vow>),repeatatleast(<num>,7)}
+5 ?{<num>}
+6 ?{repeatatleast(<num>,7)}
+7 ?{<vow>}
+8 ?{contain(<vow>)}
+9 ?{contain(<num>)}
+10 contain(?{<vow>,<num>})
+11 contain(?{<vow>,repeatatleast(<num>,7)})
+12 contain(?{<num>})
+13 contain(?{repeatatleast(<num>,7)})
+14 contain(?{<vow>})
+15 ?{contain(repeatatleast(<num>,7))}

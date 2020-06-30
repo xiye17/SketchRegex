@@ -1,0 +1,10 @@
+1 ?{endwith(<low>)}
+2 ?{repeatatleast(endwith(<low>),4)}
+3 ?{<low>}
+4 ?{<let>}
+5 ?{repeatatleast(<low>,4)}
+6 ?{repeatatleast(<let>,4)}
+7 ?{endwith(<let>)}
+8 ?{repeatatleast(endwith(<let>),4)}
+9 ?{endwith(repeatatleast(<low>,4))}
+10 ?{endwith(repeatatleast(<let>,4))}

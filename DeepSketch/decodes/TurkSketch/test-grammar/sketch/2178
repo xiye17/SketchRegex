@@ -1,0 +1,15 @@
+1 ?{<m0>,<low>}
+2 ?{<m0>,<let>}
+3 ?{contain(<m0>),<low>}
+4 ?{contain(<m0>),<let>}
+5 ?{<m0>}
+6 ?{contain(<m0>)}
+7 contain(?{<m0>,<low>})
+8 contain(?{<m0>,<let>})
+9 ?{<low>}
+10 ?{<let>}
+11 contain(?{<m0>})
+12 ?{contain(<low>)}
+13 ?{contain(<let>)}
+14 contain(?{<low>})
+15 contain(?{<let>})

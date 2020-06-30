@@ -1,0 +1,16 @@
+1 ?{or(or(<let>,<cap>),<any>)}
+2 ?{or(<let>,<cap>),<any>}
+3 ?{<let>,or(<cap>,<any>)}
+4 ?{<let>,or(<let>,<any>)}
+5 ?{or(<let>,<cap>)}
+6 ?{or(<let>,<cap>),<let>}
+7 ?{or(<cap>,<any>)}
+8 ?{or(<let>,<any>)}
+9 ?{<let>,<any>}
+10 ?{<cap>,<any>}
+11 ?{<let>,<cap>}
+12 ?{<any>}
+13 ?{<let>}
+14 ?{<cap>}
+15 ?{<cap>,<let>}
+16 ?{<let>,<cap>,<any>}

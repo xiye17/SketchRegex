@@ -1,0 +1,14 @@
+1 ?{and(<any>,<num>)}
+2 ?{<any>,<num>}
+3 ?{or(<any>,<num>)}
+4 ?{and(<let>,<num>)}
+5 ?{<num>}
+6 ?{<any>}
+7 ?{<let>,<num>}
+8 and(<any>,?{<num>})
+9 and(?{<any>},<num>)
+10 ?{<let>}
+11 and(?{<any>},?{<num>})
+12 and(<let>,?{<num>})
+13 and(?{<let>},<num>)
+14 and(?{<let>},?{<num>})

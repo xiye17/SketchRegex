@@ -1,0 +1,10 @@
+1 ?{startwith(<m0>),endwith(<m1>)}
+2 ?{<m0>,endwith(<m1>)}
+3 ?{startwith(<m0>),<m1>}
+4 ?{<m0>,<m1>}
+5 ?{startwith(<m0>)}
+6 ?{endwith(<m1>)}
+7 ?{startwith(<m1>)}
+8 ?{<m0>}
+9 ?{<m1>}
+10 ?{startwith(endwith(<m1>))}

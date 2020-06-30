@@ -1,0 +1,16 @@
+1 ?{not(repeatatleast(<let>,3))}
+2 ?{<let>}
+3 ?{repeatatleast(<let>,3)}
+4 ?{not(<let>)}
+5 ?{contain(<let>)}
+6 ?{contain(repeatatleast(<let>,3))}
+7 not(contain(?{repeatatleast(<let>,3)}))
+8 not(?{<let>})
+9 not(?{repeatatleast(<let>,3)})
+10 contain(?{<let>})
+11 ?{not(contain(repeatatleast(<let>,3)))}
+12 ?{not(contain(<let>))}
+13 contain(?{repeatatleast(<let>,3)})
+14 not(?{contain(<let>)})
+15 not(contain(?{<let>}))
+16 not(?{contain(repeatatleast(<let>,3))})

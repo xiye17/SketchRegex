@@ -1,0 +1,15 @@
+1 ?{not(<let>),not(<vow>)}
+2 ?{<let>,not(<vow>)}
+3 ?{not(<let>),<vow>}
+4 ?{<let>,<vow>}
+5 ?{not(<vow>)}
+6 ?{<let>}
+7 ?{<vow>}
+8 ?{not(<let>)}
+9 ?{not(not(<vow>))}
+10 not(?{<let>,not(<vow>)})
+11 not(?{<let>,<vow>})
+12 not(?{not(<vow>)})
+13 not(?{<vow>})
+14 not(?{<let>})
+15 not(not(?{<vow>}))

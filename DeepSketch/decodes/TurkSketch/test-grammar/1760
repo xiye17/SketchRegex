@@ -1,0 +1,10 @@
+1 ?{<let>}
+2 ?{startwith(<let>)}
+3 ?{contain(<let>)}
+4 ?{startwith(contain(<let>))}
+5 ?{startwith(repeatatleast(<let>,1))}
+6 ?{repeatatleast(<let>,1)}
+7 contain(?{<let>})
+8 ?{contain(repeatatleast(<let>,1))}
+9 contain(?{repeatatleast(<let>,1)})
+10 ?{startwith(contain(repeatatleast(<let>,1)))}

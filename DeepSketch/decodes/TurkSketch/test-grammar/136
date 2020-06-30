@@ -1,0 +1,8 @@
+1 ?{endwith(or(<vow>,<let>))}
+2 ?{or(<vow>,<let>)}
+3 ?{endwith(<vow>),<let>}
+4 ?{<vow>,<let>}
+5 ?{endwith(<vow>)}
+6 ?{<let>}
+7 ?{<vow>}
+8 ?{endwith(<let>)}

@@ -1,0 +1,11 @@
+1 ?{endwith(<let>),contain(<m0>)}
+2 ?{endwith(<let>),<m0>}
+3 ?{<let>,contain(<m0>)}
+4 ?{<let>,<m0>}
+5 ?{endwith(<m0>)}
+6 ?{contain(<m0>)}
+7 ?{<m0>}
+8 ?{endwith(contain(<m0>))}
+9 ?{endwith(<let>)}
+10 contain(?{<m0>})
+11 ?{<let>}

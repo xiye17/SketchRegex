@@ -1,0 +1,13 @@
+1 ?{repeatatleast(<vow>,7),<num>}
+2 ?{concat(repeatatleast(<vow>,7),<num>)}
+3 ?{<vow>,<num>}
+4 ?{concat(<vow>,<num>)}
+5 ?{<num>}
+6 ?{<vow>}
+7 ?{repeatatleast(<vow>,7)}
+8 concat(?{<vow>},<num>)
+9 concat(?{repeatatleast(<vow>,7)},<num>)
+10 concat(<vow>,?{<num>})
+11 concat(?{<vow>},?{<num>})
+12 concat(?{repeatatleast(<vow>,7)},?{<num>})
+13 concat(repeatatleast(<vow>,7),?{<num>})

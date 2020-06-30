@@ -1,0 +1,6 @@
+1 ?{<low>}
+2 ?{<let>}
+3 ?{not(<low>)}
+4 ?{not(<let>)}
+5 not(?{<low>})
+6 not(?{<let>})

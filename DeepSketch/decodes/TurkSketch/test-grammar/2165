@@ -1,0 +1,8 @@
+1 ?{<any>}
+2 ?{star(<any>)}
+3 ?{endwith(<any>)}
+4 ?{endwith(star(<any>))}
+5 ?{<let>}
+6 ?{star(<let>)}
+7 ?{endwith(<let>)}
+8 ?{endwith(star(<let>))}

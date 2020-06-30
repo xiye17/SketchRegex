@@ -1,0 +1,15 @@
+1 ?{not(<cap>),<m0>}
+2 ?{not(<let>),<m0>}
+3 ?{<cap>,<m0>}
+4 ?{<let>,<m0>}
+5 ?{not(<m0>)}
+6 ?{<m0>}
+7 not(?{<cap>,<m0>})
+8 not(?{<let>,<m0>})
+9 not(?{<m0>})
+10 ?{<cap>}
+11 ?{<let>}
+12 ?{not(<cap>)}
+13 ?{not(<let>)}
+14 not(?{<cap>})
+15 not(?{<let>})

@@ -1,0 +1,16 @@
+1 ?{<let>,not(<vow>)}
+2 ?{<let>,<vow>}
+3 ?{concat(<let>,<vow>)}
+4 ?{not(<vow>)}
+5 ?{<vow>}
+6 ?{<let>}
+7 ?{concat(<let>,not(<vow>))}
+8 not(?{<vow>})
+9 concat(<let>,?{not(<vow>)})
+10 concat(?{<let>},<vow>)
+11 concat(<let>,?{<vow>})
+12 concat(?{<let>},not(<vow>))
+13 concat(?{<let>},?{not(<vow>)})
+14 concat(?{<let>},?{<vow>})
+15 concat(<let>,not(?{<vow>}))
+16 concat(?{<let>},not(?{<vow>}))

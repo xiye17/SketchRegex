@@ -1,0 +1,10 @@
+1 ?{startwith(or(<m0>,<let>))}
+2 ?{or(<m0>,<let>)}
+3 ?{startwith(<m0>),<let>}
+4 ?{startwith(repeatatleast(or(<m0>,<let>),4))}
+5 ?{<m0>,<let>}
+6 ?{repeatatleast(or(<m0>,<let>),4)}
+7 ?{startwith(<m0>)}
+8 ?{<m0>}
+9 ?{startwith(<let>)}
+10 ?{<let>}

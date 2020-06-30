@@ -1,0 +1,13 @@
+1 ?{startwith(<cap>),<any>}
+2 ?{startwith(<let>),<any>}
+3 ?{<cap>,<any>}
+4 ?{<let>,<any>}
+5 ?{startwith(<cap>)}
+6 ?{startwith(<cap>),<let>}
+7 ?{startwith(<any>)}
+8 ?{<any>}
+9 ?{startwith(<let>)}
+10 ?{<cap>}
+11 ?{<let>}
+12 ?{startwith(<let>),<let>}
+13 ?{<cap>,<let>}

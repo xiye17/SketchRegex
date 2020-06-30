@@ -1,0 +1,14 @@
+1 ?{<num>}
+2 ?{star(<num>)}
+3 ?{contain(<num>)}
+4 ?{star(contain(<num>))}
+5 ?{contain(star(<num>))}
+6 ?{repeatatleast(<num>,1)}
+7 contain(?{<num>})
+8 contain(?{star(<num>)})
+9 ?{star(repeatatleast(<num>,1))}
+10 ?{contain(repeatatleast(<num>,1))}
+11 ?{contain(star(repeatatleast(<num>,1)))}
+12 contain(?{repeatatleast(<num>,1)})
+13 ?{star(contain(repeatatleast(<num>,1)))}
+14 contain(?{star(repeatatleast(<num>,1))})

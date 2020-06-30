@@ -1,0 +1,15 @@
+1 ?{concat(<m0>,<vow>)}
+2 ?{<m0>,<vow>}
+3 ?{<m0>,repeatatleast(<vow>,4)}
+4 ?{repeatatleast(concat(<m0>,<vow>),4)}
+5 ?{repeatatleast(<m0>,4)}
+6 ?{concat(<m0>,repeatatleast(<vow>,4))}
+7 ?{<m0>}
+8 concat(?{<m0>},<vow>)
+9 concat(?{<m0>},?{<vow>})
+10 concat(?{<m0>},?{repeatatleast(<vow>,4)})
+11 ?{<vow>}
+12 ?{repeatatleast(<vow>,4)}
+13 concat(<m0>,?{<vow>})
+14 concat(<m0>,?{repeatatleast(<vow>,4)})
+15 concat(?{<m0>},repeatatleast(<vow>,4))

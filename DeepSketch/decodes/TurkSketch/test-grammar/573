@@ -1,0 +1,5 @@
+1 ?{endwith(<num>)}
+2 ?{endwith(repeatatleast(<num>,2))}
+3 ?{repeatatleast(endwith(<num>),2)}
+4 ?{<num>}
+5 ?{repeatatleast(<num>,2)}

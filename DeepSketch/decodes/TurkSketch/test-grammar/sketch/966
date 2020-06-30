@@ -1,0 +1,17 @@
+1 ?{endwith(<m0>),<m1>}
+2 ?{and(endwith(<m0>),<m1>)}
+3 ?{and(<m0>,<m1>)}
+4 ?{<m0>,<m1>}
+5 ?{endwith(or(<m0>,<m1>))}
+6 ?{endwith(and(<m0>,<m1>))}
+7 ?{or(<m0>,<m1>)}
+8 ?{endwith(<m0>)}
+9 ?{endwith(<m1>)}
+10 and(?{endwith(<m0>)},<m1>)
+11 ?{<m0>}
+12 ?{<m1>}
+13 and(?{<m0>},<m1>)
+14 and(?{endwith(<m0>)},?{<m1>})
+15 and(<m0>,?{<m1>})
+16 and(endwith(<m0>),?{<m1>})
+17 and(?{<m0>},?{<m1>})

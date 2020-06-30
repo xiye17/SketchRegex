@@ -1,0 +1,15 @@
+1 ?{<m0>,startwith(<num>)}
+2 ?{contain(<m0>),startwith(<num>)}
+3 ?{<m0>,<num>}
+4 ?{contain(<m0>),<num>}
+5 ?{<m0>}
+6 ?{contain(<m0>)}
+7 contain(?{<m0>,startwith(<num>)})
+8 contain(?{<m0>,<num>})
+9 ?{startwith(<num>)}
+10 ?{<num>}
+11 contain(?{<m0>})
+12 ?{contain(<num>)}
+13 ?{contain(startwith(<num>))}
+14 contain(?{startwith(<num>)})
+15 contain(?{<num>})

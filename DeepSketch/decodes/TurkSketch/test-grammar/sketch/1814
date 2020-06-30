@@ -1,0 +1,6 @@
+1 ?{<vow>,<m0>}
+2 ?{<vow>,repeatatleast(<m0>,1)}
+3 ?{<m0>}
+4 ?{repeatatleast(<m0>,1)}
+5 ?{<vow>}
+6 ?{repeatatleast(<vow>,1)}

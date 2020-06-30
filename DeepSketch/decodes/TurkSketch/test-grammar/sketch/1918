@@ -1,0 +1,5 @@
+1 ?{startwith(<m0>)}
+2 ?{<any>,startwith(<m0>)}
+3 ?{<m0>}
+4 ?{<any>,<m0>}
+5 ?{<any>}

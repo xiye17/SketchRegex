@@ -1,0 +1,15 @@
+1 ?{concat(<vow>,<let>)}
+2 ?{<vow>,<let>}
+3 ?{<vow>,star(<let>)}
+4 ?{star(concat(<vow>,<let>))}
+5 ?{concat(<vow>,star(<let>))}
+6 ?{<vow>}
+7 ?{<let>}
+8 ?{star(<vow>)}
+9 ?{star(<let>)}
+10 concat(?{<vow>},<let>)
+11 concat(<vow>,?{<let>})
+12 concat(<vow>,?{star(<let>)})
+13 concat(?{<vow>},?{<let>})
+14 concat(?{<vow>},?{star(<let>)})
+15 concat(?{<vow>},star(<let>))
