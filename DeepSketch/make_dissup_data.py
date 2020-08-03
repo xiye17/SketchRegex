@@ -4,7 +4,7 @@ from data import *
 from os.path import join
 from eval import read_derivations
 import multiprocessing as mp
-
+import shutil
 # def _parse_args():
 #     parser = argparse.ArgumentParser(description='main.py')
 
@@ -75,7 +75,7 @@ def precache_for_one_example(ex, preds, split, timed_cache):
         single_results[id_pool[res_id]] = results_pool[res_id]
         timed_cache.soft_write(split, to_test[0], to_test[1], results_pool[res_id])
 
-    print(single_results)
+    # print(single_results)
 
 def check_empty(split, ex):
     fname = join('external', 'examples', 'turk', 'example-{}'.format(split), str(ex.id))
@@ -127,6 +127,44 @@ def precache_train_synth():
 
     cache.rewrite()
 
+def precache_kb13_synth():
+    args = Args()
+    args.dataset = 'KB13Sketch'
+    args.split = 'train'
+    args.oracle_mode = 'sketch'
+    args.cache_id = 'cache'
+    args.decoder_len_limit = 50
+
+    cutoff = 50
+
+    cache = TimedCache(args.cache_id, args.dataset)
+
+    test, input_indexer, output_indexer = load_test_dataset(args.dataset, args.split)
+    test_data_indexed = index_data(test, input_indexer, output_indexer, args.decoder_len_limit)
+    test_data_indexed = filter_data(test_data_indexed)
+
+    decode_folder = join('external/', 'kb13-gramgen')
+    pred_derivations = read_derivations(decode_folder, test_data_indexed)
+
+    # parallel_oracle_evaluate(test_data_indexed, pred_derivations, args.split, cache)
+    
+    assert len(test_data_indexed) == len(pred_derivations)
+    for i, (ex, preds) in enumerate(zip(test_data_indexed, pred_derivations)):
+        # is empty
+        if check_empty(args.split, ex):
+            continue
+
+        precache_for_one_example(ex, preds[:cutoff], args.split, cache)
+        if (i + 1) % 50 == 0:
+            print(i + 1)
+            cache.rewrite()
+
+    # for k in cache.data:
+    #     print(k)
+    #     print(cache.data[k])
+
+    cache.rewrite()
+
 def tokenize_spec(x):
     y = []
     while len(x) > 0:
@@ -139,7 +177,7 @@ def tokenize_spec(x):
             y.append(x[:end])
             x = x[end:]
         else:
-            leftover = [(i in ["?", "(", ")", "{", "}", "<", ">"]) for i in x]
+            leftover = [(i in ["?", "(", ")", "{", "}", "<", ">", ","]) for i in x]
             end = leftover.index(True)
             y.append(x[:end])
             x = x[end:]
@@ -208,6 +246,41 @@ def compose_train_synth():
     with open('targ-train.txt', 'w') as f:
         f.writelines([x + '\n' for x in new_specs])
 
+def compose_kb13_synth():
+    args = Args()
+    args.dataset = 'KB13Sketch'
+    args.split = 'train'
+    args.oracle_mode = 'sketch'
+    args.cache_id = 'cache'
+    args.decoder_len_limit = 50
+
+    cutoff = 50
+
+    cache = TimedCache(args.cache_id, args.dataset)
+
+    test, input_indexer, output_indexer = load_test_dataset(args.dataset, args.split)
+    test_data_indexed = index_data(test, input_indexer, output_indexer, args.decoder_len_limit)
+    # test_data_indexed = filter_data(test_data_indexed)
+
+    decode_folder = join('external/', 'kb13-gramgen')
+    pred_derivations = read_derivations(decode_folder, test_data_indexed)
+
+    # parallel_oracle_evaluate(test_data_indexed, pred_derivations, args.split, cache)
+    print(len(test_data_indexed), len(pred_derivations))
+    assert len(test_data_indexed) == len(pred_derivations)
+    
+    new_specs = []
+    for i, (ex, preds) in enumerate(zip(test_data_indexed, pred_derivations)):
+        # is empty
+        gt = gt_for_one_example(ex, preds[:cutoff], args.split, cache)
+        new_specs.append(gt)
+    # for k in cache.data:
+    #     print(k)
+    #     print(cache.data[k])
+
+    with open('targ-train.txt', 'w') as f:
+        f.writelines([x + '\n' for x in new_specs])
+
 def maximum_timeout():
     args = Args()
     args.dataset = 'TurkSketch'
@@ -221,14 +294,58 @@ def maximum_timeout():
         items_all.extend(list(v.values()))
     
     print(len(items_all))
-    items_all = [x for x in items_all if x[0] == 'true']
-    print(len(items_all))
-    items_all.sort()
-    print(items_all[0])
-    print(items_all[-1])
+    # items_all = [x for x in items_all if x[0] == 'true']
+    # print(len(items_all))
+    # items_all.sort()
+    # print(items_all[0])
+    # print(items_all[-1])
+
+    time_all = [x[1] for x in items_all]
+    # print(time_all)
+    print(sum(time_all)/len(time_all))
+
+def mapback_kb13():
+    args = Args()
+    args.dataset = 'KB13Sketch'
+    args.split = 'train'
+    args.oracle_mode = 'sketch'
+    args.cache_id = 'cache'
+    args.decoder_len_limit = 50
+
+    cutoff = 50
+
+    # cache = TimedCache(args.cache_id, args.dataset)
+
+    test, input_indexer, output_indexer = load_test_dataset(args.dataset, args.split)
+    test_data_indexed = index_data(test, input_indexer, output_indexer, args.decoder_len_limit)
+    # test_data_indexed = filter_data(test_data_indexed)
+    # [ for exs in data_indexed if not (exs.y in ["null", 'empty', 'none'])]
+
+    non_null_idx = [(i + 1) for (i, exs) in enumerate(test_data_indexed) if exs.y != 'null']
+
+    src_folder = join('external/', 'kb13sub-gramgen')
+    dst_folder = join('external/', 'kb13-gramgen')
+    # decode_folder = join('external/', 'kb13-gramgen')
+    # pred_derivations = read_derivations(src_folder, test_data_indexed)
+    
+    print(len(non_null_idx))
+
+    src_files = os.listdir(src_folder)
+    src_files = [int(x) for x in src_files]
+    src_files.sort()
+    print(len(src_files))
+    for sf in src_files:
+        df = non_null_idx[sf - 1]
+        # print(sf, df)
+        src_f = join(src_folder, str(sf))
+        dst_f = join(dst_folder, str(df))
+        shutil.copy(src_f, dst_f)
 
 if __name__ == "__main__":
     # precache_train_synth()
     # compose_train_synth()
+    # precache_kb13_synth()
+    # compose_kb13_synth()
     maximum_timeout()
+    # mapback_kb13()
     
