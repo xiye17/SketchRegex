@@ -1,0 +1,17 @@
+1 ?{star(<any>),<m0>,<any>,<m1>}
+2 ?{star(<any>),<m0>,<any>}
+3 ?{star(<any>),<m0>,<m1>}
+4 ?{star(<any>),<any>,<m1>}
+5 ?{star(<any>),<m0>}
+6 ?{star(<any>),<any>}
+7 ?{star(<any>),<m1>}
+8 ?{star(<any>)}
+9 ?{<any>,<m0>,<m1>}
+10 ?{<m0>,<any>,<m1>}
+11 ?{<any>,<m0>}
+12 ?{<any>,<m1>}
+13 ?{<m0>,<any>}
+14 ?{<m0>,<m1>}
+15 ?{<any>}
+16 ?{<m0>}
+17 ?{<m1>}

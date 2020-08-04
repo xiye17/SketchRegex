@@ -1,0 +1,9 @@
+1 ?{contain(concat(<let>,<vow>))}
+2 ?{concat(contain(<let>),<vow>)}
+3 ?{contain(<let>),<vow>}
+4 ?{concat(<let>,<vow>)}
+5 ?{<let>,<vow>}
+6 ?{contain(<let>)}
+7 ?{contain(<vow>)}
+8 ?{<let>}
+9 ?{<vow>}

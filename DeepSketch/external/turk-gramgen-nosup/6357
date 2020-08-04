@@ -1,0 +1,9 @@
+1 ?{<m0>,endwith(<any>)}
+2 ?{<m0>,endwith(<let>)}
+3 ?{endwith(<any>)}
+4 ?{<m0>,<any>}
+5 ?{endwith(<let>)}
+6 ?{<m0>,<let>}
+7 ?{<any>}
+8 ?{<m0>}
+9 ?{<let>}

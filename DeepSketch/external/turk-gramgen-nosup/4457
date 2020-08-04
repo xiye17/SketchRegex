@@ -1,0 +1,10 @@
+1 ?{concat(<num>,<any>),<m0>}
+2 ?{<num>,<any>,<m0>}
+3 ?{concat(<num>,<any>)}
+4 ?{concat(<num>,<m0>)}
+5 ?{<num>,<any>}
+6 ?{<num>,<m0>}
+7 ?{<num>}
+8 ?{<any>,<m0>}
+9 ?{<any>}
+10 ?{<m0>}

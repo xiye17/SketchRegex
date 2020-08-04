@@ -1,0 +1,13 @@
+1 ?{and(<any>,<any>),<vow>}
+2 ?{and(<any>,<vow>)}
+3 ?{and(<let>,<any>),<vow>}
+4 ?{<any>,<vow>}
+5 ?{and(<any>,<any>)}
+6 ?{<let>,<any>,<vow>}
+7 ?{and(<let>,<vow>)}
+8 ?{<let>,<vow>}
+9 ?{and(<let>,<any>)}
+10 ?{<any>}
+11 ?{<let>,<any>}
+12 ?{<vow>}
+13 ?{<let>}

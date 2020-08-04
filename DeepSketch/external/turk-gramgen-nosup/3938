@@ -1,0 +1,2 @@
+1 ?{repeatatleast(<let>,6)}
+2 ?{<let>}

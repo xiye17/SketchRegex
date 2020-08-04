@@ -1,0 +1,14 @@
+1 ?{startwith(<vow>),<any>,<m0>}
+2 ?{startwith(<vow>),<any>}
+3 ?{startwith(<vow>),<m0>}
+4 ?{startwith(<any>),<m0>}
+5 ?{startwith(<vow>)}
+6 ?{startwith(<any>)}
+7 ?{startwith(<m0>)}
+8 ?{<vow>,<any>,<m0>}
+9 ?{<vow>,<any>}
+10 ?{<vow>,<m0>}
+11 ?{<any>,<m0>}
+12 ?{<vow>}
+13 ?{<any>}
+14 ?{<m0>}

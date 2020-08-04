@@ -1,0 +1,2 @@
+1 ?{repeatatleast(<num>,5)}
+2 ?{<num>}

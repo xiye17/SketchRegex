@@ -1,0 +1,12 @@
+1 ?{not(startwith(repeatatleast(<cap>,5)))}
+2 ?{startwith(repeatatleast(<cap>,5))}
+3 ?{not(repeatatleast(<cap>,5))}
+4 ?{not(startwith(<cap>))}
+5 ?{repeatatleast(<cap>,5)}
+6 ?{not(startwith(<let>))}
+7 ?{startwith(<cap>)}
+8 ?{not(<cap>)}
+9 ?{startwith(<let>)}
+10 ?{not(<let>)}
+11 ?{<cap>}
+12 ?{<let>}

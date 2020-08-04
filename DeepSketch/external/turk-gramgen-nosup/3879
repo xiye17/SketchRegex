@@ -1,0 +1,11 @@
+1 ?{startwith(and(<m0>,<vow>))}
+2 ?{startwith(or(<m0>,<vow>))}
+3 ?{and(startwith(<m0>),<vow>)}
+4 ?{startwith(<m0>),<vow>}
+5 ?{startwith(<vow>)}
+6 ?{and(<m0>,<vow>)}
+7 ?{or(<m0>,<vow>)}
+8 ?{startwith(<m0>)}
+9 ?{<m0>,<vow>}
+10 ?{<vow>}
+11 ?{<m0>}

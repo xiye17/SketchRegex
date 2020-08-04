@@ -1,0 +1,6 @@
+1 ?{repeat(<cap>,3)}
+2 ?{repeatrange(<cap>,1,3)}
+3 ?{repeat(<let>,3)}
+4 ?{repeatrange(<let>,1,3)}
+5 ?{<cap>}
+6 ?{<let>}

@@ -1,0 +1,17 @@
+1 ?{star(<cap>),endwith(<low>)}
+2 ?{star(<cap>),<low>}
+3 ?{star(<cap>),endwith(<let>)}
+4 ?{<cap>,endwith(<low>)}
+5 ?{<let>,endwith(<low>)}
+6 ?{star(<cap>),<let>}
+7 ?{<cap>,<low>}
+8 ?{endwith(<low>)}
+9 ?{star(<cap>)}
+10 ?{<cap>,endwith(<let>)}
+11 ?{<let>,<low>}
+12 ?{<let>,endwith(<let>)}
+13 ?{<low>}
+14 ?{<cap>,<let>}
+15 ?{endwith(<let>)}
+16 ?{<cap>}
+17 ?{<let>}

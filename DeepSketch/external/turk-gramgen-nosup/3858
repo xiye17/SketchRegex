@@ -1,0 +1,14 @@
+1 ?{contain(<vow>),<any>,<m0>}
+2 ?{contain(<vow>),<any>}
+3 ?{contain(<vow>),<m0>}
+4 ?{<vow>,<any>,<m0>}
+5 ?{contain(<any>),<m0>}
+6 ?{contain(<vow>)}
+7 ?{<vow>,<any>}
+8 ?{<vow>,<m0>}
+9 ?{contain(<any>)}
+10 ?{contain(<m0>)}
+11 ?{<vow>}
+12 ?{<any>,<m0>}
+13 ?{<any>}
+14 ?{<m0>}

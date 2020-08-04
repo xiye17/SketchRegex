@@ -1,0 +1,11 @@
+1 ?{contain(and(<let>,contain(<let>)))}
+2 ?{and(contain(<let>),contain(<let>))}
+3 ?{contain(and(<let>,<let>))}
+4 ?{and(contain(<let>),<let>)}
+5 ?{and(<let>,contain(<let>))}
+6 ?{contain(<let>),<let>}
+7 ?{contain(contain(<let>))}
+8 ?{<let>,contain(<let>)}
+9 ?{and(<let>,<let>)}
+10 ?{contain(<let>)}
+11 ?{<let>}

@@ -1,0 +1,13 @@
+1 ?{concat(<let>,repeatatleast(<any>,1))}
+2 ?{repeatatleast(concat(<let>,<any>),1)}
+3 ?{<let>,repeatatleast(<any>,1)}
+4 ?{concat(<let>,repeatatleast(<let>,1))}
+5 ?{repeatatleast(concat(<let>,<let>),1)}
+6 ?{<let>,repeatatleast(<let>,1)}
+7 ?{concat(<let>,<any>)}
+8 ?{<let>,<any>}
+9 ?{concat(<let>,<let>)}
+10 ?{repeatatleast(<let>,1)}
+11 ?{repeatatleast(<any>,1)}
+12 ?{<let>}
+13 ?{<any>}

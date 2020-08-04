@@ -1,0 +1,12 @@
+1 ?{concat(<low>,contain(<num>))}
+2 ?{<low>,contain(<num>)}
+3 ?{concat(<low>,<num>)}
+4 ?{<low>,<num>}
+5 ?{concat(<let>,contain(<num>))}
+6 ?{<low>}
+7 ?{<let>,contain(<num>)}
+8 ?{concat(<let>,<num>)}
+9 ?{<let>,<num>}
+10 ?{contain(<num>)}
+11 ?{<num>}
+12 ?{<let>}

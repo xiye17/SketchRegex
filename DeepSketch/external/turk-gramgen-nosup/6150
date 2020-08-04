@@ -1,0 +1,8 @@
+1 ?{star(<m0>),contain(<let>)}
+2 ?{star(<m0>),<let>}
+3 ?{star(<m0>)}
+4 ?{<m0>,contain(<let>)}
+5 ?{<m0>,<let>}
+6 ?{contain(<let>)}
+7 ?{<let>}
+8 ?{<m0>}

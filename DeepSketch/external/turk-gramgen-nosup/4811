@@ -1,0 +1,8 @@
+1 ?{not(startwith(<cap>))}
+2 ?{startwith(<cap>)}
+3 ?{not(startwith(<let>))}
+4 ?{not(<cap>)}
+5 ?{startwith(<let>)}
+6 ?{<cap>}
+7 ?{not(<let>)}
+8 ?{<let>}

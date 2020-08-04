@@ -1,0 +1,7 @@
+1 ?{contain(<let>),<let>}
+2 ?{contain(<let>),<any>}
+3 ?{contain(<let>)}
+4 ?{contain(<any>)}
+5 ?{<let>,<any>}
+6 ?{<let>}
+7 ?{<any>}

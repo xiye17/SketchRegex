@@ -1,0 +1,12 @@
+1 ?{endwith(contain(repeatatleast(<cap>,1)))}
+2 ?{endwith(contain(<cap>))}
+3 ?{endwith(repeatatleast(<cap>,1))}
+4 ?{endwith(<cap>)}
+5 ?{contain(repeatatleast(<cap>,1))}
+6 ?{endwith(contain(<let>))}
+7 ?{contain(<cap>)}
+8 ?{repeatatleast(<cap>,1)}
+9 ?{endwith(<let>)}
+10 ?{<cap>}
+11 ?{contain(<let>)}
+12 ?{<let>}

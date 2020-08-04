@@ -1,0 +1,14 @@
+1 ?{contain(repeatatleast(<any>,1)),<m0>}
+2 ?{contain(<any>),<m0>}
+3 ?{contain(repeatatleast(<any>,1))}
+4 ?{repeatatleast(<any>,1),<m0>}
+5 ?{contain(<let>),<m0>}
+6 ?{contain(<any>)}
+7 ?{repeatatleast(<any>,1)}
+8 ?{<any>,<m0>}
+9 ?{contain(<let>)}
+10 ?{contain(<m0>)}
+11 ?{<any>}
+12 ?{<let>,<m0>}
+13 ?{<let>}
+14 ?{<m0>}

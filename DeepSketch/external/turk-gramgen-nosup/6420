@@ -1,0 +1,15 @@
+1 ?{and(<m0>,concat(<let>,<vow>))}
+2 ?{concat(and(<m0>,<let>),<vow>)}
+3 ?{<m0>,concat(<let>,<vow>)}
+4 ?{and(<m0>,<let>),<vow>}
+5 ?{<m0>,<let>,<vow>}
+6 ?{and(<m0>,<vow>)}
+7 ?{concat(<m0>,<vow>)}
+8 ?{concat(<let>,<vow>)}
+9 ?{<m0>,<vow>}
+10 ?{and(<m0>,<let>)}
+11 ?{<let>,<vow>}
+12 ?{<m0>,<let>}
+13 ?{<vow>}
+14 ?{<m0>}
+15 ?{<let>}

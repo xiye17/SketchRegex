@@ -1,0 +1,16 @@
+1 ?{startwith(and(<m0>,endwith(<m1>)))}
+2 ?{and(startwith(<m0>),endwith(<m1>))}
+3 ?{startwith(<m0>),endwith(<m1>)}
+4 ?{startwith(and(<m0>,<m1>))}
+5 ?{and(startwith(<m0>),<m1>)}
+6 ?{and(<m0>,endwith(<m1>))}
+7 ?{startwith(endwith(<m1>))}
+8 ?{startwith(<m0>),<m1>}
+9 ?{<m0>,endwith(<m1>)}
+10 ?{and(<m0>,<m1>)}
+11 ?{startwith(<m0>)}
+12 ?{startwith(<m1>)}
+13 ?{endwith(<m1>)}
+14 ?{<m0>,<m1>}
+15 ?{<m0>}
+16 ?{<m1>}

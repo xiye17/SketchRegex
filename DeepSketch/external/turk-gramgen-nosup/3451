@@ -1,0 +1,4 @@
+1 ?{not(endwith(<m0>))}
+2 ?{endwith(<m0>)}
+3 ?{not(<m0>)}
+4 ?{<m0>}

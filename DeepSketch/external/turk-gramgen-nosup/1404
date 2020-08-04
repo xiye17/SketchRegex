@@ -1,0 +1,9 @@
+1 ?{startwith(concat(<m0>,<vow>))}
+2 ?{concat(startwith(<m0>),<vow>)}
+3 ?{startwith(<m0>),<vow>}
+4 ?{concat(<m0>,<vow>)}
+5 ?{startwith(<vow>)}
+6 ?{startwith(<m0>)}
+7 ?{<m0>,<vow>}
+8 ?{<vow>}
+9 ?{<m0>}

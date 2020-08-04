@@ -1,0 +1,15 @@
+1 ?{star(<low>),<any>,<m0>}
+2 ?{star(<low>),<any>}
+3 ?{star(<low>),<m0>}
+4 ?{star(<low>)}
+5 ?{<low>,<any>,<m0>}
+6 ?{<low>,<any>}
+7 ?{<low>,<m0>}
+8 ?{<low>}
+9 ?{<let>,<any>,<m0>}
+10 ?{<let>,<any>}
+11 ?{<let>,<m0>}
+12 ?{<any>,<m0>}
+13 ?{<let>}
+14 ?{<any>}
+15 ?{<m0>}

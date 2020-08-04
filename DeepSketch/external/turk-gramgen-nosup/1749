@@ -1,0 +1,5 @@
+1 ?{startwith(star(<vow>))}
+2 ?{star(startwith(<vow>))}
+3 ?{star(<vow>)}
+4 ?{startwith(<vow>)}
+5 ?{<vow>}

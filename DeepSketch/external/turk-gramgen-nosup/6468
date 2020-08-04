@@ -1,0 +1,16 @@
+1 ?{not(contain(or(<vow>,<let>)))}
+2 ?{not(contain(<vow>)),<let>}
+3 ?{not(or(<vow>,<let>))}
+4 ?{contain(or(<vow>,<let>))}
+5 ?{not(<vow>),<let>}
+6 ?{contain(<vow>),<let>}
+7 ?{or(<vow>,<let>)}
+8 ?{not(contain(<vow>))}
+9 ?{not(contain(<let>))}
+10 ?{<vow>,<let>}
+11 ?{not(<vow>)}
+12 ?{not(<let>)}
+13 ?{contain(<vow>)}
+14 ?{contain(<let>)}
+15 ?{<vow>}
+16 ?{<let>}

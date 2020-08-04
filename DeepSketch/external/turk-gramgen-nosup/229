@@ -1,0 +1,8 @@
+1 ?{not(contain(repeatatleast(<num>,1)))}
+2 ?{not(contain(<num>))}
+3 ?{not(repeatatleast(<num>,1))}
+4 ?{contain(repeatatleast(<num>,1))}
+5 ?{not(<num>)}
+6 ?{contain(<num>)}
+7 ?{repeatatleast(<num>,1)}
+8 ?{<num>}

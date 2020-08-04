@@ -1,0 +1,15 @@
+1 ?{concat(star(<low>),<any>)}
+2 ?{star(<low>),<any>}
+3 ?{concat(star(<low>),<let>)}
+4 ?{star(<low>),<let>}
+5 ?{star(<low>)}
+6 ?{concat(<low>,<any>)}
+7 ?{<low>,<any>}
+8 ?{concat(<low>,<let>)}
+9 ?{<low>,<let>}
+10 ?{concat(<let>,<any>)}
+11 ?{<low>}
+12 ?{<let>,<any>}
+13 ?{concat(<let>,<let>)}
+14 ?{<any>}
+15 ?{<let>}

@@ -1,0 +1,15 @@
+1 ?{endwith(repeatatleast(repeatatleast(<low>,1),7))}
+2 ?{repeatatleast(endwith(repeatatleast(<low>,1)),7)}
+3 ?{endwith(repeatatleast(<low>,7))}
+4 ?{repeatatleast(endwith(<low>),7)}
+5 ?{repeatatleast(repeatatleast(<low>,1),7)}
+6 ?{repeatatleast(<low>,7)}
+7 ?{endwith(repeatatleast(<low>,1))}
+8 ?{endwith(repeatatleast(<let>,7))}
+9 ?{repeatatleast(endwith(<let>),7)}
+10 ?{endwith(<low>)}
+11 ?{repeatatleast(<low>,1)}
+12 ?{repeatatleast(<let>,7)}
+13 ?{<low>}
+14 ?{endwith(<let>)}
+15 ?{<let>}

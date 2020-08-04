@@ -1,0 +1,12 @@
+1 ?{<let>,contain(repeatatleast(<num>,4))}
+2 ?{<let>,repeatatleast(contain(<num>),4)}
+3 ?{<let>,repeatatleast(<num>,4)}
+4 ?{contain(repeatatleast(<num>,4))}
+5 ?{repeatatleast(contain(<num>),4)}
+6 ?{repeatatleast(<let>,4)}
+7 ?{repeatatleast(<num>,4)}
+8 ?{<let>,contain(<num>)}
+9 ?{<let>,<num>}
+10 ?{contain(<num>)}
+11 ?{<let>}
+12 ?{<num>}

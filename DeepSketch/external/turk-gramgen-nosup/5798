@@ -1,0 +1,14 @@
+1 ?{contain(or(<low>,<num>))}
+2 ?{contain(<low>),<num>}
+3 ?{or(<low>,<num>)}
+4 ?{contain(<low>)}
+5 ?{contain(or(<let>,<num>))}
+6 ?{<low>,<num>}
+7 ?{contain(<let>),<num>}
+8 ?{<low>}
+9 ?{or(<let>,<num>)}
+10 ?{contain(<let>)}
+11 ?{contain(<num>)}
+12 ?{<let>,<num>}
+13 ?{<let>}
+14 ?{<num>}

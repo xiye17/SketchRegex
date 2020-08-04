@@ -1,0 +1,7 @@
+1 ?{and(<m0>,repeatatleast(<num>,1))}
+2 ?{<m0>,repeatatleast(<num>,1)}
+3 ?{repeatatleast(<num>,1)}
+4 ?{and(<m0>,<num>)}
+5 ?{<m0>,<num>}
+6 ?{<m0>}
+7 ?{<num>}

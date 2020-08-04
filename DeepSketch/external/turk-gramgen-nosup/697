@@ -1,0 +1,16 @@
+1 ?{concat(star(<cap>),<num>)}
+2 ?{star(concat(<cap>,<num>))}
+3 ?{<num>,star(<cap>)}
+4 ?{concat(star(<let>),<num>)}
+5 ?{star(concat(<let>,<num>))}
+6 ?{<num>,star(<let>)}
+7 ?{star(<cap>)}
+8 ?{concat(<cap>,<num>)}
+9 ?{star(<num>)}
+10 ?{<num>,<cap>}
+11 ?{star(<let>)}
+12 ?{concat(<let>,<num>)}
+13 ?{<num>,<let>}
+14 ?{<cap>}
+15 ?{<num>}
+16 ?{<let>}

@@ -1,0 +1,12 @@
+1 ?{endwith(repeatatleast(<m0>,7)),<m1>}
+2 ?{repeatatleast(endwith(<m0>),7),<m1>}
+3 ?{endwith(repeatatleast(<m0>,7))}
+4 ?{repeatatleast(endwith(<m0>),7)}
+5 ?{repeatatleast(<m0>,7),<m1>}
+6 ?{repeatatleast(<m0>,7)}
+7 ?{endwith(<m0>),<m1>}
+8 ?{endwith(<m0>)}
+9 ?{endwith(<m1>)}
+10 ?{<m0>,<m1>}
+11 ?{<m0>}
+12 ?{<m1>}

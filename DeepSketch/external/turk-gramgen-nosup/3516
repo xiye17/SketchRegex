@@ -1,0 +1,6 @@
+1 ?{endwith(<m0>),<any>}
+2 ?{endwith(<m0>)}
+3 ?{endwith(<any>)}
+4 ?{<m0>,<any>}
+5 ?{<m0>}
+6 ?{<any>}

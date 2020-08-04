@@ -1,0 +1,10 @@
+1 ?{concat(<any>,<cap>)}
+2 ?{<any>,<cap>}
+3 ?{concat(<any>,<let>)}
+4 ?{concat(<let>,<cap>)}
+5 ?{<any>,<let>}
+6 ?{<let>,<cap>}
+7 ?{concat(<let>,<let>)}
+8 ?{<any>}
+9 ?{<cap>}
+10 ?{<let>}

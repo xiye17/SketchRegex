@@ -1,0 +1,6 @@
+1 ?{endwith(star(<low>))}
+2 ?{star(<low>)}
+3 ?{endwith(<low>)}
+4 ?{<low>}
+5 ?{endwith(<let>)}
+6 ?{<let>}

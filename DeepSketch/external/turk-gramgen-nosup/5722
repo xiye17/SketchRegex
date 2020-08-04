@@ -1,0 +1,4 @@
+1 ?{repeatatleast(<num>,2),<num>}
+2 ?{repeatatleast(<num>,2)}
+3 ?{concat(<num>,<num>)}
+4 ?{<num>}

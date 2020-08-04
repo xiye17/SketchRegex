@@ -1,0 +1,10 @@
+1 ?{contain(repeatatleast(repeatatleast(<num>,1),4))}
+2 ?{repeatatleast(contain(repeatatleast(<num>,1)),4)}
+3 ?{contain(repeatatleast(<num>,4))}
+4 ?{repeatatleast(contain(<num>),4)}
+5 ?{repeatatleast(repeatatleast(<num>,1),4)}
+6 ?{repeatatleast(<num>,4)}
+7 ?{contain(repeatatleast(<num>,1))}
+8 ?{contain(<num>)}
+9 ?{repeatatleast(<num>,1)}
+10 ?{<num>}

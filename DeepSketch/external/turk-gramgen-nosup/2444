@@ -1,0 +1,16 @@
+1 ?{contain(and(<m0>,repeatatleast(<num>,1)))}
+2 ?{and(contain(<m0>),repeatatleast(<num>,1))}
+3 ?{contain(<m0>),repeatatleast(<num>,1)}
+4 ?{and(<m0>,repeatatleast(<num>,1))}
+5 ?{contain(repeatatleast(<num>,1))}
+6 ?{<m0>,repeatatleast(<num>,1)}
+7 ?{contain(and(<m0>,<num>))}
+8 ?{and(contain(<m0>),<num>)}
+9 ?{repeatatleast(<num>,1)}
+10 ?{contain(<m0>),<num>}
+11 ?{and(<m0>,<num>)}
+12 ?{contain(<m0>)}
+13 ?{contain(<num>)}
+14 ?{<m0>,<num>}
+15 ?{<m0>}
+16 ?{<num>}

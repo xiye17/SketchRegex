@@ -1,0 +1,12 @@
+1 ?{or(or(<num>,<any>),<let>)}
+2 ?{<num>,or(<any>,<let>)}
+3 ?{or(<num>,<any>),<let>}
+4 ?{<num>,<any>,<let>}
+5 ?{or(<num>,<any>)}
+6 ?{or(<any>,<let>)}
+7 ?{<num>,<any>}
+8 ?{<any>,<let>}
+9 ?{<num>,<let>}
+10 ?{<num>}
+11 ?{<any>}
+12 ?{<let>}

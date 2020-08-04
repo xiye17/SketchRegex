@@ -1,0 +1,7 @@
+1 ?{<cap>,<let>,<any>}
+2 ?{<cap>,<let>}
+3 ?{<cap>,<any>}
+4 ?{<cap>}
+5 ?{<let>,<any>}
+6 ?{<let>}
+7 ?{<any>}

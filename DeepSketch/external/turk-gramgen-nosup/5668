@@ -1,0 +1,16 @@
+1 ?{concat(repeatatleast(or(<m0>,<m1>),2),<m2>)}
+2 ?{repeatatleast(or(<m0>,<m1>),2),<m2>}
+3 ?{repeatatleast(or(<m0>,<m1>),2)}
+4 ?{concat(or(<m0>,<m1>),<m2>)}
+5 ?{<m0>,concat(<m1>,<m2>)}
+6 ?{or(<m0>,<m1>),<m2>}
+7 ?{<m0>,<m1>,<m2>}
+8 ?{concat(<m0>,<m2>)}
+9 ?{or(<m0>,<m1>)}
+10 ?{concat(<m1>,<m2>)}
+11 ?{<m0>,<m1>}
+12 ?{<m0>,<m2>}
+13 ?{<m1>,<m2>}
+14 ?{<m0>}
+15 ?{<m1>}
+16 ?{<m2>}

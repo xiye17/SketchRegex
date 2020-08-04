@@ -1,0 +1,17 @@
+1 ?{<let>,concat(<m0>,endwith(<m1>))}
+2 ?{concat(<let>,endwith(<m1>))}
+3 ?{concat(<m0>,endwith(<m1>))}
+4 ?{<let>,<m0>,endwith(<m1>)}
+5 ?{<let>,concat(<m0>,<m1>)}
+6 ?{<let>,endwith(<m1>)}
+7 ?{concat(<let>,<m1>)}
+8 ?{<m0>,endwith(<m1>)}
+9 ?{concat(<m0>,<m1>)}
+10 ?{<let>,<m0>,<m1>}
+11 ?{endwith(<m1>)}
+12 ?{<let>,<m0>}
+13 ?{<let>,<m1>}
+14 ?{<m0>,<m1>}
+15 ?{<let>}
+16 ?{<m0>}
+17 ?{<m1>}

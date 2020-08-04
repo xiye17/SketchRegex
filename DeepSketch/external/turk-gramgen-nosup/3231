@@ -1,0 +1,6 @@
+1 ?{<num>,and(<any>,<any>)}
+2 ?{and(<num>,<any>)}
+3 ?{<num>,<any>}
+4 ?{and(<any>,<any>)}
+5 ?{<num>}
+6 ?{<any>}

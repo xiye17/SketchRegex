@@ -1,0 +1,16 @@
+1 ?{not(concat(<low>,<m0>))}
+2 ?{concat(not(<low>),<m0>)}
+3 ?{not(<low>),<m0>}
+4 ?{concat(<low>,<m0>)}
+5 ?{not(<low>)}
+6 ?{<low>,<m0>}
+7 ?{not(concat(<let>,<m0>))}
+8 ?{concat(not(<let>),<m0>)}
+9 ?{<low>}
+10 ?{not(<let>),<m0>}
+11 ?{concat(<let>,<m0>)}
+12 ?{not(<let>)}
+13 ?{not(<m0>)}
+14 ?{<let>,<m0>}
+15 ?{<let>}
+16 ?{<m0>}

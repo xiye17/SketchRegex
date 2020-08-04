@@ -1,0 +1,10 @@
+1 ?{repeat(<let>,2),<m0>}
+2 ?{repeatrange(<let>,1,2),<m0>}
+3 ?{contain(<let>),<m0>}
+4 ?{repeat(<let>,2)}
+5 ?{repeatrange(<let>,1,2)}
+6 ?{contain(<let>)}
+7 ?{contain(<m0>)}
+8 ?{<let>,<m0>}
+9 ?{<let>}
+10 ?{<m0>}

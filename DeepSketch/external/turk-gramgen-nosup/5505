@@ -1,0 +1,16 @@
+1 ?{concat(<let>,or(<vow>,<any>))}
+2 ?{<let>,or(<vow>,<any>)}
+3 ?{concat(<let>,<vow>),<any>}
+4 ?{<let>,<vow>,<any>}
+5 ?{concat(<let>,<vow>),<let>}
+6 ?{concat(<let>,<vow>)}
+7 ?{concat(<let>,<any>)}
+8 ?{or(<vow>,<any>)}
+9 ?{<let>,<vow>}
+10 ?{<let>,<any>}
+11 ?{concat(<let>,<let>)}
+12 ?{<vow>,<any>}
+13 ?{<vow>,<let>}
+14 ?{<let>}
+15 ?{<vow>}
+16 ?{<any>}

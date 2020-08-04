@@ -1,0 +1,12 @@
+1 ?{or(or(<m0>,<vow>),<num>)}
+2 ?{<m0>,or(<vow>,<num>)}
+3 ?{or(<m0>,<vow>),<num>}
+4 ?{or(<vow>,<num>)}
+5 ?{<m0>,<vow>,<num>}
+6 ?{or(<m0>,<vow>)}
+7 ?{<m0>,<vow>}
+8 ?{<vow>,<num>}
+9 ?{<m0>,<num>}
+10 ?{<vow>}
+11 ?{<m0>}
+12 ?{<num>}

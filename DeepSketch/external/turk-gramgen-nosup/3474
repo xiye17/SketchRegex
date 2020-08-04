@@ -1,0 +1,14 @@
+1 ?{endwith(repeatatleast(or(<vow>,<num>),1))}
+2 ?{endwith(repeatatleast(<vow>,1)),<num>}
+3 ?{endwith(or(<vow>,<num>))}
+4 ?{endwith(<vow>),<num>}
+5 ?{endwith(repeatatleast(<vow>,1))}
+6 ?{repeatatleast(or(<vow>,<num>),1)}
+7 ?{endwith(<vow>)}
+8 ?{repeatatleast(<vow>,1),<num>}
+9 ?{or(<vow>,<num>)}
+10 ?{endwith(<num>)}
+11 ?{repeatatleast(<vow>,1)}
+12 ?{<vow>,<num>}
+13 ?{<vow>}
+14 ?{<num>}

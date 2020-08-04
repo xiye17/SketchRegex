@@ -1,0 +1,5 @@
+1 ?{and(<vow>,endwith(<vow>))}
+2 ?{<vow>,endwith(<vow>)}
+3 ?{and(<vow>,<vow>)}
+4 ?{endwith(<vow>)}
+5 ?{<vow>}

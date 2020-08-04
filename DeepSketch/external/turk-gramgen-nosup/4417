@@ -1,0 +1,14 @@
+1 ?{contain(repeatatleast(or(<m0>,<low>),1))}
+2 ?{contain(or(<m0>,<low>))}
+3 ?{repeatatleast(or(<m0>,<low>),1)}
+4 ?{contain(<m0>),<low>}
+5 ?{or(<m0>,<low>)}
+6 ?{contain(<low>)}
+7 ?{<m0>,<low>}
+8 ?{<low>}
+9 ?{contain(<m0>),<let>}
+10 ?{contain(<m0>)}
+11 ?{contain(<let>)}
+12 ?{<m0>,<let>}
+13 ?{<m0>}
+14 ?{<let>}

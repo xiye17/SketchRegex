@@ -1,0 +1,14 @@
+1 ?{contain(<m0>),repeatatleast(<vow>,6)}
+2 ?{contain(repeatatleast(<vow>,6))}
+3 ?{repeatatleast(contain(<vow>),6)}
+4 ?{<m0>,repeatatleast(<vow>,6)}
+5 ?{contain(repeatatleast(<m0>,6))}
+6 ?{repeatatleast(contain(<m0>),6)}
+7 ?{repeatatleast(<vow>,6)}
+8 ?{repeatatleast(<m0>,6)}
+9 ?{contain(<m0>),<vow>}
+10 ?{contain(<vow>)}
+11 ?{<m0>,<vow>}
+12 ?{contain(<m0>)}
+13 ?{<vow>}
+14 ?{<m0>}

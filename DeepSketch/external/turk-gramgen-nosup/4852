@@ -1,0 +1,14 @@
+1 ?{contain(repeatatleast(or(<vow>,<m0>),1))}
+2 ?{contain(repeatatleast(<vow>,1)),<m0>}
+3 ?{contain(or(<vow>,<m0>))}
+4 ?{repeatatleast(or(<vow>,<m0>),1)}
+5 ?{contain(<vow>),<m0>}
+6 ?{contain(repeatatleast(<vow>,1))}
+7 ?{repeatatleast(<vow>,1),<m0>}
+8 ?{or(<vow>,<m0>)}
+9 ?{contain(<vow>)}
+10 ?{repeatatleast(<vow>,1)}
+11 ?{<vow>,<m0>}
+12 ?{contain(<m0>)}
+13 ?{<vow>}
+14 ?{<m0>}

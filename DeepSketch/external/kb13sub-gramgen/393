@@ -1,0 +1,8 @@
+1 ?{not(contain(<let>))}
+2 ?{not(contain(<any>))}
+3 ?{not(<let>)}
+4 ?{not(<any>)}
+5 ?{contain(<let>)}
+6 ?{contain(<any>)}
+7 ?{<let>}
+8 ?{<any>}

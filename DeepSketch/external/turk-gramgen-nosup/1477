@@ -1,0 +1,9 @@
+1 ?{endwith(concat(<vow>,<num>))}
+2 ?{concat(<vow>,endwith(<num>))}
+3 ?{endwith(<num>),<vow>}
+4 ?{concat(<vow>,<num>)}
+5 ?{endwith(<num>)}
+6 ?{endwith(<vow>)}
+7 ?{<num>,<vow>}
+8 ?{<num>}
+9 ?{<vow>}

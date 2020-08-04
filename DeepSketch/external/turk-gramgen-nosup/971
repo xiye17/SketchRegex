@@ -1,0 +1,16 @@
+1 ?{contain(not(endwith(<low>)))}
+2 ?{contain(endwith(<low>))}
+3 ?{not(endwith(<low>))}
+4 ?{contain(not(<low>))}
+5 ?{endwith(<low>)}
+6 ?{contain(not(endwith(<let>)))}
+7 ?{contain(<low>)}
+8 ?{not(<low>)}
+9 ?{contain(endwith(<let>))}
+10 ?{not(endwith(<let>))}
+11 ?{<low>}
+12 ?{contain(not(<let>))}
+13 ?{endwith(<let>)}
+14 ?{contain(<let>)}
+15 ?{not(<let>)}
+16 ?{<let>}

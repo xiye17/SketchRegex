@@ -1,0 +1,8 @@
+1 ?{not(endwith(contain(<m0>)))}
+2 ?{not(endwith(<m0>))}
+3 ?{endwith(contain(<m0>))}
+4 ?{not(contain(<m0>))}
+5 ?{endwith(<m0>)}
+6 ?{not(<m0>)}
+7 ?{contain(<m0>)}
+8 ?{<m0>}

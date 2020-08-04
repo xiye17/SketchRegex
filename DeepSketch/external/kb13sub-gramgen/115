@@ -1,0 +1,8 @@
+1 ?{contain(startwith(endwith(<m0>)))}
+2 ?{startwith(endwith(<m0>))}
+3 ?{contain(startwith(<m0>))}
+4 ?{contain(endwith(<m0>))}
+5 ?{startwith(<m0>)}
+6 ?{endwith(<m0>)}
+7 ?{contain(<m0>)}
+8 ?{<m0>}

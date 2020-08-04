@@ -1,0 +1,16 @@
+1 ?{not(concat(<vow>,<let>))}
+2 ?{not(concat(<vow>,<any>))}
+3 ?{concat(not(<vow>),<let>)}
+4 ?{concat(not(<vow>),<any>)}
+5 ?{concat(<vow>,<let>)}
+6 ?{concat(<vow>,<any>)}
+7 ?{not(<vow>),<let>}
+8 ?{not(<vow>),<any>}
+9 ?{not(<vow>)}
+10 ?{not(<let>)}
+11 ?{not(<any>)}
+12 ?{<vow>,<let>}
+13 ?{<vow>,<any>}
+14 ?{<vow>}
+15 ?{<let>}
+16 ?{<any>}

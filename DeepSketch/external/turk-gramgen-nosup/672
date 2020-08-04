@@ -1,0 +1,4 @@
+1 ?{repeatatleast(<let>,7)}
+2 ?{repeatatleast(<any>,7)}
+3 ?{<let>}
+4 ?{<any>}

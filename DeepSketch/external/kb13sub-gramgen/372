@@ -1,0 +1,16 @@
+1 ?{contain(endwith(or(<m0>,<m1>)))}
+2 ?{contain(endwith(<m0>)),<m1>}
+3 ?{endwith(or(<m0>,<m1>))}
+4 ?{contain(or(<m0>,<m1>))}
+5 ?{contain(endwith(<m0>))}
+6 ?{contain(endwith(<m1>))}
+7 ?{endwith(<m0>),<m1>}
+8 ?{contain(<m0>),<m1>}
+9 ?{or(<m0>,<m1>)}
+10 ?{endwith(<m0>)}
+11 ?{endwith(<m1>)}
+12 ?{contain(<m0>)}
+13 ?{contain(<m1>)}
+14 ?{<m0>,<m1>}
+15 ?{<m0>}
+16 ?{<m1>}

@@ -1,0 +1,16 @@
+1 ?{endwith(and(<m0>,contain(<m1>)))}
+2 ?{and(endwith(<m0>),contain(<m1>))}
+3 ?{endwith(<m0>),contain(<m1>)}
+4 ?{endwith(and(<m0>,<m1>))}
+5 ?{and(endwith(<m0>),<m1>)}
+6 ?{and(<m0>,contain(<m1>))}
+7 ?{endwith(<m0>),<m1>}
+8 ?{endwith(contain(<m1>))}
+9 ?{<m0>,contain(<m1>)}
+10 ?{and(<m0>,<m1>)}
+11 ?{endwith(<m0>)}
+12 ?{endwith(<m1>)}
+13 ?{<m0>,<m1>}
+14 ?{contain(<m1>)}
+15 ?{<m0>}
+16 ?{<m1>}

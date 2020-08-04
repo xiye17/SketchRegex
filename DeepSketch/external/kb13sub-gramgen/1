@@ -1,0 +1,7 @@
+1 ?{contain(<m0>),not(<m0>)}
+2 ?{contain(<m0>),<m0>}
+3 ?{contain(not(<m0>))}
+4 ?{<m0>,not(<m0>)}
+5 ?{contain(<m0>)}
+6 ?{not(<m0>)}
+7 ?{<m0>}

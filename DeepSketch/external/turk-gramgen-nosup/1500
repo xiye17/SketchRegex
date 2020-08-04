@@ -1,0 +1,15 @@
+1 ?{endwith(star(repeatatleast(<any>,1)))}
+2 ?{star(endwith(repeatatleast(<any>,1)))}
+3 ?{endwith(star(<any>))}
+4 ?{star(endwith(<any>))}
+5 ?{endwith(star(<let>))}
+6 ?{star(endwith(<let>))}
+7 ?{star(repeatatleast(<any>,1))}
+8 ?{star(<any>)}
+9 ?{endwith(repeatatleast(<any>,1))}
+10 ?{star(<let>)}
+11 ?{endwith(<any>)}
+12 ?{endwith(<let>)}
+13 ?{repeatatleast(<any>,1)}
+14 ?{<any>}
+15 ?{<let>}

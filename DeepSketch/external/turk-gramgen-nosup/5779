@@ -1,0 +1,15 @@
+1 ?{not(and(<let>,not(<num>)))}
+2 ?{and(not(<let>),not(<num>))}
+3 ?{not(<let>),not(<num>)}
+4 ?{not(and(<let>,<num>))}
+5 ?{and(not(<let>),<num>)}
+6 ?{and(<let>,not(<num>))}
+7 ?{not(<let>),<num>}
+8 ?{not(not(<num>))}
+9 ?{<let>,not(<num>)}
+10 ?{and(<let>,<num>)}
+11 ?{not(<num>)}
+12 ?{<let>,<num>}
+13 ?{not(<let>)}
+14 ?{<num>}
+15 ?{<let>}

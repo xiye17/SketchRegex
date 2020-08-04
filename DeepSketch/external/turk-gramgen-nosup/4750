@@ -1,0 +1,16 @@
+1 ?{not(concat(<num>,<let>))}
+2 ?{not(concat(<num>,<any>))}
+3 ?{concat(not(<num>),<let>)}
+4 ?{concat(not(<num>),<any>)}
+5 ?{not(<num>),<let>}
+6 ?{not(<num>),<any>}
+7 ?{concat(<num>,<let>)}
+8 ?{concat(<num>,<any>)}
+9 ?{not(<num>)}
+10 ?{not(<let>)}
+11 ?{not(<any>)}
+12 ?{<num>,<let>}
+13 ?{<num>,<any>}
+14 ?{<num>}
+15 ?{<let>}
+16 ?{<any>}

@@ -1,0 +1,12 @@
+1 ?{contain(endwith(star(<let>)))}
+2 ?{contain(star(endwith(<let>)))}
+3 ?{star(contain(endwith(<let>)))}
+4 ?{endwith(star(<let>))}
+5 ?{star(endwith(<let>))}
+6 ?{contain(star(<let>))}
+7 ?{star(contain(<let>))}
+8 ?{star(<let>)}
+9 ?{contain(endwith(<let>))}
+10 ?{endwith(<let>)}
+11 ?{contain(<let>)}
+12 ?{<let>}

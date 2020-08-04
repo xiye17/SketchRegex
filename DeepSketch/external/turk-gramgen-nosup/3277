@@ -1,0 +1,15 @@
+1 ?{startwith(and(<let>,<let>))}
+2 ?{startwith(and(<let>,<any>))}
+3 ?{startwith(or(<let>,<any>))}
+4 ?{and(startwith(<let>),<let>)}
+5 ?{and(startwith(<let>),<any>)}
+6 ?{startwith(<let>),<let>}
+7 ?{startwith(<let>),<any>}
+8 ?{startwith(<let>)}
+9 ?{and(<let>,<let>)}
+10 ?{and(<let>,<any>)}
+11 ?{or(<let>,<any>)}
+12 ?{startwith(<any>)}
+13 ?{<let>,<any>}
+14 ?{<let>}
+15 ?{<any>}

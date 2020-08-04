@@ -1,0 +1,12 @@
+1 ?{contain(endwith(repeatatleast(<num>,7)))}
+2 ?{contain(repeatatleast(endwith(<num>),7))}
+3 ?{repeatatleast(contain(endwith(<num>)),7)}
+4 ?{endwith(repeatatleast(<num>,7))}
+5 ?{repeatatleast(endwith(<num>),7)}
+6 ?{contain(repeatatleast(<num>,7))}
+7 ?{repeatatleast(contain(<num>),7)}
+8 ?{repeatatleast(<num>,7)}
+9 ?{contain(endwith(<num>))}
+10 ?{endwith(<num>)}
+11 ?{contain(<num>)}
+12 ?{<num>}

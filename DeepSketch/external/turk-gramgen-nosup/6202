@@ -1,0 +1,9 @@
+1 ?{<num>,startwith(<low>)}
+2 ?{<num>,<low>}
+3 ?{startwith(<low>)}
+4 ?{<num>,startwith(<let>)}
+5 ?{<low>}
+6 ?{<num>,<let>}
+7 ?{startwith(<let>)}
+8 ?{<num>}
+9 ?{<let>}

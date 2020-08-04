@@ -1,0 +1,10 @@
+1 ?{contain(repeat(<num>,3))}
+2 ?{contain(repeatrange(<num>,1,3))}
+3 ?{contain(repeat(<num>,2))}
+4 ?{contain(repeatrange(<num>,1,2))}
+5 ?{contain(<num>)}
+6 ?{repeat(<num>,3)}
+7 ?{repeatrange(<num>,1,3)}
+8 ?{repeat(<num>,2)}
+9 ?{repeatrange(<num>,1,2)}
+10 ?{<num>}

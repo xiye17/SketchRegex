@@ -1,0 +1,7 @@
+1 ?{star(or(<num>,<m0>))}
+2 ?{star(<num>),<m0>}
+3 ?{star(<num>)}
+4 ?{or(<num>,<m0>)}
+5 ?{<num>,<m0>}
+6 ?{<num>}
+7 ?{<m0>}

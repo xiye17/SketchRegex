@@ -1,0 +1,10 @@
+1 ?{star(or(<vow>,<low>))}
+2 ?{star(<vow>),<low>}
+3 ?{or(<vow>,<low>)}
+4 ?{star(<vow>),<let>}
+5 ?{<vow>,<low>}
+6 ?{star(<vow>)}
+7 ?{<low>}
+8 ?{<vow>,<let>}
+9 ?{<vow>}
+10 ?{<let>}

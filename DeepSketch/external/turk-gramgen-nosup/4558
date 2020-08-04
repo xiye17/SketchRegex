@@ -1,0 +1,14 @@
+1 ?{concat(<vow>,concat(<m0>,<num>))}
+2 ?{concat(concat(<vow>,<m0>),<num>)}
+3 ?{<vow>,concat(<m0>,<num>)}
+4 ?{concat(<vow>,<m0>),<num>}
+5 ?{<vow>,<m0>,<num>}
+6 ?{concat(<vow>,<m0>)}
+7 ?{concat(<vow>,<num>)}
+8 ?{<vow>,<m0>}
+9 ?{<vow>,<num>}
+10 ?{concat(<m0>,<num>)}
+11 ?{<vow>}
+12 ?{<m0>,<num>}
+13 ?{<m0>}
+14 ?{<num>}

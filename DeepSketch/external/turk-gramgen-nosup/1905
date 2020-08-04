@@ -1,0 +1,9 @@
+1 ?{concat(star(<num>),<m0>)}
+2 ?{star(concat(<num>,<m0>))}
+3 ?{<m0>,star(<num>)}
+4 ?{star(<num>)}
+5 ?{star(<m0>)}
+6 ?{concat(<num>,<m0>)}
+7 ?{<m0>,<num>}
+8 ?{<num>}
+9 ?{<m0>}

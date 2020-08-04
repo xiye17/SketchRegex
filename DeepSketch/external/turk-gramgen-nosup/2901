@@ -1,0 +1,16 @@
+1 ?{and(or(concat(<d>,concat(<o>,<g>)),<m0>),<num>)}
+2 ?{or(or(concat(<d>,concat(<o>,<g>)),<m0>),<num>)}
+3 ?{concat(<d>,concat(<o>,<g>)),and(<m0>,<num>)}
+4 ?{concat(<d>,concat(<o>,<g>)),or(<m0>,<num>)}
+5 ?{or(concat(<d>,concat(<o>,<g>)),<m0>),<num>}
+6 ?{concat(<d>,concat(<o>,<g>)),<m0>,<num>}
+7 ?{and(concat(<d>,concat(<o>,<g>)),<num>)}
+8 ?{and(<m0>,<num>)}
+9 ?{or(<m0>,<num>)}
+10 ?{concat(<d>,concat(<o>,<g>)),<num>}
+11 ?{or(concat(<d>,concat(<o>,<g>)),<m0>)}
+12 ?{<m0>,<num>}
+13 ?{concat(<d>,concat(<o>,<g>)),<m0>}
+14 ?{<num>}
+15 ?{concat(<d>,concat(<o>,<g>))}
+16 ?{<m0>}

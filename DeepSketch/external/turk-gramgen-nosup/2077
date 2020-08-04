@@ -1,0 +1,15 @@
+1 ?{not(contain(concat(<let>,<let>)))}
+2 ?{not(concat(contain(<let>),<let>))}
+3 ?{concat(not(contain(<let>)),<let>)}
+4 ?{not(contain(<let>)),<let>}
+5 ?{not(concat(<let>,<let>))}
+6 ?{concat(not(<let>),<let>)}
+7 ?{contain(concat(<let>,<let>))}
+8 ?{concat(contain(<let>),<let>)}
+9 ?{not(<let>),<let>}
+10 ?{not(contain(<let>))}
+11 ?{contain(<let>),<let>}
+12 ?{concat(<let>,<let>)}
+13 ?{not(<let>)}
+14 ?{contain(<let>)}
+15 ?{<let>}

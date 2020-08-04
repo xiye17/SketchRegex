@@ -1,0 +1,10 @@
+1 ?{repeatatleast(or(<vow>,<low>),1)}
+2 ?{repeatatleast(<vow>,1),<low>}
+3 ?{repeatatleast(<vow>,1),<let>}
+4 ?{or(<vow>,<low>)}
+5 ?{repeatatleast(<vow>,1)}
+6 ?{<vow>,<low>}
+7 ?{<vow>,<let>}
+8 ?{<low>}
+9 ?{<vow>}
+10 ?{<let>}

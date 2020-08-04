@@ -1,0 +1,3 @@
+1 ?{contain(contain(<m0>))}
+2 ?{contain(<m0>)}
+3 ?{<m0>}

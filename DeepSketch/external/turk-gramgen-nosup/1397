@@ -1,0 +1,5 @@
+1 ?{<let>,endwith(<m0>)}
+2 ?{<let>,<m0>}
+3 ?{endwith(<m0>)}
+4 ?{<let>}
+5 ?{<m0>}

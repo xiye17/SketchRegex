@@ -1,0 +1,7 @@
+1 ?{concat(<m0>,endwith(<num>))}
+2 ?{<m0>,endwith(<num>)}
+3 ?{concat(<m0>,<num>)}
+4 ?{endwith(<num>)}
+5 ?{<m0>,<num>}
+6 ?{<m0>}
+7 ?{<num>}

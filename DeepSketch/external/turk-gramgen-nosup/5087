@@ -1,0 +1,8 @@
+1 ?{not(endwith(repeatatleast(<let>,1)))}
+2 ?{not(endwith(<let>))}
+3 ?{endwith(repeatatleast(<let>,1))}
+4 ?{not(repeatatleast(<let>,1))}
+5 ?{endwith(<let>)}
+6 ?{not(<let>)}
+7 ?{repeatatleast(<let>,1)}
+8 ?{<let>}

@@ -1,0 +1,7 @@
+1 ?{concat(repeatatleast(<m0>,1),<vow>)}
+2 ?{repeatatleast(<m0>,1),<vow>}
+3 ?{concat(<m0>,<vow>)}
+4 ?{<m0>,<vow>}
+5 ?{repeatatleast(<m0>,1)}
+6 ?{<vow>}
+7 ?{<m0>}

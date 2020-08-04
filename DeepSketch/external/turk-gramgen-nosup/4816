@@ -1,0 +1,16 @@
+1 ?{startwith(concat(<low>,<vow>))}
+2 ?{concat(startwith(<low>),<vow>)}
+3 ?{startwith(<low>),<vow>}
+4 ?{startwith(<low>)}
+5 ?{concat(<low>,<vow>)}
+6 ?{startwith(concat(<let>,<vow>))}
+7 ?{concat(startwith(<let>),<vow>)}
+8 ?{<low>,<vow>}
+9 ?{startwith(<let>),<vow>}
+10 ?{<low>}
+11 ?{startwith(<let>)}
+12 ?{startwith(<vow>)}
+13 ?{concat(<let>,<vow>)}
+14 ?{<let>,<vow>}
+15 ?{<let>}
+16 ?{<vow>}

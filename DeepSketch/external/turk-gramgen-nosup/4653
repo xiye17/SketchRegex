@@ -1,0 +1,12 @@
+1 ?{not(startwith(<num>)),<m0>}
+2 ?{not(startwith(<num>))}
+3 ?{startwith(<num>),<m0>}
+4 ?{not(<num>),<m0>}
+5 ?{not(startwith(<m0>))}
+6 ?{startwith(<num>)}
+7 ?{not(<num>)}
+8 ?{startwith(<m0>)}
+9 ?{<num>,<m0>}
+10 ?{not(<m0>)}
+11 ?{<num>}
+12 ?{<m0>}

@@ -1,0 +1,6 @@
+1 ?{contain(repeat(<let>,4))}
+2 ?{contain(repeatrange(<let>,1,4))}
+3 ?{contain(<let>)}
+4 ?{repeat(<let>,4)}
+5 ?{repeatrange(<let>,1,4)}
+6 ?{<let>}

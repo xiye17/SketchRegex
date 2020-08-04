@@ -1,0 +1,16 @@
+1 ?{not(and(<m0>,contain(<num>)))}
+2 ?{and(not(<m0>),contain(<num>))}
+3 ?{not(<m0>),contain(<num>)}
+4 ?{not(and(<m0>,<num>))}
+5 ?{and(not(<m0>),<num>)}
+6 ?{and(<m0>,contain(<num>))}
+7 ?{not(<m0>),<num>}
+8 ?{not(contain(<num>))}
+9 ?{<m0>,contain(<num>)}
+10 ?{and(<m0>,<num>)}
+11 ?{not(<num>)}
+12 ?{<m0>,<num>}
+13 ?{contain(<num>)}
+14 ?{not(<m0>)}
+15 ?{<num>}
+16 ?{<m0>}

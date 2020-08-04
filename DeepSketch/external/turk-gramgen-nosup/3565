@@ -1,0 +1,10 @@
+1 ?{not(star(<low>))}
+2 ?{star(not(<low>))}
+3 ?{star(<low>)}
+4 ?{not(star(<let>))}
+5 ?{star(not(<let>))}
+6 ?{star(<let>)}
+7 ?{not(<low>)}
+8 ?{<low>}
+9 ?{not(<let>)}
+10 ?{<let>}
