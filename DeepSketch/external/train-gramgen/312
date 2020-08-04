@@ -1,6 +1,0 @@
-1 ?{star(repeatatleast(<any>,1))}
-2 ?{star(<any>)}
-3 ?{star(<let>)}
-4 ?{repeatatleast(<any>,1)}
-5 ?{<any>}
-6 ?{<let>}

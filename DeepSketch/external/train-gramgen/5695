@@ -1,9 +1,0 @@
-1 ?{concat(<num>,repeatatleast(<m0>,4))}
-2 ?{repeatatleast(concat(<num>,<m0>),4)}
-3 ?{<num>,repeatatleast(<m0>,4)}
-4 ?{repeatatleast(<num>,4)}
-5 ?{concat(<num>,<m0>)}
-6 ?{repeatatleast(<m0>,4)}
-7 ?{<num>,<m0>}
-8 ?{<num>}
-9 ?{<m0>}

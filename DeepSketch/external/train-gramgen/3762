@@ -1,7 +1,0 @@
-1 ?{repeatatleast(or(<num>,<m0>),1)}
-2 ?{repeatatleast(<num>,1),<m0>}
-3 ?{repeatatleast(<num>,1)}
-4 ?{or(<num>,<m0>)}
-5 ?{<num>,<m0>}
-6 ?{<num>}
-7 ?{<m0>}

@@ -1,8 +1,0 @@
-1 ?{not(contain(startwith(<vow>)))}
-2 ?{not(startwith(<vow>))}
-3 ?{contain(startwith(<vow>))}
-4 ?{not(contain(<vow>))}
-5 ?{startwith(<vow>)}
-6 ?{not(<vow>)}
-7 ?{contain(<vow>)}
-8 ?{<vow>}

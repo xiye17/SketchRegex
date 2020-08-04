@@ -1,8 +1,0 @@
-1 ?{and(<let>,star(<cap>))}
-2 ?{<let>,star(<cap>)}
-3 ?{and(<let>,<cap>)}
-4 ?{star(<cap>)}
-5 ?{<let>,<cap>}
-6 ?{and(<let>,<let>)}
-7 ?{<let>}
-8 ?{<cap>}

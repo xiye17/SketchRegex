@@ -1,6 +1,0 @@
-1 ?{or(<any>,<vow>)}
-2 ?{<any>,<vow>}
-3 ?{<let>,<vow>}
-4 ?{<any>}
-5 ?{<vow>}
-6 ?{<let>}

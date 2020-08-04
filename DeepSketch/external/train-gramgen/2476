@@ -1,2 +1,0 @@
-1 ?{repeatatleast(<vow>,6)}
-2 ?{<vow>}

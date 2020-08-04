@@ -1,4 +1,0 @@
-1 ?{startwith(not(<any>))}
-2 ?{startwith(<any>)}
-3 ?{not(<any>)}
-4 ?{<any>}

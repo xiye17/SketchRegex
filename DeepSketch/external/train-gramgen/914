@@ -1,2 +1,0 @@
-1 ?{repeatatleast(<num>,7)}
-2 ?{<num>}

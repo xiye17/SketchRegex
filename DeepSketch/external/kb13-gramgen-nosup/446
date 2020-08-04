@@ -1,6 +1,0 @@
-1 ?{contain(and(<let>,<let>))}
-2 ?{and(contain(<let>),<let>)}
-3 ?{contain(<let>),<let>}
-4 ?{and(<let>,<let>)}
-5 ?{contain(<let>)}
-6 ?{<let>}

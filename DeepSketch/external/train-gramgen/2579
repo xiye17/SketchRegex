@@ -1,8 +1,0 @@
-1 ?{concat(repeatatleast(<low>,5),<let>)}
-2 ?{repeatatleast(<low>,5),<let>}
-3 ?{repeatatleast(<low>,5)}
-4 ?{concat(<low>,<let>)}
-5 ?{<low>,<let>}
-6 ?{<low>}
-7 ?{concat(<let>,<let>)}
-8 ?{<let>}

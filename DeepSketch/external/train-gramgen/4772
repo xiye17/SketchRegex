@@ -1,9 +1,0 @@
-1 ?{<any>,star(<cap>)}
-2 ?{<let>,star(<cap>)}
-3 ?{star(<cap>)}
-4 ?{<any>,<cap>}
-5 ?{<any>,<let>}
-6 ?{<let>,<cap>}
-7 ?{<any>}
-8 ?{<cap>}
-9 ?{<let>}

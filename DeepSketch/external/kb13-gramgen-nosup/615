@@ -1,4 +1,0 @@
-1 ?{contain(startwith(<m0>))}
-2 ?{startwith(<m0>)}
-3 ?{contain(<m0>)}
-4 ?{<m0>}

@@ -1,8 +1,0 @@
-1 ?{repeatatleast(<vow>,5),endwith(<num>)}
-2 ?{repeatatleast(<vow>,5),<num>}
-3 ?{repeatatleast(<vow>,5)}
-4 ?{<vow>,endwith(<num>)}
-5 ?{endwith(<num>)}
-6 ?{<vow>,<num>}
-7 ?{<vow>}
-8 ?{<num>}

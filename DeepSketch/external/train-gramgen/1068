@@ -1,9 +1,0 @@
-1 ?{star(<cap>),<low>}
-2 ?{star(<cap>),<let>}
-3 ?{<cap>,<low>}
-4 ?{star(<cap>)}
-5 ?{<let>,<low>}
-6 ?{<low>}
-7 ?{<cap>,<let>}
-8 ?{<cap>}
-9 ?{<let>}

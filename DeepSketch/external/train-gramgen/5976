@@ -1,4 +1,0 @@
-1 ?{startwith(not(<vow>))}
-2 ?{startwith(<vow>)}
-3 ?{not(<vow>)}
-4 ?{<vow>}

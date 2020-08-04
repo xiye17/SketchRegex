@@ -1,5 +1,0 @@
-1 ?{endwith(star(<num>))}
-2 ?{star(endwith(<num>))}
-3 ?{star(<num>)}
-4 ?{endwith(<num>)}
-5 ?{<num>}

@@ -1,9 +1,0 @@
-1 ?{<num>,startwith(<cap>)}
-2 ?{<num>,startwith(<let>)}
-3 ?{<num>,<cap>}
-4 ?{startwith(<cap>)}
-5 ?{<num>,<let>}
-6 ?{startwith(<let>)}
-7 ?{<cap>}
-8 ?{<num>}
-9 ?{<let>}

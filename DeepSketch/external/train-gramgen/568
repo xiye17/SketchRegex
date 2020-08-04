@@ -1,7 +1,0 @@
-1 ?{concat(star(<vow>),<m0>)}
-2 ?{star(<vow>),<m0>}
-3 ?{star(<vow>)}
-4 ?{concat(<vow>,<m0>)}
-5 ?{<vow>,<m0>}
-6 ?{<vow>}
-7 ?{<m0>}

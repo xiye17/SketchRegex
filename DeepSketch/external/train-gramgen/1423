@@ -1,9 +1,0 @@
-1 ?{concat(<m0>,star(<let>))}
-2 ?{star(concat(<m0>,<let>))}
-3 ?{<m0>,star(<let>)}
-4 ?{star(<let>)}
-5 ?{concat(<m0>,<let>)}
-6 ?{star(<m0>)}
-7 ?{<m0>,<let>}
-8 ?{<let>}
-9 ?{<m0>}

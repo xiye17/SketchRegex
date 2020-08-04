@@ -1,4 +1,0 @@
-1 ?{not(startwith(<num>))}
-2 ?{startwith(<num>)}
-3 ?{not(<num>)}
-4 ?{<num>}

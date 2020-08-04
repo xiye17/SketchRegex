@@ -1,8 +1,0 @@
-1 ?{concat(star(<any>),<let>)}
-2 ?{star(<any>),<let>}
-3 ?{star(<any>)}
-4 ?{concat(<any>,<let>)}
-5 ?{<any>,<let>}
-6 ?{concat(<let>,<let>)}
-7 ?{<any>}
-8 ?{<let>}

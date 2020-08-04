@@ -1,6 +1,0 @@
-1 ?{startwith(<let>),<m0>}
-2 ?{startwith(<let>)}
-3 ?{startwith(<m0>)}
-4 ?{<let>,<m0>}
-5 ?{<let>}
-6 ?{<m0>}

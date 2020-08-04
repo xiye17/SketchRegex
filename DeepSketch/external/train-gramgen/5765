@@ -1,7 +1,0 @@
-1 ?{and(<cap>,<let>)}
-2 ?{or(<cap>,<let>)}
-3 ?{<cap>,<let>}
-4 ?{and(<let>,<let>)}
-5 ?{or(<let>,<let>)}
-6 ?{<cap>}
-7 ?{<let>}

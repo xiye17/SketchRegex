@@ -1,9 +1,0 @@
-1 ?{concat(<vow>,repeatatleast(<let>,6))}
-2 ?{repeatatleast(concat(<vow>,<let>),6)}
-3 ?{<vow>,repeatatleast(<let>,6)}
-4 ?{repeatatleast(<vow>,6)}
-5 ?{repeatatleast(<let>,6)}
-6 ?{concat(<vow>,<let>)}
-7 ?{<vow>,<let>}
-8 ?{<vow>}
-9 ?{<let>}

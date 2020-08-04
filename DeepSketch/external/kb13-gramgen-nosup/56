@@ -1,6 +1,0 @@
-1 ?{contain(<num>),<m0>}
-2 ?{contain(<num>)}
-3 ?{contain(<m0>)}
-4 ?{<num>,<m0>}
-5 ?{<num>}
-6 ?{<m0>}

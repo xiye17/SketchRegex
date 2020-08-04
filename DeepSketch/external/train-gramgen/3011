@@ -1,7 +1,0 @@
-1 ?{concat(<num>,not(<m0>))}
-2 ?{<num>,not(<m0>)}
-3 ?{concat(<num>,<m0>)}
-4 ?{<num>,<m0>}
-5 ?{not(<m0>)}
-6 ?{<num>}
-7 ?{<m0>}

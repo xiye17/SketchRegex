@@ -1,5 +1,0 @@
-1 ?{startwith(repeatatleast(<let>,2))}
-2 ?{repeatatleast(startwith(<let>),2)}
-3 ?{repeatatleast(<let>,2)}
-4 ?{startwith(<let>)}
-5 ?{<let>}

@@ -1,5 +1,0 @@
-1 ?{not(star(<vow>))}
-2 ?{star(not(<vow>))}
-3 ?{star(<vow>)}
-4 ?{not(<vow>)}
-5 ?{<vow>}

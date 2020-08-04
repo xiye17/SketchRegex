@@ -1,6 +1,0 @@
-1 ?{contain(repeat(<vow>,2))}
-2 ?{contain(repeatrange(<vow>,1,2))}
-3 ?{contain(<vow>)}
-4 ?{repeat(<vow>,2)}
-5 ?{repeatrange(<vow>,1,2)}
-6 ?{<vow>}

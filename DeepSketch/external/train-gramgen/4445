@@ -1,7 +1,0 @@
-1 ?{or(<cap>,<vow>)}
-2 ?{<cap>,<vow>}
-3 ?{<cap>}
-4 ?{or(<let>,<vow>)}
-5 ?{<let>,<vow>}
-6 ?{<let>}
-7 ?{<vow>}

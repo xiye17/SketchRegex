@@ -1,9 +1,0 @@
-1 ?{contain(or(<let>,<any>))}
-2 ?{or(<let>,<any>)}
-3 ?{contain(<let>),<let>}
-4 ?{contain(<let>),<any>}
-5 ?{contain(<let>)}
-6 ?{<let>,<any>}
-7 ?{contain(<any>)}
-8 ?{<let>}
-9 ?{<any>}

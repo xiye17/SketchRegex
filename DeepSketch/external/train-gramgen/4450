@@ -1,5 +1,0 @@
-1 ?{contain(star(<vow>))}
-2 ?{star(contain(<vow>))}
-3 ?{star(<vow>)}
-4 ?{contain(<vow>)}
-5 ?{<vow>}

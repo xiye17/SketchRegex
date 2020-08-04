@@ -1,6 +1,0 @@
-1 ?{endwith(star(<any>))}
-2 ?{star(<any>)}
-3 ?{endwith(<any>)}
-4 ?{endwith(<let>)}
-5 ?{<any>}
-6 ?{<let>}

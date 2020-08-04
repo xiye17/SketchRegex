@@ -1,7 +1,0 @@
-1 ?{and(<vow>,startwith(<num>))}
-2 ?{<vow>,startwith(<num>)}
-3 ?{and(<vow>,<num>)}
-4 ?{<vow>,<num>}
-5 ?{startwith(<num>)}
-6 ?{<vow>}
-7 ?{<num>}

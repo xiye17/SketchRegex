@@ -1,7 +1,0 @@
-1 ?{star(or(<vow>,<let>))}
-2 ?{star(<vow>),<let>}
-3 ?{star(<vow>)}
-4 ?{or(<vow>,<let>)}
-5 ?{<vow>,<let>}
-6 ?{<vow>}
-7 ?{<let>}

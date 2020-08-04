@@ -1,8 +1,0 @@
-1 ?{startwith(star(<let>))}
-2 ?{startwith(star(<any>))}
-3 ?{star(<let>)}
-4 ?{star(<any>)}
-5 ?{startwith(<let>)}
-6 ?{startwith(<any>)}
-7 ?{<let>}
-8 ?{<any>}

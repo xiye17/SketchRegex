@@ -1,6 +1,0 @@
-1 ?{startwith(<m0>),<vow>}
-2 ?{startwith(<vow>)}
-3 ?{startwith(<m0>)}
-4 ?{<m0>,<vow>}
-5 ?{<vow>}
-6 ?{<m0>}

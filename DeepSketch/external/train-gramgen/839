@@ -1,8 +1,0 @@
-1 ?{startwith(or(<let>,<m0>))}
-2 ?{startwith(<let>),<m0>}
-3 ?{startwith(<let>)}
-4 ?{or(<let>,<m0>)}
-5 ?{startwith(<m0>)}
-6 ?{<let>,<m0>}
-7 ?{<let>}
-8 ?{<m0>}

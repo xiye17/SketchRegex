@@ -1,4 +1,0 @@
-1 ?{contain(<cap>)}
-2 ?{<cap>}
-3 ?{contain(<let>)}
-4 ?{<let>}

@@ -1,5 +1,0 @@
-1 ?{contain(repeatatleast(<m0>,4))}
-2 ?{repeatatleast(contain(<m0>),4)}
-3 ?{repeatatleast(<m0>,4)}
-4 ?{contain(<m0>)}
-5 ?{<m0>}

@@ -1,5 +1,0 @@
-1 ?{concat(<let>,<cap>)}
-2 ?{concat(<let>,<let>)}
-3 ?{<let>,<cap>}
-4 ?{<cap>}
-5 ?{<let>}

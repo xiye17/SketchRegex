@@ -1,6 +1,0 @@
-1 ?{contain(and(<m0>,<m0>))}
-2 ?{and(contain(<m0>),<m0>)}
-3 ?{contain(<m0>),<m0>}
-4 ?{and(<m0>,<m0>)}
-5 ?{contain(<m0>)}
-6 ?{<m0>}

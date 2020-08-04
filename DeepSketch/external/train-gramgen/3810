@@ -1,7 +1,0 @@
-1 ?{<let>,not(<low>)}
-2 ?{<let>,<low>}
-3 ?{not(<low>)}
-4 ?{<let>,not(<let>)}
-5 ?{<low>}
-6 ?{<let>}
-7 ?{not(<let>)}

@@ -1,9 +1,0 @@
-1 ?{contain(concat(<m0>,<m1>))}
-2 ?{concat(contain(<m0>),<m1>)}
-3 ?{contain(<m0>),<m1>}
-4 ?{concat(<m0>,<m1>)}
-5 ?{contain(<m0>)}
-6 ?{contain(<m1>)}
-7 ?{<m0>,<m1>}
-8 ?{<m0>}
-9 ?{<m1>}

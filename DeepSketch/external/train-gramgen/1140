@@ -1,4 +1,0 @@
-1 ?{startwith(repeatatleast(<vow>,2))}
-2 ?{repeatatleast(<vow>,2)}
-3 ?{startwith(<vow>)}
-4 ?{<vow>}

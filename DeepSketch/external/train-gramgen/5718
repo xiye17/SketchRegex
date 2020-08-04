@@ -1,7 +1,0 @@
-1 ?{contain(<let>),<let>}
-2 ?{contain(<any>),<let>}
-3 ?{<any>,<let>}
-4 ?{contain(<let>)}
-5 ?{contain(<any>)}
-6 ?{<let>}
-7 ?{<any>}

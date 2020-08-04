@@ -1,8 +1,0 @@
-1 ?{endwith(or(<num>,<let>))}
-2 ?{endwith(<num>),<let>}
-3 ?{endwith(<num>)}
-4 ?{or(<num>,<let>)}
-5 ?{endwith(<let>)}
-6 ?{<num>,<let>}
-7 ?{<num>}
-8 ?{<let>}

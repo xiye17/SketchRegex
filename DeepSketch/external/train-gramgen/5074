@@ -1,9 +1,0 @@
-1 ?{startwith(concat(<m0>,<let>))}
-2 ?{concat(startwith(<m0>),<let>)}
-3 ?{startwith(<m0>),<let>}
-4 ?{concat(<m0>,<let>)}
-5 ?{startwith(<let>)}
-6 ?{startwith(<m0>)}
-7 ?{<m0>,<let>}
-8 ?{<let>}
-9 ?{<m0>}

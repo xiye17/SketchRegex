@@ -1,8 +1,0 @@
-1 ?{endwith(repeatatleast(<let>,5))}
-2 ?{endwith(repeatatleast(<any>,5))}
-3 ?{repeatatleast(<let>,5)}
-4 ?{repeatatleast(<any>,5)}
-5 ?{endwith(<let>)}
-6 ?{endwith(<any>)}
-7 ?{<let>}
-8 ?{<any>}

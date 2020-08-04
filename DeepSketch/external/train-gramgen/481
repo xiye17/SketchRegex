@@ -1,4 +1,0 @@
-1 ?{contain(repeatatleast(<num>,1))}
-2 ?{contain(<num>)}
-3 ?{repeatatleast(<num>,1)}
-4 ?{<num>}

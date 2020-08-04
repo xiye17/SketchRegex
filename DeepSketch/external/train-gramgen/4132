@@ -1,9 +1,0 @@
-1 ?{not(concat(<vow>,<num>))}
-2 ?{concat(not(<vow>),<num>)}
-3 ?{not(<vow>),<num>}
-4 ?{concat(<vow>,<num>)}
-5 ?{not(<vow>)}
-6 ?{not(<num>)}
-7 ?{<vow>,<num>}
-8 ?{<vow>}
-9 ?{<num>}

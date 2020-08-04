@@ -1,4 +1,0 @@
-1 ?{not(endwith(<num>))}
-2 ?{endwith(<num>)}
-3 ?{not(<num>)}
-4 ?{<num>}

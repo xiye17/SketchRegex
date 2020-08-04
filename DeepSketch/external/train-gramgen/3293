@@ -1,5 +1,0 @@
-1 ?{and(<let>,<vow>)}
-2 ?{or(<let>,<vow>)}
-3 ?{<let>,<vow>}
-4 ?{<let>}
-5 ?{<vow>}

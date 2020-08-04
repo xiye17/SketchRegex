@@ -1,9 +1,0 @@
-1 ?{<num>,endwith(<any>)}
-2 ?{<num>,endwith(<let>)}
-3 ?{<num>,<any>}
-4 ?{endwith(<any>)}
-5 ?{<num>,<let>}
-6 ?{endwith(<let>)}
-7 ?{<num>}
-8 ?{<any>}
-9 ?{<let>}

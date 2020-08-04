@@ -1,4 +1,0 @@
-1 ?{endwith(repeatatleast(<vow>,7))}
-2 ?{repeatatleast(<vow>,7)}
-3 ?{endwith(<vow>)}
-4 ?{<vow>}

@@ -1,5 +1,0 @@
-1 ?{repeat(<let>,2)}
-2 ?{repeatrange(<let>,1,2)}
-3 ?{repeat(<let>,5)}
-4 ?{repeatrange(<let>,1,5)}
-5 ?{<let>}

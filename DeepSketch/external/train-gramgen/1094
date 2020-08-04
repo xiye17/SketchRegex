@@ -1,7 +1,0 @@
-1 ?{concat(<cap>,<any>)}
-2 ?{<cap>,<any>}
-3 ?{concat(<let>,<any>)}
-4 ?{<cap>}
-5 ?{<let>,<any>}
-6 ?{<let>}
-7 ?{<any>}

@@ -1,4 +1,0 @@
-1 ?{repeatatleast(<cap>,1)}
-2 ?{repeatatleast(<let>,1)}
-3 ?{<cap>}
-4 ?{<let>}

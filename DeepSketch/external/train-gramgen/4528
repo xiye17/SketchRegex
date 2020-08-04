@@ -1,5 +1,0 @@
-1 ?{repeatatleast(<m0>,7),<vow>}
-2 ?{repeatatleast(<m0>,7)}
-3 ?{<m0>,<vow>}
-4 ?{<vow>}
-5 ?{<m0>}

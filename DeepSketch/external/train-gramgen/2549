@@ -1,4 +1,0 @@
-1 ?{contain(repeatatleast(<let>,4))}
-2 ?{repeatatleast(<let>,4)}
-3 ?{contain(<let>)}
-4 ?{<let>}

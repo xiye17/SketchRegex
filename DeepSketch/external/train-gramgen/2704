@@ -1,8 +1,0 @@
-1 ?{star(or(<num>,<vow>))}
-2 ?{<num>,star(<vow>)}
-3 ?{star(<num>)}
-4 ?{star(<vow>)}
-5 ?{or(<num>,<vow>)}
-6 ?{<num>,<vow>}
-7 ?{<num>}
-8 ?{<vow>}

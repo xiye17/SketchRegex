@@ -1,9 +1,0 @@
-1 ?{concat(<let>,star(<vow>))}
-2 ?{star(concat(<let>,<vow>))}
-3 ?{<let>,star(<vow>)}
-4 ?{star(<vow>)}
-5 ?{star(<let>)}
-6 ?{concat(<let>,<vow>)}
-7 ?{<let>,<vow>}
-8 ?{<vow>}
-9 ?{<let>}

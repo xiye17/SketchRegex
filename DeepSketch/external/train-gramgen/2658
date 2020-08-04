@@ -1,9 +1,0 @@
-1 ?{<vow>,contain(<cap>)}
-2 ?{<vow>,<cap>}
-3 ?{contain(<cap>)}
-4 ?{<vow>,contain(<let>)}
-5 ?{<cap>}
-6 ?{<vow>,<let>}
-7 ?{contain(<let>)}
-8 ?{<vow>}
-9 ?{<let>}

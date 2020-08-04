@@ -1,8 +1,0 @@
-1 ?{or(<low>,<any>)}
-2 ?{<low>,<any>}
-3 ?{<low>,<let>}
-4 ?{or(<let>,<any>)}
-5 ?{<low>}
-6 ?{<let>,<any>}
-7 ?{<any>}
-8 ?{<let>}

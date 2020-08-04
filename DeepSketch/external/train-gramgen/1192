@@ -1,7 +1,0 @@
-1 ?{star(or(<let>,<num>))}
-2 ?{star(<let>),<num>}
-3 ?{star(<let>)}
-4 ?{or(<let>,<num>)}
-5 ?{<let>,<num>}
-6 ?{<let>}
-7 ?{<num>}

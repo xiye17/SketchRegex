@@ -1,9 +1,0 @@
-1 ?{or(<num>,<cap>),<let>}
-2 ?{<num>,<cap>,<let>}
-3 ?{or(<num>,<cap>)}
-4 ?{<num>,<cap>}
-5 ?{<cap>,<let>}
-6 ?{<cap>}
-7 ?{<num>,<let>}
-8 ?{<num>}
-9 ?{<let>}

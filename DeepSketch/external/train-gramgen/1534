@@ -1,4 +1,0 @@
-1 ?{not(endwith(<vow>))}
-2 ?{endwith(<vow>)}
-3 ?{not(<vow>)}
-4 ?{<vow>}

@@ -1,6 +1,0 @@
-1 ?{contain(contain(repeatatleast(<let>,1)))}
-2 ?{contain(contain(<let>))}
-3 ?{contain(repeatatleast(<let>,1))}
-4 ?{contain(<let>)}
-5 ?{repeatatleast(<let>,1)}
-6 ?{<let>}

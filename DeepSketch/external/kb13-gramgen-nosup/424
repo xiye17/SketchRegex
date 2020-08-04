@@ -1,9 +1,0 @@
-1 ?{contain(and(<m0>,<num>))}
-2 ?{and(contain(<m0>),<num>)}
-3 ?{contain(<m0>),<num>}
-4 ?{and(<m0>,<num>)}
-5 ?{contain(<m0>)}
-6 ?{contain(<num>)}
-7 ?{<m0>,<num>}
-8 ?{<m0>}
-9 ?{<num>}

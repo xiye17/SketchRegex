@@ -1,4 +1,0 @@
-1 ?{endwith(<any>)}
-2 ?{endwith(<let>)}
-3 ?{<any>}
-4 ?{<let>}

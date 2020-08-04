@@ -1,6 +1,0 @@
-1 ?{contain(<vow>),<let>}
-2 ?{contain(<vow>)}
-3 ?{<vow>,<let>}
-4 ?{contain(<let>)}
-5 ?{<vow>}
-6 ?{<let>}

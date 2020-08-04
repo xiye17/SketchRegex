@@ -1,8 +1,0 @@
-1 ?{startwith(not(<any>))}
-2 ?{startwith(not(<let>))}
-3 ?{startwith(<any>)}
-4 ?{startwith(<let>)}
-5 ?{not(<any>)}
-6 ?{not(<let>)}
-7 ?{<any>}
-8 ?{<let>}

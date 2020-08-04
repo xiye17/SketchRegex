@@ -1,7 +1,0 @@
-1 ?{repeatatleast(or(<m0>,<any>),7)}
-2 ?{or(<m0>,<any>)}
-3 ?{<m0>,<let>}
-4 ?{<m0>,<any>}
-5 ?{<m0>}
-6 ?{<let>}
-7 ?{<any>}

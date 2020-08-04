@@ -1,5 +1,0 @@
-1 ?{contain(star(<any>))}
-2 ?{star(contain(<any>))}
-3 ?{star(<any>)}
-4 ?{contain(<any>)}
-5 ?{<any>}

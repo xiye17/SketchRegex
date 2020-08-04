@@ -1,8 +1,0 @@
-1 ?{not(contain(repeatatleast(<let>,3)))}
-2 ?{not(repeatatleast(<let>,3))}
-3 ?{contain(repeatatleast(<let>,3))}
-4 ?{repeatatleast(<let>,3)}
-5 ?{not(contain(<let>))}
-6 ?{not(<let>)}
-7 ?{contain(<let>)}
-8 ?{<let>}

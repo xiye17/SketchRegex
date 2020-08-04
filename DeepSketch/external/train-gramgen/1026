@@ -1,4 +1,0 @@
-1 ?{not(contain(<vow>))}
-2 ?{not(<vow>)}
-3 ?{contain(<vow>)}
-4 ?{<vow>}

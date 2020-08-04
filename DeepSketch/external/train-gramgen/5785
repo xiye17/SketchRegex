@@ -1,7 +1,0 @@
-1 ?{and(<num>,<low>)}
-2 ?{<num>,<low>}
-3 ?{and(<num>,<let>)}
-4 ?{<low>}
-5 ?{<num>,<let>}
-6 ?{<num>}
-7 ?{<let>}

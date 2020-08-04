@@ -1,8 +1,0 @@
-1 ?{contain(or(<m0>,<vow>))}
-2 ?{contain(<m0>),<vow>}
-3 ?{or(<m0>,<vow>)}
-4 ?{contain(<vow>)}
-5 ?{<m0>,<vow>}
-6 ?{contain(<m0>)}
-7 ?{<vow>}
-8 ?{<m0>}

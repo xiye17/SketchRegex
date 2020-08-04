@@ -1,7 +1,0 @@
-1 ?{<let>,startwith(<let>)}
-2 ?{<let>,startwith(<any>)}
-3 ?{<let>,<any>}
-4 ?{startwith(<let>)}
-5 ?{startwith(<any>)}
-6 ?{<let>}
-7 ?{<any>}

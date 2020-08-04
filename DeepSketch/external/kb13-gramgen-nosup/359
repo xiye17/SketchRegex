@@ -1,4 +1,0 @@
-1 ?{contain(endwith(<vow>))}
-2 ?{endwith(<vow>)}
-3 ?{contain(<vow>)}
-4 ?{<vow>}

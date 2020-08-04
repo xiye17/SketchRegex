@@ -1,7 +1,0 @@
-1 ?{concat(repeatatleast(<num>,7),<let>)}
-2 ?{repeatatleast(<num>,7),<let>}
-3 ?{repeatatleast(<num>,7)}
-4 ?{concat(<num>,<let>)}
-5 ?{<num>,<let>}
-6 ?{<let>}
-7 ?{<num>}

@@ -1,5 +1,0 @@
-1 ?{and(<vow>,<num>)}
-2 ?{or(<vow>,<num>)}
-3 ?{<vow>,<num>}
-4 ?{<vow>}
-5 ?{<num>}
