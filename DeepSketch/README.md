@@ -1,6 +1,6 @@
 # DeepSketch -- SketchRegex
 
-Code for DeepSketch and re-implementation of [DeepRegex](https://arxiv.org/abs/1608.03000) and [SemRegex] (https://www.aclweb.org/anthology/D18-1189)(refered as ***DeepRegex+MML*** in our paper) as baselines
+Code for DeepSketch and re-implementation of [DeepRegex](https://arxiv.org/abs/1608.03000) and [SemRegex](https://www.aclweb.org/anthology/D18-1189)(refered as ***DeepRegex+MML*** in our paper) as baselines
  
  ## Run Baselines
  
