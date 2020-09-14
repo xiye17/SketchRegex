@@ -20,4 +20,11 @@ Data and code for the paper ["Sketch-Driven Regular Expression Generation from N
  
  ## Code
  
- Our sketch-driven framework can be instatiated with either a neural parser [`DeepSketch`],or a grammar-based parser [`GrammarSketch`] (coming soon). Please refer to the **README** of each module for details.
+ Our sketch-driven framework can be instatiated with either
+ * a neural parser [`DeepSketch`]
+ 
+ or
+ 
+ * a grammar-based parser [`GrammarSketch`]. (Code comming soon. For now, please refer to [Regal, "Multi-Modal Synthesis of Regular Expressions"](https://github.com/utopia-group/regel), which uses the same grammar based-parser with slightly different grammar rules.)
+ 
+ Please refer to the **README** of each module for details.
