@@ -5,6 +5,8 @@ import numpy as np
 import multiprocessing as mp
 import argparse
 from external.regexDFAEquals import dfa_eual_test
+import sys
+import subprocess
 
 
 def _parse_args():
@@ -15,6 +17,7 @@ def _parse_args():
     parser.add_argument('--split', type=str, default='test', help='test split')
     parser.add_argument('--cache_id', type=str, default="cache", help='cache_id')
     parser.add_argument('--decoder_len_limit', type=int, default=50, help='output length limit of the decoder')
+    parser.add_argument('--do_filter', default=False, action='store_true', help='run filtering on regex dataset')
 
     args = parser.parse_args()
     return args
@@ -45,13 +48,15 @@ def print_stats(stats):
         if all([(x == "null" or x == "wrong" or x == "timeout") for x in results]):
             null.append(i)
     
-    easy_print = lambda x, y: print(x, len(y))
-    easy_print("First true", first_true)
-    easy_print("First false", first_false)
-    easy_print("Cover", cover)
-    easy_print("Empty", empty)
-    easy_print("Null", null)
-    print('{:.3f}'.format((len(first_true) + len(empty))/len(stats)))
+    # easy_print = lambda x, y: print(x, len(y))
+    # easy_print("First true", first_true)
+    # easy_print("First false", first_false)
+    # easy_print("Cover", cover)
+    # easy_print("Empty", empty)
+    # easy_print("Null", null)
+    print('wrong synthesized results: {:.3f}'.format(len(first_false)/len(stats)))
+    print('time-out: {:.3f}'.format(len(null)/len(stats)))
+    print('semantic acc: {:.3f}'.format((len(first_true) + len(empty))/len(stats)))
 
 def debug_stats(stats):
     first_true = []
@@ -169,9 +174,40 @@ def dfa_acc_evaluate(test_data, pred_derivations, split, cache):
         if  result != 'false':
             num_denotation_match += 1
 
-    print("Exact logical form matches: %s" % (render_ratio(num_exact_match, len(test_data))))
-    print("Denotation matches: %s" % (render_ratio(num_denotation_match, len(test_data))))
+    print("exact-match acc: %s" % (render_ratio(num_exact_match, len(test_data))))
+    print("semantic acc: %s" % (render_ratio(num_denotation_match, len(test_data))))
     
+def run_filtering_test(args):
+    print('Run filter')
+    if args.dataset == 'KB13':
+        mode = 'kb13'
+        dataset_id = 'kb'
+    elif args.dataset == 'Turk':
+        mode = 'dr'
+        dataset_id = 'turk'
+    else:
+        raise RuntimeError('Dataset is not supposed to run filtering test')
+    
+    example_path = join('external/examples/', dataset_id, f'example-{args.split}') + '/'
+    decodes_path = join('decodes/', args.dataset, '{}-{}'.format(args.split, args.model_id)) + '/'
+    cmd = ["java", "-cp", "external/run_filter.jar:external/lib/*", "-ea", "datagen.Main", mode, 'filter', example_path , decodes_path]
+    out = subprocess.check_output(cmd, stderr=subprocess.DEVNULL)
+    out = out.decode('utf-8')
+
+
+    test, input_indexer, output_indexer = load_test_dataset(args.dataset, args.split)
+    test_data_indexed = index_data(test, input_indexer, output_indexer, args.decoder_len_limit)
+    test_data_indexed = filter_data(test_data_indexed)
+
+    # invalid ones
+    out = out.split()
+    coverage = int(out[0])
+    match = int(out[1])
+
+    # print(coverage, out)
+    print('consistent found: {:.3f}'.format(coverage/len(test)))
+    print('semantic ac: {:.3f}'.format(match/len(test)))
+
 if __name__ == "__main__":
 
     args = _parse_args()
@@ -181,6 +217,9 @@ if __name__ == "__main__":
     if args.oracle_mode == 'sketch':
         cache = SynthCache(args.cache_id, args.dataset)
     else:
+        if args.do_filter:
+            run_filtering_test(args)
+            exit()
         cache = DFACache(args.cache_id, args.dataset)
 
     test, input_indexer, output_indexer = load_test_dataset(args.dataset, args.split)
