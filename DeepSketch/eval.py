@@ -181,7 +181,7 @@ def run_filtering_test(args):
     print('Run filter')
     if args.dataset == 'KB13':
         mode = 'kb13'
-        dataset_id = 'kb'
+        dataset_id = 'kb13'
     elif args.dataset == 'Turk':
         mode = 'dr'
         dataset_id = 'turk'
@@ -201,6 +201,7 @@ def run_filtering_test(args):
 
     # invalid ones
     out = out.split()
+    # print(out)
     coverage = int(out[0])
     match = int(out[1])
 
